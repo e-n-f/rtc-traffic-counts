@@ -1,0 +1,30 @@
+#!/usr/bin/perl
+
+system "curl --compress -O http://www.rtc.wa.gov/data/traffic/code/arrIntersections.js";
+
+open(IN, "arrIntersections.js");
+while (<IN>) {
+	if (/id:([0-9]+)/) {
+		$ids{$1} = 1;
+	}
+}
+close(IN);
+
+for $id (keys(%ids)) {
+	%pdfs = ();
+	mkdir "$id";
+	print "$id\n";
+
+	open(IN, "curl --compress 'www.rtc.wa.gov/data/traffic/intersection.asp?id=$id' |");
+	open(OUT, ">$id/index.html");
+	while (<IN>) {
+		print OUT;
+		if (/\/([^\/']*\.PDF)/) {
+			$pdf = $1;
+			print "$pdf\n";
+			system "curl --compress -o '$id/$pdf' 'http://www.rtc.wa.gov/data/traffic/scans/$pdf'";
+		}
+	}
+	close(IN);
+	close(OUT);
+}
