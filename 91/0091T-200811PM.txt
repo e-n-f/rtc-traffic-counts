@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Andresen Rd -- SE Mill Plain Blvd                                                                                QC JOB #: 10396513
+ CITY/STATE: Vancouver, WA                                                                                                  DATE: 11/20/2008
+                       789 0.78 826                           Peak-Hour: 4:00 PM -- 5:00 PM                                  2.8       1.6
+
+                       152 368 269
+                                                             Peak 15-Min: 4:20 PM -- 4:35 PM
+                                                                                                                             0.7 4.9 1.1
+
+       644     278                    308    835
+                                                                                                               1.1   1.1                       0.3      1.0
+        0.87   562         0.91       451   0.91
+                                                                                                                     1.8                       1.3
+       878     38                      76    883
+                                                                                                               2.1   13.2                      1.3      1.6
+
+                       41 240 51
+                                                                                                                             0.0 3.8 2.0
+
+                       481 0.94 332
+                                                                                                                             5.0       3.0
+
+
+
+                            7
+
+
+
+
+               0                        2
+
+
+
+
+                            8
+
+
+
+
+ 5-Min Count               Andresen Rd                    Andresen Rd            SE Mill Plain Blvd           SE Mill Plain Blvd
+     Period                (Northbound)                   (Southbound)             (Eastbound)                  (Westbound)                              Hourly
+Beginning At                                                                                                                                 Total
+                    Left    Thru Right     U       Left    Thru Right    U   Left Thru Right          U   Left Thru Right          U                     Totals
+     4:00 PM          2      16       0    0        16      19    10     0    23    40        9       0     8     44      22       0         209
+     4:05 PM          6      24      10    0        19      21    17     0     9    54        3       0    11     43      31       0         248
+     4:10 PM          3      28       3    0        26      28    17     0    19    52        5       0     5     48      17       0         251
+     4:15 PM          3      14       0    0         7      31    12     0    41    54        3       0     8     23      26       0         222
+     4:20 PM          0      18       5    0        24      21    14     0    10    52        3       0     8     52      29       0         236
+     4:25 PM          4      17       5    0        18      91     9     0    30    45        4       0     7     31      28       0         289
+     4:30 PM          1      26       7    0        31      31    11     0    34    47        5       0     6     26      30       1         256
+     4:35 PM          6      19       5    0        23      34    10     0    12    39        2       0     1     48      21       0         220
+     4:40 PM         11      11       6    0        28      24    17     0    33    41        1       0     4     38      24       0         238
+     4:45 PM          0      23       3    0        24      22    13     0    26    42        0       0     7     33      24       0         217
+     4:50 PM          0      19       3    0        23      27    12     0    23    39        1       0     7     39      36       0         229
+     4:55 PM          5      25       4    0        30      19    10     0    18    57        2       0     3     26      20       0         219             2834
+     5:00 PM          4      25       3    0        20      23     9     0    18    40        4       0     4     28      18       0         196             2821
+     5:05 PM          4      18       2    0        23      35    10     0    26    43        3       0     6     29      28       0         227             2800
+     5:10 PM          5      17       1    0        15      15     9     0    26    53        3       0     4     32      36       0         216             2765
+     5:15 PM          1      21       7    0        24      30    12     0    24    64        7       0     4     39      28       0         261             2804
+     5:20 PM          4      23       4    0        21      33    13     0    21    41        6       0     2     32      26       0         226             2794
+     5:25 PM          4      16       1    0        21      19     8     0    36    53        5       0     3     40      17       0         223             2728
+     5:30 PM          9      29       2    0        18      21    12     0    24    29        2       0     7     23      31       0         207             2679
+     5:35 PM          0      15       4    0        23      21     9     0    18    43        3       0     2     32      28       0         198             2657
+     5:40 PM          1      15       4    0        19      13     8     1    22    32        3       0     5     30      23       0         176             2595
+     5:45 PM          3      14       2    0        24      19     9     0    15    25        4       0     5     27      20       0         167             2545
+     5:50 PM          4      12       5    0        22      13    11     0    17    35        4       0     3     24      21       0         171             2487
+     5:55 PM          3      11       1    0         5      17     7     0    17    22        3       0     5     24      25       0         140             2408
+ Peak 15-Min                    Northbound                    Southbound                Eastbound                    Westbound
+                                                                                                                                                     Total
+  Flowrates         Left    Thru Right     U       Left    Thru Right    U   Left Thru Right          U   Left Thru Right          U
+  All Vehicles       20     244      68    0       292     572   136     0   296   576       48       0    84    436     348       4                 3124
+ Heavy Trucks         0       4       4              8      12     4           4    12        4             4      8       0                          64
+  Pedestrians                 4                              0                       0                             0                                   4
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 2/27/2009 4:47 PM                                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

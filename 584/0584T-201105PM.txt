@@ -1,0 +1,79 @@
+Type of peak hour being reported: System Peak                                                     Method for determining peak hour: Total Entering Volume
+ LOCATION: Garfield St -- 3rd Ave                                                                                                QC JOB #: 10624501
+ CITY/STATE: Camas , OR                                                                                                          DATE: 5/26/2011
+                       322 1.00 234                                 Peak-Hour: 4:50 PM -- 5:50 PM                                 0.6       1.7
+
+                          97    0     225
+                                                                   Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                                  2.1 0.0 0.0
+
+       337     68                           166    406
+                                                                                                                     1.5   1.5                      1.8      1.5
+        0.91   377             0.94         240   0.84
+                                                                                                                           2.7                      1.3
+       445     0                              0    602
+                                                                                                                     2.5   0.0                      0.0      1.7
+
+                           0    0      0
+                                                                                                                                  0.0 0.0 0.0
+
+                           0   0.00    0
+                                                                                                                                  0.0       0.0
+
+
+
+                                1                                                                                                 0     0   0
+
+
+                                                                                                                           0                         0
+
+               3                              6                                                                            0                         0
+
+                                                                                                                           0                         0
+
+
+                                0                                                                                                 0     0   0
+
+
+
+
+ 5-Min Count                     Garfield St                      Garfield St               3rd Ave                      3rd Ave
+     Period                    (Northbound)                     (Southbound)              (Eastbound)                 (Westbound)                             Hourly
+Beginning At                                                                                                                                      Total
+                    Left        Thru Right     U         Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U                     Totals
+     4:00 PM          0           0       0    0          23       0      11   0     2     30      0      0     0       19     15       0         100
+     4:05 PM          0           0       0    0          15       0      18   0     8     30      0      0     0       20     17       0         108
+     4:10 PM          0           0       0    0          26       0       8   0     8     20      0      0     0       29     14       0         105
+     4:15 PM          0           0       0    0          29       0       6   0     3     24      0      0     0       20     15       0          97
+     4:20 PM          0           0       0    0          22       0       7   0    10     30      0      0     0       19     16       0         104
+     4:25 PM          0           0       0    0          18       0       4   0     3     23      0      0     0       21     15       0          84
+     4:30 PM          0           0       0    0          27       0      13   0     6     33      0      0     0       24     10       0         113
+     4:35 PM          0           0       0    0          17       0       9   0     7     21      0      0     0       32     10       0          96
+     4:40 PM          0           0       0    0          24       0      11   0     4     30      0      0     0       21     18       0         108
+     4:45 PM          0           0       0    0          16       0      12   0     5     32      0      0     0       21     20       0         106
+     4:50 PM          0           0       0    0          19       0      10   0     5     36      0      0     0       17      6       0          93
+     4:55 PM          0           0       0    0          15       0       8   0     8     39      0      0     0       25     15       0         110             1224
+     5:00 PM          0           0       0    0          28       0       7   0     3     35      0      0     0       20     12       0         105             1229
+     5:05 PM          0           0       0    0          19       0       6   0     8     30      0      0     0       21     16       0         100             1221
+     5:10 PM          0           0       0    0          14       0       9   0     3     31      0      0     0       23     17       0          97             1213
+     5:15 PM          0           0       0    0          17       0       5   0     8     42      0      0     0       27     17       0         116             1232
+     5:20 PM          0           0       0    0          21       0      10   0     5     28      0      0     0       17     15       0          96             1224
+     5:25 PM          0           0       0    0          17       0      10   0     9     20      0      0     0       20     14       0          90             1230
+     5:30 PM          0           0       0    0          17       0       9   0     5     35      0      0     0       16     14       0          96             1213
+     5:35 PM          0           0       0    0          18       0       8   0     5     30      0      0     0       18     10       0          89             1206
+     5:40 PM          0           0       0    0          19       0       8   0     4     27      0      0     0       19     11       0          88             1186
+     5:45 PM          0           0       0    0          21       0       7   0     5     24      0      0     0       17     19       0          93             1173
+     5:50 PM          0           0       0    0          25       0       7   0     7     28      0      0     0       20     19       0         106             1186
+     5:55 PM          0           0       0    0          13       0       5   0    10     29      0      0     0       18      8       0          83             1159
+ Peak 15-Min                        Northbound                      Southbound                Eastbound                    Westbound
+                                                                                                                                                          Total
+  Flowrates         Left        Thru Right     U         Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles        0           0       0    0         200       0      80   0    76    412      0      0     0      284    200       0                 1252
+ Heavy Trucks         0           0       0                0       0       4         0      8      0            0        4      0                          16
+  Pedestrians                     0                                0                        0                            4                                  4
+   Bicycles           0           0       0                0       0       0         0      0      0            0        0      0                           0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/16/2011 12:25 PM                                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

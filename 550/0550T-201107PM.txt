@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                     Method for determining peak hour: Total Entering Volume
+ LOCATION: NW 36th Ave -- NW McCann Rd                                                                                 QC JOB #: 10637107
+ CITY/STATE: Vancouver, WA                                                                                             DATE: 7/14/2011
+                   327 0.90 329                          Peak-Hour: 5:00 PM -- 6:00 PM                                  1.5       2.1
+
+                   59 267    1
+                                                        Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                        0.0 1.9 0.0
+
+       143    54                  3       6
+                                                                                                           0.7   3.7                      0.0      0.0
+       0.79   0       0.95        0   0.67
+                                                                                                                 0.0                      0.0
+       127    73                  3       9
+                                                                                                           2.4   1.4                      0.0     11.1
+
+                   84 272    8
+                                                                                                                        1.2 1.8 12.5
+
+                   343 0.88 364
+                                                                                                                        1.7       1.9
+
+
+
+                        0                                                                                               0     3   0
+
+
+                                                                                                                 0                         0
+
+              0                   5                                                                              0                         0
+
+                                                                                                                 0                         0
+
+
+                        0                                                                                               0     3   0
+
+
+
+
+ 5-Min Count          NW 36th Ave                     NW 36th Ave              NW McCann Rd                NW McCann Rd
+     Period           (Northbound)                   (Southbound)               (Eastbound)                 (Westbound)                               Hourly
+Beginning At Left                                                                                                                       Total
+                       Thru Right     U       Left    Thru Right    U   Left    Thru Right      U   Left     Thru Right       U                       Totals
+     4:00 PM     7      17       0    0         0      14      2    0     5       0      6      0     0        0      0       0          51
+     4:05 PM    12      20       0    0         1      16      5    0     4       0      1      0     0        0      0       0          59
+     4:10 PM     5      13       0    0         0      17      5    0     4       0      2      0     0        0      0       0          46
+     4:15 PM    10      18       4    0         0      13      2    0     0       0      2      0     1        0      0       0          50
+     4:20 PM     9      20       0    0         0      13      0    0     6       0      3      0     0        0      0       0          51
+     4:25 PM     8      14       0    0         0      16      7    0     2       0      7      0     0        0      1       0          55
+     4:30 PM     7      20       0    0         0      20      4    0     1       0      3      0     0        0      0       0          55
+     4:35 PM     5      21       0    0         1      21      4    0     6       0      5      0     2        0      0       0          65
+     4:40 PM     8      18       0    0         1      11      8    0     1       0      3      0     0        0      0       0          50
+     4:45 PM     3      16       1    0         0      20      5    0     8       0      8      0     1        0      0       0          62
+     4:50 PM     9      20       0    0         0      23      3    0     2       0      2      0     1        0      0       0          60
+     4:55 PM     7      26       0    0         0      15      5    0     1       0      2      0     0        0      0       0          56              660
+     5:00 PM     4      21       0    0         0      17      4    0     3       0      5      0     0        0      0       0          54              663
+     5:05 PM     7      19       0    0         0      27      1    0     5       0      7      0     0        0      0       0          66              670
+     5:10 PM     5      21       0    0         1      17      8    0     1       0      8      0     0        0      1       0          62              686
+     5:15 PM    13      19       0    0         0      27      6    0     6       0      7      0     0        0      1       0          79              715
+     5:20 PM     8      25       2    0         0      18      8    0     4       0      4      0     0        0      0       0          69              733
+     5:25 PM    10      26       1    0         0      23      1    0     1       0      7      0     0        0      0       0          69              747
+     5:30 PM     8      22       1    0         0      25      5    0     5       0      3      0     2        0      0       0          71              763
+     5:35 PM     9      23       2    0         0      18      9    0     9       0      4      0     0        0      0       0          74              772
+     5:40 PM     4      26       0    0         0      18      3    0     5       0      5      0     1        0      1       0          63              785
+     5:45 PM     3      18       1    0         0      26      2    0     7       0     10      0     0        0      0       0          67              790
+     5:50 PM     7      27       0    0         0      28      7    0     3       0      6      0     0        0      0       0          78              808
+     5:55 PM     6      25       1    0         0      23      5    0     5       0      7      0     0        0      0       0          72              824
+ Peak 15-Min               Northbound                    Southbound                 Eastbound                    Westbound
+                                                                                                                                                Total
+  Flowrates    Left    Thru Right     U       Left    Thru Right    U   Left    Thru Right      U   Left     Thru Right       U
+  All Vehicles 124     280      12    0         0     272     60    0    44       0     72      0     0        0      4       0                 868
+ Heavy Trucks    0       4       0              0       4      0          4       0      4            0        0      0                         16
+  Pedestrians            0                              0                         0                            4                                 4
+   Bicycles      0       1       0              0       0      0          0       0      0            0        0      0                          1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/18/2011 7:03 PM                                                SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: NE Four Seasons Ln -- NE 18th St                                                                                 QC JOB #: 10310923
+ CITY/STATE: Vancouver, WA                                                                                                  DATE: 12/11/2007
+                       34 0.68 35                             Peak-Hour: 4:40 PM -- 5:40 PM                                  2.9       0.0
+
+                       9    0     25
+                                                             Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                             0.0 0.0 4.0
+
+       408     12                       23    422
+                                                                                                                0.7   0.0                      0.0      0.7
+        0.90   644         0.92        399   0.82
+                                                                                                                      2.0                      0.8
+       656     0                         0    669
+                                                                                                                2.0   0.0                      0.0      2.1
+
+                       0    0     0
+                                                                                                                             0.0 0.0 0.0
+
+                       0   0.00   0
+                                                                                                                             0.0       0.0
+
+
+
+                            0
+
+
+
+
+               0                         0
+
+
+
+
+                            0
+
+
+
+
+ 5-Min Count           NE Four Seasons Ln              NE Four Seasons Ln             NE 18th St                   NE 18th St
+     Period               (Northbound)                    (Southbound)               (Eastbound)                 (Westbound)                             Hourly
+Beginning At                                                                                                                                 Total
+                    Left Thru Right       U         Left Thru Right      U    Left   Thru Right      U   Left     Thru Right       U                     Totals
+     4:00 PM          0      0      0     0           1      0     1      0     4     45      0      0     0       36      2       0          89
+     4:05 PM          0      0      0     0           5      0     1      0     2     50      0      0     0       43      3       0         104
+     4:10 PM          0      0      0     0           3      0     2      0     2     32      0      0     0       42      4       0          85
+     4:15 PM          0      0      0     0           5      0     2      0     2     40      0      0     0       32      0       0          81
+     4:20 PM          0      0      0     0           0      0     0      0     3     38      0      0     0       20      2       0          63
+     4:25 PM          0      0      0     0           6      0     2      0     0     33      0      0     0       40      1       0          82
+     4:30 PM          0      0      0     0           1      0     2      0     0     52      0      0     0       37      0       0          92
+     4:35 PM          0      0      0     0           0      0     3      0     3     50      0      0     0       31      2       0          89
+     4:40 PM          0      0      0     0           1      0     2      0     1     46      0      0     0       41      1       0          92
+     4:45 PM          0      0      0     0           1      0     3      0     0     57      0      0     0       38      0       0          99
+     4:50 PM          0      0      0     0           5      0     0      0     0     64      0      0     0       21      2       0          92
+     4:55 PM          0      0      0     0           2      0     1      0     3     45      0      0     0       23      4       0          78             1046
+     5:00 PM          0      0      0     0           2      0     0      0     1     41      0      0     0       35      3       0          82             1039
+     5:05 PM          0      0      0     0           1      0     1      0     2     53      0      0     0       38      2       0          97             1032
+     5:10 PM          0      0      0     0           0      0     1      0     1     52      0      0     0       22      2       0          78             1025
+     5:15 PM          0      0      0     0           3      0     1      0     0     72      0      0     0       42      1       0         119             1063
+     5:20 PM          0      0      0     0           0      0     0      0     3     50      0      0     0       34      0       0          87             1087
+     5:25 PM          0      0      0     0           5      0     0      0     1     56      0      0     0       28      5       0          95             1100
+     5:30 PM          0      0      0     0           1      0     0      0     0     50      0      0     0       48      0       0          99             1107
+     5:35 PM          0      0      0     0           4      0     0      0     0     58      0      0     0       29      3       0          94             1112
+     5:40 PM          0      0      0     0           5      0     1      0     0     37      0      0     0       22      1       0          66             1086
+     5:45 PM          0      0      0     0           4      0     1      0     0     48      0      0     0       29      2       0          84             1071
+     5:50 PM          0      0      0     0           3      0     1      0     0     29      0      0     0       37      0       0          70             1049
+     5:55 PM          0      0      0     0           1      0     0      0     0     46      0      0     0       26      1       0          74             1045
+ Peak 15-Min                   Northbound                     Southbound                 Eastbound                    Westbound
+                                                                                                                                                     Total
+  Flowrates         Left Thru Right       U         Left Thru Right      U    Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles        0      0      0     0          32      0     4      0    16    712      0      0     0      416     24       0                 1204
+ Heavy Trucks         0      0      0                 0      0     0            0     20      0            0        0      0                          20
+  Pedestrians                0                               0                         0                            0                                  0
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/4/2009 12:22 PM                                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

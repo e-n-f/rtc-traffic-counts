@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: NW 36th Ave -- NW McCann Rd                                                                                        QC JOB #: 10637108
+ CITY/STATE: Vancouver, WA                                                                                                    DATE: 7/14/2011
+                       161 0.77 186                            Peak-Hour: 7:30 AM -- 8:30 AM                                   10.6       4.8
+
+                          19 141   1
+                                                              Peak 15-Min: 8:10 AM -- 8:25 AM
+                                                                                                                               15.8 9.9 0.0
+
+       37      57                      0        2
+                                                                                                                 16.2   5.3                       0.0      0.0
+        0.63   1            0.77       0   0.75
+                                                                                                                        0.0                       0.0
+       136     78                      2        2
+                                                                                                                 3.7    2.6                       0.0      0.0
+
+                          18 129   0
+                                                                                                                               16.7 4.7 0.0
+
+                       221 0.85 147
+                                                                                                                               7.2        6.1
+
+
+
+                              0                                                                                                 0     1   0
+
+
+                                                                                                                        0                          0
+
+               0                       1                                                                                0                          0
+
+                                                                                                                        0                          0
+
+
+                              1                                                                                                 0     0   0
+
+
+
+
+ 5-Min Count                NW 36th Ave                     NW 36th Ave              NW McCann Rd                NW McCann Rd
+     Period                 (Northbound)                   (Southbound)               (Eastbound)                 (Westbound)                                 Hourly
+Beginning At                                                                                                                                    Total
+                    Left     Thru Right     U       Left    Thru Right    U   Left    Thru Right      U   Left     Thru Right         U                       Totals
+     6:30 AM          1        8      0     0         0       4      0    0     0       0      9      0     0        0      0         0          22
+     6:35 AM          2        3      0     0         0      10      1    0     4       0      5      0     0        0      0         0          25
+     6:40 AM          1        9      0     0         0       3      1    0     3       0      6      0     0        0      0         0          23
+     6:45 AM          3        5      0     0         0      10      3    0     4       0      6      0     0        0      1         0          32
+     6:50 AM          4       10      0     0         0       4      5    0     2       0      5      0     0        0      0         0          30
+     6:55 AM          3       11      0     0         0       5      3    0     1       0      3      0     0        0      0         0          26
+     7:00 AM          0        6      0     0         0       3      1    0     4       0      9      0     0        0      1         0          24
+     7:05 AM          0        9      0     0         0       9      0    0     3       0      8      0     1        0      0         0          30
+     7:10 AM          1       12      0     0         0       5      1    0     1       0      4      0     0        0      0         0          24
+     7:15 AM          0        6      0     0         0      11      1    0     3       0      5      0     0        0      0         0          26
+     7:20 AM          1       14      0     0         0       5      0    0     1       0      8      0     1        0      0         0          30
+     7:25 AM          2        8      0     0         0      10      3    0     7       0      9      0     0        0      1         0          40              332
+     7:30 AM          0       14      0     0         0       7      1    0     2       0      8      0     0        0      0         0          32              342
+     7:35 AM          0       10      0     0         0      14      0    0     3       0      5      0     1        0      0         0          33              350
+     7:40 AM          1       11      0     0         0      17      2    0     2       0      8      0     0        0      0         0          41              368
+     7:45 AM          0        9      0     0         0      13      1    0     1       0      7      0     0        0      0         0          31              367
+     7:50 AM          0       13      0     0         0       8      2    0     2       0      6      0     0        0      0         0          31              368
+     7:55 AM          1       13      0     0         1      10      0    0     3       0      3      0     0        0      0         0          31              373
+     8:00 AM          1        4      0     0         0      12      2    0     5       0      5      0     0        0      0         0          29              378
+     8:05 AM          4        9      0     0         0       4      1    0     5       0      4      0     0        0      0         0          27              375
+     8:10 AM          3       13      0     0         0      10      4    0     8       0      9      0     0        0      0         0          47              398
+     8:15 AM          4        7      0     0         0      16      4    0    11       1      9      0     0        0      0         0          52              424
+     8:20 AM          3       13      0     0         0      10      2    0    11       0      7      0     0        0      0         0          46              440
+     8:25 AM          1       13      0     0         0      20      0    0     4       0      7      0     1        0      0         0          46              446
+ Peak 15-Min                     Northbound                    Southbound                 Eastbound                    Westbound
+                                                                                                                                                        Total
+  Flowrates         Left     Thru Right     U       Left    Thru Right    U   Left    Thru Right      U   Left     Thru Right         U
+  All Vehicles       40      132      0     0         0     144     40    0   120       4    100      0     0        0      0         0                 580
+ Heavy Trucks         4        8      0               0      12      8          8       0      4            0        0      0                           44
+  Pedestrians                  4                              0                         0                            4                                   8
+   Bicycles           0        0      0               0       1      0          0       0      0            0        0      0                            1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/18/2011 7:03 PM                                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

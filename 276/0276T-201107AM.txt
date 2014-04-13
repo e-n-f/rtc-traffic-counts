@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                      Method for determining peak hour: Total Entering Volume
+ LOCATION: NW Lakeshore -- NW 99th St                                                                                     QC JOB #: 10637102
+ CITY/STATE: Vancouver, WA                                                                                                DATE: 7/14/2011
+                     475 0.81 120                          Peak-Hour: 7:20 AM -- 8:20 AM                                   2.9          13.3
+
+                      2   378 95
+                                                          Peak 15-Min: 7:35 AM -- 7:50 AM
+                                                                                                                                   1.9 5.3
+                                                                                                                           100.0
+       6       0                      47    105
+                                                                                                            66.7   0.0                          14.9      8.6
+        0.42   1          0.83         2   0.85
+                                                                                                                   0.0                          50.0
+       3       2                      56    119
+                                                                                                            33.3   50.0                          1.8      5.0
+
+                      2    73    23
+                                                                                                                           50.0 12.3 4.3
+
+                     436 0.72 98
+                                                                                                                           2.1          11.2
+
+
+
+                           1                                                                                                0      2     0
+
+
+                                                                                                                   0                              0
+
+               0                       0                                                                           0                              0
+
+                                                                                                                   0                              0
+
+
+                           1                                                                                                0      0     0
+
+
+
+
+ 5-Min Count            NW Lakeshore                   NW Lakeshore               NW 99th St                  NW 99th St
+     Period             (Northbound)                   (Southbound)              (Eastbound)                 (Westbound)                                     Hourly
+Beginning At                                                                                                                                   Total
+                   Left Thru Right      U         Left Thru Right     U   Left   Thru Right      U   Left     Thru Right            U                        Totals
+     6:30 AM         0     6       0    0           1    28     0     0     0      0      0      0     1        0      2            0           38
+     6:35 AM         0     3       2    0           8    26     0     0     0      0      0      0     4        0      3            0           46
+     6:40 AM         0     5       1    0           0    25     0     0     0      0      0      0     5        0      4            0           40
+     6:45 AM         0     2       0    0           6    22     0     0     0      0      0      0     1        0      3            0           34
+     6:50 AM         0    10       1    0           3    37     0     0     0      0      1      0     7        0      3            0           62
+     6:55 AM         0     8       0    0           2    23     0     0     0      0      0      0     4        0      6            0           43
+     7:00 AM         0     5       0    0           5    20     0     0     0      0      1      0     1        0      0            0           32
+     7:05 AM         0     5       1    0           3    30     1     0     0      0      0      0     3        0      1            0           44
+     7:10 AM         0     4       4    0           3    28     0     0     1      0      1      0     5        0      1            0           47
+     7:15 AM         0     5       2    0           4    27     0     0     0      0      0      0     2        0      3            0           43
+     7:20 AM         0     4       2    0          12    42     0     0     0      0      0      0     6        0      3            0           69
+     7:25 AM         0     6       4    0          12    31     0     0     0      0      0      0     3        0      5            0           61              559
+     7:30 AM         0     3       0    0           9    38     0     0     0      0      0      0     6        0      2            0           58              579
+     7:35 AM         0     4       0    0           6    51     0     0     0      0      0      0     5        0      3            0           69              602
+     7:40 AM         0     7       2    0           2    43     0     0     0      0      0      0    11        0      2            0           67              629
+     7:45 AM         0     9       2    0           9    37     0     0     0      1      0      0     7        0      3            0           68              663
+     7:50 AM         0    11       3    0           6    26     0     0     0      0      1      0     5        0      2            0           54              655
+     7:55 AM         2     7       2    0           6    19     0     0     0      0      0      0     3        0      5            0           44              656
+     8:00 AM         0     2       3    0          13    23     0     0     0      0      1      0     3        2      3            0           50              674
+     8:05 AM         0     7       2    0           6    22     1     0     0      0      0      0     0        0      6            0           44              674
+     8:10 AM         0     8       0    0           7    25     1     0     0      0      0      0     2        0      3            0           46              673
+     8:15 AM         0     5       3    0           7    21     0     0     0      0      0      0     5        0     10            0           51              681
+     8:20 AM         0    10       1    0           8    28     0     0     0      0      0      0     2        0      3            0           52              664
+     8:25 AM         0     9       1    0           2    25     0     0     0      0      0      0     1        0      9            0           47              650
+ Peak 15-Min                 Northbound                    Southbound                Eastbound                    Westbound
+                                                                                                                                                       Total
+  Flowrates        Left Thru Right      U         Left Thru Right     U   Left   Thru Right      U   Left     Thru Right            U
+  All Vehicles       0    80      16    0          68   524     0     0     0      4      0      0    92        0     32            0                  816
+ Heavy Trucks        0    12       0                0    12     0           0      0      0            0        0      0                               24
+  Pedestrians              0                              4                        0                            0                                       4
+   Bicycles          0     0       0                0     1     0           0      0      0            0        0      0                                1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/18/2011 7:03 PM                                                 SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

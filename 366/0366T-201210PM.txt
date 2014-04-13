@@ -1,0 +1,89 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: NE 10th Ave -- NE 134th St                                                                                          QC JOB #: 10837011
+ CITY/STATE: Vancouver, WA                                                                                                     DATE: Tue, Oct 23 2012
+                     666             479                            Peak-Hour: 4:40 PM -- 5:40 PM                               2.4        1.9
+                        22     0     644
+                                                                   Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                                4.5 0.0 2.3
+
+
+       1128   18                            461   1568
+                                                                                                                   0.6   0.0                      2.0       1.0
+              720             0.93         1106
+                                                                                                                         0.8                      0.5
+       738    0                               1   1365
+                                                                                                                   0.8   0.0                      0.0       1.5
+                          0    0      0
+                                                                                                                                0.0 0.0 0.0
+                          0           0
+                                                                                                                                0.0        0.0
+
+
+
+                               3                                                                                                 0    0    1
+
+
+
+                                                                                                                         0                          0
+
+              5                               1                                                                          0                          0
+
+                                                                                                                         0                          0
+
+                               0                                                                                                 0    0    0
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+
+              NA                            NA                                                                           NA                       NA
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+ 5-Min Count                  NE 10th Ave                        NE 10th Ave               NE 134th St              NE 134th St                  Total       Hourly
+     Period                   (Northbound)                      (Southbound)               (Eastbound)              (Westbound)                              Totals
+ Beginning At      Left        Thru Right     U          Left    Thru Right    U    Left   Thru Right      U   Left Thru Right    U
+     4:00 PM        0            0      0     0           43       0      3     0    0      68      0      0    0    66    32     0              212
+     4:05 PM        0            0      0     0           63       0      0     0    0      77      0      0    0    65    24     0              229
+     4:10 PM        0            0      0     0           33       0      2     0    1      63      0      0    0    80    30     0              209
+     4:15 PM        0            0      0     0           49       0      1     0    0      61      0      0    0    65    42     1              219
+     4:20 PM        0            0      0     0           38       0      1     0    0      46      0      0    0    79    41     0              205
+     4:25 PM        0            0      0     0           46       0      2     0    0      45      0      0    0    76    36     0              205
+     4:30 PM        0            0      0     0           43       0      2     0    1      56      0      0    0    91    25     0              218
+     4:35 PM        0            0      0     0           60       0      0     0    1      64      0      0    0    85    32     0              242
+     4:40 PM        0            0      0     0           45       0      1     0    0      62      0      0    0   103    55     0              266
+     4:45 PM        0            0      0     0           60       0      3     0    2      34      0      0    0    88    42     0              229
+     4:50 PM        0            0      0     0           52       0      1     0    0      50      0      0    0    92    32     0              227
+     4:55 PM        0            0      0     0           60       0      2     0    0      62      0      0    0    80    27     0              231             2692
+     5:00 PM        0            0      0     0           66       0      2     0    3      80      0      0    0    88    43     0              282             2762
+     5:05 PM        0            0      0     0           60       0      0     0    1      77      0      0    0    85    36     0              259             2792
+     5:10 PM        0            0      0     0           53       0      5     0    1      61      0      0    0    98    37     0              255             2838
+     5:15 PM        0            0      0     0           46       0      0     0    2      56      0      0    0   100    37     1              242             2861
+     5:20 PM        0            0      0     0           66       0      2     0    6      50      0      0    0    75    30     0              229             2885
+     5:25 PM        0            0      0     0           47       0      4     0    1      55      0      0    0   117    34     0              258             2938
+     5:30 PM        0            0      0     0           45       0      1     0    2      67      0      0    0    91    40     0              246             2966
+     5:35 PM        0            0      0     0           44       0      1     0    0      66      0      0    0    89    48     0              248             2972
+     5:40 PM        0            0      0     0           40       0      1     0    0      53      0      0    0   102    50     0              246             2952
+     5:45 PM        0            0      0     0           60       0      0     0    0      46      0      0    0    81    40     0              227             2950
+     5:50 PM        0            0      0     0           50       0      2     0    2      56      0      0    0    95    40     0              245             2968
+     5:55 PM        0            0      0     0           60       0      1     0    0      51      0      0    0    80    33     0              225             2962
+ Peak 15-Min                       Northbound                        Southbound                Eastbound                Westbound
+   Flowrates       Left        Thru Right     U          Left    Thru Right    U    Left   Thru Right      U   Left Thru Right    U                      Total
+  All Vehicles      0            0      0     0          716       0     28     0    20    872      0      0    0 1084    464     0                      3184
+ Heavy Trucks       0            0      0                 20       0      0           0     12      0           0     4      4                            40
+  Pedestrians                    0                                 0                         8                        0                                    8
+    Bicycles        0            0      0                  1       0      0          0       0      0           0     0      0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/1/2012 9:25 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

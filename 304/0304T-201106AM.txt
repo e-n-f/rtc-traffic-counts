@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: NE 50th Ave -- NE 119th St                                                                                             QC JOB #: 10633501
+ CITY/STATE: Barberton, WA                                                                                                        DATE: 6/28/2011
+                       110 0.72 45                                 Peak-Hour: 8:00 AM -- 9:00 AM                                   8.2       11.1
+
+                          26    48    36
+                                                                  Peak 15-Min: 8:40 AM -- 8:55 AM
+                                                                                                                                   19.2 4.2 5.6
+
+       183     7                            21    156
+                                                                                                                    10.4   14.3                       9.5      7.1
+        0.72   125             0.80        121   0.79
+                                                                                                                           0.8                        7.4
+       156     24                           14    179
+                                                                                                                    2.6    8.3                        0.0      2.2
+
+                          36    17    18
+                                                                                                                                   13.9 11.8 5.6
+
+                          86 0.74 71
+                                                                                                                                   4.7       11.3
+
+
+
+                                0                                                                                                   0    0    0
+
+
+                                                                                                                           0                           0
+
+               0                             0                                                                             0                           0
+
+                                                                                                                           0                           0
+
+
+                                0                                                                                                   0    0    0
+
+
+
+
+ 5-Min Count                    NE 50th Ave                     NE 50th Ave              NE 119th St                  NE 119th St
+     Period                    (Northbound)                    (Southbound)              (Eastbound)                 (Westbound)                                  Hourly
+Beginning At                                                                                                                                        Total
+                    Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right         U                        Totals
+     7:00 AM          0           1       1    0          5       6      1    0     1      5      3      0     0        7      0         0           30
+     7:05 AM          2           0       2    0          2       4      0    0     0      5      1      0     0        9      0         0           25
+     7:10 AM          1           2       2    0          2       6      1    0     1      8      0      0     1        5      0         0           29
+     7:15 AM          2           2       1    0          2       0      2    0     0      7      1      0     0        6      0         0           23
+     7:20 AM          3           2       0    0          2       3      3    0     1     10      0      0     0        5      3         0           32
+     7:25 AM          9           0       0    0          4       3      2    0     2      7      2      0     1       11      1         0           42
+     7:30 AM          3           0       2    0          5       3      1    0     1      7      1      0     2       11      0         0           36
+     7:35 AM          1           1       1    0          6       7      1    0     0     13      5      0     2       10      0         0           47
+     7:40 AM          4           3       0    0          1       7      4    0     0     19      2      0     3        9      3         0           55
+     7:45 AM          2           2       1    0          4       8      5    0     1     12      2      0     0       15      1         0           53
+     7:50 AM          2           4       0    0          3       5      1    0     0      8      6      0     1       12      3         0           45
+     7:55 AM          1           0       0    0          2       2      0    0     0     10      3      0     0        4      3         0           25              442
+     8:00 AM          1           1       0    0          4       2      1    0     2      8      3      0     2       11      2         0           37              449
+     8:05 AM          2           2       1    0          2       3      2    0     0      9      1      0     3        4      1         0           30              454
+     8:10 AM          2           1       4    0          2       4      3    0     0      9      2      0     1        9      3         0           40              465
+     8:15 AM          5           0       1    0          2       5      4    0     0      7      1      0     1        8      1         0           35              477
+     8:20 AM          1           1       0    0          9       5      1    0     1     10      2      0     0        7      1         0           38              483
+     8:25 AM          5           1       2    0          2       4      3    0     1      6      0      0     0       13      2         0           39              480
+     8:30 AM          5           2       3    0          2       3      0    0     1      5      2      0     1       12      2         0           38              482
+     8:35 AM          2           3       1    0          3       3      2    0     0      7      3      0     3        5      3         0           35              470
+     8:40 AM          3           1       1    0          2       7      1    0     1     10      4      0     1       19      1         0           51              466
+     8:45 AM          1           1       2    0          2       2      2    0     0     15      3      0     0       17      1         0           46              459
+     8:50 AM          7           3       2    0          4       5      3    0     0     20      2      0     1        8      2         0           57              471
+     8:55 AM          2           1       1    0          2       5      4    0     1     19      1      0     1        8      2         0           47              493
+ Peak 15-Min                        Northbound                     Southbound                Eastbound                    Westbound
+                                                                                                                                                            Total
+  Flowrates         Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right         U
+  All Vehicles       44          20      20    0         32      56     24    0     4    180     36      0     8      176     16         0                  616
+ Heavy Trucks         0           0       4               0       0      0          4      0      0            0        8      0                            16
+  Pedestrians                     0                               0                        0                            0                                    0
+   Bicycles           0           0       0               0       0      0          0      0      0            0        0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/1/2011 12:06 PM                                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

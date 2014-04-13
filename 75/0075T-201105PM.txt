@@ -1,0 +1,79 @@
+Type of peak hour being reported: System Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Parker St -- 38th Ave                                                                                             QC JOB #: 10619911
+ CITY/STATE: Camas, OR                                                                                                       DATE: 5/19/2011
+                       243 0.79 202                            Peak-Hour: 4:50 PM -- 5:50 PM                                  0.8       0.5
+
+                          23 177 43
+                                                              Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                              0.0 1.1 0.0
+
+       158     21                       35    221
+                                                                                                                 0.6   0.0                      0.0      0.0
+        1.00   170          0.96        82   1.00
+                                                                                                                       0.6                      0.0
+       251     60                      104    425
+                                                                                                                 1.2   3.3                      0.0      0.7
+
+                          53 146 212
+                                                                                                                              1.9 0.7 0.9
+
+                       341 1.00 411
+                                                                                                                              1.2       1.0
+
+
+
+                              3                                                                                               0     1   0
+
+
+                                                                                                                       0                         0
+
+               1                         7                                                                             0                         0
+
+                                                                                                                       0                         0
+
+
+                              0                                                                                               0     0   1
+
+
+
+
+ 5-Min Count                  Parker St                      Parker St                 38th Ave                     38th Ave
+     Period                 (Northbound)                   (Southbound)              (Eastbound)                  (Westbound)                             Hourly
+Beginning At                                                                                                                                  Total
+                    Left     Thru Right     U       Left    Thru Right    U   Left   Thru Right       U   Left     Thru Right       U                     Totals
+     4:00 PM          8        6      18    0         4      12      1    0     4       9      6      0     3        7      2       0          80
+     4:05 PM          2        7      10    0         3      11      2    0     3     11       4      0     9        6      3       0          71
+     4:10 PM          6       10      15    0         4       8      0    0     5       7      7      0     5       10      2       0          79
+     4:15 PM          4        7      11    0         1       8      2    0     3     17       1      0    11       10      3       0          78
+     4:20 PM          3        6       6    0         2       8      0    0     2     15       6      0     7       10      1       0          66
+     4:25 PM          0       16      11    0         1       8      2    0     0     14       4      0    12        4      3       0          75
+     4:30 PM          3       12      14    0         2      15      2    0     0     10       5      0     6        9      1       0          79
+     4:35 PM          4       13      12    0         0       7      1    0     4     15       2      0    11       10      3       0          82
+     4:40 PM          6       23      10    0         7      15      1    0     1     18       4      0     8        8      1       0         102
+     4:45 PM          5       14      15    0         4      11      1    0     1     12       1      0     8        7      4       0          83
+     4:50 PM          1       13      18    0         3       7      0    0     4     16       4      0     8        7      4       0          85
+     4:55 PM          3        6      16    0         2       8      1    0     1     13       5      0     9        2      7       0          73              953
+     5:00 PM          5       17      19    0         4       7      0    0     1       7      1      0    12        5      0       0          78              951
+     5:05 PM          4       18      18    0         3      22      5    0     1     12       0      0     9        7      3       0         102              982
+     5:10 PM          5       11      15    0         6      14      0    0     2     20       9      0    11        8      4       0         105             1008
+     5:15 PM          7        4      19    0         5      17      5    0     0     14       5      0     9        0      0       0          85             1015
+     5:20 PM          4       14      11    0         4      19      3    0     4     25      11      0    10       14      4       0         123             1072
+     5:25 PM          2        9      26    0         5      12      2    0     2     15       4      0     8        8      1       0          94             1091
+     5:30 PM          4       13      15    0         2      14      2    0     2     10       6      0     7        5      2       0          82             1094
+     5:35 PM         11       18      16    0         3      20      2    0     2     14       6      0     9        7      4       0         112             1124
+     5:40 PM          4       13      23    0         3      25      2    0     0     10       2      0     4        9      1       0          96             1118
+     5:45 PM          3       10      16    0         3      12      1    0     2     14       7      0     8       10      5       0          91             1126
+     5:50 PM          3        7      17    0         5      14      4    0     2     11       4      0     8       12      3       0          90             1131
+     5:55 PM          6        9      18    0         3       9      1    0     0     10       4      0     9        9      1       0          79             1137
+ Peak 15-Min                     Northbound                    Southbound                 Eastbound                    Westbound
+                                                                                                                                                      Total
+  Flowrates         Left     Thru Right     U       Left    Thru Right    U   Left   Thru Right       U   Left     Thru Right       U
+  All Vehicles       64      132    208     0        56     212     40    0    12    184      56      0   116       60     28       0                 1168
+ Heavy Trucks         4        4       4              0       4      0          0       0      4            0        0      0                          20
+  Pedestrians                  0                              4                         4                            0                                  8
+   Bicycles           0        0       1              0       0      0          0       0      0            0        0      0                           1
+   Railroad
+Stopped Buses
+ Comments: SE
+Report generated on 6/16/2011 12:25 PM                                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

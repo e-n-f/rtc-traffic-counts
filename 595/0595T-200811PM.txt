@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 90th Ave -- SE Mill Plain Blvd                                                                                       QC JOB #: 10396510
+ CITY/STATE: Vancouver, WA                                                                                                      DATE: 11/20/2008
+                       138 0.80 101                                Peak-Hour: 4:30 PM -- 5:30 PM                                 0.7        2.0
+
+                       72       0     66
+                                                                  Peak 15-Min: 5:10 PM -- 5:25 PM
+                                                                                                                                 0.0 0.0 1.5
+
+       867     59                           42    837
+                                                                                                                    1.2   1.7                       2.4      1.3
+        0.95   901             0.94        794   0.95
+                                                                                                                          1.0                       1.3
+       963     3                             1    969
+                                                                                                                    1.0   0.0                       0.0      1.0
+
+                           1    0     2
+                                                                                                                                 0.0 0.0 0.0
+
+                           4   0.33   3
+                                                                                                                                 0.0        0.0
+
+
+
+                                2
+
+
+
+
+               1                             0
+
+
+
+
+                                0
+
+
+
+
+ 5-Min Count                     90th Ave                        90th Ave             SE Mill Plain Blvd           SE Mill Plain Blvd
+     Period                    (Northbound)                    (Southbound)             (Eastbound)                  (Westbound)                              Hourly
+Beginning At                                                                                                                                      Total
+                    Left        Thru Right     U        Left    Thru Right    U   Left Thru Right          U   Left Thru Right          U                     Totals
+     4:00 PM          0           0      1     0          8       0     8     0     5    77        0       2     0     73       2       0         176
+     4:05 PM          0           0      0     0          2       0     5     0     3    63        0       0     0     78       4       0         155
+     4:10 PM          0           0      1     0          5       0     7     0     2    74        0       0     0     75       3       0         167
+     4:15 PM          0           0      1     0          9       0     7     0     9    74        2       0     0     61       4       0         167
+     4:20 PM          0           0      0     0          8       0     8     0     2    74        0       0     0     60       6       0         158
+     4:25 PM          0           0      0     0          5       0     4     0     5    83        1       1     0     53       2       0         154
+     4:30 PM          0           0      0     0          8       0     5     0     4    66        1       0     0     68      10       0         162
+     4:35 PM          0           0      0     0          5       0     5     0     3    76        0       0     0     74       5       0         168
+     4:40 PM          0           0      0     0          4       0     9     0     5    68        0       0     0     60       3       0         149
+     4:45 PM          0           0      0     0          3       0     9     0     3    80        2       0     0     70       4       0         171
+     4:50 PM          0           0      0     0          3       0     7     0     6    82        0       0     0     59       1       0         158
+     4:55 PM          0           0      0     0          3       0     4     0     8    78        0       0     0     61       0       0         154             1939
+     5:00 PM          0           0      0     0          5       0     6     0     6    71        0       0     0     67       4       0         159             1922
+     5:05 PM          0           0      1     0          4       0     5     0     7    69        0       0     0     61       2       0         149             1916
+     5:10 PM          0           0      0     0          8       0     3     0     6    88        0       0     0     69       5       0         179             1928
+     5:15 PM          0           0      0     0         10       0     6     0     6    79        0       0     1     63       2       0         167             1928
+     5:20 PM          0           0      1     0          7       0     8     0     3    74        0       0     0     74       3       0         170             1940
+     5:25 PM          1           0      0     0          6       0     5     0     2    70        0       0     0     68       3       0         155             1941
+     5:30 PM          0           0      1     0          3       0     6     0     4    69        0       0     0     59       2       0         144             1923
+     5:35 PM          0           0      0     0          3       0     7     0     6    74        1       0     0     60       1       0         152             1907
+     5:40 PM          0           0      0     0          4       0     2     0     0    67        1       0     0     63       4       0         141             1899
+     5:45 PM          0           0      0     0          5       0     5     0     0    65        0       0     0     60       3       0         138             1866
+     5:50 PM          0           0      0     0          5       0     5     0     3    84        0       0     0     44       4       0         145             1853
+     5:55 PM          0           0      0     0          0       0     2     0     5    63        0       0     0     52       3       0         125             1824
+ Peak 15-Min                        Northbound                     Southbound                Eastbound                    Westbound
+                                                                                                                                                          Total
+  Flowrates         Left        Thru Right     U        Left    Thru Right    U   Left Thru Right          U   Left Thru Right          U
+  All Vehicles        0           0      4     0        100       0    68     0    60   964        0       0     4    824      40       0                 2064
+ Heavy Trucks         0           0      0                0       0     0           0     4        0             0      4       0                           8
+  Pedestrians                     0                               0                       4                             0                                   4
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 2/27/2009 4:20 PM                                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

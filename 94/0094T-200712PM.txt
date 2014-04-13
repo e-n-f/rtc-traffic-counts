@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Garrison Rd -- SE Mill Plain Blvd                                                                                 QC JOB #: 10309715
+ CITY/STATE: Vancouver, WA                                                                                                   DATE: 12/5/2007
+                       204 0.78 187                             Peak-Hour: 4:35 PM -- 5:35 PM                                 1.5        3.2
+
+                       98    18    88
+                                                               Peak 15-Min: 5:20 PM -- 5:35 PM
+                                                                                                                              0.0 5.6 2.3
+
+       885     115                       47    858
+                                                                                                                 1.2   2.6                       6.4      1.6
+        0.95   750          0.97        767   0.89
+                                                                                                                       0.7                       1.4
+       894     29                        44    876
+                                                                                                                 0.9   0.0                       0.0      0.8
+
+                       19    26    34
+                                                                                                                              0.0 0.0 0.0
+
+                       87 0.87 79
+                                                                                                                              1.1        0.0
+
+
+
+                             9
+
+
+
+
+               9                          0
+
+
+
+
+                             6
+
+
+
+
+ 5-Min Count                 Garrison Rd                     Garrison Rd           SE Mill Plain Blvd           SE Mill Plain Blvd
+     Period                 (Northbound)                    (Southbound)             (Eastbound)                  (Westbound)                              Hourly
+Beginning At                                                                                                                                   Total
+                    Left     Thru Right     U        Left    Thru Right    U   Left Thru Right          U   Left Thru Right          U                     Totals
+     4:00 PM          5        4       1    0          9       2      9    0     8    76        2       0     4     61       2       0         183
+     4:05 PM          2        1       1    0         11       3     10    0     4    62        0       0     3     81       5       0         183
+     4:10 PM          2        2       1    0          5       2     14    0     4    60        3       0     1     69       7       1         171
+     4:15 PM          1        2       1    0          5       5      5    0     7    70        4       0     3     62       2       0         167
+     4:20 PM          0        1       4    0          4       5      4    0     6    63        3       0     6     72       3       0         171
+     4:25 PM          1        2       0    0          3       0      4    0     8    49        0       0     4     45       4       0         120
+     4:30 PM          1        1       2    0          4       1     10    0     9    60        2       0     1     52       2       0         145
+     4:35 PM          4        2       1    0          1       1      4    0    16    68        4       1     2     48       7       0         159
+     4:40 PM          2        1       5    0          7       0     11    0     7    57        2       0     6     60       2       0         160
+     4:45 PM          3        2       3    0          9       1     13    0     7    56        2       0     3     66       4       0         169
+     4:50 PM          1        0       1    0          7       1      5    0    11    64        2       0     2     64       5       1         164
+     4:55 PM          0        4       4    0          8       1      5    0    15    51        1       0     1     90       4       0         184             1976
+     5:00 PM          2        6       3    0          7       3      8    0     3    67        2       0     1     61       3       2         168             1961
+     5:05 PM          1        1       2    0          7       2      9    0     6    58        2       0     2     74       3       1         168             1946
+     5:10 PM          2        3       3    0         13       3     14    0     6    73        4       0     1     53       5       0         180             1955
+     5:15 PM          0        0       1    0          3       1      4    0    13    68        3       0     6     59       2       0         160             1948
+     5:20 PM          1        3       1    0          4       2      4    0     9    60        0       0     6     41       3       0         134             1911
+     5:25 PM          1        3       5    0         13       2     11    0     4    56        3       0     7     74       5       0         184             1975
+     5:30 PM          2        1       5    0          9       1     10    0    17    72        4       0     3     77       4       0         205             2035
+     5:35 PM          1        1       3    0          6       1      2    0     4    43        1       0     2     74       2       0         140             2016
+     5:40 PM          0        1       6    0          5       1      6    0     9    45        5       0     2     54       1       0         135             1991
+     5:45 PM          3        1       0    0          9       0      6    0     4    69        1       0     1     52       5       0         151             1973
+     5:50 PM          4        4       2    0          8       2      6    0    11    53        2       1     5     58       4       0         160             1969
+     5:55 PM          3        4       0    0          4       1      6    0     9    47        3       0     3     44       4       0         128             1913
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                    Westbound
+                                                                                                                                                       Total
+  Flowrates         Left     Thru Right     U        Left    Thru Right    U   Left Thru Right          U   Left Thru Right          U
+  All Vehicles       16       28      44    0        104      20    100    0   120   752       28       0    64    768      48       0                 2092
+ Heavy Trucks         0        0       0               0       4      0          0     4        0             0     16       8                          32
+  Pedestrians                 12                              20                      20                             0                                  52
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/4/2009 12:25 PM                                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

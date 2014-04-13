@@ -1,0 +1,79 @@
+Type of peak hour being reported: System Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Norwood St -- 6th Ave                                                                                                QC JOB #: 10619903
+ CITY/STATE: Camas, OR                                                                                                          DATE: 5/19/2011
+                          32 1.00 59                               Peak-Hour: 4:50 PM -- 5:50 PM                                 0.0       3.4
+
+                          19    7     6
+                                                                  Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                                 0.0 0.0 0.0
+
+       550     47                           10    556
+                                                                                                                    1.8   2.1                      0.0      1.6
+        0.98   822             0.98        489   0.93
+                                                                                                                          1.6                      1.8
+       957     88                           57    912
+                                                                                                                    1.6   1.1                      0.0      1.5
+
+                          42    2     84
+                                                                                                                                 2.4 50.0 1.2
+
+                       152 1.00 128
+                                                                                                                                 0.7       2.3
+
+
+
+                                2                                                                                                0     0   0
+
+
+                                                                                                                          0                         0
+
+               2                             0                                                                            0                         0
+
+                                                                                                                          0                         1
+
+
+                                0                                                                                                0     0   0
+
+
+
+
+ 5-Min Count                    Norwood St                      Norwood St                 6th Ave                      6th Ave
+     Period                    (Northbound)                    (Southbound)              (Eastbound)                 (Westbound)                             Hourly
+Beginning At                                                                                                                                     Total
+                    Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U                     Totals
+     4:00 PM          4           0       7    0          0       0     2     0     2     66     10      0     3       40      5       0         139
+     4:05 PM          2           0       5    0          1       0     0     0     3     50      5      0     6       46      1       0         119
+     4:10 PM          1           0       6    0          2       0     1     0     8     57      1      0     5       57      0       0         138
+     4:15 PM          4           0       2    0          1       0     0     0     1     61      6      0     5       37      2       0         119
+     4:20 PM          3           1       4    0          1       0     0     0     3     55      7      0     5       39      1       0         119
+     4:25 PM          1           0       5    0          3       0     1     0     3     54      4      0     7       53      0       0         131
+     4:30 PM          4           0       5    0          2       0     2     0     5     58      3      0     6       46      0       0         131
+     4:35 PM          1           0       6    0          2       0     1     0     5     50      8      0     5       55      2       0         135
+     4:40 PM          3           1      10    0          1       0     3     0     1     71      7      0     8       38      0       0         143
+     4:45 PM          3           1       9    0          0       0     3     0     6     53      9      0     5       41      2       0         132
+     4:50 PM          9           0       5    0          1       1     4     0     1     75      8      0     7       31      1       0         143
+     4:55 PM          3           1       6    0          0       3     1     0     6     76      8      0     5       63      0       0         172             1621
+     5:00 PM          1           0       4    0          1       0     1     0     2     65      6      0     3       44      1       0         128             1610
+     5:05 PM          7           0       8    0          0       0     1     0     4     61      5      0     3       52      1       0         142             1633
+     5:10 PM          2           0       2    0          0       0     0     0     9     70      8      0     6       44      1       0         142             1637
+     5:15 PM          2           0      11    0          0       0     1     0     4     72     10      0     7       36      0       0         143             1661
+     5:20 PM          3           1       7    0          2       0     1     0     1     73      7      0     5       43      1       0         144             1686
+     5:25 PM          1           0      10    0          0       0     3     0     3     62      7      0     4       34      3       0         127             1682
+     5:30 PM          3           0       7    0          0       1     1     0     7     66      6      0     2       38      1       0         132             1683
+     5:35 PM          5           0       9    0          1       1     2     0     5     58      8      0     6       47      0       0         142             1690
+     5:40 PM          4           0       6    0          0       0     0     0     3     62      6      0     4       24      0       0         109             1656
+     5:45 PM          2           0       9    0          1       1     4     0     2     82      9      0     5       33      1       0         149             1673
+     5:50 PM          3           0       2    0          4       0     0     0     1     63      7      0     5       34      5       0         124             1654
+     5:55 PM          1           0       4    0          2       0     2     0     1     65      7      0     1       33      2       0         118             1600
+ Peak 15-Min                        Northbound                     Southbound                Eastbound                    Westbound
+                                                                                                                                                         Total
+  Flowrates         Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles       44           0      84    0          0       0     8     0    68    812     92      0    64      528      8       0                 1708
+ Heavy Trucks         0           0       0               0       0     0           0     16      0            0       12      0                          28
+  Pedestrians                     0                               0                        0                            0                                  0
+   Bicycles           0           0       0               0       0     0           0      0      0            1        0      0                           1
+   Railroad
+Stopped Buses
+ Comments: SW (on off-ramp)
+Report generated on 6/16/2011 12:25 PM                                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

@@ -1,0 +1,79 @@
+Type of peak hour being reported: System Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Adams St -- 6th Ave                                                                                            QC JOB #: 10619901
+ CITY/STATE: Camas, OR                                                                                                    DATE: 5/19/2011
+                      6   0.75 12                            Peak-Hour: 4:50 PM -- 5:50 PM                                 0.0       0.0
+
+                      4    2     0
+                                                            Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                           0.0 0.0 0.0
+
+      537     6                        4    164
+                                                                                                              1.3   0.0                      0.0      0.6
+       1.00   143         1.00       156   1.00
+                                                                                                                    2.1                      0.6
+      737     588                      4    147
+                                                                                                              2.2   2.2                      0.0      2.0
+
+                    377    2     4
+                                                                                                                           1.6 0.0 0.0
+
+                    594 0.92 383
+                                                                                                                           2.2       1.6
+
+
+
+                           13                                                                                              0     0   0
+
+
+                                                                                                                    0                         0
+
+              0                        9                                                                            0                         1
+
+                                                                                                                    0                         0
+
+
+                           0                                                                                               1     0   0
+
+
+
+
+ 5-Min Count                Adams St                       Adams St                  6th Ave                      6th Ave
+     Period               (Northbound)                   (Southbound)              (Eastbound)                 (Westbound)                             Hourly
+Beginning At Left                                                                                                                          Total
+                           Thru Right     U       Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U                     Totals
+     4:00 PM    28           0      1     0         0       0     0     0     0      6     44      0     0       16      0       0          95
+     4:05 PM    39           0      2     0         0       0     3     0     1     11     40      0     0       15      0       0         111
+     4:10 PM    32           0      0     0         0       0     0     0     0     12     50      0     0       13      0       0         107
+     4:15 PM    30           0      1     0         0       0     1     0     0      7     38      0     0       20      0       0          97
+     4:20 PM    23           0      2     0         0       0     0     0     0     16     41      0     0       21      0       0         103
+     4:25 PM    40           0      1     0         0       0     0     0     0     15     37      0     0       19      0       0         112
+     4:30 PM    31           0      1     0         0       0     0     0     0     14     40      0     0       20      0       0         106
+     4:35 PM    31           0      0     0         0       0     0     0     1     13     31      0     0       17      0       0          93
+     4:40 PM    27           0      0     0         0       0     0     0     0     10     33      0     0       14      0       0          84
+     4:45 PM    25           0      0     0         0       0     1     0     1      7     45      0     0       14      0       0          93
+     4:50 PM    26           0      0     0         0       0     0     0     0     13     55      0     1       15      0       0         110
+     4:55 PM    33           1      0     0         0       0     1     0     0     13     56      0     0       19      1       0         124             1235
+     5:00 PM    37           0      0     0         0       0     0     0     0     16     44      0     0       17      0       0         114             1254
+     5:05 PM    39           0      0     0         0       0     0     0     1     10     52      0     0       14      1       0         117             1260
+     5:10 PM    32           1      1     0         0       0     0     0     1     12     49      0     0       14      0       0         110             1263
+     5:15 PM    31           0      0     0         0       2     0     0     1      9     45      0     0        9      0       0          97             1263
+     5:20 PM    31           0      0     0         0       0     0     0     0     15     57      0     1       11      0       0         115             1275
+     5:25 PM    31           0      0     0         0       0     0     0     0     15     41      0     0       10      2       0          99             1262
+     5:30 PM    28           0      1     0         0       0     0     0     1     13     53      0     1       13      0       0         110             1266
+     5:35 PM    38           0      0     0         0       0     2     0     1      5     42      0     0       15      0       0         103             1276
+     5:40 PM    28           0      1     0         0       0     0     0     0     10     41      0     1       11      0       0          92             1284
+     5:45 PM    23           0      1     0         0       0     1     0     1     12     53      0     0        8      0       0          99             1290
+     5:50 PM    25           1      1     0         0       0     0     0     0     21     37      0     0       16      0       0         101             1281
+     5:55 PM    24           1      1     0         0       0     0     0     0     12     44      0     0        9      0       0          91             1248
+ Peak 15-Min                   Northbound                    Southbound                Eastbound                    Westbound
+                                                                                                                                                   Total
+  Flowrates    Left        Thru Right     U       Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles 408           4      4     0         0       8     0     0    12    124    584      0     0      148      4       0                 1296
+ Heavy Trucks    8           0      0               0       0     0           0      4     12            0        0      0                          24
+  Pedestrians                0                              4                        0                            0                                  4
+   Bicycles      0           0      0               0       0     0           0      0      0            0        1      0                           1
+   Railroad
+Stopped Buses
+ Comments: SE
+Report generated on 6/16/2011 12:25 PM                                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

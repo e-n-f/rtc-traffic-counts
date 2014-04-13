@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: SE 164th Ave -- SR-14 Interchange EB Ramp                                                                         QC JOB #: 10309613
+ CITY/STATE: Vacouver, WA                                                                                                    DATE: 12/4/2007
+                       437 0.87 1694                              Peak-Hour: 4:50 PM -- 5:50 PM                               2.7     2.1
+
+                           0   102 335
+                                                                 Peak 15-Min: 5:20 PM -- 5:35 PM
+                                                                                                                              0.0 1.0 3.3
+
+       0       1553                       0        0
+                                                                                                                 0.0   1.7                    0.0      0.0
+        0.97   0               0.97       0   0.00
+                                                                                                                       0.0                    0.0
+       1593    40                         0    375
+                                                                                                                 1.7   2.5                    0.0      2.9
+
+                           0   141 40
+                                                                                                                              0.0 6.4 0.0
+
+                       142 0.80 181
+                                                                                                                              1.4     5.0
+
+
+
+                                0
+
+
+
+
+               0                          3
+
+
+
+
+                                1
+
+
+
+
+ 5-Min Count                   SE 164th Ave                   SE 164th Ave       SR-14 Interchange EB Ramp SR-14 Interchange EB Ramp
+     Period                    (Northbound)                   (Southbound)               (Eastbound)               (Westbound)                          Hourly
+Beginning At                                                                                                                                Total
+                    Left        Thru Right     U       Left    Thru Right    U    Left Thru Right      U    Left Thru Right      U                      Totals
+     4:00 PM          0          21       1    0        15       6      0    0    113      0      5     0     0      0      0     0         161
+     4:05 PM          0           9       1    0        28       6      0    0    108      0      5     0     0      0      0     0         157
+     4:10 PM          0          23       5    0        27       9      0    0    121      0      3     0     0      0      0     0         188
+     4:15 PM          0           5       5    0        32      13      0    0    107      0      4     0     0      0      0     0         166
+     4:20 PM          0          12       2    0        14       4      0    0    141      0      5     0     0      0      0     0         178
+     4:25 PM          0           9       0    0        28      17      0    0    101      0      4     0     0      0      0     0         159
+     4:30 PM          0          14       2    0        19       8      0    0    135      0      1     0     0      0      0     0         179
+     4:35 PM          0          14       4    0        33       7      0    0    117      0      7     0     0      0      0     0         182
+     4:40 PM          0          15       1    0        17      12      0    0    152      0      1     0     0      0      0     0         198
+     4:45 PM          0          16       4    0        21       9      0    0    105      0      6     0     0      0      0     0         161
+     4:50 PM          0          14       3    0        26       9      0    0    144      0      4     0     0      0      0     0         200
+     4:55 PM          0          10       2    0        29      12      0    0    132      0      4     0     0      0      0     0         189             2118
+     5:00 PM          0          11       1    0        26       7      0    0    124      0      2     0     0      0      0     0         171             2128
+     5:05 PM          0           8       1    0        43      11      0    0    126      0      3     0     0      0      0     0         192             2163
+     5:10 PM          0          12       2    0        29      10      0    0    121      0      5     0     0      0      0     0         179             2154
+     5:15 PM          0           5       4    0        24      10      0    0    121      0      2     0     0      0      0     0         166             2154
+     5:20 PM          0          19       6    0        18       9      0    0    143      0      4     0     0      0      0     0         199             2175
+     5:25 PM          0          14       4    0        32      12      0    0    121      0      2     0     0      0      0     0         185             2201
+     5:30 PM          0          15       6    0        23       8      0    0    131      0      4     0     0      0      0     0         187             2209
+     5:35 PM          0          10       8    0        34       2      0    0    119      0      1     0     0      0      0     0         174             2201
+     5:40 PM          0          14       3    0        17       4      0    0    141      0      4     0     0      0      0     0         183             2186
+     5:45 PM          0           9       0    0        34       8      0    0    130      0      5     0     0      0      0     0         186             2211
+     5:50 PM          0           8       2    0        34       9      0    0    130      0      7     0     0      0      0     0         190             2201
+     5:55 PM          0           5       3    0        33       6      0    0    101      0      4     0     0      0      0     0         152             2164
+ Peak 15-Min                        Northbound                    Southbound                 Eastbound                 Westbound
+                                                                                                                                                    Total
+  Flowrates         Left        Thru Right     U       Left    Thru Right    U    Left Thru Right      U    Left Thru Right      U
+  All Vehicles        0         192      64    0       292     116      0    0   1580      0     40     0     0      0      0     0                 2284
+ Heavy Trucks         0           4       0              8       0      0          20      0      4           0      0      0                        36
+  Pedestrians                     0                              0                         0                         0                                0
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/4/2009 12:26 PM                                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

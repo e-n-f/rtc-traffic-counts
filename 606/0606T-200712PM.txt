@@ -1,0 +1,82 @@
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: NE 138th Ave -- School Access Signal/ NE 22nd St                                                               QC JOB #: 10310912
+ CITY/STATE: Vancouver, WA                                                                                                DATE: 12/11/2007
+                      605 0.85 795                             Peak-Hour: 4:25 PM -- 5:25 PM                               2.5     2.4
+
+                          2   565 38
+                                                              Peak 15-Min: 4:55 PM -- 5:10 PM
+                                                                                                                           0.0 2.5 2.6
+
+       11      2                        58     79
+                                                                                                              0.0   0.0                   6.9   6.3
+        0.60   0              0.94       0   0.79
+                                                                                                                    0.0                   0.0
+       7       5                        21     48
+                                                                                                              0.0   0.0                   4.8   4.2
+
+                          9   735 10
+                                                                                                                           0.0 2.0 10.0
+
+                      591 0.87 754
+                                                                                                                           2.5     2.1
+
+
+
+                               3
+
+
+
+
+               4                         4
+
+
+
+
+                               0
+
+
+
+
+ 5-Min Count                  NE 138th Ave                 NE 138th Ave
+     Period                                                                   School Access Signal/ NE 22nd
+                                                                                                         School
+                                                                                                            St Access Signal/ NE 22nd St
+                              (Northbound)                 (Southbound)                                                                        Hourly
+Beginning At                                                                        (Eastbound)                (Westbound)          Total
+                   Left        Thru Right     U     Left    Thru Right    U   Left Thru Right       U     Left Thru Right     U                Totals
+     4:00 PM         0          68       0    0       3      41      0    0     0     0      0      0       1    0      2     0      115
+     4:05 PM         1          71       0    0       2      53      0    0     0     0      1      0       1    0      6     0      135
+     4:10 PM         0          69       0    0       3      70      0    0     0     0      1      0       0    0      1     0      144
+     4:15 PM         0          46       0    0       7      49      1    0     0     0      0      0       0    0      4     0      107
+     4:20 PM         0          55       0    0       0      39      0    0     0     0      0      0       3    0      2     0       99
+     4:25 PM         0          53       1    0       3      53      0    0     0     0      0      0       2    0      4     0      116
+     4:30 PM         2          81       1    0       2      53      1    0     0     0      0      0       3    0      6     0      149
+     4:35 PM         2          46       0    0       4      43      0    0     1     0      1      0       1    0      4     0      102
+     4:40 PM         0          64       0    0       4      50      0    0     1     0      0      0       3    0      7     0      129
+     4:45 PM         1          49       2    0       1      55      0    0     0     0      0      0       2    0      3     0      113
+     4:50 PM         0          48       2    0       2      41      0    0     0     0      0      0       2    0      4     0       99
+     4:55 PM         0          65       1    0       8      42      0    0     0     0      0      0       2    0      1     0      119        1427
+     5:00 PM         2          61       2    0       2      39      0    0     0     0      0      0       1    0      4     0      111        1423
+     5:05 PM         1          87       0    0       6      48      0    0     0     0      2      0       1    0     10     0      155        1443
+     5:10 PM         0          60       1    0       2      43      0    0     0     0      0      0       2    0      6     0      114        1413
+     5:15 PM         1          50       0    0       4      40      0    0     0     0      2      0       2    0      4     0      103        1409
+     5:20 PM         0          71       0    0       0      58      1    0     0     0      0      0       0    0      5     0      135        1445
+     5:25 PM         3          56       2    0       5      39      0    0     1     0      0      0       0    0      2     0      108        1437
+     5:30 PM         1          64       1    0       3      50      0    0     1     0      0      0       1    0      3     0      124        1412
+     5:35 PM         0          52       3    0       1      48      0    0     0     0      1      0       1    0      3     0      109        1419
+     5:40 PM         2          46       0    0       2      48      0    0     2     0      1      0       1    0      1     0      103        1393
+     5:45 PM         0          40       2    0       1      47      0    0     1     0      0      0       0    0      2     0       93        1373
+     5:50 PM         0          59       2    0       2      50      0    0     0     0      1      0       0    0      1     0      115        1389
+     5:55 PM         0          48       3    0       2      54      0    0     0     0      0      0       3    0      5     0      115        1385
+ Peak 15-Min                       Northbound                  Southbound               Eastbound                  Westbound
+                                                                                                                                          Total
+  Flowrates        Left        Thru Right     U     Left    Thru Right    U   Left Thru Right       U     Left Thru Right     U
+  All Vehicles      12         852      12    0      64     516      0    0     0     0      8      0      16    0     60     0           1540
+ Heavy Trucks        0          12       0            4       8      0          0     0      0              0    0      4                  28
+  Pedestrians                    0                           12                       0                          0                         12
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/4/2009 12:22 PM                                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

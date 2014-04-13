@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: NE 86th St -- NE Fourth Plain Blvd                                                                             QC JOB #: 10396318
+ CITY/STATE: Vancouver, WA                                                                                                DATE: 12/3/2008
+                      0   0.00    0                            Peak-Hour: 4:00 PM -- 5:00 PM                               0.0      0.0
+
+                      0    0      0
+                                                              Peak 15-Min: 4:40 PM -- 4:55 PM
+                                                                                                                           0.0 0.0 0.0
+
+       493    1                          0    640
+                                                                                                              1.8   0.0                     0.0      2.5
+       0.93   562         0.97         392   0.89
+                                                                                                                    2.0                     2.3
+       684    121                      248    940
+                                                                                                              1.8   0.8                     2.8      1.4
+
+                    100    0     378
+                                                                                                                           0.0 0.0 0.5
+
+                    369 0.86 478
+                                                                                                                           2.2      0.4
+
+
+
+                           0
+
+
+
+
+              0                          1
+
+
+
+
+                           4
+
+
+
+
+ 5-Min Count                NE 86th St                       NE 86th St         NE Fourth Plain Blvd       NE Fourth Plain Blvd
+     Period               (Northbound)                     (Southbound)             (Eastbound)               (Westbound)                             Hourly
+Beginning At Left                                                                                                                         Total
+                           Thru Right     U         Left    Thru Right    U   Left Thru Right       U    Left Thru Right       U                      Totals
+     4:00 PM    11           0      33    0           0       0      0    0     0    45     12       0    17    45       0      0         163
+     4:05 PM     6           0      32    0           0       0      0    0     0    43     11       0    19    30       0      0         141
+     4:10 PM     9           0      28    0           0       0      0    0     0    36     14       0    29    28       0      0         144
+     4:15 PM     8           0      23    0           0       0      0    0     0    50     10       0    21    40       0      0         152
+     4:20 PM     9           0      27    0           0       0      0    0     0    51       8      0    14    26       0      0         135
+     4:25 PM     9           0      30    0           0       0      0    0     0    50     15       0    28    36       0      0         168
+     4:30 PM     4           0      31    0           0       0      0    0     0    37       7      0    21    33       0      0         133
+     4:35 PM     7           0      26    0           0       0      0    0     0    58     14       1    19    27       0      0         152
+     4:40 PM    10           0      33    0           0       0      0    0     0    51       9      0    21    26       0      0         150
+     4:45 PM     6           0      42    0           0       0      0    0     0    41       6      0    16    28       0      0         139
+     4:50 PM     9           0      39    0           0       0      0    0     0    56     13       0    22    36       0      0         175
+     4:55 PM    12           0      34    0           0       0      0    0     0    44       2      0    21    37       0      0         150             1802
+     5:00 PM     8           0      21    0           0       0      0    0     0    42     11       0    28    36       0      0         146             1785
+     5:05 PM     9           0      34    0           0       0      0    0     0    30     13       0    21    28       0      0         135             1779
+     5:10 PM    11           0      35    0           0       0      0    0     0    48       9      0    20    39       0      0         162             1797
+     5:15 PM     8           0      30    0           0       0      0    0     0    46       8      0    20    30       0      0         142             1787
+     5:20 PM     4           0      33    0           0       0      0    0     0    42       8      0    23    27       0      0         137             1789
+     5:25 PM     6           0      36    0           0       0      0    0     0    38       8      0    13    27       0      0         128             1749
+     5:30 PM     1           0      22    0           0       0      0    0     0    47     12       0    21    40       0      0         143             1759
+     5:35 PM    10           0      26    0           0       0      0    0     0    34     12       0    22    31       0      0         135             1742
+     5:40 PM     6           0      24    0           0       0      0    0     0    29       8      1    17    23       0      0         108             1700
+     5:45 PM     8           0      34    0           0       0      0    0     0    38     11       0    19    23       0      0         133             1694
+     5:50 PM     7           0      11    0           0       0      0    0     0    36     16       0    21    31       0      0         122             1641
+     5:55 PM     6           0      11    0           0       0      0    0     0    34     13       0    20    24       0      0         108             1599
+ Peak 15-Min                   Northbound                      Southbound               Eastbound                  Westbound
+                                                                                                                                                  Total
+  Flowrates    Left        Thru Right     U         Left    Thru Right    U   Left Thru Right       U    Left Thru Right       U
+  All Vehicles 100           0    456     0           0       0      0    0     0   592    112       0   236   360       0      0                 1856
+ Heavy Trucks    0           0       0                0       0      0          0    12       0            8     8       0                         28
+  Pedestrians                0                                0                       0                          0                                  0
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/4/2009 12:20 PM                                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

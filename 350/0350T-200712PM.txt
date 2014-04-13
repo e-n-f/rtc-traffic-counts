@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                        Method for determining peak hour: Total Entering Volume
+ LOCATION: SE 164th Ave -- SE 1st St                                                                                      QC JOB #: 10310901
+ CITY/STATE: Vancouver, WA                                                                                                DATE: 12/11/2007
+                    845 0.87 1434                           Peak-Hour: 4:55 PM -- 5:55 PM                                  0.5       0.6
+
+                    48 620 177
+                                                           Peak 15-Min: 5:10 PM -- 5:25 PM
+                                                                                                                           0.0 0.2 1.7
+
+       321    137                   151    396
+                                                                                                              0.0   0.7                      2.6      1.3
+       0.90   104      0.94         126   0.88
+                                                                                                                    1.0                      0.0
+       322    81                    119    440
+                                                                                                              0.6   0.0                      0.8      1.4
+
+                    147 1146 159
+                                                                                                                           0.0 0.3 1.3
+
+                    820 0.86 1452
+                                                                                                                           0.2       0.4
+
+
+
+                         0
+
+
+
+
+              0                       0
+
+
+
+
+                         0
+
+
+
+
+ 5-Min Count        SE 164th Ave                        SE 164th Ave                SE 1st St                    SE 1st St
+     Period         (Northbound)                        (Southbound)              (Eastbound)                  (Westbound)                             Hourly
+Beginning At Left Thru Right                                                                                                               Total
+                                    U            Left    Thru Right    U   Left   Thru Right       U   Left     Thru Right       U                     Totals
+     4:00 PM     6    71      15    0             16      75      1    0     8       5      9      0    13       12     11       0         242
+     4:05 PM    11    73      15    0             11      42      1    0    16     10       8      0    15       16     10       0         228
+     4:10 PM     8   107      14    0             12      60      2    0    11       6      7      0     9       12     19       0         267
+     4:15 PM     9    79      10    0              8      41      1    0    16     11       6      0    11       14     13       0         219
+     4:20 PM    12    85      15    0             17      70      2    0    12       8      7      0     8        7      7       0         250
+     4:25 PM    10    73      10    0             15      47      1    0    14       8     10      0    10       14     10       0         222
+     4:30 PM     9    78       6    0             16      76      1    0     5     14       9      0    12        6      6       0         238
+     4:35 PM    10   103       4    0              5      51      4    0    18       9      4      0     8        3     23       0         242
+     4:40 PM    11    87       4    0             16      62      3    0     9       7      4      0    12        9     10       0         234
+     4:45 PM    19    87      11    0              6      45      1    0     9     12       8      0     6       12      7       0         223
+     4:50 PM    12   100      10    0              7      76      1    0     9       6      5      0     8       14      8       0         256
+     4:55 PM    13    98      10    0             13      42      2    0    13       5      6      0     3       11     12       0         228             2849
+     5:00 PM    10    98      10    0             13      58      5    0    11       5      8      0     6        5     11       0         240             2847
+     5:05 PM    15   117      11    0              6      32      4    0    20     11       5      0    12       14     15       0         262             2881
+     5:10 PM    11   123      10    0             10      60      6    0    14     10       5      0     9        7     18       0         283             2897
+     5:15 PM    15   102      20    0              7      36      3    0    13       6     10      0    10       18     12       0         252             2930
+     5:20 PM    15   102      12    0             20      64      8    0     7     10       6      0     3       10     10       0         267             2947
+     5:25 PM    11    80      13    0             15      42      5    0    11     14       4      0    11       12     11       0         229             2954
+     5:30 PM     9    86      12    0             25      61      1    0    10       4      5      0    13       10     14       0         250             2966
+     5:35 PM    10    90      18    0             19      60      6    0    12     10       7      0    12       17      7       0         268             2992
+     5:40 PM    11    80      14    0             15      45      3    0     5       6      6      0    14        7     13       0         219             2977
+     5:45 PM    12    67      14    0             15      44      3    0    12     16       7      0    16        6     14       0         226             2980
+     5:50 PM    15   103      15    0             19      76      2    0     9       7     12      0    10        9     14       0         291             3015
+     5:55 PM    13    77      11    0             12      34      4    0     8       9     10      0    15       11     10       0         214             3001
+ Peak 15-Min             Northbound                         Southbound                 Eastbound                    Westbound
+                                                                                                                                                   Total
+  Flowrates    Left Thru Right      U            Left    Thru Right    U   Left   Thru Right       U   Left     Thru Right       U
+  All Vehicles 164 1308     168     0            148     640     68    0   136    104      84      0    88      140   160        0                 3208
+ Heavy Trucks    0     8       0                   4       4      0          0       4      0            0        0      4                          24
+  Pedestrians          0                                   0                         0                            0                                  0
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/4/2009 12:22 PM                                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

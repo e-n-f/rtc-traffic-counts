@@ -1,0 +1,79 @@
+Type of peak hour being reported: System Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Dallas St -- 3rd Ave                                                                                                 QC JOB #: 10624503
+ CITY/STATE: Camas , OR                                                                                                         DATE: 5/26/2011
+                       176 0.86 228                                Peak-Hour: 4:50 PM -- 5:50 PM                                 0.6       0.9
+
+                          31    83    62
+                                                                  Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                                 0.0 1.2 0.0
+
+       274     19                           78    283
+                                                                                                                    1.5   0.0                      0.0      0.7
+        0.98   362             0.91        176   0.91
+                                                                                                                          1.9                      0.6
+       464     83                           29    460
+                                                                                                                    1.7   1.2                      3.4      2.2
+
+                          67 131 36
+                                                                                                                                 4.5 1.5 8.3
+
+                       195 0.84 234
+                                                                                                                                 1.5       3.4
+
+
+
+                                1                                                                                                0     0   0
+
+
+                                                                                                                          0                         0
+
+               14                           10                                                                            0                         0
+
+                                                                                                                          0                         0
+
+
+                                13                                                                                               0     0   0
+
+
+
+
+ 5-Min Count                     Dallas St                       Dallas St                 3rd Ave                      3rd Ave
+     Period                    (Northbound)                    (Southbound)              (Eastbound)                 (Westbound)                             Hourly
+Beginning At                                                                                                                                     Total
+                    Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U                     Totals
+     4:00 PM          5          12       2    0          5       4      2    0     1     29      9      0     2       12      4       0          87
+     4:05 PM          9          13       4    0          4       5      1    0     1     20      3      0     5       16      5       0          86
+     4:10 PM          9           9       1    0          2       9      0    0     1     20      7      0     6       18      9       0          91
+     4:15 PM          8           9       1    0          7       9      2    0     1     28      8      0     4       19      6       0         102
+     4:20 PM          1          12       6    0          4       8      0    0     1     22      5      0     5       22      4       0          90
+     4:25 PM          5          10       1    0          4       5      0    0     0     28      8      0     2       25      5       0          93
+     4:30 PM          5          20       4    0          4       5      2    0     1     25      6      0     3       14      7       0          96
+     4:35 PM          8          11       6    0          3       6      0    0     1     27      8      0     2       26      7       0         105
+     4:40 PM          6          14       2    0          3       7      1    0     1     32      3      0     4       26      6       0         105
+     4:45 PM          3          10       3    0          9       6      1    0     2     27      7      0     3       17      6       0          94
+     4:50 PM          5          11       5    0          8       8      2    0     2     30      5      0     0       15      6       0          97
+     4:55 PM          6           7       3    0          3       4      1    0     1     36      8      0     3       10     11       0          93             1139
+     5:00 PM          5          16       4    0          7      11      4    0     1     36      6      0     5       17      7       0         119             1171
+     5:05 PM          4           8       3    0          8      11      3    0     2     27     11      0     4       14      8       0         103             1188
+     5:10 PM          8          15       3    0          4       7      4    0     2     33      6      0     2       19      6       0         109             1206
+     5:15 PM          9          16       4    0          6       4      4    0     0     30      7      0     2       15      8       0         105             1209
+     5:20 PM          7           7       3    0          5       3      1    0     1     29      3      0     2       18      3       0          82             1201
+     5:25 PM          5          15       2    0          2      10      3    0     0     30      9      0     3       16      8       0         103             1211
+     5:30 PM          6          12       2    0          7       4      2    0     2     33      7      0     1       13      3       0          92             1207
+     5:35 PM          2           5       3    0          3       6      1    0     4     29      8      0     2       16      6       0          85             1187
+     5:40 PM          7          12       1    0          5       8      2    0     3     25      3      0     2       13      6       0          87             1169
+     5:45 PM          3           7       3    0          4       7      4    0     1     24     10      0     3       10      6       0          82             1157
+     5:50 PM          2          14       4    0          4       7      4    0     2     36      8      0     4       13      6       0         104             1164
+     5:55 PM          6          11       1    0          3       6      4    0     1     27     12      0     0       14      4       0          89             1160
+ Peak 15-Min                        Northbound                     Southbound                Eastbound                    Westbound
+                                                                                                                                                         Total
+  Flowrates         Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles       84         156      40    0         72      88     44    0    16    360     96      0    32      192     88       0                 1268
+ Heavy Trucks         8           4       4               0       4      0          0      0      0            0        0      0                          20
+  Pedestrians                    16                               4                        8                           12                                 40
+   Bicycles           0           0       0               0       0      0          0      0      0            0        0      0                           0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/16/2011 12:25 PM                                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

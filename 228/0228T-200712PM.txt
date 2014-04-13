@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                      Method for determining peak hour: Total Entering Volume
+ LOCATION: NE 138th Ave -- NE 18th St                                                                                   QC JOB #: 10310911
+ CITY/STATE: Vancouver, WA                                                                                              DATE: 12/11/2007
+                    549 0.92 736                           Peak-Hour: 4:30 PM -- 5:30 PM                                 2.6       1.4
+
+                    37 364 148
+                                                          Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                         0.0 3.6 0.7
+
+       434    58                   134    580
+                                                                                                            0.9   1.7                      0.7      1.4
+       0.87   356      0.96        268   0.92
+                                                                                                                  1.1                      0.4
+       516    102                  178    789
+                                                                                                            1.9   4.9                      3.4      0.9
+
+                    129 544 285
+                                                                                                                         2.3 1.5 0.7
+
+                    644 0.92 958
+                                                                                                                         3.7       1.4
+
+
+
+                         0
+
+
+
+
+              0                      1
+
+
+
+
+                         1
+
+
+
+
+ 5-Min Count           NE 138th Ave                    NE 138th Ave               NE 18th St                   NE 18th St
+     Period            (Northbound)                    (Southbound)              (Eastbound)                 (Westbound)                             Hourly
+Beginning At Left                                                                                                                        Total
+                        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U                     Totals
+     4:00 PM     6       39      17    0         11      28      2    0     7     22      5      0    14       20     16       0         187
+     4:05 PM     7       45      23    0         13      34      6    0     7     32     10      0    10       18     18       0         223
+     4:10 PM     8       55      17    0         16      36      3    0     3     20      6      0    11       26      8       0         209
+     4:15 PM     6       35      18    0         14      21      4    0     4     22      6      0     5       20      8       0         163
+     4:20 PM     9       44      11    0         19      34      4    0     3     30      6      0     6       17     10       0         193
+     4:25 PM     6       54      34    0         14      10      1    0     6     19     11      0    11       22     14       0         202
+     4:30 PM     7       44      17    0         11      39      3    0     6     28      7      0    20       22     12       0         216
+     4:35 PM    21       43      31    0         17      31      5    0     3     30      6      0    12       21      6       0         226
+     4:40 PM    10       44      21    0          8      32      4    0     6     24      6      0    22       17     11       0         205
+     4:45 PM    11       39      13    0         14      34      1    0     2     32     10      0    16       28     11       0         211
+     4:50 PM     8       42      22    0         11      39      0    0     3     28     16      0    13       15      8       0         205
+     4:55 PM    13       52      19    0         12      25      0    0     5     28      4      0     7       22      8       0         195             2435
+     5:00 PM    17       30      26    0         12      23      2    0     8     26     11      0    17       20     17       0         209             2457
+     5:05 PM     4       68      28    0         12      26      5    0     6     29      4      0    15       23      9       0         229             2463
+     5:10 PM    13       46      30    0         13      31      9    0     4     34      7      0    11       28     12       0         238             2492
+     5:15 PM     5       48      23    0         15      26      3    0     3     31      9      0    12       18      8       0         201             2530
+     5:20 PM     9       47      27    0         12      34      4    0     6     29     10      0    17       24     13       0         232             2569
+     5:25 PM    11       41      28    0         11      24      1    0     6     37     12      0    16       30     19       0         236             2603
+     5:30 PM     7       36      20    0          6      38      3    0     5     44      5      0    13       25     12       0         214             2601
+     5:35 PM     9       39      19    0         16      31      2    0     4     32      7      0    10       18      6       0         193             2568
+     5:40 PM     4       38      19    0         11      33      2    0     3     20      4      0    10       20      6       0         170             2533
+     5:45 PM     8       36      25    0         10      32      3    0     3     25     11      0     9       17      9       0         188             2510
+     5:50 PM     8       40      20    0          9      35      5    0     6     19      3      0     9       11     10       0         175             2480
+     5:55 PM     7       44      10    0         13      30      5    0     3     19      7      0     7       15     12       0         172             2457
+ Peak 15-Min                Northbound                     Southbound                Eastbound                    Westbound
+                                                                                                                                                 Total
+  Flowrates    Left     Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles 136      576    336     0        148     320     64    0    72    356     88      0   172      284    152       0                 2704
+ Heavy Trucks    0        4       0               0       8      0          0      0      0            4        0      4                          20
+  Pedestrians             4                               0                        0                            0                                  4
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/4/2009 12:22 PM                                                 SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

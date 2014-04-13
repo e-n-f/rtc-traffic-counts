@@ -1,0 +1,79 @@
+Type of peak hour being reported: System Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Brady Rd -- 16th Ave                                                                                             QC JOB #: 10619909
+ CITY/STATE: Camas, OR                                                                                                      DATE: 5/19/2011
+                       234 0.91 252                           Peak-Hour: 4:50 PM -- 5:50 PM                                  2.1       1.2
+
+                          18 108 108
+                                                             Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                             5.6 2.8 0.9
+
+       114     18                      80    246
+                                                                                                                2.6   0.0                      2.5      2.4
+        0.81   102          0.97       75   1.00
+                                                                                                                      1.0                      2.7
+       136     16                      91    367
+                                                                                                                0.7   0.0                      2.2      0.8
+
+                          21 154 157
+                                                                                                                             0.0 0.6 0.6
+
+                       215 0.98 332
+                                                                                                                             2.3       0.6
+
+
+
+                              0                                                                                              0     0   0
+
+
+                                                                                                                      0                         0
+
+               0                        3                                                                             1                         0
+
+                                                                                                                      0                         0
+
+
+                             14                                                                                              0     0   0
+
+
+
+
+ 5-Min Count                  Brady Rd                      Brady Rd                  16th Ave                     16th Ave
+     Period                 (Northbound)                  (Southbound)              (Eastbound)                  (Westbound)                               Hourly
+Beginning At                                                                                                                                 Total
+                    Left     Thru Right     U      Left    Thru Right    U   Left   Thru Right       U   Left     Thru Right       U                       Totals
+     4:00 PM          2       12       8    0        4       4     4     0     0       4      2      0     5        4      3       0          52
+     4:05 PM          2        7       8    0        5      11     1     0     2       4      1      0    11        5      3       0          60
+     4:10 PM          0        8      10    0        6       5     0     0     1       4      4      0     4        2      8       0          52
+     4:15 PM          2       14       7    0        8      13     0     0     1     22       2      0     3        8      3       0          83
+     4:20 PM          1       13      11    0        3       4     2     0     1       5      2      0     7        6      6       0          61
+     4:25 PM          0        9      16    0        4       5     1     0     2       6      2      0     5        9      2       0          61
+     4:30 PM          1       11       8    0       12      10     0     0     0     10       2      0     6        6      9       0          75
+     4:35 PM          2       10      13    0        8       2     5     0     5       7      0      0     4       11      8       0          75
+     4:40 PM          4       15       5    0        4      12     5     0     1       9      0      0     9       10      8       0          82
+     4:45 PM          1       13       9    0        5       8     3     0     2       5      1      0     8        5      7       0          67
+     4:50 PM          2       10      16    0        5       8     2     0     2       4      0      0    10        6      9       0          74
+     4:55 PM          6       11      19    0        8       2     3     0     1       5      2      0     6        6      4       0          73              815
+     5:00 PM          1       17       9    0       10       7     4     0     3       5      2      0     7        4      6       0          75              838
+     5:05 PM          0       11      18    0        5      12     0     0     1     11       1      0     4        5      8       0          76              854
+     5:10 PM          0       15      16    0        7      13     0     0     2     13       1      0    12        4      7       0          90              892
+     5:15 PM          0       12      13    0       15      10     2     0     2     10       1      0     2        6      6       0          79              888
+     5:20 PM          3       10      11    0       10       8     1     0     2     14       1      0     9        7      4       0          80              907
+     5:25 PM          0       13       9    0       13       8     1     0     1       4      1      0    11        6      5       0          72              918
+     5:30 PM          2       14      12    0        8       9     0     0     2     13       3      0     5        5      6       0          79              922
+     5:35 PM          3        8       9    0       11      13     1     0     0       6      1      0     7       10      5       0          74              921
+     5:40 PM          4       20      12    0        7      11     3     0     1       9      1      0     8        7      9       0          92              931
+     5:45 PM          0       13      13    0        9       7     1     0     1       8      2      0    10        9     11       0          84              948
+     5:50 PM          2       14      15    0        7       5     2     0     1     13       3      0    11        4      7       0          84              958
+     5:55 PM          1       15       9    0        8       9     2     0     1     12       1      0     6        5      5       0          74              959
+ Peak 15-Min                     Northbound                   Southbound                 Eastbound                    Westbound
+                                                                                                                                                     Total
+  Flowrates         Left     Thru Right     U      Left    Thru Right    U   Left   Thru Right       U   Left     Thru Right       U
+  All Vehicles        0      152    188     0      108     140     8     0    20    136      12      0    72       60     84       0                 980
+ Heavy Trucks         0        0       0             4       4     0           0       0      0            4        0      4                         16
+  Pedestrians                  8                             0                         0                            4                                12
+   Bicycles           0        0       0             0       0     0           0       0      0            0        0      0                          0
+   Railroad
+Stopped Buses
+ Comments: NE
+Report generated on 6/16/2011 12:25 PM                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

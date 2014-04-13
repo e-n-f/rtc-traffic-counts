@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: NE Andresen Rd -- NE Vancouver Mall Dr                                                                          QC JOB #: 10396307
+ CITY/STATE: Vancouver, WA                                                                                                 DATE: 12/3/2008
+                      804 0.98 1038                              Peak-Hour: 4:20 PM -- 5:20 PM                              1.5     1.2
+
+                          0   541 263
+                                                                Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                            0.0 1.8 0.8
+
+       0       0                        364    529
+                                                                                                               0.0   0.0                    1.1      1.1
+        0.00   0              0.95        0   0.87
+                                                                                                                     0.0                    0.0
+       0       0                        165    468
+                                                                                                               0.0   0.0                    1.2      0.9
+
+                          0   674 205
+                                                                                                                            0.0 1.2 1.0
+
+                      706 0.96 879
+                                                                                                                            1.7     1.1
+
+
+
+                               0
+
+
+
+
+               0                          0
+
+
+
+
+                               5
+
+
+
+
+ 5-Min Count              NE Andresen Rd                    NE Andresen Rd        NE Vancouver Mall Dr     NE Vancouver Mall Dr
+     Period                (Northbound)                      (Southbound)             (Eastbound)              (Westbound)                            Hourly
+Beginning At                                                                                                                              Total
+                   Left     Thru Right     U         Left     Thru Right    U   Left Thru Right      U   Left Thru Right      U                       Totals
+     4:00 PM         0       64      15    0          21       46     0     0     0     0      0     0     6     0     36     0           188
+     4:05 PM         0       52      14    0          13       50     0     0     0     0      0     0    10     0     24     0           163
+     4:10 PM         0       42      17    0          25       50     0     0     0     0      0     0    12     0     28     0           174
+     4:15 PM         0       63      12    0          22       53     0     0     0     0      0     0    12     0     20     0           182
+     4:20 PM         0       55      24    0          18       56     0     0     0     0      0     0    16     0     26     0           195
+     4:25 PM         0       41      19    0          16       44     0     0     0     0      0     0     8     0     31     0           159
+     4:30 PM         0       73      16    0          13       37     0     0     0     0      0     0    14     0     34     0           187
+     4:35 PM         0       45      19    0          19       47     0     0     0     0      0     0    14     0     24     0           168
+     4:40 PM         0       65      17    0          24       48     0     0     0     0      0     0    15     0     29     0           198
+     4:45 PM         0       60      14    0          23       50     0     0     0     0      0     0    13     0     25     0           185
+     4:50 PM         0       53      13    0          17       39     0     0     0     0      0     0    10     0     28     0           160
+     4:55 PM         0       58      21    0          26       45     0     0     0     0      0     0    16     0     27     0           193             2152
+     5:00 PM         0       69      17    0          28       49     0     0     0     0      0     0    19     0     28     0           210             2174
+     5:05 PM         0       45      14    0          27       35     0     0     0     0      0     0    10     0     41     0           172             2183
+     5:10 PM         0       71      16    0          22       42     0     0     0     0      0     0    13     0     36     0           200             2209
+     5:15 PM         0       39      15    0          30       49     0     0     0     0      0     0    17     0     35     0           185             2212
+     5:20 PM         0       72      13    0          13       42     0     0     0     0      0     0     9     0     19     0           168             2185
+     5:25 PM         0       61      13    0          19       57     0     0     0     0      0     0     6     0     16     0           172             2198
+     5:30 PM         0       65      17    0          14       43     0     0     0     0      0     0    16     0     22     0           177             2188
+     5:35 PM         0       46      19    0          21       44     0     0     0     0      0     0    18     0     34     0           182             2202
+     5:40 PM         0       50      15    0          24       60     0     0     0     0      0     0     5     0     18     0           172             2176
+     5:45 PM         0       56      20    0          18       39     0     0     0     0      0     0    10     0     28     0           171             2162
+     5:50 PM         0       46      12    0          14       43     0     0     0     0      0     0    10     0     25     0           150             2152
+     5:55 PM         0       47      14    0          22       31     0     0     0     0      0     0     6     0     14     0           134             2093
+ Peak 15-Min                    Northbound                       Southbound               Eastbound                Westbound
+                                                                                                                                                  Total
+  Flowrates        Left     Thru Right     U         Left     Thru Right    U   Left Thru Right      U   Left Thru Right      U
+  All Vehicles       0      740    188     0         308      504     0     0     0     0      0     0   168     0    420     0                   2328
+ Heavy Trucks        0        4       0                0        4     0           0     0      0           0     0      4                          12
+  Pedestrians                 4                                 0                       0                        0                                  4
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/4/2009 12:20 PM                                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

@@ -1,0 +1,79 @@
+Type of peak hour being reported: System Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Union -- SR-14                                                                                                       QC JOB #: 10624504
+ CITY/STATE: Camas , OR                                                                                                         DATE: 5/26/2011
+                       180 0.82 159                                Peak-Hour: 4:50 PM -- 5:50 PM                                 3.9       5.0
+
+                          87    8     85
+                                                                  Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                                 5.7 0.0 2.4
+
+       844     82                           73    831
+                                                                                                                    4.0   8.5                      1.4      3.6
+        1.00   1034            0.94        752   0.88
+                                                                                                                          2.3                      3.9
+       1134    18                            6   1123
+                                                                                                                    2.7   0.0                      0.0      2.3
+
+                           5    4     4
+                                                                                                                                 0.0 0.0 0.0
+
+                          32 1.00 13
+                                                                                                                                 0.0       0.0
+
+
+
+                                0                                                                                                0     0   0
+
+
+                                                                                                                          0                         0
+
+               0                             0                                                                            0                         0
+
+                                                                                                                          0                         0
+
+
+                                0                                                                                                0     0   0
+
+
+
+
+ 5-Min Count                       Union                           Union                    SR-14                        SR-14
+     Period                    (Northbound)                    (Southbound)              (Eastbound)                 (Westbound)                             Hourly
+Beginning At                                                                                                                                     Total
+                    Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U                     Totals
+     4:00 PM          1           0      0     0          5       2     16    0     5     82      0      0     1       50      9       0         171
+     4:05 PM          0           1      1     0          7       2      9    0     7     59      4      0     0       60      6       0         156
+     4:10 PM          1           0      2     0          8       1      3    0     4     92      2      0     0       76     14       0         203
+     4:15 PM          1           2      1     0         15       0     12    0     4     83      1      0     0       60      7       0         186
+     4:20 PM          1           0      0     0          7       1     10    0     5     85      1      0     0       63      7       0         180
+     4:25 PM          1           0      2     0          7       1      6    0     4     94      0      0     0       60     11       0         186
+     4:30 PM          3           1      0     0          8       0     11    0     8     86      0      0     0       40     13       0         170
+     4:35 PM          1           0      0     0          6       0      8    0     3     92      0      0     0       60      4       0         174
+     4:40 PM          1           2      0     0          8       1     13    0    10     82      2      0     1       58      6       0         184
+     4:45 PM          0           1      0     0          4       2      4    0     7     91      0      0     0       68      3       0         180
+     4:50 PM          2           0      2     0          6       0      7    0     3     92      0      0     1       72      6       0         191
+     4:55 PM          0           1      1     0          3       0      8    0     4    101      0      0     0       60      5       0         183             2164
+     5:00 PM          0           0      0     0          5       3     14    0     9     85      1      0     0       61      9       0         187             2180
+     5:05 PM          1           0      0     0         19       0     10    0     9     73      2      0     3       57      7       0         181             2205
+     5:10 PM          0           0      0     0          5       1      8    0    11     96      1      0     0       78      7       0         207             2209
+     5:15 PM          0           2      0     0          7       1      4    0     7     78      0      0     0       77      7       0         183             2206
+     5:20 PM          0           0      0     0          6       0      4    0    11     93      3      0     0       53      3       0         173             2199
+     5:25 PM          0           0      1     0          6       0      7    0     9     79      3      0     0       61      6       0         172             2185
+     5:30 PM          0           0      0     0          6       0      7    0     5     89      0      0     1       59      6       0         173             2188
+     5:35 PM          1           0      0     0         10       1      8    0     7     87      3      0     1       68      3       0         189             2203
+     5:40 PM          1           1      0     0          5       1      5    0     4     86      3      0     0       61      6       0         173             2192
+     5:45 PM          0           0      0     0          7       1      5    0     3     75      2      0     0       45      8       0         146             2158
+     5:50 PM          2           1      1     0          7       0      7    0     6     75      1      0     0       46      6       0         152             2119
+     5:55 PM          0           0      1     0          3       1     10    0     6     87      1      0     0       43      3       0         155             2091
+ Peak 15-Min                        Northbound                     Southbound                Eastbound                    Westbound
+                                                                                                                                                         Total
+  Flowrates         Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles        4           8      0     0        124       8     88    0   108    988     12      0    12      848     84       0                 2284
+ Heavy Trucks         0           0      0                0       0      4         12     36      0            0       28      0                          80
+  Pedestrians                     0                               0                        0                            0                                  0
+   Bicycles           0           0      0                0       0      0          0      0      0            0        0      0                           0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/16/2011 12:25 PM                                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

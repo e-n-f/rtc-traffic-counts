@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: NE 112th Ave -- NE 9th St                                                                                       QC JOB #: 10310917
+ CITY/STATE: Vancouver, WA                                                                                                 DATE: 12/11/2007
+                       681 0.86 931                          Peak-Hour: 4:20 PM -- 5:20 PM                                  1.0       1.4
+
+                       39 594 48
+                                                            Peak 15-Min: 4:30 PM -- 4:45 PM
+                                                                                                                            2.6 1.0 0.0
+
+       145     53                     65    174
+                                                                                                               1.4   0.0                      1.5      0.6
+        0.87   83          0.90       58   0.88
+                                                                                                                     2.4                      0.0
+       187     51                     51    178
+                                                                                                               1.1   0.0                      0.0      1.1
+
+                       48 813 47
+                                                                                                                            2.1 1.5 0.0
+
+                       696 0.92 908
+                                                                                                                            0.9       1.4
+
+
+
+                            0
+
+
+
+
+               1                       0
+
+
+
+
+                            0
+
+
+
+
+ 5-Min Count               NE 112th Ave                  NE 112th Ave                NE 9th St                    NE 9th St
+     Period                (Northbound)                  (Southbound)              (Eastbound)                  (Westbound)                             Hourly
+Beginning At                                                                                                                                Total
+                    Left    Thru Right     U      Left    Thru Right    U   Left   Thru Right       U   Left     Thru Right       U                     Totals
+     4:00 PM          5      60       7    0        3      48      2    0     4       6      4      0     6        5      5       0         155
+     4:05 PM          4      53       3    0        4      50      4    0     5       8      5      0     2        3      6       0         147
+     4:10 PM          2      61       1    0        4      66      1    0     3       8      5      0     7        4      4       0         166
+     4:15 PM          1      46       6    0        2      56      1    0     4       9      4      0     4        4      5       0         142
+     4:20 PM         13      71       4    0        3      54      2    0     5       8      5      0     2        4      9       0         180
+     4:25 PM          3      61       3    0        4      37      2    0     3       7      5      0     5       10      4       0         144
+     4:30 PM          6      82       3    0        3      51      4    0     1       7      6      0     3        7      8       0         181
+     4:35 PM          3      68       6    0        6      56      5    0     3     11       7      0     5        1      7       0         178
+     4:40 PM          5      70       4    0        6      59      4    0     8       9      3      0     1        5      6       0         180
+     4:45 PM          4      62       2    0        4      60      7    0     4       5      4      0     7        6      5       0         170
+     4:50 PM          2      71       4    0        3      48      3    0     8       5      1      0     2        4      1       0         152
+     4:55 PM          2      57       6    0        3      39      4    0     2       6      4      0     2        1      4       0         130             1925
+     5:00 PM          3      67       4    0        3      43      1    0     3       5      2      0     6        6      8       0         151             1921
+     5:05 PM          2      65       3    0        4      48      0    0     5       8      6      0     8        7      2       0         158             1932
+     5:10 PM          2      78       6    0        1      53      6    0     7       5      5      0     4        5      4       0         176             1942
+     5:15 PM          3      61       2    0        8      46      1    0     4       7      3      0     6        2      7       0         150             1950
+     5:20 PM          2      76       3    0        5      42      4    0     5       5      7      0     8        4      2       0         163             1933
+     5:25 PM          4      61       3    0        4      45      1    0     4       5      3      0     6        7      8       0         151             1940
+     5:30 PM          5      56       6    0        6      44      6    0     4       7      3      0     4        6      2       0         149             1908
+     5:35 PM          4      48       2    0        3      44      1    0     4       2      7      0     1        4      4       0         124             1854
+     5:40 PM          1      60       6    0        5      43      4    0     5       7      6      0     0        5      5       0         147             1821
+     5:45 PM          4      38       3    0        3      37      3    0     1       6      7      0     1        4      3       0         110             1761
+     5:50 PM          5      56       5    0        4      43      0    0     6       6      6      0     9        3      1       0         144             1753
+     5:55 PM          2      63       3    0        5      52      4    0     5       5      0      0     3        3      1       0         146             1769
+ Peak 15-Min                    Northbound                   Southbound                 Eastbound                    Westbound
+                                                                                                                                                    Total
+  Flowrates         Left    Thru Right     U      Left    Thru Right    U   Left   Thru Right       U   Left     Thru Right       U
+  All Vehicles       56     880      52    0       60     664     52    0    48    108      64      0    36       52     84       0                 2156
+ Heavy Trucks         0      12       0             0       4      0          0       0      0            0        0      4                          20
+  Pedestrians                 0                             0                         0                            0                                  0
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/4/2009 12:22 PM                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

@@ -1,0 +1,83 @@
+Type of peak hour being reported: Intersection Peak                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: NE Thurston Way/NE Royal Oaks Dr -- NE Fourth Plain Blvd                                               QC JOB #: 10310819
+ CITY/STATE: Vancouver, WA                                                                                        DATE: 12/6/2007
+                    343 0.86 331                       Peak-Hour: 4:45 PM -- 5:45 PM                               1.2      1.2
+
+                    232    9     102
+                                                      Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                   1.3 0.0 1.0
+
+       680    256                       71    522
+                                                                                                      1.8   1.6                     0.0      1.7
+       0.92   720         0.94         444   0.89
+                                                                                                            1.9                     2.0
+       976    0                          7    838
+                                                                                                      1.8   0.0                     0.0      1.9
+
+                     4     4     16
+                                                                                                                   0.0 0.0 6.3
+
+                    16 0.75 24
+                                                                                                                   0.0      4.2
+
+
+
+                           2
+
+
+
+
+              1                          0
+
+
+
+
+                           0
+
+
+
+
+ 5-Min Count                                                            NE Fourth Plain Blvd       NE Fourth Plain Blvd
+     Period    NE Thurston Way/NE Royal Oaks
+                                         NE Thurston
+                                              Dr       Way/NE Royal Oaks Dr
+                                                                            (Eastbound)               (Westbound)                             Hourly
+                     (Northbound)
+Beginning At Left Thru Right                     (Southbound)                                                                     Total
+                                     U    Left Thru Right       U     Left Thru Right       U    Left Thru Right       U                      Totals
+     4:00 PM      0     2       0    0     10       1    24     0      12    48       0      0     1    23     10       0         131
+     4:05 PM      0     1       1    0      3       0    22     0      20    74       0      0     0    38       3      0         162
+     4:10 PM      1     2       0    0     11       0    30     0      15    53       0      0     0    41       6      0         159
+     4:15 PM      0     0       1    0      4       0    12     0      21    60       1      0     1    45       2      0         147
+     4:20 PM      0     1       1    0      7       1    12     0      29    56       0      0     0    39       6      0         152
+     4:25 PM      0     0       0    0      8       0    22     0      16    49       0      0     0    38       6      0         139
+     4:30 PM      0     3       1    0     12       0    21     0      20    68       0      0     0    36       5      0         166
+     4:35 PM      2     0       2    0      5       0    14     0      19    57       0      0     0    21       2      0         122
+     4:40 PM      0     0       1    0     10       1    13     0      17    52       1      0     0    36       7      0         138
+     4:45 PM      0     0       1    0      9       2    19     0      14    58       0      0     0    35       3      0         141
+     4:50 PM      1     0       2    0     10       1    22     0      21    52       0      0     0    34       9      0         152
+     4:55 PM      0     1       1    0      4       0    22     0      30    63       0      0     0    32     12       0         165             1774
+     5:00 PM      1     0       0    0     10       0    31     0      20    53       0      0     0    27       8      0         150             1793
+     5:05 PM      0     1       1    0     12       0    12     0      25    67       0      0     0    40       5      0         163             1794
+     5:10 PM      1     0       1    0      6       0    21     0      18    68       0      0     1    49       6      0         171             1806
+     5:15 PM      0     2       2    0      9       1    22     0      19    67       0      0     3    32       5      0         162             1821
+     5:20 PM      1     0       0    0      8       0    15     0      24    61       0      0     0    46       4      0         159             1828
+     5:25 PM      0     0       1    0      6       1    15     0      32    66       0      0     0    40       2      0         163             1852
+     5:30 PM      0     0       3    0     13       1    15     0      24    60       0      0     0    27       5      0         148             1834
+     5:35 PM      0     0       2    0      6       1    18     0      13    56       0      0     1    42       6      0         145             1857
+     5:40 PM      0     0       2    0      9       2    20     0      16    49       0      0     2    40       6      0         146             1865
+     5:45 PM      1     0       2    0      7       0    13     0      16    57       0      0     1    23       3      0         123             1847
+     5:50 PM      0     0       4    0      6       3    23     0      18    43       0      0     2    34       7      0         140             1835
+     5:55 PM      0     0       1    0      3       5    20     0      19    36       0      0     2    32       6      0         124             1794
+ Peak 15-Min              Northbound                 Southbound                 Eastbound                  Westbound
+                                                                                                                                          Total
+  Flowrates     Left Thru Right      U    Left Thru Right       U     Left Thru Right       U    Left Thru Right       U
+  All Vehicles    4    12      16    0   108        4   220     0    248    808       0      0    16   484     64       0                 1984
+ Heavy Trucks     0     0       0           0       0     8             4    12       0            0    16       0                         40
+  Pedestrians           0                           0                         0                          0                                  0
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/4/2009 12:24 PM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

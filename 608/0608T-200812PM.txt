@@ -1,0 +1,79 @@
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: NE 141st Ave -- NE 18th St                                                                                        QC JOB #: 10396424
+ CITY/STATE: Vancouver, WA                                                                                                   DATE: 12/4/2008
+                       102 0.54 111                             Peak-Hour: 4:40 PM -- 5:40 PM                                 1.0       0.9
+
+                       66    15    21
+                                                               Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                              1.5 0.0 0.0
+
+       629     78                        18    506
+                                                                                                                 1.3   0.0                      5.6      1.2
+        0.88   660          0.92        474   0.95
+                                                                                                                       0.8                      1.1
+       822     84                        14    695
+                                                                                                                 0.9   2.4                      0.0      0.7
+
+                       89    15    14
+                                                                                                                              2.2 0.0 0.0
+
+                       113 0.88 118
+                                                                                                                              1.8       1.7
+
+
+
+                             0
+
+
+
+
+               11                         7
+
+
+
+
+                             0
+
+
+
+
+ 5-Min Count                NE 141st Ave                    NE 141st Ave               NE 18th St                   NE 18th St
+     Period                 (Northbound)                    (Southbound)              (Eastbound)                 (Westbound)                             Hourly
+Beginning At                                                                                                                                  Total
+                    Left     Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U                     Totals
+     4:00 PM         11        2       0    0          5       4     15    0    13     44     11      0     2       31      0       0         138
+     4:05 PM          7        3       1    0          4       2      6    0     7     47      6      0     1       46      0       0         130
+     4:10 PM          9        1       3    0          6       1      8    0     3     42      5      0     2       44      1       0         125
+     4:15 PM          5        4       1    0          3       0      1    0     3     42      2      0     0       30      0       0          91
+     4:20 PM          9        1       1    0          5       0      4    0    11     50      4      0     0       41      3       0         129
+     4:25 PM          9        1       0    0          0       0      8    0     4     52      4      0     3       43      0       0         124
+     4:30 PM          6        1       2    0          0       0      3    0     7     47      4      1     2       35      0       0         108
+     4:35 PM          6        3       1    0          0       2      0    0     4     60      4      0     1       32      0       0         113
+     4:40 PM          7        1       1    0          3       0      3    0     3     42     16      0     0       38      2       0         116
+     4:45 PM          6        0       1    0          1       0      2    0     2     68      6      0     1       40      4       0         131
+     4:50 PM          9        2       4    0          5       2      9    0     5     34      3      0     2       40      3       0         118
+     4:55 PM          7        4       1    0          1       3      5    0    11     45     12      0     4       39      0       0         132             1455
+     5:00 PM         10        0       1    0          3       1      4    0     6     66      5      0     0       41      0       0         137             1454
+     5:05 PM          8        0       1    0          0       2      2    0     9     70      9      0     1       43      2       0         147             1471
+     5:10 PM          6        1       2    0          1       0      8    0     7     48      8      0     1       35      2       0         119             1465
+     5:15 PM         10        2       0    0          4       2     11    0    10     62      7      0     1       44      0       0         153             1527
+     5:20 PM          4        1       1    0          1       1      7    0     8     49      3      0     2       43      2       0         122             1520
+     5:25 PM         11        3       1    0          1       2      3    0     6     57      6      0     0       37      2       0         129             1525
+     5:30 PM          5        1       0    0          1       1      8    0     5     60      3      0     0       31      1       0         116             1533
+     5:35 PM          6        0       1    0          0       1      4    0     6     59      6      0     2       43      0       0         128             1548
+     5:40 PM         10        1       0    0          1       0      7    0     5     49      3      0     0       32      0       0         108             1540
+     5:45 PM          8        0       1    0          1       0      0    0     3     56      4      0     0       24      0       0          97             1506
+     5:50 PM          5        0       0    0          1       0      6    0     5     37      2      0     0       30      0       0          86             1474
+     5:55 PM          3        0       0    0          1       0      1    0     3     44      9      1     1       33      1       0          97             1439
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                    Westbound
+                                                                                                                                                      Total
+  Flowrates         Left     Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles       96       12      12    0         20      16     84    0   104    720     96      0    12      488     16       0                 1676
+ Heavy Trucks         0        0       0               0       0      4          0     12      4            0        4      0                          24
+  Pedestrians                  0                               0                       12                            8                                 20
+   Bicycles
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/4/2009 10:11 AM                                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+

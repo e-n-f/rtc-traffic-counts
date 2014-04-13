@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: NE 94th Ave -- NE 88th St                                                                                        QC JOB #: 10874203
+ CITY/STATE: Five Corners, WA                                                                                               DATE: Wed, Jan 23 2013
+                    350          150                         Peak-Hour: 7:15 AM -- 8:15 AM                                   5.7        6.7
+
+                       12 338     0
+                                                            Peak 15-Min: 7:35 AM -- 7:50 AM
+                                                                                                                             25.0 5.0 0.0
+
+
+       45    10                         0     0
+                                                                                                               15.6   0.0                      0.0       0.0
+             0            0.85          0
+                                                                                                                      0.0                      0.0
+       92    82                         0     0
+                                                                                                               5.4    6.1                      0.0       0.0
+
+                       33 140     0
+                                                                                                                             12.1 7.1 0.0
+
+                    420          173
+                                                                                                                             5.2        8.1
+
+
+
+                           0                                                                                                  0    0    0
+
+
+
+                                                                                                                      0                          0
+
+             1                          0                                                                             0                          0
+
+                                                                                                                      0                          0
+
+                           0                                                                                                  0    0    0
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+
+             NA                        NA                                                                             NA                       NA
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+ 5-Min Count              NE 94th Ave                     NE 94th Ave                NE 88th St                  NE 88th St                   Total       Hourly
+     Period               (Northbound)                   (Southbound)               (Eastbound)                 (Westbound)                               Totals
+ Beginning At     Left     Thru Right     U       Left    Thru Right    U    Left   Thru Right      U   Left    Thru Right    U
+     6:45 AM       2         8      0     0        0       21      2     0    0       0      7      0    0        0      0    0                40
+     6:50 AM       3         8      0     0        0       20      0     0    0       0      8      0    0        0      0    0                39
+     6:55 AM       1         5      0     0        0       23      1     0    0       0      5      0    0        0      0    0                35
+     7:00 AM       4         7      0     0        0       25      2     0    1       0      3      0    0        0      0    0                42
+     7:05 AM       2        12      0     0        0       19      1     0    0       0      0      0    0        0      0    0                34
+     7:10 AM       3         8      0     0        0       22      2     0    0       0      4      0    0        0      0    0                39
+     7:15 AM       3        10      0     0        0       35      1     0    2       0      7      0    0        0      0    0                58
+     7:20 AM       1        18      0     0        0       19      0     0    3       0      6      0    0        0      0    0                47
+     7:25 AM       2         9      0     0        0       27      1     0    0       0      6      0    0        0      0    0                45              506
+     7:30 AM       3        16      0     0        0       32      1     0    1       0      5      0    0        0      0    0                58              527
+     7:35 AM       2         8      0     0        0       33      1     0    1       0     10      0    0        0      0    0                55              532
+     7:40 AM       0        13      0     0        0       39      1     0    0       0      6      0    0        0      0    0                59              551
+     7:45 AM       4        11      0     0        0       38      2     0    1       0     11      0    0        0      0    0                67              578
+     7:50 AM       3        15      0     0        0       19      0     0    1       0      7      0    0        0      0    0                45              584
+     7:55 AM       6         9      0     0        0       29      2     0    0       0      9      0    0        0      0    0                55              604
+     8:00 AM       4         5      0     0        0       21      1     0    1       0      5      0    0        0      0    0                37              599
+     8:05 AM       5         6      0     0        0       22      0     0    0       0      5      0    0        0      0    0                38              603
+     8:10 AM       0        20      0     0        0       24      2     0    0       0      5      0    0        0      0    0                51              615
+     8:15 AM       3         7      0     0        0       22      1     0    1       0      6      0    0        0      0    0                40              597
+     8:20 AM       1         5      0     0        0       15      1     0    0       0      4      0    0        0      0    0                26              576
+     8:25 AM       2        14      0     0        0       21      4     0    2       0      2      0    0        0      0    0                45              576
+     8:30 AM       4        12      0     0        0       15      2     0    0       0      8      0    0        0      0    0                41              559
+     8:35 AM       1        15      0     0        0       22      2     0    0       0      7      0    0        0      0    0                47              551
+     8:40 AM       1        11      0     0        0       25      0     0    0       0      5      0    0        0      0    0                42              534
+ Peak 15-Min                   Northbound                     Southbound                Eastbound                   Westbound
+   Flowrates      Left     Thru Right     U       Left    Thru Right    U    Left   Thru Right      U   Left    Thru Right    U                       Total
+  All Vehicles     24     128       0     0        0      440     16     0    8       0    108      0    0        0      0    0                       724
+ Heavy Trucks       8       20      0              0       16      4          0       0      4           0        0      0                             52
+  Pedestrians                0                              0                         0                           0                                     0
+    Bicycles       0         0      0              0        0      0          0       0      0           0        0      0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 1/28/2013 2:20 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
