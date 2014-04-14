@@ -1,0 +1,68 @@
+#!/usr/bin/perl
+
+while (<>) {
+	if (/Type of peak hour being reported/) {
+		$_ = <>;
+		unless (/LOCATION: (.*)QC JOB/) {
+			die "expected LOCATION, not $_";
+		}
+		$name = $1;
+
+		$_ = <>;
+		unless (/CITY\/STATE: (.*)DATE: (.*)/) {
+			die "expected CITY/STATE, not $_";
+		}
+		$city = $1;
+		$date = $2;
+
+		$_ = <>;
+		if (/^( +(\d+) +(\d+) +Peak-Hour: (.*M))/) {
+			$peakhour = $4;
+			$left = length($1);
+		} elsif (/^( +(\d+) +([0-9-.]+) +(\d+) +Peak-Hour: (.*M))/) {
+			$peakhour = $5;
+			$left = length($1);
+		} else {
+			die "expected north in/out, not $_";
+		}
+
+		$_ = <>;
+		while ($_ eq "\n") {
+			$_ = <>;
+		}
+
+		if (/^ +(\d+) +(\d+) +(\d+)/) {
+			$nr = $1;
+			$nt = $2;
+			$nl = $3;
+		} else {
+			die "expected north numbers, not $_";
+		}
+
+		$_ = <>;
+		while ($_ eq "\n") {
+			$_ = <>;
+		}
+		if (/Peak 15-Min: (.*M)/) {
+			$peak15 = $1;
+		} else {
+			die "expected peak 15, not $_";
+		}
+
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/)) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+) +(\d+) +(\d+)/) {
+			$wl = $2;
+			$er = $3;
+		} else {
+			die "expected wl/er, not $_";
+		}
+
+		$name =~ s/[ \n]*$//;
+		$city =~ s/[ \n]*$//;
+
+		print "$file,$name $city,$date,$peakhour,$nr,$nt,$nl\n";
+	}
+}
