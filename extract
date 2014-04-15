@@ -15,8 +15,8 @@ while (<IN>) {
 
 PAGE:
 while (<>) {
+	my $fname = $ARGV;
 	if (/Type of peak hour being reported/) {
-		my $fname = $ARGV;
 		$_ = <>;
 		unless (/LOCATION: (.*)QC JOB/ || /INTERSECTION: (.*)QC JOB/) {
 			print STDERR "$fname: expected LOCATION, not $_";
@@ -266,5 +266,57 @@ while (<>) {
 		} else {
 			print ",\n";
 		}
+	} elsif (/Total Vehicle Summary/) {
+		$_ = <>;
+		while ($_ =~ /^\s/) {
+			$_ = <>;
+		}
+		my $street = $_;
+		$street =~ s/ *PHF.*//;
+		chomp($street);
+
+		$_ = <>;
+		while ($_ =~ /^\s/) {
+			$_ = <>;
+		}
+		my $date;
+		if (/([A-Z][a-z]+, [A-Z][a-z]+ \d+, \d+)/) {
+			$date = $1;
+		} else {
+			print STDERR "$fname: expected date, not $_";
+			next PAGE;
+		}
+
+		my $minutes = 0;
+		while (<>) {
+			last if /Rolling Hour/;
+
+			if (/^\s*Total/) {
+				$minutes = 0;
+			}
+
+			if (/^\s*(\d+)-Minute Interval Summary/) {
+				$minutes = $1;
+			}
+
+			if (/^\s*(\d+):(\d+) (.)M/ && $minutes != 0) {
+				my ($hour, $minute, $m) = ($1, $2, $3);
+				if ($m eq 'P' && $hour != 12) {
+					$hour += 12;
+				}
+				my $when = $hour * 60 + $m;
+				my $time = sprintf("%02d:%02d-%02d:%02d", $when / 60, $when % 60, ($when + $minutes) / 60, ($when + $minutes) % 60);
+
+				chomp;
+				my @fields = split(/ +/);
+
+				if ($#fields == 23) {
+					my ($x, $x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
+					print "$fname,$street,$date,$time,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bn,$be,$bs,$bw,";
+					print ",\n";
+				}
+			}
+		}
+
 	}
 }
