@@ -231,6 +231,10 @@ while (<>) {
 		$name =~ s/[ \n]*$//;
 		$city =~ s/[ \n]*$//;
 
-		print "$fname,$name $city,x,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bwt,$bnt,$bet,$bst\n";
+		$fname =~ s/,/ /g;
+		$name =~ s/,/ /g;
+		$city =~ s/,/ /g;
+
+		print "$fname,$name / $city,x,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bwt,$bnt,$bet,$bst\n";
 	}
 }
