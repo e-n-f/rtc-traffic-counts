@@ -304,7 +304,7 @@ while (<>) {
 				if ($m eq 'P' && $hour != 12) {
 					$hour += 12;
 				}
-				my $when = $hour * 60 + $m;
+				my $when = $hour * 60 + $minute;
 				my $time = sprintf("%02d:%02d-%02d:%02d", $when / 60, $when % 60, ($when + $minutes) / 60, ($when + $minutes) % 60);
 
 				chomp;
