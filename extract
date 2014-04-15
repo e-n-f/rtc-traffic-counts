@@ -248,6 +248,17 @@ while (<>) {
 		$date =~ s/,/ /g;
 		$peakhour =~ s/,/ /g;
 
+		if ($peakhour =~ /(\d+):(\d+) (.)M -- (\d+):(\d+) (.)M/) {
+			my ($h1, $m1, $ap1, $h2, $m2, $ap2) = ($1, $2, $3, $4, $5, $6);
+			if ($ap1 eq 'P' && $h1 != 12) {
+				$h1 += 12;
+			}
+			if ($ap2 eq 'P' && $h2 != 12) {
+				$h2 += 12;
+			}
+			$peakhour = sprintf("%02d:%02d-%02d:%02d", $h1, $m1, $h2, $m2);
+		}
+
 		print "$fname,$name / $city,x,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bwt,$bnt,$bet,$bst,";
 
 		if ($fname =~ /rtc\/([0-9]+)\//) {
