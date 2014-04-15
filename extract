@@ -2,6 +2,17 @@
 
 use strict;
 
+my %lat;
+my %lon;
+
+open(IN, "arrIntersections.js");
+while (<IN>) {
+	if (/id:([0-9]+),lat:([0-9.-]+),lng:([0-9.-]+)/) {
+		$lat{$1} = $2;
+		$lon{$1} = $3;
+	}
+}
+
 PAGE:
 while (<>) {
 	if (/Type of peak hour being reported/) {
@@ -235,6 +246,12 @@ while (<>) {
 		$name =~ s/,/ /g;
 		$city =~ s/,/ /g;
 
-		print "$fname,$name / $city,x,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bwt,$bnt,$bet,$bst\n";
+		print "$fname,$name / $city,x,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bwt,$bnt,$bet,$bst,";
+
+		if ($fname =~ /rtc\/([0-9]+)\//) {
+			print "$lat{$1},$lon{$1}\n";
+		} else {
+			print ",\n";
+		}
 	}
 }
