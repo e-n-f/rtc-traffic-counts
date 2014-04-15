@@ -68,9 +68,36 @@ while (<>) {
 			next PAGE;
 		}
 
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/)) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+\.\d+) +(\d+)/) {
+			$wt = $1;
+			$et = $3;
+		} elsif (/^ +(\d+\.\d+) +(\d+) +(\d+\.\d+) +(\d+) +(\d+\.\d+)/) {
+			$wt = $2;
+			$et = $4;
+		} else {
+			print STDERR "$fname: expected wt/et, not $_";
+			next PAGE;
+		}
+
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/)) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+) +(\d+) +(\d+)/) {
+			$wr = $2;
+			$el = $3;
+		} else {
+			print STDERR "$fname: expected wr/el, not $_";
+			next PAGE;
+		}
+
 		$name =~ s/[ \n]*$//;
 		$city =~ s/[ \n]*$//;
 
-		print "$fname,$name $city,$date,$peakhour,$nr,$nt,$nl\n";
+		print "$fname,$name $city,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl\n";
 	}
 }
