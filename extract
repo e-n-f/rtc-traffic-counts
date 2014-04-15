@@ -287,6 +287,10 @@ while (<>) {
 			next PAGE;
 		}
 
+		$fname =~ s/,/ /g;
+		$street =~ s/,/ /g;
+		$date =~ s/,/ /g;
+
 		my $minutes = 0;
 		while (<>) {
 			last if /Rolling Hour/;
@@ -312,7 +316,7 @@ while (<>) {
 
 				if ($#fields == 23) {
 					my ($x, $x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
-					print "$fname,$street,$date,$time,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bn,$be,$bs,$bw,";
+					print "$fname,$street,x,$date,$time,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bn,$be,$bs,$bw,";
 					print ",\n";
 				}
 			}
