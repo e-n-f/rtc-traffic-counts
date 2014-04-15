@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 55th St NE -- NH Burroughs Ave                                                                                        QC JOB #: 10655667
+ CITY/STATE: Washington, DC                                                                                                      DATE: Tue, Sep 20 2011
+                          63 0.72 32                              Peak-Hour: 7:45 AM -- 8:45 AM                                   4.8        12.5
+
+                          24    31    8
+                                                                 Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                                  0.0 9.7 0.0
+
+       235     8                            4    181
+                                                                                                                   7.7    12.5                       25.0      9.4
+        0.92   94              0.95       173   0.74
+                                                                                                                          17.0                        9.2
+       177     75                           4    104
+                                                                                                                   13.0   8.0                         0.0     16.3
+
+                          38    20    2
+                                                                                                                                  5.3 10.0 50.0
+
+                       110 0.77 60
+                                                                                                                                  8.2        8.3
+
+
+
+                                19                                                                                                 0    0     0
+
+
+                                                                                                                          0                            0
+
+               22                          27                                                                             0                            0
+
+                                                                                                                          0                            0
+
+
+                                14                                                                                                 0    0     0
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+
+               NA                         NA                                                                              NA                          NA
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+15-Min Count                     55th St NE                     55th St NE           NH Burroughs Ave           NH Burroughs Ave
+   Period                      (Northbound)                   (Southbound)             (Eastbound)                (Westbound)                                     Hourly
+Beginning At                                                                                                                                        Total
+                    Left        Thru Right       U     Left    Thru Right    U   Left Thru Right        U   Left Thru Right             U                         Totals
+   7:00 AM            6           6       0      0       0       7       0   0     0     17     8       0     0     45     1            0            90
+   7:15 AM            3           3       2      0       0       4       3   0     0     23     5       0     1     34     4            0            82
+   7:30 AM            9           4       0      0       1       5       6   0     0     17    11       0     3     68     0            0           124
+   7:45 AM            5           4       0      0       0       6       8   0     2     19    19       0     1     45     1            0           110              406
+   8:00 AM            8           6       0      0       1      11       5   0     3     29    15       0     1     45     1            0           125              441
+   8:15 AM           18           4       1      0       1       4       4   0     2     18    22       0     2     43     1            0           120              479
+   8:30 AM            7           6       1      0       6      10       7   0     1     28    19       0     0     40     1            0           126              481
+   8:45 AM           12           7       1      0       2      12       3   0     3     25    11       0     0     30     2            0           108              479
+
+
+
+
+ Peak 15-Min                       Northbound                    Southbound                 Eastbound                   Westbound
+                                                                                                                                                            Total
+  Flowrates         Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles       28         24      4     0         24     40    28     0      4    112     76    0       0     160      4    0                         504
+ Heavy Trucks         0          4      0                0      4     0            0     12      4            0      16      0                              40
+  Pedestrians                    8                             12                        36                          72                                     128
+   Bicycles           0          0      0                0      0     0            0      0      0            0       0      0                               0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/30/2011 12:57 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 55th St NE -- NH Burroughs Ave                                                                                     QC JOB #: 10655668
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Sep 21 2011
+                          31 0.78 22                            Peak-Hour: 12:00 PM -- 1:00 PM                                 6.5        9.1
+
+                           7    20    4
+                                                               Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                               14.3 5.0 0.0
+
+       135     5                           3     94
+                                                                                                                  8.9   0.0                       0.0      8.5
+        0.90   148             0.95       90   0.82
+                                                                                                                        6.8                       8.9
+       188     35                          1    154
+                                                                                                                  6.4   5.7                       0.0      6.5
+
+                          38    14    2
+                                                                                                                               7.9 14.3 0.0
+
+                          56 0.84 54
+                                                                                                                               5.4        9.3
+
+
+
+                                11                                                                                              0    0    0
+
+
+                                                                                                                        0                          0
+
+               12                          7                                                                            0                          0
+
+                                                                                                                        0                          0
+
+
+                                8                                                                                               0    0    0
+
+
+
+
+                                NA                                                                                                   NA
+
+
+
+
+               NA                         NA                                                                            NA                        NA
+
+
+
+
+                                NA                                                                                                   NA
+
+
+
+15-Min Count                     55th St NE                    55th St NE           NH Burroughs Ave           NH Burroughs Ave
+   Period                      (Northbound)                  (Southbound)             (Eastbound)                (Westbound)                                  Hourly
+Beginning At                                                                                                                                    Total
+                    Left        Thru Right      U     Left    Thru Right    U   Left Thru Right        U   Left Thru Right           U                        Totals
+  11:00 AM            3           3       0     0       0       2       0   0     0     21    14       0     0     22     0          0           65
+  11:15 AM            3           1       0     0       0       3       0   0     2     22    10       0     1     19     0          0           61
+  11:30 AM            9           5       1     0       0       2       0   0     0     28     7       0     0     29     1          0           82
+  11:45 AM            4           2       1     0       2       4       2   0     2     29     5       0     1     25     0          0           77              285
+  12:00 PM           11           4       0     0       2       6       2   0     0     43     9       0     0     19     0          0           96              316
+  12:15 PM            4           4       1     0       1       1       2   0     4     35     8       0     1     19     2          0           82              337
+  12:30 PM           14           0       0     0       0       6       1   0     0     34    12       0     0     30     0          0           97              352
+  12:45 PM            9           6       1     0       1       7       2   0     1     36     6       0     0     22     1          0           92              367
+
+
+
+
+ Peak 15-Min                       Northbound                   Southbound                 Eastbound                   Westbound
+                                                                                                                                                        Total
+  Flowrates         Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles       56          0      0     0         0     24     4     0      0    136     48    0       0     120      0    0                      388
+ Heavy Trucks         0          0      0               0      0     0            0      4      4            0       8      0                           16
+  Pedestrians                    8                            16                         8                          20                                  52
+   Bicycles           0          0      0               0      0     0            0      0      0            0       0      0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/30/2011 12:57 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 55th St NE -- NH Burroughs Ave                                                                                      QC JOB #: 10655669
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, Sep 21 2011
+                          56 0.74 24                              Peak-Hour: 5:30 PM -- 6:30 PM                                 1.8        0.0
+
+                          12    41    3
+                                                                 Peak 15-Min: 6:00 PM -- 6:15 PM
+                                                                                                                                0.0 2.4 0.0
+
+       144     6                            6    112
+                                                                                                                   6.9   0.0                       0.0      8.9
+        0.86   246             0.85       102   0.95
+                                                                                                                         5.3                       9.8
+       325     73                           4    253
+                                                                                                                   4.0   0.0                       0.0      5.1
+
+                          30    12    4
+                                                                                                                                0.0 0.0 0.0
+
+                       118 0.90 46
+                                                                                                                                0.8        0.0
+
+
+
+                                19                                                                                               0    0    0
+
+
+                                                                                                                         0                          0
+
+               33                          15                                                                            0                          1
+
+                                                                                                                         1                          0
+
+
+                                23                                                                                               0    1    0
+
+
+
+
+                                NA                                                                                                    NA
+
+
+
+
+               NA                         NA                                                                             NA                        NA
+
+
+
+
+                                NA                                                                                                    NA
+
+
+
+15-Min Count                     55th St NE                     55th St NE           NH Burroughs Ave           NH Burroughs Ave
+   Period                      (Northbound)                   (Southbound)             (Eastbound)                (Westbound)                                  Hourly
+Beginning At                                                                                                                                     Total
+                    Left        Thru Right       U     Left    Thru Right    U   Left Thru Right        U   Left Thru Right           U                        Totals
+   4:30 PM            7           4       4      0       3       3       3   0     5     48    14       0     0     28     0          0          119
+   4:45 PM           13           4       1      0       0       8       1   0     2     68    10       0     2     31     1          0          141
+   5:00 PM           11           4       3      0       2       4       0   0     2     54    10       0     0     33     1          0          124
+   5:15 PM            6           6       2      0       1       3       2   0     1     45    12       0     1     30     1          0          110              494
+   5:30 PM            7           3       0      0       0       6       4   0     1     68    18       0     1     27     1          0          136              511
+   5:45 PM            5           2       1      0       1      11       2   0     1     55    20       0     1     32     1          0          132              502
+   6:00 PM           13           2       2      0       0      15       4   0     0     73    21       0     1     26     1          0          158              536
+   6:15 PM            5           5       1      0       2       9       2   0     4     50    14       0     1     17     3          0          113              539
+
+
+
+
+ Peak 15-Min                       Northbound                    Southbound                 Eastbound                   Westbound
+                                                                                                                                                         Total
+  Flowrates         Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles       52          8      8     0          0     60    16     0      0    292     84    0       4     104      4    0                      632
+ Heavy Trucks         0          0      0                0      4     0            0     16      0            0      12      0                           32
+  Pedestrians                   28                             36                        36                          44                                  144
+   Bicycles           0          0      0                0      0     0            0      0      0            0       0      0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/30/2011 12:57 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 55th St NE -- NH Burroughs Ave                                                                                       QC JOB #: 10655670
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Sep 24 2011
+                          28 0.58 33                               Peak-Hour: 1:00 PM -- 2:00 PM                                 0.0        0.0
+
+                           6    21    1
+                                                                  Peak 15-Min: 1:00 PM -- 1:15 PM
+                                                                                                                                 0.0 0.0 0.0
+
+       185     5                             5    140
+                                                                                                                    3.2   0.0                       0.0      4.3
+        0.67   253             0.76        125   0.80
+                                                                                                                          2.0                       4.8
+       345     87                           10    266
+                                                                                                                    1.4   0.0                       0.0      1.9
+
+                          54    23    12
+                                                                                                                                 0.0 0.0 0.0
+
+                       118 0.80 89
+                                                                                                                                 0.0        0.0
+
+
+
+                                10                                                                                                0    0    0
+
+
+                                                                                                                          0                          0
+
+               11                            4                                                                            0                          0
+
+                                                                                                                          1                          0
+
+
+                                5                                                                                                 2    0    0
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+
+               NA                          NA                                                                             NA                        NA
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+15-Min Count                     55th St NE                      55th St NE           NH Burroughs Ave           NH Burroughs Ave
+   Period                      (Northbound)                    (Southbound)             (Eastbound)                (Westbound)                                  Hourly
+Beginning At                                                                                                                                      Total
+                    Left        Thru Right        U     Left    Thru Right    U   Left Thru Right        U   Left Thru Right           U                        Totals
+  12:00 PM           13           2       2       0       2       3       3   0     2     35    18       0     2     30     0          0          112
+  12:15 PM           23           4       1       0       0       2       2   0     1     36    26       0     3     27     0          0          125
+  12:30 PM            6           6       5       0       1       5       3   0     1     38    22       0     5     24     0          0          116
+  12:45 PM           15           4       7       0       1       4       1   0     0     33    32       0     0     36     1          0          134              487
+   1:00 PM           18           8       6       0       1       3       1   0     1     99    29       0     3     29     0          0          198              573
+   1:15 PM            8           4       3       0       0       3       0   0     1     44    16       0     3     18     1          0          101              549
+   1:30 PM           14           9       2       0       0       6       2   0     2     56    22       0     1     41     2          0          157              590
+   1:45 PM           14           2       1       0       0       9       3   0     1     54    20       0     3     37     2          0          146              602
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound                 Eastbound                   Westbound
+                                                                                                                                                          Total
+  Flowrates         Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles       72         32      24    0           4     12     4     0      4    396    116    0      12     116      0    0                      792
+ Heavy Trucks         0          0       0                0      0     0            0      4      0            0       4      0                            8
+  Pedestrians                    8                               0                         8                           0                                  16
+   Bicycles           0          0       0                0      0     0            0      0      0            0       0      0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/2/2011 6:45 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

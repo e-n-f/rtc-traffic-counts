@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Olive St NE -- Eastern Ave                                                                                           QC JOB #: 10655683
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Sep 21 2011
+                          44 0.72 243                              Peak-Hour: 7:45 AM -- 8:45 AM                                 22.7        8.2
+
+                          12    4     28
+                                                                  Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                 25.0 0.0 25.0
+
+       958     10                          229   1264
+                                                                                                                   7.8   20.0                         7.9      7.4
+        0.93   658             0.97        943   0.95
+                                                                                                                         9.9                          7.4
+       695     27                           92    704
+                                                                                                                   9.8   3.7                          5.4     10.7
+
+                           3    4     18
+                                                                                                                                 66.7 0.0 16.7
+
+                       123 0.89 25
+                                                                                                                                 4.9         20.0
+
+
+
+                                6                                                                                                 0     0     0
+
+
+                                                                                                                         0                             0
+
+               6                             5                                                                           0                             0
+
+                                                                                                                         0                             0
+
+
+                                6                                                                                                 0     0     0
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+
+               NA                          NA                                                                            NA                           NA
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+15-Min Count                    Olive St NE                     Olive St NE              Eastern Ave                Eastern Ave
+   Period                      (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                                 Hourly
+Beginning At                                                                                                                                        Total
+                    Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right         U                       Totals
+   7:00 AM            2           0       3       0       1       1       5   0     2    100      3    0     11      252    30          0           410
+   7:15 AM            0           1       7       0       4       0       1   0     0    124      4    0     12      278    54          0           485
+   7:30 AM            1           0       1       0       5       1       2   0     1    148     10    0     21      265    51          0           506
+   7:45 AM            0           1       6       0       4       2       4   0     1    160      8    0     29      212    76          0           503             1904
+   8:00 AM            1           2       4       0       6       0       3   0     0    152      6    0     16      244    56          0           490             1984
+   8:15 AM            0           1       5       0      11       1       1   0     5    170      7    0     23      256    44          0           524             2023
+   8:30 AM            2           0       3       0       7       1       4   0     4    176      6    0     24      231    53          0           511             2028
+   8:45 AM            1           0       4       0       9       0       9   0     1    146      6    0     14      238    40          0           468             1993
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound                 Eastbound               Westbound
+                                                                                                                                                            Total
+  Flowrates         Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left Thru Right    U
+  All Vehicles        0          4      20    0          44      4     4     0     20    680     28    0     92 1024   176     0                            2096
+ Heavy Trucks         0          0       8                8      0     0            4     48      4           8   48     16                                  144
+  Pedestrians                    4                              12                         8                       8                                         32
+   Bicycles           0          0       0                0      0     0            0      0      0           0    0      0                                   0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/30/2011 12:57 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Olive St NE -- Eastern Ave                                                                                           QC JOB #: 10655684
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Sep 21 2011
+                          81 0.75 78                              Peak-Hour: 11:45 AM -- 12:45 PM                                18.5        19.2
+
+                          36    6     39
+                                                                 Peak 15-Min: 12:00 PM -- 12:15 PM
+                                                                                                                                 22.2 16.7 15.4
+
+       663     21                           54    689
+                                                                                                                   8.6   23.8                        14.8      8.4
+        0.91   609             0.97        623   0.85
+                                                                                                                         7.2                          7.9
+       664     34                           12    666
+                                                                                                                   8.4   20.6                         8.3      8.0
+
+                           4    3     18
+                                                                                                                                 0.0 66.7 16.7
+
+                          52 0.70 25
+                                                                                                                                 17.3        20.0
+
+
+
+                                6                                                                                                 0     1     0
+
+
+                                                                                                                         0                             0
+
+               8                             7                                                                           0                             0
+
+                                                                                                                         0                             0
+
+
+                                5                                                                                                 0     0     0
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+
+               NA                          NA                                                                            NA                           NA
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+15-Min Count                    Olive St NE                     Olive St NE              Eastern Ave                Eastern Ave
+   Period                      (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                                 Hourly
+Beginning At                                                                                                                                        Total
+                    Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right         U                       Totals
+  11:00 AM            1           0       5       0      10       1      11   0     3    122      5    0      5      144     7          0           314
+  11:15 AM            0           0       3       0      10       0       6   0     0    131      6    0      2      139     9          0           306
+  11:30 AM            2           0       7       0       6       1       8   0     2    141      4    0      3      134     1          0           309
+  11:45 AM            1           2       7       0      10       0       5   0     6    162     15    0      4      129    12          0           353             1282
+  12:00 PM            1           0       4       0       8       3       9   0     6    128      9    0      3      195    11          0           377             1345
+  12:15 PM            1           1       2       0       9       1       8   0     0    162      6    0      3      144    15          0           352             1391
+  12:30 PM            1           0       5       0      12       2      14   0     9    157      4    0      2      155    16          0           377             1459
+  12:45 PM            1           1       4       0      11       0       7   0     4    155      5    0      4      149    11          0           352             1458
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound                 Eastbound                  Westbound
+                                                                                                                                                            Total
+  Flowrates         Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles        4          0      16    0          32     12    36     0     24    512     36    0     12     780     44    0                         1508
+ Heavy Trucks         0          0       0                0      0     4            4     24      0           4      60      8                               104
+  Pedestrians                    0                               0                        16                          4                                      20
+   Bicycles           0          0       0                0      0     0            0      0      0           0       0      0                                0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/30/2011 12:57 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Olive St NE -- Eastern Ave                                                                                          QC JOB #: 10655685
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, Sep 21 2011
+                          50 0.68 74                               Peak-Hour: 5:15 PM -- 6:15 PM                                0.0        1.4
+
+                          16    3     31
+                                                                  Peak 15-Min: 5:45 PM -- 6:00 PM
+                                                                                                                                0.0 0.0 0.0
+
+       719     9                            63    761
+                                                                                                                   3.2   0.0                       1.6      3.2
+        0.98   1162            0.97        692   0.97
+                                                                                                                         2.4                       3.3
+       1195    24                            6   1244
+                                                                                                                   2.4   4.2                       0.0      2.3
+
+                          11    2     51
+                                                                                                                                0.0 0.0 2.0
+
+                          33 0.84 64
+                                                                                                                                3.0        1.6
+
+
+
+                                5                                                                                                0    0    0
+
+
+                                                                                                                         0                          0
+
+               1                             7                                                                           0                          0
+
+                                                                                                                         0                          0
+
+
+                                17                                                                                               0    0    0
+
+
+
+
+                                NA                                                                                                    NA
+
+
+
+
+               NA                          NA                                                                            NA                        NA
+
+
+
+
+                                NA                                                                                                    NA
+
+
+
+15-Min Count                    Olive St NE                     Olive St NE              Eastern Ave                Eastern Ave
+   Period                      (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Hourly
+Beginning At                                                                                                                                     Total
+                    Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right       U                      Totals
+   4:30 PM            1           1      11       0      15       2       6   0     4    280      3    0      2      153    11        0          489
+   4:45 PM            0           0      12       0       9       1       8   0     1    277      5    0      3      172     8        0          496
+   5:00 PM            3           1       9       0       6       0       4   0     1    293      2    0      2      134    14        0          469
+   5:15 PM            2           1      13       0       9       1       2   0     2    296     13    0      2      163    20        0          524             1978
+   5:30 PM            2           0       9       0       9       0       2   0     2    290      6    0      0      186    11        0          517             2006
+   5:45 PM            3           0      15       0       6       2       3   0     3    302      3    0      2      176    17        0          532             2042
+   6:00 PM            4           1      14       0       7       0       9   0     2    274      2    0      2      167    15        0          497             2070
+   6:15 PM            1           0       6       0       5       1       1   0     2    253      2    0      2      161     9        0          443             1989
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound               Eastbound                    Westbound
+                                                                                                                                                         Total
+  Flowrates         Left       Thru Right     U         Left   Thru Right    U    Left Thru Right    U      Left    Thru Right    U
+  All Vehicles       12          0      60    0          24      8    12     0     12 1208     12    0        8     704     68    0                      2128
+ Heavy Trucks         0          0       0                0      0     0            0   28      0             0      16      0                            44
+  Pedestrians                   20                               0                       0                            4                                   24
+   Bicycles           0          0       0                0      0     0            0    0      0             0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/30/2011 12:57 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Olive St NE -- Eastern Ave                                                                                          QC JOB #: 10655686
+ CITY/STATE: Washington, DC                                                                                                    DATE: Sat, Sep 24 2011
+                          66 0.72 50                              Peak-Hour: 12:00 PM -- 1:00 PM                                15.2        4.0
+
+                          27    6     33
+                                                                 Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                                18.5 0.0 15.2
+
+       857     4                            46    897
+                                                                                                                   2.7   0.0                        4.3      2.3
+        0.96   819             0.94        826   0.93
+                                                                                                                         3.1                        2.2
+       837     14                           25    870
+                                                                                                                   3.0   0.0                        4.0      3.4
+
+                           4    0     18
+                                                                                                                                0.0 0.0 0.0
+
+                          45 0.78 22
+                                                                                                                                2.2         0.0
+
+
+
+                                2                                                                                                0     0    0
+
+
+                                                                                                                         0                           0
+
+               1                             2                                                                           0                           0
+
+                                                                                                                         0                           0
+
+
+                                1                                                                                                0     0    0
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+
+               NA                          NA                                                                            NA                         NA
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+15-Min Count                    Olive St NE                     Olive St NE              Eastern Ave                Eastern Ave
+   Period                      (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                               Hourly
+Beginning At                                                                                                                                      Total
+                    Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right        U                      Totals
+  12:00 PM            0           0       2       0      11       2      10   0     1    214      3    0     16      173    14         0          446
+  12:15 PM            3           0       4       0       8       0       9   0     0    203      3    0      5      195     9         0          439
+  12:30 PM            0           0       5       0       9       3       4   0     2    209      3    0      2      235    11         0          483
+  12:45 PM            1           0       7       0       5       1       4   0     1    193      5    0      2      223    12         0          454             1822
+   1:00 PM            0           0       5       0       8       0      10   0     3    172      2    0      4      203    15         0          422             1798
+   1:15 PM            0           0       2       0       5       0       1   0     5    211      6    0      2      197    16         0          445             1804
+   1:30 PM            0           2       2       0       6       0       7   0     3    213      3    0      0      210     9         0          455             1776
+   1:45 PM            1           0       7       0       3       0       2   0     1    204     13    0      2      214     5         0          452             1774
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound                 Eastbound                  Westbound
+                                                                                                                                                          Total
+  Flowrates         Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles        0          0      20    0          36     12    16     0      8    836     12    0      8     940     44    0                       1932
+ Heavy Trucks         0          0       0                0      0     0            0     20      0           0      12      0                             32
+  Pedestrians                    0                               0                         0                          4                                     4
+   Bicycles           0          0       0                0      0     0            0      0      0           0       0      0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/2/2011 6:45 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
