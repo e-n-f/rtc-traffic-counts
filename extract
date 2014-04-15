@@ -95,9 +95,89 @@ while (<>) {
 			next PAGE;
 		}
 
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/)) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+) +(\d+)/) {
+			$sl = $1;
+			$st = $2;
+			$sr = $3;
+		} else {
+			print STDERR "$fname: expected south numbers, not $_";
+			next PAGE;
+		}
+
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/)) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+)/) {
+			;
+		} elsif (/^ +(\d+) +([0-9-.]+) +(\d+)/) {
+			;
+		} else {
+			print STDERR "$fname: expected south in/out, not $_";
+			next PAGE;
+		}
+
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/)) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+) +(\d+) +(\d+)\s*$/) {
+			$pn = $1;
+			$bnr = $2;
+			$bnt = $3;
+			$bnl = $4;
+		} elsif (/^ +(\d+)\s*$/) {
+			$pn = $1;
+			$bnr = $bnt = $bnl = "";
+		} else {
+			print STDERR "$fname: expected bike/pedestrian north, not $_";
+			next PAGE;
+		}
+
+		if ($bnr ne "") {
+			$_ = <>;
+			while ($_ eq "\n") {
+				$_ = <>;
+			}
+			if (/^ +(\d+) +(\d+)\s*$/) {
+				$bwl = $1;
+				$ber = $2;
+			} else {
+				print STDERR "$fname: expected bike/pedestrian wl/er, not $_";
+				next PAGE;
+			}
+		} else {
+			$_ = <>;
+			while ($_ eq "\n") {
+				$_ = <>;
+			}
+			if (/^ +(\d+) +(\d+)\s*$/) {
+				$pw = $1;
+				$pe = $2;
+			} else {
+				print STDERR "$fname: expected pedestrian w/e, not $_";
+				next PAGE;
+			}
+
+			$_ = <>;
+			while ($_ eq "\n") {
+				$_ = <>;
+			}
+			if (/^ +(\d+)\s*$/) {
+				$ps = $1;
+			} else {
+				print STDERR "$fname: expected pedestrian south, not $_";
+				next PAGE;
+			}
+		}
+
 		$name =~ s/[ \n]*$//;
 		$city =~ s/[ \n]*$//;
 
-		print "$fname,$name $city,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl\n";
+		print "$fname,$name $city,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw\n";
 	}
 }
