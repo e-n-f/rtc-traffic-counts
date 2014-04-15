@@ -245,6 +245,8 @@ while (<>) {
 		$fname =~ s/,/ /g;
 		$name =~ s/,/ /g;
 		$city =~ s/,/ /g;
+		$date =~ s/,/ /g;
+		$peakhour =~ s/,/ /g;
 
 		print "$fname,$name / $city,x,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bwt,$bnt,$bet,$bst,";
 
