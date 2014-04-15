@@ -1,16 +1,20 @@
 #!/usr/bin/perl
 
+PAGE:
 while (<>) {
 	if (/Type of peak hour being reported/) {
+		$fname = $ARGV;
 		$_ = <>;
-		unless (/LOCATION: (.*)QC JOB/) {
-			die "expected LOCATION, not $_";
+		unless (/LOCATION: (.*)QC JOB/ || /INTERSECTION: (.*)QC JOB/) {
+			print STDERR "$fname: expected LOCATION, not $_";
+			next PAGE;
 		}
 		$name = $1;
 
 		$_ = <>;
 		unless (/CITY\/STATE: (.*)DATE: (.*)/) {
-			die "expected CITY/STATE, not $_";
+			print STDERR "$fname: expected CITY/STATE, not $_";
+			next PAGE;
 		}
 		$city = $1;
 		$date = $2;
@@ -23,11 +27,12 @@ while (<>) {
 			$peakhour = $5;
 			$left = length($1);
 		} else {
-			die "expected north in/out, not $_";
+			print STDERR "$fname: expected north in/out, not $_";
+			next PAGE;
 		}
 
 		$_ = <>;
-		while ($_ eq "\n") {
+		while ($_ eq "\n" || $_ =~ /\d\.\d/) {
 			$_ = <>;
 		}
 
@@ -36,7 +41,8 @@ while (<>) {
 			$nt = $2;
 			$nl = $3;
 		} else {
-			die "expected north numbers, not $_";
+			print STDERR "$fname: expected north numbers, not $_";
+			next PAGE;
 		}
 
 		$_ = <>;
@@ -46,7 +52,8 @@ while (<>) {
 		if (/Peak 15-Min: (.*M)/) {
 			$peak15 = $1;
 		} else {
-			die "expected peak 15, not $_";
+			print STDERR "$fname: expected peak 15, not $_";
+			next PAGE;
 		}
 
 		$_ = <>;
@@ -57,12 +64,13 @@ while (<>) {
 			$wl = $2;
 			$er = $3;
 		} else {
-			die "expected wl/er, not $_";
+			print STDERR "$fname: expected wl/er, not $_";
+			next PAGE;
 		}
 
 		$name =~ s/[ \n]*$//;
 		$city =~ s/[ \n]*$//;
 
-		print "$file,$name $city,$date,$peakhour,$nr,$nt,$nl\n";
+		print "$fname,$name $city,$date,$peakhour,$nr,$nt,$nl\n";
 	}
 }
