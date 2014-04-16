@@ -1,0 +1,131 @@
+                                      Intersection Turning Movement
+                                                     Summary Report
+
+               Location     SE ADAMS STREET AT SE MAIN STREET
+                   Date     11/15/2007
+            Day of Week     Thursday
+             Time Begin     16:00
+           Reviewed By:     ER
+
+                          Eastbound              Westbound               Northbound              Southbound
+Time Period          Right    Thru    Left   Right   Thru     Left   Right    Thru    Left   Right    Thru    Left   Totals
+  16:00 - 16:15          0       0      0        9      0       5        0       0      0        0      29      4        47
+  16:15 - 16:30          0       0      0        9      0       2        0       0      0        0      37      6        54
+  16:30 - 16:45          0       0      0       17      0       6        0       2      0        0      28     12        65
+  16:45 - 17:00          0       0      0       11      0       7        0       0      0        0      37     10        65
+  17:00 - 17:15          0       0      0       10      0       7        0       2      0        0      35     10        64
+  17:15 - 17:30          0       0      0        4      0       2        0       0      0        0      42      2        50
+  17:30 - 17:45          0       0      0        2      0       8        0       0      0        0      30      5        45
+  17:45 - 18:00          0       0      0        5      0       3        0       0      0        0      24      5        37
+ Movement Totals         0       0      0       67      0      40        0       4      0        0     262     54      427
+      Enter Totals            0                     107                       4                      316
+       Exit Totals            54                     0                       71                      302
+
+Two-Hour Totals
+     Light Trucks       0        0     0        1        0      1       0       1      0        0       1        1       5
+  Medium Trucks         0        0     0        0        0      0       0       0      0        0       0        0       0
+   Heavy Trucks         0        0     0        0        0      0       0       0      0        0       0        0       0
+        % Trucks       NA       NA    NA     1.5%       NA   2.5%      NA   25.0%     NA       NA    0.4%     1.9%    1.2%
+  Stopped Buses         0        0     0        0        0      0       0       0      0        0       0        0       0
+         Bicycles       0        0     0        0        0      0       0       2      0        0       5        0       7
+
+
+                             South                   West                   East                    North
+      Pedestrians              2                      0                      10                      0                  12
+
+                                                    Peak Hour Information
+     Peak Hour 16:15        17:15
+
+                        Eastbound                Westbound               Northbound              Southbound
+                   Right    Thru    Left     Right    Thru    Left   Right    Thru    Left   Right    Thru    Left   Totals
+ Movement Total        0       0      0         47       0      22       0       4      0        0     137      38     248
+Peak Hour Factor NA      NA      NA           0.69 NA         0.79 NA         0.50 NA      NA         0.93    0.79     0.95
+
+     Enter Totals              0                      69                     4                      175
+Peak Hour Factor              NA                     0.75                   0.50                    0.93
+
+      Exit Totals             38                       0                     51                     159
+Peak Hour Factor             0.79                     NA                    0.67                    0.90
+
+     Light Trucks       0        0     0        0        0      0       0       1      0        0       1        0       2
+  Medium Trucks         0        0     0        0        0      0       0       0      0        0       0        0       0
+   Heavy Trucks         0        0     0        0        0      0       0       0      0        0       0        0       0
+        % Trucks       NA       NA    NA     0.0%       NA   0.0%      NA   25.0%     NA       NA    0.7%     0.0%    0.8%
+  Stopped Buses         0        0     0        0        0      0       0       0      0        0       0        0       0
+         Bicycles       0        0     0        0        0      0       0       2      0        0       3        0       5
+
+                             South                   West                   East                    North
+      Pedestrians              1                      0                      7                       0                   8
+                                Intersection Turning Movement
+                                                       Peak Hour Diagram
+               Location   SE ADAMS STREET AT SE MAIN STREET
+                   Date   11/15/2007
+            Day of Week   Thursday
+             Time Begin   16:00
+           Reviewed By:   ER
+
+
+
+                                                   PHF = 0.93
+                                                    T = 0.6%
+                                                                                                        Peak Hour Starts        16:15
+
+                 N                                           175               PHF = 0.67              Peak Hour Volume          248
+
+                                                   0         137     38
+
+
+                                                                                   51
+
+
+       SE ADAMS STREET                                             Peds = 0
+
+
+
+                                                                                                              47
+                                                                                                                           PHF = 0.75
+      PHF = NA              0
+                                                                                                                            T = 0.0%
+                                                                                                              0     69
+                                                        Peak Hour Factor (PHF) = 0.95
+                                    Peds = 0
+
+
+
+
+                                                                                            Peds = 7
+
+
+
+
+                                                         Truck Percentage (T) = 0.8%
+                     0                                                                                        22
+
+
+            0        0
+PHF = NA
+                                                                                                        38         PHF = 0.90
+ T = NA
+                     0
+
+
+                                                                   Peds = 1
+
+
+
+                                                       159
+                                  SE MAIN STREET
+
+
+
+
+                                                                      0        4        0
+
+
+                                                   PHF = 0.90                  4
+
+
+
+                                                                               PHF = 0.50
+                                                                               T = 25.0%
+
