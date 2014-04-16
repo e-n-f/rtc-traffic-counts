@@ -26,6 +26,10 @@ while (<>) {
 
 		print "\n";
 	} else {
-		print STDERR "$ARGV: Don't know what to do with time interval $time\n";
+		unless ($seen{$time}) {
+			print STDERR "$ARGV: Don't know what to do with time interval $time\n";
+		}
+
+		$seen{$time} = 1;
 	}
 }
