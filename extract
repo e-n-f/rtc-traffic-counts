@@ -282,7 +282,7 @@ while (<>) {
 		my $date;
 		if (/([A-Z][a-z]+, [A-Z][a-z]+ \d+, \d+)/) {
 			$date = $1;
-		} elsif (/(\d+)\/(\d+)\/(\d+)/) {
+		} elsif (/(\d+\/\d+\/\d+)/) {
 			$date = $1;
 		} else {
 			print STDERR "$fname: expected date, not $_";
@@ -305,9 +305,9 @@ while (<>) {
 				$minutes = $1;
 			}
 
-			if (/^\s*(\d+):(\d+) (.)M/ && $minutes != 0) {
+			if (/^\s*(\d+):(\d+) (.M)?/ && $minutes != 0) {
 				my ($hour, $minute, $m) = ($1, $2, $3);
-				if ($m eq 'P' && $hour != 12) {
+				if ($m eq 'PM' && $hour != 12) {
 					$hour += 12;
 				}
 				my $when = $hour * 60 + $minute;
@@ -316,8 +316,17 @@ while (<>) {
 				chomp;
 				my @fields = split(/ +/);
 
-				if ($#fields == 23) {
+				if ($#fields == 23 && $m ne "") {
 					my ($x, $x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
+					print "$fname,$street,x,$date,$time,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bn,$be,$bs,$bw,";
+
+					if ($fname =~ /rtc\/([0-9]+)\//) {
+						print "$lat{$1},$lon{$1}\n";
+					} else {
+						print ",\n";
+					}
+				} elsif ($#fields == 22 && $m eq "") {
+					my ($x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
 					print "$fname,$street,x,$date,$time,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bn,$be,$bs,$bw,";
 
 					if ($fname =~ /rtc\/([0-9]+)\//) {
