@@ -4,6 +4,9 @@ while (<>) {
 	chomp;
 	($id, $name, $id2, $date, $time, @fields) = split(/,/);
 
+	$time =~ s/.M Max Hour //;
+	$time =~ s/\d+ Hour Totals //;
+
 	if ($time =~ /^(\d+):(\d+)\s*-+\s*(\d+):(\d+)$/) {
 		($h1, $m1, $h2, $m2) = ($1, $2, $3, $4);
 		$dur = ($h2 * 60 + $m2) - ($h1 * 60 + $m1);
