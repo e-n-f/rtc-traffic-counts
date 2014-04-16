@@ -1,0 +1,81 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Yates Store Rd -- Rolling Springs Dr                                                                                QC JOB #: 10956002
+ CITY/STATE: Cary, NC                                                                                                          DATE: Thu, May 09 2013
+                      130             69                          Peak-Hour: 4:30 PM -- 5:30 PM
+                               0.84                                                                                             2.3        4.3
+
+                           0   115 15
+                                                                 Peak 15-Min: 4:30 PM -- 4:45 PM
+                                                                                                                                0.0 2.6 0.0
+
+
+       0       0                           16     18
+                                                                                                                   0.0   0.0                      0.0       0.0
+        0.00   0               0.84         0   0.64
+                                                                                                                         0.0                      0.0
+       0       0                            2     16
+                                                                                                                   0.0   0.0                      0.0       0.0
+
+                           0    53    1
+                                                                                                                                0.0 5.7 0.0
+
+                      117             54
+                               0.61                                                                                             2.6        5.6
+
+
+
+                                1                                                                                                0    1    0
+
+
+
+                                                                                                                         0                          0
+
+               0                            1                                                                            0                          0
+
+                                                                                                                         0                          0
+
+                                0                                                                                                0    0    0
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+
+               NA                          NA                                                                            NA                       NA
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+ 15-Min Count            Yates Store Rd                     Yates Store Rd           Rolling Springs Dr         Rolling Springs Dr               Total       Hourly
+    Period                (Northbound)                       (Southbound)              (Eastbound)                (Westbound)                                Totals
+ Beginning At       Left Thru Right              U     Left Thru Right       U   Left Thru Right        U   Left Thru Right        U
+    4:00 PM          0     11      1             0      2      20     0      0    0       0      0      0    2       0      2      0              38
+    4:15 PM          0     15      0             0      2      25     0      0    0       0      0      0    0       0      1      0              43
+    4:30 PM          0     24      1             0      4      24     0      0    0       0      0      0    1       0      6      0              60
+    4:45 PM          0      9      0             0      2      31     0      0    0       0      0      0    1       0      4      0              47              188
+    5:00 PM          0      6      0             0      6      27     0      0    0       0      0      0    0       0      2      0              41              191
+    5:15 PM          0     14      0             0      3      33     0      0    0       0      0      0    0       0      4      0              54              202
+    5:30 PM          0     14      0             0      2      41     0      0    0       0      0      0    0       0      2      0              59              201
+    5:45 PM          0     14      0             0      0      23     0      0    0       0      0      0    0       0      2      0              39              193
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound                Eastbound                   Westbound
+   Flowrates        Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles       0          96      4     0         16     96      0     0    0       0      0    0      4        0    24     0                      240
+ Heavy Trucks        0          12      0                0      8      0          0       0      0           0        0     0                             20
+  Pedestrians                    0                              0                         0                           0                                    0
+    Bicycles         0           0      0               0       0      0          0       0      0           0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/18/2013 10:15 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

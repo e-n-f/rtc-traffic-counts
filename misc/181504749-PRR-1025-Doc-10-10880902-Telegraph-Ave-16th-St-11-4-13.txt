@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                     Method for determining peak hour: Total Entering Volume
+ LOCATION: Telegraph Ave -- 16th St                                                                                    QC JOB #: 10880902
+ CITY/STATE: Oakland, CA                                                                                               DATE: Thu, Jan 24 2013
+                    390          293                      Peak-Hour: 4:40 PM -- 5:40 PM                                 1.0        1.0
+
+                    116 273       1
+                                                         Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                        1.7 0.7 0.0
+
+
+       196   0                          0   0
+                                                                                                           1.5   0.0                      0.0       0.0
+             0            0.91          0
+                                                                                                                 0.0                      0.0
+       0     0                          0   0
+                                                                                                           0.0   0.0                      0.0       0.0
+
+                     80 292       0
+                                                                                                                        1.3 1.0 0.0
+
+                    273          372
+                                                                                                                        0.7        1.1
+
+
+
+                           31                                                                                            3    9    0
+
+
+
+                                                                                                                 3                          0
+
+             138                       58                                                                        0                          0
+
+                                                                                                                 1                          0
+
+                          123                                                                                            0    11   0
+
+
+
+
+                          NA                                                                                                  NA
+
+
+
+
+             NA                        NA                                                                        NA                       NA
+
+
+
+
+                          NA                                                                                                  NA
+
+
+
+ 5-Min Count           Telegraph Ave                 Telegraph Ave                16th St                     16th St                    Total       Hourly
+     Period             (Northbound)                 (Southbound)               (Eastbound)                 (Westbound)                              Totals
+ Beginning At     Left Thru Right      U        Left Thru Right     U    Left   Thru Right      U   Left    Thru Right    U
+     4:30 PM        4    12      0     0         0     22      3     0    0       0       0     0    0        0       0   0               41
+     4:35 PM        5    16      0     0         0     20      3     0    0       0       0     0    0        0       0   0               44
+     4:40 PM        5    23      0     0         0     25      8     0    0       0       0     0    0        0       0   0               61
+     4:45 PM        2    20      0     0         0     24      5     0    0       0       0     0    0        0       0   0               51
+     4:50 PM        5    21      0     0         0     31     11     0    0       0       0     0    0        0       0   0               68
+     4:55 PM        7    21      0     0         0     22     12     1    0       0       0     0    0        0       0   0               63
+     5:00 PM        8    26      0     0         0     19      7     0    0       0       0     0    0        0       0   0               60
+     5:05 PM        6    20      0     0         0     13     11     0    0       0       0     0    0        0       0   0               50
+     5:10 PM        7    28      0     0         0     22      7     0    0       0       0     0    0        0       0   0               64
+     5:15 PM        9    20      0     0         0     29     12     0    0       0       0     0    0        0       0   0               70
+     5:20 PM       10    29      0     0         0     23     11     0    0       0       0     0    0        0       0   0               73
+     5:25 PM        5    32      0     0         0     20     10     0    0       0       0     0    0        0       0   0               67              712
+     5:30 PM        7    28      0     0         0     24     11     0    0       0       0     0    0        0       0   0               70              741
+     5:35 PM        9    24      0     0         0     21     11     0    0       0       0     0    0        0       0   0               65              762
+     5:40 PM        4    17      0     1         0     22     13     0    0       0       0     0    0        0       0   0               57              758
+     5:45 PM        7    19      0     0         0     19      5     0    0       0       0     0    0        0       0   0               50              757
+     5:50 PM        6    24      0     0         0     20     11     0    0       0       0     0    0        0       0   0               61              750
+     5:55 PM        8    21      0     0         0     18     11     0    0       0       0     0    0        0       0   0               58              745
+     6:00 PM        5    16      0     0         0     23     14     0    0       0       0     0    0        0       0   0               58              743
+     6:05 PM        5    11      0     0         0     25     11     0    0       0       0     0    0        0       0   0               52              745
+     6:10 PM        3    11      0     0         0     12      7     0    0       0       0     0    0        0       0   0               33              714
+     6:15 PM        8    17      0     0         0     30      9     0    0       0       0     0    0        0       0   0               64              708
+     6:20 PM        3    11      0     0         0     18      6     0    0       0       0     0    0        0       0   0               38              673
+     6:25 PM        4    20      0     0         0     19      6     0    0       0       0     0    0        0       0   0               49              655
+ Peak 15-Min                Northbound                    Southbound                Eastbound                   Westbound
+   Flowrates      Left Thru Right      U        Left Thru Right     U    Left   Thru Right      U   Left    Thru Right    U                      Total
+  All Vehicles     96   324      0     0         0    288    132     0    0       0       0     0    0        0       0   0                      840
+ Heavy Trucks       4     4      0               0      4      4          0       0       0          0        0       0                           16
+  Pedestrians           124                            32                        96                          60                                  312
+    Bicycles        0     3      0               0      0      1          0       0       0          0        0       0                            4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 1/31/2013 10:09 AM                               SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

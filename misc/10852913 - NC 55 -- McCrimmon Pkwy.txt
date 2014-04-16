@@ -1,0 +1,80 @@
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: NC 55 -- McCrimmon Pkwy                                                                                         QC JOB #: 10852913
+ CITY/STATE: Cary, NC                                                                                                      DATE: Thu, Nov 29 2012
+                   650          2131                           Peak-Hour: 7:00 AM -- 8:00 AM                                8.6        2.2
+
+                   128 522       0
+                                                              Peak 15-Min: 7:00 AM -- 7:15 AM
+                                                                                                                            4.7 9.6 0.0
+
+
+       494   327                        0       0
+                                                                                                               2.4   1.2                      0.0       0.0
+             0           0.95           0
+                                                                                                                     0.0                      0.0
+       595   268                        0       0
+                                                                                                               1.7   2.2                      0.0       0.0
+
+                   366 1804 0
+                                                                                                                            1.6 2.4 0.0
+
+                   790          2170
+                                                                                                                            7.1        2.3
+
+
+
+                          0                                                                                                  0    0    0
+
+
+
+                                                                                                                     0                          0
+
+             0                          0                                                                            0                          0
+
+                                                                                                                     0                          0
+
+                          0                                                                                                  0    0    0
+
+
+
+
+                         NA                                                                                                       NA
+
+
+
+
+             NA                        NA                                                                            NA                       NA
+
+
+
+
+                         NA                                                                                                       NA
+
+
+
+ 15-Min Count               NC 55                              NC 55              McCrimmon Pkwy            McCrimmon Pkwy                   Total       Hourly
+    Period               (Northbound)                      (Southbound)             (Eastbound)               (Westbound)                                Totals
+ Beginning At Left        Thru Right        U       Left    Thru Right    U   Left Thru Right    U      Left Thru Right    U
+    7:00 AM   262        322      0         0        0      110     63    0    58     0    87    0       0      0     0    0                 902
+    7:15 AM    74        439      0         0        0      126     38    0    88     0    89    0       0      0     0    0                 854
+    7:30 AM     8        524      0         0        0      143     13    0    67     0    49    0       0      0     0    0                 804
+    7:45 AM    22        519      0         0        0      143     14    0   114     0    43    0       0      0     0    0                 855             3415
+    8:00 AM    22        484      0         0        0      139     13    1   107     0    32    0       0      0     0    0                 798             3311
+    8:15 AM    11        509      0         0        0      126     13    0   127     0    44    1       0      0     0    0                 831             3288
+    8:30 AM    15        500      0         1        0      134     10    0    98     0    50    0       0      0     0    0                 808             3292
+    8:45 AM    17        479      0         0        0      162     14    0    72     0    37    0       0      0     0    0                 781             3218
+
+
+
+
+ Peak 15-Min             Northbound                            Southbound                Eastbound                  Westbound
+   Flowrates    Left Thru Right     U               Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles 1048 1288      0     0                0     440    252     0   232      0   348     0     0        0     0     0                      3608
+ Heavy Trucks    20   24      0                      0      52      4           0      0      8          0        0     0                             108
+  Pedestrians          0                                     0                         0                          0                                    0
+    Bicycles      0    0      0                      0       0      0           0      0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/10/2012 9:42 AM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

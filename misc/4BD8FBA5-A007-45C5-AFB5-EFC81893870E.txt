@@ -1,0 +1,2471 @@
+  RACETRAC MARKET
+             with Fuel Service
+
+SITE NO. 1124: U.S. HIGHWAY 41 AT PEARL AVENUE
+
+
+
+    SITE ACCESS TRAFFIC ANALYSIS
+
+
+
+                      Prepared For:
+
+                RaceTrac Petroleum, Inc.
+             3225 Cumberland Blvd, Suite 100
+                 Atlanta, Georgia 30339
+
+
+
+
+                       Prepared By:
+
+               RAYSOR Transportation Consulting, LLC.
+               19046 Bruce B. Downs Boulevard, Suite 308
+               Tampa, Florida 33647
+               (813) 625-1699 | (813) 413-7432 fx
+               ENB No. 27789
+
+
+
+
+                   November 6, 2013
+                         PROFESSIONAL ENGINEERING CERTIFICATE
+
+
+
+I hereby certify that I am a registered professional engineer in the State of Florida, practicing
+
+with Raysor Transportation Consulting, LLC., a corporation authorized to operate as an
+
+engineering business (ENB No. 27789), by the State of Florida Department of Professional
+
+Regulation, Board of Professional Engineers, and I have prepared or approved the evaluation,
+
+findings, opinions, conclusions, or technical advice hereby reported for:
+
+
+
+PROJECT:        RaceTrac Market with Fuel Service, Site No. 1124 ­ Site Access Traffic Analysis
+
+LOCATION:       US-41 at Pearl Avenue, Manatee County, Florida
+
+REPORT DATE:    November 6, 2013
+
+PREPARED FOR:   RaceTrac Petroleum, Inc.
+
+
+
+
+I acknowledge that the procedures and references used to develop the results contained in this
+
+report are standard to the professional practice of transportation engineering as applied
+
+through professional judgment and experience.
+
+
+
+
+                                                 NAME:
+
+                                                 P.E. NO.:
+
+                                                 DATE:
+
+                                                 SIGNATURE:
+RAYSOR Transportation Consulting
+
+
+
+
+                                  RACETRAC MARKET
+                                                          with Fuel Service
+                                        SITE NO. 1124: US-41 AT PEARL AVENUE
+
+
+                                                     SITE ACCESS ANALYSIS
+CONTENTS
+    SECTION 1.0 Introduction ................................................................................................................. 1
+    SECTION 2.0 Project Description ....................................................................................................... 1
+    SECTION 3.0 Project Site Trip Generation ......................................................................................... 1
+    SECTION 4.0 Project Site Trip Distribution & Assignment................................................................. 4
+    SECTION 5.0 Study Area .................................................................................................................... 4
+    SECTION 6.0 Traffic Volumes ............................................................................................................ 4
+    SECTION 7.0 Intersection Operational Analysis ................................................................................ 11
+    SECTION 8.0 Turn Lane Warrant & Length Evaluation ...................................................................... 11
+    SECTION 9.0 Queue Analysis ............................................................................................................. 12
+    SECTION 10.0 Summary and Conclusion ........................................................................................... 12
+
+TABLES
+    TABLE 1.0 Trip Generation Summary ................................................................................................ 4
+    TABLE 2.0 Intersection Analysis Summary ........................................................................................ 11
+
+FIGURES
+    FIGURE 1.0       Project Site Location ...................................................................................................... 2
+    FIGURE 2.0       Preliminary Site Plan ...................................................................................................... 3
+    FIGURE 3.0       2013 Existing Traffic Volumes ........................................................................................ 5
+    FIGURE 4.0       2014 Background Traffic Volumes ................................................................................. 7
+    FIGURE 5.0       2014 Total Traffic Volumes ............................................................................................ 9
+
+
+APPENDICES
+    APPENDIX A:         Project Traffic
+    APPENDIX B:         Traffic Counts
+    APPENDIX C:         Historical Traffic
+    APPENDIX D:         Intersection Analysis
+    APPENDIX E:         Existing Signal Timings
+    APPENDIX F:         Turn Lane Warrant & Length Evaluation
+    APPENDIX G:         Queue Observations
+
+
+
+
+RaceTrac Site No. 1124                                                     -i-                                                    Site Access Analysis
+US-41 at Pearl Avenue                                                                                                              November 6, 2013
+RAYSOR Transportation Consulting
+
+
+
+
+                         RACETRAC MARKET
+                                         with Fuel Service
+                             SITE NO. 1124: US-41 AT PEARL AVENUE
+
+
+                                SITE ACCESS TRAFFIC ANALYSIS
+
+
+
+SECTION 1.0 INTRODUCTION
+This report documents a site access traffic analysis undertaken to analyze the proposed development of a
+
+RaceTrac market with fuel service, proposed to be located at the northeast corner of the intersection of U.S.
+
+Highway 41 at Pearl Avenue, in Manatee County, Florida; as shown on the project location map (Figure 1.0).
+
+
+
+SECTION 2.0 PROJECT DESCRIPTION
+The project site is located at the northeast corner of the intersection of U.S. Highway 41 at Pearl Avenue, in
+
+Manatee County, Florida. The project site is currently developed with an approximately 20,000 square foot
+
+building which formerly operated as a furniture store, which is currently vacant and non-operational. The
+
+subject site is proposed to be developed as a RaceTrac market (6,000± square feet) with fueling service (16
+
+vehicle fueling positions). Access to the project site is proposed to be provided via connections to U.S.
+
+Highway 41 and Pearl Avenue, as shown in the preliminary site plan (refer to Figure 2.0), noting that the
+
+connection to U.S. Highway 41 will be shared with the adjacent property to the north. The project site is
+
+expected to buildout prior to the end of 2014.
+
+
+
+SECTION 3.0 PROJECT SITE TRIP GENERATION
+The daily and peak hour trip generation of the project site was estimated using trip characteristic data in
+
+accordance with Trip Generation (Institute of Transportation Engineers [ITE], 9th edition, 2012) and Trip
+
+Generation Handbook (ITE, 2nd edition, 2004). Table 1.0 summarizes the resulting trip generation estimate.
+
+
+
+
+RaceTrac Site No. 1124                               -1-                                   Site Access Analysis
+US-41 at Pearl Avenue                                                                       November 6, 2013
+RAYSOR Transportation Consulting
+
+
+FIGURE 1.0 PROJECT SITE LOCATION
+
+
+                                                                NORTH
+
+
+
+
+                                         PROJECT
+                                         LOCATION
+
+
+
+
+RaceTrac Site No. 1124             -2-              Site Access Analysis
+US-41 at Pearl Avenue                                November 6, 2013
+RAYSOR Transportation Consulting
+
+
+FIGURE 2.0 PRELIMINARY SITE PLAN
+
+
+
+
+RaceTrac Site No. 1124             -3-   Site Access Analysis
+US-41 at Pearl Avenue                     November 6, 2013
+RAYSOR Transportation Consulting
+
+
+TABLE 1.0 TRIP GENERATION SUMMARY
+
+                                                         Daily                          AM Peak Hour                    PM Peak Hour
+  ITE             Land Use
+                                      Size
+  LUC            Description                  Trip                               Trip                          Trip
+                                                      Trips   Enter     Exit            Trips   Enter   Exit            Trips   Enter   Exit
+                                              Rate                               Rate                          Rate
+          Ga s ol ine Sta ti on w/
+  945                                16 vfp 162.78 2604       1302     1302 10.16        164     82     82     13.51     216    108     108
+           Convenience Store
+
+ Driveway Trips                                --     2,604 1,302 1,302           --     164     82     82      --       216    108     108
+
+                            [1]
+ Percent Pa s s -By Trips                      --    59.0%       --         --    --    62.0%    --      --     --      56.0%    --      --
+
+
+ Pa s s -By Tri ps                             --     1,536    768      768       --     102     51     51      --       122     61     61
+
+
+ New External Trips                            --     1,068   534       534       --     62      31     31      --       94      47     47
+
+[1] Source: ITE Trip Generation Handbook (2nd Edition, 2004). Daily estimated as average of AM & PM.
+
+
+
+SECTION 4.0 PROJECT SITE TRIP DISTRIBUTION & ASSIGNMENT
+The distribution and assignment of project traffic was estimated based on existing traffic patterns as
+determined from peak hour traffic counts. The estimated distribution and assignment of project traffic is
+documented in Appendix A.
+
+
+SECTION 5.0 STUDY AREA
+The study area for the site access analysis was determined to consist of the project site access connections to
+the adjacent roadway network, and the adjacent intersection of U.S. Highway 41 at Pearl Avenue.
+
+
+SECTION 6.0 TRAFFIC VOLUMES
+Existing traffic volumes were obtained from manual intersection turning movement counts performed in
+October 2013. The counts were adjusted to reflect peak season conditions using FDOT 2012 seasonal
+adjustment factors. It is noted that during the periods of traffic data collection, oversaturation of the study
+intersections was not observed, thus adjustments to reflect demand volumes were not necessary. Traffic
+count data for existing conditions is provided in Appendix B. Future year background traffic volumes for the
+study area were calculated by applying a 1% annual growth rate to the existing 2013 traffic volumes for the
+one year buildout period. The 1% annual growth rate was determined to be reasonable for use in this study
+due to the stable traffic volumes exhibited by the adjacent segment of U.S. Highway over the past few years,
+as documented in Appendix C; and in consideration that this analysis was not undertaken for the purposes of
+evaluating transportation concurrency. Total traffic volumes were calculated by adding project traffic to
+background traffic. Figures 3.0 through 5.0 illustrate the traffic volumes used in this analysis.
+
+
+RaceTrac Site No. 1124                                                -4-                                              Site Access Analysis
+US-41 at Pearl Avenue                                                                                                   November 6, 2013
+RAYSOR Transportation Consulting
+
+
+FIGURE 3.1 2013 EXISTING TRAFFIC VOLUMES (AM PEAK HOUR)
+
+                                                                                     NORTH
+                                                                                      NTS
+
+
+
+
+                         2237
+
+
+
+                                            1
+                                            0
+                         3
+
+                         1
+
+
+
+
+                                            0
+                                                  Shared Driveway
+                          1
+                          0
+                                             3
+                                          1341
+                                             0
+
+
+
+
+                          9
+
+
+
+
+                                                            Project
+                                                             Site
+                         2086
+
+
+
+
+                                            123
+                         100
+                         59
+
+
+
+
+                                            11
+                                                                    0
+                                                                    0
+
+
+
+
+                                            9                           0
+                                                                        143
+                                                                                  Pearl Avenue
+                         35                                         0
+                         13                                       119
+                                             1
+                                          1186
+                                             6
+
+
+
+
+                          8
+                                U.S. 41
+
+
+
+
+RaceTrac Site No. 1124                                      -5-               Site Access Analysis
+US-41 at Pearl Avenue                                                          November 6, 2013
+RAYSOR Transportation Consulting
+
+
+FIGURE 3.2 2013 EXISTING TRAFFIC VOLUMES (PM PEAK HOUR)
+
+                                                                                     NORTH
+                                                                                      NTS
+
+
+
+
+                         1585
+
+
+
+                                            3
+                                            0
+                         2
+
+                         2
+
+
+
+
+                                            1
+                                                  Shared Driveway
+                          0
+                          0
+                                             2
+                                          2421
+                                             1
+
+
+
+
+                          1
+
+
+
+
+                                                            Project
+                                                             Site
+                         1461
+
+
+
+
+                                            215
+                         33
+
+                         92
+
+
+
+
+                                            7
+                                                                    0
+                                                                    0
+
+
+
+
+                                            22                          0
+                                                                        244
+                                                                                  Pearl Avenue
+                         26                                         0
+                         11                                       113
+                                            10
+                                          2183
+                                            10
+
+
+
+
+                          5
+                                U.S. 41
+
+
+
+
+RaceTrac Site No. 1124                                      -6-               Site Access Analysis
+US-41 at Pearl Avenue                                                          November 6, 2013
+RAYSOR Transportation Consulting
+
+
+FIGURE 4.1 2014 BACKGROUND TRAFFIC VOLUMES (AM PEAK HOUR)
+
+                                                                                     NORTH
+                                                                                      NTS
+
+
+
+
+                         2259
+
+
+
+                                            1
+                                            0
+                         3
+
+                         1
+
+
+
+
+                                            0
+                                                  Shared Driveway
+                          1
+                          0
+                                             3
+                                          1354
+                                             0
+
+
+
+
+                          9
+
+
+
+
+                                                            Project
+                                                             Site
+                         2107
+
+
+
+
+                                            124
+                         101
+                         60
+
+
+
+
+                                            11
+                                                                    0
+                                                                    0
+
+
+
+
+                                            9                           0
+                                                                        144
+                                                                                  Pearl Avenue
+                         35                                         0
+                         13                                       120
+                                             1
+                                          1198
+                                             6
+
+
+
+
+                          8
+                                U.S. 41
+
+
+
+
+RaceTrac Site No. 1124                                      -7-               Site Access Analysis
+US-41 at Pearl Avenue                                                          November 6, 2013
+RAYSOR Transportation Consulting
+
+
+FIGURE 4.2 2014 BACKGROUND TRAFFIC VOLUMES (PM PEAK HOUR)
+
+                                                                                     NORTH
+                                                                                      NTS
+
+
+
+
+                         1601
+
+
+
+                                            3
+                                            0
+                         2
+
+                         2
+
+
+
+
+                                            1
+                                                  Shared Driveway
+                          0
+                          0
+                                             2
+                                          2445
+                                             1
+
+
+
+
+                          1
+
+
+
+
+                                                            Project
+                                                             Site
+                         1476
+
+
+
+
+                                            217
+                         33
+
+                         93
+
+
+
+
+                                            7
+                                                                    0
+                                                                    0
+
+
+
+
+                                            22                          0
+                                                                        246
+                                                                                  Pearl Avenue
+                         26                                         0
+                         11                                       114
+                                            10
+                                          2205
+                                            10
+
+
+
+
+                          5
+                                U.S. 41
+
+
+
+
+RaceTrac Site No. 1124                                      -8-               Site Access Analysis
+US-41 at Pearl Avenue                                                          November 6, 2013
+RAYSOR Transportation Consulting
+
+
+FIGURE 5.1 2014 TOTAL TRAFFIC VOLUMES (AM PEAK HOUR)
+
+                                                                                      NORTH
+                                                                                       NTS
+
+
+
+
+                         2229
+
+
+
+                                            29
+                         50
+
+
+
+                                            0
+                         3
+
+
+
+
+                                            16
+                                                  Shared Driveway
+                          1
+                          0
+                                             3
+                                          1337
+                                            18
+
+
+
+
+                          9
+
+
+
+
+                                                            Project
+                                                             Site
+                         2094
+
+
+
+
+                                            124
+                         101
+
+
+
+
+                                                                    35
+                         59
+
+
+
+
+                                            13
+                                                                    3
+
+
+
+
+                                            40                           3
+                                                                         142
+                                                                                   Pearl Avenue
+                         34                                        12
+                         15                                       118
+                                             1
+                                          1200
+                                            14
+
+
+
+
+                          8
+                                U.S. 41
+
+
+
+
+RaceTrac Site No. 1124                                      -9-                Site Access Analysis
+US-41 at Pearl Avenue                                                           November 6, 2013
+RAYSOR Transportation Consulting
+
+
+FIGURE 5.2 2014 TOTAL TRAFFIC VOLUMES (PM PEAK HOUR)
+
+                                                                                      NORTH
+                                                                                       NTS
+
+
+
+
+                         1580
+
+
+
+                                            64
+                         41
+
+
+
+                                            0
+                         2
+
+
+
+
+                                            14
+                                                  Shared Driveway
+                          0
+                          0
+                                             2
+                                          2411
+                                            41
+
+
+
+
+                          1
+
+
+
+
+                                                            Project
+                                                             Site
+                         1468
+
+
+
+
+                                            217
+                                                                    30
+                         33
+
+                         93
+
+
+
+
+                                            9
+                                                                    4
+
+
+
+
+                                            46                           6
+                                                                         242
+                                                                                   Pearl Avenue
+                         26                                      23
+                         13                                     112
+                                            10
+                                          2211
+                                            29
+
+
+
+
+                          5
+                                U.S. 41
+
+
+
+
+RaceTrac Site No. 1124                                     - 10 -              Site Access Analysis
+US-41 at Pearl Avenue                                                           November 6, 2013
+RAYSOR Transportation Consulting
+
+
+SECTION 7.0 INTERSECTION OPERATIONAL ANALYSIS
+Operational analyses for the study intersections were undertaken for total traffic conditions.                       The
+intersection analyses were performed using Synchro analysis software for both AM and PM peak hour
+conditions, using existing signal timings where applicable. The results of the intersection analyses are
+summarized in Table 2.0 and worksheets documenting the analysis are provided in Appendix D (existing
+signal timings are provided in Appendix E).
+
+
+As shown in Table 2.0, each of the study intersections, including the site access driveway connections, are
+anticipated to operate acceptably in consideration of the buildout of the proposed RaceTrac site.
+
+
+TABLE 2.0 INTERSECTION ANALYSIS SUMMARY
+                        Overall
+                                                               Individual Movement V/C Ratios
+               Peak   Intersection
+  Location
+               Hour   LOS
+                             LOS     EBL   EBT    EBR   WBL      WBT    WBR    NBL    NBT       NBR   SBL    SBT    SBR
+                      Std.
+
+  US-41        AM      D       B     [1]   0.79   [1]   0.34     0.19    [1]   0.01   0.38      [1]   0.36   0.59   [1]
+ a t Pea rl
+ Avenue        PM      D       C     [1]   0.28   [1]   0.22     0.61    [1]   0.06   0.75      [1]   0.75   0.44   [1]
+
+
+    US-41      AM     n/a     n/a    [1]   0.08   [1]    [1]     0.16    [1]   0.02    [2]      [2]   0.10    [2]   [2]
+ a t Project
+ Dri vewa y    PM     n/a     n/a    [1]   0.00   [1]    [1]     0.33    [1]   0.01    [2]      [2]   0.17    [2]   [2]
+
+
+    Pea rl     AM     n/a     n/a    [1]   0.01   n/a   n/a       [2]    [2]   n/a    n/a       n/a   0.05   n/a    [1]
+  Avenue
+ a t Project
+ Dri vewa y    PM     n/a     n/a    [1]   0.02   n/a   n/a       [2]    [2]   n/a    n/a       n/a   0.05   n/a    [1]
+
+[1] Shared Lane; [2] Unopposed Movement
+
+
+
+
+SECTION 8.0 TURN LANE WARRANT & LENGTH EVALUATION
+A turn lane warrant evaluation was undertaken to identify if new turn lanes would be needed at the project
+site driveway connections to U.S. Highway 41 and Pearl Avenue, as documented in Appendix F. The need for
+right turn lanes was evaluated in consideration of warranting criteria documented in the Florida Department
+of Transportation's Driveway Handbook (March, 2005). The need for left turn lanes was evaluated in
+consideration of warranting criteria documented in the 2011 AASHTO Green Book (Table 9-23). The results
+of the turn lane warrant evaluation concluded that new turn lanes are not warranted at either of the project
+site driveways. In addition, as documented in Appendix F, the lengths of existing turn lanes adjacent to the
+site (that will accommodate project traffic) were found to be adequate.
+
+
+
+RaceTrac Site No. 1124                                  - 11 -                                        Site Access Analysis
+US-41 at Pearl Avenue                                                                                  November 6, 2013
+RAYSOR Transportation Consulting
+
+
+SECTION 9.0 QUEUE ANALYSIS
+A queue analysis was performed for the westbound approach of Pearl Avenue at U.S. Highway 41 to evaluate
+existing and potential queuing. Observations of existing queuing were undertaken during AM and PM peak
+hour periods in October 2013; as documented in Appendix G and summarized below.
+
+
+                 AM Peak Hour                                       PM Peak Hour
+          Average Queue: 1.9 vehicles                         Average Queue: 4.5 vehicles
+          Maximum Queue: 5 vehicles                           Maximum Queue: 8 vehicles
+
+Assuming a length of 25 feet for each vehicle, as is the generally accepted practice, existing queuing would
+periodically extend past the subject project site driveway connection to Pearl Avenue, which is proposed to
+be located approximately 100 feet east of the stop line at U.S. Highway 41. However, the field observations
+indicated that any queuing to this extent (i.e., 100 feet or more) occurs in the shared through/right-turn lane,
+and only as a result of the occasional "through" vehicle blocking the major movement (i.e., right-turning
+vehicles) from making right-turns on red; whereas for existing conditions the westbound through movement
+was identified as 11 vph during the AM peak hour and 7 vph during the PM peak hour, as compared to
+westbound-to-northbound right turn volumes of 123 vph during the AM peak hour and 215 vph during the
+PM peak hour. Furthermore, due these characteristics, the frequency/duration with which the queue
+currently extends past the proposed driveway location is relatively low, and that any additional queuing that
+would result from the development of the proposed RaceTrac would be incurred on the RaceTrac site and
+not increase the duration or frequency of the queue past the subject driveway. Therefore, it is anticipated
+that the subject driveway will operate in a queue-free state for the majority of time during peak traffic hours
+which would allow it to be implemented as a full access connection, allowing all traffic movements.
+
+
+SECTION 10.0 SUMMARY AND CONCLUSION
+Based on the data, analyses and findings contained herein, the following is concluded in consideration of the
+development of the subject RaceTrac site:
+
+
+     Each of the study intersections, including the site access driveway connections, are anticipated to
+     operate acceptably in consideration of the buildout of the proposed RaceTrac site.
+
+     New turn lanes were found to not be warranted at either of the project site driveways.
+
+     The lengths of existing turn lanes adjacent to the site (that will accommodate project traffic) were
+        found to be adequate.
+
+     It is anticipated that the project site driveway connection to Pearl Avenue will operate in a queue-
+     free state for the majority of time during peak traffic hours which would allow it to be implemented
+     as a full access connection, allowing all traffic movements.
+
+RaceTrac Site No. 1124                               - 12 -                                 Site Access Analysis
+US-41 at Pearl Avenue                                                                        November 6, 2013
+APPENDIX A
+
+Project Traffic
+NORTH
+ NTS
+
+
+
+
+                                   61%
+                                                    37%
+                                                     35%
+                                   60%
+                                   0%
+                                   1%
+
+
+                                                     0%
+                                                     20%
+                                                             Shared Driveway
+                                   0%
+                                   0%
+                                                    0%
+                                                    2%
+                                                   23%
+
+                                   0%
+
+
+
+
+                                                                       Project
+                                                                        Site
+
+
+
+
+                                                     2%
+                                                                                42%
+                                   19%
+
+
+
+
+                                                                                3%
+                                   1%
+
+                                   1%
+
+
+
+
+                      2%                             1%
+                                                     39%                              4%             4%
+                                                                                      0%
+                                                                                                          Pearl Avenue
+                                   1%                                          13%
+                2%                 1%                                           0%              3%
+                                                    0%
+                                                   22%
+                                                   11%
+
+
+
+
+                                   0%
+
+
+
+
+                                   58%
+                                                    33%
+                                         U.S. 41
+
+
+
+
+                                                   RACETRAC MARKET WITH FUEL SERVICE
+                                                    AM Peak Hour Project Traffic Distribution
+                                                       U.S. Highway 41 at Pearl Avenue
+RAYSOR Transportation Consulting
+
+                                                                APPENDIX A - 1 of 8
+NORTH
+ NTS
+
+
+
+
+                                   38%
+                                                    60%
+                                                     57%
+                                   37%
+                                   0%
+                                   1%
+
+
+                                                     0%
+                                                     12%
+                                                             Shared Driveway
+                                   0%
+                                   0%
+                                                    0%
+                                                    3%
+                                                   37%
+
+                                   0%
+
+
+
+
+                                                                       Project
+                                                                        Site
+
+
+
+
+                                                     3%
+                                                                                28%
+                                   11%
+
+
+
+
+                                                                                3%
+                                   1%
+
+                                   1%
+
+
+
+
+                      2%                             1%
+                                                     24%                              6%             6%
+                                                                                      0%
+                                                                                                          Pearl Avenue
+                                   1%                                          20%
+                2%                 1%                                           0%              3%
+                                                    0%
+                                                   36%
+                                                   18%
+
+
+
+
+                                   0%
+
+
+
+
+                                   35%
+                                                    54%
+                                         U.S. 41
+
+
+
+
+                                                   RACETRAC MARKET WITH FUEL SERVICE
+                                                    PM Peak Hour Project Traffic Distribution
+                                                       U.S. Highway 41 at Pearl Avenue
+RAYSOR Transportation Consulting
+
+                                                                APPENDIX A - 2 of 8
+NORTH
+ NTS
+
+
+
+
+                                                     10
+                                   19
+
+                                                     0
+                                   0
+                                   0
+
+
+
+                                                     6
+                                                               Shared Driveway
+                                     0
+                                     0
+                                                   0
+                                                   1
+                                                   7
+
+                                     0
+
+
+
+
+                                                                         Project
+                                                                          Site
+
+
+
+
+                                                     1
+                                                                                 14
+
+
+
+
+                                                     1
+                                                                                 1
+                                   0
+                                   6
+                                   0
+
+
+
+
+                                                     12                                 1
+                                                                                        0
+                                                                                                  Pearl Avenue
+                                     0                                           4
+                                     1                                           0
+                                                   0
+                                                   7
+                                                   3
+
+
+
+
+                                     0
+                                         U.S. 41
+
+
+
+
+                                                   RACETRAC MARKET WITH FUEL SERVICE
+                                   AM Peak Hour Project Traffic Assignment (New External Trips)
+                                                          U.S. Highway 41 at Pearl Avenue
+RAYSOR Transportation Consulting
+
+                                                                  APPENDIX A - 3 of 8
+NORTH
+ NTS
+
+
+
+
+                                                     26
+                                   17
+
+                                                     0
+                                   0
+                                   1
+
+
+
+                                                     6
+                                                               Shared Driveway
+                                    0
+                                    0
+                                                    0
+                                                    1
+                                                   18
+
+                                    0
+
+
+
+
+                                                                         Project
+                                                                          Site
+
+
+
+
+                                                     1
+                                                                                 13
+
+
+
+
+                                                     1
+                                                                                 2
+                                   1
+                                   5
+                                   1
+
+
+
+
+                                                     11                                 2
+                                                                                        0
+                                                                                                  Pearl Avenue
+                                     1                                           10
+                                     1                                            0
+                                                    0
+                                                   17
+                                                    8
+
+
+
+
+                                     0
+                                         U.S. 41
+
+
+
+
+                                                   RACETRAC MARKET WITH FUEL SERVICE
+                                   PM Peak Hour Project Traffic Assignment (New External Trips)
+                                                          U.S. Highway 41 at Pearl Avenue
+RAYSOR Transportation Consulting
+
+                                                                  APPENDIX A - 4 of 8
+NORTH
+ NTS
+
+
+
+
+                                    +30 [30] (0)
+                                    -30 [1] (31)
+                                    +0 [0] (0)                      +18 [18] (0)
+                                                                    +0 [0] (0)
+                                                                    +10 [10] (0)
+                                                                               Shared Driveway
+                               (0) [0] +0
+                               (0) [0] +0
+                                        0                         (0) [0] +0
+                                                                (19) [1] -18
+                                                                           8
+                                                               (0) [11] +111
+                               (0) [0] +0
+
+
+
+
+                                                                                         Project
+                                                                                          Site
+                                      9 [10] (29)
+
+
+
+
+                                                                                                   1 [21] (0)
+                                    +0 [1] (1)
+
+
+
+
+                                                                                                 +2 [2] (0)
+                                       [0] (1)
+
+
+
+
+                                                                   -1
+                                                                    1 [1] (2)
+                                                                                                 +21
+                                    -1 [
+                                    -19
+
+
+
+
+                                                                   +1 [1] (0)
+                                                                   +19 [19] (0)                                 +2 [2] (0)
+                                                                                                                -2 [0] (2)
+                                                                                                                             Pearl Avenue
+                                (1) [0] -1                                               (0) [8] +8
+                               (0) [1] +1                                                 (2) [0] -2
+                                                                (0) [0] +0
+                                                              (16) [11] -5
+                                                                (1) [6] +5
+
+
+
+
+                               (0) [0] +0
+                                                    U.S. 41
+
+
+
+
+    LEGEND
+    (00) Unaltered Vehicle Movements - Original (Based on Existing Traffic)
+    [00] Captured Vehicle Movements - PassBy
+     00 Net Vehicle Movements - Resulting Differential
+
+
+
+
+                                                              RACETRAC MARKET WITH FUEL SERVICE
+                                           AM Peak Hour Project Traffic Assignment (Pass-By Trips)
+                                                                         U.S. Highway 41 at Pearl Avenue
+RAYSOR Transportation Consulting
+
+                                                                                  APPENDIX A - 5 of 8
+NORTH
+ NTS
+
+
+
+
+                                    +22 [22] (0)
+                                    -22 [1] (23)
+                                    +0 [0] (0)                      +35 [35] (0)
+                                                                    +0 [0] (0)
+                                                                    +7 [7] (0)
+                                                                               Shared Driveway
+                               (0) [0] +0
+                               (0) [0] +0
+                                        0                        (0) [0] +0
+                                                               (37) [2] -35
+                                                                          5
+                                                              (0) [22] +222
+                               (0) [0] +0
+
+
+
+
+                                                                                         Project
+                                                                                          Site
+                                                                                                   7 [17] (0)
+                                      3 [7] (20)
+
+
+
+
+                                                                                                 +2 [2] (0)
+                                       [0] (1)
+
+                                       [1] (2)
+
+
+
+
+                                                                   -1
+                                                                    1 [2] (3)
+                                                                                                 +17
+                                    -1 [
+
+                                    -1 [
+                                    -13
+
+
+
+
+                                                                   +1 [1] (0)
+                                                                   +13 [14] (1)                                 +4 [4] (0)
+                                                                                                                -4 [0] (4)
+                                                                                                                             Pearl Avenue
+                                (1) [0] -1                                             (0) [13] +13
+                               (0) [1] +1                                                 (2) [0] -2
+                                                                 (0) [0] +0
+                                                             (33) [22] -11
+                                                              (0) [11] +11
+
+
+
+
+                               (0) [0] +0
+                                                   U.S. 41
+
+
+
+
+    LEGEND
+    (00) Unaltered Vehicle Movements - Original (Based on Existing Traffic)
+    [00] Captured Vehicle Movements - PassBy
+     00 Net Vehicle Movements - Resulting Differential
+
+
+
+
+                                                             RACETRAC MARKET WITH FUEL SERVICE
+                                          PM Peak Hour Project Traffic Assignment (Pass-By Trips)
+                                                                         U.S. Highway 41 at Pearl Avenue
+RAYSOR Transportation Consulting
+
+                                                                                  APPENDIX A - 6 of 8
+NORTH
+ NTS
+
+
+
+
+                                                       28
+                                   -30
+                                   49
+
+                                                       0
+                                   0
+
+
+
+
+                                                       16
+                                                                 Shared Driveway
+                                    0
+                                    0
+                                                       0
+                                                     -17
+                                                      18
+
+                                    0
+
+
+
+
+                                                                           Project
+                                                                            Site
+
+
+
+
+                                                       0
+                                   -13
+
+
+
+
+                                                                                   35
+
+
+
+
+                                                       2
+                                   -1
+
+
+
+
+                                                                                   3
+                                   0
+
+
+
+
+                                                       31                                 3
+                                                                                          -2
+                                                                                                 Pearl Avenue
+                                    -1                                             12
+                                     2                                             -2
+                                                     0
+                                                     2
+                                                     8
+
+
+
+
+                                     0
+                                           U.S. 41
+
+
+
+
+                                                     RACETRAC MARKET WITH FUEL SERVICE
+                                         AM Peak Hour Project Traffic Assignment (Total Trips)
+                                                            U.S. Highway 41 at Pearl Avenue
+RAYSOR Transportation Consulting
+
+                                                                    APPENDIX A - 7 of 8
+NORTH
+ NTS
+
+
+
+
+                                                      61
+                                   -21
+                                   39
+
+                                                      0
+                                   0
+
+
+
+
+                                                      13
+                                                                Shared Driveway
+                                    0
+                                    0
+                                                      0
+                                                    -34
+                                                     40
+
+                                    0
+
+
+
+
+                                                                          Project
+                                                                           Site
+
+
+
+
+                                                      0
+                                                                                  30
+
+
+
+
+                                                      2
+                                   -8
+
+
+
+
+                                                                                  4
+                                   0
+
+                                   0
+
+
+
+
+                                                      24                                 6
+                                                                                         -4
+                                                                                                Pearl Avenue
+                                    0                                             23
+                                    2                                             -2
+                                                     0
+                                                     6
+                                                    19
+
+
+
+
+                                    0
+                                          U.S. 41
+
+
+
+
+                                                    RACETRAC MARKET WITH FUEL SERVICE
+                                        PM Peak Hour Project Traffic Assignment (Total Trips)
+                                                           U.S. Highway 41 at Pearl Avenue
+RAYSOR Transportation Consulting
+
+                                                                   APPENDIX A - 8 of 8
+APPENDIX B
+
+Traffic Counts
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: US 41 -- Pearl Ave                                                                                             QC JOB #: 11342901
+ CITY/STATE: Bradenton, FL                                                                                                DATE: Tue, Oct 01 2013
+                  1970          1179                        Peak-Hour: 7:15 AM -- 8:15 AM                                  3.1        3.3
+
+                   52 1830 88
+                                                           Peak 15-Min: 7:30 AM -- 7:45 AM
+                                                                                                                           11.5 3.0 2.3
+
+
+       63    31                        108   126
+                                                                                                            11.1   3.2                           2.8      3.2
+             11          0.89           10
+                                                                                                                   0.0                       10.0
+       49    7                           8   104
+                                                                                                            4.1    14.3                          0.0      1.9
+
+                   1 1040 5
+                                                                                                                           0.0 3.4 0.0
+
+                  1845          1046
+                                                                                                                           3.0        3.3
+
+
+
+                          0                                                                                                 0    0    0
+
+
+
+                                                                                                                   0                              0
+
+             6                           1                                                                         0                              0
+
+                                                                                                                   0                              0
+
+                          3                                                                                                 0    0    0
+
+
+
+
+                         NA                                                                                                      NA
+
+
+
+
+             NA                        NA                                                                          NA                            NA
+
+
+
+
+                         NA                                                                                                      NA
+
+                                                                                                                                                         R* = RTOR
+ 15-Min Count           US 41                                US 41                      Pearl Ave                   Pearl Ave                          Total Hourly
+    Period           (Northbound)                         (Southbound)                (Eastbound)                 (Westbound)                                Totals
+ Beginning At Left Thru Right U               R*   Left Thru Right U      R*   Left Thru Right U      R*   Left Thru Right U                R*
+    7:00 AM    0 168       0    0              0    16 293     14    0     1     1    1     0     0    0     2    4     7     0             14         521
+    7:15 AM    1 230       3    0              0    17 440     11    0     0    10    3     1     0    0     2    1     2     0             30         751
+    7:30 AM    0 334       0    0              0    15 496      9    0     0     7    4     1     0    0     2    5    13     0             10         896
+    7:45 AM    0 280       1    0              0    38 467     18    0     0     9    0     0     0    1     1    2     2     0             26         845      3013
+    8:00 AM    0 196       1    0              0    18 427     14    0     0     5    4     3     0    1     3    2     9     0             16         699      3191
+    8:15 AM    2 222       1    0              0    16 413     14    0     0     9    1     0     0    1     7    6    18     0             14         724      3164
+    8:30 AM    2 258       1    0              0    14 446      9    0     0     5    5     0     0    2     2    1    11     0             28         784      3052
+    8:45 AM    3 225       2    0              0    14 354     15    0     0    12    1     1     0    2     3    4    10     0             16         662      2869
+
+
+
+
+ Peak 15-Min          Northbound                          Southbound                   Eastbound                   Westbound
+   Flowrates   Left Thru Right U              R*   Left Thru Right U      R*   Left Thru Right U      R*   Left Thru Right U                R*            Total
+  All Vehicles   0 1336     0    0             0    60 1984    36    0     0    28   16     4    0     0     8   20    52    0              40            3584
+ Heavy Trucks    0   44     0                        0   68    12                0    0     4                0    4     4                                  136
+  Pedestrians         4                                   0                           8                           4                                         16
+    Bicycles     0    0     0                        0    0     0                0    0     0                0    0     0                                    0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/7/2013 11:05 AM                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
+                                                                   APPENDIX B - 1 of 5
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: US 41 -- Pearl Ave                                                                                            QC JOB #: 11342902
+ CITY/STATE: Bradenton, FL                                                                                               DATE: Tue, Oct 01 2013
+                  1392          2127                        Peak-Hour: 4:45 PM -- 5:45 PM                                 2.9        2.0
+
+                   29 1282 81
+                                                           Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                          0.0 3.0 2.5
+
+
+       44    23                        189   214
+                                                                                                            2.3   0.0                           2.1      3.3
+             10          0.93            6
+                                                                                                                  10.0                      16.7
+       37    4                          19   100
+                                                                                                            2.7   0.0                       10.5         3.0
+
+                   9 1915 9
+                                                                                                                          0.0 2.0 0.0
+
+                  1305          1933
+                                                                                                                          3.1        2.0
+
+
+
+                          0                                                                                                0    0    0
+
+
+
+                                                                                                                  0                              0
+
+             2                           5                                                                        0                              0
+
+                                                                                                                  0                              0
+
+                          5                                                                                                0    1    0
+
+
+
+
+                         NA                                                                                                     NA
+
+
+
+
+             NA                        NA                                                                         NA                            NA
+
+
+
+
+                         NA                                                                                                     NA
+
+                                                                                                                                                        R* = RTOR
+ 15-Min Count           US 41                                US 41                      Pearl Ave                   Pearl Ave                         Total Hourly
+    Period           (Northbound)                         (Southbound)                (Eastbound)                 (Westbound)                               Totals
+ Beginning At Left Thru Right U               R*   Left Thru Right U      R*   Left Thru Right U      R*   Left Thru Right U               R*
+    4:00 PM    6 368       2    0              0    18 278     10    0     0     8    4     2     0    3     4    0    12     0            21         736
+    4:15 PM    3 451       0    0              0    14 289      2    0     0     6    0     0     0    1     6    1     7     0            17         797
+    4:30 PM    1 431       2    0              0    19 302      7    0     0     3    0     0     0    0     3    2    14     0            27         811
+    4:45 PM    5 447       2    0              0    16 310      6    0     1     8    2     0     0    1     6    1    15     0            25         845      3189
+    5:00 PM    3 410       2    0              0    19 345     10    0     0     1    0     0     0    1     3    0    16     0            32         842      3295
+    5:15 PM    0 519       4    0              0    28 331      4    0     1    10    5     1     0    0     5    2    32     0            20         962      3460
+    5:30 PM    1 539       1    0              0    18 296      7    0     0     4    3     0     0    1     5    3    18     0            31         927      3576
+    5:45 PM    2 434       2    0              0    18 281      6    0     0     3    3     0     0    1     4    6    25     0            11         796      3527
+
+
+
+
+ Peak 15-Min          Northbound                          Southbound                   Eastbound                   Westbound
+   Flowrates   Left Thru Right U              R*   Left Thru Right U      R*   Left Thru Right U      R*   Left Thru Right U               R*            Total
+  All Vehicles   0 2076    16    0             0   112 1324    16    0     4    40   20     4    0     0    20    8 128      0             80            3848
+ Heavy Trucks    0   28     0                        4   12     0                0    0     0                0    0    12                                 56
+  Pedestrians        20                                   0                           4                          12                                       36
+    Bicycles     0    0     0                        0    0     0                0    0     0                0    0     0                                  0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/7/2013 11:05 AM                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
+                                                                   APPENDIX B - 2 of 5
+RAYSOR Transportation Consulting                                                           Count Location: U.S. Highway 41 at Existing Shared Driveway
+Intersection Count Worksheet                                                                                                                Count Date: 10/01/13
+TOTAL VEHICLES
+                       U.S. 41                        Driveway                                    U.S. 41                            Driveway                  Inter-
+   Start
+                      From North                      From East                             From South                               From West                section
+   Time
+             Right Thru       Left    Total Right Thru       Left        Total Right Thru                   Left     Total Right Thru       Left     Total     Total
+ 7:00 AM         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --       --     --
+ 7:15 AM          0    466       0        466    0      0           0        0         0        271             1      272      2       0       0        2     740
+ 7:30 AM          1    517       0        518    0      0           0        0         0        364             0      364      3       0       0        3     885
+ 7:45 AM          2    522       1        525    0      0           0        0         0        315             2      317      1       0       1        2     844
+   Total         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --      --      --
+
+
+ 8:00 AM          0    457       0        457    1      0           0        1         0        226             0      226      2       0       0        2     686
+ 8:15 AM         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --       --     --
+ 8:30 AM         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --       --     --
+ 8:45 AM         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --       --     --
+   Total         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --      --      --
+
+
+Peak Hour Volume (peak hour determined from intersection of US-41 at Pearl)
+ 7:15 AM          3 1962         1 1966          1      0           0        1         0 1176                   3 1179          8      0        1        9     3155
+
+
+Peak Hour, Peak Season Volume (PSCF: 1.14)
+ 7:15 AM          3 2237         1 2241          1      0           0        1         0 1341                   3 1344          9      0        1       10     3596
+
+
+Peak Hour Factor:             0.89
+
+
+
+                                                                     U.S. 41
+                                      N                                                     1
+                                                             2237
+
+
+
+
+                                                                                            0
+                                                       3
+
+
+
+                                                                         1
+
+
+
+
+                                                                                            0
+                                                                                                                     Driveway
+                                          Driveway
+                                                                    1
+                                                                                     3
+
+                                                                                                1341
+
+                                                                                                            0
+
+
+
+
+                                                                    0
+                                                                    9
+
+                                                                                  U.S. 41
+
+
+
+
+                                                              APPENDIX B - 3 of 5
+RAYSOR Transportation Consulting                                                           Count Location: U.S. Highway 41 at Existing Shared Driveway
+Intersection Count Worksheet                                                                                                                Count Date: 10/01/13
+TOTAL VEHICLES
+                       U.S. 41                        Driveway                                    U.S. 41                            Driveway                  Inter-
+   Start
+                      From North                      From East                             From South                               From West                section
+   Time
+             Right Thru       Left    Total Right Thru       Left        Total Right Thru                   Left     Total Right Thru       Left     Total     Total
+ 4:00 PM         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --       --     --
+ 4:15 PM         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --       --     --
+ 4:30 PM         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --       --     --
+ 4:45 PM          1    333       0        334    2      0           0        2         0        495             0      495      0       0       0        0     831
+   Total         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --      --      --
+
+
+ 5:00 PM          0    373       1        374    0      0           0        0         0        458             1      459      1       0       0        1     834
+ 5:15 PM          0    363       0        363    0      0           1        1         1        579             1      581      0       0       0        0     945
+ 5:30 PM          1    321       1        323    1      0           0        1         0        592             0      592      0       0       0        0     916
+ 5:45 PM         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --       --     --
+   Total         --      --      --        --    --     --          --       --       --               --       --       --     --     --       --      --      --
+
+
+Peak Hour Volume (peak hour determined from intersection of US-41 at Pearl)
+ 4:45 PM          2 1390         2 1394          3      0           1        4         1 2124                   2 2127          1      0        0        1       3526
+
+
+Peak Hour, Peak Season Volume (PSCF: 1.14)
+ 4:45 PM          2 1585         2 1589          3      0           1        4         1 2421                   2 2424          1      0        0        1       4018
+
+
+Peak Hour Factor:             0.93
+
+
+
+                                                                     U.S. 41
+                                      N                                                     3
+                                                             1585
+
+
+
+
+                                                                                            0
+                                                       2
+
+
+
+                                                                         2
+
+
+
+
+                                                                                            1
+                                                                                                                     Driveway
+                                          Driveway
+                                                                    0
+                                                                                     2
+
+                                                                                                2421
+
+                                                                                                            1
+
+
+
+
+                                                                    0
+                                                                    1
+
+                                                                                  U.S. 41
+
+
+
+
+                                                              APPENDIX B - 4 of 5
+ 2012 Peak Season Factor Category Report - Report Type: ALL
+Category: 1302 US 41, 19 & 301
+                                                MOCF: 0.92
+Week          Dates               SF            PSCF
+================================================================================
+  1    01/01/2012 - 01/07/2012    0.94          1.02
+  2    01/08/2012 - 01/14/2012    0.95          1.03
+* 3    01/15/2012 - 01/21/2012    0.96          1.04
+* 4    01/22/2012 - 01/28/2012    0.95          1.03
+* 5    01/29/2012 - 02/04/2012    0.94          1.02
+* 6    02/05/2012 - 02/11/2012    0.92          1.00
+* 7    02/12/2012 - 02/18/2012    0.91          0.99
+* 8    02/19/2012 - 02/25/2012    0.91          0.99
+* 9    02/26/2012 - 03/03/2012    0.90          0.98
+*10    03/04/2012 - 03/10/2012    0.90          0.98
+*11    03/11/2012 - 03/17/2012    0.89          0.97
+*12    03/18/2012 - 03/24/2012    0.91          0.99
+*13    03/25/2012 - 03/31/2012    0.92          1.00
+*14    04/01/2012 - 04/07/2012    0.93          1.01
+*15    04/08/2012 - 04/14/2012    0.94          1.02
+ 16    04/15/2012 - 04/21/2012    0.96          1.04
+ 17    04/22/2012 - 04/28/2012    0.97          1.05
+ 18    04/29/2012 - 05/05/2012    0.99          1.07
+ 19    05/06/2012 - 05/12/2012    1.01          1.10
+ 20    05/13/2012 - 05/19/2012    1.02          1.11
+ 21    05/20/2012 - 05/26/2012    1.04          1.13
+ 22    05/27/2012 - 06/02/2012    1.06          1.15
+ 23    06/03/2012 - 06/09/2012    1.08          1.17
+ 24    06/10/2012 - 06/16/2012    1.10          1.19
+ 25    06/17/2012 - 06/23/2012    1.10          1.19
+ 26    06/24/2012 - 06/30/2012    1.10          1.19
+ 27    07/01/2012 - 07/07/2012    1.10          1.19
+ 28    07/08/2012 - 07/14/2012    1.10          1.19
+ 29    07/15/2012 - 07/21/2012    1.10          1.19
+ 30    07/22/2012 - 07/28/2012    1.10          1.19
+ 31    07/29/2012 - 08/04/2012    1.10          1.19
+ 32    08/05/2012 - 08/11/2012    1.10          1.19
+ 33    08/12/2012 - 08/18/2012    1.10          1.19
+ 34    08/19/2012 - 08/25/2012    1.10          1.19
+ 35    08/26/2012 - 09/01/2012    1.10          1.19
+ 36    09/02/2012 - 09/08/2012    1.10          1.19
+ 37    09/09/2012 - 09/15/2012    1.10          1.19
+ 38    09/16/2012 - 09/22/2012    1.08          1.17
+ 39    09/23/2012 - 09/29/2012    1.07          1.16
+ 40    09/30/2012 - 10/06/2012    1.05          1.14
+ 41    10/07/2012 - 10/13/2012    1.03          1.12
+ 42    10/14/2012 - 10/20/2012    1.02          1.11
+ 43    10/21/2012 - 10/27/2012    1.01          1.10
+ 44    10/28/2012 - 11/03/2012    1.00          1.09
+ 45    11/04/2012 - 11/10/2012    0.99          1.07
+ 46    11/11/2012 - 11/17/2012    0.98          1.06
+ 47    11/18/2012 - 11/24/2012    0.97          1.05
+ 48    11/25/2012 - 12/01/2012    0.96          1.04
+ 49    12/02/2012 - 12/08/2012    0.95          1.03
+ 50    12/09/2012 - 12/15/2012    0.94          1.02
+ 51    12/16/2012 - 12/22/2012    0.95          1.03
+ 52    12/23/2012 - 12/29/2012    0.96          1.04
+ 53    12/30/2012 - 12/31/2012    0.96          1.04
+
+* Peak Season
+
+Page 3 of 9
+
+
+
+
+                                         APPENDIX B - 5 of 5
+APPENDIX C
+
+Historical Traffic
+                            Florida Department of Transportation
+                              Transportation Statistics Office
+                                 2012 Historical AADT Report
+
+County: 13 - MANATEE
+
+Site: 5035 - SR-45/US-41B, S OF GAINES AVE/TALLEVAST RD
+
+Year       AADT        Direction 1     Direction 2        *K Factor   D Factor   T Factor
+----    ----------     ------------    ------------       ---------   --------   --------
+2012      36500 C      N 18500         S 18000                 9.00      55.50       2.90
+2011      35000 C      N 17000         S 18000                 9.00      55.50       2.90
+2010      38500 C      N 19000         S 19500                 9.85      54.33       2.90
+
+
+
+
+        AADT Flags: C = Computed; E = Manual Estimate; F = First Year Estimate
+                    S = Second Year Estimate; T = Third Year Estimate; X = Unknown
+       *K Factor: Starting with Year 2011 is StandardK, Prior years are K30 values
+
+
+
+
+                                          APPENDIX C - 1 of 1
+  APPENDIX D
+
+Intersection Analysis
+HCM Signalized Intersection Capacity Analysis                                                                RaceTrac No. 1124
+1: Pearl Avenue & US-41                                                                                             AM Peak Total Traffic
+
+
+
+Movement                             EBL     EBT     EBR     WBL      WBT     WBR         NBL     NBT     NBR      SBL       SBT     SBR
+Lane Configurations
+Volume (vph)                          34       15       8       40       13     124          1   1200       14      101     2094       59
+Ideal Flow (vphpl)                  1900    1900     1900    1900     1900     1900      1900    1900     1900    1900      1900     1900
+Total Lost time (s)                           8.0              8.0      8.0                6.5     6.5               7.0      6.5
+Lane Util. Factor                            1.00             1.00     1.00               1.00    0.91              1.00     0.91
+Frt                                          0.98             1.00     0.86               1.00    1.00              1.00     1.00
+Flt Protected                               0.97              0.95    1.00                0.95   1.00              0.95     1.00
+Satd. Flow (prot)                           1745             1805     1584               1805    5029              1770     5003
+Flt Permitted                                0.47             0.77     1.00               0.06    1.00             0.16      1.00
+Satd. Flow (perm)                             845            1467     1584                 108   5029               297     5003
+Peak-hour factor, PHF                0.89    0.89    0.89     0.89     0.89    0.89       0.89    0.89    0.89     0.89      0.89    0.89
+Adj. Flow (vph)                        38      17       9       45       15     139          1   1348       16      113     2353       66
+RTOR Reduction (vph)                    0       5       0        0      127       0          0       1       0          0       1       0
+Lane Group Flow (vph)                   0      59       0       45       27       0          1   1363        0      113     2418        0
+Heavy Vehicles (%)                    3%      0%     14%       0%     10%       3%         0%      3%      0%        2%       3%     12%
+Turn Type                           Perm                     Perm                        Perm                    pm+pt
+Protected Phases                               4                         8                           2                  1      6
+Permitted Phases                       4                         8                           2                          6
+Actuated Green, G (s)                        13.4             13.4    13.4               107.3   107.3            122.1     122.1
+Effective Green, g (s)                       13.4             13.4    13.4               107.3   107.3            122.1     122.1
+Actuated g/C Ratio                           0.09             0.09    0.09                0.72    0.72              0.81     0.81
+Clearance Time (s)                            8.0              8.0     8.0                 6.5      6.5              7.0      6.5
+Vehicle Extension (s)                         3.0              3.0     3.0                 3.0      3.0              3.0      3.0
+Lane Grp Cap (vph)                             75              131     142                  77    3597               318     4072
+v/s Ratio Prot                                                        0.02                         0.27             0.02    c0.48
+v/s Ratio Perm                              c0.07             0.03                        0.01                      0.27
+v/c Ratio                                    0.79             0.34    0.19                0.01    0.38             0.36      0.59
+Uniform Delay, d1                            66.9             64.2    63.3                 6.1     8.3               4.2      5.0
+Progression Factor                           1.00             1.00    1.00                1.00    1.00              1.00     1.00
+Incremental Delay, d2                        42.1              1.6     0.7                 0.3     0.3                0.7     0.6
+Delay (s)                                   109.0             65.7    64.0                 6.4     8.6                4.9     5.7
+Level of Service                                F                E       E                   A       A                  A       A
+Approach Delay (s)                          109.0                     64.4                         8.6                        5.6
+Approach LOS                                    F                        E                           A                          A
+Intersection Summary
+HCM Average Control Delay                             11.0        HCM Level of Service                      B
+HCM Volume to Capacity ratio                          0.61
+Actuated Cycle Length (s)                            150.0        Sum of lost time (s)                    14.5
+Intersection Capacity Utilization                   96.8%         ICU Level of Service                       F
+Analysis Period (min)                                   15
+c Critical Lane Group
+
+
+
+
+RAYSOR Transportation Consulting                                                                                 Synchro 7 - Light: Report
+
+
+
+                                                             APPENDIX D - 1 of 6
+HCM Signalized Intersection Capacity Analysis                                                                RaceTrac No. 1124
+1: Pearl Avenue & US-41                                                                                             PM Peak Total Traffic
+
+
+
+Movement                             EBL    EBT      EBR     WBL      WBT     WBR         NBL     NBT     NBR      SBL      SBT      SBR
+Lane Configurations
+Volume (vph)                          26       13       5       46        9     217         10   2211       29        93    1468       33
+Ideal Flow (vphpl)                  1900    1900     1900    1900     1900     1900      1900    1900     1900    1900      1900     1900
+Total Lost time (s)                           8.0              8.0      8.0                6.5     6.5               7.0      6.5
+Lane Util. Factor                            1.00             1.00     1.00               1.00    0.91              1.00     0.91
+Frt                                          0.99             1.00     0.86               1.00    1.00              1.00     1.00
+Flt Protected                               0.97              0.95    1.00                0.95   1.00              0.95     1.00
+Satd. Flow (prot)                           1766             1626     1585               1805    5077              1752     5023
+Flt Permitted                                0.49             0.73     1.00               0.14    1.00             0.04      1.00
+Satd. Flow (perm)                             882            1243     1585                 273   5077                 68    5023
+Peak-hour factor, PHF                0.93    0.93    0.93     0.93     0.93    0.93       0.93    0.93    0.93     0.93      0.93    0.93
+Adj. Flow (vph)                        28      14       5       49       10     233         11   2377       31      100     1578       35
+RTOR Reduction (vph)                    0       2       0        0       67       0          0       1       0         0        2       0
+Lane Group Flow (vph)                   0      45       0       49     176        0         11   2407        0      100     1611        0
+Heavy Vehicles (%)                    0%    10%       0%      11%     17%       2%         0%      2%      0%        3%       3%      0%
+Turn Type                           Perm                     Perm                        Perm                    pm+pt
+Protected Phases                               4                         8                           2                 1       6
+Permitted Phases                       4                         8                           2                         6
+Actuated Green, G (s)                       28.9              28.9    28.9               101.6   101.6            116.6    116.6
+Effective Green, g (s)                      28.9              28.9    28.9               101.6   101.6            116.6    116.6
+Actuated g/C Ratio                          0.18              0.18    0.18                0.63     0.63             0.73     0.73
+Clearance Time (s)                           8.0               8.0     8.0                 6.5      6.5              7.0      6.5
+Vehicle Extension (s)                        3.0               3.0     3.0                 3.0      3.0              3.0      3.0
+Lane Grp Cap (vph)                           159               225     286                173     3224              134     3661
+v/s Ratio Prot                                                       c0.11                        0.47            c0.04     0.32
+v/s Ratio Perm                              0.05              0.04                        0.04                    c0.51
+v/c Ratio                                   0.28              0.22    0.61                0.06    0.75             0.75     0.44
+Uniform Delay, d1                           56.6              55.9    60.4                11.1    20.3             41.4      8.7
+Progression Factor                          1.00              1.00    1.00                1.00    1.00             1.00     1.00
+Incremental Delay, d2                        1.0               0.5     3.9                 0.7     1.6              20.0     0.4
+Delay (s)                                   57.5              56.4    64.3                11.8    21.9              61.4     9.1
+Level of Service                               E                 E       E                   B       C                 E       A
+Approach Delay (s)                          57.5                      63.0                        21.8                      12.1
+Approach LOS                                   E                         E                           C                         B
+Intersection Summary
+HCM Average Control Delay                             21.2        HCM Level of Service                      C
+HCM Volume to Capacity ratio                          0.70
+Actuated Cycle Length (s)                            160.0        Sum of lost time (s)                    15.0
+Intersection Capacity Utilization                   91.6%         ICU Level of Service                       F
+Analysis Period (min)                                   15
+c Critical Lane Group
+
+
+
+
+RAYSOR Transportation Consulting                                                                                 Synchro 7 - Light: Report
+
+
+
+                                                             APPENDIX D - 2 of 6
+HCM Unsignalized Intersection Capacity Analysis                                                                RaceTrac No. 1124
+3: Project Driveway & US-41                                                                                           AM Peak Total Traffic
+
+
+
+Movement                            EBL       EBT      EBR     WBL      WBT     WBR        NBL      NBT     NBR      SBL       SBT     SBR
+Lane Configurations
+Volume (veh/h)                          1       0         9      16        0         29       3     1337     18        50     2229        3
+Sign Control                                 Stop                       Stop                        Free                      Free
+Grade                                         0%                         0%                           0%                        0%
+Peak Hour Factor                    0.89     0.89      0.89     0.89    0.89     0.89      0.89      0.89   0.89     0.89      0.89    0.89
+Hourly flow rate (vph)                 1        0        10       18       0       33         3     1502      20       56     2504        3
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                                                                        TWLTL                     TWLTL
+Median storage veh)                                                                                    2                         2
+Upstream signal (ft)                                                                                 345
+pX, platoon unblocked                0.90     0.90              0.90     0.90    0.90                                 0.90
+vC, conflicting volume              3159     4148       837    2476     4139     511       2508                      1522
+vC1, stage 1 conf vol               2619     2619              1519     1519
+vC2, stage 2 conf vol                 540    1529               957     2620
+vCu, unblocked vol                  3002     4107       837    2241     4097         46    2508                      1175
+tC, single (s)                         7.5     6.5       6.9     7.5      6.5        6.9    4.1                       4.1
+tC, 2 stage (s)                        6.5      5.5              6.5      5.5
+tF (s)                                 3.5     4.0       3.3     3.5      4.0      3.3       2.2                       2.2
+p0 queue free %                        95      100       97       87     100       96        98                        90
+cM capacity (veh/h)                    22       42      314     140        40     914       184                       539
+Direction, Lane #                   EB 1     WB 1      NB 1    NB 2     NB 3     SB 1      SB 2     SB 3    SB 4
+Volume Total                          11        51      379     751      396       56      1002     1002     504
+Volume Left                            1        18        3       0        0       56         0        0       0
+Volume Right                          10        33        0       0       20        0         0        0       3
+cSH                                  135       308      184    1700     1700      539      1700     1700    1700
+Volume to Capacity                  0.08      0.16     0.02    0.44     0.23     0.10      0.59     0.59    0.30
+Queue Length 95th (ft)                 7        14        1       0        0        9         0        0       0
+Control Delay (s)                   34.1      19.0      0.8     0.0      0.0     12.5       0.0      0.0     0.0
+Lane LOS                               D         C        A                         B
+Approach Delay (s)                  34.1      19.0      0.2                       0.3
+Approach LOS                           D         C
+Intersection Summary
+Average Delay                                            0.6
+Intersection Capacity Utilization                     56.4%         ICU Level of Service                      B
+Analysis Period (min)                                     15
+
+
+
+
+RAYSOR Transportation Consulting                                                                                   Synchro 7 - Light: Report
+
+
+
+                                                               APPENDIX D - 3 of 6
+HCM Unsignalized Intersection Capacity Analysis                                           RaceTrac No. 1124
+4: Pearl Avenue & Project Driveway                                                               AM Peak Total Traffic
+
+
+
+Movement                            EBL      EBT      WBT     WBR      SBL      SBR
+Lane Configurations
+Volume (veh/h)                        12     118       142        3       3         35
+Sign Control                                Free      Free             Stop
+Grade                                        0%        0%               0%
+Peak Hour Factor                    0.89    0.89      0.89     0.89    0.89     0.89
+Hourly flow rate (vph)                13     133       160        3       3       39
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                 None     None
+Median storage veh)
+Upstream signal (ft)                         200
+pX, platoon unblocked                                                  1.00
+vC, conflicting volume               163                               321       161
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                   163                                318      161
+tC, single (s)                        4.1                                6.4      6.2
+tC, 2 stage (s)
+tF (s)                                2.2                                3.5      3.3
+p0 queue free %                       99                                 99       96
+cM capacity (veh/h)                 1428                                671      889
+Direction, Lane #                   EB 1    WB 1      SB 1
+Volume Total                         146      163       43
+Volume Left                            13        0       3
+Volume Right                            0        3      39
+cSH                                 1428    1700       867
+Volume to Capacity                  0.01     0.10     0.05
+Queue Length 95th (ft)                  1        0       4
+Control Delay (s)                     0.8      0.0     9.4
+Lane LOS                                A                A
+Approach Delay (s)                    0.8     0.0      9.4
+Approach LOS                                             A
+Intersection Summary
+Average Delay                                           1.5
+Intersection Capacity Utilization                    26.2%         ICU Level of Service   A
+Analysis Period (min)                                    15
+
+
+
+
+RAYSOR Transportation Consulting                                                              Synchro 7 - Light: Report
+
+
+
+                                                              APPENDIX D - 4 of 6
+HCM Unsignalized Intersection Capacity Analysis                                                                RaceTrac No. 1124
+3: Project Driveway & US-41                                                                                           PM Peak Total Traffic
+
+
+
+Movement                            EBL       EBT      EBR     WBL      WBT     WBR        NBL      NBT     NBR      SBL       SBT     SBR
+Lane Configurations
+Volume (veh/h)                          0       0         1      14        0         64       2     2411     41        41     1580        2
+Sign Control                                 Stop                       Stop                        Free                      Free
+Grade                                         0%                         0%                           0%                        0%
+Peak Hour Factor                    0.93     0.93      0.93     0.93    0.93     0.93      0.93      0.93   0.93     0.93      0.93    0.93
+Hourly flow rate (vph)                 0        0         1       15       0       69         2     2592      44       44     1699        2
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                                                                        TWLTL                     TWLTL
+Median storage veh)                                                                                    2                         2
+Upstream signal (ft)                                                                                 345
+pX, platoon unblocked                0.67     0.67              0.67     0.67    0.67                                 0.67
+vC, conflicting volume              2725     4429       567    3274     4408     886       1701                      2637
+vC1, stage 1 conf vol               1788     1788              2619     2619
+vC2, stage 2 conf vol                 937    2641               656     1789
+vCu, unblocked vol                  1832     4393       567    2657     4362           0   1701                      1698
+tC, single (s)                         7.5     6.5       6.9     7.5      6.5        6.9    4.1                       4.1
+tC, 2 stage (s)                        6.5      5.5              6.5      5.5
+tF (s)                                 3.5     4.0       3.3     3.5      4.0      3.3       2.2                       2.2
+p0 queue free %                       100      100      100       77     100       91        99                        83
+cM capacity (veh/h)                    69       46      472       64       69     726       379                       253
+Direction, Lane #                   EB 1     WB 1      NB 1    NB 2     NB 3     NB 4      SB 1     SB 2    SB 3     SB 4
+Volume Total                           1        84        2    1037     1037      563        44      680     680      342
+Volume Left                            0        15        2       0        0        0         44       0       0        0
+Volume Right                           1        69        0       0        0       44          0       0       0        2
+cSH                                  472       255      379    1700     1700     1700       253     1700    1700     1700
+Volume to Capacity                  0.00      0.33     0.01    0.61     0.61     0.33      0.17     0.40    0.40     0.20
+Queue Length 95th (ft)                 0        35        0       0        0        0         15       0       0        0
+Control Delay (s)                   12.7      25.9     14.5     0.0      0.0      0.0      22.2      0.0     0.0      0.0
+Lane LOS                               B         D        B                                    C
+Approach Delay (s)                  12.7      25.9      0.0                                  0.6
+Approach LOS                           B         D
+Intersection Summary
+Average Delay                                            0.7
+Intersection Capacity Utilization                     65.6%         ICU Level of Service                      C
+Analysis Period (min)                                     15
+
+
+
+
+RAYSOR Transportation Consulting                                                                                   Synchro 7 - Light: Report
+
+
+
+                                                               APPENDIX D - 5 of 6
+HCM Unsignalized Intersection Capacity Analysis                                           RaceTrac No. 1124
+4: Pearl Avenue & Project Driveway                                                               PM Peak Total Traffic
+
+
+
+Movement                            EBL      EBT      WBT     WBR      SBL      SBR
+Lane Configurations
+Volume (veh/h)                        23     112       242        6       4         30
+Sign Control                                Free      Free             Stop
+Grade                                        0%        0%               0%
+Peak Hour Factor                    0.93    0.93      0.93     0.93    0.93     0.93
+Hourly flow rate (vph)                25     120       260        6       4       32
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                 None     None
+Median storage veh)
+Upstream signal (ft)                         200
+pX, platoon unblocked                                                  0.99
+vC, conflicting volume               267                               433       263
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                   267                                424      263
+tC, single (s)                        4.1                                6.4      6.2
+tC, 2 stage (s)
+tF (s)                                2.2                                3.5      3.3
+p0 queue free %                       98                                 99       96
+cM capacity (veh/h)                 1309                                574      780
+Direction, Lane #                   EB 1    WB 1      SB 1
+Volume Total                         145      267       37
+Volume Left                            25        0       4
+Volume Right                            0        6      32
+cSH                                 1309    1700       749
+Volume to Capacity                  0.02     0.16     0.05
+Queue Length 95th (ft)                  1        0       4
+Control Delay (s)                     1.5      0.0    10.1
+Lane LOS                                A                B
+Approach Delay (s)                    1.5     0.0     10.1
+Approach LOS                                             B
+Intersection Summary
+Average Delay                                           1.3
+Intersection Capacity Utilization                    33.6%         ICU Level of Service   A
+Analysis Period (min)                                    15
+
+
+
+
+RAYSOR Transportation Consulting                                                              Synchro 7 - Light: Report
+
+
+
+                                                              APPENDIX D - 6 of 6
+   APPENDIX E
+
+Existing Signal Timings
+APPENDIX E - 1 of 2
+APPENDIX E - 2 of 2
+           APPENDIX F
+
+Turn Lane Warrant & Length Evaluation
+ Location: Pearl Avenue at Project Drive (Eastbound Left-Turn Lane)
+
+ AM Peak Hour                          PM Peak Hour
+ Advancing Volume: 130 vph             Advancing Volume: 135 vph
+ Opposing Volume: 145 vph              Opposing Volume: 248 vph
+ Left-Turn Volume: 12 vph              Left-Turn Volume: 23 vph
+ Percent Left Turns: 9%                Percent Left Turns: 17%
+
+
+
+
+                                   RESULT: Not Warranted
+SOURCE: A Policy on Geometric Design of Highways and Streets (AASHTO, 2011)
+
+
+                                            RACETRAC NO. 1124
+                                          Turn Lane Warrant Evaluation
+RAYSOR Transportation Consulting
+
+
+
+
+                                                  APPENDIX F - 1 of 4
+Location: Pearl Avenue at Project Drive (Westbound Right-Turn Lane)
+
+ AM Peak Hour                      PM Peak Hour
+ Right-Turn Volume: 3 vph          Right-Turn Volume: 6 vph
+ Warrant
+ W        Threshold:
+          Th h ld 125 vph h        W
+                                   Warrant  Threshold:
+                                            Th h ld 125 vph h
+
+
+
+
+                                   RESULT: Not Warranted
+SOURCE: FDOT Driveway Handbook (March 2005)
+
+
+                                          RACETRAC NO. 1124
+                                        Turn Lane Warrant Evaluation
+RAYSOR Transportation Consulting
+
+
+
+
+                                              APPENDIX F - 2 of 4
+Location: US-41 at Project Drive (Northbound Right-Turn Lane)
+
+ AM Peak Hour                      PM Peak Hour
+ Right-Turn Volume: 18 vph         Right-Turn Volume: 41 vph
+ Warrant
+ W        Threshold:
+          Th h ld 55 vph h         W
+                                   Warrant  Threshold:
+                                            Th h ld 55 vph h
+
+
+
+
+                                   RESULT: Not Warranted
+SOURCE: FDOT Driveway Handbook (March 2005)
+
+
+                                          RACETRAC NO. 1124
+                                        Turn Lane Warrant Evaluation
+RAYSOR Transportation Consulting
+
+
+
+
+                                              APPENDIX F - 3 of 4
+Location: US-41 at Pearl Avenue (project movements only)
+
+
+   RaceTrac No
+            No. 1124
+   US-41 a t Pea rl Avenue Turn La ne Length Ana l ys i s
+
+                                      AM Peak Hour                                             PM Peak Hour
+                                                                                                                                   Existing
+    Movement         Queue         Queue         Decel/Taper                   Queue        Queue         Decel/Taper              Length
+                                                           [2]       Total                                          [2]    Total     (ft)
+                     Length        Length        Distance                      Length       Length        Distance
+                             [1]           [1]                      Length            [1]           [1]                   Length
+                    (raw)          (adj)             (ft)                     (raw)         (adj)             (ft)
+
+        SBL            40'           50'            350'             400'       142'         150'            350'          500'      [3]
+
+        WBL            81'          100'            145'             245'       95'          100'            145'          245'      250'
+   [1] Raw queue length directly from analysis file. Adjusted queue length rounded up to 25 foot increment.
+   [2] Deceleration distance pursuant to FDOT Index 301, assuming posted speed + 5 mph.
+   [3] A continuous two-way-left-turn-lane terminates as the southbound left-turn lane.
+
+
+
+
+                             RESULT: No Lengthening Required
+
+
+                                                      RACETRAC NO. 1124
+                                                     Turn Lane Length Evaluation
+RAYSOR Transportation Consulting
+
+
+
+
+                                                                 APPENDIX F - 4 of 4
+  APPENDIX G
+
+Queue Observations
+U.S. Highway 41 at Pearl Avenue
+Westbound Approach Queue Observations (October 1, 2013)
+
+AM Peak Hour (7:15 am to 8:15 am)
+
+
+       Cycle           Vehicular Queue                       Cycle          Vehicular Queue   Cycle   Vehicular Queue
+
+          1                     2                             41                               81
+          2                     2                             42                               82
+          3                     1                             43                               83
+          4                     2                             44                               84
+          5                     1                             45                               85
+          6                     2                             46                               86
+          7                     1                             47                               87
+          8                     2                             48                               88
+          9                     1                             49                               89
+         10                     4                             50                               90
+         11                     0                             51                               91
+         12                     5                             52                               92
+         13                     2                             53                               93
+         14                     3                             54                               94
+         15                     1                             55                               95
+         16                     1                             56                               96
+         17                     2                             57                               97
+         18                     2                             58                               98
+         19                     1                             59                               99
+         20                     2                             60                              100
+         21                     3                             61                              101
+         22                     2                             62                              102
+         23                     1                             63                              103
+         24                                                   64                              104
+         25                                                   65                              105
+         26                                                   66                              106
+         27                                                   67                              107
+         28                                                   68                              108
+         29                                                   69                              109
+         30                                                   70                              110
+         31                                                   71                              111
+         32                                                   72                              112
+         33                                                   73                              113
+         34                                                   74                              114
+         35                                                   75                              115
+         36                                                   76                              116
+         37                                                   77                              117
+         38                                                   78                              118
+         39                                                   79                              119
+         40                                                   80                              120
+*Trucks and/or vehicles pulling trailers were considered as two vehicles.
+
+
+RAYSOR Transportation Consulting
+
+
+
+                                                               APPENDIX G - 1 of 2
+U.S. Highway 41 at Pearl Avenue
+Westbound Approach Queue Observations (October 1, 2013)
+
+PM Peak Hour (4:45 pm to 5:45 pm)
+
+
+       Cycle           Vehicular Queue                       Cycle          Vehicular Queue   Cycle   Vehicular Queue
+
+          1                     2                             41                               81
+          2                     4                             42                               82
+          3                     5                             43                               83
+          4                     4                             44                               84
+          5                     1                             45                               85
+          6                     2                             46                               86
+          7                     3                             47                               87
+          8                     6                             48                               88
+          9                     6                             49                               89
+         10                     8                             50                               90
+         11                     4                             51                               91
+         12                     4                             52                               92
+         13                     6                             53                               93
+         14                     8                             54                               94
+         15                     4                             55                               95
+         16                     5                             56                               96
+         17                     4                             57                               97
+         18                     6                             58                               98
+         19                     3                             59                               99
+         20                     6                             60                              100
+         21                     3                             61                              101
+         22                                                   62                              102
+         23                                                   63                              103
+         24                                                   64                              104
+         25                                                   65                              105
+         26                                                   66                              106
+         27                                                   67                              107
+         28                                                   68                              108
+         29                                                   69                              109
+         30                                                   70                              110
+         31                                                   71                              111
+         32                                                   72                              112
+         33                                                   73                              113
+         34                                                   74                              114
+         35                                                   75                              115
+         36                                                   76                              116
+         37                                                   77                              117
+         38                                                   78                              118
+         39                                                   79                              119
+         40                                                   80                              120
+*Trucks and/or vehicles pulling trailers were considered as two vehicles.
+
+
+RAYSOR Transportation Consulting
+
+
+
+                                                               APPENDIX G - 2 of 2

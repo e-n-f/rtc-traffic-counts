@@ -1,0 +1,2498 @@
+   DADE OAKS
+TRANSPORTATION ANALYSIS
+
+
+
+              Prepared For:
+
+
+
+
+   COASTAL DESIGN CONSULTANTS, INC.
+            7026 Little Road
+      New Port Richey,
+               Richey Florida 34654
+
+
+
+
+               Prepared By:
+
+       RAYSOR Transportation Consulting, LLC.
+       19046 Bruce B. Downs Boulevard, Suite 308
+       Tampa, Florida 33647
+       (813) 625-1699 | (813) 413-7432 fx
+       ENB No. 27789
+
+
+
+
+             August 1, 2013
+                         PROFESSIONAL ENGINEERING CERTIFICATE
+
+
+
+I hereby certify that I am a registered professional engineer in the State of Florida, practicing
+
+with Raysor Transportation Consulting, LLC., a corporation authorized to operate as an
+
+engineering business (ENB No. 27789), by the State of Florida Department of Professional
+
+Regulation, Board of Professional Engineers, and I have prepared or approved the evaluation,
+
+findings, opinions, conclusions, or technical advice hereby reported for:
+
+
+
+PROJECT:        Dade Oaks - Transportation Analysis
+
+LOCATION:       Pasco County, Florida
+
+REPORT DATE:    August 1, 2013
+
+PREPARED FOR:   Coastal Design Consultants, Inc.
+
+
+
+
+I acknowledge that the procedures and references used to develop the results contained in this
+
+report are standard to the professional practice of transportation engineering as applied
+
+through professional judgment and experience.
+
+
+
+
+                                                   NAME:
+
+                                                   P.E. NO.:
+
+                                                   DATE:
+
+                                                   SIGNATURE:
+RAYSOR Transportation Consulting
+
+
+
+
+                                          DADE OAKS
+                                      TRANSPORTATION ANALYSIS
+CONTENTS
+    SECTION 1.0 Introduction ................................................................................................................. 1
+    SECTION 2.0 Project Description ....................................................................................................... 1
+    SECTION 3.0 Project Site Trip Generation ......................................................................................... 1
+    SECTION 4.0 Study Area .................................................................................................................... 4
+    SECTION 5.0 Traffic Volumes ............................................................................................................ 4
+    SECTION 6.0 Roadway Segment Analysis .......................................................................................... 7
+    SECTION 7.0 Intersection Analysis .................................................................................................... 7
+    SECTION 8.0 Site Access Analysis ...................................................................................................... 7
+    SECTION 9.0 Conclusion .................................................................................................................... 13
+
+
+TABLES
+    TABLE 1.0 Trip Generation Estimate ................................................................................................ 4
+    TABLE 2.0 Off-Site Intersection Analysis Summary ........................................................................... 12
+    TABLE 3.0 Site Access Intersection Analysis Summary ..................................................................... 13
+
+
+FIGURES
+    FIGURE 1.0 Project Site Location ...................................................................................................... 2
+    FIGURE 2.0 Project Site Concept Plan ............................................................................................... 3
+    FIGURE 3.0 Project Traffic Distribution ............................................................................................. 5
+    FIGURE 4.0 Project Traffic Assignment ............................................................................................. 6
+    FIGURE 5.0 PM Peak Hour Existing Traffic Volumes ......................................................................... 8
+    FIGURE 6.0 PM Peak Hour Background Traffic Volumes .................................................................. 9
+    FIGURE 7.0 PM Peak Hour Total Traffic Volumes ............................................................................. 10
+    FIGURE 8.0 PM Peak Hour Roadway Segment Analysis - 14th Street ............................................... 11
+
+
+APPENDICES
+    APPENDIX A: Methodology Statement                                             APPENDIX D: Site Access Analysis
+    APPENDIX B: Traffic Count Data                                                APPENDIX E: Turn Lane Warrant Evaluation
+    APPENDIX C: Off-Site Intersection Analysis
+
+
+Dade Oaks                                                                 -i-                                                        August 1, 2013
+Transportation Analysis                                                                                                          Project No. 133200
+RAYSOR Transportation Consulting
+
+
+
+
+                                DADE OAKS
+                            TRANSPORTATION ANALYSIS
+
+SECTION 1.0 INTRODUCTION
+This report documents a transportation analysis performed for Dade Oaks, (hereinafter referred to as the
+"project"), as required by section 901 of the Pasco County Land Development Code (LDC). Specifically, a
+timing and phasing analysis was performed to evaluate the anticipated operating conditions for off-site
+roadways and intersections. In addition, a site access analysis was performed to evaluate the anticipated
+operating conditions of the project site access connection to 14th Street, including an evaluation of the need
+for turn lanes at the project connection. These analyses were performed consistent with section 901 of the
+Pasco County Land Development Code and the project's methodology statement and meeting, as
+documented in Appendix A.
+
+
+SECTION 2.0 PROJECT DESCRIPTION
+The subject project site consists of Pasco County parcel numbers 22-24-21-0000-01100-0010, 22-24-21-0000-
+01100-0011, and 22-24-21-0000-01100-0012, which are proposed to be rezoned from AR/AC to MPUD, to
+provide for the development of 35 duplex buildings, consisting of 69 residential units and 1 ancillary office
+unit. The project site is located on the west side of 14th Street, approximately 0.25 miles north of Long
+Avenue, in the Dade City area of unincorporated Pasco County, as shown in Figure 1.0. The project site is
+proposed to have access to 14th Street via two full access connections, as shown in Figure 2.0. The build-out
+date of the project is anticipated to be 2015, with one phase of development.
+
+
+SECTION 3.0 PROJECT SITE TRIP GENERATION
+The daily and peak hour trip generation of the project site was estimated using trip characteristic data as
+identified in Trip Generation (Institute of Transportation Engineers, 9th edition, 2012). Table 1.0 summarizes
+the resulting trip generation estimate.
+
+
+
+
+Dade Oaks                                            -1-                                       August 1, 2013
+Transportation Analysis                                                                    Project No. 133200
+RAYSOR Transportation Consulting
+
+
+FIGURE 1.0 PROJECT SITE LOCATION
+
+                                                             NORTH
+
+
+
+
+                                         PROJECT
+
+
+
+
+Dade Oaks                          -2-                 August 1, 2013
+Transportation Analysis                            Project No. 133200
+RAYSOR Transportation Consulting
+
+
+FIGURE 2.0 PROJECT SITE CONCEPT PLAN
+
+
+
+
+Dade Oaks                              -3-       August 1, 2013
+Transportation Analysis                      Project No. 133200
+RAYSOR Transportation Consulting
+
+
+TABLE 1.0 TRIP GENERATION ESTIMATE
+
+                                      Weekday                     AM Peak Hour                     PM Peak Hour
+ ITE      Land Use
+                          Size
+ LUC     Description              Trip Rate/            Trip Rate/                         Trip Rate/
+                                                Trips                 Trips Enter   Exit                 Trips Enter   Exit
+                                   Equation              Equation                           Equation
+
+                                  Ln(T)=0.87*           Ln(T)=0.80*                        Ln(T)=0.82*
+ 230    Townhous e        69 du                 466                    38     6     32                    44    29     15
+                                   Ln(X)+2.46            Ln(X)+0.26                         Ln(X)+0.32
+
+
+
+
+The distribution and assignment of project traffic was estimated based on engineering judgment in
+consideration of the land use characteristics of the surrounding area and the project itself, as illustrated in
+Figures 3.0 and 4.0.
+
+
+SECTION 4.0 STUDY AREA
+Pursuant to methodology discussions, the study area was determined to consist of (a) the roadway segment
+of 14th Street from Long Avenue to U.S. Highway 301, and (b) the following intersections:
+
+
+    � 14th Street at Long Avenue
+    � 14th Street at Frazee Hill Road
+    � 14th Street (Payne Road) at US-301
+    � Site Access Connections to 14th Street (analyzed as a combined driveway for worst-case)
+
+
+SECTION 5.0 TRAFFIC VOLUMES
+Existing traffic volumes were obtained from manual intersection turning movement counts and 48-hour tube
+counts performed in July 2013. The counts were adjusted to reflect peak season conditions using FDOT
+seasonal adjustment factors. Traffic count data for existing conditions is provided in Appendix B.
+
+
+Background traffic volumes were adjusted to reflect 2015 conditions using a 2% annual growth rate as
+directed by County staff. Project generated traffic was added to the 2015 background traffic volumes to
+estimate 2015 total traffic volumes. The traffic volumes used in this analysis are illustrated in Figures 5.0
+through 7.0.
+
+
+
+
+Dade Oaks                                                   -4-                                              August 1, 2013
+Transportation Analysis                                                                                  Project No. 133200
+RAYSOR Transportation Consulting
+
+
+FIGURE 3.0 PROJECT TRAFFIC DISTRIBUTION
+
+
+                                                     10%
+
+
+
+
+                                            5%
+
+
+                              10%
+
+
+
+
+                                                    15%
+
+
+                                          PROJECT            5%
+
+
+                                                    85%
+
+                                             5%            35%
+
+
+
+                                                    45%           30%
+
+
+
+
+Dade Oaks                                                  -5-              August 1, 2013
+Transportation Analysis                                                 Project No. 133200
+RAYSOR Transportation Consulting
+
+
+FIGURE 4.0 PROJECT TRAFFIC ASSIGNMENT
+
+                                                                                                                                    NORTH
+                                                                                                                                     NTS
+
+
+                                                                                                       0
+                                                                                                       0
+
+
+
+
+                                                                                     1
+                                                                                     2
+                                                                                     0
+                                                                                                       0
+                                                                                                           Payne Road
+                                                                                          1
+
+
+
+
+                                                             14 th Street
+                                                                                          0
+
+
+
+
+                                                                                                       0
+                                                                                                       1
+                                                                                                       0
+                                                                                          0
+
+
+
+
+                                                                                              US-301
+                                                                                     2
+
+
+
+
+                                                            0
+                                                            1
+                               Frazee Hill Road
+                                                       0
+                                                       3
+                                                                            1
+                                                                            1
+
+
+
+
+                                                                                     6
+                                                           4 (1)
+                                                           0 (0)
+
+
+
+
+                              Project
+                               Site*                (5) 2
+                                                  (27) 13
+                                                                            (5) 25
+                                                                             (0) 0
+
+
+
+
+                                                                                     38
+
+
+
+
+                                                                               10
+                                                                               0
+                                                    1
+                                                    7
+                                                    5
+
+
+
+
+                                                                               0
+                                                                                              Long Avenue
+                                                       2
+                                                       0
+                                                                             0
+                                                                            13
+                                                                             0
+
+
+
+
+                                                       0
+   LEGEND                                                                                                      * Project Driveways
+    00 PM Peak Hour Volume                                                                                       Analyzed as a Combined
+   (00) AM Peak Hour Volume                                                                                      Driveway for Worst-Case
+
+
+
+
+Dade Oaks                                                       -6-                                                         August 1, 2013
+Transportation Analysis                                                                                                 Project No. 133200
+RAYSOR Transportation Consulting
+
+
+SECTION 6.0 ROADWAY SEGMENT ANALYSIS
+An analysis of the study area roadway segment (14th Street from Long Avenue to U.S. Highway 301) was
+performed for PM peak hour conditions. Given the unsignalized traffic control within the study area,
+generalized service volumes were used to evaluate available capacity for 14th Street. Specifically, pursuant
+to the Timing & Phasing guidelines, a two-way service volume of 1,370 vph was assumed for 14th Street.
+Graphics summarizing the roadway segment analysis are shown in Figure 8.0. As shown in the referenced
+figure, the study area roadway segment was identified to have adequate capacity to accommodate
+background plus project traffic for build-out year conditions (2015).
+
+
+SECTION 7.0 INTERSECTION ANALYSIS
+An analysis of the (off-site) study area intersections was performed for PM peak hour conditions using HCS
+software, as summarized in Table 2.0 and further documented in Appendix C. The results of the analysis
+identified that the (off-site) study area intersections are currently operating acceptably, and are anticipated
+to continue to operate acceptably for 2015 background and total traffic conditions.
+
+
+SECTION 8.0 SITE ACCESS ANALYSIS
+An analysis of the site access connections was performed for AM & PM peak hour conditions using Highway
+Capacity software, as summarized in Table 3.0 and further documented in Appendix D. The analysis was
+performed assuming a combined driveway to reflect worst-case conditions. The results of the analysis
+identified that the site access connections are anticipated to operate acceptably, at level of service "A".
+
+
+A turn lane warrant analysis was performed to evaluate the potential need for new turn lanes at the project
+site access connections, as documented in Appendix E. The analysis was performed in consideration of the
+turn lane warrant criteria documented in the Pasco County Land Development Code, which was derived from
+the National Cooperative Highway Research Program, Report No. 279.
+
+
+The results of the analysis identified that warranting criteria are not anticipated to be met, therefore it is
+concluded that new site access turn lanes are not required on 14th Street. It is further noted that 14th Street
+is not a high-speed roadway, as the posted speed limit is 30 mph with an 85th percentile speed of 41 mph
+and an average speed of 34 mph (refer to Appendix B).
+
+
+
+
+Dade Oaks                                             -7-                                         August 1, 2013
+Transportation Analysis                                                                       Project No. 133200
+RAYSOR Transportation Consulting
+
+
+FIGURE 5.0 EXISTING TRAFFIC VOLUMES (2013)
+
+                                                                                                                                   NORTH
+                                                                                                                                    NTS
+
+
+                                                                                                     0
+
+
+
+
+                                                                                     462
+                                                                                     20
+                                                                                                     0
+
+
+
+
+                                                                                     0
+                                                                                                     0
+                                                                                                          Payne Road
+                                                                                      36
+
+
+
+
+                                                           14 th Street
+                                                                                       0
+
+
+
+
+                                                                                                     56
+                                                                                                    765
+                                                                                                      1
+                                                                                      12
+
+
+
+
+                                                                                           US-301
+                                                                                     124
+
+
+
+
+                                                          58
+                                                          7
+                               Frazee Hill Road
+                                                    18
+                                                    30
+                                                                          45
+                                                                          26
+
+
+
+
+                                                                                     152
+                                                        51 (45)
+                                                        0 (0)
+
+
+
+
+                              Project
+                               Site*              (0) 0
+                                                  (0) 0
+                                                                          (30) 101
+                                                                             (0) 0
+
+
+
+
+                                                                                     152
+
+
+
+
+                                                                              31
+                                                  35
+                                                  16
+
+
+
+
+                                                                              43
+                                                  9
+
+
+
+
+                                                                              27
+                                                                                           Long Avenue
+                                                   15
+                                                   26
+                                                                          10
+                                                                          44
+                                                                          16
+
+
+
+
+                                                   11
+   LEGEND                                                                                                     * Project Driveways
+    00 PM Peak Hour Volume                                                                                      Analyzed as a Combined
+   (00) AM Peak Hour Volume                                                                                     Driveway for Worst-Case
+
+
+
+
+Dade Oaks                                                     -8-                                                          August 1, 2013
+Transportation Analysis                                                                                                Project No. 133200
+RAYSOR Transportation Consulting
+
+
+FIGURE 6.0 BACKGROUND TRAFFIC VOLUMES (2015)
+
+                                                                                                                                   NORTH
+                                                                                                                                    NTS
+
+
+                                                                                                     0
+
+
+
+
+                                                                                     480
+                                                                                     21
+                                                                                                     0
+
+
+
+
+                                                                                     0
+                                                                                                     0
+                                                                                                          Payne Road
+                                                                                      37
+
+
+
+
+                                                           14 th Street
+                                                                                       0
+
+
+
+
+                                                                                                     58
+                                                                                                    796
+                                                                                                      1
+                                                                                      12
+
+
+
+
+                                                                                           US-301
+                                                                                     128
+
+
+
+
+                                                          60
+                                                          7
+                               Frazee Hill Road
+                                                    19
+                                                    31
+                                                                          47
+                                                                          27
+
+
+
+
+                                                                                     158
+                                                        53 (47)
+                                                        0 (0)
+
+
+
+
+                              Project
+                               Site*              (0) 0
+                                                  (0) 0
+                                                                          (31) 105
+                                                                             (0) 0
+
+
+
+
+                                                                                     158
+
+
+
+
+                                                                              32
+                                                  36
+                                                  17
+
+
+
+
+                                                                              45
+                                                  9
+
+
+
+
+                                                                              28
+                                                                                           Long Avenue
+                                                   16
+                                                   27
+                                                                          10
+                                                                          46
+                                                                          17
+
+
+
+
+                                                   11
+   LEGEND                                                                                                     * Project Driveways
+    00 PM Peak Hour Volume                                                                                      Analyzed as a Combined
+   (00) AM Peak Hour Volume                                                                                     Driveway for Worst-Case
+
+
+
+
+Dade Oaks                                                     -9-                                                          August 1, 2013
+Transportation Analysis                                                                                                Project No. 133200
+RAYSOR Transportation Consulting
+
+
+FIGURE 7.0 TOTAL TRAFFIC VOLUMES (2015)
+
+                                                                                                                                      NORTH
+                                                                                                                                       NTS
+
+
+                                                                                                        0
+
+
+
+
+                                                                                        482
+                                                                                        22
+                                                                                                        0
+
+
+
+
+                                                                                        0
+                                                                                                        0
+                                                                                                             Payne Road
+                                                                                         38
+
+
+
+
+                                                              14 th Street
+                                                                                          0
+
+
+
+
+                                                                                                        58
+                                                                                                       797
+                                                                                                         1
+                                                                                         12
+
+
+
+
+                                                                                              US-301
+                                                                                        130
+
+
+
+
+                                                            60
+                                                            8
+                               Frazee Hill Road
+                                                      19
+                                                      34
+                                                                             48
+                                                                             28
+
+
+
+
+                                                                                        164
+                                                           53 (47)
+                                                           4 (1)
+
+
+
+
+                              Project
+                               Site*                (5) 2
+                                                  (27) 13
+                                                                             (31) 105
+                                                                               (5) 25
+
+
+
+
+                                                                                        196
+
+
+
+
+                                                                                 42
+                                                    10
+                                                    43
+                                                    22
+
+
+
+
+                                                                                 45
+                                                                                 28
+                                                                                              Long Avenue
+                                                      18
+                                                      27
+                                                                             10
+                                                                             59
+                                                                             17
+
+
+
+
+                                                      11
+   LEGEND                                                                                                        * Project Driveways
+    00 PM Peak Hour Volume                                                                                         Analyzed as a Combined
+   (00) AM Peak Hour Volume                                                                                        Driveway for Worst-Case
+
+
+
+
+Dade Oaks                                                     - 10 -                                                          August 1, 2013
+Transportation Analysis                                                                                                   Project No. 133200
+RAYSOR Transportation Consulting
+
+
+FIGURE 8.0 PM PEAK HOUR ROADWAY SEGMENT ANALYSIS RESULTS - 14TH STREET (LONG AVENUE TO U.S. 301)
+
+
+                                                           14th Street
+                                                     from Long Avenue to US-301
+                       1500
+
+
+                       1400
+
+                              CAPACITY = 1,370 vph
+                       1300
+
+
+                       1200
+
+
+                       1100
+
+
+                       1000
+   Vehicles Per Hour
+
+
+
+
+                        900
+
+
+                        800
+
+
+                        700
+
+
+                        600
+
+
+                        500
+
+
+                        400
+
+
+                        300
+
+
+                                                                                   196
+                        200
+                                                                                         38 (project traffic)
+                                                     152                           158
+                        100
+
+
+                          0
+                           2012                 2013                 2014         2015                          2016
+                                                                     Year
+
+
+
+
+Dade Oaks                                                       - 11 -                                August 1, 2013
+Transportation Analysis                                                                           Project No. 133200
+RAYSOR Transportation Consulting
+
+
+TABLE 2.0 OFF-SITE INTERSECTION ANALYSIS SUMMARY
+                                                   Eastbound                 Westbound            Northbound             Southbound
+   Location       Condition     Measure
+                                             L         T       R         L      T        R    L       T        R     L       T        R
+
+                                  LOS        [2]       C       [2]       [2]    A     [2]     A      [3]    [2]      A      [3]    [3]
+
+                  Exi s ti ng    Del ay      [2]     17.0      [2]       [2]    0.0   [2]    8.7     [3]    [2]     9.5     [3]    [3]
+
+                                  V/C        [2]     0.15      [2]       [2]   0.00   [2]    0.06    [3]    [2]    0.00     [3]    [3]
+
+ 14th Street                      LOS        [2]       C       [2]       [2]    A     [2]     A      [3]    [2]      A      [3]    [3]
+ (Payne Road)
+                 Background      Del ay      [2]     17.6      [2]       [2]    0.0   [2]    8.8     [3]    [2]     9.7     [3]    [3]
+      at
+   U.S. 301                       V/C        [2]     0.16      [2]       [2]   0.00   [2]    0.06    [3]    [2]    0.00     [3]    [3]
+
+                                  LOS        [2]       C       [2]       [2]    A     [2]     A      [3]    [2]      A      [3]    [3]
+
+                   Total         Del ay      [2]     17.7      [2]       [2]    0.0   [2]    8.8     [3]    [2]     9.7     [3]    [3]
+
+                                  V/C        [2]     0.16      [2]       [2]   0.00   [2]    0.06    [3]    [2]    0.00     [3]    [3]
+
+                                  LOS        A        [1]      [2]       [1]    [1]   [1]    [2]      A     [1]     [1]     [3]    [2]
+
+                  Exi s ti ng    Del ay     9.1       [1]      [2]       [1]    [1]   [1]    [2]     7.4    [1]     [1]     [3]    [2]
+
+                                  V/C       0.05      [1]      [2]       [1]    [1]   [1]    [2]     0.03   [1]     [1]     [3]    [2]
+
+                                  LOS        A        [1]      [2]       [1]    [1]   [1]    [2]      A     [1]     [1]     [3]    [2]
+ 14th Street
+  at Frazee      Background      Del ay     9.1       [1]      [2]       [1]    [1]   [1]    [2]     7.4    [1]     [1]     [3]    [2]
+  Hi l l Roa d
+                                  V/C       0.06      [1]      [2]       [1]    [1]   [1]    [2]     0.03   [1]     [1]     [3]    [2]
+
+                                  LOS        A        [1]      [2]       [1]    [1]   [1]    [2]      A     [1]     [1]     [3]    [2]
+
+                   Total         Del ay     9.1       [1]      [2]       [1]    [1]   [1]    [2]     7.4    [1]     [1]     [3]    [2]
+
+                                  V/C       0.06      [1]      [2]       [1]    [1]   [1]    [2]     0.03   [1]     [1]     [3]    [2]
+
+                                  LOS        [2]      B        [2]       [2]    B     [2]    [2]      A     [2]     [2]      A     [2]
+
+                  Exi s ti ng    Del ay      [2]     10.2      [2]       [2]   10.3   [2]    [2]     7.3    [2]     [2]     7.4    [2]
+
+                                  V/C        [2]     0.08      [2]       [2]   0.14   [2]    [2]     0.01   [2]     [2]     0.01   [2]
+
+                                  LOS        [2]      B        [2]       [2]    B     [2]    [2]      A     [2]     [2]      A     [2]
+ 14th Street
+   at Long       Background      Del ay      [2]     10.3      [2]       [2]   10.4   [2]    [2]     7.3    [2]     [2]     7.4    [2]
+  Avenue
+                                  V/C        [2]     0.08      [2]       [2]   0.15   [2]    [2]     0.01   [2]     [2]     0.01   [2]
+
+                                  LOS        [2]      B        [2]       [2]    B     [2]    [2]      A     [2]     [2]      A     [2]
+
+                   Total         Del ay      [2]     10.7      [2]       [2]   10.7   [2]    [2]     7.3    [2]     [2]     7.4    [2]
+
+                                  V/C        [2]     0.09      [2]       [2]   0.17   [2]    [2]     0.01   [2]     [2]     0.02   [2]
+
+[1] Not Applicable; [2] Shared Lane; [3] Unopposed Movement
+
+
+
+
+Dade Oaks                                                       - 12 -                                                 August 1, 2013
+Transportation Analysis                                                                                            Project No. 133200
+RAYSOR Transportation Consulting
+
+
+TABLE 3.0 SITE ACCESS INTERSECTION ANALYSIS SUMMARY
+
+                                                  Eastbound                 Westbound           Northbound             Southbound
+   Location         Peak Hour   Measure
+                                             L        T       R         L      T        R   L       T        R     L       T        R
+
+                                  LOS        A       [1]      [2]       [1]    [1]   [1]    [2]     A     [1]     [1]     [3]   [2]
+
+                      AM         Del ay     8.7      [1]      [2]       [1]    [1]   [1]    [2]    7.3    [1]     [1]     [3]   [2]
+   Project
+    Si te                         V/C       0.03     [1]      [2]       [1]    [1]   [1]    [2]    0.00   [1]     [1]     [3]   [2]
+ Connecti on
+     to                           LOS        A       [1]      [2]       [1]    [1]   [1]    [2]     A     [1]     [1]     [3]   [2]
+              [4]
+ 14th Street
+                      PM         Del ay     8.8      [1]      [2]       [1]    [1]   [1]    [2]    7.4    [1]     [1]     [3]   [2]
+
+                                  V/C       0.02     [1]      [2]       [1]    [1]   [1]    [2]    0.02   [1]     [1]     [3]   [2]
+
+[1] Not Applicable; [2] Shared Lane; [3] Unopposed Movement; [4] Project Driveways Analyzed as Combined Driveway for Worst Case
+
+
+
+SECTION 9.0 CONCLUSION
+Based on the data, analyses and findings contained herein, the following is concluded in consideration of the
+proposed rezoning of the Dade Oaks project site from AR/AC to MPUD, to provide for the development of 35
+duplex buildings, consisting of 69 residential units and 1 ancillary office unit.
+
+
+ The study area roadway segment of 14th Street from Long Avenue to U.S. Highway 301 was identified to
+    have adequate capacity to accommodate background plus project traffic for build-out year conditions
+    (2015).
+
+
+ The off-site study intersections were identified to currently operate acceptably, and are anticipated to
+    continue to operate acceptably for 2015 background and total traffic conditions.
+
+
+ The site access analysis identified that the site access connections are anticipated to operate acceptably
+    for 2015 total traffic conditions.
+
+
+ The turn lane warrant analysis identified that new site access turn lanes are not required on 14th Street
+    at the project site access connections.
+
+
+
+
+Dade Oaks                                                      - 13 -                                                August 1, 2013
+Transportation Analysis                                                                                          Project No. 133200
+   APPENDIX A
+
+Methodology Statement
+RAYSOR Transportation Consulting
+
+
+
+
+       TRANSPORTATION ANALYSIS METHODOLOGY
+                                            MEETING DATE: JULY 16, 2013
+
+
+
+
+Project Name: Dade Oaks
+Comp Plan/Zoning Action: Rezone to MPUD
+
+
+
+1.0   EXEMPTION STATUS
+      a. Project triggers the Timing & Phasing Analysis threshold as it is proposing to rezone Pasco County
+         parcel numbers 22-24-21-0000-01100-0010, 22-24-21-0000-01100-0011, and 22-24-21-0000-
+         01100-0012 from AR/AC to MPUD, increasing the density/intensity, resulting in 466 non-exempt
+         daily trips.
+
+
+2.0   SITE PARAMETERS
+      a. Description of Land Uses: 35 duplex buildings, consisting of 69 residential units and 1 ancillary
+           office unit.
+
+                    Uses             Existing           Proposed      Unit Difference        Daily Trips
+
+           Res i denti a l Uni ts    0 uni ts           69 uni ts         69 uni ts             466
+
+             Anci l l a ry Offi ce   0 uni ts            1 uni t           1 uni t               0
+
+                                                TOTAL                                           466
+
+
+
+      b. Site Location: Pasco County parcel numbers 22-24-21-0000-01100-0010, 22-24-21-0000-01100-
+         0011, and 22-24-21-0000-01100-0012, located on the west side of 14th Street, approximately 0.25
+         miles north of Long Street. (refer to Attachment "A" for location map and Attachment "B" for
+         concept plan)
+
+      c.   Buildout Schedule and Phasing: The buildout year for the project is anticipated to be 2015, with
+           one phase of development.
+
+      d. Interim Uses Generating Traffic: Not Applicable
+
+
+
+
+Dade Oaks                                               -1-                           Timing & Phasing Methodology
+July 16, 2013 (Revised)
+
+
+
+
+                                                APPENDIX A - 1 of 8
+RAYSOR Transportation Consulting
+
+
+3.0   STUDY AREA
+      The study area will include the following roadway segments plus major intersections (identified below)
+      along the segments (refer to Attachment "C" for study area details):
+
+      Segments
+      i. 14th Street from Long Avenue to US-301
+
+      Intersections
+      a. 14th Street at Long Avenue
+      b. 14th Street at Frazee Hill Road
+      c. 14th Street at US-301
+      d. Site Access Connection(s) to 14th Street
+
+4.0   TRIP GENERATION
+      For the purposes of analysis, the trip generation for the project site will be based on the Institute of
+      Transportation Engineers (ITE) 9th Edition, Trip Generation Manual, using the multi-family land use
+      category (ITE LUC 230). (refer to Attachment "D" for trip generation details)
+
+5.0   INTERNAL CAPTURE/PASS-BY
+      a. Internal Capture: No internal capture is proposed as the project is a single use.
+
+      b. Pass-By: No pass-by is proposed as the project is residential.
+
+6.0   BACKGROUND GROWTH PROCEDURE
+      a. Growth Rate: 2% per year (minimum County growth rate)
+
+      b. In no case will negative growth rates be allowed.
+
+7.0   DISTRIBUTION AND ASSIGNMENT
+      a. The project traffic distribution will be performed manually and will be based on the land use
+          characteristics of the surrounding area and the project itself. (refer to Attachment "E" for
+          proposed project traffic distribution)
+
+8.0   ANALYSIS
+      a. Given the unsignalized traffic control within the study area, it is proposed that generalized service
+         volumes be used to evaluate available capacity for 14th Street. Specifically, pursuant to the Timing
+         & Phasing guidelines, a two-way service volume of 1,370 vph will be assumed for 14th Street.
+
+      b. Study intersections, including the site access connections, will be analyzed using HCS.
+
+      c.   Site access analyses will be performed for AM & PM peak hour conditions, and off-site analyses
+           will be performed for PM peak hour conditions only.
+
+
+
+
+Dade Oaks                                            -2-                        Timing & Phasing Methodology
+July 16, 2013 (Revised)
+
+
+
+
+                                           APPENDIX A - 2 of 8
+RAYSOR Transportation Consulting
+
+
+9.0   REPORT
+      a. A Timing and Phasing report will be prepared summarizing the above described steps.
+
+10.0 COORDINATION
+     a. The Applicant and the County will hold conference calls as needed to discuss the analysis and to
+        coordinate on questions or issues that may arise in the preparation/results of the analysis.
+
+The Transportation Analysis shall be prepared consistent with the adopted Land Development Code and the
+Comprehensive Plan.
+
+
+
+ATTACHMENTS
+
+Attachment "A" - Project Location Map
+Attachment "B" - Project Concept Plan
+Attachment "C" - Study Area Screening
+Attachment "D" - Project Trip Generation
+Attachment "E" - Project Traffic Distribution
+
+
+
+
+Dade Oaks                                          -3-                      Timing & Phasing Methodology
+July 16, 2013 (Revised)
+
+
+
+
+                                            APPENDIX A - 3 of 8
+ATTACHMENT "A" - Project Location Map
+
+
+ DADE OAKS - PROJECT LOCATION MAP
+
+
+
+
+                                                    PROJECT
+
+
+
+
+ RAYSOR Transportation Consulting
+
+
+
+
+                                    ATTACHMENT A - 1 of 1
+
+
+
+
+                                    APPENDIX A - 4 of 8
+ATTACHMENT "B" - Project Concept Plan
+
+
+ DADE OAKS - PROJECT CONCEPT PLAN
+
+
+
+
+ RAYSOR Transportation Consulting
+
+
+
+
+                                    ATTACHMENT B - 1 of 1
+
+
+
+
+                                    APPENDIX A - 5 of 8
+ATTACHMENT "C" - Study Area Screening
+
+Dade Oaks
+
+Study Area Screening
+
+                                                                                                  Project Site         Percent
+                                                      LOS                      Service                                 Service
+            Roadway Segment                                        Lanes
+                                                 Standard1                     Volume2                                 Volume
+                                                                                         Distribution        Trips    Consumed
+
+  14th Street
+                                                      D             2U          1,370       85%                  37     2.7%
+  US-301 to Long Avenue
+  14th Street
+                                                      D             2U          1,370       45%                  20     1.5%
+  Long Avenue to Lock Street
+  U.S. Highway 301
+                                                      D             4D          3,110       10%                  4      0.1%
+  US-98 to Payne Road
+  U.S. Highway 301
+                                                      D             4D          3,110        5%                  2      0.1%
+  Payne Road to Long Avenue
+  U.S. Highway 301
+                                                      D             6D          4,710       30%                  13     0.3%
+  Long Avenue to Lock Street
+  Frazee Hill Road
+                                                      D             2U          1,370       10%                  4      0.3%
+  Blanton Road to 14th Street
+  Long Avenue
+                                                      D             2U          1,370        5%                  2      0.1%
+  Powerline Road to 14th Street
+  Long Avenue
+                                                      D             2U          1,370       35%                  15     1.1%
+  14th Street to US-301
+Note 1: LOS Standard Assumed for Study Area Screening Only
+Note 2: Service Volume pursuant to Pasco County LDC
+
+
+
+
+RAYSOR Transportation Consulting
+
+
+
+
+                                                            ATTACHMENT C - 1 of 1
+
+
+
+
+                                                            APPENDIX A - 6 of 8
+ATTACHMENT "D" - Project Trip Generation
+
+Dade Oaks
+Trip Generation Estimate
+
+
+
+                                        Weekday                         AM Peak Hour                          PM Peak Hour
+ ITE      Land Use
+                           Size
+ LUC     Description               Trip Rate/              Trip Rate/                            Trip Rate/
+                                                 Trips                    Trips   Enter   Exit                  Trips   Enter   Exit
+                                   Equation                Equation                              Equation
+                                   Ln(T)=0.87*            Ln(T)=0.80*                            Ln(T)=0.82*
+ 230     Townhouse      69 du                     466                      38      6      32                     44      29     15
+                                    Ln(X)+2.46             Ln(X)+0.26                             Ln(X)+0.32
+
+
+
+RAYSOR Transportation Consulting
+
+
+
+
+                                                        ATTACHMENT D - 1 of 1
+
+
+
+
+                                                    APPENDIX A - 7 of 8
+ATTACHMENT "E" - Project Traffic Distribution
+
+
+ DADE OAKS - PROJECT TRAFFIC DISTRIBUTION
+
+
+                                                     10%
+
+
+
+
+                                            5%
+
+
+                                    10%
+
+
+
+
+                                                    15%
+
+
+                                          PROJECT            5%
+
+
+                                                    85%
+
+                                             5%            35%
+
+
+
+                                                    45%           30%
+
+
+
+
+ RAYSOR Transportation Consulting
+
+
+
+
+                                                 ATTACHMENT E - 1 of 1
+
+
+
+
+                                              APPENDIX A - 8 of 8
+ APPENDIX B
+
+Traffic Count Data
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: US 301 -- Payne Rd                                                                                                  QC JOB #: 11201603
+ CITY/STATE: Dade City, FL                                                                                                     DATE: Tue, Jul 23 2013
+                    451          749                           Peak-Hour: 5:00 PM -- 6:00 PM                                    5.8        6.1
+
+                       19 432     0
+                                                              Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                0.0 6.0 0.0
+
+
+       66    34                         0       0
+                                                                                                                   1.5   0.0                      0.0      0.0
+             0            0.90          0
+                                                                                                                         0.0                      0.0
+       45    11                         0       1
+                                                                                                                   2.2   9.1                      0.0      0.0
+
+                       52 715    1
+                                                                                                                                1.9 6.4 0.0
+
+                    448          768
+                                                                                                                                6.0        6.1
+
+
+
+                           0                                                                                                     0    0    0
+
+
+
+                                                                                                                         1                          0
+
+             0                          0                                                                                0                          0
+
+                                                                                                                         0                          0
+
+                           0                                                                                                     0    0    0
+
+
+
+
+                          NA                                                                                                          NA
+
+
+
+
+             NA                        NA                                                                                NA                       NA
+
+
+
+
+                          NA                                                                                                          NA
+
+
+
+ 15-Min Count                US 301                           US 301                      Payne Rd                   Payne Rd                    Total      Hourly
+    Period                (Northbound)                     (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left     Thru Right       U       Left    Thru Right    U       Left   Thru Right    U    Left    Thru Right        U
+    4:00 PM         8     142       0       0        0      123      2    0         5      0     2     0     0        0     0         0          282
+    4:15 PM        12     166       0       0        0       97      1    0         4      0     3     0     1        0     0         0          284
+    4:30 PM        14     157       0       0        0      118      6    0         8      0     5     0     0        0     0         0          308
+    4:45 PM         8     140       0       0        0       99      5    1         9      0     1     0     0        0     0         0          263            1137
+    5:00 PM        11     200       0       1        0      108      5    0         7      0     3     0     0        0     0         0          335            1190
+    5:15 PM        13     206       0       0        0      117      5    0         9      0     3     0     0        0     0         0          353            1259
+    5:30 PM        11     156       0       3        0      106      4    0         7      0     2     0     0        0     0         0          289            1240
+    5:45 PM        12     153       1       1        0      101      5    0        11      0     3     0     0        0     0         0          287            1264
+
+
+
+
+ Peak 15-Min                  Northbound                       Southbound                    Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U          Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     52     824      0     0           0     468     20     0        36      0    12     0     0        0     0     0                     1412
+ Heavy Trucks       0      60      0                 0      28      0               0      0      0          0        0     0                            88
+  Pedestrians               0                                0                             0                          0                                   0
+    Bicycles       0        0      0                 0       0      0              0       0      0           0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/31/2013 8:00 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
+                                                                     APPENDIX B - 1 of 25
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Frazee Hill Rd                                                                                              QC JOB #: 11201602
+ CITY/STATE: Dade City, FL                                                                                                        DATE: Tue, Jul 23 2013
+                       61          41                           Peak-Hour: 5:00 PM -- 6:00 PM                                      1.6        0.0
+
+                       54    7     0
+                                                               Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                   1.9 0.0 0.0
+
+
+       96    17                          0       0
+                                                                                                                      2.1   0.0                      0.0       0.0
+             0              0.91         0
+                                                                                                                            0.0                      0.0
+       45    28                          0       0
+                                                                                                                      0.0   0.0                      0.0       0.0
+
+                       42    24    0
+                                                                                                                                   2.4 0.0 0.0
+
+                       35          66
+                                                                                                                                   0.0        1.5
+
+
+
+                             0                                                                                                      0    0    0
+
+
+
+                                                                                                                            0                          0
+
+             0                           0                                                                                  0                          0
+
+                                                                                                                            0                          0
+
+                             0                                                                                                      0    1    0
+
+
+
+
+                            NA                                                                                                           NA
+
+
+
+
+             NA                         NA                                                                                  NA                       NA
+
+
+
+
+                            NA                                                                                                           NA
+
+
+
+ 15-Min Count                  14th St                         14th St                    Frazee Hill Rd              Frazee Hill Rd                Total       Hourly
+    Period                  (Northbound)                    (Southbound)                   (Eastbound)                 (Westbound)                              Totals
+ Beginning At     Left       Thru Right      U       Left    Thru Right    U       Left    Thru Right      U   Left    Thru Right        U
+    4:00 PM         8          5       0     0        0        1       9   0        3        0     11      0    0        0       0       0           37
+    4:15 PM         8          3       0     0        0        1     10    0        3        0       5     0    0        0       0       0           30
+    4:30 PM        12         11       0     0        0        3     18    0        4        0       6     0    0        0       0       0           54
+    4:45 PM         6          6       0     0        0        2     11    0        3        0       5     0    0        0       0       0           33              154
+    5:00 PM        10          4       0     0        0        1     12    0        3        0       5     0    0        0       0       0           35              152
+    5:15 PM        11          7       0     0        0        2     16    0        5        0       6     0    0        0       0       0           47              169
+    5:30 PM        12          6       0     0        0        3     12    0        4        0     10      0    0        0       0       0           47              162
+    5:45 PM         9          7       0     0        0        1     14    0        5        0       7     0    0        0       0       0           43              172
+
+
+
+
+ Peak 15-Min                    Northbound                      Southbound                    Eastbound                    Westbound
+   Flowrates      Left      Thru Right     U         Left   Thru Right    U        Left   Thru Right    U      Left    Thru Right    U                      Total
+  All Vehicles     44        28      0     0          0       8     64     0        20      0    24     0       0        0     0     0                      188
+ Heavy Trucks       0         0      0                0       0      0               0      0      0            0        0     0                             0
+  Pedestrians                 0                               0                             0                            0                                   0
+    Bicycles       0          0      0                0       0      0              0       0      0             0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/31/2013 8:00 PM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
+                                                                      APPENDIX B - 2 of 25
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Long Ave                                                                                                 QC JOB #: 11201601
+ CITY/STATE: Dade City, FL                                                                                                     DATE: Tue, Jul 23 2013
+                       56           84                        Peak-Hour: 4:00 PM -- 5:00 PM                                     10.7        0.0
+
+                         8    33    15
+                                                             Peak 15-Min: 4:30 PM -- 4:45 PM
+                                                                                                                                0.0 18.2 0.0
+
+
+       57    14                          29   94
+                                                                                                                  5.3   0.0                        0.0       3.2
+             24              0.88        40
+                                                                                                                        4.2                        7.5
+       48    10                          25   54
+                                                                                                                  4.2   10.0                       0.0       5.6
+
+                         9    41    15
+                                                                                                                                0.0 0.0 13.3
+
+                       68           65
+                                                                                                                                10.3        3.1
+
+
+
+                              0                                                                                                  0     0    0
+
+
+
+                                                                                                                        1                            0
+
+             2                            0                                                                             0                            0
+
+                                                                                                                        1                            0
+
+                              2                                                                                                  0     0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                          NA                                                                             NA                         NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                   14th St                      14th St                     Long Ave                   Long Ave                      Total       Hourly
+    Period                   (Northbound)                 (Southbound)                  (Eastbound)                (Westbound)                                Totals
+ Beginning At     Left        Thru Right      U    Left    Thru Right    U       Left   Thru Right    U    Left    Thru Right          U
+    4:00 PM        3            6       7     0     5       10       2   0        3       5     5     0     8       10     4           0           68
+    4:15 PM        2            7       0     0     2        9       2   0        1       8     1     0     6       11     7           0           56
+    4:30 PM        1           16       5     0     2        5       4   0        7       6     3     0     3       13    10           0           75
+    4:45 PM        3           12       3     0     6        9       0   0        3       5     1     0     8        6     8           0           64              263
+    5:00 PM        3           12       2     0     2        9       2   0        3       4     6     0     9        4     5           0           61              256
+    5:15 PM        2           16       4     0     8        2       2   0        2       6     2     0     2        7     9           0           62              262
+    5:30 PM        2           11       0     0     4        9       3   0        4       5     2     0     2       11     8           0           61              248
+    5:45 PM        4           15       4     0     2        9       2   0        2      10     4     0     2        9     6           0           69              253
+
+
+
+
+ Peak 15-Min                     Northbound                   Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U      Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                        Total
+  All Vehicles     4          64     20     0       8      20     16     0        28     24    12     0     12      52    40     0                        300
+ Heavy Trucks      0           0      0             0       4      0               0      0      0           0       0     0                               4
+  Pedestrians                  0                            0                             4                          0                                     4
+    Bicycles       0           0      0             0       0      0              0       0      0           0       0     0                               0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/31/2013 8:00 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
+                                                                    APPENDIX B - 3 of 25
+Dade Oaks
+Tube Count Summary
+
+Location: 14th Street north of Long Avenue
+Count Date: July 24th & 25th, 2013
+
+Two Day AM Peak Hour >>> 7:30 am to 8:30 am [peak hour between 7 am and 9 am]
+Two Day PM Peak Hour >>> 4:45 pm to 5:45 pm [peak hour between 4 pm and 6 pm]
+
+Daily ADT Volume >>> 1,547 vpd
+Two Day AM Peak Hour Volume >>> 70 vph (28 nb, 42 sb)
+Two Day PM Peak Hour Volume >>> 142 vph (94 nb, 48 sb)
+
+Seasonal Factor (2012 value) >>> 1.02
+Peak Season Conversion Factor (2012 value) >>> 1.07
+
+AADT >>> 1,578 vpd
+AM Peak Hour Peak Season Volume >>> 75 vph (30 nb, 45 sb)
+PM Peak Hour Peak Season Volume >>> 152 vph (101 nb, 51 sb)
+
+85th Percentile Speed >>> 41 mph
+Average Speed >>> 34 mph
+
+
+
+
+                                             APPENDIX B - 4 of 25
+                       Type of report: Tube Count - Volume Data                                                                                                              Page 1 of 4
+                        LOCATION: 14th St north of Long Ave                                                                                                QC JOB #: 11201604
+                        SPECIFIC LOCATION: 500 ft from Long Ave                                                                                            DIRECTION: NB/SB
+                        CITY/STATE: Dade City, FL                                                                                                DATE: Jul 24 2013 - Jul 25 2013
+                                         Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                        Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                        12:00 AM                                        5          2                    4                                    4
+                        12:15 AM                                        8          1                    5                                    5
+                        12:30 AM                                        4          6                    5                                    5
+                        12:45 AM                                        1          2                    2                                    2
+                         1:00 AM                                        1          2                    2                                    2
+                         1:15 AM                                        6          2                    4                                    4
+                         1:30 AM                                        3          3                    3                                    3
+                         1:45 AM                                        2          3                    3                                    3
+                         2:00 AM                                        1          4                    3                                    3
+                         2:15 AM                                        1          0                    1                                    1
+                         2:30 AM                                        0          1                    1                                    1
+                         2:45 AM                                        0          1                    1                                    1
+                         3:00 AM                                        0          0                    0                                    0
+                         3:15 AM                                        3          2                    3                                    3
+                         3:30 AM                                        2          1                    2                                    2
+                         3:45 AM                                        1          2                    2                                    2
+                         4:00 AM                                        2          1                    2                                    2
+                         4:15 AM                                        3          2                    3                                    3
+
+
+
+
+APPENDIX B - 5 of 25
+                         4:30 AM                                        1          1                    1                                    1
+                         4:45 AM                                        0          1                    1                                    1
+                         5:00 AM                                        5          6                    6                                    6
+                         5:15 AM                                        5         11                    8                                    8
+                         5:30 AM                                        9         19                   14                                   14
+                         5:45 AM                                        8         12                   10                                   10
+                        Day Total
+                       % Weekday
+                        Average
+                         % Week
+                         Average
+                         AM Peak
+                          Volume
+                         PM Peak
+                          Volume
+                        Comments:
+
+                       Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                       Type of report: Tube Count - Volume Data                                                                                                              Page 2 of 4
+                        LOCATION: 14th St north of Long Ave                                                                                                QC JOB #: 11201604
+                        SPECIFIC LOCATION: 500 ft from Long Ave                                                                                            DIRECTION: NB/SB
+                        CITY/STATE: Dade City, FL                                                                                                DATE: Jul 24 2013 - Jul 25 2013
+                                         Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                        Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                         6:00 AM                                      10          14                   12                                   12
+                         6:15 AM                                       9           6                    8                                    8
+                         6:30 AM                                      13          10                   12                                   12
+                         6:45 AM                                      19          10                   15                                   15
+                         7:00 AM                                       9          14                   12                                   12
+                         7:15 AM                                      12          11                   12                                   12
+                         7:30 AM                                       9          23                   16                                   16
+                         7:45 AM                                      21          13                   17                                   17
+                         8:00 AM                                      22          17                   20                                   20
+                         8:15 AM                                      14          15                   15                                   15
+                         8:30 AM                                      15          15                   15                                   15
+                         8:45 AM                                      17          13                   15                                   15
+                         9:00 AM                                      12          19                   16                                   16
+                         9:15 AM                                       8          14                   11                                   11
+                         9:30 AM                                      19          10                   15                                   15
+                         9:45 AM                                      20          22                   21                                   21
+                        10:00 AM                                      14          16                   15                                   15
+                        10:15 AM                                      18          14                   16                                   16
+
+
+
+
+APPENDIX B - 6 of 25
+                        10:30 AM                                      13          20                   17                                   17
+                        10:45 AM                                      13          17                   15                                   15
+                        11:00 AM                                      11          17                   14                                   14
+                        11:15 AM                                      15          26                   21                                   21
+                        11:30 AM                                      14          22                   18                                   18
+                        11:45 AM                                      21          11                   16                                   16
+                        Day Total
+                       % Weekday
+                        Average
+                         % Week
+                         Average
+                         AM Peak
+                          Volume
+                         PM Peak
+                          Volume
+                        Comments:
+
+                       Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                       Type of report: Tube Count - Volume Data                                                                                                              Page 3 of 4
+                        LOCATION: 14th St north of Long Ave                                                                                                QC JOB #: 11201604
+                        SPECIFIC LOCATION: 500 ft from Long Ave                                                                                            DIRECTION: NB/SB
+                        CITY/STATE: Dade City, FL                                                                                                DATE: Jul 24 2013 - Jul 25 2013
+                                         Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                        Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                        12:00 PM                                      21          26                   24                                   24
+                        12:15 PM                                      12          23                   18                                   18
+                        12:30 PM                                      12          18                   15                                   15
+                        12:45 PM                                      13           8                   11                                   11
+                         1:00 PM                                      21          30                   26                                   26
+                         1:15 PM                                      15          22                   19                                   19
+                         1:30 PM                                      24          12                   18                                   18
+                         1:45 PM                                      20          27                   24                                   24
+                         2:00 PM                                      20          25                   23                                   23
+                         2:15 PM                                      22          20                   21                                   21
+                         2:30 PM                                      27          24                   26                                   26
+                         2:45 PM                                      26          17                   22                                   22
+                         3:00 PM                                      24          21                   23                                   23
+                         3:15 PM                                      23          29                   26                                   26
+                         3:30 PM                                      20          30                   25                                   25
+                         3:45 PM                                      33          32                   33                                   33
+                         4:00 PM                                      30          27                   29                                   29
+                         4:15 PM                                      38          23                   31                                   31
+
+
+
+
+APPENDIX B - 7 of 25
+                         4:30 PM                                      35          31                   33                                   33
+                         4:45 PM                                      31          32                   32                                   32
+                         5:00 PM                                      37          34                   36                                   36
+                         5:15 PM                                      36          39                   38                                   38
+                         5:30 PM                                      43          28                   36                                   36
+                         5:45 PM                                      29          30                   30                                   30
+                        Day Total
+                       % Weekday
+                        Average
+                         % Week
+                         Average
+                         AM Peak
+                          Volume
+                         PM Peak
+                          Volume
+                        Comments:
+
+                       Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                       Type of report: Tube Count - Volume Data                                                                                                              Page 4 of 4
+                        LOCATION: 14th St north of Long Ave                                                                                                 QC JOB #: 11201604
+                        SPECIFIC LOCATION: 500 ft from Long Ave                                                                                             DIRECTION: NB/SB
+                        CITY/STATE: Dade City, FL                                                                                                 DATE: Jul 24 2013 - Jul 25 2013
+                                         Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                        Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                         6:00 PM                                      42          32                   37                                  37
+                         6:15 PM                                      30          39                   35                                  35
+                         6:30 PM                                      23          28                   26                                  26
+                         6:45 PM                                      30          26                   28                                  28
+                         7:00 PM                                      38          34                   36                                  36
+                         7:15 PM                                      33          29                   31                                  31
+                         7:30 PM                                      26          11                   19                                  19
+                         7:45 PM                                      14          29                   22                                  22
+                         8:00 PM                                      25          33                   29                                  29
+                         8:15 PM                                      26          19                   23                                  23
+                         8:30 PM                                      31          21                   26                                  26
+                         8:45 PM                                      19          29                   24                                  24
+                         9:00 PM                                      27          20                   24                                  24
+                         9:15 PM                                      19          21                   20                                  20
+                         9:30 PM                                      20           9                   15                                  15
+                         9:45 PM                                      13          13                   13                                  13
+                        10:00 PM                                       8          15                   12                                  12
+                        10:15 PM                                      10           9                   10                                  10
+
+
+
+
+APPENDIX B - 8 of 25
+                        10:30 PM                                       4          12                    8                                   8
+                        10:45 PM                                      11          17                   14                                  14
+                        11:00 PM                                       7           6                    7                                   7
+                        11:15 PM                                       7           6                    7                                   7
+                        11:30 PM                                       5           8                    7                                   7
+                        11:45 PM                                       5           5                    5                                   5
+                        Day Total                                   1504        1533                 1547                                1547
+                       % Weekday
+                        Average                                    97.2%       99.1%
+                         % Week
+                         Average                                   97.2%       99.1%                100.0%
+                         AM Peak                                  8:00 AM     11:15 AM              9:45 AM                             9:45 AM
+                          Volume                                     22          26                    21                                  21
+                         PM Peak                                  5:30 PM     5:15 PM               5:15 PM                             5:15 PM
+                          Volume                                     43          39                    38                                  38
+                        Comments:
+
+                       Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                       Type of report: Tube Count - Volume Data                                                                                                              Page 1 of 4
+                        LOCATION: 14th St north of Long Ave                                                                                                QC JOB #: 11201604
+                        SPECIFIC LOCATION: 500 ft from Long Ave                                                                                            DIRECTION: NB
+                        CITY/STATE: Dade City, FL                                                                                                DATE: Jul 24 2013 - Jul 25 2013
+                                         Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                        Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                        12:00 AM                                        4           1                  3                                     3
+                        12:15 AM                                        4           1                  3                                     3
+                        12:30 AM                                        3           2                  3                                     3
+                        12:45 AM                                        0           1                  1                                     1
+                         1:00 AM                                        0           2                  1                                     1
+                         1:15 AM                                        5           2                  4                                     4
+                         1:30 AM                                        1           1                  1                                     1
+                         1:45 AM                                        1           1                  1                                     1
+                         2:00 AM                                        1           2                  2                                     2
+                         2:15 AM                                        1           0                  1                                     1
+                         2:30 AM                                        0           1                  1                                     1
+                         2:45 AM                                        0           0                  0                                     0
+                         3:00 AM                                        0           0                  0                                     0
+                         3:15 AM                                        1           1                  1                                     1
+                         3:30 AM                                        0           0                  0                                     0
+                         3:45 AM                                        1           1                  1                                     1
+                         4:00 AM                                        1           0                  1                                     1
+                         4:15 AM                                        0           1                  1                                     1
+
+
+
+
+APPENDIX B - 9 of 25
+                         4:30 AM                                        1           1                  1                                     1
+                         4:45 AM                                        0           1                  1                                     1
+                         5:00 AM                                        2           1                  2                                     2
+                         5:15 AM                                        1           4                  3                                     3
+                         5:30 AM                                        0           6                  3                                     3
+                         5:45 AM                                        1           4                  3                                     3
+                        Day Total
+                       % Weekday
+                        Average
+                         % Week
+                         Average
+                         AM Peak
+                          Volume
+                         PM Peak
+                          Volume
+                        Comments:
+
+                       Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Volume Data                                                                                                              Page 2 of 4
+                         LOCATION: 14th St north of Long Ave                                                                                                QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                            DIRECTION: NB
+                         CITY/STATE: Dade City, FL                                                                                                DATE: Jul 24 2013 - Jul 25 2013
+                                          Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                         Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                          6:00 AM                                       2           4                    3                                    3
+                          6:15 AM                                       2           1                    2                                    2
+                          6:30 AM                                       4           2                    3                                    3
+                          6:45 AM                                       7           2                    5                                    5
+                          7:00 AM                                       2           4                    3                                    3
+                          7:15 AM                                       4           5                    5                                    5
+                          7:30 AM                                       1           8                    5                                    5
+                          7:45 AM                                      11           4                    8                                    8
+                          8:00 AM                                       8           9                    9                                    9
+                          8:15 AM                                       5           7                    6                                    6
+                          8:30 AM                                       7           6                    7                                    7
+                          8:45 AM                                       7           4                    6                                    6
+                          9:00 AM                                       7          11                    9                                    9
+                          9:15 AM                                       2           5                    4                                    4
+                          9:30 AM                                       7           4                    6                                    6
+                          9:45 AM                                      11          12                   12                                   12
+                         10:00 AM                                       8          10                    9                                    9
+                         10:15 AM                                      10           1                    6                                    6
+
+
+
+
+APPENDIX B - 10 of 25
+                         10:30 AM                                       7          11                    9                                    9
+                         10:45 AM                                       8          10                    9                                    9
+                         11:00 AM                                       6          10                    8                                    8
+                         11:15 AM                                       9          15                   12                                   12
+                         11:30 AM                                       8          11                   10                                   10
+                         11:45 AM                                       5           7                    6                                    6
+                         Day Total
+                        % Weekday
+                         Average
+                          % Week
+                          Average
+                          AM Peak
+                           Volume
+                          PM Peak
+                           Volume
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Volume Data                                                                                                              Page 3 of 4
+                         LOCATION: 14th St north of Long Ave                                                                                                QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                            DIRECTION: NB
+                         CITY/STATE: Dade City, FL                                                                                                DATE: Jul 24 2013 - Jul 25 2013
+                                          Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                         Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                         12:00 PM                                      13          13                   13                                   13
+                         12:15 PM                                       9          11                   10                                   10
+                         12:30 PM                                       8           6                    7                                    7
+                         12:45 PM                                      12           4                    8                                    8
+                          1:00 PM                                      11          21                   16                                   16
+                          1:15 PM                                       7          10                    9                                    9
+                          1:30 PM                                      14           7                   11                                   11
+                          1:45 PM                                       9          14                   12                                   12
+                          2:00 PM                                       9          12                   11                                   11
+                          2:15 PM                                      17          13                   15                                   15
+                          2:30 PM                                      16          12                   14                                   14
+                          2:45 PM                                      15          13                   14                                   14
+                          3:00 PM                                      11          11                   11                                   11
+                          3:15 PM                                      16          16                   16                                   16
+                          3:30 PM                                      15          20                   18                                   18
+                          3:45 PM                                      23          18                   21                                   21
+                          4:00 PM                                      18          18                   18                                   18
+                          4:15 PM                                      20          15                   18                                   18
+
+
+
+
+APPENDIX B - 11 of 25
+                          4:30 PM                                      22          14                   18                                   18
+                          4:45 PM                                      18          19                   19                                   19
+                          5:00 PM                                      28          23                   26                                   26
+                          5:15 PM                                      20          29                   25                                   25
+                          5:30 PM                                      28          20                   24                                   24
+                          5:45 PM                                      18          23                   21                                   21
+                         Day Total
+                        % Weekday
+                         Average
+                          % Week
+                          Average
+                          AM Peak
+                           Volume
+                          PM Peak
+                           Volume
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Volume Data                                                                                                              Page 4 of 4
+                         LOCATION: 14th St north of Long Ave                                                                                                 QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                             DIRECTION: NB
+                         CITY/STATE: Dade City, FL                                                                                                 DATE: Jul 24 2013 - Jul 25 2013
+                                          Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                         Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                          6:00 PM                                      30          15                   23                                  23
+                          6:15 PM                                      17          26                   22                                  22
+                          6:30 PM                                      15          16                   16                                  16
+                          6:45 PM                                      23          16                   20                                  20
+                          7:00 PM                                      18          18                   18                                  18
+                          7:15 PM                                      17          19                   18                                  18
+                          7:30 PM                                      19           8                   14                                  14
+                          7:45 PM                                       7          17                   12                                  12
+                          8:00 PM                                      12          17                   15                                  15
+                          8:15 PM                                      15          11                   13                                  13
+                          8:30 PM                                      19          15                   17                                  17
+                          8:45 PM                                      11          17                   14                                  14
+                          9:00 PM                                      22          10                   16                                  16
+                          9:15 PM                                       9          13                   11                                  11
+                          9:30 PM                                      11           8                   10                                  10
+                          9:45 PM                                       5          10                    8                                   8
+                         10:00 PM                                       4           9                    7                                   7
+                         10:15 PM                                       5           6                    6                                   6
+
+
+
+
+APPENDIX B - 12 of 25
+                         10:30 PM                                       3           8                    6                                   6
+                         10:45 PM                                       6          10                    8                                   8
+                         11:00 PM                                       6           4                    5                                   5
+                         11:15 PM                                       4           2                    3                                   3
+                         11:30 PM                                       3           5                    4                                   4
+                         11:45 PM                                       3           2                    3                                   3
+                         Day Total                                    837         841                  864                                 864
+                        % Weekday
+                         Average                                    96.9%       97.3%
+                          % Week
+                          Average                                   96.9%       97.3%                100.0%
+                          AM Peak                                  7:45 AM     11:15 AM              9:45 AM                             9:45 AM
+                           Volume                                     11          15                    12                                  12
+                          PM Peak                                  6:00 PM     5:15 PM               5:00 PM                             5:00 PM
+                           Volume                                     30          29                    26                                  26
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Volume Data                                                                                                              Page 1 of 4
+                         LOCATION: 14th St north of Long Ave                                                                                                QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                            DIRECTION: SB
+                         CITY/STATE: Dade City, FL                                                                                                DATE: Jul 24 2013 - Jul 25 2013
+                                          Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                         Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                         12:00 AM                                        1          1                    1                                    1
+                         12:15 AM                                        4          0                    2                                    2
+                         12:30 AM                                        1          4                    3                                    3
+                         12:45 AM                                        1          1                    1                                    1
+                          1:00 AM                                        1          0                    1                                    1
+                          1:15 AM                                        1          0                    1                                    1
+                          1:30 AM                                        2          2                    2                                    2
+                          1:45 AM                                        1          2                    2                                    2
+                          2:00 AM                                        0          2                    1                                    1
+                          2:15 AM                                        0          0                    0                                    0
+                          2:30 AM                                        0          0                    0                                    0
+                          2:45 AM                                        0          1                    1                                    1
+                          3:00 AM                                        0          0                    0                                    0
+                          3:15 AM                                        2          1                    2                                    2
+                          3:30 AM                                        2          1                    2                                    2
+                          3:45 AM                                        0          1                    1                                    1
+                          4:00 AM                                        1          1                    1                                    1
+                          4:15 AM                                        3          1                    2                                    2
+
+
+
+
+APPENDIX B - 13 of 25
+                          4:30 AM                                        0          0                    0                                    0
+                          4:45 AM                                        0          0                    0                                    0
+                          5:00 AM                                        3          5                    4                                    4
+                          5:15 AM                                        4          7                    6                                    6
+                          5:30 AM                                        9         13                   11                                   11
+                          5:45 AM                                        7          8                    8                                    8
+                         Day Total
+                        % Weekday
+                         Average
+                          % Week
+                          Average
+                          AM Peak
+                           Volume
+                          PM Peak
+                           Volume
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Volume Data                                                                                                              Page 2 of 4
+                         LOCATION: 14th St north of Long Ave                                                                                                QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                            DIRECTION: SB
+                         CITY/STATE: Dade City, FL                                                                                                DATE: Jul 24 2013 - Jul 25 2013
+                                          Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                         Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                          6:00 AM                                       8          10                    9                                    9
+                          6:15 AM                                       7           5                    6                                    6
+                          6:30 AM                                       9           8                    9                                    9
+                          6:45 AM                                      12           8                   10                                   10
+                          7:00 AM                                       7          10                    9                                    9
+                          7:15 AM                                       8           6                    7                                    7
+                          7:30 AM                                       8          15                   12                                   12
+                          7:45 AM                                      10           9                   10                                   10
+                          8:00 AM                                      14           8                   11                                   11
+                          8:15 AM                                       9           8                    9                                    9
+                          8:30 AM                                       8           9                    9                                    9
+                          8:45 AM                                      10           9                   10                                   10
+                          9:00 AM                                       5           8                    7                                    7
+                          9:15 AM                                       6           9                    8                                    8
+                          9:30 AM                                      12           6                    9                                    9
+                          9:45 AM                                       9          10                   10                                   10
+                         10:00 AM                                       6           6                    6                                    6
+                         10:15 AM                                       8          13                   11                                   11
+
+
+
+
+APPENDIX B - 14 of 25
+                         10:30 AM                                       6           9                    8                                    8
+                         10:45 AM                                       5           7                    6                                    6
+                         11:00 AM                                       5           7                    6                                    6
+                         11:15 AM                                       6          11                    9                                    9
+                         11:30 AM                                       6          11                    9                                    9
+                         11:45 AM                                      16           4                   10                                   10
+                         Day Total
+                        % Weekday
+                         Average
+                          % Week
+                          Average
+                          AM Peak
+                           Volume
+                          PM Peak
+                           Volume
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Volume Data                                                                                                              Page 3 of 4
+                         LOCATION: 14th St north of Long Ave                                                                                                QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                            DIRECTION: SB
+                         CITY/STATE: Dade City, FL                                                                                                DATE: Jul 24 2013 - Jul 25 2013
+                                          Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                         Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                         12:00 PM                                       8          13                   11                                   11
+                         12:15 PM                                       3          12                    8                                    8
+                         12:30 PM                                       4          12                    8                                    8
+                         12:45 PM                                       1           4                    3                                    3
+                          1:00 PM                                      10           9                   10                                   10
+                          1:15 PM                                       8          12                   10                                   10
+                          1:30 PM                                      10           5                    8                                    8
+                          1:45 PM                                      11          13                   12                                   12
+                          2:00 PM                                      11          13                   12                                   12
+                          2:15 PM                                       5           7                    6                                    6
+                          2:30 PM                                      11          12                   12                                   12
+                          2:45 PM                                      11           4                    8                                    8
+                          3:00 PM                                      13          10                   12                                   12
+                          3:15 PM                                       7          13                   10                                   10
+                          3:30 PM                                       5          10                    8                                    8
+                          3:45 PM                                      10          14                   12                                   12
+                          4:00 PM                                      12           9                   11                                   11
+                          4:15 PM                                      18           8                   13                                   13
+
+
+
+
+APPENDIX B - 15 of 25
+                          4:30 PM                                      13          17                   15                                   15
+                          4:45 PM                                      13          13                   13                                   13
+                          5:00 PM                                       9          11                   10                                   10
+                          5:15 PM                                      16          10                   13                                   13
+                          5:30 PM                                      15           8                   12                                   12
+                          5:45 PM                                      11           7                    9                                    9
+                         Day Total
+                        % Weekday
+                         Average
+                          % Week
+                          Average
+                          AM Peak
+                           Volume
+                          PM Peak
+                           Volume
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Volume Data                                                                                                              Page 4 of 4
+                         LOCATION: 14th St north of Long Ave                                                                                                 QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                             DIRECTION: SB
+                         CITY/STATE: Dade City, FL                                                                                                 DATE: Jul 24 2013 - Jul 25 2013
+                                          Mon          Tue           Wed         Thu       Fri   Average Weekday    Sat   Sun        Average Week            Average Week Profile
+                         Start Time                                24-Jul-13   25-Jul-13           Hourly Traffic                    Hourly Traffic
+                          6:00 PM                                      12          17                   15                                  15
+                          6:15 PM                                      13          13                   13                                  13
+                          6:30 PM                                       8          12                   10                                  10
+                          6:45 PM                                       7          10                    9                                   9
+                          7:00 PM                                      20          16                   18                                  18
+                          7:15 PM                                      16          10                   13                                  13
+                          7:30 PM                                       7           3                    5                                   5
+                          7:45 PM                                       7          12                   10                                  10
+                          8:00 PM                                      13          16                   15                                  15
+                          8:15 PM                                      11           8                   10                                  10
+                          8:30 PM                                      12           6                    9                                   9
+                          8:45 PM                                       8          12                   10                                  10
+                          9:00 PM                                       5          10                    8                                   8
+                          9:15 PM                                      10           8                    9                                   9
+                          9:30 PM                                       9           1                    5                                   5
+                          9:45 PM                                       8           3                    6                                   6
+                         10:00 PM                                       4           6                    5                                   5
+                         10:15 PM                                       5           3                    4                                   4
+
+
+
+
+APPENDIX B - 16 of 25
+                         10:30 PM                                       1           4                    3                                   3
+                         10:45 PM                                       5           7                    6                                   6
+                         11:00 PM                                       1           2                    2                                   2
+                         11:15 PM                                       3           4                    4                                   4
+                         11:30 PM                                       2           3                    3                                   3
+                         11:45 PM                                       2           3                    3                                   3
+                         Day Total                                    667         692                  703                                 703
+                        % Weekday
+                         Average                                    94.9%       98.4%
+                          % Week
+                          Average                                   94.9%       98.4%                100.0%
+                          AM Peak                                  11:45 AM    7:30 AM               7:30 AM                             7:30 AM
+                           Volume                                     16          15                    12                                  12
+                          PM Peak                                  7:00 PM     4:30 PM               7:00 PM                             7:00 PM
+                           Volume                                     20          17                    18                                  18
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Speed Data                                                                                              Page 1 of 9
+                         LOCATION: 14th St north of Long Ave                                                                                    QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                DIRECTION: NB/SB
+                         CITY/STATE: Dade City, FL                                                                                              DATE: Jul 24 2013
+                                      1      16       21     26       31   36   41   46   51   56   61   66   71      76                           Pace       Number
+                         Start Time 15       20       25     30       35   40   45   50   55   60   65   70   75     999                Total      Speed      in Pace
+                          12:00 AM         0        0        0    1    0    2    2    0    0    0    0    0    0        0                   5      36-45            4
+                          12:15 AM         0        0        0    1    1    4    1    1    0    0    0    0    0        0                   8      31-40            5
+                          12:30 AM         0        0        0    1    1    2    0    0    0    0    0    0    0        0                   4      31-40            3
+                          12:45 AM         0        0        0    0    0    1    0    0    0    0    0    0    0        0                   1      31-40            1
+                           1:00 AM         0        0        0    1    0    0    0    0    0    0    0    0    0        0                   1      21-30            1
+                           1:15 AM         0        0        0    0    2    1    0    1    1    1    0    0    0        0                   6      31-40            3
+                           1:30 AM         0        0        0    0    1    1    1    0    0    0    0    0    0        0                   3      36-45            2
+                           1:45 AM         0        0        0    1    1    0    0    0    0    0    0    0    0        0                   2      26-35            2
+                           2:00 AM         0        0        0    0    1    0    0    0    0    0    0    0    0        0                   1      26-35            1
+                           2:15 AM         0        0        0    0    1    0    0    0    0    0    0    0    0        0                   1      26-35            1
+                           2:30 AM         0        0        0    0    0    0    0    0    0    0    0    0    0        0                   0       1-10            0
+                           2:45 AM         0        0        0    0    0    0    0    0    0    0    0    0    0        0                   0       1-10            0
+                           3:00 AM         0        0        0    0    0    0    0    0    0    0    0    0    0        0                   0       1-10            0
+                           3:15 AM         1        0        0    0    1    0    0    1    0    0    0    0    0        0                   3      26-35            1
+                           3:30 AM         0        0        0    0    1    1    0    0    0    0    0    0    0        0                   2      31-40            2
+                           3:45 AM         0        0        0    0    0    1    0    0    0    0    0    0    0        0                   1      31-40            1
+                           4:00 AM         0        0        0    0    1    0    1    0    0    0    0    0    0        0                   2      26-35            1
+                           4:15 AM         0        0        0    0    0    3    0    0    0    0    0    0    0        0                   3      31-40            3
+                           4:30 AM         0        0        0    0    0    0    0    1    0    0    0    0    0        0                   1      41-50            1
+
+
+
+
+APPENDIX B - 17 of 25
+                           4:45 AM         0        0        0    0    0    0    0    0    0    0    0    0    0        0                   0       1-10            0
+                           5:00 AM         0        0        0    2    1    2    0    0    0    0    0    0    0        0                   5      31-40            3
+                           5:15 AM         0        0        0    0    1    3    1    0    0    0    0    0    0        0                   5      31-40            4
+                           5:30 AM         0        0        0    1    3    2    3    0    0    0    0    0    0        0                   9      33-42            5
+                           5:45 AM         0        0        0    1    2    3    2    0    0    0    0    0    0        0                   8      36-45            5
+                          Day Total
+                          Percent
+
+
+
+
+                          AM Peak
+                           Volume
+                          PM Peak
+                           Volume
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Speed Data                                                                                              Page 2 of 9
+                         LOCATION: 14th St north of Long Ave                                                                                    QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                DIRECTION: NB/SB
+                         CITY/STATE: Dade City, FL                                                                                              DATE: Jul 24 2013
+                                      1      16       21     26       31   36   41   46   51   56   61   66   71      76                           Pace       Number
+                         Start Time 15       20       25     30       35   40   45   50   55   60   65   70   75     999                Total      Speed      in Pace
+                            6:00 AM        0        1        0    1    1    4    3    0    0    0    0    0    0        0                  10      37-46            6
+                            6:15 AM        1        0        0    2    2    2    1    0    1    0    0    0    0        0                   9      31-40            4
+                            6:30 AM        0        0        1    2    4    2    2    0    2    0    0    0    0        0                  13      31-40            6
+                            6:45 AM        0        0        0    2    6    9    0    1    1    0    0    0    0        0                  19      31-40           15
+                            7:00 AM        0        0        0    2    2    3    2    0    0    0    0    0    0        0                   9      36-45            5
+                            7:15 AM        0        0        0    2    4    2    3    0    1    0    0    0    0        0                  12      31-40            6
+                            7:30 AM        0        0        0    1    3    4    1    0    0    0    0    0    0        0                   9      31-40            7
+                            7:45 AM        1        0        2    3    8    5    1    1    0    0    0    0    0        0                  21      31-40           13
+                            8:00 AM        3        0        0    1    8    3    5    2    0    0    0    0    0        0                  22      31-40           11
+                            8:15 AM        0        0        0    3    6    3    2    0    0    0    0    0    0        0                  14      27-36            9
+                            8:30 AM        0        0        0    0    7    6    2    0    0    0    0    0    0        0                  15      31-40           12
+                            8:45 AM        0        0        0    4    8    1    3    1    0    0    0    0    0        0                  17      26-35           12
+                            9:00 AM        0        0        1    3    4    3    1    0    0    0    0    0    0        0                  12      28-37            7
+                            9:15 AM        0        0        0    2    3    3    0    0    0    0    0    0    0        0                   8      32-41            5
+                            9:30 AM        1        0        0    5    6    5    2    0    0    0    0    0    0        0                  19      29-38           11
+                            9:45 AM        0        1        3    6    4    4    2    0    0    0    0    0    0        0                  20      26-35           10
+                          10:00 AM         2        0        0    3    2    5    2    0    0    0    0    0    0        0                  14      36-45            7
+                          10:15 AM         1        3        1    3    4    3    2    0    1    0    0    0    0        0                  18      28-37            7
+                          10:30 AM         0        0        1    2    6    1    2    1    0    0    0    0    0        0                  13      26-35            8
+
+
+
+
+APPENDIX B - 18 of 25
+                          10:45 AM         1        0        0    2    5    2    3    0    0    0    0    0    0        0                  13      31-40            7
+                           11:00 AM        0        0        0    2    6    2    1    0    0    0    0    0    0        0                  11      26-35            8
+                           11:15 AM        0        1        1    3    6    1    1    2    0    0    0    0    0        0                  15      28-37            8
+                           11:30 AM        1        1        0    5    4    3    0    0    0    0    0    0    0        0                  14      26-35            9
+                           11:45 AM        0        0        0    7    5    8    1    0    0    0    0    0    0        0                  21      31-40           13
+                          Day Total
+                          Percent
+
+
+
+
+                          AM Peak
+                           Volume
+                          PM Peak
+                           Volume
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Speed Data                                                                                              Page 3 of 9
+                         LOCATION: 14th St north of Long Ave                                                                                    QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                DIRECTION: NB/SB
+                         CITY/STATE: Dade City, FL                                                                                              DATE: Jul 24 2013
+                                      1      16       21     26       31   36   41   46   51   56   61   66   71      76                           Pace       Number
+                         Start Time 15       20       25     30       35   40   45   50   55   60   65   70   75     999                Total      Speed      in Pace
+                          12:00 PM         0        2        1    2    5    6    2    2    0    1    0    0    0        0                  21      32-41           10
+                          12:15 PM         0        0        0    4    4    3    1    0    0    0    0    0    0        0                  12      26-35            8
+                          12:30 PM         0        0        0    2    3    3    3    1    0    0    0    0    0        0                  12      38-47            5
+                          12:45 PM         0        0        0    3    5    2    1    2    0    0    0    0    0        0                  13      26-35            8
+                           1:00 PM         0        0        1    1    9    6    2    2    0    0    0    0    0        0                  21      31-40           14
+                           1:15 PM         0        0        1    1    3    8    2    0    0    0    0    0    0        0                  15      31-40           11
+                           1:30 PM         0        0        0    6    8    7    3    0    0    0    0    0    0        0                  24      31-40           14
+                           1:45 PM         1        0        1    4    4    5    3    2    0    0    0    0    0        0                  20      31-40            9
+                           2:00 PM         0        0        0    5    4    5    5    0    1    0    0    0    0        0                  20      36-45           10
+                           2:15 PM         0        0        1    2    4    7    6    2    0    0    0    0    0        0                  22      36-45           12
+                           2:30 PM         1        0        1    4    9    9    3    0    0    0    0    0    0        0                  27      31-40           18
+                           2:45 PM         0        1        1    8    7    4    4    1    0    0    0    0    0        0                  26      27-36           14
+                           3:00 PM         0        0        0    2    9    9    4    0    0    0    0    0    0        0                  24      31-40           18
+                           3:15 PM         0        1        0    6    9    4    2    1    0    0    0    0    0        0                  23      26-35           15
+                           3:30 PM         0        0        0    2    2   11    3    1    1    0    0    0    0        0                  20      36-45           14
+                           3:45 PM         1        0        1    4    9   13    3    2    0    0    0    0    0        0                  33      31-40           22
+                           4:00 PM         1        0        0    6    8    6    7    2    0    0    0    0    0        0                  30      28-37           14
+                           4:15 PM         0        0        2    3   12   13    6    2    0    0    0    0    0        0                  38      31-40           25
+                           4:30 PM         0        0        0    9   11    6    6    3    0    0    0    0    0        0                  35      26-35           20
+
+
+
+
+APPENDIX B - 19 of 25
+                           4:45 PM         0        1        0    5   11    6    4    4    0    0    0    0    0        0                  31      31-40           17
+                           5:00 PM         0        3        0    4   11   10    7    2    0    0    0    0    0        0                  37      31-40           21
+                           5:15 PM         0        1        0    6   11   11    6    1    0    0    0    0    0        0                  36      31-40           22
+                           5:30 PM         0        0        0    3    9   16   11    4    0    0    0    0    0        0                  43      36-45           27
+                           5:45 PM         0        0        0    3    3    9   10    4    0    0    0    0    0        0                  29      36-45           19
+                          Day Total
+                          Percent
+
+
+
+
+                          AM Peak
+                           Volume
+                          PM Peak
+                           Volume
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Speed Data                                                                                                                         Page 4 of 9
+                         LOCATION: 14th St north of Long Ave                                                                                                                QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                                            DIRECTION: NB/SB
+                         CITY/STATE: Dade City, FL                                                                                                                          DATE: Jul 24 2013
+                                      1      16       21     26           31      36      41      46       51      56      61     66     71      76                            Pace      Number
+                         Start Time 15       20       25     30           35      40      45      50       55      60      65     70     75     999                Total       Speed     in Pace
+                            6:00 PM        1        0        0     4    15    12     7              2       1        0       0      0      0       0                 42        31-40         26
+                            6:15 PM        0        0        1     4     9    11     3              1       1        0       0      0      0       0                 30        31-40         20
+                            6:30 PM        1        1        2     1     8     8     2              0       0        0       0      0      0       0                 23        31-40         16
+                            6:45 PM        0        1        1    10     5    10     2              0       1        0       0      0      0       0                 30        26-35         15
+                            7:00 PM        4        0        2     3    14    10     4              1       0        0       0      0      0       0                 38        31-40         24
+                            7:15 PM        0        0        0     3    10    10     6              3       1        0       0      0      0       0                 33        31-40         20
+                            7:30 PM        0        0        2     5     7     7     5              0       0        0       0      0      0       0                 26        33-42         13
+                            7:45 PM        0        0        0     2     6     2     2              1       0        1       0      0      0       0                 14        26-35          8
+                            8:00 PM        0        1        0     4     7    10     3              0       0        0       0      0      0       0                 25        31-40         17
+                            8:15 PM        0        0        1     1    11     7     3              3       0        0       0      0      0       0                 26        31-40         17
+                            8:30 PM        1        1        0     9    10     8     2              0       0        0       0      0      0       0                 31        26-35         19
+                            8:45 PM        0        0        0     2     4     4     5              3       1        0       0      0      0       0                 19        36-45          9
+                            9:00 PM        0        0        0     1    13     9     4              0       0        0       0      0      0       0                 27        31-40         21
+                            9:15 PM        0        0        1     6     5     7     0              0       0        0       0      0      0       0                 19        31-40         11
+                            9:30 PM        0        0        1     2    10     4     2              1       0        0       0      0      0       0                 20        31-40         14
+                            9:45 PM        0        0        0     3     3     4     3              0       0        0       0      0      0       0                 13        33-42          7
+                          10:00 PM         0        0        0     3     2     2     1              0       0        0       0      0      0       0                  8        26-35          5
+                          10:15 PM         0        0        0     1     5     4     0              0       0        0       0      0      0       0                 10        31-40          9
+                          10:30 PM         0        0        0     1     1     2     0              0       0        0       0      0      0       0                  4        31-40          3
+
+
+
+
+APPENDIX B - 20 of 25
+                          10:45 PM         0        0        0     0     5     5     1              0       0        0       0      0      0       0                 11        31-40         10
+                           11:00 PM        0        0        0     2     2     2     1              0       0        0       0      0      0       0                  7        31-40          4
+                           11:15 PM        0        0        1     0     4     2     0              0       0        0       0      0      0       0                  7        31-40          6
+                           11:30 PM        0        0        0     1     3     1     0              0       0        0       0      0      0       0                  5        26-35          4
+                           11:45 PM        0        0        0     0     1     2     2              0       0        0       0      0      0       0                  5        36-45          4
+                          Day Total       23       20       32   238   462   432   215             65      14        3       0      0      0       0               1504        31-40        894
+                          Percent        1.5%     1.3%     2.1% 15.8% 30.7% 28.7% 14.3%           4.3%    0.9%     0.2%    0.0%   0.0%   0.0%    0.0%
+
+
+                            ADT
+                            1504
+
+
+                          AM Peak      8:00 AM 10:15 AM 9:45 AM 11:45 AM 7:45 AM 6:45 AM 8:00 AM 8:00 AM 6:30 AM 1:15 AM                                          8:00 AM
+                           Volume         3        3        3     7       8        9       5       2       2        1                                               22
+                          PM Peak      7:00 PM 5:00 PM 4:15 PM 6:45 PM 6:00 PM 5:30 PM 5:30 PM 4:45 PM 2:00 PM 12:00 PM                                           5:30 PM
+                           Volume         4        3        2     10      15      16      11       4       1        1                                               43
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Speed Data                                                                                              Page 5 of 9
+                         LOCATION: 14th St north of Long Ave                                                                                    QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                DIRECTION: NB/SB
+                         CITY/STATE: Dade City, FL                                                                                              DATE: Jul 25 2013
+                                      1      16       21     26       31   36   41   46   51   56   61   66   71      76                           Pace       Number
+                         Start Time 15       20       25     30       35   40   45   50   55   60   65   70   75     999                Total      Speed      in Pace
+                          12:00 AM         0        0        0    0    0    1    1    0    0    0    0    0    0        0                   2      36-45            2
+                          12:15 AM         0        0        0    0    0    1    0    0    0    0    0    0    0        0                   1      31-40            1
+                          12:30 AM         0        0        0    0    1    3    1    0    1    0    0    0    0        0                   6      31-40            4
+                          12:45 AM         0        0        0    0    1    0    1    0    0    0    0    0    0        0                   2      26-35            1
+                           1:00 AM         0        0        0    1    1    0    0    0    0    0    0    0    0        0                   2      26-35            2
+                           1:15 AM         0        0        0    0    1    0    1    0    0    0    0    0    0        0                   2      26-35            1
+                           1:30 AM         0        0        0    0    0    1    1    1    0    0    0    0    0        0                   3      41-50            2
+                           1:45 AM         0        0        0    0    0    2    1    0    0    0    0    0    0        0                   3      36-45            3
+                           2:00 AM         0        1        0    0    1    1    0    1    0    0    0    0    0        0                   4      31-40            2
+                           2:15 AM         0        0        0    0    0    0    0    0    0    0    0    0    0        0                   0       1-10            0
+                           2:30 AM         0        0        0    0    0    0    1    0    0    0    0    0    0        0                   1      36-45            1
+                           2:45 AM         0        0        0    0    1    0    0    0    0    0    0    0    0        0                   1      26-35            1
+                           3:00 AM         0        0        0    0    0    0    0    0    0    0    0    0    0        0                   0       1-10            0
+                           3:15 AM         1        0        0    1    0    0    0    0    0    0    0    0    0        0                   2      21-30            1
+                           3:30 AM         0        0        0    0    1    0    0    0    0    0    0    0    0        0                   1      26-35            1
+                           3:45 AM         0        0        0    0    0    2    0    0    0    0    0    0    0        0                   2      31-40            2
+                           4:00 AM         0        0        0    0    0    1    0    0    0    0    0    0    0        0                   1      31-40            1
+                           4:15 AM         0        0        0    0    1    0    1    0    0    0    0    0    0        0                   2      26-35            1
+                           4:30 AM         0        0        0    0    0    0    1    0    0    0    0    0    0        0                   1      36-45            1
+
+
+
+
+APPENDIX B - 21 of 25
+                           4:45 AM         0        0        0    0    0    0    1    0    0    0    0    0    0        0                   1      36-45            1
+                           5:00 AM         0        0        0    1    1    3    0    0    1    0    0    0    0        0                   6      31-40            4
+                           5:15 AM         0        0        0    1    4    5    1    0    0    0    0    0    0        0                  11      31-40            9
+                           5:30 AM         1        0        1    2    8    4    2    1    0    0    0    0    0        0                  19      31-40           12
+                           5:45 AM         1        0        0    0    2    5    3    0    1    0    0    0    0        0                  12      36-45            7
+                          Day Total
+                          Percent
+
+
+
+
+                          AM Peak
+                           Volume
+                          PM Peak
+                           Volume
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Speed Data                                                                                              Page 6 of 9
+                         LOCATION: 14th St north of Long Ave                                                                                    QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                DIRECTION: NB/SB
+                         CITY/STATE: Dade City, FL                                                                                              DATE: Jul 25 2013
+                                      1      16       21     26       31   36   41   46   51   56   61   66   71      76                           Pace       Number
+                         Start Time 15       20       25     30       35   40   45   50   55   60   65   70   75     999                Total      Speed      in Pace
+                            6:00 AM        0        0        0    5    5    2    2    0    0    0    0    0    0        0                  14      26-35           10
+                            6:15 AM        1        0        0    3    1    0    1    0    0    0    0    0    0        0                   6      26-35            4
+                            6:30 AM        0        0        2    4    1    2    1    0    0    0    0    0    0        0                  10      21-30            6
+                            6:45 AM        0        0        1    2    6    1    0    0    0    0    0    0    0        0                  10      26-35            8
+                            7:00 AM        0        0        2    2    4    2    3    1    0    0    0    0    0        0                  14      31-40            6
+                            7:15 AM        0        0        0    1    5    3    1    1    0    0    0    0    0        0                  11      32-41            7
+                            7:30 AM        0        0        1    3   12    6    0    0    1    0    0    0    0        0                  23      31-40           18
+                            7:45 AM        0        0        1    0    3    7    1    1    0    0    0    0    0        0                  13      31-40           10
+                            8:00 AM        1        0        0    3    2    8    3    0    0    0    0    0    0        0                  17      36-45           11
+                            8:15 AM        0        0        1    1    8    3    1    0    1    0    0    0    0        0                  15      31-40           11
+                            8:30 AM        0        0        2    1    5    3    3    0    1    0    0    0    0        0                  15      33-42            7
+                            8:45 AM        0        0        1    2    4    3    3    0    0    0    0    0    0        0                  13      35-44            6
+                            9:00 AM        2        0        4    3    5    2    3    0    0    0    0    0    0        0                  19      26-35            8
+                            9:15 AM        0        2        0    2    4    4    2    0    0    0    0    0    0        0                  14      31-40            8
+                            9:30 AM        0        0        0    1    3    5    1    0    0    0    0    0    0        0                  10      31-40            8
+                            9:45 AM        0        0        1    3    8    5    5    0    0    0    0    0    0        0                  22      31-40           13
+                          10:00 AM         1        0        0    4    7    3    1    0    0    0    0    0    0        0                  16      31-40           10
+                          10:15 AM         0        0        0    2    3    6    2    1    0    0    0    0    0        0                  14      35-44            8
+                          10:30 AM         1        0        0    2    6    6    2    1    1    1    0    0    0        0                  20      32-41           11
+
+
+
+
+APPENDIX B - 22 of 25
+                          10:45 AM         1        1        0    2    8    4    1    0    0    0    0    0    0        0                  17      31-40           12
+                           11:00 AM        0        0        0    2    6    3    4    2    0    0    0    0    0        0                  17      31-40            9
+                           11:15 AM        1        0        1    4    8   10    2    0    0    0    0    0    0        0                  26      31-40           18
+                           11:30 AM        1        0        1    6    5    7    2    0    0    0    0    0    0        0                  22      32-41           11
+                           11:45 AM        0        0        1    3    3    2    2    0    0    0    0    0    0        0                  11      31-40            5
+                          Day Total
+                          Percent
+
+
+
+
+                          AM Peak
+                           Volume
+                          PM Peak
+                           Volume
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Speed Data                                                                                              Page 7 of 9
+                         LOCATION: 14th St north of Long Ave                                                                                    QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                DIRECTION: NB/SB
+                         CITY/STATE: Dade City, FL                                                                                              DATE: Jul 25 2013
+                                      1      16       21     26       31   36   41   46   51   56   61   66   71      76                           Pace       Number
+                         Start Time 15       20       25     30       35   40   45   50   55   60   65   70   75     999                Total      Speed      in Pace
+                          12:00 PM         0        1        0    5    8    8    3    1    0    0    0    0    0        0                  26      31-40           16
+                          12:15 PM         0        1        1    4    8    4    3    0    1    1    0    0    0        0                  23      31-40           12
+                          12:30 PM         0        0        0    4    7    5    1    1    0    0    0    0    0        0                  18      31-40           12
+                          12:45 PM         0        0        1    0    2    3    0    0    2    0    0    0    0        0                   8      33-42            4
+                           1:00 PM         1        0        1    5   10    4    9    0    0    0    0    0    0        0                  30      26-35           15
+                           1:15 PM         1        0        2    1    9    6    3    0    0    0    0    0    0        0                  22      31-40           14
+                           1:30 PM         0        0        0    1    7    0    3    0    1    0    0    0    0        0                  12      26-35            8
+                           1:45 PM         0        1        1    5   12    5    1    1    1    0    0    0    0        0                  27      26-35           17
+                           2:00 PM         0        1        1    5    8    7    2    1    0    0    0    0    0        0                  25      31-40           14
+                           2:15 PM         0        0        0    4    7    5    3    1    0    0    0    0    0        0                  20      31-40           12
+                           2:30 PM         0        0        0    2   11    4    5    2    0    0    0    0    0        0                  24      31-40           15
+                           2:45 PM         1        1        0    4    3    5    2    0    1    0    0    0    0        0                  17      31-40            8
+                           3:00 PM         0        2        0    1    3    9    5    1    0    0    0    0    0        0                  21      36-45           14
+                           3:15 PM         3        2        3    5    8    3    4    1    0    0    0    0    0        0                  29      26-35           13
+                           3:30 PM         0        0        0    5   12    7    4    2    0    0    0    0    0        0                  30      31-40           18
+                           3:45 PM         4        0        3    7    4   13    1    0    0    0    0    0    0        0                  32      31-40           17
+                           4:00 PM         0        1        3    3   12    4    3    0    1    0    0    0    0        0                  27      31-40           16
+                           4:15 PM         3        0        1    5    7    5    1    1    0    0    0    0    0        0                  23      28-37           12
+                           4:30 PM         1        0        1    4    9    5    9    2    0    0    0    0    0        0                  31      36-45           14
+
+
+
+
+APPENDIX B - 23 of 25
+                           4:45 PM         0        0        0    1   13   13    3    2    0    0    0    0    0        0                  32      31-40           26
+                           5:00 PM         2        0        0    5   14    7    6    0    0    0    0    0    0        0                  34      31-40           20
+                           5:15 PM         0        0        1    1   18   13    5    1    0    0    0    0    0        0                  39      31-40           31
+                           5:30 PM         0        1        0    2   11    9    4    1    0    0    0    0    0        0                  28      31-40           19
+                           5:45 PM         0        0        0    3   12   13    1    1    0    0    0    0    0        0                  30      31-40           25
+                          Day Total
+                          Percent
+
+
+
+
+                          AM Peak
+                           Volume
+                          PM Peak
+                           Volume
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                        Type of report: Tube Count - Speed Data                                                                                                                            Page 8 of 9
+                         LOCATION: 14th St north of Long Ave                                                                                                                   QC JOB #: 11201604
+                         SPECIFIC LOCATION: 500 ft from Long Ave                                                                                                               DIRECTION: NB/SB
+                         CITY/STATE: Dade City, FL                                                                                                                             DATE: Jul 25 2013
+                                      1      16       21     26            31      36       41      46       51      56       61     66     71      76                            Pace      Number
+                         Start Time 15       20       25     30            35      40       45      50       55      60       65     70     75     999                Total       Speed     in Pace
+                            6:00 PM        1        1        1     2     9     7     5                4       1        1        0      0      0       0                 32        32-41         15
+                            6:15 PM        2        0        1     3    12    10     9                1       1        0        0      0      0       0                 39        31-40         22
+                            6:30 PM        0        0        0     3    10    10     3                2       0        0        0      0      0       0                 28        31-40         20
+                            6:45 PM        0        0        1     3     7    10     5                0       0        0        0      0      0       0                 26        31-40         17
+                            7:00 PM        0        0        0     4    13    11     6                0       0        0        0      0      0       0                 34        31-40         24
+                            7:15 PM        0        0        0     7    12     4     3                3       0        0        0      0      0       0                 29        27-36         18
+                            7:30 PM        0        0        0     2     3     3     1                2       0        0        0      0      0       0                 11        33-42          5
+                            7:45 PM        1        3        1     0     9     8     3                3       1        0        0      0      0       0                 29        31-40         17
+                            8:00 PM        1        0        2     3    12     6     5                4       0        0        0      0      0       0                 33        31-40         18
+                            8:15 PM        0        0        0     1     3     5     8                2       0        0        0      0      0       0                 19        36-45         13
+                            8:30 PM        0        0        0     3     7     6     3                2       0        0        0      0      0       0                 21        32-41         12
+                            8:45 PM        2        0        1     2    13     9     2                0       0        0        0      0      0       0                 29        31-40         21
+                            9:00 PM        1        0        0     5     9     4     1                0       0        0        0      0      0       0                 20        26-35         14
+                            9:15 PM        1        0        0     5     8     5     1                1       0        0        0      0      0       0                 21        27-36         13
+                            9:30 PM        0        0        0     1     2     4     2                0       0        0        0      0      0       0                  9        36-45          6
+                            9:45 PM        1        0        0     2     3     7     0                0       0        0        0      0      0       0                 13        31-40         10
+                          10:00 PM         0        0        0     2    10     3     0                0       0        0        0      0      0       0                 15        31-40         13
+                          10:15 PM         0        0        1     2     5     1     0                0       0        0        0      0      0       0                  9        26-35          7
+                          10:30 PM         2        0        0     0     5     4     1                0       0        0        0      0      0       0                 12        31-40          9
+
+
+
+
+APPENDIX B - 24 of 25
+                          10:45 PM         0        0        0     3     6     6     2                0       0        0        0      0      0       0                 17        32-41         11
+                           11:00 PM        0        0        0     1     2     1     2                0       0        0        0      0      0       0                  6        36-45          3
+                           11:15 PM        0        0        0     2     0     2     1                1       0        0        0      0      0       0                  6        36-45          3
+                           11:30 PM        0        0        0     0     4     2     1                1       0        0        0      0      0       0                  8        31-40          6
+                           11:45 PM        0        0        0     2     1     1     1                0       0        0        0      0      0       0                  5        26-35          3
+                          Day Total       40       19       47   207   525   412   208               55      17        3        0      0      0       0               1533        31-40        937
+                          Percent        2.6%     1.2%     3.1% 13.5% 34.2% 26.9% 13.6%             3.6%    1.1%     0.2%     0.0%   0.0%   0.0%    0.0%
+
+
+                            ADT
+                            1533
+
+
+                          AM Peak      9:00 AM 9:15 AM 9:00 AM 11:30 AM 7:30 AM 11:15 AM 9:45 AM 11:00 AM 12:30 AM 10:30 AM                                          11:15 AM
+                           Volume         2        2        4      6       12      10       5        2       1        1                                                26
+                          PM Peak      3:45 PM 7:45 PM 3:15 PM 3:45 PM 5:15 PM 3:45 PM 1:00 PM 6:00 PM 12:45 PM 12:15 PM                                             5:15 PM
+                           Volume         4        3        3      7       18      13       9        4       2        1                                                39
+                         Comments:
+
+                        Report generated on 7/30/2013 3:38 PM                                                                                SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)

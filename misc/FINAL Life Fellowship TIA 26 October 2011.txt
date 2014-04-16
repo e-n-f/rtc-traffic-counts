@@ -1,0 +1,2049 @@
+Traffic Impact Study
+
+
+
+
+Life Fellowship Church
+Cornelius, NC
+
+
+
+
+Prepared for:
+Life Fellowship Church
+ Kimley-Horn and Associates, Inc., 2011
+                                      TABLE OF CONTENTS
+                                                                         Page No.
+1.0       EXECUTIVE SUMMARY                                                    1 
+2.0       INTRODUCTION                                                         3 
+3.0       INVENTORY                                                            4 
+       3.1    STUDY AREA                                                       4 
+       3.2    EXISTING CONDITIONS                                              4 
+4.0       TRAFFIC GENERATION                                                   8 
+5.0       SITE TRAFFIC DISTRIBUTION                                            9 
+6.0       TRAFFIC VOLUMES                                                     11 
+       6.1    2011 EXISTING TRAFFIC                                           11 
+       6.2    HISTORICAL GROWTH TRAFFIC                                       11 
+       6.3    2018 BACKGROUND TRAFFIC                                         12 
+       6.4    SITE TRAFFIC                                                    12 
+       6.5    2018 BUILD-OUT TRAFFIC                                          12 
+7.0       CAPACITY ANALYSIS                                                   16 
+       7.1    WEST CATAWBA AVENUE AT LIVERPOOL PARKWAY/TORRENCE CHAPEL ROAD   19 
+       7.2    LIVERPOOL PARKWAY AT CHARTWELL CENTER DRIVE                     21 
+       7.3    UNSIGNALIZED SITE ACCESS POINTS                                 22 
+8.0       RECOMMENDATIONS                                                     23 
+
+
+
+
+                                                                               i
+                                        LIST OF FIGURES
+Figure No.      Title                                                                  Page No.
+Figure 3.1 ­ Location Map                                                                  5 
+
+Figure 3.2 ­ Site Plan                                                                     6 
+
+Figure 3.3 ­ Existing Roadway Laneage                                                      7 
+
+Figure 5.1 ­Site Traffic Distribution                                                     10 
+
+Figure 6.1 ­ 2011 Existing Peak Hour Traffic Volumes                                      13 
+
+Figure 6.2 ­ 2018 Background Peak Hour Traffic Volumes                                    14 
+
+Figure 6.3 ­ 2018 Build-out Peak Hour Traffic Volumes                                     15 
+
+
+                                        LIST OF TABLES
+
+Table No.       Title                                                                  Page No.
+Table 4.0 - Trip Generation                                                                8 
+
+Table 6.0 - Trip Generation for Existing Collision Center                                 11 
+
+Table 7.0-A Level-of-Service Control Delay Thresholds for Signalized Intersections        17 
+
+Table 7.0-B Level-of-Service Control Delay Thresholds for Unsignalized Intersections      17 
+
+Table 7.1 ­ West Catawba Avenue at Liverpool Parkway/Torrence Chapel Road                 19 
+
+Table 7.2 ­ Liverpool Parkway at Chartwell Center Drive                                   21 
+
+Table 7.3 - Unsignalized Site Access Points                                               22 
+
+
+
+
+                                                                                                ii
+1.0      Executive Summary
+
+The purpose of the traffic impact analysis is to review vehicular traffic impacts as a result of the
+proposed Life Fellowship Church development. The objectives of this study are:
+
+         To estimate trip generation and distribution for the proposed development and future
+         approved developments.
+         To perform intersection capacity analyses for the identified study area.
+         To determine the potential traffic impacts of the proposed development.
+         To develop recommendations for needed roadway and operational improvements to
+         accommodate the proposed development's traffic impacts.
+
+The proposed Life Fellowship Church development is located in Cornelius, North Carolina west
+of the I-77 Service Road and south of Chartwell Center Drive. As currently envisioned, the
+proposed development will ultimately consist of the following land uses and intensities:
+
+         1,000 seat church
+         200 student daycare
+
+It should be noted that Life Fellowship Church has stated that the development will be built out in
+phases. However, due to the variable development plans of a church and the relatively low trip
+generation, this study analyzes the planned build of the church consisting of 43,000 sf by 2018
+and the possible full build-out of the church consisting of 100,000 sf by 2018. The full build-out
+analysis (100,000 sf) can be found in the Appendix. The proposed development will be accessed
+via two proposed full-movement driveways along I-77 Service Road. Access to the site does not
+change between planned and full build-out by 2018
+
+This report summarizes the analyses of 2011 existing conditions, 2018 background conditions
+(without the proposed development), and 2018 build-out conditions during the AM and PM peak
+hours at the following existing intersections:
+
+         W. Catawba Avenue at Liverpool Parkway/Torrence Chapel Road
+         Liverpool Parkway at Chartwell Center Drive
+
+This report summarizes the analyses of 2018 build-out conditions during the AM and PM peak
+hours at the following proposed intersections:
+
+         I-77 Service Road at Site Drive 1
+         I-77 Service Road at Site Drive 2
+
+
+Life Fellowship Church                                                               Executive Summary
+Traffic Impact Analysis
+                                                                                                       1
+Throughout this study Site Drive 1 is assumed to be the northern driveway, while Site Drive 2 is
+assumed to be the southern driveway.
+
+Kimley-Horn and Associates, Inc. was retained to determine the potential traffic impacts of this
+development in accordance with the traffic study guidelines in the NCDOT Policy on Street and
+Driveway Access to North Carolina Highways and the transportation improvements that may be
+required to accommodate these impacts. This report presents trip generation, distribution,
+capacity analyses, and recommendations for transportation improvements required to meet
+anticipated traffic demands.
+
+Based on the capacity analyses conducted, there are no transportation improvements
+recommended at the study intersections.
+
+
+
+
+Life Fellowship Church                                                           Executive Summary
+Traffic Impact Analysis
+                                                                                                   2
+2.0      Introduction
+
+The proposed Life Fellowship Church development is located in Cornelius, North Carolina west
+of the I-77 Service Road and south of Chartwell Center Drive. As currently envisioned, the
+proposed development will ultimately consist of the following land uses and intensities:
+
+         1,000 seat church
+         200 student daycare
+
+It should be noted that Life Fellowship Church has stated that the development will be built out in
+phases. However, due to the variable development plans of a church and the relatively low trip
+generation, this study analyzes the planned build of the church consisting of 43,000 sf by 2018
+and the possible full build-out of the church consisting of 100,000 sf by 2018. The full build-out
+analysis (100,000 sf) can be found in the Appendix. The proposed development will be accessed
+via two proposed full-movement driveways along I-77 Service Road. Access to the site does not
+change between planned and full build-out by 2018
+
+Kimley-Horn and Associates, Inc. was retained to determine the potential traffic impacts of this
+development in accordance with the traffic study guidelines in the NCDOT Policy on Street and
+Driveway Access to North Carolina Highways and the transportation improvements that may be
+required to accommodate these impacts. This report presents trip generation, distribution, traffic
+analyses, and recommendations for transportation improvements required to meet anticipated
+traffic demands. This report examines the 2018 background traffic conditions and 2018 projected
+build-out traffic conditions.
+
+The North Carolina Department of Transportation (NCDOT) and the Town of Cornelius were
+contacted to obtain background information and to ascertain the elements to be covered in this
+traffic impact study (TIS).
+
+
+
+
+Life Fellowship Church                                                                  Introduction
+Traffic Impact Analysis
+                                                                                                  3
+3.0      Inventory
+
+3.1      Study Area
+The study area for this TIA includes the following intersections:
+
+         W. Catawba Avenue at Liverpool Parkway/Torrence Chapel Road
+         Liverpool Parkway at Chartwell Center Drive
+         I-77 Service Road at Site Drive 1
+         I-77 Service Road at Site Drive 2
+
+This study area was determined based on discussions with NCDOT and Town of Cornelius staff.
+Figure 3.1 shows the site location and Figure 3.2 shows the proposed site plan for the project.
+
+3.2      Existing Conditions
+The proposed Life Fellowship Church development is located in Cornelius, North Carolina west
+of the I-77 Service Road and south of Chartwell Center Drive. The major roadways in the project
+vicinity are West Catawba Avenue, Torrence Chapel Road, Liverpool Parkway and Chartwell
+Center Drive. Existing roadway geometry is depicted on Figure 3.3.
+
+West Catawba Avenue is a four-lane divided major thoroughfare in the vicinity of the site with an
+estimated 2010 ADT of 22,000 vehicles per day west of Liverpool Parkway a posted speed limit
+of 35 miles per hour (mph) in the vicinity of the site.
+
+Torrence Chapel Road is a two-lane collector roadway that extends to Lake Norman and serves
+residential and local retail. Torrence Chapel Road carries an estimated 2010 ADT of 6,800
+vehicles per day with a posted speed limit of 35 mph in the vicinity of the site.
+
+Liverpool Parkway is a two-lane divided roadway that serves local businesses and extends to the
+south to serve a neighborhood with multiple outlets to West Catawba Avenue. Liverpool
+Parkway has a posted speed limit of 35 mph in the vicinity of the site.
+
+Chartwell Center Drive is an unstriped two-lane local street that is approximately 1,000 feet in
+length and serves two automobile dealerships.
+
+
+
+
+Life Fellowship Church                                                                     Inventory
+Traffic Impact Analysis
+                                                                                                   4
+                Project
+                 Site
+
+
+
+
+Life Fellowship Church                    Figure
+                          Site Location     3.1
+Traffic Impact Analysis
+Life Fellowship Church                Figure
+                          Site Plan     3.2
+Traffic Impact Analysis
+ Chapel Rd
+ Torrence
+                                                                                  NOT TO
+                                                                                  SCALE
+
+
+
+
+                                       W Catawba Ave
+Liverpool Pkwy
+
+
+
+
+                    YIELD
+
+
+
+                                      Chartwell Center Dr
+
+
+
+
+                                                              LEGEND
+
+                                                     Existing Roadway Laneage
+                                                     Existing Traffic Signal
+                                                     Channelized Right Turn
+
+
+
+
+                 Life Fellowship Church           Existing Roadway              Figure
+                 Traffic Impact Analysis               Laneage                    3.3
+              4.0        Traffic Generation
+
+              The traffic generation potential of the proposed development was determined using the trip
+              generation rates published in Trip Generation (Institute of Transportation Engineers, Eighth
+              Edition, 2008) for all land uses. Given the variable development patterns of a church, both the
+              planned 43,000 sf build and the full build-out of 100,000 sf have been analyzed. The proposed
+              development will consist of the following land uses and intensities upon planned build in 2018:
+
+                         43,000 square foot church
+                         200 student daycare
+
+              Table 4.0 summarizes the estimated traffic generation for the planned 2018 build of the church at
+              43,000 sf and a 200 student preschool. As shown, the proposed development has the potential to
+              generate 175 and 158 net new external trips during the AM and PM peak hours, respectively,
+              during a typical weekday at total project build-out.
+
+                                           Table 4.0 - Trip Generation - PLANNED BUILD-OUT
+                                                                                                  AM Peak Hour                          PM Peak Hour
+                            Land Use                          Intensity         Daily
+                                                                                         Total             In     Out        Total              In          Out
+
+   Day Care Center                                                   200 ST      904      151              80         71      138               65          73
+
+   Church                                                          43,000 SF     392       24              15         9          20             10          10
+
+
+Net New External Trips                                                          1,296     175          95          80         158               75          83
+
+
+              Table 4.0 - Trip Generation
+              Table 4.1 summarizes the estimated traffic generation for the potential full build-out of the church
+              at 100,000 sf and a 200 student preschool by 2018. As shown, the proposed development has the
+              potential to generate 207 and 177 net new external trips during the AM and PM peak hours,
+              respectively, during a typical weekday at total project build-out.
+
+                                            Table 4.1 - Trip Generation - FULL BUILD-OUT
+                                                                                                 AM Peak Hour                         PM Peak Hour
+                            Land Use                         Intensity         Daily
+                                                                                        Total         In         Out       Total           In          Out
+
+   Day Care Center                                                  200 ST      904     151           80         71        138            65           73
+   Church                                                       100,000 SF      911      56           35         21         39             19          20
+
+
+Net New External Trips                                                         1,815    207          115         92        177             84          93
+
+
+
+
+              Copies of the trip generation calculations can be found in the Appendix for both the planned and
+              full build-out scenarios for the 2018 horizon year.
+
+
+
+
+              Life Fellowship Church                                                                                                  Traffic Generation
+              Traffic Impact Analysis
+                                                                                                                                                                  8
+5.0      Site Traffic Distribution
+
+The proposed development's trips were assigned to the surrounding roadway network. The
+directional distribution and assignment was based on existing peak hour turning movements,
+existing land uses, and population densities in the area:
+
+      35% to/from the east on West Catawba Avenue
+      25% to/from the west on West Catawba Avenue
+      20% to/from the north on Torrence Chapel Road
+      20% to/from the south on Liverpool Pkwy
+
+The site traffic distribution is shown in Figure 5.1.
+
+
+
+
+Life Fellowship Church                                                      Site Traffic Distribution
+Traffic Impact Analysis
+                                                                                                   9
+                                         20%
+
+                                               35%
+
+                                 25%
+
+
+
+
+                                  20%
+
+
+
+
+                                           Project
+                                            Site
+
+
+
+
+            LEGEND
+
+
+XX%   Traffic Distribution
+
+
+      Study Intersection
+
+
+
+
+                             Life Fellowship Church   Site Traffic   Figure
+                              Traffic Impact Study    Distribution     5.1
+           6.0            Traffic Volumes
+
+           6.1            2011 Existing Traffic
+           Peak-hour intersection turning-movement and heavy vehicle counts were performed by Quality
+           Counts, LLC from 6:30 AM to 8:30 AM and from 4:30 PM to 6:30 PM on Wednesday, October
+           12, 2011, at the following intersections:
+
+                          W. Catawba Avenue at Liverpool Parkway/Torrence Chapel Road
+                          Liverpool Parkway at Chartwell Center Drive
+
+           To develop existing traffic volumes along I-77 Service Road, which the Life Fellowship Church
+           is proposed to access, trips were generated for a 45,300 square-foot autobody collision center and
+           distributed northbound and southbound past the future site appropriately. South of the site, I-77
+           Service Road ends into a cul-de-sac and only serves an existing Wilburn Autobody Collision
+           Center. The traffic to and from this facility would be the only traffic to bypass the church site.
+           Table 6.0 summarizes the estimated traffic generation for the existing collision center.
+           Table 6.0 - Trip Generation for Existing Collision Center
+                                                                 Table 6.0 - Trip Generation for Existing Collision Center
+                                                                                                                                AM Peak Hour                   PM Peak Hour
+                                     Land Use                                          Intensity           Daily
+                                                                                                                        Total            In      Out   Total        In        Out
+
+   Wilburn Autobody Collision Center (Existing)                                             45,300 SF        -           133             86       47   136         68         68
+
+
+Net New External Trips                                                                                       -          133              86       47   136          68        68
+
+
+Note: Trip generation was calculated using the following data:
+AM Peak-Hour Traffic Generation
+
+   Wilburn Autobody Collision Center (Existing)                                      [ITE 942]     =    T = 2.94(X); (65% in, 35% out)
+
+PM Peak-Hour Traffic Generation
+   Wilburn Autobody Collision Center (Existing)                                      [ITE 942]     =    Ln(T) = 0.94 Ln(X) +1.33; (50% in, 50% out)
+
+
+
+
+           The turning-movement count data are included in the Appendix. Figure 6.1 shows the 2011
+           existing AM and PM peak-hour traffic volumes.
+
+           6.2            Historical Growth Traffic
+           Historical growth traffic is the increase in existing traffic volumes due to usage increases and
+           non-specific growth throughout the area. Based on direction from NCDOT, an annual growth
+           rate of 2.0 percent was applied to the existing traffic for seven years to calculate base 2018
+           background traffic volumes. The existing traffic along I-77 Service Road generated from the
+           collision center was not grown.
+
+
+
+           Life Fellowship Church                                                                                                                       Traffic Volumes
+           Traffic Impact Analysis
+                                                                                                                                                                         11
+6.3      2018 Background Traffic
+The 2018 background traffic volumes include existing and historical growth traffic. The 2018
+AM and PM peak-hour background traffic volumes are shown in Figure 6.2.
+
+6.4      Site Traffic
+The proposed site traffic was generated, distributed, and assigned to the adjacent roadway
+network as discussed previously in Sections 4.0 and 5.0.
+
+6.5      2018 Build-out Traffic
+Total 2018 build-out traffic volumes include the 2018 background traffic and the proposed site
+traffic. The 2018 AM and PM peak-hour build traffic volumes for a 43,000 sf church are shown
+in Figure 6.3. 2018 AM and PM peak-hour build-out volumes for a 100,000 sf church can be
+found in the Appendix.
+
+
+
+
+Life Fellowship Church                                                            Traffic Volumes
+Traffic Impact Analysis
+                                                                                              12
+                                Chapel Rd
+                                Torrence
+OVERALL
+                                                                                                                                NOT TO
+
+
+
+                   324 (373)
+AM: LOS C (32.5)
+                                                                                                                                SCALE
+                   40 (59)
+                   38 (38)
+PM: LOS D (45.0)
+                                                            160 (372)
+                                                            879(1091)
+                                                            241 (302)
+                                                                                  W Catawba Ave
+
+             (97) 53
+           (889) 771
+                                                   (59) 12
+                                                   (55) 28
+                                                 (365) 162
+             (78) 28
+                               Liverpool Pkwy
+
+
+
+
+                                                              WESTBOUND
+                                                              AM: LOS B (11.2)
+                    146 (115)
+                    95 (184)
+
+
+
+
+                                                              PM: LOS B (13.7)
+                    2 (19)
+
+
+
+
+                                                       31 (187)
+                                                       0 (0)
+                                                       13 (63)                   Chartwell Center Dr
+               (15) 5
+                (1) 0
+                                                   (11) 3
+                                                (210) 144
+                                                  (53) 36
+
+
+
+
+                (4) 1
+
+
+
+
+                                                                                                             LEGEND
+
+                                                                                                    Existing Roadway Laneage
+                                                                                                    Existing Traffic Signal
+                                                                                              XX    AM Peak Hour Traffic Volumes
+                                                                                             (XX)   PM Peak Hour Traffic Volumes
+
+
+
+                                                                                                2011 Existing
+                                                Life Fellowship Church                                                        Figure
+                                                                                                 Peak-Hour
+                                                Traffic Impact Analysis                                                         6.1
+                                                                                               Traffic Volumes
+                                Chapel Rd
+                                Torrence
+OVERALL
+                                                                                                                                  NOT TO
+
+
+
+                   372 (428)
+AM: LOS D (38.4)
+                                                                                                                                  SCALE
+                   46 (68)
+                   44 (44)
+PM: LOS E (64.3)
+                                                            184 (427)
+                                                            1010(1253)
+                                                            277 (347)
+                                                                                    W Catawba Ave
+
+            (111) 61
+          (1021) 886
+                                                   (68) 14
+                                                   (63) 32
+                                                 (419) 186
+             (90) 32
+                               Liverpool Pkwy
+
+
+
+
+                                                                WESTBOUND
+                                                                AM: LOS B (11.9)
+                    109 (211)
+                    168 (132)
+
+
+
+
+                                                                PM: LOS C (15.8)
+                    2 (22)
+
+
+
+
+                                                       36 (215)
+                                                       0 (0)
+                                                       15 (72)                     Chartwell Center Dr
+               (17) 6
+                (1) 0
+                                                   (13) 3
+                                                (241) 165
+                                                  (61) 41
+
+
+
+
+                (5) 1
+
+
+
+
+                                                                                                               LEGEND
+
+                                                                                                      Existing Roadway Laneage
+                                                                                                      Existing Traffic Signal
+                                                                                                XX    AM Peak Hour Traffic Volumes
+                                                                                               (XX)   PM Peak Hour Traffic Volumes
+
+
+
+                                                                                                2018 Background
+                                                Life Fellowship Church                                                          Figure
+                                                                                                   Peak-Hour
+                                                Traffic Impact Analysis                                                           6.2
+                                                                                                 Traffic Volumes
+                                 Chapel Rd
+                                 Torrence
+OVERALL
+                                                                                                                                                NOT TO
+
+
+
+                    372 (428)
+AM: LOS D (45.1)
+                                                                                                                                                SCALE
+                    46 (68)
+                    63 (59)
+PM: LOS E (68.1)
+                                                         184 (427)
+                                                         1010(1253)
+                                                         310(373)
+                                                                             W Catawba Ave
+
+            (111) 61
+          (1021) 886
+                                                (89) 34
+                                                (80) 48
+                                              (448) 214
+            (109) 56
+
+
+
+
+                                                          WESTBOUND
+
+
+
+
+                                                                                                                 I-77 Service Rd
+                                                          AM: LOS B (13.5)
+                     109 (211)
+                     244 (192)
+
+
+
+
+                                                          PM: LOS C (20.8)
+                     2 (22)
+
+
+
+
+                                                    100(282)
+                                                    0 (0)
+                                                    31 (88)                  Chartwell Center Dr
+               (17) 6
+                (1) 0
+                                                (13) 3
+                                             (241) 165
+                                               (76) 60
+
+
+
+
+                (5) 1
+
+
+
+
+                                                                                                            134 (115)
+                                                                                                            47 (38)
+                            Liverpool Pkwy
+
+
+
+
+                                                                                  Site Drive 1
+                                                                               EASTBOUND          (42) 40
+                                                                               AM: LOS B (10.3)     (0) 0
+                                                                               PM: LOS B (10.4)
+                                                                                                                                      (0) 0
+                                                                                                                                   (119) 87
+                                                                                                            48 (37)
+                                                                                                            86 (78)
+
+
+
+
+                                                                                        Project
+                                                                                         Site
+
+
+                                                                                  Site Drive 2
+                                                                               EASTBOUND          (41) 40
+                   LEGEND
+                                                                               AM: LOS A (9.7)      (0) 0
+                                                                               PM: LOS A (9.8)
+                                                                                                                                     (0) 0
+
+
+
+
+        Existing Roadway Laneage
+                                                                                                                                   (78) 47
+
+
+
+
+       Existing Traffic Signal
+ XX    AM Peak Hour Traffic Volumes
+(XX)    PM Peak Hour Traffic Volumes
+
+
+
+                                                                                           2018 Build-out
+                                             Life Fellowship Church                                                                           Figure
+                                                                                             Peak-Hour
+                                             Traffic Impact Analysis                                                                            6.3
+                                                                                           Traffic Volumes
+7.0      Capacity Analysis
+
+Capacity analyses were performed for the AM and PM peak hours using the Synchro Version 7
+software to determine the operating characteristics of the adjacent road network and the impacts
+of the proposed project. The North Carolina Department of Transportation uses and reports
+Synchro Level-of-Service output for the analysis of intersection operating conditions.
+
+Capacity is defined as the maximum number of vehicles that can pass over a particular road
+segment or through a particular intersection within a set time duration. Capacity is described by
+Level-of-Service (LOS) for the operating characteristics of a road segment or intersection. LOS
+is defined as a qualitative measure that describes operational conditions and motorist perceptions
+within a traffic stream. The Highway Capacity Manual defines six levels of service, LOS A
+through LOS F, with A being the best and F being the worst. LOS D is the typically accepted
+standard for signalized intersections in urban and suburban areas. For signalized intersections,
+LOS is defined for the overall intersection operation.
+
+LOS for a two-way stop-controlled (TWSC) intersection is determined by the control delay and is
+defined for the minor movements. Control delay includes initial deceleration delay, queue move-
+up time, stopped delay, and final acceleration delay. With respect to field measurements, control
+delay is defined as the total elapsed time from the time a vehicle stops at the end of the queue to
+the time the vehicle departs from the stop line. LOS is not defined for a TWSC intersection as a
+whole. For descriptive purposes, results between LOS A and LOS C for the side street approach
+are assumed to represent short delays. Results between LOS D and LOS E for the side street
+approach are assumed to represent moderate delays, and LOS F for the side street approach is
+assumed to represent long delays. It is typical for stop sign controlled side streets and driveways
+intersecting major streets to experience long delays during peak hours, particularly for left-turn
+movements. The majority of the traffic moving through the intersection on the major street
+experiences little or no delay.
+
+Table 7.0-A lists the LOS control delay thresholds published in the Highway Capacity Manual
+(HCM) for signalized intersections. Synchro Version 7 software uses the same LOS thresholds as
+those published in the HCM.
+
+
+
+
+Life Fellowship Church                                                              Capacity Analysis
+Traffic Impact Analysis
+                                                                                                   16
+                                              Table 7.0-A
+                             Level-of-Service Control Delay Thresholds for
+                                        Signalized Intersections
+                                                 Control Delay per Vehicle
+                          Level-of-Service
+                                                         [sec/veh]
+                                 A                           10
+                                 B                       > 10 ­ 20
+                                 C                       > 20 ­ 35
+                                 D                       > 35 ­ 55
+                                 E                       > 55 ­ 80
+                                 F                          > 80
+
+Table 7.0-B lists the LOS control delay thresholds published in the HCM for unsignalized
+intersections, as well as the unsignalized operational descriptions assumed herein.
+
+
+                                              Table 7.0-B
+                             Level-of-Service Control Delay Thresholds for
+                                       Unsignalized Intersections
+                                                Average Control Delay per
+                          Level-of-Service
+                                                     Vehicle [sec/veh]
+                                 A                 10
+                                 B              > 10 ­ 15        Short Delays
+                                 C              > 15 ­ 25
+                                 D              > 25 ­ 35          Moderate
+                                 E              > 35 ­ 50           Delays
+                                 F                > 50            Long Delays
+
+Capacity analyses were performed for the 2011 existing, 2018 background, and 2018 build-out
+traffic conditions using the LOS reports generated by Synchro Version 7 software for the
+following existing intersections:
+
+         W. Catawba Avenue at Liverpool Parkway/Torrence Chapel Road
+         Liverpool Parkway at Chartwell Center Drive
+
+
+
+
+Life Fellowship Church                                                           Capacity Analysis
+Traffic Impact Analysis
+                                                                                               17
+Capacity analyses were performed for the 2018 build-out traffic conditions using the LOS reports
+generated by Synchro Version 7 software for the following proposed intersections:
+
+         I-77 Service Road and Site Drive 1
+         I-77 Service Road and Site Drive 2
+
+Capacity analysis reports generated by Synchro Version 7 software are included in the Appendix
+and are briefly summarized in the following sub-sections. Intersection volume development
+worksheets are also included in the Appendix.
+
+
+
+
+Life Fellowship Church                                                            Capacity Analysis
+Traffic Impact Analysis
+                                                                                                18
+7.1      West Catawba Avenue at Liverpool Parkway/Torrence Chapel Road
+Table 7.1 summarizes the LOS and control delay (seconds per vehicle) at the signalized
+intersection of West Catawba Avenue at Liverpool Parkway/Torrence Chapel Road
+under 2011 existing conditions, 2018 background conditions and 2018 build-out conditions.
+
+          Table 7.1 ­ West Catawba Avenue at Liverpool Parkway/Torrence Chapel Road
+
+                                                                 LOS (Delay) 
+
+ Condition                 Eastbound        Westbound        Northbound          Southbound   
+                                                                                                  Overall 
+                           W Catawba        W Catawba         Liverpool           Torrence 
+                                                                                               Intersection 
+                              Ave              Ave              Pkwy              Chapel Rd 
+ AM Peak Hour                                                                                        
+ 2011 Existing                 C (29.7)         B (16.9)          D (42.5)           F (83.1)           C (32.5) 
+ 2018 Background               D (38.1)         C (21.8)          D (43.7)           F (89.3)           D (38.4) 
+ 2018 Build (43k)              D (50.2)         C (27.6)          D (43.9)           F (90.4)           D (45.1) 
+ 2018 Build (100k)             D (52.4)         C (28.0)          D (44.2)           F (92.2)           D (46.3) 
+ PM Peak Hour                                                                                        
+ 2011 Existing                 D (45.3)         C (28.8)          D (52.8)            F (95.2)          D (45.0) 
+ 2018 Background               F (92.9)         C (35.0)          D (52.4)           F (118.1)          E (64.3) 
+ 2018 Build (43k)              F (91.9)         D (41.1)          E (55.7)           F (125.3)          E (68.1) 
+ 2018 Build (100K)             F (99.8)         D (41.0)          E (55.2)           F (125.6)          E (70.2) 
+
+Under 2011 existing conditions, the intersections currently operates at LOS C during the AM
+peak hour and LOS D during the PM peak hour.
+
+Under 2018 background conditions, the intersection is expected to operate at LOS D during the
+AM peak hour and LOS E during the PM peak hour.
+
+Upon build-out of the site in 2018, the intersection is expected to continue to operate at LOS D
+during the AM peak hour and LOS E during the PM peak hour. This intersection has recently
+been redesigned to improve operational conditions primarily for the eastbound and westbound
+traffic along West Catawba Avenue. Due to the second left-turn lane needed on the southbound
+approach, split phasing is required to accommodate left-turn movements on each approach. This
+type of phasing decreases the amount of green time given to other movements such as the heavily
+travelled eastbound and westbound through movements, and thus increases the average delay.
+
+As shown in Table 7.1, the proposed development is expected to add a minimal amount of delay
+to this intersection in the form of seven seconds and four seconds during the AM and PM peak
+hours, respectively. Based on the trip generation of this development distributed to this
+intersection, the amount of traffic entering this intersection contributed by the addition of the
+development equals only 4% of the traffic during the AM peak hour and only 3% of the traffic
+Life Fellowship Church                                                                       Capacity Analysis
+Traffic Impact Analysis
+                                                                                                            19
+during the PM peak hour under either development scenario. The results of the analysis show
+that regardless of the build-out scenario the proposed development will have little impact on the
+intersection operations. Furthermore, since a daycare and church are both local attractions as
+opposed to regional attractions, the traffic generated by this site would most likely be traffic that
+is already using the network of streets within the study area, and the amount of traffic contributed
+to this intersection by the subject development is most likely less than what was analyzed.
+Therefore, this analysis is considered conservative and no improvements are recommended at this
+intersection for capacity purposes.
+
+Copies of the synchro reports can be found in the Appendix for both the 43,000 sf build scenario
+and the 100,000 sf build scenario.
+
+
+
+
+Life Fellowship Church                                                                Capacity Analysis
+Traffic Impact Analysis
+                                                                                                    20
+7.2      Liverpool Parkway at Chartwell Center Drive
+Table 7.2 summarizes the LOS and control delay (seconds per vehicle) at the unsignalized
+intersection of Liverpool Parkway at Chartwell Center Drive under 2011 existing conditions,
+2018 background conditions and 2018 build-out conditions.
+
+                          Table 7.2 ­ Liverpool Parkway at Chartwell Center Drive 
+
+                                                                   LOS (Delay) 
+
+ Condition                      Eastbound     Westbound        Northbound    Southbound   
+                                                                                              Overall 
+                                  Retail      Chartwell         Liverpool     Liverpool 
+                                                                                           Intersection 
+                                Driveway      Center Dr           Pkwy          Pkwy 
+ AM Peak Hour                                                                                         
+ 2011 Existing                   B (14.4)         B (11.2)          A (0.1)            A (4.8)               
+ 2018 Background                 C (16.2)         B (11.9)          A (0.1)            A (4.9)               
+ 2018 Build (43k)                C (22.3)         B (13.5)          A (0.1)            A (5.8)               
+ 2018 Build (100k)               C (23.9)         B (14.0)          A (0.1)            A (6.0)               
+ PM Peak Hour                                                                                         
+ 2011 Existing                   C (20.2)         B (13.7)          A (0.4)            A (3.0)               
+ 2018 Background                 D (25.3)         C (15.8)          A (0.4)            A (3.0)               
+ 2018 Build (43k)                E (38.1)         C (20.8)          A (0.4)            A (3.9)               
+ 2018 Build (100k)               E (40.3)         C (21.8)          A (0.4)            A (4.0)               
+
+Under 2011 existing conditions, the intersection is expected to operate at LOS B during the AM
+peak hour and LOS C during the PM peak hour.
+
+Under 2018 background conditions, the intersection is expected to operate at LOS C during the
+AM peak hour and LOS D during the PM peak hour.
+
+Upon build-out of the site in 2014, the intersection is expected to operate at LOS C during the
+AM peak hour and LOS E during the PM peak hour. The LOS during the PM peak hour on the
+eastbound approach is expected to decline to a LOS E upon build-out of the site. However, this
+approach serves a hotel and a restaurant with very little volume (23 vehicles during the PM peak
+hour) and no volume is contributed to the proposed church. The opposite stop-controlled
+approach shows a minimal impact due to the site in the form of two seconds and five seconds
+during the AM and PM peak hours, respectively, while operating at an acceptable LOS. Since the
+proposed project is not expected to have a significant adverse impact on the operations of this
+intersection, no improvements are recommended for capacity purposes.
+
+The results of the analysis show that regardless of the build-out scenario the proposed
+development will have little impact on the intersection operations.
+
+Life Fellowship Church                                                                        Capacity Analysis
+Traffic Impact Analysis
+                                                                                                            21
+7.3      Unsignalized Site Access Points
+Table 7.3 summarizes the LOS and control delay (seconds per vehicle) at the following
+unsignalized access points under 2018 build-out conditions:
+
+         I-77 Service Road at Site Drive 1
+         I-77 Service Road at Site Drive 2
+
+                          Table 7.3 - Unsignalized Site Access Points
+
+                                    I77 Service Road at Site Drive 1 
+                                                      LOS (Delay) 
+ Condition                     Eastbound       Westbound     Northbound      Southbound  
+                               Site Drive 1                 I77 Service Rd  I77 Service Rd
+ AM Peak Hour                                                                    
+ 2018 Build (43k)               B (10.3)                            A (0.0)         A (0.0) 
+ 2018 Build (100k)              B (10.6)                            A (0.0)         A (0.0) 
+ PM Peak Hour                                                                    
+ 2018 Build (43k)               B (10.4)                            A (0.0)         A (0.0) 
+ 2018 Build (100k)              B (10.6)                            A (0.0)         A (0.0) 
+                                    I77 Service Road at Site Drive 2 
+                                                      LOS (Delay) 
+ Condition                     Eastbound       Westbound     Northbound      Southbound  
+                               Site Drive 2                 I77 Service Rd  I77 Service Rd
+ AM Peak Hour                                                                    
+ 2018 Build (43k)                A (9.7)                            A (0.0)         A (0.0) 
+ 2018 Build (100k)               A (9.7)                            A (0.0)         A (0.0) 
+ PM Peak Hour                                                                    
+ 2018 Build (43k)                A (9.8)                            A (0.0)         A (0.0) 
+ 2018 Build (100k)               A (9.9)                            A (0.0)         A (0.0) 
+
+
+As shown, both unsignalized driveways are expected to operate with short delay on the minor
+street approach during both AM and PM peak hours under either 2018 build conditions. No
+improvements are recommended for capacity purposes.
+
+
+
+
+Life Fellowship Church                                                                  Capacity Analysis
+Traffic Impact Analysis
+                                                                                                      22
+8.0      Recommendations
+
+Based on the capacity analyses conducted, there are no transportation improvements
+recommended at the study intersections.
+
+
+
+
+Life Fellowship Church                                                          Recommendations
+Traffic Impact Analysis
+                                                                                            23
+  APPENDIX A
+
+Traffic Count Data
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Liverpool Pkwy -- Catawba Ave                                                                                         QC JOB #: 10669603
+ CITY/STATE: Cornelius, NC                                                                                                       DATE: Wed, Oct 12 2011
+                     402            241                            Peak-Hour: 7:30 AM -- 8:30 AM                                  2.0        4.1
+
+                        40    38 324
+                                                                  Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                  2.5 2.6 1.9
+
+       932   54                           160   1280
+                                                                                                                     2.6   1.9                       5.6      3.1
+             771             0.94         879
+                                                                                                                           2.3                       2.5
+       853   28                           241   1257
+                                                                                                                     2.2   0.0                       3.7      2.2
+
+                        12    28 162
+                                                                                                                                  8.3 0.0 2.5
+
+                     307            202
+                                                                                                                                  3.3        2.5
+
+
+
+                              0                                                                                                    0    0    0
+
+
+                                                                                                                           0                          0
+
+             0                              0                                                                              0                          0
+
+                                                                                                                           0                          0
+
+
+                              0                                                                                                    0    0    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                           NA                                                                               NA                        NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+15-Min Count             Liverpool Pkwy                       Liverpool Pkwy              Catawba Ave                Catawba Ave
+   Period                 (Northbound)                         (Southbound)               (Eastbound)                (Westbound)                               Hourly
+Beginning At                                                                                                                                       Total
+                  Left     Thru Right           U      Left     Thru Right     U   Left   Thru Right    U     Left    Thru Right        U                      Totals
+   6:30 AM          2        4     24           0       83        2      3     0    12    126      7    1      40      49    21         1          375
+   6:45 AM          1        3     31           0       82        2      2     0    11    165      3    0      93      81    10         0          484
+   7:00 AM          4       11     28           0       67        3      4     0     7    127      8    0      61     101    28         0          449
+   7:15 AM          3        5     28           0       90        4      6     0     9    159      6    1      51     156    16         0          534             1842
+   7:30 AM          3        8     33           0       54       10     10     0    11    229      7    0      40     201    31         0          637             2104
+   7:45 AM          3        4     38           0       94        8      6     0     9    173      6    1      58     255    43         0          698             2318
+   8:00 AM          2       11     39           0      102       10      9     0    12    183      5    0      60     204    35         0          672             2541
+   8:15 AM          4        5     52           0       74       10     15     0    21    186     10    0      83     219    51         0          730             2737
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                  Eastbound                   Westbound
+                                                                                                                                                           Total
+  Flowrates       Left       Thru Right     U          Left    Thru Right    U     Left   Thru Right    U    Left     Thru Right    U
+  All Vehicles     16         20    208     0          296      40    60     0      84    744     40    0    332      876   204     0                      2920
+ Heavy Trucks       0          0      8                 12       0     4             0     28      0          12       24     20                            108
+  Pedestrians                  0                                 0                          0                           0                                    0
+   Bicycles         0          0      0                  0       0     0             0      0      0            0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/18/2011 5:57 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: Liverpool Pkwy -- Catawba Ave                                                                                           QC JOB #: 10669604
+ CITY/STATE: Cornelius, NC                                                                                                         DATE: Wed, Oct 12 2011
+                      470            524                             Peak-Hour: 4:45 PM -- 5:45 PM                                  1.7        1.0
+
+                         59    38 373
+                                                                    Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                                    0.0 5.3 1.6
+
+       1213   101                           372   1766
+                                                                                                                       1.0   0.0                       0.8      1.1
+              889             0.96         1091
+                                                                                                                             1.6                       1.1
+       1068   78                            303   1628
+                                                                                                                       1.3   0.0                       1.7      1.6
+
+                         60    55 365
+                                                                                                                                    0.0 3.6 1.6
+
+                      419            480
+                                                                                                                                    1.7        1.7
+
+
+
+                               1                                                                                                     0    0    0
+
+
+                                                                                                                             0                          0
+
+              0                               0                                                                              0                          2
+
+                                                                                                                             0                          0
+
+
+                               1                                                                                                     0    0    0
+
+
+
+
+                              NA                                                                                                          NA
+
+
+
+
+              NA                            NA                                                                               NA                        NA
+
+
+
+
+                              NA                                                                                                          NA
+
+
+
+15-Min Count              Liverpool Pkwy                        Liverpool Pkwy              Catawba Ave                Catawba Ave
+   Period                  (Northbound)                          (Southbound)               (Eastbound)                (Westbound)                               Hourly
+Beginning At                                                                                                                                         Total
+                   Left     Thru Right            U      Left     Thru Right     U   Left   Thru Right    U     Left    Thru Right        U                      Totals
+   4:30 PM          11       14     86            0       88       13     25     0    22    189     16    1      73     233   100         0          871
+   4:45 PM          15       12     97            0       91        9     12     0    17    196     23    2      85     277    90         0          926
+   5:00 PM          16       10   115             1      105       12     15     0    26    228     19    1      78     265    97         1          989
+   5:15 PM          16       16     70            0       96       10     10     0    31    198     19    1      76     257    87         0          887             3673
+   5:30 PM          12       17     83            0       81        7     22     0    23    267     17    0      63     292    98         0          982             3784
+   5:45 PM          20        7     85            0       93       10     14     0    28    224     12    1      66     254   105         2          921             3779
+   6:00 PM          10       13     85            0       95       17     14     0    30    184     18    3      80     277   105         0          931             3721
+   6:15 PM          14       23     53            0      103       14     10     0    22    208     15    3      68     274   119         0          926             3760
+
+
+
+
+ Peak 15-Min                      Northbound                        Southbound                  Eastbound               Westbound
+                                                                                                                                                             Total
+  Flowrates        Left       Thru Right     U           Left    Thru Right    U     Left   Thru Right    U    Left Thru Right    U
+  All Vehicles      64         40    460     4           420      48    60     0     104    912     76    4    312 1060   388     4                          3956
+ Heavy Trucks        0          4      4                  12       0     0             0     20      0           8   12      0                                60
+  Pedestrians                   0                                  4                          0                       0                                        4
+   Bicycles          0          0      0                   0       0     0             0      0      0           0    0      0                                 0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/18/2011 5:57 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Liverpool Pkwy -- Chartwell Center Dr                                                                                 QC JOB #: 10669601
+ CITY/STATE: Cornelius, NC                                                                                                       DATE: Wed, Oct 12 2011
+                     244             181                          Peak-Hour: 7:30 AM -- 8:30 AM                                   3.7        2.2
+
+                         2     95 147
+                                                                 Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                  50.0 6.3 1.4
+
+       5     5                             31    44
+                                                                                                                    20.0   0.0                       9.7      6.8
+             0                0.75          0
+                                                                                                                           0.0                       0.0
+       6     1                             13   182
+                                                                                                                    0.0    0.0                       0.0      1.1
+
+                         3    144 36
+                                                                                                                                  0.0 0.7 0.0
+
+                     109             183
+                                                                                                                                  5.5        0.5
+
+
+
+                               0                                                                                                   0    0    0
+
+
+                                                                                                                           0                          0
+
+             0                              0                                                                              0                          0
+
+                                                                                                                           0                          0
+
+
+                               1                                                                                                   0    1    0
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+
+             NA                            NA                                                                              NA                        NA
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+15-Min Count                 Liverpool Pkwy                  Liverpool Pkwy          Chartwell Center Dr        Chartwell Center Dr
+   Period                     (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                                   Hourly
+Beginning At                                                                                                                                       Total
+                  Left         Thru Right       U     Left     Thru Right     U   Left Thru Right        U   Left Thru Right        U                            Totals
+   6:30 AM          1           19      4       0      25       14      3     0     1     0       0      0     2     0       4      0               73
+   6:45 AM          0           30      2       0      41       45      0     0     1     1       0      0     0     0       3      0              123
+   7:00 AM          1           30      2       1      46       25      1     0     2     0       0      0     0     0       6      0              114
+   7:15 AM          0           28     10       0      38       17      0     0     0     0       0      0     2     0       3      0               98              408
+   7:30 AM          1           27     10       0      25       15      0     0     2     0       0      0     3     0       6      0               89              424
+   7:45 AM          0           35     11       0      31       25      1     0     1     0       1      0     1     0       5      0              111              412
+   8:00 AM          1           35      9       0      44       17      0     1     1     0       0      0     2     0       7      0              117              415
+   8:15 AM          1           47      6       0      46       38      1     0     1     0       0      0     7     0      13      0              160              477
+
+
+
+
+ Peak 15-Min                      Northbound                     Southbound                  Eastbound                   Westbound
+                                                                                                                                                           Total
+  Flowrates       Left        Thru Right     U        Left    Thru Right    U     Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles      4         188      24    0        184     152     4     0       4      0      0    0      28       0     52    0                       640
+ Heavy Trucks       0           4       0               0       4     4             0      0      0            0       0      4                            16
+  Pedestrians                   0                               0                          0                           0                                    0
+   Bicycles         0           0       0               0       0     0             0      0      0            0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/18/2011 5:57 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Liverpool Pkwy -- Chartwell Center Dr                                                                              QC JOB #: 10669602
+ CITY/STATE: Cornelius, NC                                                                                                    DATE: Wed, Oct 12 2011
+                     318          412                           Peak-Hour: 4:30 PM -- 5:30 PM                                  2.8        1.7
+
+                        19 184 115
+                                                               Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                               0.0 2.7 3.5
+
+       30    15                         187   250
+                                                                                                                  0.0   0.0                       1.6      1.6
+             1             0.93           0
+                                                                                                                        0.0                       0.0
+       20    4                           63   169
+                                                                                                                  0.0   0.0                       1.6      2.4
+
+                        11 210 53
+                                                                                                                               0.0 1.9 0.0
+
+                     251          274
+                                                                                                                               2.4        1.5
+
+
+
+                            0                                                                                                   0    1    0
+
+
+                                                                                                                        0                          0
+
+             6                            5                                                                             0                          0
+
+                                                                                                                        0                          0
+
+
+                            0                                                                                                   0    0    0
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+
+             NA                         NA                                                                              NA                        NA
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+15-Min Count             Liverpool Pkwy                    Liverpool Pkwy          Chartwell Center Dr        Chartwell Center Dr
+   Period                 (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                                  Hourly
+Beginning At                                                                                                                                    Total
+                  Left     Thru Right         U     Left     Thru Right     U   Left Thru Right        U   Left Thru Right        U                           Totals
+   4:30 PM          2       43     15         0      36       39      3     0     3     1       1      0    15     0      53      0             211
+   4:45 PM          5       55     19         0      32       42      7     0     4     0       0      0    22     0      42      0             228
+   5:00 PM          4       67      9         0      27       46      6     0     3     0       1      0    16     0      52      0             231
+   5:15 PM          0       45     10         0      20       57      3     0     5     0       2      0    10     0      40      0             192              862
+   5:30 PM          4       51      5         0      10       45      4     0     1     0       1      0    10     0      38      0             169              820
+   5:45 PM          1       53      9         0       9       53      3     0     7     0       1      0     8     0      33      0             177              769
+   6:00 PM          1       57      4         0      15       52      7     0     4     1       2      0     6     0      30      0             179              717
+   6:15 PM          1       54      6         0      10       56      6     0     4     0       1      0     7     0      16      0             161              686
+
+
+
+
+ Peak 15-Min                   Northbound                      Southbound                  Eastbound                   Westbound
+                                                                                                                                                        Total
+  Flowrates       Left     Thru Right     U         Left    Thru Right    U     Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles     16      268      36    0         108     184    24     0      12      0      4    0      64       0   208     0                      924
+ Heavy Trucks       0        4       0                0       8     0             0      0      0            4       0      4                           20
+  Pedestrians                0                                0                         24                           0                                  24
+   Bicycles         0        0       0                0       0     0             0      0      0            0       0      0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/18/2011 5:57 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+ APPENDIX B
+
+Trip Generation
+                                                                  TRIP GEN
+43k SF Church:
+                                                                  Table 4.0 - Trip Generation
+                                                                                                                    AM Peak Hour                    PM Peak Hour
+                                      Land Use                            Intensity            Daily
+                                                                                                            Total            In       Out   Total        In        Out
+
+
+    Day Care Center                                                                200 ST       904          151             80        71   138         65         73
+    Church                                                                    43,000 SF         392           24             15        9     20          10        10
+
+
+ Net New External Trips                                                                        1,296         175             95        80   158          75        83
+
+
+ Note: Trip generation was calculated using the following data:
+
+ Daily Traffic Generation
+    Day Care Center                                                    [ITE 565]       =    T = 4.55(X) - 5.64; (50% in, 50% out)
+    Church                                                             [ITE 560]       =    T = 9.11(X); (50% in, 50% out)
+
+
+ AM Peak-Hour Traffic Generation
+    Day Care Center                                                    [ITE 565]       =    T = 0.73(X) + 5.24; (53% in, 47% out)
+    Church                                                             [ITE 560]       =    T = 0.56(X); (62% in, 38% out)
+
+
+ PM Peak-Hour Traffic Generation
+    Day Care Center                                                    [ITE 565]       =    Ln(T) = 0.87 Ln(X) + 0.32; (47% in, 53% out)
+
+    Church                                                             [ITE 560]       =    T = 0.34(X) + 5.24; (48% in, 52% out)
+
+
+
+
+100k SF Church:
+                                                                  Table 4.0 - Trip Generation
+                                                                                                                    AM Peak Hour                    PM Peak Hour
+                                      Land Use                            Intensity            Daily
+                                                                                                            Total            In       Out   Total        In        Out
+
+
+    Day Care Center                                                                200 ST       904          151             80        71   138         65         73
+    Church                                                                   100,000 SF         911           56             35        21    39          19        20
+
+
+ Net New External Trips                                                                        1,815         207          115          92   177          84        93
+
+
+ Note: Trip generation was calculated using the following data:
+
+ Daily Traffic Generation
+    Day Care Center                                                    [ITE 565]       =    T = 4.55(X) - 5.64; (50% in, 50% out)
+    Church                                                             [ITE 560]       =    T = 9.11(X); (50% in, 50% out)
+
+
+ AM Peak-Hour Traffic Generation
+    Day Care Center                                                    [ITE 565]       =    T = 0.73(X) + 5.24; (53% in, 47% out)
+    Church                                                             [ITE 560]       =    T = 0.56(X); (62% in, 38% out)
+
+
+ PM Peak-Hour Traffic Generation
+    Day Care Center                                                    [ITE 565]       =    Ln(T) = 0.87 Ln(X) + 0.32; (47% in, 53% out)
+
+    Church                                                             [ITE 560]       =    T = 0.34(X) + 5.24; (48% in, 52% out)
+
+
+
+
+      -       32 extra AM trips and 19 extra PM trips
+
+
+
+At Catawba Ave at Liverpool intersection Percent Contribution:
+
+                             AM             PM
+
+43k                          4.3%            2.8%
+
+100k                         5.0%            3.2%
+        APPENDIX C
+
+Volume Development Worksheets
+                                                               INTERSECTION VOLUME DEVELOPMENT
+
+                                                              Liverpool Pkwy/Torrence Chapel Rd and Catawba Ave
+                                                                              AM PEAK HOUR
+
+                                                                  Liverpool Pkwy                    Torrence Chapel Rd        Catawba Ave            Catawba Ave
+                                                                   Northbound                          Southbound              Eastbound             Westbound
+Description                                                  Left     Through Right               Left   Through Right   Left   Through Right   Left   Through Right
+
+
+Observed Volumes                                               12           28           162      324     38      40      53     771     28     241     879        160
+
+     PHF                                                     0.90          0.90         0.90      0.90    0.95    0.90   0.90    0.90    0.90   0.90    0.90       0.90
+     Heavy Vehicle %                                         8%            2%           2%        2%      3%      3%     2%      2%      2%     4%      3%         6%
+
+Annual Growth Rate                                           2.0%          2.0%         2.0%      2.0%   2.0%    2.0%    2.0%   2.0%    2.0%    2.0%   2.0%       2.0%
+
+2018 Background Traffic                                        14           32           186      372     44      46      61     886     32     277    1,010       184
+
+Project Trips (Total)                                          20           16            28       0      19       0      0       0      24      33      0           0
+
+2018 Buildout Total                                            34           48           214      372     63      46      61     886     56     310    1,010       184
+
+                                                                                             PM PEAK HOUR
+
+                                                                  Liverpool Pkwy                    Torrence Chapel Rd        Catawba Ave            Catawba Ave
+                                                                   Northbound                          Southbound              Eastbound             Westbound
+Description                                                  Left     Through Right               Left   Through Right   Left   Through Right   Left   Through Right
+
+
+Observed Volumes                                               59           55           365      373     38      59      97     889     78     302    1,091       372
+
+     PHF                                                     0.92          0.90         0.90      0.90    0.90    0.90   0.90    0.90    0.90   0.90    0.93       0.95
+     Heavy Vehicle %                                         2%            4%           2%        2%      5%      2%     2%      2%      2%     2%      2%         2%
+
+Annual Growth Rate                                           2.0%          2.0%         2.0%      2.0%   2.0%    2.0%    2.0%   2.0%    2.0%    2.0%   2.0%       2.0%
+
+2018 Background Traffic                                        68           63           419      428     44      68     111    1,021    90     347    1,253       427
+
+Project Trips (Total)                                          21           17            29       0      15       0      0       0      19      26      0           0
+
+2018 Buildout Total                                            89           80           448      428     59      68     111    1,021    109    373    1,253       427
+K:\CHL_TPTO\018656000 Life Fellowship Church\Calculations\[Life Fellowship TIA Data.xls]Int. #1                                                         10/26/2011 6:32
+                                                               INTERSECTION VOLUME DEVELOPMENT
+
+                                                                          Liverpool Pkwy and Chartwell Center Dr
+                                                                                     AM PEAK HOUR
+
+                                                                  Liverpool Pkwy                       Liverpool Pkwy       Chartwell Center Dr     Chartwell Center Dr
+                                                                   Northbound                           Southbound             Eastbound               Westbound
+Description                                                  Left     Through Right               Left    Through Right   Left   Through Right    Left   Through Right
+
+
+Observed Volumes                                               3            144           36      146      95       2      5       0        1      13      0           31
+
+     PHF                                                     0.90          0.90         0.90      0.90    0.90    0.90    0.90    0.90    0.90    0.90    0.90        0.90
+     Heavy Vehicle %                                         2%            2%           2%        2%      6%      50%     2%      2%      2%      2%      2%          10%
+
+Annual Growth Rate                                           2.0%          2.0%         2.0%      2.0%    2.0%    2.0%    2.0%    2.0%    2.0%    2.0%    2.0%       2.0%
+
+2018 Background Traffic                                        3            165           41      168     109       2      6       0        1      15      0           36
+
+Project Trips (Total)                                          0             0            19       76      0        0      0       0        0      16      0           64
+
+2018 Buildout Total                                            3            165           60      244     109       2      6       0        1      31      0          100
+
+                                                                                             PM PEAK HOUR
+
+                                                                  Liverpool Pkwy                       Liverpool Pkwy       Chartwell Center Dr     Chartwell Center Dr
+                                                                   Northbound                           Southbound             Eastbound               Westbound
+Description                                                  Left     Through Right               Left    Through Right   Left   Through Right    Left   Through Right
+
+
+Observed Volumes                                               11           210           53      115     184      19      15      1        4      63      0          187
+
+     PHF                                                     0.90          0.90         0.90      0.90    0.90    0.90    0.90    0.90    0.90    0.90    0.90        0.90
+     Heavy Vehicle %                                         2%            2%           2%        3%      3%      2%      2%      2%      2%      2%      2%          2%
+
+Annual Growth Rate                                           2.0%          2.0%         2.0%      2.0%    2.0%    2.0%    2.0%    2.0%    2.0%    2.0%    2.0%       2.0%
+
+2018 Background Traffic                                        13           241           61      132     211      22      17      1        5      72      0          215
+
+Project Trips (Total)                                          0             0            15       60      0        0      0       0        0      16      0           67
+
+2018 Buildout Total                                            13           241           76      192     211      22      17      1        5      88      0          282
+K:\CHL_TPTO\018656000 Life Fellowship Church\Calculations\[Life Fellowship TIA Data.xls]Int. #2                                                            10/26/2011 6:32
+                                                              INTERSECTION VOLUME DEVELOPMENT
+
+                                                                               I-77 Service Road and Site Drive 1
+                                                                                       AM PEAK HOUR
+
+                                                                I-77 Service Road                    I-77 Service Road         Site Drive 1              -
+                                                                   Northbound                           Southbound             Eastbound             Westbound
+Description                                                  Left    Through Right                Left    Through Right   Left  Through Right   Left  Through Right
+
+
+Observed Volumes                                               0            47            0        0       86       0      0      0       0      0      0            0
+
+     PHF                                                     0.90          0.90         0.90      0.90    0.90    0.90    0.90   0.90    0.90   0.90   0.90        0.90
+     Heavy Vehicle %                                         2%            2%           2%        2%      2%      2%      2%     2%      2%     2%     2%          2%
+
+Annual Growth Rate                                          2.0%          0.0%         2.0%       2.0%    0.0%    2.0%    2.0%   2.0%   2.0%    2.0%   2.0%       2.0%
+
+2018 Background Traffic                                        0            47            0        0       86       0      0      0       0      0      0            0
+
+Project Trips (Total)                                          0            40            0        0       48      47      40     0       0      0      0            0
+
+2018 Buildout Total                                            0            87            0        0      134      47      40     0       0      0      0            0
+
+                                                                                              PM PEAK HOUR
+
+                                                                I-77 Service Road                    I-77 Service Road         Site Drive 1              -
+                                                                   Northbound                           Southbound             Eastbound             Westbound
+Description                                                  Left    Through Right                Left    Through Right   Left  Through Right   Left  Through Right
+
+
+Observed Volumes                                               0            68            0        0       68       0      0      0       0      0      0            0
+
+     PHF                                                     0.90          0.90         0.90      0.90    0.90    0.90    0.90   0.90    0.90   0.90   0.90        0.90
+     Heavy Vehicle %                                         2%            2%           2%        2%      2%      2%      2%     2%      2%     2%     2%          2%
+
+Annual Growth Rate                                          2.0%          2.0%         2.0%       2.0%    2.0%    2.0%    2.0%   2.0%   2.0%    2.0%   2.0%       2.0%
+
+2018 Background Traffic                                        0            78            0        0       78       0      0      0       0      0      0            0
+
+Project Trips (Total)                                          0            41            0        0       37      38      42     0       0      0      0            0
+
+2018 Buildout Total                                            0           119            0        0      115      38      42     0       0      0      0            0
+K:\CHL_TPTO\018656000 Life Fellowship Church\Calculations\[Life Fellowship TIA Data.xls]Int. #3                                                         10/26/2011 6:32
+                                                              INTERSECTION VOLUME DEVELOPMENT
+
+                                                                                 I-77 Service Road and Site Drive 2
+                                                                                         AM PEAK HOUR
+
+                                                                I-77 Service Road                    I-77 Service Road         Site Drive 2              -
+                                                                   Northbound                           Southbound             Eastbound             Westbound
+Description                                                  Left    Through Right                Left    Through Right   Left  Through Right   Left  Through Right
+
+
+Observed Volumes                                               0            47            0        0       86       0      0      0       0      0      0            0
+
+     PHF                                                     0.90          0.90         0.90      0.90    0.90    0.90    0.90   0.90    0.90   0.90   0.90        0.90
+     Heavy Vehicle %                                         2%            2%           2%        2%      2%      2%      2%     2%      2%     2%     2%          2%
+
+Annual Growth Rate                                          2.0%          0.0%         2.0%       2.0%    0.0%    2.0%    2.0%   2.0%   2.0%    2.0%   2.0%       2.0%
+
+2018 Background Traffic                                        0            47            0        0       86       0      0      0       0      0      0            0
+
+Project Trips (Total)                                          0             0            0        0       0       48      40     0       0      0      0            0
+
+2018 Buildout Total                                            0            47            0        0       86      48      40     0       0      0      0            0
+
+                                                                                              PM PEAK HOUR
+
+                                                                I-77 Service Road                    I-77 Service Road         Site Drive 2              -
+                                                                   Northbound                           Southbound             Eastbound             Westbound
+Description                                                  Left    Through Right                Left    Through Right   Left  Through Right   Left  Through Right
+
+
+Observed Volumes                                               0            68            0        0       68       0      0      0       0      0      0            0
+
+     PHF                                                     0.90          0.90         0.90      0.90    0.90    0.90    0.90   0.90    0.90   0.90   0.90        0.90
+     Heavy Vehicle %                                         2%            2%           2%        2%      2%      2%      2%     2%      2%     2%     2%          2%
+
+Annual Growth Rate                                          2.0%          2.0%         2.0%       2.0%    2.0%    2.0%    2.0%   2.0%   2.0%    2.0%   2.0%       2.0%
+
+2018 Background Traffic                                        0            78            0        0       78       0      0      0       0      0      0            0
+
+Project Trips (Total)                                          0             0            0        0       0       37      41     0       0      0      0            0
+
+2018 Buildout Total                                            0            78            0        0       78      37      41     0       0      0      0            0
+K:\CHL_TPTO\018656000 Life Fellowship Church\Calculations\[Life Fellowship TIA Data.xls]Int. #4                                                         10/26/2011 6:32
+  APPENDIX D
+
+Capacity Analyses
+Lanes, Volumes, Timings                                                                     Life Fellowship Church
+1: Catawba Ave & Torrence Chapel Rd                                                                         2011 Existing AM
+
+
+
+Lane Group                     EBL    EBT    EBR      WBL    WBT    WBR     NBL     NBT     NBR      SBL       SBT     SBR
+Lane Configurations
+Volume (vph)                    53     771      28     241    879     160     12      28      162    324         38      40
+Ideal Flow (vphpl)            1900    1900    1900    1900   1900    1900   1900    1900     1900   1900       1900    1900
+Storage Length (ft)            340             340     325            390      0              450    185                  0
+Storage Lanes                    1               1       1              1      0                1      1                  0
+Taper Length (ft)               25              25      25             25     25               25     25                 25
+Lane Util. Factor             1.00    0.95    1.00    1.00   0.95    1.00   1.00     1.00    1.00   0.95       0.95    1.00
+Frt                                          0.850                  0.850                   0.850             0.970
+Flt Protected                0.950                   0.950                          0.985           0.950     0.970
+Satd. Flow (prot)             1770    3539   1583     1736   3505   1524       0     1803   1583     1681      1659       0
+Flt Permitted                0.290                   0.206                          0.985           0.950     0.970
+Satd. Flow (perm)              540    3539   1583      376   3505   1524       0     1803   1583     1681      1659       0
+Right Turn on Red                             Yes                    Yes                     Yes                        Yes
+Satd. Flow (RTOR)                              31                    178                      39                  8
+Link Speed (mph)                        35                     35                     35                         35
+Link Distance (ft)                    1146                    802                   1063                        722
+Travel Time (s)                       22.3                   15.6                   20.7                       14.1
+Peak Hour Factor               0.90   0.90    0.90    0.90   0.90    0.90   0.90    0.90     0.90   0.90       0.95     0.90
+Heavy Vehicles (%)              2%     2%      2%      4%     3%      6%     8%      2%       2%     2%         3%       3%
+Adj. Flow (vph)                  59    857      31     268    977     178     13      31      180    360         40       44
+Shared Lane Traffic (%)                                                                             38%
+Lane Group Flow (vph)           59    857    31        268    977   178        0      44   180       223        221       0
+Turn Type                    pm+pt        pm+ov      pm+pt        pm+ov     Split        pm+ov      Split
+Protected Phases                 5      2     4          1      6     3        4       4     1         3          3
+Permitted Phases                 2            2          6            6                      4
+Detector Phase                   5      2     4          1      6     3        4       4     1         3          3
+Switch Phase
+Minimum Initial (s)             7.0  10.0   7.0   7.0  10.0   7.0   7.0   7.0   7.0   7.0   7.0
+Minimum Split (s)              13.5  32.5  36.6  13.3  31.5  31.6  36.6  36.6  13.3  31.6  31.6
+Total Split (s)                13.5  45.7  36.6  26.0  58.2  31.7  36.6  36.6  26.0  31.7  31.7                          0.0
+Total Split (%)               9.6% 32.6% 26.1% 18.6% 41.6% 22.6% 26.1% 26.1% 18.6% 22.6% 22.6%                         0.0%
+Maximum Green (s)               7.0  39.2  30.0  19.7  51.7  25.1  30.0  30.0  19.7  25.1  25.1
+Yellow Time (s)                 3.0   3.8   4.0   3.0   3.8   3.7   4.0   4.0   3.0   3.7   3.7
+All-Red Time (s)                3.5   2.7   2.6   3.3   2.7   2.9   2.6   2.6   3.3   2.9   2.9
+Lost Time Adjust (s)            0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0                          0.0
+Total Lost Time (s)             6.5   6.5   6.6   6.3   6.5   6.6   6.6   6.6   6.3   6.6   6.6                          4.0
+Lead/Lag                      Lead    Lag   Lag Lead    Lag  Lead   Lag   Lag Lead  Lead  Lead
+Lead-Lag Optimize?             Yes   Yes   Yes   Yes   Yes    Yes  Yes   Yes   Yes   Yes   Yes
+Vehicle Extension (s)           2.0   5.2   2.0   2.0   5.2   2.0   2.0   2.0   2.0   2.0   2.0
+Recall Mode                   None C-Min None None C-Min None None None None None None
+Walk Time (s)                         7.0   7.0         7.0   7.0   7.0   7.0         7.0   7.0
+Flash Dont Walk (s)                  19.0  23.0        18.0  18.0  23.0  23.0        18.0  18.0
+Pedestrian Calls (#/hr)                 0     0           0     0     0     0           0     0
+Act Effct Green (s)            70.8  63.6  71.9  93.0  81.8 111.4         8.4  35.3  21.7  21.7
+Actuated g/C Ratio             0.51  0.45  0.51  0.66  0.58  0.80        0.06  0.25  0.16  0.16
+v/c Ratio                      0.18  0.53  0.04  0.57  0.48  0.14        0.41  0.42  0.85  0.84
+Control Delay                  14.0  31.7   3.7  15.8  20.2   1.0        74.0  34.8  85.5  80.6
+Queue Delay                     0.0   0.0   0.0   0.0   0.0   0.0         0.0   0.0   0.0   0.0
+Total Delay                    14.0  31.7   3.7  15.8  20.2   1.0        74.0  34.8  85.5  80.6
+
+Kimley-Horn and Associates, Inc.                                                                       Synchro 7 - Report
+Lanes, Volumes, Timings                                                                            Life Fellowship Church
+1: Catawba Ave & Torrence Chapel Rd                                                                               2011 Existing AM
+
+
+
+Lane Group                     EBL      EBT    EBR      WBL      WBT     WBR          NBL   NBT    NBR     SBL        SBT    SBR
+LOS                              B         C     A        B         C      A                   E     C       F           F
+Approach Delay                          29.7                     16.9                       42.5                      83.1
+Approach LOS                               C                        B                          D                         F
+Queue Length 50th (ft)             19    307       0      98      288        0                40    105     208        198
+Queue Length 95th (ft)             41    427      10     160      385       20                80    161    #323      #309
+Internal Link Dist (ft)                 1066                      722                        983                       642
+Turn Bay Length (ft)            340             340      325              390                        450    185
+Base Capacity (vph)             337     1607   1052      479     2048    1262                386     435    301       304
+Starvation Cap Reductn            0        0      0        0        0       0                  0       0      0         0
+Spillback Cap Reductn             0        0      0        0        0       0                  0       0      0         0
+Storage Cap Reductn               0        0      0        0        0       0                  0       0      0         0
+Reduced v/c Ratio              0.18     0.53   0.03     0.56     0.48    0.14               0.11    0.41   0.74      0.73
+Intersection Summary
+Area Type:                   Other
+Cycle Length: 140
+Actuated Cycle Length: 140
+Offset: 0 (0%), Referenced to phase 2:EBTL and 6:WBTL, Start of Yellow
+Natural Cycle: 125
+Control Type: Actuated-Coordinated
+Maximum v/c Ratio: 0.85
+Intersection Signal Delay: 32.5                              Intersection LOS: C
+Intersection Capacity Utilization 68.7%                      ICU Level of Service C
+Analysis Period (min) 15
+# 95th percentile volume exceeds capacity, queue may be longer.
+    Queue shown is maximum after two cycles.
+
+Splits and Phases:   1: Catawba Ave & Torrence Chapel Rd
+
+
+
+
+Kimley-Horn and Associates, Inc.                                                                              Synchro 7 - Report
+Lanes, Volumes, Timings                                                                                 Life Fellowship Church
+2: Hotel Driveway & Liverpool Pkwy                                                                                      2011 Existing AM
+
+
+
+Lane Group                      EBL        EBT     EBR    WBL      WBT      WBR          NBL    NBT     NBR      SBL       SBT     SBR
+Lane Configurations
+Volume (vph)                      5          0        1     13         0       31       3        144      36     146         95       2
+Ideal Flow (vphpl)             1900       1900     1900   1900      1900     1900    1900       1900    1900    1900       1900    1900
+Storage Length (ft)               0                   0      0                 50       0                  0     110                  0
+Storage Lanes                     0                   0      0                  1       0                  0       1                  0
+Taper Length (ft)                25                  25     25                 25      25                 25      25                 25
+Lane Util. Factor              1.00        1.00    1.00   1.00      1.00     1.00    1.00        1.00   1.00    1.00       1.00    1.00
+Frt                                       0.981                             0.850               0.973                     0.997
+Flt Protected                             0.959                    0.950                        0.999           0.950
+Satd. Flow (prot)                  0       1752      0      0       1770    1468           0     1811      0     1770      1773       0
+Flt Permitted                             0.959                    0.950                        0.999           0.950
+Satd. Flow (perm)                  0       1752      0      0       1770    1468           0     1811      0     1770      1773       0
+Link Speed (mph)                              25                      35                           35                        35
+Link Distance (ft)                          202                     1081                          804                      1063
+Travel Time (s)                              5.5                    21.1                         15.7                      20.7
+Peak Hour Factor                0.90       0.90    0.90   0.90      0.90     0.90        0.90    0.90    0.90    0.90      0.90    0.90
+Heavy Vehicles (%)               2%         2%      2%     2%        2%      10%          2%      2%      2%      2%        6%     50%
+Adj. Flow (vph)                    6           0      1     14         0       34           3     160      40     162       106       2
+Shared Lane Traffic (%)
+Lane Group Flow (vph)              0          7      0      0         14       34          0     203       0     162        108       0
+Sign Control                               Stop                     Stop                        Free                       Free
+Intersection Summary
+Area Type:                   Other
+Control Type: Unsignalized
+Intersection Capacity Utilization 32.5%                         ICU Level of Service A
+Analysis Period (min) 15
+
+
+
+
+Kimley-Horn and Associates, Inc.                                                                                   Synchro 7 - Report
+HCM Unsignalized Intersection Capacity Analysis                                                        Life Fellowship Church
+2: Hotel Driveway & Liverpool Pkwy                                                                                    2011 Existing AM
+
+
+
+Movement                            EBL     EBT     EBR     WBL      WBT      WBR        NBL    NBT    NBR     SBL       SBT     SBR
+Lane Configurations
+Volume (veh/h)                        5       0        1     13          0       31        3     144     36    146         95       2
+Sign Control                               Stop                       Stop                      Free                     Free
+Grade                                       0%                         0%                        0%                       0%
+Peak Hour Factor                    0.90   0.90     0.90    0.90      0.90     0.90      0.90   0.90    0.90   0.90      0.90     0.90
+Hourly flow rate (vph)                 6      0        1      14         0       34         3    160      40    162       106        2
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)                                                            2
+Median type                                                                                     None                    None
+Median storage veh)
+Upstream signal (ft)                                                                                                     1063
+pX, platoon unblocked
+vC, conflicting volume              618     638      107    618        619      180      108                   200
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                  618     638      107    618        619      180      108                   200
+tC, single (s)                      7.1     6.5      6.2    7.1        6.5      6.3      4.1                   4.1
+tC, 2 stage (s)
+tF (s)                              3.5     4.0      3.3    3.5        4.0      3.4       2.2                   2.2
+p0 queue free %                      98     100      100     96        100       96       100                    88
+cM capacity (veh/h)                 350     347      947    364        356      843      1483                  1372
+Direction, Lane #                   EB 1   WB 1     NB 1    SB 1      SB 2
+Volume Total                           7      49     203     162       108
+Volume Left                            6      14       3     162         0
+Volume Right                           1      34      40       0         2
+cSH                                  391   1196     1483    1372      1700
+Volume to Capacity                  0.02    0.04    0.00    0.12      0.06
+Queue Length 95th (ft)                 1       3       0      10         0
+Control Delay (s)                   14.4    11.2     0.1     8.0       0.0
+Lane LOS                               B       B       A       A
+Approach Delay (s)                  14.4    11.2     0.1     4.8
+Approach LOS                           B       B
+Intersection Summary
+Average Delay                                         3.7
+Intersection Capacity Utilization                  32.5%          ICU Level of Service                    A
+Analysis Period (min)                                  15
+
+
+
+
+Kimley-Horn and Associates, Inc.                                                                                  Synchro 7 - Report
+Lanes, Volumes, Timings                                                                     Life Fellowship Church
+1: Catawba Ave & Torrence Chapel Rd                                                                         2011 Existing PM
+
+
+
+Lane Group                     EBL    EBT    EBR      WBL    WBT    WBR     NBL     NBT     NBR      SBL       SBT     SBR
+Lane Configurations
+Volume (vph)                    97     889      78     302   1091     372     59      55      365    373         38      59
+Ideal Flow (vphpl)            1900    1900    1900    1900   1900    1900   1900    1900     1900   1900       1900    1900
+Storage Length (ft)            340             340     325            390      0              450    185                  0
+Storage Lanes                    1               1       1              1      0                1      1                  0
+Taper Length (ft)               25              25      25             25     25               25     25                 25
+Lane Util. Factor             1.00    0.95    1.00    1.00   0.95    1.00   1.00     1.00    1.00   0.95       0.95    1.00
+Frt                                          0.850                  0.850                   0.850             0.961
+Flt Protected                0.950                   0.950                          0.975           0.950     0.972
+Satd. Flow (prot)             1770    3539   1583     1770   3539   1583       0     1799   1583     1681      1645       0
+Flt Permitted                0.185                   0.088                          0.975           0.950     0.972
+Satd. Flow (perm)              345    3539   1583      164   3539   1583       0     1799   1583     1681      1645       0
+Right Turn on Red                             Yes                    Yes                     Yes                        Yes
+Satd. Flow (RTOR)                              87                    392                      22                 10
+Link Speed (mph)                        35                     35                     35                         35
+Link Distance (ft)                    1146                    802                   1063                        722
+Travel Time (s)                       22.3                   15.6                   20.7                       14.1
+Peak Hour Factor               0.90   0.90    0.90    0.90   0.93    0.95   0.92    0.90     0.90   0.90       0.90     0.90
+Heavy Vehicles (%)              2%     2%      2%      2%     2%      2%     2%      4%       2%     2%         5%       2%
+Adj. Flow (vph)                 108    988      87     336   1173     392     64      61      406    414         42       66
+Shared Lane Traffic (%)                                                                             36%
+Lane Group Flow (vph)          108    988    87        336   1173   392        0     125   406       265        257       0
+Turn Type                    pm+pt        pm+ov      pm+pt        pm+ov     Split        pm+ov      Split
+Protected Phases                 5      2     4          1      6     3        4       4     1         3          3
+Permitted Phases                 2            2          6            6                      4
+Detector Phase                   5      2     4          1      6     3        4       4     1         3          3
+Switch Phase
+Minimum Initial (s)             7.0  10.0   7.0   7.0  10.0   7.0   7.0   7.0   7.0   7.0   7.0
+Minimum Split (s)              13.5  32.5  36.6  13.3  31.5  31.6  36.6  36.6  13.3  31.6  31.6
+Total Split (s)                15.2  47.6  36.6  29.2  61.6  31.6  36.6  36.6  29.2  31.6  31.6                          0.0
+Total Split (%)              10.5% 32.8% 25.2% 20.1% 42.5% 21.8% 25.2% 25.2% 20.1% 21.8% 21.8%                         0.0%
+Maximum Green (s)               8.7  41.1  30.0  22.9  55.1  25.0  30.0  30.0  22.9  25.0  25.0
+Yellow Time (s)                 3.0   3.8   4.0   3.0   3.8   3.7   4.0   4.0   3.0   3.7   3.7
+All-Red Time (s)                3.5   2.7   2.6   3.3   2.7   2.9   2.6   2.6   3.3   2.9   2.9
+Lost Time Adjust (s)            0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0                          0.0
+Total Lost Time (s)             6.5   6.5   6.6   6.3   6.5   6.6   6.6   6.6   6.3   6.6   6.6                          4.0
+Lead/Lag                      Lead    Lag   Lag Lead    Lag  Lead   Lag   Lag Lead  Lead  Lead
+Lead-Lag Optimize?             Yes   Yes   Yes   Yes   Yes    Yes  Yes   Yes   Yes   Yes   Yes
+Vehicle Extension (s)           2.0   5.2   2.0   2.0   5.2   2.0   2.0   2.0   2.0   2.0   2.0
+Recall Mode                   None C-Min None None C-Min None None None None None None
+Walk Time (s)                         7.0   7.0         7.0   7.0   7.0   7.0         7.0   7.0
+Flash Dont Walk (s)                  19.0  23.0        18.0  18.0  23.0  23.0        18.0  18.0
+Pedestrian Calls (#/hr)                 0     0           0     0     0     0           0     0
+Act Effct Green (s)            58.9  49.2  63.6  86.8  70.4 101.1        14.5  52.1  24.3  24.3
+Actuated g/C Ratio             0.41  0.34  0.44  0.60  0.49  0.70        0.10  0.36  0.17  0.17
+v/c Ratio                      0.46  0.82  0.12  0.76  0.68  0.32        0.69  0.70  0.94  0.90
+Control Delay                  24.2  51.4   2.8  47.0  32.7   1.6        82.4  43.7  99.7  90.6
+Queue Delay                     0.0   0.0   0.0   0.0   0.0   0.0         0.0   0.0   0.0   0.0
+Total Delay                    24.2  51.4   2.8  47.0  32.7   1.6        82.4  43.7  99.7  90.6
+
+Kimley-Horn and Associates, Inc.                                                                       Synchro 7 - Report
+Lanes, Volumes, Timings                                                                            Life Fellowship Church
+1: Catawba Ave & Torrence Chapel Rd                                                                               2011 Existing PM
+
+
+
+Lane Group                     EBL       EBT    EBR     WBL      WBT     WBR          NBL   NBT    NBR     SBL        SBT    SBR
+LOS                              C          D     A       D         C      A                   F     D       F           F
+Approach Delay                           45.3                    28.8                       52.8                      95.2
+Approach LOS                                D                       C                          D                         F
+Queue Length 50th (ft)             43     454      0     234      438        0               116    310     262        243
+Queue Length 95th (ft)             79   #638      17     357      604       38               180    401    #438      #411
+Internal Link Dist (ft)                 1066                      722                        983                       642
+Turn Bay Length (ft)            340              340     325              390                        450    185
+Base Capacity (vph)             243     1202     904     442     1718    1229                372     583    290       292
+Starvation Cap Reductn            0        0       0       0        0       0                  0       0      0         0
+Spillback Cap Reductn             0        0       0       0        0       0                  0       0      0         0
+Storage Cap Reductn               0        0       0       0        0       0                  0       0      0         0
+Reduced v/c Ratio              0.44     0.82    0.10    0.76     0.68    0.32               0.34    0.70   0.91      0.88
+Intersection Summary
+Area Type:                   Other
+Cycle Length: 145
+Actuated Cycle Length: 145
+Offset: 0 (0%), Referenced to phase 2:EBTL and 6:WBTL, Start of Yellow
+Natural Cycle: 145
+Control Type: Actuated-Coordinated
+Maximum v/c Ratio: 0.94
+Intersection Signal Delay: 45.0                              Intersection LOS: D
+Intersection Capacity Utilization 77.3%                      ICU Level of Service D
+Analysis Period (min) 15
+# 95th percentile volume exceeds capacity, queue may be longer.
+    Queue shown is maximum after two cycles.
+
+Splits and Phases:   1: Catawba Ave & Torrence Chapel Rd
+
+
+
+
+Kimley-Horn and Associates, Inc.                                                                              Synchro 7 - Report
+Lanes, Volumes, Timings                                                                                 Life Fellowship Church
+2: Hotel Driveway & Liverpool Pkwy                                                                                      2011 Existing PM
+
+
+
+Lane Group                      EBL        EBT     EBR    WBL      WBT      WBR          NBL    NBT     NBR      SBL       SBT     SBR
+Lane Configurations
+Volume (vph)                     15          1        4     63         0      187      11        210      53     115        184      19
+Ideal Flow (vphpl)             1900       1900     1900   1900      1900     1900    1900       1900    1900    1900       1900    1900
+Storage Length (ft)               0                   0      0                 50       0                  0     110                  0
+Storage Lanes                     0                   0      0                  1       0                  0       1                  0
+Taper Length (ft)                25                  25     25                 25      25                 25      25                 25
+Lane Util. Factor              1.00        1.00    1.00   1.00      1.00     1.00    1.00        1.00   1.00    1.00       1.00    1.00
+Frt                                       0.975                             0.850               0.974                     0.986
+Flt Protected                             0.963                    0.950                        0.998           0.950
+Satd. Flow (prot)                  0       1749      0      0       1770    1583           0     1811      0     1752      1820       0
+Flt Permitted                             0.963                    0.950                        0.998           0.950
+Satd. Flow (perm)                  0       1749      0      0       1770    1583           0     1811      0     1752      1820       0
+Link Speed (mph)                              25                      35                           35                        35
+Link Distance (ft)                          202                     1081                          804                      1063
+Travel Time (s)                              5.5                    21.1                         15.7                      20.7
+Peak Hour Factor                0.90       0.90    0.90   0.90      0.90     0.90        0.90    0.90    0.90    0.90      0.90     0.90
+Heavy Vehicles (%)               2%         2%      2%     2%        2%       2%          2%      2%      2%      3%        3%       2%
+Adj. Flow (vph)                   17           1      4     70         0      208          12     233      59     128       204       21
+Shared Lane Traffic (%)
+Lane Group Flow (vph)              0         22      0      0         70      208          0     304       0     128        225       0
+Sign Control                               Stop                     Stop                        Free                       Free
+Intersection Summary
+Area Type:                   Other
+Control Type: Unsignalized
+Intersection Capacity Utilization 43.5%                         ICU Level of Service A
+Analysis Period (min) 15
+
+
+
+
+Kimley-Horn and Associates, Inc.                                                                                   Synchro 7 - Report
+HCM Unsignalized Intersection Capacity Analysis                                                        Life Fellowship Church
+2: Hotel Driveway & Liverpool Pkwy                                                                                    2011 Existing PM
+
+
+
+Movement                            EBL     EBT     EBR     WBL      WBT      WBR        NBL    NBT    NBR     SBL       SBT     SBR
+Lane Configurations
+Volume (veh/h)                       15       1        4     63          0      187       11     210     53    115        184      19
+Sign Control                               Stop                       Stop                      Free                     Free
+Grade                                       0%                         0%                        0%                       0%
+Peak Hour Factor                    0.90   0.90     0.90    0.90      0.90     0.90      0.90   0.90    0.90   0.90      0.90     0.90
+Hourly flow rate (vph)                17      1        4      70         0      208        12    233      59    128       204       21
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)                                                            2
+Median type                                                                                     None                    None
+Median storage veh)
+Upstream signal (ft)                                                                                                     1063
+pX, platoon unblocked
+vC, conflicting volume              758     787      215    752        768      263      226                   292
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                  758     787      215    752        768      263      226                   292
+tC, single (s)                      7.1     6.5      6.2    7.1        6.5      6.2      4.1                   4.1
+tC, 2 stage (s)
+tF (s)                              3.5     4.0      3.3    3.5        4.0      3.3       2.2                   2.2
+p0 queue free %                      92     100       99     76        100       73        99                    90
+cM capacity (veh/h)                 217     288      825    297        296      776      1343                  1264
+Direction, Lane #                   EB 1   WB 1     NB 1    SB 1      SB 2
+Volume Total                          22     278     304     128       226
+Volume Left                           17      70      12     128         0
+Volume Right                           4     208      59       0        21
+cSH                                  258   1037     1343    1264      1700
+Volume to Capacity                  0.09    0.27    0.01    0.10      0.13
+Queue Length 95th (ft)                 7      27       1       8         0
+Control Delay (s)                   20.2    13.7     0.4     8.2       0.0
+Lane LOS                               C       B       A       A
+Approach Delay (s)                  20.2    13.7     0.4     3.0
+Approach LOS                           C       B
+Intersection Summary
+Average Delay                                         5.7
+Intersection Capacity Utilization                  43.5%          ICU Level of Service                    A
+Analysis Period (min)                                  15
+
+
+
+
+Kimley-Horn and Associates, Inc.                                                                                  Synchro 7 - Report
+Lanes, Volumes, Timings                                                                     Life Fellowship Church
+1: Catawba Ave & Torrence Chapel Rd                                                                   2018 Background AM
+
+
+
+Lane Group                     EBL    EBT    EBR      WBL    WBT    WBR     NBL     NBT     NBR      SBL     SBT    SBR
+Lane Configurations
+Volume (vph)                    61     886      32     277   1010     184     14      32      186    372      44      46
+Ideal Flow (vphpl)            1900    1900    1900    1900   1900    1900   1900    1900     1900   1900    1900    1900
+Storage Length (ft)            340             340     325            390      0              450    185               0
+Storage Lanes                    1               1       1              1      0                1      1               0
+Taper Length (ft)               25              25      25             25     25               25     25              25
+Lane Util. Factor             1.00    0.95    1.00    1.00   0.95    1.00   1.00     1.00    1.00   0.95     0.95   1.00
+Frt                                          0.850                  0.850                   0.850           0.970
+Flt Protected                0.950                   0.950                          0.985           0.950   0.970
+Satd. Flow (prot)             1770    3539   1583     1736   3505   1524       0     1802   1583     1681    1659      0
+Flt Permitted                0.246                   0.124                          0.985           0.950   0.970
+Satd. Flow (perm)              458    3539   1583      227   3505   1524       0     1802   1583     1681    1659      0
+Right Turn on Red                             Yes                    Yes                     Yes                     Yes
+Satd. Flow (RTOR)                              36                    204                      24                8
+Link Speed (mph)                        35                     35                     35                       35
+Link Distance (ft)                    1146                    802                   1063                      722
+Travel Time (s)                       22.3                   15.6                   20.7                     14.1
+Peak Hour Factor               0.90   0.90    0.90    0.90   0.90    0.90   0.90    0.90     0.90   0.90     0.95   0.90
+Heavy Vehicles (%)              2%     2%      2%      4%     3%      6%     8%      2%       2%     2%       3%     3%
+Adj. Flow (vph)                  68    984      36     308   1122     204     16      36      207    413       46     51
+Shared Lane Traffic (%)                                                                             38%
+Lane Group Flow (vph)           68    984    36        308   1122   204        0      52   207       256     254       0
+Turn Type                    pm+pt        pm+ov      pm+pt        pm+ov     Split        pm+ov      Split
+Protected Phases                 5      2     4          1      6     3        4       4     1         3       3
+Permitted Phases                 2            2          6            6                      4
+Detector Phase                   5      2     4          1      6     3        4       4     1         3       3
+Switch Phase
+Minimum Initial (s)             7.0  10.0   7.0   7.0  10.0   7.0   7.0   7.0   7.0   7.0   7.0
+Minimum Split (s)              13.5  32.5  36.6  13.3  31.5  31.6  36.6  36.6  13.3  31.6  31.6
+Total Split (s)                13.5  45.7  36.6  26.1  58.3  31.6  36.6  36.6  26.1  31.6  31.6                       0.0
+Total Split (%)               9.6% 32.6% 26.1% 18.6% 41.6% 22.6% 26.1% 26.1% 18.6% 22.6% 22.6%                      0.0%
+Maximum Green (s)               7.0  39.2  30.0  19.8  51.8  25.0  30.0  30.0  19.8  25.0  25.0
+Yellow Time (s)                 3.0   3.8   4.0   3.0   3.8   3.7   4.0   4.0   3.0   3.7   3.7
+All-Red Time (s)                3.5   2.7   2.6   3.3   2.7   2.9   2.6   2.6   3.3   2.9   2.9
+Lost Time Adjust (s)            0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0                       0.0
+Total Lost Time (s)             6.5   6.5   6.6   6.3   6.5   6.6   6.6   6.6   6.3   6.6   6.6                       4.0
+Lead/Lag                      Lead    Lag   Lag Lead    Lag  Lead   Lag   Lag Lead  Lead  Lead
+Lead-Lag Optimize?             Yes   Yes   Yes   Yes   Yes    Yes  Yes   Yes   Yes   Yes   Yes
+Vehicle Extension (s)           2.0   5.2   2.0   2.0   5.2   2.0   2.0   2.0   2.0   2.0   2.0
+Recall Mode                   None C-Min None None C-Min None None None None None None
+Walk Time (s)                         7.0   7.0         7.0   7.0   7.0   7.0         7.0   7.0
+Flash Dont Walk (s)                  19.0  23.0        18.0  18.0  23.0  23.0        18.0  18.0
+Pedestrian Calls (#/hr)                 0     0           0     0     0     0           0     0
+Act Effct Green (s)            62.7  55.2  64.0  90.9  79.4 110.6         8.9  41.9  23.4  23.4
+Actuated g/C Ratio             0.45  0.39  0.46  0.65  0.57  0.79        0.06  0.30  0.17  0.17
+v/c Ratio                      0.25  0.70  0.05  0.67  0.56  0.16        0.46  0.42  0.91  0.89
+Control Delay                  16.7  40.8   3.9  30.5  23.2   1.1        75.3  35.8  91.8  86.8
+Queue Delay                     0.0   0.0   0.0   0.0   0.0   0.0         0.0   0.0   0.0   0.0
+Total Delay                    16.7  40.8   3.9  30.5  23.2   1.1        75.3  35.8  91.8  86.8
+
+Kimley-Horn and Associates, Inc.                                                                       Synchro 7 - Report
+Lanes, Volumes, Timings                                                                            Life Fellowship Church
+1: Catawba Ave & Torrence Chapel Rd                                                                         2018 Background AM
+
+
+
+Lane Group                     EBL      EBT    EBR      WBL      WBT     WBR          NBL   NBT    NBR     SBL     SBT     SBR
+LOS                              B         D     A        C         C      A                   E     D       F        F
+Approach Delay                          38.1                     21.8                       43.7                   89.3
+Approach LOS                               D                        C                          D                      F
+Queue Length 50th (ft)             23    408       0     162      366        0                47    131     241     230
+Queue Length 95th (ft)             47    535      11     273      478       22                91    190    #397   #385
+Internal Link Dist (ft)                 1066                      722                        983                    642
+Turn Bay Length (ft)            340              340     325              390                        450    185
+Base Capacity (vph)             275     1396     977     461     1987    1249                386     491    300     303
+Starvation Cap Reductn            0        0       0       0        0       0                  0       0      0       0
+Spillback Cap Reductn             0        0       0       0        0       0                  0       0      0       0
+Storage Cap Reductn               0        0       0       0        0       0                  0       0      0       0
+Reduced v/c Ratio              0.25     0.70    0.04    0.67     0.56    0.16               0.13    0.42   0.85    0.84
+Intersection Summary
+Area Type:                   Other
+Cycle Length: 140
+Actuated Cycle Length: 140
+Offset: 0 (0%), Referenced to phase 2:EBTL and 6:WBTL, Start of Yellow
+Natural Cycle: 135
+Control Type: Actuated-Coordinated
+Maximum v/c Ratio: 0.91
+Intersection Signal Delay: 38.4                              Intersection LOS: D
+Intersection Capacity Utilization 75.5%                      ICU Level of Service D
+Analysis Period (min) 15
+# 95th percentile volume exceeds capacity, queue may be longer.
+    Queue shown is maximum after two cycles.
+
+Splits and Phases:   1: Catawba Ave & Torrence Chapel Rd
+
+
+
+
+Kimley-Horn and Associates, Inc.                                                                              Synchro 7 - Report
+Lanes, Volumes, Timings                                                                                 Life Fellowship Church
+2: Hotel Driveway & Liverpool Pkwy                                                                                2018 Background AM
+
+
+
+Lane Group                      EBL        EBT     EBR    WBL      WBT      WBR          NBL    NBT     NBR      SBL     SBT    SBR
+Lane Configurations
+Volume (vph)                      6          0        1     15         0       36       3        165      41     168     109       2
+Ideal Flow (vphpl)             1900       1900     1900   1900      1900     1900    1900       1900    1900    1900    1900    1900
+Storage Length (ft)               0                   0      0                 50       0                  0     110               0
+Storage Lanes                     0                   0      0                  1       0                  0       1               0
+Taper Length (ft)                25                  25     25                 25      25                 25      25              25
+Lane Util. Factor              1.00        1.00    1.00   1.00      1.00     1.00    1.00        1.00   1.00    1.00     1.00   1.00
+Frt                                       0.983                             0.850               0.973                   0.998
+Flt Protected                             0.958                    0.950                        0.999           0.950
+Satd. Flow (prot)                  0       1754      0      0       1770    1468           0     1811      0     1770   1777       0
+Flt Permitted                             0.958                    0.950                        0.999           0.950
+Satd. Flow (perm)                  0       1754      0      0       1770    1468           0     1811      0     1770   1777       0
+Link Speed (mph)                              25                      35                           35                     35
+Link Distance (ft)                          202                     1081                          804                   1063
+Travel Time (s)                              5.5                    21.1                         15.7                   20.7
+Peak Hour Factor                0.90       0.90    0.90   0.90      0.90     0.90        0.90    0.90    0.90    0.90   0.90    0.90
+Heavy Vehicles (%)               2%         2%      2%     2%        2%      10%          2%      2%      2%      2%     6%     50%
+Adj. Flow (vph)                    7           0      1     17         0       40           3     183      46     187    121       2
+Shared Lane Traffic (%)
+Lane Group Flow (vph)              0          8      0      0         17       40          0     232       0     187     123       0
+Sign Control                               Stop                     Stop                        Free                    Free
+Intersection Summary
+Area Type:                   Other
+Control Type: Unsignalized
+Intersection Capacity Utilization 36.0%                         ICU Level of Service A
+Analysis Period (min) 15
+
+
+
+
+Kimley-Horn and Associates, Inc.                                                                                   Synchro 7 - Report

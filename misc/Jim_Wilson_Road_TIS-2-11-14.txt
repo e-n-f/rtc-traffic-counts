@@ -1,0 +1,2554 @@
+                  TRAFFIC IMPACT
+                      STUDY
+                               FOR THE
+
+
+
+
+                JIM WILSON ROAD
+                  DEVELOPMENT
+
+
+                        LOCATED
+                           IN
+            LANCASTER COUNTY, SOUTH CAROLINA
+
+
+
+
+                            Prepared For:
+                           ESP Associates
+                         3475 Lakemont Blvd
+                         Fort Mill, SC 29708
+
+
+                             Prepared By:
+                   Ramey Kemp & Associates, Inc.
+          8307 University Executive Park Drive, Suite 260
+                         Charlotte, NC 28262
+                           License #C-0910
+
+
+
+                           February 5, 2014
+
+RKA Project #13258
+                                                         Jim Wilson Road Development ­ Traffic Impact Study
+
+
+                                             TABLE OF CONTENTS
+
+
+1.       INTRODUCTION..................................................................................................1
+1.1.       Purpose of Report .............................................................................................................. 1
+1.2.       Study Objectives ................................................................................................................ 1
+2.       AREA CONDITIONS ...........................................................................................1
+2.1.       Transportation Network Study Area .................................................................................. 1
+2.1.1.      Area Roadway System ..................................................................................................... 1
+2.1.1.1.      Existing .......................................................................................................................... 2
+2.1.1.2.      Future ............................................................................................................................. 2
+2.1.2.      Existing Traffic Volumes and Conditions ....................................................................... 2
+2.1.3.      Area of Significant Traffic Impact................................................................................... 3
+2.2.       Study Area - Adjacent Land Use ....................................................................................... 3
+2.2.1.      Existing Land Uses .......................................................................................................... 3
+2.2.2.      Anticipated or Approved Future Development................................................................ 3
+3.       PROJECTED TRAFFIC.......................................................................................4
+3.1.       Site Traffic ......................................................................................................................... 4
+3.1.1.      Trip Generation................................................................................................................ 4
+3.1.2.      Trip Distribution and Assignment ................................................................................... 5
+3.2.       Total Future Traffic ........................................................................................................... 5
+3.2.1.      No-Build Condition ......................................................................................................... 5
+3.2.2.      Build Condition ............................................................................................................... 5
+4.       TRAFFIC ANALYSIS...........................................................................................6
+4.1.       Traffic Analysis Procedure ................................................................................................ 6
+4.2.       Capacity and Level of Service at Study Intersections ....................................................... 7
+4.2.1.      Jim Wilson Road and Henry Harris Road ....................................................................... 7
+4.2.2.      Henry Harris Road and 12 Mile Creek Road (Site Drive 2) .......................................... 10
+4.2.3.      Jim Wilson Road and US 521 ........................................................................................ 11
+4.2.4.      Jim Wilson Road and Site Drive 1................................................................................. 13
+5.       CONCLUSIONS ..................................................................................................13
+5.1.       Summary of Recommended Improvements .................................................................... 14
+
+
+
+
+                                                                    i
+                                             Jim Wilson Road Development ­ Traffic Impact Study
+
+
+                                           LIST OF TABLES
+Table 1     Study Area Roads ................................................................................................... 2
+Table 2     Site Trip Generation ............................................................................................... 4
+Table 3     Highway Capacity Manual - Levels of Service and Delay .................................... 7
+Table 4     Analysis Summary of Jim Wilson Road and Henry Harris Road .......................... 8
+Table 5     SimTraffic 95th Queue Summary............................................................................ 9
+Table 6     Analysis Summary of Henry Harris Road and 12 Mile Creek Road.................... 10
+Table 7     Analysis Summary of Jim Wilson Road and US 521........................................... 12
+Table 8     Analysis Summary of Jim Wilson Road and Site Drive 1 ................................... 13
+
+
+                                       LIST OF FIGURES
+Figure 1    Site Location Map. .............................................................................. .Appendix A
+Figure 2    Preliminary Site Plan ........................................................................... .Appendix A
+Figure 3    Existing (2013) Lane Configurations ................................................... Appendix A
+Figure 4    Existing (2013) Peak Hour Traffic Volumes........................................ Appendix A
+Figure 5    Cornerstone Site Trip distribution Percentages .................................... Appendix A
+Figure 6    Carolina Reserve Site Trip Distribution Percentages ........................... Appendix A
+Figure 7    Walnut Creek Site Trip Distribution Percentages ................................ Appendix A
+Figure 8    Cornerstone Site Trip Assignment ....................................................... Appendix A
+Figure 9    Carolina Reserve Site Trip Assignment ............................................... Appendix A
+Figure 10   Walnut Creek Site Trip Assignment..................................................... Appendix A
+Figure 11   Primary Site Trip Distribution Percentages.......................................... Appendix A
+Figure 12   Total Peak Hour Site Trip Assignment ................................................ Appendix A
+Figure 13   Projected (2018) Peak Hour Traffic Volumes ...................................... Appendix A
+Figure 14   No-Build (2018) Peak Hour Traffic Volumes ...................................... Appendix A
+Figure 15   Build (2018) Peak Hour Traffic Volumes ............................................ Appendix A
+Figure 16   Recommended Lane Configurations .................................................... Appendix A
+
+
+
+
+                                                       ii
+                                  Jim Wilson Road Development ­ Traffic Impact Study
+
+
+                          TECHNICAL APPENDIX
+Appendix A   Figures
+Appendix B   Traffic Count Data
+Appendix C   Adjacent Development Information
+Appendix D   Jim Wilson Road and Henry Harris Road ­ Synchro and SimTraffic Reports
+Appendix E   Henry Harris Road and 12 Mile Creek Road ­ Synchro Reports
+Appendix F   Jim Wilson Road and US 521 ­ Synchro Reports
+Appendix G   Jim Wilson Road and Site Drive 1 ­ Synchro Reports
+
+
+
+
+                                        iii
+                             TRAFFIC IMPACT STUDY
+                               JIM WILSON ROAD DEVELOPMENT
+                             LANCASTER COUNTY, SOUTH CAROLINA
+
+
+1.       INTRODUCTION
+1.1.     Purpose of Report
+This report summarizes the findings of the Traffic Impact Study (TIS) that was performed for the
+Jim Wilson Road Development. The proposed site is located south of Jim Wilson Road and east of
+Henry Harris Road in Lancaster, South Carolina. The purpose of this study is to determine the
+potential impact to the surrounding transportation system caused by the traffic generated by the
+proposed development.
+
+
+1.2.     Study Objectives
+The Jim Wilson Road Development is proposed to consist of 271 single-family detached homes.
+One site driveway is proposed on Jim Wilson Road and another on Henry Harris Road. For
+purposes of this study, it is assumed that the development will be fully built out by 2018.
+
+
+Refer to Figure 1 in Appendix A for an illustration of the site location. Refer to Figure 2 for the
+preliminary site plan. The objective of this report is to determine what geometric improvements
+are necessary to mitigate traffic conditions on the transportation network surrounding the site with
+the proposed development fully built out.
+
+2.       AREA CONDITIONS
+2.1.     Transportation Network Study Area
+2.1.1.   Area Roadway System
+The project study area for this TIS was determined through coordination with the South Carolina
+Department of Transportation (SCDOT) and Lancaster County. Table 1 summarizes the
+characteristics of the roadways within the study area. The SCDOT Functional Class map was used
+to determine the classification of each road. The average daily traffic (ADT) volumes in vehicles
+per day (vpd) were found in average annual daily traffic (AADT) data sheets from SCDOT. A field
+visit was conducted to verify the existing cross-sections and speed limits in miles per hour (mph).
+                                                   Jim Wilson Road Development ­Traffic Impact Study
+
+                                               TABLE 1
+                                         STUDY AREA ROADS
+                                                        CROSS-            ADT        SPEED LIMIT
+    ROADWAY              CLASSIFICATION
+                                                       SECTION            (vpd)         (mph)
+  Jim Wilson Road          Major Collector               2-Lane           3,100            45
+  Henry Harris Road     Local / State Maintained         2-Lane          No Data           35
+ 12 Mile Creek Road     Local / State Maintained     2-Lane (Gravel)     No Data       Not Posted
+       US 521               Minor Arterial               4-Lane          12,800            45
+
+
+2.1.1.1. Existing
+Existing lane configurations (number of traffic lanes on the intersection approach), storage
+capacities, and other intersection and roadway information within the study area was collected
+through field reconnaissance by Ramey Kemp and Associates, Inc. (RKA). Refer to Figure 3 for
+the existing lane configurations and traffic control at study intersections.
+
+
+2.1.1.2. Future
+Based on discussions with local agencies, one roadway project was identified in the study area.
+The bridge on 12 Mile Creek Road (over 12 Mile Creek) is expected to be closed in the future.
+This will dead end 12 Mile Creek Road just east of the proposed development.
+
+2.1.2.   Existing Traffic Volumes and Conditions
+Existing peak hour traffic volumes were obtained from traffic counts performed at the intersection
+of Jim Wilson Road and Henry Harris Road. The intersection of Jim Wilson Road and US 521 was
+also counted. Traffic counts were conducted by RKA during the AM peak period (from 7:00 AM
+to 9:00 AM) and during the PM peak period (from 4:00 PM to 6:00 PM). No traffic count was
+performed for the intersection of Henry Harris Road and 12 Mile Creek Road due to the expected
+low volumes. Instead of counting the intersection, it was assumed each turn movement would
+carry 10 vehicles per hour (vph). The through movements on Henry Harris Road were balanced
+with the intersection of Jim Wilson Road and Henry Harris Road. A copy of the traffic count data
+can be found in Appendix B of this report. Refer to Figure 4 for an illustration of the existing peak
+hour traffic volumes.
+
+
+
+
+                                                     2
+                                              Jim Wilson Road Development ­Traffic Impact Study
+
+2.1.3.   Area of Significant Traffic Impact
+The study area for the TIS was determined through coordination with SCDOT and Lancaster
+County and consists of the following intersections:
+1)       Jim Wilson Road and Henry Harris Road
+2)       Henry Harris Road and 12 Mile Creek Road (Site Drive 2)
+3)       Jim Wilson Road and US 521
+4)       Jim Wilson Road and Site Drive 1
+
+
+2.2.     Study Area ­ Adjacent Land Use
+2.2.1.   Existing Land Uses
+The existing site is undeveloped. The surrounding land uses primarily consist of residential and
+undeveloped land.
+
+2.2.2.   Anticipated or Approved Future Development
+Based on coordination with SCDOT and Lancaster County, there are three offsite developments
+that were determined to have an impact on the project study area. The Cornerstone, Carolina
+Reserve, and Walnut Creek developments are expected to generate trips that are not accounted for
+in the existing traffic counts.
+
+
+The Cornerstone development is located on the east side of the Jim Wilson Road and US 521
+intersection. The site is partially built. For purposes of this report it was assumed that a 15,000
+square foot pharmacy and 42,000 square feet of office space are currently built.
+
+
+Carolina Reserve is a residential development located on the north side of Jim Wilson Road
+between US 521 and Henry Harris Road. This site is also partially built. It was estimated that 225
+homes have yet to be built.
+
+
+Walnut Creek is located on the east side of US 521 just north of Waxhaw Highway. The
+development will consist of single-family detached homes, a shopping center, county park, and
+EMS station. A portion of the residential lots have been built. It was estimated that 1,790 homes
+have yet to be built.
+
+
+
+                                                 3
+                                               Jim Wilson Road Development ­Traffic Impact Study
+
+
+
+Trip distribution percentages and trip assignments were developed for these three developments.
+Some trip distribution percentages were obtained from SCDOT for Cornerstone and Walnut
+Creek. No information for Carolina Reserve was available. The available trip distribution
+percentages, existing traffic patterns, location of population centers, and engineering judgment was
+used to develop trip distribution percentages for the three sites within the study area. See Appendix
+C for the trip generation, and available distribution percentages. Figures 5 through 7 illustrate the
+distribution percentages used in this study for the three offsite developments. Figures 8 through 10
+illustrate the trip assignments used in this study for the three offsite developments.
+
+
+3.         PROJECTED TRAFFIC
+3.1.       Site Traffic
+In order to determine the future traffic conditions after the development is completed, an estimate
+of traffic projected to travel to/from the proposed development is required.
+
+3.1.1.     Trip Generation
+The average weekday daily as well as AM and PM peak hour site trips for this study were
+calculated based on the Institute of Transportation Engineers (ITE) Trip Generation Manual, 9th
+Edition. At build-out, the site is expected to consist of 271 single-family detached homes. Table 2
+presents a summary of the trip generation calculations for the proposed development.
+
+                                              TABLE 2
+                                      SITE TRIP GENERATION
+
+                                                 AVERAGE           AM PEAK               PM PEAK
+                                                  DAILY             HOUR                  HOUR
+              LAND USE            DENSITY                            (vph)                 (vph)
+                                                 TRAFFIC
+                                                   (vpd)
+                                                                  Enter     Exit    Enter     Exit
+         Single-Family Detached
+                                   271 DU              2,628       50       150      162      95
+               Home (210)
+
+
+
+
+                                                   4
+                                               Jim Wilson Road Development ­Traffic Impact Study
+
+3.1.2.   Trip Distribution and Assignment
+For this study, the trip distribution percentages were developed based on existing traffic patterns,
+location of population centers, and engineering judgment. Refer to Figures 11 and 12 for an
+illustration of the site distribution percentages and assignments.
+
+
+3.2.     Total Future Traffic
+3.2.1.   No-Build Condition
+In order to account for the growth of traffic and subsequent traffic conditions at a future year, no-
+build traffic projections are needed. No-build traffic is the component of traffic due to the growth
+of the community and surrounding area that is anticipated to occur regardless of whether the
+proposed development is constructed. No-build traffic is comprised of projected traffic growth
+within the study area and additional traffic created as a result of nearby future developments.
+
+
+To account for the growth of traffic that is anticipated to occur regardless of the proposed
+development, the existing traffic volumes were projected to the horizon year 2018 by applying a
+compounded annual growth rate to traffic volumes at the study intersections. An annual growth
+rate of 3% per year was used for this study per discussions with SCDOT and Lancaster County.
+Refer to Figure 13 for an illustration of the projected 2018 peak hour traffic volumes.
+
+
+Trips generated by the three offsite developments (Figures 8 through 10) were added to the
+projected 2018 peak hour traffic volumes (Figure 13) to determine the future no-build traffic
+volumes. Figure 14 illustrates the no-build 2018 peak hour traffic volumes.
+
+
+3.2.2.   Build Condition
+In order to determine peak hour traffic volumes with the development built out, the total peak hour
+site traffic (Figure 12) was combined with the no-build 2018 traffic volumes (Figure 14) to
+determine build 2018 traffic volumes. The build 2018 traffic volumes are illustrated in Figure 15.
+
+
+
+
+                                                  5
+                                               Jim Wilson Road Development ­Traffic Impact Study
+
+4.       TRAFFIC ANALYSIS
+4.1.     Traffic Analysis Procedure
+All study intersections (both unsignalized and signalized) were analyzed using the methodology
+outlined in the Highway Capacity Manual (HCM) published by the Transportation Research
+Board. A computer software package, Synchro (Version 7), was used to complete the analyses for
+all of the study area intersections. Synchro 7 was developed by Trafficware Corporation and
+allows the user to input data into the Synchro software and calculate the output based on
+methodologies in the HCM.
+
+
+Analysis results for signalized intersections provide level of service calculations for all approaches
+and an overall resulting level of service. The capacity analysis for an unsignalized intersection
+does not provide an overall level of service for the intersection, but rather a level of service for
+movements and/or approaches that have a conflicting movement. Capacity and level of service are
+the design criteria for this traffic study.
+
+
+The HCM defines capacity as "the maximum hourly rate at which persons or vehicles can
+reasonably be expected to traverse a point or uniform section of a lane or roadway during a given
+time period under prevailing roadway, traffic, and control conditions". Level of service (LOS) is a
+term used to represent different driving conditions, and is defined as a "qualitative measure
+describing operational conditions within a traffic stream, and their perception by motorists and/or
+passengers". Level of service varies from Level "A" representing free flow, to Level "F" where
+greater vehicle delays are evident.
+
+
+Refer to Table 3 for HCM levels of service and related average control delay per vehicle for both
+signalized and unsignalized intersections. Control delay as defined by the HCM includes "initial
+deceleration delay, queue move-up time, stopped delay, and final acceleration delay". As shown in
+Table 3, an average control delay of 40 seconds at a signalized intersection results in a LOS D
+operation.
+
+
+
+
+                                                  6
+                                              Jim Wilson Road Development ­Traffic Impact Study
+
+                              TABLE 3
+         HIGHWAY CAPACITY MANUAL - LEVELS OF SERVICE AND DELAY
+           UNSIGNALIZED INTERSECTION                      SIGNALIZED INTERSECTION
+                      AVERAGE CONTROL                                AVERAGE CONTROL
+           LEVEL             DELAY                     LEVEL               DELAY
+         OF SERVICE       PER VEHICLE                OF SERVICE         PER VEHICLE
+                           (SECONDS)                                     (SECONDS)
+              A                0-10                       A                  0-10
+              B               10-15                       B                 10-20
+              C               15-25                       C                 20-35
+              D               25-35                       D                 35-55
+              E               35-50                       E                 55-80
+              F                >50                        F                  >80
+
+
+4.2.     Capacity and Level of Service at Study Intersections
+4.2.1.   Jim Wilson Road and Henry Harris Road
+The intersection of Jim Wilson Road and Henry Harris Road currently operates under four-way
+stop control. All approaches currently operate at LOS A during both peak hours. The background
+traffic growth and offsite developments are expected to increase delay at the intersection as seen in
+the No-Build (2018) scenario. The eastbound Jim Wilson Road approach is expected to operate
+near capacity at LOS E during the PM peak hour of the No-Build (2018) scenario. Refer to Table 4
+for a summary of the analysis results.
+
+
+Improvements on Jim Wilson Road are recommended due to the background traffic growth and
+offsite developments. In the No-Build (2018) Improvements By Others scenario, stop control was
+removed on the Jim Wilson Road approaches. Turn lane warrant analysis was performed for this
+intersection based on the guidelines in Chapter 15 of the SCDOT Highway Design Manual. The
+no-build PM peak hour volumes meet the warrant for left turn lanes on the eastbound and
+westbound Jim Wilson Road approaches. This is expected to provide LOS A on the Jim Wilson
+Road approaches without creating queue issues on the side street.
+
+
+SimTraffic 7.0 simulations were analyzed because Synchro does not calculate queue lengths at
+four-way stop controlled intersections. SimTraffic 7.0 is part of the Synchro 7.0 software package
+developed by Trafficware. It allows for simulation of the Synchro 7.0 traffic models. The
+SimTraffic 7.0 results indicate that the recommended left turn movements would require the
+
+
+
+
+                                                 7
+                                                                     Jim Wilson Road Development ­Traffic Impact Study
+
+minimum 150 feet of storage. No queue issues are expected at the intersection. Refer to Table 5
+for a summary of the SimTraffic 95th queue lengths.
+
+                                TABLE 4
+       ANALYSIS SUMMARY OF JIM WILSON ROAD AND HENRY HARRIS ROAD
+                                     A
+                                     P                                          WEEKDAY                WEEKDAY
+                                     P                                        AM PEAK HOUR           PM PEAK HOUR
+        ANALYSIS                     R              LANE                     LEVEL OF SERVICE       LEVEL OF SERVICE
+        SCENARIO                     O         CONFIGURATIONS
+                                     A
+                                     C                                       Approach   Overall     Approach   Overall
+                                     H
+                                    EB2               1 LT-TH-RT                A                      A
+                                    WB2               1 LT-TH-RT                A               3      A
+       Existing (2013)                                                                    N/A                   N/A3
+                                    NB2               1 LT-TH-RT                A                      A
+                                    SB2               1 LT-TH-RT                A                      A
+                                    EB2               1 LT-TH-RT                B                      E
+                                    WB2               1 LT-TH-RT                C                      C
+      No-Build (2018)                                                                     N/A3                  N/A3
+                                    NB2               1 LT-TH-RT                A                      B
+                                    SB2               1 LT-TH-RT                A                      B
+                                    EB1             1 LT, 1 TH-RT               A                      A
+    No-Build (2018)                 WB1             1 LT, 1 TH-RT               A               3      A
+                                                                                          N/A                   N/A3
+ Improvements By Others             NB2              1 LT-TH-RT                 C                      D
+                                    SB2              1 LT-TH-RT                 C                      D
+                                    EB2               1 LT-TH-RT                B                      F
+                                    WB2               1 LT-TH-RT                C               3      D
+        Build (2018)                                                                      N/A                   N/A3
+                                    NB2               1 LT-TH-RT                B                      B
+                                    SB2               1 LT-TH-RT                A                      B
+                                    EB1             1 LT, 1 TH-RT               A                      A
+      Build (2018)                  WB1             1 LT, 1 TH-RT               A               3      A
+                                                                                          N/A                   N/A3
+ Improvements By Others             NB2              1 LT-TH-RT                 C                      F
+                                    SB2              1 LT-TH-RT                 C                      D
+1. Major street left-turn movement for unsignalized intersection.
+2. Stop controlled approach for unsignalized intersection.
+3. Overall intersection LOS is not provided for unsignalized intersections
+Bold denotes improvement by others.
+
+
+
+Both build scenarios are expected to result in slightly worse levels of service than the no-build
+scenarios. The eastbound Jim Wilson Road approach is expected to operate at LOS F during the
+PM peak hour of the Build (2018) scenario under four-way stop control. In the Build (2018)
+Improvements By Others scenario, stop control was removed on the Jim Wilson Road approaches
+and left turn lanes were added. This is expected to provide LOS A on the Jim Wilson Road
+approaches without creating queue issues on the side street.
+
+
+
+
+                                                                         8
+                                             Jim Wilson Road Development ­Traffic Impact Study
+
+It is recommended that local agencies monitor traffic operations at this intersection. Traffic
+volumes at the intersection are expected to increase due to the background traffic growth and
+offsite developments. To provide additional capacity in the future, it is recommended to remove
+the stop control on Jim Wilson Road. It is also recommended to separate the left turn movements
+from the through movements on Jim Wilson Road by constructing left turn lanes with 150 feet of
+storage. It is recommended these improvements be provided by others. No improvements by the
+developer are recommended at this intersection. Refer to Appendix D for the Synchro capacity
+analysis reports and SimTraffic queue reports.
+
+                                        TABLE 5
+                            SIMTRAFFIC 95TH QUEUE SUMMARY
+                                A
+                                 P
+                                 P     SIMTRAFFIC 95TH QUEUE (FT)
+           ANALYSIS             R                                       RECOMMENDED
+           SCENARIO             O                                        STORAGE (FT)
+                                A
+                                C    AM PEAK HOUR     PM PEAK HOUR
+                                H
+                               EB2          50               72                -
+                               WB2          67               63                -
+          Existing (2013)
+                               NB2          26               30                -
+                               SB2          41               41                -
+                               EB           72              155                -
+                               WB           97              143                -
+          No-Build (2018)
+                               NB           29               31                -
+                                SB          39               42                -
+                               EBL          10               30               150
+         No-Build (2018)       WBL          12               14               150
+      Improvements By Others   NB           29               32                -
+                                SB          39               45                -
+                               EB           81              211                -
+                               WB          113              139                -
+           Build (2018)
+                               NB           36               37                -
+                                SB          38               47                -
+                               EBL          12               30               150
+           Build (2018)        WBL          18               25               150
+      Improvements By Others   NB           45               47                -
+                                SB          40               40                -
+
+
+
+
+                                                 9
+                                                                     Jim Wilson Road Development ­Traffic Impact Study
+
+
+4.2.2.      Henry Harris Road and 12 Mile Creek Road (Site Drive 2)
+Henry Harris Road intersects 12 Mile Creek Road forming a tee intersection. Henry Harris Road is
+free-flowing while 12 Mile Creek Road is stop controlled. The bridge on 12 Mile Creek Road
+(over 12 Mile Creek) is expected to be closed in the future. This will dead end 12 Mile Creek
+Road just east of the proposed development. The southbound left turn movement on Henry Harris
+Road is expected to operate at LOS A during all scenarios. The 12 Mile Creek Road approach is
+also expected to operate at LOS A during all scenarios. No turn lane warrants were met at this
+intersection, so no improvements are recommended. Refer to Table 6 for a summary of the
+analysis results. Refer to Appendix E for the Synchro capacity analysis reports.
+
+
+
+                              TABLE 6
+    ANALYSIS SUMMARY OF HENRY HARRIS ROAD AND 12 MILE CREEK ROAD
+                                      A
+                                      P                                         WEEKDAY              WEEKDAY
+                                      P                                       AM PEAK HOUR         PM PEAK HOUR
+         ANALYSIS                     R             LANE                     LEVEL OF SERVICE     LEVEL OF SERVICE
+         SCENARIO                     O        CONFIGURATIONS
+                                      A
+                                      C                                      Approach   Overall   Approach    Overall
+                                      H
+                                    WB2                 1 LT-RT                 A                     A
+       Existing (2013)              NB                  1 TH-RT                 -         N/A3        -        N/A3
+                                    SB1                 1 LT-TH                 A                     A
+
+                                    WB2                 1 LT-RT                 A                     A
+      No-Build (2018)               NB                  1 TH-RT                 -         N/A3        -        N/A3
+                                    SB1                 1 LT-TH                 A                     A
+
+                                    WB2                 1 LT-RT                 A                     A
+         Build (2018)               NB                  1 TH-RT                 -         N/A3        -        N/A3
+                                    SB1                 1 LT-TH                 A                     A
+1. Major street left-turn movement for unsignalized intersection.
+2. Stop controlled approach for unsignalized intersection.
+3. Overall intersection LOS is not provided for unsignalized intersections
+
+
+
+
+                                                                        10
+                                               Jim Wilson Road Development ­Traffic Impact Study
+
+4.2.3.   Jim Wilson Road and US 521
+Jim Wilson Road and US 521 form a four-leg signalized intersection. The intersection currently
+operates at LOS B during both peak hours. The background traffic growth and offsite
+developments are expected to increase delay at the intersection as seen in the No-Build (2018)
+scenario. The eastbound Jim Wilson Road approach is expected to operate at LOS C during both
+peak hours. All other approaches are expected to operate at LOS E or LOS F during both peak
+hours of the No-Build (2018) scenario. The overall intersection is expected to operate at LOS F
+during both peak hours of the No-Build (2018) scenario. Refer to Table 7 for a summary of the
+analysis results. Refer to Appendix F for the Synchro capacity analysis reports.
+
+
+The traffic impact study, dated July 2007, for the Cornerstone development included
+recommendations for improvements at the intersection of Jim Wilson Road and US 521. It is
+unclear at this time whether or not these improvements will be constructed. New recommendations
+have been made for this intersection. The No-Build (2018) Improvements By Others scenario
+includes the following improvements:
+    ·    Construct dual westbound left and right turn lanes. The dual left turn lanes would need
+         250 feet of storage. The dual right turn lanes would need 275 feet of storage.
+    ·    Construct one northbound right turn lane with 150 feet of storage.
+    ·    Extend the southbound left turn lane to provide 450 feet of storage. Change the southbound
+         inner through lane to a left turn movement.
+    ·    Construct an additional departure lane on eastbound Jim Wilson Road.
+
+
+These recommended improvements by others are expected to provide additional capacity. The
+No-Build (2018) Improvements By Others scenario is expected to provide an overall intersection
+LOS C during the AM peak hour and LOS D during the PM peak hour.
+
+
+The build scenario was modeled with and without the recommended improvements by others.
+Without any improvements, the Build (2018) scenario is expected to increase in overall
+intersection delay by approximately 15 percent during the AM peak hour and by 12 percent during
+the PM peak hour. With the recommended improvements by others, the Build (2018)
+Improvements By Others scenario is expected to increase in overall intersection delay by less than
+
+
+                                                  11
+                                                     Jim Wilson Road Development ­Traffic Impact Study
+
+4 percent during both peak hours. No improvements are recommended by the developer at this
+intersection due to the low increase in delay.
+
+                                      TABLE 7
+                    ANALYSIS SUMMARY OF JIM WILSON ROAD AND US 521
+                                  A
+                                   P                            WEEKDAY               WEEKDAY
+                                   P                          AM PEAK HOUR          PM PEAK HOUR
+       ANALYSIS                   R         LANE             LEVEL OF SERVICE      LEVEL OF SERVICE
+       SCENARIO                   O    CONFIGURATIONS
+                                  A
+                                  C                          Approach   Overall    Approach   Overall
+                                  H
+                                  EB     1 LT, 1 TH, 1 RT       B                     B
+                                  WB       1 LT-TH-RT           A          B          B          B
+      Existing (2013)
+                                  NB   1 LT, 1 TH, 1 TH-RT      C        (16.9)       C        (15.6)
+                                  SB   1 LT, 2 TH, 1 TH-RT      A                     B
+                                  EB     1 LT, 1 TH, 1 RT       C                     C
+                                  WB       1 LT-TH-RT           F           F         F          F
+     No-Build (2018)
+                                  NB   1 LT, 1 TH, 1 TH-RT      F        (148.8)      F       (191.3)
+                                  SB   1 LT, 2 TH, 1 TH-RT      E                     F
+                                  EB     1 LT, 1 TH, 1 RT       D                     D
+    No-Build (2018)               WB     2 LT, 1 TH, 2 RT       C          C          D          D
+ Improvements By Others           NB     1 LT, 2 TH, 1 RT       D        (34.4)       E        (54.3)
+                                  SB   2 LT, 1 TH, 1 TH-RT      C                     D
+                                  EB     1 LT, 1 TH, 1 RT       C                     C
+                                  WB       1 LT-TH-RT           F           F         F          F
+        Build (2018)
+                                  NB   1 LT, 1 TH, 1 TH-RT      F        (171.8)      F       (213.6)
+                                  SB   1 LT, 2 TH, 1 TH-RT      E                     F
+                                  EB     1 LT, 1 TH, 1 RT       D                     E
+      Build (2018)                WB     2 LT, 1 TH, 2 RT       C          D          D          D
+ Improvements By Others           NB     1 LT, 2 TH, 1 RT       D        (35.9)       E        (54.4)
+                                  SB   2 LT, 1 TH, 1 TH-RT      C                     D
+Bold denotes improvement by others.
+
+
+
+
+                                                       12
+                                                                     Jim Wilson Road Development ­Traffic Impact Study
+
+4.2.4.      Jim Wilson Road and Site Drive 1
+Site Drive 1 is proposed to intersect Jim Wilson Road east of Henry Harris Road. The intersection
+would be stop controlled on Site Drive 1. A turn lane warrant analysis was performed for this
+intersection based on the guidelines in Chapter 15 of the SCDOT Highway Design Manual. A
+westbound Jim Wilson Road left turn lane is warranted based on the Build (2018) PM peak hour
+volumes. It is recommended the developer construct a westbound Jim Wilson Road left turn lane
+with 150 feet of storage. The westbound left turn movement is expected to operate at LOS A. The
+Site Drive 1 approach is expected to operate at LOS C during the AM peak hour and at LOS D
+during the PM peak hour. Refer to Table 8 for a summary of the analysis results. Refer to
+Appendix G for the Synchro capacity analysis reports.
+
+
+
+                                      TABLE 8
+                ANALYSIS SUMMARY OF JIM WILSON ROAD AND SITE DRIVE 1
+                                      A
+                                      P                                         WEEKDAY              WEEKDAY
+                                      P                                       AM PEAK HOUR         PM PEAK HOUR
+         ANALYSIS                     R             LANE                     LEVEL OF SERVICE     LEVEL OF SERVICE
+         SCENARIO                     O        CONFIGURATIONS
+                                      A
+                                      C                                      Approach   Overall   Approach    Overall
+                                      H
+                                    EB                 1 TH-RT                  -                     -
+         Build (2018)               WB1               1 LT, 1 TH                A         N/A3        A        N/A3
+                                    NB2                1 LT-RT                  C                     D
+1. Major street left-turn movement for unsignalized intersection.
+2. Stop controlled approach for unsignalized intersection.
+3. Overall intersection LOS is not provided for unsignalized intersections
+Bold denotes improvement by developer.
+
+
+
+5.          CONCLUSIONS
+This report summarizes the findings of the Traffic Impact Study (TIS) that was performed for the
+Jim Wilson Road Development. The proposed site is located south of Jim Wilson Road and east of
+Henry Harris Road in Lancaster, South Carolina. The purpose of this study is to determine the
+potential impact to the surrounding transportation system caused by the traffic generated by the
+proposed development.
+
+
+
+
+                                                                        13
+                                              Jim Wilson Road Development ­Traffic Impact Study
+
+The Jim Wilson Road Development is proposed to consist of 271 single-family detached homes.
+One site driveway is proposed on Jim Wilson Road and another on Henry Harris Road. For
+purposes of this study, it is assumed that the development will be fully built out by 2018.
+
+
+5.1.    Summary of Recommended Improvements
+Based on the analysis results, certain geometric improvements have been identified. Refer to
+Figure 16 for an illustration of the recommended lane configurations.
+
+
+The following improvements have been identified to be constructed by others:
+
+
+Jim Wilson Road and Henry Harris Road
+   ·    Remove stop signs on Jim Wilson Road
+   ·    Construct one eastbound Jim Wilson Road left turn lane with 150 feet of storage.
+   ·    Construct one westbound Jim Wilson Road left turn lane with 150 feet of storage.
+
+
+Jim Wilson Road and US 521
+   ·    Extend the southbound US 521 left turn lane to provide 450 feet of storage.
+   ·    Change the southbound US 521 inner through lane to a left turn lane.
+   ·    Construct dual left turn lanes on westbound Jim Wilson Road. Each lane would have 250
+        feet of storage. Construct an additional eastbound Jim Wilson Road departure lane.
+   ·    Construct dual right turn lanes on westbound Jim Wilson Road. Each lane would have
+        275 feet of storage.
+   ·    Construct one northbound US 521 right turn lane with 150 feet of storage.
+
+
+The following improvements have been identified to be constructed by the developer:
+
+
+Jim Wilson Road and Site Drive 1
+   ·    Construct one westbound Jim Wilson Road left turn lane with 150 feet of storage.
+
+
+
+
+                                                 14
+      Jim Wilson Road Development ­ Traffic Impact Study
+
+
+
+
+TECHNICAL APPENDIX
+  Jim Wilson Road Development ­ Traffic Impact Study
+
+
+
+
+APPENDIX A
+ FIGURES
+                                                                                         J im       W ils o n R o a d
+
+
+
+
+                                                                       S ite D riv e 1
+    U S 5 2 1
+
+
+
+
+                          H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                                                   1 2 M ile C re e k R o a d
+                                                                                                                                                        (S ite D riv e 2 )
+
+
+
+
+                L E G E N D
+                                                                                                                        L E G E N D
+
+
+
+N                                                                                               N                         P ro p o s e d S ite L o c a tio n
+
+                                                                                                                          O ff-S ite S tu d y In te rs e c tio n
+
+
+
+
+                                                      JIM       W IL S O N R O A D                                            S ite L o c a tio n M a p
+                                                            D E V E L O P M E N T
+                                                                L a n c a s te r, S C                               S c a le : N o t to S c a le         F ig u re 1
+                                                                                         J im   W ils o n R o a d
+
+
+
+
+                                                                       S ite D riv e 1
+    U S 5 2 1
+
+
+
+
+                          H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                                               1 2 M ile C re e k R o a d
+                                                                                                                                                    (S ite D riv e 2 )
+
+
+
+
+                L E G E N D
+
+
+
+
+N
+
+
+
+                                                      JIM       W IL S O N R O A D                                     P re lim in a ry S ite P la n
+                                                            D E V E L O P M E N T
+                                                                L a n c a s te r, S C                           S c a le : N o t to S c a le         F ig u re 2
+        1 5 0 '
+
+
+
+
+                                                                                                                      J im   W ils o n R o a d
+7 5 '
+                       2 0 0 '
+
+
+
+
+7 5 '
+
+
+
+
+                                                                                                    S ite D riv e 1
+           U S 5 2 1
+
+
+
+
+                                                       H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                                                                            1 2 M ile C re e k R o a d
+                                                                                                                                                                                 (S ite D riv e 2 )
+
+
+
+
+                                         L E G E N D
+                                       U n s ig n a liz e d In te rs e c tio n
+
+                                       S ig n a liz e d In te rs e c tio n
+
+                                       E x is tin g L a n e
+  N
+                                 X '   S to ra g e (In F e e t)
+
+
+
+                                                                                                                                                    E x is tin g (2 0 1 3 ) L a n e
+                                                                                   JIM       W IL S O N R O A D                                         C o n fig u ra tio n s
+                                                                                         D E V E L O P M E N T
+                                                                                             L a n c a s te r, S C                           S c a le : N o t to S c a le         F ig u re 3
+      4 1 9 / 1 0 0 1
+     1 4 4 / 3 1 7
+       5 4 / 5 9
+
+
+
+
+                                                               7 / 1 0
+                                   3 0 2 / 1 5 0                                                           1 0 / 9
+
+
+
+
+                                                              6 / 8
+                                                             7 / 5
+                                    2 0 / 2 9                                                               2 0 9 / 1 4 2
+                                     3 9 / 6 5                                                               1 0 / 9
+                                                                                                                                                               J im   W ils o n R o a d
+1 8 / 7 9                                                  7 / 3 2
+   7 / 6 6                                          1 0 1 / 2 2 9
+  8 / 6 7                                                 5 / 1 3
+                                  2 0 / 3 8
+                             8 8 2 / 5 3 5
+                                 2 1 / 4 0
+
+
+
+
+                                                                                                     7 / 8
+                                                                                                      4 / 7
+                                                                                                       6 / 6
+
+
+
+
+                                                                                                                                             S ite D riv e 1
+                U S 5 2 1
+
+
+
+
+                                                                        H e n ry H a rris R o a d
+                                                                  1 1 / 2 0
+                                                                 1 0 / 1 0
+
+
+
+
+                                                                                                          1 0 / 1 0
+                                                                                                           1 0 / 1 0
+                                                                                                                                                                                                                     1 2 M ile C re e k R o a d
+                                                                                                                                                                                                                          (S ite D riv e 2 )
+                                                                                                       7 / 1 1
+                                                                                                    1 0 / 1 0
+
+
+
+
+                                                   L E G E N D
+                                                       U n s ig n a liz e d In te rs e c tio n
+
+                                                       S ig n a liz e d In te rs e c tio n
+
+      N                     X / Y                      A M           / P M                          P e a k H o u r T ra ffic
+
+
+
+
+                                                                                                                                                                                               E x is tin g (2 0 1 3 )
+                                                                                                                            JIM       W IL S O N R O A D                              P e a k H o u r T ra ffic V o lu m e s
+                                                                                                                                  D E V E L O P M E N T
+                                                                                                                                      L a n c a s te r, S C                           S c a le : N o t to S c a le        F ig u re 4
+    (1 0 % )
+    2 0 %
+
+
+
+
+                             (7 % )
+                             (2 0 % )                                             1 4 %                                        1 4 %
+
+                                                                                                                                       J im   W ils o n R o a d
+                                             (9 % )                                                 (9 % )
+                    1 5 % , (3 % )
+                            1 0 %
+
+
+
+
+                                                                                                             S ite D riv e 1
+        U S 5 2 1
+
+
+
+
+                                                      H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                                                                                             1 2 M ile C re e k R o a d
+                                                                                                                                                                                                  (S ite D riv e 2 )
+
+
+
+
+                                        L E G E N D
+                                           U n s ig n a liz e d In te rs e c tio n
+
+                                           S ig n a liz e d In te rs e c tio n
+
+N                       X %                E n te rin g T rip D is trib u tio n
+
+                     (X % )                E x itin g T rip D is trib u tio n
+
+                               X X %       R e g io n a l D is trib u tio n
+
+                                                                                                                                                                     C o rn e rs to n e S ite T rip
+                                                                                          JIM       W IL S O N R O A D                                             D is trib u tio n P e rc e n ta g e s
+                                                                                                D E V E L O P M E N T
+                                                                                                    L a n c a s te r, S C                                     S c a le : N o t to S c a le         F ig u re 5
+    4 0 %
+
+
+
+
+                          (4 0 % )
+                          (3 0 % )                                             3 0 %                                         3 0 %
+
+                                                                                                                                     J im   W ils o n R o a d
+                                        (3 0 % )                                                (3 0 % )
+                  3 0 %
+
+
+
+
+                                                                                                           S ite D riv e 1
+      U S 5 2 1
+
+
+
+
+                                                   H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                                                                                           1 2 M ile C re e k R o a d
+                                                                                                                                                                                                (S ite D riv e 2 )
+
+
+
+
+                                     L E G E N D
+                                        U n s ig n a liz e d In te rs e c tio n
+
+                                        S ig n a liz e d In te rs e c tio n
+
+N                    X %                E n te rin g T rip D is trib u tio n
+
+                   (X % )               E x itin g T rip D is trib u tio n
+
+                            X X %       R e g io n a l D is trib u tio n
+
+                                                                                                                                                                C a ro lin a R e s e rv e S ite T rip
+                                                                                       JIM       W IL S O N R O A D                                               D is trib u tio n P e rc e n ta g e s
+                                                                                             D E V E L O P M E N T
+                                                                                                   L a n c a s te r, S C                                    S c a le : N o t to S c a le         F ig u re 6
+     5 5 %
+    2 0 %
+
+
+
+
+                                                                                  (2 0 % )                                       (2 0 % )
+                              (2 0 % )
+                                                                                                                                            J im   W ils o n R o a d
+                                              2 0 %                                                    2 0 %
+                   (5 5 % )
+
+
+
+
+                                                                                                               S ite D riv e 1
+       U S 5 2 1
+
+
+
+
+                                                      H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                                                                                                  1 2 M ile C re e k R o a d
+                                                                                                                                                                                                       (S ite D riv e 2 )
+
+
+
+
+                                         L E G E N D
+                                            U n s ig n a liz e d In te rs e c tio n
+
+                                            S ig n a liz e d In te rs e c tio n
+
+N                      X %                  E n te rin g T rip D is trib u tio n
+
+                    (X % )                  E x itin g T rip D is trib u tio n
+
+                               X X %        R e g io n a l D is trib u tio n
+
+                                                                                                                                                                         W a ln u t C re e k S ite T rip
+                                                                                             JIM       W IL S O N R O A D                                               D is trib u tio n P e rc e n ta g e s
+                                                                                                   D E V E L O P M E N T
+                                                                                                       L a n c a s te r, S C                                       S c a le : N o t to S c a le         F ig u re 7
+    6 4 / 1 9 1
+     1 7 / 9 1
+
+
+
+
+                             1 2 / 6 4
+                              3 4 / 1 8 2                                                  4 5 / 1 3 4                                          4 5 / 1 3 4
+
+                                                                                                                                                              J im   W ils o n R o a d
+                                               1 5 / 8 2                                                          1 5 / 8 2
+                      5 3 / 1 7 1
+                        3 2 / 9 6
+
+
+
+
+                                                                                                                              S ite D riv e 1
+          U S 5 2 1
+
+
+
+
+                                                            H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                                                                                                                    1 2 M ile C re e k R o a d
+                                                                                                                                                                                                                         (S ite D riv e 2 )
+
+
+
+
+                                            L E G E N D
+
+                                                U n s ig n a liz e d In te rs e c tio n
+
+                                                S ig n a liz e d In te rs e c tio n
+
+N                     X / Y                     A M        / P M                        P e a k H o u r T ra ffic
+
+
+
+
+                                                                                                                                                                                             C o rn e rs to n e S ite T rip
+                                                                                                         JIM       W IL S O N R O A D                                                               A s s ig n m e n t
+                                                                                                               D E V E L O P M E N T
+                                                                                                                      L a n c a s te r, S C                                          S c a le : N o t to S c a le          F ig u re 8
+    2 2 / 7 9
+
+
+
+
+                                 7 6 / 4 4
+                                  5 7 / 3 3                                                 1 3 / 4 1                                         1 3 / 4 1
+
+                                                                                                                                                          J im   W ils o n R o a d
+                                                3 8 / 2 4                                                       3 8 / 2 4
+                     1 6 / 5 9
+
+
+
+
+                                                                                                                            S ite D riv e 1
+         U S 5 2 1
+
+
+
+
+                                                             H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                                                                                                                1 2 M ile C re e k R o a d
+                                                                                                                                                                                                                     (S ite D riv e 2 )
+
+
+
+
+                                              L E G E N D
+
+                                                  U n s ig n a liz e d In te rs e c tio n
+
+                                                  S ig n a liz e d In te rs e c tio n
+
+N                     X / Y                       A M       / P M                        P e a k H o u r T ra ffic
+
+
+
+
+                                                                                                                                                                                     C a ro lin a R e s e rv e S ite T rip
+                                                                                                        JIM       W IL S O N R O A D                                                            A s s ig n m e n t
+                                                                                                              D E V E L O P M E N T
+                                                                                                                     L a n c a s te r, S C                                       S c a le : N o t to S c a le          F ig u re 9
+     2 2 7 / 5 7 4
+    8 3 / 2 0 9
+
+
+
+
+                                                                                                           2 0 2 / 1 3 8                                           2 0 2 / 1 3 8
+                                        2 0 2 / 1 3 8
+                                                                                                                                                                                   J im   W ils o n R o a d
+                                                          8 3 / 2 0 9                                                              8 3 / 2 0 9
+                        5 5 5 / 3 8 0
+
+
+
+
+                                                                                                                                                 S ite D riv e 1
+           U S 5 2 1
+
+
+
+
+                                                                          H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                                                                                                                                         1 2 M ile C re e k R o a d
+                                                                                                                                                                                                                                              (S ite D riv e 2 )
+
+
+
+
+                                                        L E G E N D
+
+                                                           U n s ig n a liz e d In te rs e c tio n
+
+                                                           S ig n a liz e d In te rs e c tio n
+
+N                      X / Y                               A M          / P M                         P e a k H o u r T ra ffic
+
+
+
+
+                                                                                                                                                                                                                W a ln u t C re e k S ite T rip
+                                                                                                                           JIM       W IL S O N R O A D                                                                 A s s ig n m e n t
+                                                                                                                                 D E V E L O P M E N T
+                                                                                                                                        L a n c a s te r, S C                                             S c a le : N o t to S c a le         F ig u re 1 0
+            4 0 %
+
+    4 0 %
+
+
+
+
+                            (4 0 % )                                                         (2 3 % )                                                      2 %
+                            (1 0 % )                                                         2 % , (4 % )                                                   3 3 %
+
+                                                                                                                                                                    3 5 %   J im   W ils o n R o a d
+                                            2 3 %                                                                    (2 % )
+                                           2 7 %                                                                     2 7 %
+
+
+
+
+                                                                                                                                                      (2 7 % )
+                                                                                                                                                      (3 3 % )
+                                                                                         (2 7 % )
+                                                                                     4 % , (2 % )
+                    1 0 %
+
+
+
+
+                                                                                                                                    S ite D riv e 1
+      U S 5 2 1
+
+
+
+
+            1 0 %
+                                                         H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                                (1 6 % )
+                                                     (4 % )
+                                                    2 9 %
+
+
+
+
+                                                                                                                                2 6 %
+
+
+
+
+                                                                                            (2 9 % )                                                       (4 % )
+                                                                                                                               4 %
+
+
+
+
+                                                                                            (1 1 % )                                                       (7 % )
+                                                                                                                                                                                                                                  1 2 M ile C re e k R o a d
+                                                                                                                                                                                                                                       (S ite D riv e 2 )
+                                                                                                                      1 6 %
+                                                                                                                         7 %
+                                                                                                                     1 7 %
+                                                                                                                                                      (1 7 % )
+                                                                                                                                                      (2 6 % )
+                                                                                        4 %
+                                                                                     1 1 %
+
+
+
+
+                                                                   1 5 %
+
+
+
+
+                                       L E G E N D
+                                         U n s ig n a liz e d In te rs e c tio n
+
+                                         S ig n a liz e d In te rs e c tio n
+
+N                      X %               E n te rin g T rip D is trib u tio n
+
+                     (X % )              E x itin g T rip D is trib u tio n
+
+                             X X %       R e g io n a l D is trib u tio n
+
+                                                                                                                                                                                                             P rim a ry S ite T rip
+                                                                                                            JIM       W IL S O N R O A D                                                                D is trib u tio n P e rc e n ta g e s
+                                                                                                                  D E V E L O P M E N T
+                                                                                                                         L a n c a s te r, S C                                                     S c a le : N o t to S c a le         F ig u re 1 1
+    2 0 / 6 5
+
+
+
+
+                           6 0 / 3 8                                                         3 4 / 2 2                                                      1 / 3
+                            1 5 / 1 0                                                         7 / 7                                                        1 6 / 5 4
+                                                                                                                                                                       J im   W ils o n R o a d
+                                            1 1 / 3 7                                                                 3 / 2
+                                           1 3 / 4 4                                                              1 3 / 4 4
+                 5 / 1 6
+
+
+
+
+                                                                                                                                                     4 0 / 2 6
+                                                                                                                                                    4 9 / 3 1
+                                                                                       4 0 / 2 6
+                                                                                           5 / 8
+
+
+
+
+                                                                                                                                S ite D riv e 1
+     U S 5 2 1
+
+
+
+
+                                                          H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                           2 4 / 1 5
+                                                                                                                          1 3 / 4 2
+                                                   1 4 / 4 7
+
+
+
+
+                                                                                                                         2 / 6
+                                                    6 / 4
+
+
+
+
+                                                                                            4 3 / 2 8                                                   6 / 4
+                                                                                             1 6 / 1 0                                                   1 0 / 7
+                                                                                                                                                                                                                             1 2 M ile C re e k R o a d
+                                                                                                                                                                                                                                  (S ite D riv e 2 )
+                                                                                                                    8 / 2 6
+                                                                                                                   3 / 1 1
+                                                                                                                  8 / 2 8
+                                                                                                                                                   2 5 / 1 6
+                                                                                                                                                  3 9 / 2 5
+                                                                                        2 / 6
+                                                                                      5 / 1 8
+
+
+
+
+                                        L E G E N D
+                                           U n s ig n a liz e d In te rs e c tio n
+
+                                           S ig n a liz e d In te rs e c tio n
+
+N                X / Y                     A M          / P M                         P e a k H o u r T ra ffic
+
+
+
+
+                                                                                                                                                                                                         T o ta l P e a k H o u r
+                                                                                                         JIM       W IL S O N R O A D                                                                 S ite T rip A s s ig n m e n t
+                                                                                                               D E V E L O P M E N T
+                                                                                                                      L a n c a s te r, S C                                                   S c a le : N o t to S c a le         F ig u re 1 2
+          4 8 6 / 1 1 6 0
+         1 6 7 / 3 6 7
+           6 3 / 6 8
+
+
+
+
+                                                                   8 / 1 2
+                                       3 5 0 / 1 7 4                                                          1 2 / 1 0
+
+
+
+
+                                                                  7 / 9
+                                                                 8 / 6
+                                        2 3 / 3 4                                                              2 4 2 / 1 6 5
+                                         4 5 / 7 5                                                              1 2 / 1 0
+                                                                                                                                                                  J im   W ils o n R o a d
+2 1 / 9 2                                                      8 / 3 7
+   8 / 7 7                                              1 1 7 / 2 6 5
+  9 / 7 8                                                     6 / 1 5
+                                1 0 2 2 / 6 2 0
+                                       2 3 / 4 4
+                                      2 4 / 4 6
+
+
+
+
+                                                                                                        8 / 9
+                                                                                                         5 / 8
+                                                                                                          7 / 7
+
+
+
+
+                                                                                                                                                S ite D riv e 1
+                   U S 5 2 1
+
+
+
+
+                                                                           H e n ry H a rris R o a d
+                                                                      1 3 / 2 3
+                                                                     1 2 / 1 2
+
+
+
+
+                                                                                                             1 2 / 1 2
+                                                                                                              1 2 / 1 2
+                                                                                                                                                                                                                        1 2 M ile C re e k R o a d
+                                                                                                                                                                                                                             (S ite D riv e 2 )
+                                                                                                          8 / 1 3
+                                                                                                       1 2 / 1 2
+
+
+
+
+                                                       L E G E N D
+                                                           U n s ig n a liz e d In te rs e c tio n
+
+                                                           S ig n a liz e d In te rs e c tio n
+
+     N                         X / Y                       A M           / P M                         P e a k H o u r T ra ffic
+
+
+
+
+                                                                                                                                                                                                      P ro je c te d (2 0 1 8 )
+                                                                                                                               JIM       W IL S O N R O A D                                  P e a k H o u r T ra ffic V o lu m e s
+                                                                                                                                     D E V E L O P M E N T
+                                                                                                                                         L a n c a s te r, S C                           S c a le : N o t to S c a le         F ig u re 1 3
+      7 3 0 / 1 8 2 5
+     3 3 6 / 8 4 6
+       6 3 / 6 8
+
+
+
+
+                                                                 8 / 1 2
+                                   6 4 0 / 4 2 0                                                              1 2 / 1 0
+
+
+
+
+                                                                7 / 9
+                                                               8 / 6
+                                    2 3 / 3 4                                                                   5 0 2 / 4 7 8
+                                     1 3 6 / 2 9 0                                                             1 2 / 1 0
+                                                                                                                                                                   J im   W ils o n R o a d
+2 1 / 9 2                                                    8 / 3 7
+   8 / 7 7                                            2 5 3 / 5 8 0
+  9 / 7 8                                                   6 / 1 5
+                                    2 3 / 4 4
+                           1 6 3 0 / 1 1 7 1
+                                 7 2 / 2 0 1
+
+
+
+
+                                                                                                         8 / 9
+                                                                                                        5 / 8
+                                                                                                       7 / 7
+
+
+
+
+                                                                                                                                                 S ite D riv e 1
+               U S 5 2 1
+
+
+
+
+                                                                         H e n ry H a rris R o a d
+                                                                 1 3 / 2 3
+                                                                1 2 / 1 2
+
+
+
+
+                                                                                                           1 2 / 1 2
+                                                                                                            1 2 / 1 2
+                                                                                                                                                                                                                         1 2 M ile C re e k R o a d
+                                                                                                                                                                                                                              (S ite D riv e 2 )
+                                                                                                        8 / 1 3
+                                                                                                     1 2 / 1 2
+
+
+
+
+                                                     L E G E N D
+                                                         U n s ig n a liz e d In te rs e c tio n
+
+                                                         S ig n a liz e d In te rs e c tio n
+
+     N                     X / Y                         A M           / P M                         P e a k H o u r T ra ffic
+
+
+
+
+                                                                                                                                                                                                       N o -B u ild (2 0 1 8 )
+                                                                                                                                JIM       W IL S O N R O A D                                  P e a k H o u r T ra ffic V o lu m e s
+                                                                                                                                      D E V E L O P M E N T
+                                                                                                                                          L a n c a s te r, S C                           S c a le : N o t to S c a le         F ig u re 1 4
+          7 3 0 / 1 8 2 5
+         3 5 6 / 9 1 1
+           6 3 / 6 8
+
+
+
+
+                                                                      8 / 1 2
+                                       7 0 0 / 4 5 8                                                              1 2 / 1 0
+
+
+
+
+                                                                     7 / 9
+                                                                    8 / 6
+                                        2 3 / 3 4                                                                  5 3 6 / 5 0 0                                                     5 2 6 / 5 0 1
+                                         1 5 1 / 3 0 0                                                              1 9 / 1 7                                                         1 6 / 5 4
+
+                                                                                                                                                                                                     J im   W ils o n R o a d
+2 1 / 9 2                                                        8 / 3 7                                                                  2 7 1 / 5 9 5
+   8 / 7 7                                                2 6 4 / 6 1 7                                                                       1 3 / 4 4
+  9 / 7 8
+
+
+
+
+                                                                                                                                                                               4 0 / 2 6
+                                                                                                                                                                              4 9 / 3 1
+                                                              1 9 / 5 9
+                                        2 3 / 4 4
+                               1 6 3 0 / 1 1 7 1
+                                     7 7 / 2 1 7
+
+
+
+
+                                                                                                            4 8 / 3 5
+                                                                                                                5 / 8
+                                                                                                           1 2 / 1 5
+
+
+
+
+                                                                                                                                                            S ite D riv e 1
+                   U S 5 2 1
+
+
+
+
+                                                                             H e n ry H a rris R o a d
+                                                                     1 9 / 2 7
+                                                                    2 6 / 5 9
+
+
+
+
+                                                                                                                                                       2 4 / 1 5
+                                                                                                                                                      1 3 / 4 2
+                                                                                                                                                     2 / 6
+
+
+
+
+                                                                                                               5 5 / 4 0                                                            6 / 4
+                                                                                                                2 8 / 2 2                                                            3 3 / 3 0
+                                                                                                                                                                                                                                                           1 2 M ile C re e k R o a d
+                                                                                                                                                                                                                                                                (S ite D riv e 2 )
+                                                                                                                                                8 / 2 6
+                                                                                                                                             2 6 / 3 4
+                                                                                                          1 0 / 1 9
+                                                                                                         1 7 / 3 0
+
+
+
+
+                                                                                                                                               8 / 2 8
+                                                                                                                                                                               2 5 / 1 6
+                                                                                                                                                                              3 9 / 2 5
+
+
+
+
+                                                         L E G E N D
+                                                              U n s ig n a liz e d In te rs e c tio n
+
+                                                              S ig n a liz e d In te rs e c tio n
+
+     N                         X / Y                          A M          / P M                         P e a k H o u r T ra ffic
+
+
+
+
+                                                                                                                                                                                                                                           B u ild (2 0 1 8 )
+                                                                                                                                   JIM       W IL S O N R O A D                                                                 P e a k H o u r T ra ffic V o lu m e s
+                                                                                                                                         D E V E L O P M E N T
+                                                                                                                                                   L a n c a s te r, S C                                                    S c a le : N o t to S c a le         F ig u re 1 5
+                                2 7 5 '
+                                 2 7 5 '
+        4 5 0 '
+
+
+
+
+                                2 5 0 '
+                                 2 5 0 '                                                  1 5 0 '                                      1 5 0 '
+
+                                                                                                                                                 J im   W ils o n R o a d
+7 5 '                                               1 5 0 '
+                                    1 5 0 '
+                      2 0 0 '
+
+
+
+
+7 5 '
+
+
+
+
+                                                                                                                     S ite D riv e 1
+          U S 5 2 1
+
+
+
+
+                                                              H e n ry H a rris R o a d
+
+
+
+
+                                                                                                                                                                                                       1 2 M ile C re e k R o a d
+                                                                                                                                                                                                            (S ite D riv e 2 )
+
+
+
+
+                                               L E G E N D
+                                              U n s ig n a liz e d In te rs e c tio n
+                                              S ig n a liz e d In te rs e c tio n
+                                              E x is tin g L a n e
+                                  X '         S to ra g e (In F e e t)
+ N
+                                              Im p ro v e m e n ts B y O th e rs
+                                              Im p ro v e m e n ts B y D e v e lo p e r
+
+
+                                                                                                                                                                                R e c o m m e n d e d L a n e
+                                                                                                    JIM       W IL S O N R O A D                                                     C o n fig u ra tio n s
+                                                                                                          D E V E L O P M E N T
+                                                                                                              L a n c a s te r, S C                                     S c a le : N o t to S c a le         F ig u re 1 6
+      Jim Wilson Road Development ­ Traffic Impact Study
+
+
+
+
+  APPENDIX B
+TRAFFIC COUNT DATA
+                                               Ramey Kemp and Associates, Inc.
+                                             8307 University Exec. Park Dr. SteFile
+                                                                                260 Name : Jim Wilson Rd & Henry Harris Rd
+                                                     Charlotte, NC 28262       Site Code : 12121301
+                                                                                              Start Date : 12/11/2013
+                                                                                              Page No : 1
+                                                             Groups Printed- Vehicles
+                   Henry Harris Rd                  Jim Wilson Rd                 Henry Harris Rd                  Jim Wilson Rd
+                     Southbound                       Westbound                     Northbound                       Eastbound
+             Rig   Thr         Trk   App.    Rig   Thr         Trk App. Rig Thr               Trk   App.    Rig   Thr         Trk   App.     Int.
+Start Time              Left                            Left                           Left                            Left
+              ht     u           s   Total    ht      u          s Total      ht    u           s   Total    ht     u           s   Total   Total
+   Factor    1.0   1.0 1.0 1.0               1.0    1.0 1.0 1.0              1.0 1.0 1.0 1.0                1.0   1.0 1.0 1.0
+07:00 AM       1     0    0      0      1      0    28     3     0     31      1    0     0     0      1      0     4     0     0      4      37
+07:15 AM       3     1    2      0      6      2    59     1     0     62      2    2     1     0      5      1    24     2     0     27     100
+07:30 AM       0     2    3      0      5      3    55     4     0     62      3    1     0     0      4      3    15     2     1     21      92
+07:45 AM       1     1    1      0      3      4    50     2     0     56      0    1     3     0      4      1    37     1     3     42     105
+    Total      5     4    6      0     15      9   192   10      0   211       6    4     4     0     14      5    80     5     4     94     334
+
+08:00 AM      3     2     1     0       6     1     45     3    0     49      1    0     3      0      4     0    25     2     0      27      86
+08:15 AM      3     1     1     0       5     3     29     2    0     34      1    0     3      0      4     2    19     1     4      26      69
+08:30 AM      1     1     3     0       5     1     26     0    0     27      1    0     1      0      2     0    20     0     2      22      56
+08:45 AM      3     0     1     0       4     2     32     0    0     34      4    0     2      0      6     0    28     1     3      32      76
+    Total    10     4     6     0      20     7    132     5    0    144      7    0     9      0     16     2    92     4     9     107     287
+
+
+
+04:00 PM      3     1     1     0       5     2     30     2    0     34      0    2     1      0      3     4     34    4     0      42      84
+04:15 PM      4     1     0     0       5     3     36     1    0     40      3    1     1      0      5     1     35    4     0      40      90
+04:30 PM      3     2     2     0       7     1     21     3    0     25      1    3     0      0      4     3     51    5     0      59      95
+04:45 PM      2     0     0     0       2     0     26     3    0     29      0    1     3      0      4     0     42    1     0      43      78
+    Total    12     4     3     0      19     6    113     9    0    128      4    7     5      0     16     8    162   14     0     184     347
+
+05:00 PM      1     4     2     0       7     2     31     3    0     36      0    2     3      0      5     3     51    8     0      62     110
+05:15 PM      2     1     1     0       4     2     31     5    0     38      1    1     2      0      4     1     55    8     0      64     110
+05:30 PM      5     2     1     0       8     3     46     1    0     50      1    2     2      0      5     4     57    5     0      66     129
+05:45 PM      2     1     1     0       4     2     34     0    1     37      4    2     1      0      7     5     66   11     0      82     130
+    Total    10     8     5     0      23     9    142     9    1    161      6    7     8      0     21    13    229   32     0     274     479
+
+   Grand
+             37    20    20     0      77    31    579    33    1    644    23    18    26      0     67    28    563   55    13     659    1447
+    Total
+             48.   26.   26.                       89.                      34.   26.   38.                       85.
+Apprch %                       0.0           4.8         5.1   0.2                            0.0           4.2         8.3   2.0
+               1     0     0                         9                        3     9     8                         4
+                                                   40.                                                            38.
+  Total %    2.6   1.4   1.4   0.0    5.3    2.1         2.3   0.1   44.5   1.6   1.2   1.8   0.0    4.6    1.9         3.8   0.9   45.5
+                                                     0                                                              9
+                                                                 Ramey Kemp and Associates, Inc.
+                                                               8307 University Exec. Park Dr. SteFile
+                                                                                                  260 Name : Jim Wilson Rd & Henry Harris Rd
+                                                                       Charlotte, NC 28262       Site Code : 12121301
+                                                                                                              Start Date : 12/11/2013
+                                                                                                              Page No : 2
+
+
+                    Henry Harris Rd                Jim Wilson Rd               Henry Harris Rd              Jim Wilson Rd
+                     Southbound                      Westbound                  Northbound                    Eastbound
+              Rig Thr           Trk App. Rig Thr              Trk App. Rig Thr             Trk App. Rig Thr            Trk App.     Int.
+ Start Time              Left                          Left                         Left                        Left
+               ht    u            s Total   ht      u           s Total   ht    u            s Total   ht     u          s Total Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+ Intersectio
+             07:15 AM
+           n
+    Volume      7    6     7      0    20  10 209       10      0   229    6    4     7      0    17    5 101      7     4   117   383
+              35. 30. 35.                         91.                    35. 23. 41.                        86.
+    Percent                     0.0        4.4          4.4 0.0                            0.0        4.3        6.0 3.4
+                0    0     0                        3                      3    5     2                       3
+      07:45
+                1    1     1      0     3    4    50      2     0    56    0    1     3      0     4    1   37     1     3    42   105
+    Volume
+       Peak                                                                                                                      0.912
+     Factor
+   High Int. 07:15 AM                     07:15 AM                      07:15 AM                     07:45 AM
+    Volume      3    1     2      0     6    2    59      1     0    62    2    2     1      0     5    1   37     1     3    42
+       Peak
+                                    0.833                         0.923                        0.850                       0.696
+     Factor
+
+                                                                               Henry Harris Rd
+                                                                           Out       In       Total
+                                                                             21        20        41
+
+
+                                                                             7     6              7       0
+                                                                         Right Thru        Left       Trks
+                                      340
+
+
+                                                 7
+
+
+
+
+                                                                                                                        Right Thru
+                                     Total
+
+
+
+
+                                             Left
+
+
+
+
+                                                                                                                                     Out
+                                                                                                                           10
+
+
+                                                                                                                                      114
+                                                                                       North
+                       Jim Wilson Rd
+
+
+
+
+                                                                                                                                         Jim Wilson Rd
+                                                         101
+                                             Trks Right Thru
+
+
+
+
+                                                                                                                               209
+                               117
+                              In
+
+
+
+
+                                                                          12/11/2013 7:15:00 AM                                               In
+                                                                                                                                               229
+                                                      5
+
+
+
+
+                                                                          12/11/2013 8:00:00 AM
+                                                                                                                        Left
+                                                                                                                          10
+                     223
+
+
+
+
+                                                                          Vehicles
+                    Out
+
+
+
+
+                                                                                                                                                       Total
+                                                 4
+
+
+
+
+                                                                                                                             Trks
+
+
+
+                                                                                                                                                        343
+                                                                                                                                 0
+
+
+
+
+                                                                          Left       Thru Right       Trks
+                                                                                 7       4    6           0
+
+
+                                                                             21        17        38
+                                                                           Out       In       Total
+                                                                               Henry Harris Rd
+                                                                 Ramey Kemp and Associates, Inc.
+                                                               8307 University Exec. Park Dr. SteFile
+                                                                                                  260 Name : Jim Wilson Rd & Henry Harris Rd
+                                                                       Charlotte, NC 28262       Site Code : 12121301
+                                                                                                              Start Date : 12/11/2013
+                                                                                                              Page No : 3
+
+                    Henry Harris Rd                Jim Wilson Rd               Henry Harris Rd              Jim Wilson Rd
+                     Southbound                      Westbound                  Northbound                    Eastbound
+              Rig Thr           Trk App. Rig Thr              Trk App. Rig Thr             Trk App. Rig Thr            Trk App.     Int.
+ Start Time              Left                          Left                         Left                        Left
+                ht   u            s Total   ht      u           s Total   ht    u            s Total    ht    u          s Total Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+ Intersectio
+             05:00 PM
+           n
+    Volume     10    8     5      0    23    9 142        9     1   161    6    7     8      0    21   13 229     32     0   274   479
+              43. 34. 21.                         88.                    28. 33. 38.                        83. 11.
+    Percent                     0.0        5.6          5.6 0.6                            0.0        4.7              0.0
+                 5   8     7                        2                      6    3     1                       6    7
+      05:45
+                 2   1     1      0     4    2    34      0     1    37    4    2     1      0     7    5   66    11     0    82   130
+    Volume
+       Peak                                                                                                                      0.921
+     Factor
+   High Int. 05:30 PM                     05:30 PM                      05:45 PM                     05:45 PM
+    Volume      5    2     1      0     8    3    46      1     0    50    4    2     1      0     7    5   66    11     0    82
+       Peak
+                                    0.719                         0.805                        0.750                       0.835
+     Factor
+
+                                                                               Henry Harris Rd
+                                                                           Out       In       Total
+                                                                             48        23        71
+
+
+                                                                            10     8              5       0
+                                                                         Right Thru        Left       Trks
+                                      434
+
+
+                                               32
+
+
+
+
+                                                                                                                        Right Thru
+                                     Total
+
+
+
+
+                                             Left
+
+
+
+
+                                                                                                                                      Out
+                                                                                                                                       240
+                                                                                                                            9
+                                                                                       North
+                       Jim Wilson Rd
+
+
+
+
+                                                                                                                                          Jim Wilson Rd
+                                                         229
+                                             Trks Right Thru
+
+
+
+
+                                                                                                                               142
+                               274
+                              In
+
+
+
+
+                                                                                                                                               In
+                                                                          12/11/2013 5:00:00 PM                                                 161
+                                                     13
+
+
+
+
+                                                                          12/11/2013 5:45:00 PM
+                                                                                                                        Left
+                                                                                                                            9
+                     160
+
+
+
+
+                                                                          Vehicles
+                    Out
+
+
+
+
+                                                                                                                                                        Total
+                                                 0
+
+
+
+
+                                                                                                                              Trks
+
+
+
+                                                                                                                                                         401
+                                                                                                                                  1
+
+
+
+
+                                                                          Left       Thru Right       Trks
+                                                                                 8       7    6           0
+
+
+                                                                             30        21        51
+                                                                           Out       In       Total
+                                                                               Henry Harris Rd
+Type of peak hour being reported: Intersection Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Charlotte Hwy -- Jim Wilson Rd                                                                                           QC JOB #: 11594501
+ CITY/STATE: Fort Mill, SC                                                                                                          DATE: Tue, Dec 17 2013
+                      617          1202                            Peak-Hour: 7:15 AM -- 8:15 AM
+                            0.93                                                                                                     7.6        4.6
+
+                         54 419 144
+                                                                  Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                                     0.0 8.1 9.0
+
+
+       94      18                         302    361
+                                                                                                                        1.1   5.6                      3.3      3.6
+        0.71   7            0.89           20   0.79
+                                                                                                                              0.0                      0.0
+       33      8                           39    172
+                                                                                                                        3.0   0.0                      7.7      8.7
+
+                         20 882 21
+                                                                                                                                     5.0 5.0 9.5
+
+                      466          923
+                            0.91                                                                                                     7.9        5.1
+
+
+
+                             0                                                                                                        0    0    0
+
+
+
+                                                                                                                              0                          0
+
+               0                            0                                                                                 0                          0
+
+                                                                                                                              0                          0
+
+                             0                                                                                                        0    0    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+               NA                         NA                                                                                  NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count               Charlotte Hwy                     Charlotte Hwy                  Jim Wilson Rd              Jim Wilson Rd                 Total      Hourly
+    Period                  (Northbound)                      (Southbound)                    (Eastbound)                (Westbound)                             Totals
+ Beginning At       Left     Thru Right          U     Left    Thru Right     U       Left    Thru Right     U   Left    Thru Right        U
+    7:00 AM           1     171       3          0      35     100      8     0         0       0      2     0     8       3     73        0          404
+    7:15 AM           1     225       5          0      34     108     11     0         3       0      0     0    11       1     74        0          473
+    7:30 AM           4     218       4          0      33      98     10     0         6       2      2     0     6       6     61        0          450
+    7:45 AM           5     240       8          0      33     112     20     0         7       3      3     0    13       8     93        0          545            1872
+    8:00 AM          10     199       4          0      44     101     13     0         2       2      3     0     9       5     74        0          466            1934
+    8:15 AM           7     164       2          0      33      91     12     0        14       3      4     0     7       2     61        0          400            1861
+    8:30 AM           8     181       5          0      32      72     10     0         5       1      6     0     8       6     53        0          387            1798
+    8:45 AM           8     158       4          1      38      86      9     1        12       2      6     0     5       2     44        0          376            1629
+
+
+
+
+ Peak 15-Min                    Northbound                        Southbound                     Eastbound                   Westbound
+   Flowrates        Left    Thru Right     U           Left   Thru Right    U         Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles       20     960     32     0           132    448     80     0         28     12    12     0      52      32   372     0                     2180
+ Heavy Trucks         0      48      4                  16     28      0                4      0      0            0       0     8                            108
+  Pedestrians                 0                                 0                              0                           0                                   0
+    Bicycles         0        0      0                   0      0      0               0       0      0            0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/19/2013 6:21 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Charlotte Hwy -- Jim Wilson Rd                                                                                           QC JOB #: 11594502
+ CITY/STATE: Fort Mill, SC                                                                                                          DATE: Tue, Dec 17 2013
+                      1377          765                            Peak-Hour: 4:45 PM -- 5:45 PM
+                             0.88                                                                                                    3.1        4.8
+
+                         59 1001 317
+                                                                  Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                     0.0 3.7 1.9
+
+
+       124     79                         150    244
+                                                                                                                        0.0   1.3                      8.0      6.1
+        0.83   66            0.93          29   0.86
+                                                                                                                              0.0                      0.0
+       212     67                          65    422
+                                                                                                                        0.9   1.5                      4.6      1.4
+
+                         38 535 40
+                                                                                                                                     0.0 4.5 0.0
+
+                      1135          613
+                             0.90                                                                                                    3.6        3.9
+
+
+
+                              0                                                                                                       0    0    0
+
+
+
+                                                                                                                              0                          0
+
+               0                            0                                                                                 0                          0
+
+                                                                                                                              0                          0
+
+                              0                                                                                                       0    0    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+               NA                         NA                                                                                  NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count              Charlotte Hwy                      Charlotte Hwy                  Jim Wilson Rd              Jim Wilson Rd                 Total      Hourly
+    Period                 (Northbound)                       (Southbound)                    (Eastbound)                (Westbound)                             Totals
+ Beginning At       Left    Thru Right           U     Left    Thru Right     U       Left    Thru Right     U   Left    Thru Right        U
+    4:00 PM          11    154       8           0      64     200     19     0        34      14     16     0    11       2     42        0          575
+    4:15 PM           9    131       7           0      61     194     17     0        24      11     11     0    14      13     46        0          538
+    4:30 PM           9    132      11           0      55     184     12     1        23      11     13     0    14       8     30        0          503
+    4:45 PM          12    134       7           0      71     261     16     1        29      14     13     0    20       4     39        0          621            2237
+    5:00 PM          13     117      6           1      67     207     12     0        19      22     19     0    16       8     38        0          545            2207
+    5:15 PM           4    141      10           0     100     279     12     0        17      15     17     0    15      10     39        0          659            2328
+    5:30 PM           7    143      17           1      78     254     19     0        14      15     18     0    14       7     34        0          621            2446
+    5:45 PM          13     117      7           0      74     213     18     0        16      18     17     0     9       9     50        0          561            2386
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                    Eastbound                   Westbound
+   Flowrates        Left     Thru Right     U          Left    Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles       16      564     40     0          400    1116     48     0        68     60    68     0      60      40   156     0                     2636
+ Heavy Trucks         0       20      0                  4      28      0               4      0      4            0       0    16                            76
+  Pedestrians                  0                                 0                             0                           0                                   0
+    Bicycles         0         0      0                  0       0      0              0       0      0            0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/19/2013 6:21 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+             Jim Wilson Road Development ­ Traffic Impact Study
+
+
+
+
+         APPENDIX C
+ADJACENT DEVELOPMENT INFORMATION
+Figure 1 ­ Illustrative Cornerstone Retail Development Site Plan
+
+
+
+
+                               2
+                                                                   TABLE 3: Trip Generation for US 521 Commercial and Office Site Development
+
+                                                                                                                                 AM Peak            PM Peak                     AM Peak                   PM Peak
+          Comments             ITE Code       Variable             Unit        (X)       ADT      Total AM    Total PM    Entry        Exit     Entry     Exit       Enter        Exit    Total   Enter     Exit    Total
+                                                                                                     Proposed Commercial and Office
+         Grocery Store            850         gross sq.ft.        51,000      51.0       4,806       193        548        61%         39%      51%        49%       118          75       193     279      268      548
+          Restaurant              932         gross sq.ft.        14,000      14.0       1,780       81         153        52%         48%      61%        39%        42          39       81      93       60       153
+        Movie Theatre             445         gross sq.ft.        49,000      16.0       4,680        0         368          -             -    60%        40%          0          0        0      221      147      368
+         Medical Office           710         gross sq.ft.       120,000      120.0      1,535       217        213        88%         12%      17%        83%       191          26       217     36       177      213
+          Drug Store              881         gross sq.ft.        15,000      15.0       1,322       40         129        57%         43%      49%        51%        23          17       40      63       66       129
+      Home Improvement            862         gross sq.ft.       125,000      125.0      3,751       150        306        54%         46%      47%        53%        81          69       150     144      162      306
+             Retial               814         gross sq.ft.       603,000      603.0     25,834        0        1,469       0%          0%       53%        47%          0          0        0      778      690     1469
+        Internal Capture          15%                                                   -6,556      -102        -478                                                  -68         -34     -102    -242     -236     -478
+          Sub Totals                                             977,000                37,152       579       2,709                                                 386         192      579     1,373    1,335    2,709
+            Pass-By               27%       gsf all all retial                          -9,286        0         -627                                                    0          0        0     -324     -303     -627
+       Total New Trips                            gsf            977,000                27,867       579       2,081                                                 386         192      579     1,049    1,033    2,081
+
+
+                                                                                                                                                                        1
+                                                                  Background Approved: "Sun City Carolina Lakes" retial development west of US 521 at Jim Wilson Road
+     Single Family Homes          210            units                                  11,389       610        649                                                  232          378      610     396      253      649
+             Retail                           gross sq.ft.                              12,320       271       1,146                                                 165          106      271     550      596     1146
+          Golf Course                          18 holes                                   643        40          50                                                   32           8       40      22       28       50
+        Internal Capture          10%                                                   -2,464       -30        -244                                                  -15         -15      -30    -122     -122     -244
+          Sub Totals                                                0                   21,888       891       1,601                                                 414         477       891     846     755      1,601
+         Pass-By Trips            20%       gsf all all retial                          -2,218        0          0                                                      0          0        0     -103     -103     -206
+      Total New Trips                             gsf               0                   19,670       891       1,601                                                 414         477      891      743     652      1,395
+
+
+                                                              Background Approved: "Belair at Carolina Lakes" single-family and townhomes reisdential site on Jim Wilson Road
+
+    Bel-Air Residential (SF)      210        dwelling units        713         713       6,335       509        628        25%         75%      63%        37%       127          381      509     396      232      628
+    Bel-Air Residential (TH)      230        dwelling units        150         300       1,633       124        148        17%         83%      67%        33%        21          103      124     99       49       148
+       Total New Trips                                                                  7,969        633        776                                                  148         485       633     495     281       776
+
+
+Total New Area Trips (2011)                                                            55,505      2,103       4,458        0              0     0          0        949        1,154     2,103   2,287   1,966     4,252
+
+1
+    Taken from Kublins 2004 Traffic Impact Study for Sun City Residential and Retial Site
+                          55% 0%                                                                                                                                                      213       0
+
+
+                     0%   20%      35%                                                                                                                                            0   77       135
+
+Sun City Boulevard   ©    Ø        ª            0%                                                                                                           Sun City Boulevard   ©   Ø        ª          0
+
+ 0%             0%   ®                   Õ      0%            0%              Cornerstone Signalized                                                           0             0    ®                  Õ    0              0             Cornerstone Signalized
+ 0%             0%   Ö                   ¯      0%            40%                  Driveway A                                                                  0             0    Ö                  ¯    0            155                  Driveway A
+                0%   °    «        ×     ¬                                                                                                                                   0    °   «        ×     ¬
+                          0%       0%    5%                                                                                                                                            0        0    19
+
+                          20% 5%                                                                                                                                                      77       19
+
+
+                          20%                                                                                                                                                         77
+
+                          Ø              0%                   0%                                                                                                                      Ø              0                   0
+                                                                                 Cornerstone RIRO 1                                                                                                                                       Cornerstone RIRO 1
+                                   ×     ¬                    5%                                                                                                                               ×     ¬                  19
+                                   5%    5%                                                                                                                                                    19    19
+
+
+
+Retail RIRO 2        0%   20%                                                                                                                                Retail RIRO 2        0   77
+
+ 0%                  ©    Ø              0%                   0%                                                                                               0                  ©   Ø              0                   0
+                                                                                 Cornerstone RIRO 3                                                                                                                                       Cornerstone RIRO 3
+ 0%                  0%   °        ×     ¬                    5%                                                                                               0                  0   °        ×     ¬                  19
+                                   10%   5%                                                                                                                                                    39    19
+
+                                                                                                   Cornerstone                  Cornerstone                                                                                                                   Cornerstone                   Cornerstone
+                                                               Cornerstone RIRO 6                                                                                                                                       Cornerstone RIRO 6
+                          20% 15%                                                                  Driveway C                Signalized Dwy D                                         77       58                                                             Driveway C                 Signalized Dwy D
+
+                          20% 15%                                                                     0%   0%              0%      0%   0%                                            77       58                                                               0     0               0      0     0
+
+                     0%   0%       20%                                                                ©    ª               ©       Ø    ª                                         0    0       77                                                              ©     ª               ©       Ø    ª
+ Retail Driveway B   ©    Ø        ª            0%                    0%              3%                         6%                              3%           Retail Driveway B   ©   Ø        ª          0%                    0            12                             23                             12
+
+ 0%             0%   ®                   Õ      0%                   ©      Õ         0%     18%      ®    Õ     3%        4%     ®     Õ        9%            0             0    ®                  Õ    0                   ©      Õ       0           70    ®     Õ      12       15     ®     Õ        35
+
+ 0%             0%   Ö                   ¯      0%            27%    Ö      ¬                12%      Ö                    1%     Ö     ¯        3%            0             0    Ö                  ¯    0             104   Ö      ¬                   46    Ö                      4     Ö     ¯        12
+
+                0%   °    «        ×     ¬                     3%    °      0%                Jim Wilson Road              7%     °                                          0    °   «        ×     ¬                  12    °       0                   Jim Wilson Road            27     °
+                          0%       15%   10%                                                                                      «     ×        ¬                                     0       58    39                                                                                     «     ×        ¬
+                                                                                                                                   0%   0%       0%                                                                                                                                          0     0       0
+
+                          0% 25%                                                                                              Medical Office                                           0       97                                                                                         Medical Office
+                                                                Drugstore RIRO 7                                                                                                                                         Drugstore RIRO 7
+                          0% 25%                                                                                             Signalized Dwy E                                          0       97                                                                                        Signalized Dwy E
+
+
+
+                                                                                                                          Cornerstone Driveway                                                                                                                                      Cornerstone Driveway
+Retail RIRO 5        0%   0%                                                                                                        F                        Retail RIRO 5        0    0                                                                                                      F
+
+ 0%                  ©    Ø              0%            0%                                                                  0%      0%   0%                     0                  ©   Ø              0           0                                                                    0      0     0
+                                                                Drugstore RIRO 4                                                                                                                                         Drugstore RIRO 4
+ 0%                  0%   °        ×     ¬             5%                                                                  ©       Ø    ª                      0                  0   °        ×     ¬          19                                                                   ©       Ø    ª
+                                   25%   5%                                                                                                      0%                                            97    19                                                                                                    0
+
+                                                                                                                           0.5%   ®     Õ        15%   15%                                                                                                                            2     ®     Õ        58   58
+                                                                                                                           0%     Ö     ¯        0%    0%                                                                                                                             0     Ö     ¯        0    0
+                          0% 30%                                                                                           0.5%   °                                                    0       116                                                                                    2     °
+                                                                                                                                  «     ×        ¬                                                                                                                                          «     ×        ¬
+                                                                                                                                   0%   0%       0%                                                                                                                                          0     0       0
+
+                                                                                                                                Medical Office                                                                                                                                            Medical Office
+                                                                                                                                 Driveway G                                                                                                                                                Driveway G
+
+
+
+
+                          US-521
+                                                                                                                                                                                      US-521
+
+
+
+
+                                                                                                                                                                                                                                                  386   = TOTAL AM PEAK ENTERING TRIPS
+
+
+
+                                               Prepared by:                                                                                                                                                    Prepared by:
+                                                                                                           US 521 Wallace Property TIA                                                                                                                               US 521 Wallace Property TIA
+                                                                                                       Entering AM Peak Site Traffic (Percentages)                                                                                                                  Entering AM Peak Site Trips (Volumes)
+                                                     121 W Trade Street, Suite 1950                                                                                                                                  121 W Trade Street, Suite 1950
+                                                          Charlotte NC 28202                                                            FIGURE 3a                                                                         Charlotte NC 28202                                                     FIGURE 3b
+                          0% 55%                                                                                                                                                     0       106
+
+
+                     0%   0%       0%                                                                                                                                           0    0        0
+
+Sun City Boulevard   ©    Ø        ª          35%                                                                                                          Sun City Boulevard   ©   Ø        ª           67
+
+ 0%             0%   ®                   Õ    0%            45%             Cornerstone Signalized                                                           0             0    ®                  Õ      0              87             Cornerstone Signalized
+ 0%             0%   Ö                   ¯    10%           0%                   Driveway A                                                                  0             0    Ö                  ¯     19               0                  Driveway A
+                0%   °    «        ×     ¬                                                                                                                                 0    °   «        ×     ¬
+                          0%       20%   0%                                                                                                                                          0       38    0
+
+                          10% 20%                                                                                                                                                   19       38
+
+
+                          10%                                                                                                                                                       19
+
+                          Ø              5%                 5%                                                                                                                      Ø              10                    10
+                                                                                Cornerstone RIRO 1                                                                                                                                         Cornerstone RIRO 1
+                                   ×     ¬                  0%                                                                                                                               ×     ¬                      0
+                                   15%   0%                                                                                                                                                  29    0
+
+
+
+Retail RIRO 2        0%   10%                                                                                                                              Retail RIRO 2        0   19
+
+ 0%                  ©    Ø              5%                 5%                                                                                               0                  ©   Ø              10                    10
+                                                                                Cornerstone RIRO 3                                                                                                                                         Cornerstone RIRO 3
+ 0%                  0%   °        ×     ¬                  0%                                                                                               0                  0   °        ×     ¬                      0
+                                   10%   0%                                                                                                                                                  19    0
+
+                                                                                                  Cornerstone                 Cornerstone                                                                                                                      Cornerstone                   Cornerstone
+                                                             Cornerstone RIRO 6                                                                                                                                          Cornerstone RIRO 6
+                          10% 10%                                                                 Driveway C               Signalized Dwy D                                         19       19                                                                Driveway C                 Signalized Dwy D
+
+                          10% 10%                                                                    10%   6%             3%      0%    4%                                          19       19                                                                  19    12                6       0     8
+
+                     0%   10%      0%                                                                ©     ª              ©       Ø     ª                                       0   19        0                                                                 ©     ª                  ©       Ø    ª
+ Retail Driveway B   ©    Ø        ª          7%                    6%            0%                            0%                              0%          Retail Driveway B   ©   Ø        ª          1346%                   12            0                              0                                 0
+
+ 0%             0%   ®                   Õ    0%                   ©      Õ       21%        0%      ®     Õ    11%       0%     ®      Õ       1%           0             0    ®                  Õ      0                    ©      Õ       40           0    ®     Õ      21          0      ®     Õ        2
+
+ 0%             0%   Ö                   ¯    20%            0%    Ö      ¬                  3%      Ö                    9%     Ö      ¯       0%           0             0    Ö                  ¯     38               0    Ö      ¬                    6    Ö                        17     Ö     ¯        0
+
+                0%   °    «        ×     ¬                   0%    °       3%                Jim Wilson Road              0%     °                                         0    °   «        ×     ¬                      0    °       6                   Jim Wilson Road               0      °
+                          0%       3%    0%                                                                                      «      ×       ¬                                    0        6    0                                                                                            «     ×        ¬
+                                                                                                                                  7%    0%      2%                                                                                                                                               13    0       4
+
+                          30% 3%                                                                                            Medical Office                                          58        6                                                                                            Medical Office
+                                                              Drugstore RIRO 7                                                                                                                                            Drugstore RIRO 7
+                          30% 3%                                                                                           Signalized Dwy E                                          0        6                                                                                           Signalized Dwy E
+
+
+
+                                                                                                                         Cornerstone Driveway                                                                                                                                         Cornerstone Driveway
+Retail RIRO 5        0%   30%                                                                                                      F                       Retail RIRO 5        0   58                                                                                                          F
+
+ 0%                  ©    Ø              3%          3%                                                                  0.5%     0%    0%                   0                  ©   Ø              6              0                                                                      1       0     0
+                                                              Drugstore RIRO 4                                                                                                                                            Drugstore RIRO 4
+ 0%                  0%   °        ×     ¬           0%                                                                   ©       Ø     ª                    0                  0   °        ×     ¬              0                                                                      ©       Ø    ª
+                                   0%    0%                                                                                                     0%                                            0    0                                                                                                           0
+
+                                                                                                                          0%     ®      Õ       0%   0%                                                                                                                                  0      ®     Õ        0   0
+                                                                                                                         15%     Ö      ¯       0%   15%                                                                                                                                 29     Ö     ¯        0   29
+                          30% 0%                                                                                          0%     °                                                  58        0                                                                                          0      °
+                                                                                                                                 «      ×       ¬                                                                                                                                               «     ×        ¬
+                                                                                                                                 0.5%   0%      0%                                                                                                                                               1     0       0
+
+                                                                                                                               Medical Office                                                                                                                                                 Medical Office
+                                                                                                                                Driveway G                                                                                                                                                     Driveway G
+
+
+
+
+                          US-521
+                                                                                                                                                                                    US-521
+
+
+
+
+                                                                                                                                                                                                                                                   192   = TOTAL AM PEAK EXITING TRIPS
+
+
+
+                                                    Prepared by:                                                                                                                                                Prepared by:
+                                                                                                           US 521 Wallace Property TIA                                                                                                                                 US 521 Wallace Property TIA
+                                                                                                       Exiting AM Peak Site Trips (Percentages)                                                                                                                       Exiting AM Peak Site Trips (Volumes)
+                                                          121 W Trade Street, Suite 1950                                                                                                                              121 W Trade Street, Suite 1950
+                                                               Charlotte NC 28202                                                       FIGURE 3c                                                                          Charlotte NC 28202                                                         FIGURE 3d
+                           55% 0%                                                                                                                                                       577       0
+
+
+                      0%   20%      35%                                                                                                                                             0   210      367
+
+Sun City Boulevard    ©    Ø        ª            0%                                                                                                           Sun City Boulevard    ©   Ø        ª           0
+
+ 0%             0%    ®                   Õ      0%            0%              Cornerstone Signalized                                                           0             0     ®                  Õ     0              0             Cornerstone Signalized
+ 0%             0%    Ö                   ¯      0%            40%                  Driveway A                                                                  0             0     Ö                  ¯     0            420                  Driveway A
+                0%    °    «        ×     ¬                                                                                                                                   0     °   «        ×     ¬
+                           0%       0%    5%                                                                                                                                             0        0    52
+
+                           20% 5%                                                                                                                                                       210      52
+
+
+                           20%                                                                                                                                                          210
+
+                           Ø              0%                   0%                                                                                                                       Ø              0                    0
+                                                                                  Cornerstone RIRO 1                                                                                                                                         Cornerstone RIRO 1
+                                    ×     ¬                    5%                                                                                                                                ×     ¬                   52
+                                    5%    5%                                                                                                                                                     52    52
+
+
+
+Retail RIRO 2         0%   20%                                                                                                                                Retail RIRO 2         0   210
+
+ 0%                   ©    Ø              0%                   0%                                                                                               0                   ©   Ø              0                    0
+                                                                                  Cornerstone RIRO 3                                                                                                                                         Cornerstone RIRO 3
+ 0%                   0%   °        ×     ¬                    5%                                                                                               0                   0   °        ×     ¬                   52
+                                    10%   5%                                                                                                                                                     105   52
+
+                                                                                                    Cornerstone                  Cornerstone                                                                                                                    Cornerstone                  Cornerstone
+                                                                Cornerstone RIRO 4                                                                                                                                         Cornerstone RIRO 4
+                           20% 15%                                                                   Access B                 Signalized Dwy D                                          210 157                                                                  Access B                 Signalized Dwy D
+
+                           20% 15%                                                                     0%   0%              0%      0%   0%                                             210 157                                                                   0     0               0      0     0
+
+                      0%   0%       20%                                                                ©    ª               ©       Ø    ª                                          0    0       210                                                              ©    ª               ©       Ø    ª
+ Retail Full Access   ©    Ø        ª            0%                    0%              3%                         6%                              3%           Retail Full Access   ©   Ø        ª           0%                    0            31                            63                             31
+
+ 0%             0%    ®                   Õ      0%                   ©      Õ         0%     18%      ®    Õ     3%        4%     ®     Õ        9%            0             0     ®                  Õ     0                   ©      Õ       0         189     ®    Õ      31       42     ®     Õ        94
+
+ 0%             0%    Ö                   ¯      0%            27%    Ö      ¬                12%      Ö                    1%     Ö     ¯        3%            0             0     Ö                  ¯     0             283   Ö      ¬                 126     Ö                    10     Ö     ¯        31
+
+                0%    °    «        ×     ¬                     3%    °      0%                Jim Wilson Road              7%     °                                          0     °   «        ×     ¬                   31    °       0                 Jim Wilson Road             73     °
+                           0%       15%   10%                                                                                      «     ×        ¬                                      0       157   105                                                                                    «     ×        ¬
+                                                                                                                                    0%   0%       0%                                                                                                                                           0     0       0
+
+                           0% 25%                                                                                              Medical Office                                            0       262                                                                                       Medical Office
+                                                                 Drugstore RIRO 7                                                                                                                                           Drugstore RIRO 7
+                           0% 25%                                                                                             Signalized Dwy E                                           0       262                                                                                      Signalized Dwy E
+
+
+
+                                                                                                                           Cornerstone Driveway                                                                                                                                       Cornerstone Driveway
+Retail RIRO 2         0%   0%                                                                                                        F                        Retail RIRO 2         0    0                                                                                                      F
+
+ 0%                   ©    Ø              0%            0%                                                                  0%      0%   0%                     0                   ©   Ø              0            0                                                                   0      0     0
+                                                                 Drugstore RIRO 4                                                                                                                                           Drugstore RIRO 4
+ 0%                   0%   °        ×     ¬             5%                                                                  ©       Ø    ª                      0                   0   °        ×     ¬           52                                                                  ©       Ø    ª
+                                    25%   5%                                                                                                      0%                                             262   52                                                                                                    0
+
+                                                                                                                            0.5%   ®     Õ        15%   15%                                                                                                                             5     ®     Õ        157   157
+                                                                                                                            0%     Ö     ¯        0%    0%                                                                                                                              0     Ö     ¯        0      0
+                           0% 30%                                                                                           0.5%   °                                                     0       315                                                                                    5     °
+                                                                                                                                   «     ×        ¬                                                                                                                                           «     ×        ¬
+                                                                                                                                    0%   0%       0%                                                                                                                                           0     0       0
+
+                                                                                                                                 Medical Office                                                                                                                                             Medical Office
+                                                                                                                                  Driveway G                                                                                                                                                 Driveway G
+
+
+
+
+                           US-521
+                                                                                                                                                                                        US-521
+
+
+
+
+                                                                                                                                                                                                                                                 1,049   = TOTAL PM PEAK ENTERING TRIPS
+
+
+
+                                                Prepared by:                                                                                                                                                      Prepared by:
+                                                                                                            US 521 Wallace Property TIA                                                                                                                                US 521 Wallace Property TIA
+                                                                                                        Entering PM Peak Site Traffic (Percentages)                                                                                                                   Entering PM Peak Site Trips (Volumes)
+                                                      121 W Trade Street, Suite 1950                                                                                                                                    121 W Trade Street, Suite 1950
+                                                           Charlotte NC 28202                                                            FIGURE 4a                                                                           Charlotte NC 28202                                                    FIGURE 4b
+                           0% 55%                                                                                                                                                      0       568
+
+
+                      0%   0%       0%                                                                                                                                            0    0        0
+
+Sun City Boulevard    ©    Ø        ª          35%                                                                                                          Sun City Boulevard    ©   Ø        ª          361
+
+ 0%             0%    ®                   Õ    0%            45%             Cornerstone Signalized                                                           0             0     ®                  Õ    0             465             Cornerstone Signalized
+ 0%             0%    Ö                   ¯    10%           0%                   Driveway A                                                                  0             0     Ö                  ¯    103             0                  Driveway A
+                0%    °    «        ×     ¬                                                                                                                                 0     °   «        ×     ¬
+                           0%       20%   0%                                                                                                                                           0       207   0
+
+                           10% 20%                                                                                                                                                    103 207
+
+
+                           10%                                                                                                                                                        103
+
+                           Ø              5%                 5%                                                                                                                       Ø              52                  52
+                                                                                 Cornerstone RIRO 1                                                                                                                                         Cornerstone RIRO 1
+                                    ×     ¬                  0%                                                                                                                                ×     ¬                    0
+                                    15%   0%                                                                                                                                                   155   0
+
+
+
+Retail RIRO 2         0%   10%                                                                                                                              Retail RIRO 2         0   103
+
+ 0%                   ©    Ø              5%                 5%                                                                                               0                   ©   Ø              52                  52
+                                                                                 Cornerstone RIRO 3                                                                                                                                         Cornerstone RIRO 3
+ 0%                   0%   °        ×     ¬                  0%                                                                                               0                   0   °        ×     ¬                    0
+                                    10%   0%                                                                                                                                                   103   0
+
+                                                                                                   Cornerstone                 Cornerstone                                                                                                                    Cornerstone                   Cornerstone
+                                                              Cornerstone RIRO 6                                                                                                                                         Cornerstone RIRO 6
+                           10% 10%                                                                 Driveway C               Signalized Dwy D                                          103 103                                                                 Driveway C                 Signalized Dwy D
+
+                           10% 10%                                                                    10%   6%             3%      0%    4%                                           103 103                                                                    103    62              31       0     41
+
+                      0%   10%      0%                                                                ©     ª              ©       Ø     ª                                        0   103       0                                                                ©     ª                ©        Ø    ª
+ Retail Full Access   ©    Ø        ª          7%                    6%            0%                            0%                              0%          Retail Full Access   ©   Ø        ª          72                    62             0                              0                                0
+
+ 0%             0%    ®                   Õ    0%                   ©      Õ       21%        0%      ®     Õ    11%       0%     ®      Õ       1%           0             0     ®                  Õ    0                    ©      Õ       217         0      ®     Õ     114        0       ®     Õ        10
+
+ 0%             0%    Ö                   ¯    20%            0%    Ö      ¬                  3%      Ö                    9%     Ö      ¯       0%           0             0     Ö                  ¯    207             0    Ö      ¬                  31      Ö                      93      Ö     ¯        0
+
+                0%    °    «        ×     ¬                   0%    °       3%                Jim Wilson Road              0%     °                                         0     °   «        ×     ¬                    0    °       31                 Jim Wilson Road               0       °
+                           0%       3%    0%                                                                                      «      ×       ¬                                     0       31    0                                                                                          «     ×        ¬
+                                                                                                                                   7%    0%      2%                                                                                                                                              72    0       21
+
+                           30% 3%                                                                                            Medical Office                                           310      31                                                                                         Medical Office
+                                                               Drugstore RIRO 7                                                                                                                                           Drugstore RIRO 7
+                           30% 3%                                                                                           Signalized Dwy E                                           0       31                                                                                        Signalized Dwy E
+
+
+
+                                                                                                                          Cornerstone Driveway                                                                                                                                         Cornerstone Driveway
+Retail RIRO 2         0%   30%                                                                                                      F                       Retail RIRO 2         0   310                                                                                                        F
+
+ 0%                   ©    Ø              3%          3%                                                                  0.5%     0%    0%                   0                   ©   Ø              31           0                                                                     5        0     0
+                                                               Drugstore RIRO 4                                                                                                                                           Drugstore RIRO 4
+ 0%                   0%   °        ×     ¬           0%                                                                   ©       Ø     ª                    0                   0   °        ×     ¬            0                                                                     ©        Ø    ª
+                                    0%    0%                                                                                                     0%                                             0    0                                                                                                         0
+
+                                                                                                                           0%     ®      Õ       0%   0%                                                                                                                                0       ®     Õ        0     0
+                                                                                                                          15%     Ö      ¯       0%   15%                                                                                                                               155     Ö     ¯        0    155
+                           30% 0%                                                                                          0%     °                                                   310       0                                                                                       0       °
+                                                                                                                                  «      ×       ¬                                                                                                                                              «     ×        ¬
+                                                                                                                                  0.5%   0%      0%                                                                                                                                              5     0       0
+
+                                                                                                                                Medical Office                                                                                                                                                Medical Office
+                                                                                                                                 Driveway G                                                                                                                                                    Driveway G
+
+
+
+
+                           US-521
+                                                                                                                                                                                      US-521
+
+
+
+
+                                                                                                                                                                                                                                                1,033   = TOTAL PM PEAK EXITING TRIPS
+
+
+
+                                                     Prepared by:                                                                                                                                               Prepared by:
+                                                                                                            US 521 Wallace Property TIA                                                                                                                                 US 521 Wallace Property TIA
+                                                                                                        Exiting PM Peak Site Trips (Percentages)                                                                                                                       Exiting PM Peak Site Trips (Volumes)
+                                                           121 W Trade Street, Suite 1950                                                                                                                             121 W Trade Street, Suite 1950
+                                                                Charlotte NC 28202                                                       FIGURE 4c                                                                         Charlotte NC 28202                                                         FIGURE 4d
+CAROLINA RESERVE (NORTH OF JIM WILSON ROAD)

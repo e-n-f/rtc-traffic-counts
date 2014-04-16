@@ -1,0 +1,2736 @@
+             APPENDIX F
+TRANSPORTATION IMPACT ANALYSIS
+    Transportation Impact Analysis 
+
+
+
+
+    Karuk Casino 
+
+    Yreka, California 
+
+
+
+
+    Draft 
+
+September 2013 
+ 
+    Transportation Impact Analysis 
+
+
+
+
+    Karuk Casino 
+
+    Yreka, California 
+
+
+
+
+    Prepared For: 
+    Trenton Wilson  
+    Analytical Environmental Services  
+           th
+    1801 7  Street, Suite 100, Sacramento, CA 95811  
+    (916) 4473479 
+
+
+    Prepared By: 
+    Kittelson & Associates, Inc.  
+    428 J Street, Suite 500 
+    Sacramento, CA 95814 
+    (916) 2262190 
+
+
+    Project Manager: Franklin Cai, T.E. 
+    Project Principal: Scott Beaird, P.E., P.T.O.E. 
+
+
+    Project No. 13592 
+
+
+    September 2013 
+
+
+
+
+                  
+
+
+                                      
+Karuk Casino                                                                            September 2013
+Executive Summary
+
+
+
+
+                        ENGINEER'S CERTIFICATION
+
+
+
+                            This traffic analysis was prepared by
+                                         Franklin Cai
+                    Registered Traffic Engineer in the State of California
+                                An Engineer with the firm of
+                                 Kittelson & Associates, Inc.
+
+
+
+
+I~
+                                                                             Kittelson & Associates, Inc.
+Karuk Casino                                                                                                                                                                           September 2013
+Executive Summary
+
+
+
+TABLE OF CONTENTS
+Executive Summary ................................................................................................................................ 9
+
+    Findings ....................................................................................................................................................................................... 9
+Introduction..... .................................................................................................................................... 13
+
+    Project Description .................................................................................................................................................................... 13
+
+    Study Area ................................................................................................................................................................................. 13
+Existing Conditions ............................................................................................................................... 17
+
+    Transportation Facilities ............................................................................................................................................................ 17
+
+    Existing Traffic Volumes And Peak Hour Operations ................................................................................................................. 18
+
+    Level of Service Methodology ................................................................................................................................................... 21
+
+    Signal Warrants ......................................................................................................................................................................... 22
+
+    Impact Significance Criteria ....................................................................................................................................................... 23
+
+    Level of Service Analysis ............................................................................................................................................................ 24
+
+    Signal Warrants Analysis ........................................................................................................................................................... 25
+Existing Plus Project Conditions ........................................................................................................... 27
+
+    Trip Generation ......................................................................................................................................................................... 27
+
+    Level of Service Analysis ............................................................................................................................................................ 35
+
+    Signal Warrants Analysis ........................................................................................................................................................... 37
+
+    Impact Determination ............................................................................................................................................................... 38
+Year 2030 Cumulative No Project Conditions ...................................................................................... 40
+
+    Cumulative Traffic Volumes ...................................................................................................................................................... 40
+
+    Level of Service Analysis ............................................................................................................................................................ 42
+
+    Signal Warrants Analysis ........................................................................................................................................................... 42
+Year 2030 Cumulative Plus Project Conditions .................................................................................... 45
+
+    Project Traffic ............................................................................................................................................................................ 45
+
+    Traffic Volumes.......................................................................................................................................................................... 45
+
+    Level of Service Analysis ............................................................................................................................................................ 47
+
+    Signal Warrants Analysis ........................................................................................................................................................... 47
+
+    Impact Determination ............................................................................................................................................................... 48
+Recommendations and Mitigation Measures ..................................................................................... 50
+
+    Existing Plus Project Conditions................................................................................................................................................. 50
+
+    Cumulative (2030) Plus Project Conditions ............................................................................................................................... 50
+
+
+
+
+                                                                                                        iv                                                              Kittelson & Associates, Inc.
+Karuk Casino                                                                                                                         September 2013
+Executive Summary
+
+
+
+
+ LIST OF FIGURES
+Figure 1: Project Vicinity Map .............................................................................................................. 15
+Figure 2: Existing Intersection Lane Configuration and Control ......................................................... 19
+Figure 3: Existing Peak Hour Volumes ................................................................................................. 20
+Figure 4: Project Trip Distribution........................................................................................................ 30
+Figure 5: Project Only Phase 1 Peak Hour Volumes ............................................................................ 31
+Figure 6: Project Only Phase 2 Peak Hour Volumes ............................................................................ 32
+Figure 7: Existing Plus Project Phase 1 Peak Hour Volumes ................................................................ 33
+Figure 8: Existing Plus Project Phase 2 Peak Hour Volumes ................................................................ 34
+Figure 9: Cumulative (2030) No Project Peak Hour Volumes .............................................................. 41
+Figure 10: Cumulative (2030) Plus Project Peak Hour Volumes .......................................................... 46
+
+
+
+
+                                                                            v                                             Kittelson & Associates, Inc.
+Karuk Casino                                                                                                                       September 2013
+Executive Summary
+
+
+
+LIST OF TABLES
+Table 1: Mitigation Summary ............................................................................................................... 10
+Table 2: Signalized Intersection Delay and LOS Definitions ................................................................. 21
+Table 3: Unsignalized Intersection Delay and LOS Definitions ............................................................ 22
+Table 4: Existing No Project Intersection LOS Summary...................................................................... 24
+Table 5: Existing No Project Signal Warrant Summary ........................................................................ 25
+Table 6: Weekday Trip Generation Rates ............................................................................................ 29
+Table 7: Proposed Project Phase 1 Weekday Trip Generation Estimates ........................................... 29
+Table 8: Proposed Project Phase 2 (Total Build Out) Weekday Trip Generation Estimates................ 29
+Table 9: Existing Plus Project Phase 1 Intersection LOS Summary ...................................................... 35
+Table 10: Existing Plus Project Phase 2 (Total Build Out) Intersection LOS Summary ........................ 36
+Table 11: Existing Plus Project Phase 1 Signal Warrant Summary ....................................................... 37
+Table 12: Existing Plus Project Phase 2 (Total Build Out) Signal Warrant Summary ........................... 38
+Table 13: Cumulative (2030) No Project Intersection LOS Summary .................................................. 42
+Table 14: Cumulative (2030) No Project Signal Warrant Summary ..................................................... 43
+Table 15: Cumulative (2030) Plus Project Intersection LOS Summary ................................................ 47
+Table 16: Cumulative (2030) Plus Project Signal Warrant Summary ................................................... 48
+Table 17: Cumulative (2030) Plus Project Level of Service (after Mitigation) ..................................... 51
+
+
+
+
+                                                                           vi                                            Kittelson & Associates, Inc.
+Karuk Casino                                                             September 2013
+Executive Summary
+
+
+
+LIST OF APPENDICES
+Appendix 1: Traffic Count Data
+Appendix 2: Existing No Project LOS Worksheets
+Appendix 3: Project Trip Generation
+Appendix 4: Existing Plus Project LOS Worksheets
+Appendix 5: Cumulative No Project LOS Worksheets
+Appendix 6: Cumulative Plus Project LOS Worksheet
+Appendix 7: Cumulative Plus Project Mitigated LOS Worksheets
+Appendix 8: Signal Warrant Analysis Worksheets
+
+
+
+
+                                                    vii        Kittelson & Associates, Inc.
+        Section 1
+Executive Summary
+Karuk Casino                                                                                        September 2013
+Executive Summary
+
+
+
+
+EXECUTIVE SUMMARY
+
+Proposed Development Plan
+The Karuk Casino project is a 800 gaming position casino and 80 room hotel development on the north
+side of Sharps Road, east of Fairlane Road in the City of Yreka. Phase 1 of the project consists of a 500
+gaming position (14,200 square feet) casino. Phase 2 (total project) would add an additional 300 gaming
+positions (9,500 square feet) to the casino, for a total of 800 gaming positions or 23,700 square feet, as
+well as an 80 room hotel.
+
+
+Trip Generation
+Based on the Institute of Transportation Engineers (ITE) Trip Generation, 9th Edition (commonly referred
+to as the ITE Trip Generation Manual), combined with trip generation studies of previous, similar casino
+projects, the project descriptions for the Karuk Casino generate a maximum of 159 PM peak hour trips
+and 1,689 daily trips.
+
+The project's traffic impacts were estimated by considering the amount of traffic to be generated by
+the project and the direction distribution of that traffic. Only the PM peak hour was analyzed for this
+project because a casino generates most of its weekday trips during the PM peak hour.
+
+
+FINDINGS
+
+Existing No Project Conditions
+All study intersections were found to be operating at a satisfactory level of service based on the
+applicable standards.
+
+
+Existing Plus Project Phase 1 Conditions
+With the addition of project traffic from Phase 1,
+
+           All study intersections are expected to perform satisfactorily per the applicable standards.
+Based on the City of Yreka General Plan1 and Caltrans Traffic Impact Study Guidelines2, no impacts are
+considered significant.
+
+
+
+
+1
+    City of Yreka General Plan 2002-2022. City of Yreka (December 2003).
+2
+    Guide for the Preparation of Traffic Impace Studies . Caltrans (December 2002).
+
+                                                                9                         Kittelson & Associates, Inc.
+    Karuk Casino                                                                                         September 2013
+    Executive Summary
+
+
+    Existing Plus Project Phase 2 Conditions
+    With the addition of project traffic from Phase 2 (total build out including Phase 1),
+
+             All study intersections are expected to perform satisfactorily per the applicable standards.
+    No impacts were found to be significant.
+
+
+    Cumulative (2030) No Project Conditions
+    Using the historic annual growth rate from the previous decade from Caltrans Traffic Count database,
+    existing PM peak hour turning movement volumes at the study intersections were increased to turning
+    movement volumes in the cumulative (2030) year.
+
+    In summary, in the Cumulative (2030) No Project scenario,
+
+             The I-5 Northbound Ramps and Moonlit Oaks Avenue intersection is expected to perform below
+             the applicable level of service standards.
+             All other intersections are expected to perform satisfactorily.
+
+
+    Cumulative (2030) Plus Ultimate Build-out of Project Conditions
+    With the addition of project traffic,
+
+             The I-5 Northbound Ramps and Moonlit Oaks Avenue intersection is expected to perform below
+             the applicable level of service standards.
+             All other intersections are expected to perform satisfactorily.
+             The project's impact was found to be significant at the I-5 Northbound Ramps and Moonlit Oaks
+             intersection. Mitigation measure to reduce the project's impact to less than significant is
+             summarized in Table 1.
+
+    Table 1: Mitigation Summary
+
+
+                                                  Existing Conditions             Cumulative (2035) Conditions
+
+                                                                 Mitigation                                  Mitigation
+                                             Mitigation                              Mitigation
+#             Intersection        Type                            Share                                        Share
+       INTERSECTIONS
+5       I-5 Northbound Ramps &    TWSC      None Expected     None Expected     Convert to single-lane           75.0%
+          Moonlit Oaks Avenue                                                      roundabout; or
+                                                                                Convert to signalized
+                                                                                     intersection
+
+
+    No queueing issues were identified at any of the study intersections using 95th percentile queue
+    analysis for all scenarios.
+
+
+                                                            10                                Kittelson & Associates, Inc.
+Karuk Casino                                                                                 September 2013
+Executive Summary
+
+
+Aside from the proposed mitigation, it's recommended that improvements be made to Sharps Road, at
+a minimum in the vicinity of the project site, providing curbs, gutters, and sidewalks with pedestrian
+access into the proposed casino. Similar improvements can be found along the short stretch of Sharps
+Road on the opposite side of the project.
+
+
+
+
+                                                    11                             Kittelson & Associates, Inc.
+ Section 2
+Introduction
+Karuk Casino                                                                                     September 2013
+Introduction
+
+
+
+
+INTRODUCTION
+
+PROJECT DESCRIPTION
+The Karuk Casino project is a 800 gaming position casino and 80 room hotel development on the north
+side of Sharps Road, east of Fairlane Road in the City of Yreka. Phase 1 of the project consists of a 500
+gaming position (14,200 square feet) casino. Phase 2 (total build out) would add 300 gaming positions
+(9,500 square feet) to the casino, for a total of 800 gaming positions or 23,700 square feet, as well as an
+80 room hotel.
+
+
+STUDY AREA
+Existing and future overall peak hour traffic conditions were evaluated at seven intersections that
+would most likely be impacted by the project. The following locations were studied:
+
+          1.   South Main Street/Fort Jones Road and Oberlin Road
+          2.   Fairlane Road and Oberlin Road
+          3.   Campbell Avenue and Oberlin Road
+          4.   I-5 Southbound Ramps and Moonlit Oaks Avenue
+          5.   I-5 Northbound Ramps and Moonlit Oaks Avenue
+          6.   Fairlane Road and Moonlit Oaks Avenue
+          7.   Fairlane Road and Sharps Road
+
+In summary, the study includes an analysis of seven intersections in the vicinity of the project site. The
+study intersections were evaluated against the standards set forth by the City of Yreka and Caltrans.
+
+Traffic conditions at the intersections were analyzed for the weekday PM peak hours of traffic. The PM
+peak hour is typically between 4:00 and 6:00 PM.
+
+Traffic conditions were evaluated for the following scenarios:
+
+Scenario 1:    Existing Conditions. Existing traffic volumes were obtained from recent traffic counts.
+
+Scenario 2:    Existing Plus Project Conditions. Project generated traffic volumes were added to the
+               Existing traffic volumes. Existing plus project conditions were evaluated relative to
+               existing conditions in order to determine potential project impacts.
+
+Scenario 3:    Cumulative Conditions. Cumulative Conditions traffic volumes were developed using the
+               historical growth rate from the previous decade based on Caltrans traffic data.
+
+
+
+
+                                                      13                               Kittelson & Associates, Inc.
+Karuk Casino                                                                                      September 2013
+Introduction
+
+
+Scenario 4:    Cumulative Plus Project Conditions. Project generated traffic volumes were added to the
+               cumulative traffic volumes. Cumulative plus project conditions were evaluated relative
+               to cumulative conditions in order to determine potential cumulative project impacts.
+
+Figure 1 is a location map of the study area with key intersections analyzed in this report.
+
+
+
+
+                                                      14                                Kittelson & Associates, Inc.
+Figure 1: Project Vicinity Map
+
+
+
+
+    ·     Study Intersections
+   U      Project Access
+
+
+Source: Analytical Environmental Services, 2013.
+Karuk Casino                                September 2013
+Existing Conditions
+
+
+
+
+                                   Section 3
+                           Existing Conditions
+
+
+
+
+                      16          Kittelson & Associates, Inc.
+Karuk Casino                                                                                      September 2013
+Existing Conditions
+
+
+
+
+EXISTING CONDITIONS
+The existing conditions analysis identifies the site conditions and current operational and geometric
+characteristics of the key intersections within the study area. These conditions will be compared with
+future conditions later in this report.
+
+
+TRANSPORTATION FACILITIES
+
+Roadway Facilities
+The existing traffic lane configurations and traffic controls at the key intersections are shown in Figure
+2. The following is a description of the roadway network in the vicinity of the project:
+
+Interstate 5 (I-5) is an interstate freeway that traverses in the north-south direction, providing intercity
+connection to the north and south of the City of Yreka. Interstate 5 has two 12-foot travel lanes in each
+direction with 10-foot shoulders at the interchange in the vicinity of the project site. The facility would
+provide intercity access to the proposed traffic from the north and south. The speed limit along
+Interstate-5 is posted at 65 miles per hour (mph).
+
+Fairlane Road is a collector that begins at Oberlin Road and continues south into the County of Siskiyou
+where it terminates at Running Bear Road. Fairlane Road has two 12-foot travel lanes with 10-foot
+paved shoulders in the vicinity of the project site. The speed limit along Fairlane Road is posted at 45
+mph. The facility lacks curbs, gutters, and sidewalks along portions of the facility in the vicinity of the
+project site.
+
+Oberlin Road is an arterial that traverses in the east-west direction, providing connection between
+Kegler Lane and Montague Grenada Road. Oberlin Road has two 12-foot travel lanes with 8-foot paved
+shoulders in the vicinity of the project site. The speed limit along Oberlin Road is posted at 35 mph in
+the vicinity of the project site.
+
+Sharps Road is a local roadway, running in the east-west direction from Fairlane Road to the project
+site. Sharps Road has two 12-foot travel lanes with no paved shoulders in the vicinity of the project site.
+The facility would provide access to the proposed project via a full access project driveway. The speed
+limit along Sharps Road is unposted and the facility lacks curbs, gutters, and sidewalks along most of its
+length with the exception of a short segment across from the project site. Surrounding land uses
+include mostly empty lots, a large portion of which south of Sharps Road is used for the Siskiyou County
+Fairgrounds. There is also an R.V. Park to the north of Sharps Road and some scattered industrial uses.
+
+Moonlit Oaks Avenue is an arterial/local roadway, running east-west from Campus Drive to Fairlane
+Road. Moonlit Oaks Avenue has two 15-foot travel lanes with 5-foot paved shoulders in the vicinity of
+the project area. The facility is at the location of the interchange with Interstate 5 that would provide
+intercity access to the project site. The speed limit along Moonlit Oaks Avenue is unposted and the
+
+
+                                                       17                               Kittelson & Associates, Inc.
+Karuk Casino                                                                                     September 2013
+Existing Conditions
+
+
+facility lacks curbs, gutters, and sidewalks except on both approaches to the Moonlit Oaks Avenue and
+Main Street signalized intersection.
+
+
+Pedestrian and Bicycle Facilities
+Fairlane Road is the only currently-designated bicycle route in the City of Yreka. However, Class II
+bicycle lanes are not present in the vicinity of the project area. The area also generally lacks curbs,
+gutters, and sidewalks with the exceptions noted above. Additionally, Oberlin Road and Moonlit Oaks
+Avenue are designated as bicycle routes in the City of Yreka's General Plan.
+
+
+Transit Facilities
+Local transit service is provided within the City of Yreka by the Siskiyou Transit and General Express
+(STAGE) transit agency. However, there is not local transit service provided in the vicinity of the project
+site.
+
+
+EXISTING TRAFFIC VOLUMES AND PEAK HOUR OPERATIONS
+The existing traffic volume levels in the vicinity of the project were determined by collecting afternoon
+peak hour turning movement counts at six of the seven study intersections. The lone exception is the
+Sharps Road and Fairlane Road intersection which was not identified as a study intersection at the time
+of the traffic counts. Traffic volumes at Sharps Road and Fairlane Road were inferred from nearby
+counts at the Fairlane Road and Oberlin Road intersection to the north and the Fairlane Road and
+Moonlit Oaks Road intersections to the south. The difference in approaching and departing volumes
+were all attributed to the Sharps Road and Fairlane Road intersection's inbound and outbound
+movements. The traffic counts were collected during the afternoon (4:00PM ­ 6:00PM) peak hours on
+June 20, 2013 when all of the local area schools were in session. Figure 3 shows the turning movement
+counts as well as the existing geometries and controls at the study intersections.
+
+
+
+
+                                                      18                               Kittelson & Associates, Inc.
+Karuk Casino                                                                                                                                         September 2013
+Existing Conditions
+
+
+Figure 2: Existing Intersection Lane Configuration and Control
+
+
+
+
+                                                                             ~
+
+                                                                             "                                          ..~
+                                        -
+                                        '-
+                                                                                  ....
+                                                                             0
+                                                                             0                                              ~
+                                                                             0
+
+                                                                             ]                                              E    ?"
+               J I \.                   .-                                                                                  ~
+                                             O be rlin Rd
+
+
+                                        'I 1 r                     '" -..         'I 1 (
+                                                                                         Obe rlin Rd
+
+
+                                                                                                                                    'I
+                                                                                                                                      Obll riin Rd
+
+                                                                                                                                           (
+                         -
+                         --"                                           --4
+                                                                                                                      -..
+                         "
+
+             1·5 So~thbound On-Ramp/Off-ra."p                   1·5 Northbound On-Ramp/Off Ramp            Fairlane Rd and
+         4   and Moonlit Oab Au.                            5   lind Moonltt Oaks AIIII                6   MODnllt Oaks Ave
+                                                                             ~
+                                                                             E
+                                                                             ·
+
+                                        .-
+                                                                             "
+                                                                             '6
+                                                                             0
+                                                                              "   '-                                    ·
+                                                                                                                        ·
+                                                                                                                        ·
+                                                                                                                            "
+                                                                                                                            0
+
+
+
+
+                       \. ........-~                                                                                        ~
+                                                                             ~
+                                                                             z
+                )                                                                                             )   I
+                                       Moonll:Oak\Ave
+
+
+                                                                       --"
+                                                                             ~
+
+                                                                                   -
+                                                                                  Moo nlitO~kAv.
+
+
+                                                                                   'I     (                       --"   ·
+                                                                                                                                Moo nlit Oab Ave
+
+
+                                                                                                                                         "'i
+                                                                                                                  "
+
+
+              Falrlane Rd
+              and Sharps Rd
+
+
+
+
+                      I \.                   Sharps Rd
+
+
+                                              r
+
+
+
+
+       ~       =TraffIC Signal Control                                                                                                         Figure
+       CD      =SlOP Sl,"                                                                Existing Lane Configurations
+                                                                                                                                                     2
+
+
+
+
+                                                                                    19                                                Kittelson & Associates, Inc.
+Karuk Casino                                                                                                                                           September 2013
+Existing Conditions
+
+
+Figure 3: Existing Peak Hour Volumes
+
+
+
+       II     5 Main St/Fort Jones Rd
+              and Oberlin Rd
+                                                                    Fairlane Rd
+                                                                    and Oberlin Road
+                                                                                                        Campbell Ave
+                                                                                                        and Oberlin Rd
+
+                                    ,
+                                    .                           ·
+
+                                                                                                                        ·
+                ~
+                      M
+                      ~
+                          ~
+                          ~
+                                    ~
+                                    5
+                                    ?,
+                                         ........ 184
+                                         -29
+                                                                                  '-4
+                                                                                  -170
+                                                                                                                        ..
+                                                                                                                        ~
+                                                                                                                        ~
+
+                                                                                                                              -153
+                                                                                                                        ~
+                N     ~   N                                          m   ~   ~
+
+
+               ) j                       ,,46                        ) j          ,,58                                        ,,0
+                           \        ~          Oh .. rlin Old
+                                                                             \          Oh .. rli" Rd                                 Ohpriin Rd
+
+
+                      29 --"             'I I       (                      4--"   'I
+                                                                                   , I
+                                                                                            (              276-                  'I      (
+                      72-
+                                          NM
+                                          ~~
+                                              M    "
+                                                   ~                     2<16-
+                                                                                   "
+                                                                                       ~~
+                                                                                            ~                36--..               "
+                                                                                                                                  N     N
+
+                      67 ........                                         83-..
+
+
+
+
+                                ~oc      -211
+                                         ,,10
+                                    ~
+                                    ..:.. Moonlit O.. k5 Ave                      MoonlitOakAvi                              Moonlit Oilh Ave
+
+
+                    236-                                                 132-'                              101....i"
+                    239 ........                                         127-                                56--..
+
+
+
+
+         7    Falrlane Rd
+              and Sharps Rd
+
+
+
+                                         "--11
+                                         ,,13
+
+                                              ShiHPS Rd
+
+
+                                               I (
+
+
+
+
+                                                                                                                                             Figure
+                                                                                        Existing PM Traffic Volumes
+                                                                                                                                                   3
+
+
+
+
+                                                                                       20                                             Kittelson & Associates, Inc.
+Karuk Casino                                                                                        September 2013
+Existing Conditions
+
+
+
+LEVEL OF SERVICE METHODOLOGY
+Level of Service (LOS) is a qualitative indication of the level of delay and congestion experienced by
+motorists using an intersection. Levels of service are designated by the letters A through F, with A being
+the best conditions and F being the worst (high delay and congestion). The City of Yreka considers LOS A
+through C to be acceptable operating conditions for intersections within the City's jurisdiction. Caltrans
+considers LOS A through C to be acceptable operating conditions for state highway facilities.
+
+The following intersections lie within the City of Yreka's jurisdiction, and therefore, LOS C is acceptable
+for these intersections:
+
+           South Main Street/Fort Jones Road and Oberlin Road
+           Fairlane Road and Oberlin Road
+           Campbell Avenue and Oberlin Road
+           Fairlane Road and Moonlit Oaks Avenue
+           Fairlane Road and Sharps Road
+
+The following intersections and roadway segments lie within the jurisdiction of Caltrans, and therefore,
+LOS C is acceptable for these intersections:
+
+           I-5 Southbound Ramps and Moonlit Oaks Avenue
+           I-5 Northbound Ramps and Moonlit Oaks Avenue
+
+The methods used for analysis are described below.
+
+
+Signalized Intersection Analysis
+All signalized intersections (those controlled by traffic signals) were analyzed using the Highway
+Capacity Manual (HCM) 2010 methodology. This procedure calculates an average stopped delay per
+vehicle at a signalized intersection, and assigns a level of service designation based upon the delay.
+Table 2 presents the HCM 2010 delay and level of service definitions. Optimized timings were assumed
+for all scenarios.
+Table 2: Signalized Intersection Delay and LOS Definitions
+
+
+             Control Delay (s/veh)                           V/C 1.0                     V/C >1.0
+                       10                                        A                          F
+                      >10­20                                     B                          F
+                      >20­35                                     C                          F
+                      >35­55                                     D                          F
+                      >55­80                                     E                          F
+                       >80                                       F                          F
+Source: Highway Capacity Manual 2010, Chapter 18 (Transportation Research Board, 2010)
+
+
+
+                                                                21                        Kittelson & Associates, Inc.
+Karuk Casino                                                                                        September 2013
+Existing Conditions
+
+
+Unsignalized Intersection Analysis
+At an unsignalized intersection, most of the major street traffic is not delayed, and by definition have
+acceptable conditions. The major street left-turn movements and the minor street movements are all
+susceptible to delay of varying degrees. Generally, the higher the major street traffic volumes, the
+higher the delay for the minor movements.
+
+Two-Way Stop Controlled (TWSC) Intersection Analysis: Non-signalized TWSC intersection analyses
+were conducted using the operational methodology outlined in the Highway Capacity Manual
+(Transportation Research Board, Washington D.C., 2000). This procedure calculates an average stopped
+delay per vehicle for each movement and assigns a level of service designation based upon the minor
+leg's worst movement average delay.
+
+HCM 2010 definitions for delay and level of service at unsignalized intersections are presented in Table
+3.
+
+Table 3: Unsignalized Intersection Delay and LOS Definitions
+
+
+             Control Delay (s/veh)                           V/C 1.0                     V/C >1.0
+                       10                                        A                          F
+                      >10­15                                     B                          F
+                      >15­25                                     C                          F
+                      >25­35                                     D                          F
+                      >35­50                                     E                          F
+                       >50                                       F                          F
+Source: Highway Capacity Manual 2010, Chapter 18 (Transportation Research Board, 2010)
+
+
+
+SIGNAL WARRANTS
+Unsignalized intersections were evaluated using the Peak Hour Volume Warrant (Warrant 3) in the
+Caltrans Traffic Manual. Non-signalized intersections shown to trigger the peak hour signal warrant are
+identified in this analysis for discussion purposes. However, the decision to install a traffic signal should
+not be based solely upon a single warrant. The additional eight other warrants should be examined as
+well.
+
+Warrant 3 addresses peak hour traffic volume levels above which it is presumed that the need for a
+traffic signal is warranted. Traffic signals tend to reduce the potential for right-angle type collisions but
+also tend to increase the potential for less severe read-end collisions. Signal warrant peak hour volumes
+represent the threshold point at which the potential for more rear-end collisions is offset by the
+potential for fewer more severe right-angle collisions.
+
+All unsignalized intersections were evaluated using total approach volumes. Where signal warrants
+were met with total approach volume, right turn volumes were reduced if a dedicated right turn only
+
+                                                                22                        Kittelson & Associates, Inc.
+Karuk Casino                                                                                      September 2013
+Existing Conditions
+
+
+lane was present in accordance with the California MUTCD. A common approach to determining the
+amount of the reduction involves subtracting 85% of the right turn lane's capacity from the number of
+right turns on the approach. If the result is less than or equal to zero, no right turns are included in the
+warrant for that approach.
+
+
+IMPACT SIGNIFICANCE CRITERIA
+
+City of Yreka
+According to the City of Yreka's General Plan, the following are thresholds of significance, which are
+used to determine if an impact is significant and requires mitigation.
+
+For unsignalized and signalized intersections, a project is considered to have a significant effect if it
+would:
+
+           Result in a roadway or a signalized intersection operating at an acceptable LOS (A, B, or C) to
+           deteriorate to an unacceptable LOS (D, E, or F)
+
+
+Caltrans
+Per Caltrans guidelines3, Caltrans endeavors to maintain a target LOS at the transition between LOS "C"
+and LOS "D" on State highway facilities. However, Caltrans acknowledges that this may not always be
+feasible and recommends that the lead agency consult with Caltrans to determine the appropriate
+target LOS.
+
+
+
+
+3
+    Guide for the Preparation of Traffic Impact Studies. Caltrans (December 2002)
+
+                                                               23                       Kittelson & Associates, Inc.
+Karuk Casino                                                                                                         September 2013
+Existing Conditions
+
+
+
+LEVEL OF SERVICE ANALYSIS
+Table 4 presents the results of the level of service analysis for the Existing (No Project) conditions. All
+study intersections were found to be operating at a satisfactory level of service.
+
+
+Intersection
+Table 4: Existing No Project Intersection LOS Summary
+
+                                                                                                   Existing No Project
+
+ #                           Intersection                  Control        Time        Worst Movement            Delay           LOS
+
+         South Main Street/Fort Jones Road & Oberlin
+ 1                                                          Signal         PM                  -                  9.9             A
+                            Road
+
+ 2                Fairlane Road & Oberlin Road              TWSC           PM                NBL                 17.0             C
+
+
+ 3              Campbell Avenue & Oberlin Road              TWSC           PM                NBL                 11.7             B
+
+             I-5 Southbound Ramps & Moonlit Oaks
+ 4                                                          TWSC           PM                 SBL                15.4             C
+                           Avenue
+
+             I-5 Northbound Ramps & Moonlit Oaks
+ 5                                                          TWSC           PM                NBL                 17.8             C
+                           Avenue
+
+ 6           Fairlane Road & Moonlit Oaks Avenue            TWSC           PM                 EBL                12.1             B
+
+
+ 7                    Fairlane Road & Sharps Road           TWSC           PM                WBL                 10.6             B
+
+For signalized intersection, the HCM 2010 intersection delay and LOS are reported. For two-way stop controlled (TWSC)
+intersections, the worst movement's delay and LOS are reported.
+
+
+
+
+                                                                     24                                    Kittelson & Associates, Inc.
+Karuk Casino                                                                                                       September 2013
+Existing Conditions
+
+
+
+SIGNAL WARRANTS ANALYSIS
+Table 5 presents the results of the signal warrant analysis for the Existing No Project conditions. No
+intersections were found to meet the peak hour signal warrant in the PM peak hour under the Existing
+No Project condition. Signal warrant analysis worksheets for all scenarios are provided in Appendix 7.
+
+Table 5: Existing No Project Signal Warrant Summary
+
+
+                                                                                                              Meets PM Peak
+   #                                    Intersection                                           Control           Hour?
+
+   2                            Fairlane Road & Oberlin Road                                    TWSC                   No
+
+
+   3                          Campbell Avenue & Oberlin Road                                    TWSC                   No
+
+
+   4                   I-5 Southbound Ramps & Moonlit Oaks Avenue                               TWSC                   No
+
+
+   5                   I-5 Northbound Ramps & Moonlit Oaks Avenue                               TWSC                   No
+
+
+   6                        Fairlane Road & Moonlit Oaks Avenue                                 TWSC                   No
+
+
+   7                            Fairlane Road & Sharps Road                                     TWSC                   No
+
+
+The California MUTCD Peak Hour Signal Warrant (#3) was used for the signal warrant analysis.
+
+
+
+
+                                                                  25                                     Kittelson & Associates, Inc.
+Karuk Casino                                     September 2013
+
+
+
+
+                                         Section 4
+                    Existing Plus Project Conditions
+
+
+
+
+               26                      Kittelson & Associates, Inc.
+Karuk Casino                                                                                               September 2013
+Existing Plus Project Conditions
+
+
+
+
+EXISTING PLUS PROJECT CONDITIONS
+To develop the Existing Plus Project traffic conditions, the traffic generated by the proposed project is
+added to the Existing traffic volumes. Existing Plus Project conditions are compared relative to the
+Existing conditions to determine the potential impacts due to the proposed project.
+
+
+Project Traffic
+The project's traffic impacts were estimated in this section by considering the amount of traffic to be
+generated by the project and the directional distribution of that traffic. The project site is proposed to
+have one access point toward the end of Sharps Road.
+
+
+TRIP GENERATION
+Generally, the ITE Trip Generation Manuals is the standard reference from which to determine trip
+generation rates. However, the rates for a casino included in the latest edition of the ITE Trip
+Generation Manual are based on surveys of six casino/video lottery establishments taken in South
+Dakota in the 1990's. The square footage of the surveyed facilities ranged from 600 to 2,400 square
+feet. Based on preliminary calculations and a comparison of this rate with other studies, described
+below, it was found that use of the ITE rate was inappropriate and produced results that did not
+compare with the expected traffic of the Proposed Project. Instead, as described below, more recent
+trip generation data available from surveys of existing tribal casinos were used to estimate the traffic
+that would be produced by the casino portion of the Proposed Project for Phase 1 and 2.
+
+The rates used in the weekday analysis are presented in Table 6. To determine the weekday trip
+generation for the project, an analysis of the trip generation was conducted to relate the actual casino
+square footage to the trips being generated. Data for this comparison was previously obtained from 24-
+hour machine traffic counts conducted during the peak season at the Cache Creek Casino located in
+Capay, California.4 Using this data it was determined that including the non-gaming areas in the
+calculations results in a gross overstatement of the future casino trip generation. Therefore, the
+additional trips from the casino portion of the Proposed Project were calculated based on the area of
+the gaming floor and other space that would be accessible to patrons (excluding back of house,
+administration, and employee areas).
+
+The trip generation rates used in the Shingle Springs Rancheria Interchange Project
+Transportation/Circulation Technical Study5 were based on survey data collected at five (5) northern
+
+
+
+4
+    Report on Traffic Data Collection at the Cache Creek Casino/Hotel , conducted between July 26 and July 29, 2007 by
+Kimley Horn & Associates, San Ramon, CA, 2007.
+5
+    Shingle Springs Rancheria Interchange Project Transportation/Circulation Technical Study , CCS Planning and
+Engineering, San Jose, August, 2002.
+
+                                                             27                                  Kittelson & Associates, Inc.
+Karuk Casino                                                                                              September 2013
+Existing Plus Project Conditions
+
+
+California Indian gaming casinos ranging in size from 17,300 square feet to 78,000 square feet. Inbound
+and outbound traffic data was collected at each casino surveyed for a weekday AM peak hour, a
+weekday PM peak hour, and the Saturday peak hour. The resulting traffic data was then converted to
+trip generation data for use in the Shingle Springs document using a weighted average rate
+methodology.
+
+The use of the weighted average to establish trip rates is justified based on the following precedents:
+
+      1. A similar methodology using a "weighted average" was used by Fehr and Pe ers within their
+         traffic study for the Auburn Rancheria. A PM peak hour rate was established within that report
+         by using a "weighted average" of PM peak hour rates at four northern California casinos.
+      2. Page 7 of the Institute of Transportation Engineer's "Trip Generation Handbook ­ Second
+         Edition" published in June of 2004 specifies that ITE rates are based on weighted averages and
+         states: "The average rates presented in Trip Generation are weighted averages (weighted by the
+         units of the independent variable)." The use of the weighted average rates is typically specified
+         by ITE when there are less than 20 survey data points. When there are more than 20 data points
+         (and the data has the desired level of coordination) then a regression equation may be used, if
+         provided.
+
+The hotel component base trip generation information was developed from the number of rooms
+provided by the applicant using the Institute of Transportation Engineers (ITE) Trip Generation, Ninth
+Edition, 2012. The rates for a standard hotel were used (ITE Land Use Code 310).
+
+The San Diego County Department of Public Works prepared a study of casino trip generation entitled
+"Report on the Potential Impacts of Tribal Gaming on Northern and Eastern San Diego County". 6 Based
+on surveys of numerous southern California Indian gaming casinos, the San Diego Report established
+that when a hotel is part of a casino-hotel establishment the daily trip rate for the hotel is typically
+around 3.0 trips per room rather than the typical 8.17 trips per room rate found in the ITE Trip
+Generation manual. This is a 63.5% reduction in number of daily trips likely to be generated by a hotel
+when the hotel is combined with a casino. This 63.5% reduction in trips was applied to the AM, PM, and
+Saturday peak hour rates for a hotel. This is conservative compared to the 75% reduction that has been
+used in other recent casino studies in Caltrans District 3 such as the Thunder Valley Casino Expansion
+Project.7
+
+Using these rates, during the normal weekday p.m. commute peak hour the Proposed Project is
+estimated to generate a total of approximately 159 p.m. peak hour trips (76 inbound and 83 outbound).
+The revised project descriptions for the two phases of the Karuk Casino generate a maximum of 1,689
+
+
+
+
+6
+    Cowlitz Indian Tribe Trust Acquisition and Casino Project Final Environmental Impact Statement , Bureau of Indian
+Affairs, Portland, OR, May, 2008.
+7
+    Thunder Valley Casino Expansion Draft TEIR, United Auburn Indian Community, Auburn, CA, February, 2008.
+
+                                                             28                                 Kittelson & Associates, Inc.
+Karuk Casino                                                                                                 September 2013
+Existing Plus Project Conditions
+
+
+daily trips. Table 7 and Table 8 present the trip generation by peak hour and daily for each phase of the
+project.
+
+Table 6: Weekday Trip Generation Rates
+                                                                                      PM Peak-Hour Trip Rates
+                             Land Use                       Daily Trip Rates
+                                                                               In           Out                 Total
+Casino (per 1000 sq. ft.)                                          61.20       2.74         3.21                 5.95
+Standard Hotel (per room) (ITE 310)                                8.17        0.35         0.26                 0.61
+Casino Hotel (per room) (after applying 63.5% reduction)           2.98        0.13         0.09                 0.22
+
+Table 7: Proposed Project Phase 1 Weekday Trip Generation Estimates
+
+                                                                                        PM Peak-Hour Trip Rates
+          Land Use                      Size               Daily Trips
+                                                                                       In          Out            Total
+Casino (per 1000 sq. ft.)          14,200 sq. ft.             869                     39           46               85
+Total                                                         869                     39           46               85
+
+Table 8: Proposed Project Phase 2 (Total Build Out) Weekday Trip Generation Estimates
+
+                                                                                        PM Peak-Hour Trip Rates
+          Land Use                      Size               Daily Trips
+                                                                                       In          Out            Total
+Casino (per 1000 sq. ft.)          23,700 sq. ft.             1450                    65           76               141
+Casino Hotel (per room)             80 rooms                  239                     11            7               18
+Total                                                         1689                    76           83               159
+
+
+
+Trip Distribution
+To evaluate the traffic related effects of the project, trips that would be generated by the project were
+distributed onto the roadway network. Trip distribution simulates the circulation pattern of travel, by
+matching trips generated by one type of land use (e.g., residential) with trips generated by other types
+of land uses (e.g., employment, shopping, and education). Trip distribution patterns to and from the
+proposed project were estimated by evaluating the existing roadway network, existing travel patterns
+from counts, nearby population centers of likely patrons for this proposed casino project, and current
+land use patterns. Trip distribution patterns are shown in Figure 4. Figure 5 and Figure 6 present the
+project's turning movement volumes at the study intersections for the Phase 1 and Phase 2 scenarios,
+respectively.
+
+
+
+
+                                                              29                                   Kittelson & Associates, Inc.
+Karuk Casino                                                                             September 2013
+Existing Plus Project Conditions
+
+
+Figure 4: Project Trip Distribution
+
+
+
+                                                                                           N
+
+                                                                                          A
+                                                                                3%
+
+
+
+
+                                            ___   .:.!2~~R~d~____p_r~
+                                                                    ~~~
+                                                                      ect Site
+
+
+
+                                            Moonlit Oa ks Ave
+
+
+
+
+                                      15%
+
+
+
+                                                         Trip Di stribut ion          Figure
+                                                                                         4
+
+
+
+
+                                            30                                 Kittelson & Associates, Inc.
+Karuk Casino                                                                                                                                     September 2013
+Existing Plus Project Conditions
+
+
+Figure 5: Project Only Phase 1 Peak Hour Volumes
+
+
+
+      II s.     Main St/Fort Jones Rd
+              and Oberlin Rd                                  II   Fairlanc Rd
+                                                                   and Oberlin Road                      ·
+                                                                                                              Campbell Ave
+                                                                                                              and Oberlin Rd
+
+
+                                                                             ~
+                                                                                                                        ~
+                             t:   "'-   5                                    o    '-0                                   1l
+                00",,"
+                             .~
+                             ;~
+                                  -1                                000
+                                                                             ~ - 0                                      E    - 2
+               ) I U              r- D
+                                                                    ) I \.   & ~2                                       a    r- D
+                                        01.:"" li n Fl.o..I                             Olle, lin R<.J                            Ob erlin RoJ
+
+
+                                  '1 r (
+                                  000
+                                                                                  '1 r (                                         '1 (
+
+
+
+      ·
+              1·5 Southbound On-Ramp/Off-ramp
+              ud Moonlit Oaks Ave
+                             ~
+                                                              11   '05 Northbound On--Ramp/Off Ramp
+                                                                   and Moonlit Oab Ave
+                                                                              ~
+                                                                              E
+                                                                                                         II   Fairlane Rd and
+                                                                                                              Moonlit Oaks Ave
+
+                             ~                                               ~
+                                                                             ~
+                           ~      -     0                                         '--- 30
+                 ON
+                 )
+                     '"
+                      \.
+                             0
+                             ~
+                             ~
+                             ~
+                                  r- 7                                       .
+                                                                             o
+                                                                             z
+                                                                                  -    7                          inN
+                                                                                                                 ) 1
+                             ~    Moonlit Oaks Ave                           "? MoonlitOakA"e                                Moonlit e,b Ave
+
+
+                      D-                                                              '1 (
+                                                                                      a",
+                                                                                                                                 '1 1
+                      O. .                                                                                                        ON
+
+
+
+
+      II      Falrlane Rd
+              and Stlarps Rd
+
+
+
+
+                     0""
+                                  '- .
+                                  r-    38
+
+                     I "                Sharps Rd
+
+
+                                        r(
+
+
+
+
+                                                                                                                                          Figure
+                                                              Turning Movements for Project Trips Phase 1
+                                                                                                                                                 5
+
+
+
+
+                                                                                      31                                         Kittelson & Associates, Inc.
+Karuk Casino                                                                                                                                   September 2013
+Existing Plus Project Conditions
+
+
+Figure 6: Project Only Phase 2 (Total Build Out) Peak Hour Volumes
+
+
+              S. Main StjFort Jones Rd                          Fairlane Rd                          CamplleliAve
+
+
+                                    ,
+              dnd Oberlin Rd                                     and Oberlin Road                    and Oberlin Rd
+                                    ~
+
+                                    ·
+                                    t   '-9
+                                                                              .
+                                                                              .
+                                                                              "
+                                                                                    '- 0
+                                                                                                                      l
+                                                                                                                      'ii
+                                    "
+                                                                                0                                     ~
+
+                                                                                                                            -    3
+               ooro
+               ,)    I
+                                    ~
+                                    ,
+                                    ,
+                                        -2
+                                        ,- D
+                                                                 000
+                                                                ,) J          ~
+                                                                                    - 0
+                                                                                    ,- 4                              a ,-D
+                           "· 'I t
+                         D-.J
+                                             Obe rl in Rd
+
+                                                  (                     "
+                                                                       O-.J            I
+                                                                                    'I o
+                                                                                        Oberlin Rd
+
+                                                                                           (               3-
+                                                                                                                                 Oberli n Rd
+
+
+                                                                                                                                'I (
+                         2-
+                                        000
+                                                                     0-             9      Ll)
+                                                                                                           2 ......              NO
+
+                         0 ......                                   10 ......
+
+
+
+
+             1-5 Southbound On-RampjOff-ramp
+      ·      and Moonlit Oaks Ave
+
+                                    ·
+                                    ~
+
+
+
+                                ~
+
+
+                     m
+                    O~
+                                ~
+                                0
+                                        -   D
+                                        ...--13
+                ,)              ::
+                                n
+
+
+                         "
+                                ~       Moenlr.: ClIKIAv!
+
+
+                                                                                                          61 - '                'I
+                                                                                                                                 am
+                                                                                                                                   t
+                                                                                                           0 ......
+
+
+
+
+             Falrlane Rd
+      ·      and Sharps Rd
+
+
+
+                                        '-15
+                          m
+                     O~                 ,-70
+
+                     1"                     Si'1arps Rd
+
+
+                                            t(
+
+
+
+
+                                                                                                                                        Figu re
+                                                            Turning Movements for Project Trips Phase 2
+                                                                                                                                               6
+
+
+
+                                                                                     32                                         Kittelson & Associates, Inc.
+Figure 7: Existing Plus Project Phase 1 Peak Hour Volumes
+
+
+
+
+                             '--189                                      '--4
+          "' "' "'
+                ~            -30
+                                                        '"""""
+                                                                         -170                          -165
+          "'''"'''           ,...-- 46                                   ,...-- 60                     ,...--0
+          )  ! \                   Oberlin Rd
+                                                        )   ! \                Oberlin Rd                   Oberlin Rd
+
+
+             29-"            ')   t
+                              "'",00
+                                         (                    4-"        ')
+                                                                         o~oo
+                                                                               t    (       278-          ') (
+                                                                                                           '" '"
+                                                                                                           '"
+             73-                                            246-                             37"
+             67"
+                              ~"'"'
+                                  "'                         88"
+                                                                         '"        "
+
+
+
+                     ~
+                     E
+                     :;.
+                     ~ -214                                              '-- 57
+                     o       ~27
+                                                                     ~
+                                                                         -126               '"
+                                                                                            '"
+                                                                                            ~" "'
+                                                                     z
+                     ~
+                     ..!.   Moonlit Oaks Ave                         ~ Moonlit Oak Ave
+                                                                                            )   !     Moonlit Oaks Ave
+
+
+            236-                                            132 -"        ') (              133-"          ')   t
+                                                                              000                           ",00
+            239"                                            153-              ~""
+                                                                              ~                 56"         "' "'
+
+
+         Falrlan. Rd
+    ·    and Sharps Rd
+
+
+
+                             '--19
+                             ,...-- 61
+             ! \                  Sharps Rd
+
+
+                                  t(
+
+
+
+
+                                                                                                                    Figure
+                                                Existing PM Traffic Volumes with Project Phase 1
+                                                                                                                         7
+Karuk Casino                                                                                                                                                   September 2013
+Existing Plus Project Conditions
+
+
+Figure 8: Existing Plus Project Phase 2 (Total Build Out) Peak Hour Volumes
+
+
+                                                                     Fairlane Rd
+                                                                     and Oberlin Road                           II   Campbell Ave
+                                                                                                                     and Oberlin Rd
+
+                                                                                                                                        ·
+                ~
+                    M
+                    ~
+                         m
+                         ~
+                                        "'- 193
+                                        -31
+                                                                                  .
+                                                                                  ~
+
+                                                                                  "
+                                                                                  c
+                                                                                        "-1
+                                                                                        -170
+                                                                                                                                        :
+                                                                                                                                        ~
+                                                                                                                                        ~
+
+                                                                                                                                        E   -166
+                N"N                                                   m""
+               ) J                      ,,46                         ) J          Jii   ,,62                                            a   ,,0
+                           \                  Oberlin   ~d
+                                                                            \                    OI::erlin Rd                                     Oberlin Rd
+
+
+                      29-"              ~
+                                         NMOO
+                                             1(                           4-"           ~
+                                                                                        ,,~o
+                                                                                             I      (                    279-
+                                                                                                                          38 ___
+                                                                                                                                               ~ (
+                                                                                                                                                ON
+                      74-                ~   ~    ~                     246-            m          00                                           M
+                      67 ___                 M                           93 ___
+
+
+
+
+                                                                                  ~
+
+                                   ~                                              E
+                               ~                                                  ~
+                                                                                  ~
+                               ~        -214
+                                                                                ~
+                                                                                        "-82
+                               o
+                               ·
+                               ~
+                               ~
+                                         ~33                                    0
+                                                                                  .
+                                                                                  z
+                                                                                        -132
+                                                                                                                        m
+                                                                                                                        ~"
+                                                                                                                        ~ ~
+
+
+
+                                                                                                                        J J
+                               ..l.    MoonlltOollksAlle                          ~ Moonlit Oak Ave                                         Moonlit O;!!I::s Ave
+
+
+                    236-                                                132 -""         ~ (                             162 -""                 ~     1
+                    239 ........                                        176-                "'"
+                                                                                            :::"                          56 ........
+                                                                                                                                                 ~
+                                                                                                                                                 ~
+                                                                                                                                                     m
+                                                                                                                                                      ~
+
+
+
+
+                     o                  '---26
+                     "
+                     ~    00
+                          ~
+                                        "    93
+                                             Shilrps Rd
+
+
+                                             1(
+
+
+
+
+                                                                                                                                                          Figure
+                                                             Existing PM Traffic Volumes with Project Phase 2
+                                                                                                                                                               8
+
+
+
+
+                                                                                            34                                                  Kittelson & Associates, Inc.
+Karuk Casino                                                                                                          September 2013
+Existing Plus Project Conditions
+
+
+
+LEVEL OF SERVICE ANALYSIS
+Existing Plus Project intersection peak hour volumes for Phase 1 and Phase 2 were computed as the
+sum of the Existing peak hour volumes and Project Only peak hour volumes for Phase 1 and Phase 2,
+respectively. Figure 7 and Figure 8 present the peak hour volumes for each phase while Table 9 and
+Table 10 present the level of service at study intersections under Existing Plus Project conditions for
+Phase 1 and Phase 2, respectively. No intersections are expected to perform below their level of service
+standard for either the Phase 1 or Phase 2 conditions.
+
+
+Intersection
+Table 9: Existing Plus Project Phase 1 Intersection LOS Summary
+
+                                                                                                       Existing No Project
+                                                                          Minimum
+                                                                          Acceptable           Worst
+#                     Intersection               Control      Time           LOS              Movement             Delay          LOS
+
+        South Main Street/Fort Jones Road &
+1                                                 Signal        PM              C                  -                 9.9           A
+                   Oberlin Road
+
+2           Fairlane Road & Oberlin Road          TWSC          PM              C                 NBL               17.5           C
+
+
+3         Campbell Avenue & Oberlin Road          TWSC          PM              C                 NBL               11.8           B
+
+          I-5 Southbound Ramps & Moonlit
+4                                                 TWSC          PM              C                 SBL               16.5           C
+                    Oaks Avenue
+
+          I-5 Northbound Ramps & Moonlit
+5                                                 TWSC          PM              C                 NBL               19.3           C
+                    Oaks Avenue
+
+6      Fairlane Road & Moonlit Oaks Avenue        TWSC          PM              C                 EBL               13.0           B
+
+
+7            Fairlane Road & Sharps Road          TWSC          PM              C                 WBL               11.4           B
+
+For signalized intersection, the HCM 2010 intersection delay and LOS are reported. For two-way stop controlled (TWSC)
+intersections, the worst movement's delay and LOS are reported.
+
+
+
+
+                                                                  35                                        Kittelson & Associates, Inc.
+Karuk Casino                                                                                                          September 2013
+Existing Plus Project Conditions
+
+
+Table 10: Existing Plus Project Phase 2 (Total Build Out) Intersection LOS Summary
+
+                                                                                                       Existing No Project
+                                                                          Minimum
+                                                                          Acceptable           Worst
+#                     Intersection               Control      Time           LOS              Movement             Delay          LOS
+
+        South Main Street/Fort Jones Road &
+1                                                 Signal        PM              C                  -                10.0           A
+                   Oberlin Road
+
+2           Fairlane Road & Oberlin Road          TWSC          PM              C                 NBL               17.9           C
+
+
+3         Campbell Avenue & Oberlin Road          TWSC          PM              C                 NBL               11.8           B
+
+          I-5 Southbound Ramps & Moonlit
+4                                                 TWSC          PM              C                 SBL               17.8           C
+                    Oaks Avenue
+
+          I-5 Northbound Ramps & Moonlit
+5                                                 TWSC          PM              C                 NBL               21.0           C
+                    Oaks Avenue
+
+6      Fairlane Road & Moonlit Oaks Avenue        TWSC          PM              C                 EBL               14.0           B
+
+
+7            Fairlane Road & Sharps Road          TWSC          PM              C                 WBL               12.2           B
+
+For signalized intersection, the HCM 2010 intersection delay and LOS are reported. For two-way stop controlled (TWSC)
+intersections, the worst movement's delay and LOS are reported.
+
+
+
+
+                                                                  36                                        Kittelson & Associates, Inc.
+SIGNAL WARRANTS ANALYSIS
+Table 11 presents the results of the signal warrant analysis for the Existing Plus Project Phase 1
+conditions. No intersections were found to meet the peak hour signal warrant in the PM peak hour.
+
+Table 11: Existing Plus Project Phase 1 Signal Warrant Summary
+
+
+                                                                                                         Meets PM Peak
+   #                                    Intersection                                           Control      Hour?
+
+   2                            Fairlane Road & Oberlin Road                                    TWSC          No
+
+
+   3                          Campbell Avenue & Oberlin Road                                    TWSC          No
+
+
+   4                   I-5 Southbound Ramps & Moonlit Oaks Avenue                               TWSC          No
+
+
+   5                   I-5 Northbound Ramps & Moonlit Oaks Avenue                               TWSC          No
+
+
+   6                        Fairlane Road & Moonlit Oaks Avenue                                 TWSC          No
+
+
+   7                            Fairlane Road & Sharps Road                                     TWSC          No
+
+
+The California MUTCD Peak Hour Signal Warrant (#3) was used for the signal warrant analysis.
+
+
+Table 12 presents the results of the signal warrant analysis for the Existing Plus Project Phase 2
+conditions. No intersections were found to meet the peak hour signal warrant in the PM peak hour
+Karuk Casino                                                                                                       September 2013
+Existing Plus Project Conditions
+
+
+Table 12: Existing Plus Project Phase 2 (Total Build Out) Signal Warrant Summary
+
+
+                                                                                                              Meets PM Peak
+   #                                          Intersection                                     Control           Hour?
+
+   2                                  Fairlane Road & Oberlin Road                              TWSC                   No
+
+
+   3                                 Campbell Avenue & Oberlin Road                             TWSC                   No
+
+
+   4                        I-5 Southbound Ramps & Moonlit Oaks Avenue                          TWSC                   No
+
+
+   5                        I-5 Northbound Ramps & Moonlit Oaks Avenue                          TWSC                   No
+
+
+   6                               Fairlane Road & Moonlit Oaks Avenue                          TWSC                   No
+
+
+   7                                   Fairlane Road & Sharps Road                              TWSC                   No
+
+
+The California MUTCD Peak Hour Signal Warrant (#3) was used for the signal warrant analysis.
+
+
+
+IMPACT DETERMINATION
+No study facilities were found to be operating unsatisfactorily or meeting the peak hour signal
+warrants.
+
+
+
+
+                                                                         38                              Kittelson & Associates, Inc.
+Karuk Casino                                 September 2013
+
+
+
+
+                                    Section 5
+               Cumulative No Project Conditions
+
+
+
+
+                39                 Kittelson & Associates, Inc.
+Karuk Casino                                                                                     September 2013
+Cumulative No Project Conditions
+
+
+
+
+YEAR 2030 CUMULATIVE NO PROJECT CONDITIONS
+The cumulative condition, or the Cumulative (2030) No Project condition, is used as a future baseline to
+compare against the Cumulative Plus Project condition. No roadway improvements or development
+projects are scheduled to happen in the vicinity of the project according to conversations with the City
+and research into the Regional Transportation Plan. This comparison identifies long-term project-
+related impacts.
+
+
+CUMULATIVE TRAFFIC VOLUMES
+Due to the lack of a travel demand model that covers the City of Yreka, Caltrans' historical traffic count
+data was used to determine a historic growth rate in the vicinity of the project. The historic average
+annual growth rate on Interstate 5 between Miner Street and State Route 3 during the peak hour in
+both directions from 2001 to 2011 was calculated to be 0.41 percent. Existing PM peak hour turning
+movement volumes at the study intersections were increased using this annual growth rate to estimate
+the turning movement volumes in the cumulative (2030) year.
+
+The Cumulative (2030) intersection lane configuration and control remained the same as under existing
+conditions. PM peak hour traffic volumes at the study intersections under Cumulative (No Project)
+conditions are shown in Figure 9.
+
+
+
+
+                                                      40                               Kittelson & Associates, Inc.
+Karuk Casino                                                                                                                                                     September 2013
+Cumulative No Project Conditions
+
+
+Figure 9: Cumulative (2030) No Project Peak Hour Volumes
+
+
+
+     II      S Main StjFort Janes Rd
+             and Oberlin Rd
+                                 ~
+                                                           II   Fairlane Rd
+                                                                and Oberlin Road                                  ·
+                                                                                                                      Campbell Ave
+                                                                                                                      and Oberlin Rd
+
+                                                                                                                                          ·
+                                 ~      "- 195
+                                                                               ~
+
+                                                                               "   .   '-5
+                                                                                                                                          :
+                                                                                                                                          ~
+                   ~      ~                                                        0                                                      ~
+
+
+
+
+                                 "      -30                                            -180                                                   -175
+              ~OON                                               0
+                                 ~                                                                                                        E
+              N7N
+                                        ...--50
+                                                                 ~   ~    ~
+                                                                               "
+                                                                               Ji      ...--60                                            ~
+              ) j I,             ~                              ) j I,                                                                        ...-- 5
+                                             aber·li" Rd                                       OLJ .. rlin R<.I                                   OIJe,1ill Rd
+                                 "
+                    30--"               "1 I
+                                         ~   0
+                                                   (
+                                                   0
+                                                                       5 --"           "1 I
+                                                                                       0       ~
+                                                                                                       (
+                                                                                                       0
+                                                                                                                          295-                   "1
+                                                                                                                                                 O~
+                                                                                                                                                      (
+                    75~                  rim'"                       265-              m               00                     40"                m
+                                           M
+                    70"                                               90"
+
+
+
+
+                                 ~                                                 ~
+                                 E                                                 E
+                                ~                                              ~
+
+                                "
+                                ~
+                                        -230                                   '"
+                                                                               0
+                                                                               ~
+                                                                                       '-30
+                                                                                                                         0
+               ~
+               m m
+                     0
+                                0       ...--20                                0       -130                              O~
+                                                                                                                         rl    ~
+                                M                                              M
+               )                                                               z                                         ) j
+                         I,     ~
+                                ~
+                                       Moonlit Oaks Ave                        ~ MoonlitCaltAve
+                                ..!.                                                                                                          Moonlit Oaks Ave
+
+                   255-                                              140 .......        "1 m
+                                                                                                   (
+                                                                                                   ~
+                                                                                                                          110 .........          "1 I
+                                                                     135_
+                   255--.....                                                              N
+                                                                                           ~
+                                                                                                m
+                                                                                                                              60--.
+                                                                                                                                                  ""
+
+
+                                        '-10
+                                        ...-- 25
+
+                                             Sharps Rd
+
+
+                                             I (
+
+
+
+
+                                                                                                                                                          Figure
+                                                            Cumulative Traffic Volumes without Project
+                                                                                                                                                                 9
+
+
+
+                                                                                           41                                                    Kittelson & Associates, Inc.
+Karuk Casino                                                                                                         September 2013
+Cumulative No Project Conditions
+
+
+
+LEVEL OF SERVICE ANALYSIS
+Table 13 presents the results of the level of service analysis for the Cumulative (2030) No Project
+conditions. No intersections are expected to perform below their level of service standard in the
+Cumulative (2030) No Project scenario.
+
+
+Intersection
+Table 13: Cumulative (2030) No Project Intersection LOS Summary
+
+                                                                                                   Existing No Project
+
+ #                        Intersection                     Control        Time        Worst Approach            Delay           LOS
+
+         South Main Street/Fort Jones Road & Oberlin
+ 1                                                          Signal         PM                  -                 10.3             B
+                            Road
+
+ 2               Fairlane Road & Oberlin Road               TWSC           PM                NBL                 19.1             C
+
+
+ 3             Campbell Avenue & Oberlin Road               TWSC           PM                NBL                 12.7             B
+
+            I-5 Southbound Ramps & Moonlit Oaks
+ 4                                                          TWSC           PM                 SBL                17.5             C
+                          Avenue
+
+            I-5 Northbound Ramps & Moonlit Oaks
+ 5                                                          TWSC           PM                NBL                 20.7             C
+                          Avenue
+
+ 6           Fairlane Road & Moonlit Oaks Avenue            TWSC           PM                 EBL                12.3             B
+
+
+ 7                Fairlane Road & Sharps Road               TWSC           PM                WBL                 10.8             B
+
+For signalized intersection, the HCM 2010 intersection delay and LOS are reported. For two-way stop controlled (TWSC)
+intersections, the worst movement's delay and LOS are reported.
+
+
+
+SIGNAL WARRANTS ANALYSIS
+Table 14 presents the results of the signal warrant analysis for the Cumulative (2030) No Project
+conditions. No intersections were found to meet the peak hour signal warrant in the PM peak hour.
+
+
+
+
+                                                                     42                                    Kittelson & Associates, Inc.
+Karuk Casino                                                                                                       September 2013
+Cumulative No Project Conditions
+
+
+Table 14: Cumulative (2030) No Project Signal Warrant Summary
+
+
+                                                                                                              Meets PM Peak
+   #                                        Intersection                                       Control           Hour?
+
+   2                                Fairlane Road & Oberlin Road                                TWSC                   No
+
+
+   3                               Campbell Avenue & Oberlin Road                               TWSC                   No
+
+
+   4                      I-5 Southbound Ramps & Moonlit Oaks Avenue                            TWSC                   No
+
+
+   5                      I-5 Northbound Ramps & Moonlit Oaks Avenue                            TWSC                   No
+
+
+   6                           Fairlane Road & Moonlit Oaks Avenue                              TWSC                   No
+
+
+   7                                 Fairlane Road & Sharps Road                                TWSC                   No
+
+
+The California MUTCD Peak Hour Signal Warrant (#3) was used for the signal warrant analysis.
+
+
+
+
+                                                                     43                                  Kittelson & Associates, Inc.
+                       Section 6
+Cumulative Plus Project Conditions
+Karuk Casino                                                                                   September 2013
+Cumulative Plus Project Conditions
+
+
+
+
+YEAR 2030 CUMULATIVE PLUS PROJECT CONDITIONS
+This section describes Cumulative Plus Project conditions. Cumulative Plus Project conditions are
+defined as the addition of project traffic to the Cumulative No Project traffic volumes. The comparison
+of Cumulative Plus Project conditions to Cumulative No Project conditions demonstrates project-related
+impacts.
+
+
+PROJECT TRAFFIC
+Project traffic volumes were calculated using the same method discussed under the Existing Plus
+Project conditions. Only Phase 2 (including both the 80 room hotel and 800 gaming positions) is
+considered in the Cumulative (2030) Plus Project scenario.
+
+
+TRAFFIC VOLUMES
+Project generated traffic is added to the Cumulative No Project traffic volumes to obtain the Cumulative
+Plus Project traffic volumes. Cumulative Plus Project peak hour traffic volumes are graphically shown in
+Figure 10.
+
+
+
+
+                                                     45                              Kittelson & Associates, Inc.
+Karuk Casino                                                                                                                                               September 2013
+Cumulative Plus Project Conditions
+
+
+Figure 10: Cumulative (2030) Plus Project Peak Hour Volumes
+
+
+                                                              2   Fairlane Rd                                   3   Campbell Ave
+                                                                  and Oberlin Road                                  and Oberlin Rd
+
+
+
+               ~
+                    ~
+                    oc
+                          M
+                          M                                        a
+                                                                                   ~
+
+
+
+
+                                                                                   T
+                                                                                       "
+                                                                                       0
+                                                                                       0
+                                                                                           '--5
+                                                                                           -180
+                                                                                                                                       ..~,
+                                                                                                                                       ~
+
+                                                                                                                                              -178
+               N"N                                                 M    ~    ~
+
+
+               ) j                                                ) j              :~      ,-- 6'                                      a      ,--5
+                              \            Oberlin R.d
+                                                                              \                    Oberlin Rd                                     Oberlin Rd
+
+
+                     30--'             "1 aI
+                                       ~
+                                                (
+                                                a
+                                                                            5--'           "1
+                                                                                            o
+                                                                                              I    ~
+                                                                                                           (
+                                                                                                           ~
+                                                                                                                        298-                     "1
+                                                                                                                                                 N
+                                                                                                                                                      (
+                                                                                                                                                      ~
+                     77~                                               265-                0                               42 ......
+                     70 ......
+                                       Mm'"
+                                           M
+                                                                       100 .........
+                                                                                           M
+                                                                                                           "                                     M
+
+
+
+
+                                  ~
+                                   ,                                                   ,
+                                                                                       ~
+
+
+
+                                  ~                                                    ~
+
+
+                ~
+                m
+                      m
+                      N
+                                   "
+                                  '~
+                                  0
+                                       -230
+                                       ,--33
+                                                                                   .,
+                                                                                   "   a
+                                                                                       0
+                                                                                           '--85
+                                                                                           -143
+                                                                                                                       N
+                                                                                                                       "'''
+                                                                                                                       M    N
+                                  ~                                                    ~
+
+                )                                                                      z                               ) j
+                          \       ~
+
+                                  ~    Moonlit Oaks Ave                                ~ Moonlit Oak Ave                                      Moonlit Oaks Ave
+
+                    255-                                               140"""               "1 ~   N
+                                                                                                       (
+                                                                                                                       171"""                    "1 I
+                    255--..",                                          184_                    N"
+                                                                                                                                                  OM
+                                                                                               M                        60 ......
+                                                                                                                                                  "''''
+
+
+
+
+                                       '--25
+                                       ,-- 95
+
+                                           Sharps Rd
+
+
+                                           I (
+
+
+
+
+                                                                                                                                                          Figure
+                                                          Cumulative Traffic Volumes with Project Phase 2
+                                                                                                                                                           10
+
+
+
+                                                                                            46                                                  Kittelson & Associates, Inc.
+Karuk Casino                                                                                                         September 2013
+Cumulative Plus Project Conditions
+
+
+
+
+LEVEL OF SERVICE ANALYSIS
+Table 15 presents the results of the intersection level of service analysis in the Cumulative (2030) Plus
+Project conditions. The I-5 Northbound Ramps and Moonlit Oaks Avenue intersection (#5) is expected
+to perform below the applicable level of service standard.
+
+Intersection
+Table 15: Cumulative (2030) Plus Project Intersection LOS Summary
+
+                                                                                                   Existing No Project
+
+ #                         Intersection                    Control        Time        Worst Approach            Delay           LOS
+
+         South Main Street/Fort Jones Road & Oberlin
+ 1                                                          Signal         PM                  -                 10.4             B
+                            Road
+
+ 2                Fairlane Road & Oberlin Road              TWSC           PM                NBL                 20.4             C
+
+
+ 3              Campbell Avenue & Oberlin Road              TWSC           PM                NBL                 12.8             B
+
+            I-5 Southbound Ramps & Moonlit Oaks
+ 4                                                          TWSC           PM                 SBL                21.4             C
+                          Avenue
+
+            I-5 Northbound Ramps & Moonlit Oaks
+ 5                                                          TWSC           PM                NBL                 25.4            D
+                          Avenue
+
+ 6           Fairlane Road & Moonlit Oaks Avenue            TWSC           PM                 EBL                14.1             B
+
+
+ 7                Fairlane Road & Sharps Road               TWSC           PM                WBL                 12.5             B
+
+For signalized intersection, the HCM 2010 intersection delay and LOS are reported. For two-way stop controlled (TWSC)
+intersections, the worst movement's delay and LOS are reported. Unacceptable LOS's are shaded in dark grey.
+
+
+
+SIGNAL WARRANTS ANALYSIS
+Table 16 presents the results of the signal warrant analysis for the Cumulative (2030) Plus Project
+conditions. No intersections were found to meet the peak hour signal warrant in the PM peak hour.
+
+
+
+
+                                                                     47                                    Kittelson & Associates, Inc.
+Karuk Casino                                                                                                       September 2013
+Cumulative Plus Project Conditions
+
+
+Table 16: Cumulative (2030) Plus Project Signal Warrant Summary
+
+
+                                                                                                              Meets PM Peak
+   #                                          Intersection                                     Control           Hour?
+
+   2                                  Fairlane Road & Oberlin Road                              TWSC                   No
+
+
+   3                                 Campbell Avenue & Oberlin Road                             TWSC                   No
+
+
+   4                       I-5 Southbound Ramps & Moonlit Oaks Avenue                           TWSC                   No
+
+
+   5                       I-5 Northbound Ramps & Moonlit Oaks Avenue                           TWSC                   No
+
+
+   6                            Fairlane Road & Moonlit Oaks Avenue                             TWSC                   No
+
+
+   7                                   Fairlane Road & Sharps Road                              TWSC                   No
+
+
+The California MUTCD Peak Hour Signal Warrant (#3) was used for the signal warrant analysis.
+
+
+
+IMPACT DETERMINATION
+The following study intersections were found to be operating unsatisfactorily and/or meeting the peak
+hour signal warrant. A comparison of the project's effect on traffic operations and the impact
+significance criteria presented above yields the determinations presented below. Recommendations
+and mitigations to improve operations to an acceptable level are presented in the Recommendations
+and Mitigation Measures section.
+
+
+I-5 Northbound Ramps and Moonlit Oaks Avenue
+The operation of this intersection is expected to worsen to LOS D, an unacceptable LOS, in the
+Cumulative scenario with the project. As a result, the impact is considered significant.
+
+
+
+
+                                                                      48                                 Kittelson & Associates, Inc.
+Karuk Casino                                                                    September 2013
+Recommendations and Mitigation Measures
+
+
+
+
+                                                                       Section 7
+                                          Recommendations and Mitigation Measures
+
+
+
+
+                                                    49                Kittelson & Associates, Inc.
+Type of peak hour being reported: System Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: S Main St -- E Oberlin Rd                                                                                            QC JOB #: 10973401
+ CITY/STATE: Yreka, CA                                                                                                          DATE: Tue, Jun 04 2013
+                    689          576                          Peak-Hour: 4:30 PM -- 5:30 PM                                      2.6        3.0
+                       25 453 211
+                                                             Peak 15-Min: 4:55 PM -- 5:10 PM
+                                                                                                                                 12.0 1.3 4.3
+
+
+       66    29                        184   259
+                                                                                                                    4.5   6.9                      2.7      3.9
+             72           0.92          29
+                                                                                                                          1.4                      0.0
+       168   67                         46   341
+                                                                                                                    1.8   0.0                     10.9      3.5
+
+                       12 363 58
+                                                                                                                                 0.0 2.8 3.4
+                    566          433
+                                                                                                                                 1.9        2.8
+
+
+
+                           0                                                                                                      0    0    1
+
+
+
+                                                                                                                          0                          0
+
+             3                          0                                                                                 0                          0
+
+                                                                                                                          0                          0
+
+                           2                                                                                                      0    0    0
+
+
+
+
+                          NA                                                                                                           NA
+
+
+
+
+             NA                        NA                                                                                 NA                       NA
+
+
+
+
+                          NA                                                                                                           NA
+
+
+
+ 5-Min Count                S Main St                       S Main St                    E Oberlin Rd                E Oberlin Rd                 Total      Hourly
+     Period               (Northbound)                    (Southbound)                   (Eastbound)                 (Westbound)                             Totals
+ Beginning At     Left     Thru Right     U        Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U
+    4:00 PM        3        39      2     0         14      36      1     0        3       7       4     0    3        0     12    0              124
+    4:05 PM        1        33      2     0         20      43      0     0        1       7       5     0    3        4     14    0              133
+    4:10 PM        1        30      8     0         14      34      2     0        1       3       6     0    5        2     16    0              122
+    4:15 PM        1        27      5     0         14      39      1     0        0       3       8     0    5        2       9   0              114
+    4:20 PM        1        26      4     0         20      34      1     0        0       2       4     0    5        0     23    0              120
+    4:25 PM        1        41      3     0          8      29      3     0        0       4       5     0    2        1     14    0              111
+    4:30 PM        2        28      9     0         15      41      3     0        0       3       5     0    3        1     13    0              123
+    4:35 PM        2        25      6     0         11      37      0     0        2       5       5     0    4        3     18    0              118
+    4:40 PM        0        34      2     0         16      27      4     0        2      10       6     0    9        2     18    0              130
+    4:45 PM        1        29      2     0         29      30      1     0        2       2       2     0    3        3     13    0              117
+    4:50 PM        1        35      7     0         14      36      0     0        7      11       2     0    4        4     14    0              135
+    4:55 PM        2        31      2     0         13      33      1     0        4       9       9     0    2        5     21    0              132            1479
+    5:00 PM        1        17      2     0         13      38      4     0        3      13     10      0    6        0     16    0              123            1478
+    5:05 PM        2        40      4     0         23      59      4     0        0       4       4     0    5        0     20    0              165            1510
+    5:10 PM        1        37      5     0         26      43      3     0        1       3       7     0    2        3     12    0              143            1531
+    5:15 PM        0        31      5     0         18      44      1     0        4       3       8     0    2        3     16    0              135            1552
+    5:20 PM        0        25      9     0         22      30      2     0        1       3       5     0    3        3      11   0              114            1546
+    5:25 PM        0        31      5     0         11      35      2     0        3       6       4     0    3        2     12    0              114            1549
+    5:30 PM        1        23      2     0         12      38      1     0        1       4       5     0    4        1       9   0              101            1527
+    5:35 PM        1        24      6     0         10      44      1     0        0       6       4     0    1        3     20    0              120            1529
+    5:40 PM        0        36      6     0         20      19      2     0        3       6       2     0    5        2     13    0              114            1513
+    5:45 PM        0        32      3     0         17      17      2     0        0       2       5     0    1        1     16    0               96            1492
+    5:50 PM        0        18      2     0         14      22      2     0        0       3       2     0    2        3      11   0               79            1436
+    5:55 PM        0        24      3     0         11      24      1     0        0       4       2     0    3        1     13    0               86            1390
+ Peak 15-Min                   Northbound                      Southbound                    Eastbound                   Westbound
+   Flowrates      Left     Thru Right     U        Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U                     Total
+  All Vehicles     20     352      32     0        196     520     36     0        28    104     92      0    52      20    228    0                     1680
+ Heavy Trucks       0        4      0                4       4      4               4      0       0          12       0     12                           44
+  Pedestrians                0                               0                             0                           0                                   0
+    Bicycles       0         0      0                1       0      0              0       0       0          0        0       0                           1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/11/2013 5:02 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: System Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Fairlane Rd -- E Oberlin Rd                                                                                           QC JOB #: 10973402
+ CITY/STATE: Yreka, CA                                                                                                           DATE: Tue, Jun 04 2013
+                   17             9                           Peak-Hour: 4:30 PM -- 5:30 PM                                       5.9        0.0
+                      9    4     4
+                                                             Peak 15-Min: 4:55 PM -- 5:10 PM
+                                                                                                                                  0.0 25.0 0.0
+
+
+      263    4                           4   232
+                                                                                                                    4.6   0.0                       0.0       3.9
+             246          0.94         170
+                                                                                                                          2.4                       3.5
+      333    83                         58   325
+                                                                                                                    4.5   10.8                      5.2       2.2
+
+                   84      1     75
+                                                                                                                                  7.1 0.0 1.3
+                   145           160
+                                                                                                                                  9.0        4.4
+
+
+
+                           0                                                                                                       0    0    0
+
+
+
+                                                                                                                          0                           0
+
+             0                          0                                                                                 2                           1
+
+                                                                                                                          0                           0
+
+                           0                                                                                                       0    0    0
+
+
+
+
+                          NA                                                                                                            NA
+
+
+
+
+             NA                        NA                                                                                 NA                        NA
+
+
+
+
+                          NA                                                                                                            NA
+
+
+
+ 5-Min Count               Fairlane Rd                     Fairlane Rd                   E Oberlin Rd                E Oberlin Rd                  Total       Hourly
+     Period               (Northbound)                    (Southbound)                   (Eastbound)                 (Westbound)                               Totals
+ Beginning At Left         Thru Right     U        Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U
+    4:00 PM      5           0     11     0         0        0      0     0        0      19       5     0    5       11       1   0                57
+    4:05 PM      7           0      7     0         0        0      0     0        0      24       5     0    5       17       0   0                65
+    4:10 PM      4           1      3     0         2        1      0     0        0      17       9     0    3       13       1   0                54
+    4:15 PM      5           1     10     0         0        0      0     0        0      18       5     0    7       19       0   0                65
+    4:20 PM      7           0      3     0         1        2      0     0        1      16       9     0    6       13       0   0                58
+    4:25 PM      5           0      7     0         0        0      0     0        1      13       5     0    3       14       2   0                50
+    4:30 PM      7           0     10     0         0        0      1     0        0      18       6     0    5        9       0   0                56
+    4:35 PM      6           1      4     0         1        0      2     0        0      17       4     0    5       22       0   0                62
+    4:40 PM      6           0      7     0         0        1      0     0        1      23       9     0    8       17       1   0                73
+    4:45 PM      3           0      6     0         0        0      0     0        1      17       8     0    3       16       1   0                55
+    4:50 PM      9           0      4     0         0        1      2     0        2      20       9     0    8       18       0   0                73
+    4:55 PM      6           0      8     0         1        0      1     0        0      18       7     0    2       19       0   0                62              730
+    5:00 PM      7           0      9     0         0        2      1     0        0      21       8     0    1       15       1   0                65              738
+    5:05 PM     12           0      9     0         1        0      2     0        0      23       6     0    7       10       0   0                70              743
+    5:10 PM      7           0      6     0         0        0      0     0        0      27       7     0    5       12       0   0                64              753
+    5:15 PM      9           0      4     0         0        0      0     0        0      17       7     0    6       11       0   0                54              742
+    5:20 PM      8           0      3     0         1        0      0     0        0      28       6     0    5        9       0   0                60              744
+    5:25 PM      4           0      5     0         0        0      0     0        0      17       6     0    3       12       1   0                48              742
+    5:30 PM      7           0      9     0         0        1      1     0        0      15       3     0    5        8       0   0                49              735
+    5:35 PM      6           0      6     0         1        0      0     0        0      12       8     0    3       17       0   0                53              726
+    5:40 PM      8           0     14     0         0        0      0     0        0      26       7     0    2       12       0   0                69              722
+    5:45 PM      5           0      6     0         0        0      0     0        0      15       7     0    6       11       0   0                50              717
+    5:50 PM      3           0      9     0         0        0      0     0        0      17       5     0    9       15       0   0                58              702
+    5:55 PM      9           1      9     0         0        0      0     0        0       9       6     0    5        9       0   0                48              688
+ Peak 15-Min                   Northbound                      Southbound                    Eastbound                   Westbound
+   Flowrates   Left        Thru Right     U        Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U                       Total
+  All Vehicles 100           0    104     0         8        8     16     0        0     248     84      0    40     176       4   0                       788
+ Heavy Trucks   16           0      0               0        0      0              0       4       0           8      12       0                            40
+  Pedestrians                0                               0                             0                           0                                    0
+    Bicycles     0           0      0               0        0      0              0       1       0          0        1       0                            2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/11/2013 5:02 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: System Peak                                                      Method for determining peak hour: Total Entering Volume
+ LOCATION: Campbell Ave -- E Oberlin Rd                                                                                           QC JOB #: 10973403
+ CITY/STATE: Yreka, CA                                                                                                            DATE: Tue, Jun 04 2013
+                         0          0                           Peak-Hour: 4:30 PM -- 5:30 PM                                      0.0        0.0
+                         0    0     0
+                                                               Peak 15-Min: 4:55 PM -- 5:10 PM
+                                                                                                                                   0.0 0.0 0.0
+
+
+       191   0                            0    163
+                                                                                                                      2.1   0.0                      0.0       2.5
+             276             1.04        163
+                                                                                                                            1.1                      2.5
+       312   36                           0    278
+                                                                                                                      1.0   0.0                      0.0       1.1
+
+                       28     0     2
+                                                                                                                                   0.0 0.0 0.0
+                       36           30
+                                                                                                                                   0.0        0.0
+
+
+
+                              0                                                                                                     0    0    0
+
+
+
+                                                                                                                            0                          0
+
+             0                            0                                                                                 0                          0
+
+                                                                                                                            2                          0
+
+                              0                                                                                                     0    0    0
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+
+             NA                          NA                                                                                 NA                       NA
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+ 5-Min Count                 Campbell Ave                   Campbell Ave                   E Oberlin Rd                E Oberlin Rd                 Total       Hourly
+     Period                  (Northbound)                   (Southbound)                   (Eastbound)                 (Westbound)                              Totals
+ Beginning At     Left        Thru Right     U       Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U
+    4:00 PM        7            0      0     0        0        0      0     0        0      18       4     0    0       13       0   0               42
+    4:05 PM        1            0      0     0        0        0      0     0        0      24       7     0    0       21       0   0               53
+    4:10 PM        2            0      0     0        0        0      0     0        0      13       5     0    0       15       0   0               35
+    4:15 PM        4            0      0     0        0        0      0     0        0      27       6     0    0       13       0   0               50
+    4:20 PM        8            0      0     0        0        0      0     0        0      14       1     0    0       11       0   0               34
+    4:25 PM        1            0      0     0        0        0      0     0        0      12       5     0    0       15       0   0               33
+    4:30 PM        2            0      0     0        0        0      0     0        0      23       3     0    0        7       0   0               35
+    4:35 PM        6            0      0     0        0        0      0     0        0      26       1     0    0       21       0   0               54
+    4:40 PM        2            0      0     0        0        0      0     0        0      24       2     0    0       24       0   0               52
+    4:45 PM        2            0      0     0        0        0      0     0        0      18       4     0    0       14       0   0               38
+    4:50 PM        3            0      0     0        0        0      0     0        0      19       2     0    0       19       0   0               43
+    4:55 PM        1            0      0     0        0        0      0     0        0      19       2     0    0       13       0   0               35              504
+    5:00 PM        1            0      0     0        0        0      0     0        0      29       4     0    0       11       0   0               45              507
+    5:05 PM        1            0      0     0        0        0      0     0        0      27       4     0    0        9       0   0               41              495
+    5:10 PM        0            0      1     0        0        0      0     0        0      28       4     0    0       14       0   0               47              507
+    5:15 PM        4            0      0     0        0        0      0     0        0      18       3     0    0       10       0   0               35              492
+    5:20 PM        1            0      1     0        0        0      0     0        0      32       2     0    0       10       0   0               46              504
+    5:25 PM        5            0      0     0        0        0      0     0        0      13       5     0    0       11       0   0               34              505
+    5:30 PM        2            0      0     0        0        0      0     0        0      15       5     0    0        9       0   0               31              501
+    5:35 PM        7            0      0     0        0        0      0     0        0      23       5     0    0       12       0   0               47              494
+    5:40 PM        2            0      3     0        0        0      0     0        0      27       5     0    0       11       0   0               48              490
+    5:45 PM        3            0      1     0        0        0      0     0        0      17       4     0    0       13       0   0               38              490
+    5:50 PM        4            0      0     0        0        0      0     0        0      18       3     0    0       15       0   0               40              487
+    5:55 PM        3            0      0     0        0        0      0     0        0      19       1     0    0       10       0   0               33              485
+ Peak 15-Min                      Northbound                     Southbound                    Eastbound                   Westbound
+   Flowrates      Left        Thru Right     U       Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U                      Total
+  All Vehicles     12           0      0     0        0        0      0     0        0     300     40      0    0      132       0   0                      484
+ Heavy Trucks       0           0      0              0        0      0              0       0       0          0        8       0                           8
+  Pedestrians                   0                              0                             0                           0                                   0
+    Bicycles       0            0      0              0        0      0              0       0       1          0        0       0                           1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/11/2013 5:02 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: System Peak                                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: I-5 SB Ramps -- Moonlit Oaks Ave                                                                                           QC JOB #: 10973405
+ CITY/STATE: Yreka, CA                                                                                                                DATE: Tue, Jun 04 2013
+                     113            0                            Peak-Hour: 4:30 PM -- 5:30 PM                                         9.7        0.0
+                       87     0     26
+                                                                Peak 15-Min: 4:55 PM -- 5:10 PM
+                                                                                                                                       6.9 0.0 19.2
+
+
+       301   0                            0    234
+                                                                                                                          7.3   0.0                      0.0       7.7
+             236             0.99        214
+                                                                                                                                4.7                      7.5
+       475   239                         20    262
+                                                                                                                          4.2   3.8                     10.0       6.1
+
+                         0    0     0
+                                                                                                                                       0.0 0.0 0.0
+                    259             0
+                                                                                                                                       4.2        0.0
+
+
+
+                              0                                                                                                         0    0    0
+
+
+
+                                                                                                                                0                          0
+
+             0                             0                                                                                    1                          0
+
+                                                                                                                                0                          0
+
+                              1                                                                                                         0    0    0
+
+
+
+
+                              NA                                                                                                             NA
+
+
+
+
+             NA                          NA                                                                                     NA                       NA
+
+
+
+
+                              NA                                                                                                             NA
+
+
+
+ 5-Min Count                 I-5 SB Ramps                   I-5 SB Ramps                    Moonlit Oaks Ave              Moonlit Oaks Ave              Total       Hourly
+     Period                   (Northbound)                  (Southbound)                      (Eastbound)                  (Westbound)                              Totals
+ Beginning At     Left         Thru Right     U      Left    Thru Right     U        Left    Thru Right        U   Left    Thru Right      U
+    4:00 PM        0             0      0     0       2         0      5     0        0        21     10       0    3       22       0     0             63
+    4:05 PM        0             0      0     0       0         0      7     0        0        26     23       0    1       16       0     0             73
+    4:10 PM        0             0      0     0       1         0     12     0        0        19     16       0    1       16       0     0             65
+    4:15 PM        0             0      0     0       1         0      4     0        0        24     33       0    4       10       0     0             76
+    4:20 PM        0             0      0     0       3         0      7     0        0        16     13       0    2       18       0     0             59
+    4:25 PM        0             0      0     0       1         0      7     0        0        21     17       0    0       16       0     0             62
+    4:30 PM        0             0      0     0       2         0      4     0        0        16     21       0    3       16       0     0             62
+    4:35 PM        0             0      0     0       7         0      6     0        0         6     20       0    1       25       0     0             65
+    4:40 PM        0             0      0     0       2         0     13     0        0        21     21       0    4       20       0     0             81
+    4:45 PM        0             0      0     0       0         0      6     0        0        29     22       0    0       16       0     0             73
+    4:50 PM        0             0      0     0       2         0      9     0        0         8     16       0    1       26       0     0             62
+    4:55 PM        0             0      0     0       4         0      7     0        0        24     18       0    1       22       0     0             76              817
+    5:00 PM        0             0      0     0       0         0      7     0        0        26     14       0    3       15       0     0             65              819
+    5:05 PM        0             0      0     0       2         0      9     0        0        18     24       0    2       11       0     0             66              812
+    5:10 PM        0             0      0     0       1         0      5     0        0        19     25       0    0       15       0     0             65              812
+    5:15 PM        0             0      0     0       1         0      9     0        0        20     17       0    1       14       0     0             62              798
+    5:20 PM        0             0      0     0       2         0      8     0        0        24     22       0    2       14       0     0             72              811
+    5:25 PM        0             0      0     0       3         0      4     0        0        25     19       0    2       20       0     0             73              822
+    5:30 PM        0             0      0     0       1         0      4     0        0        10     15       0    2       17       0     0             49              809
+    5:35 PM        0             0      0     0       3         0      6     0        0        18     24       0    0       11       0     0             62              806
+    5:40 PM        0             0      0     0       3         0     14     0        0        25     12       0    0       19       0     0             73              798
+    5:45 PM        0             0      0     0       5         0      6     0        0        18     10       0    0       18       0     0             57              782
+    5:50 PM        0             0      0     0       0         0     10     0        0        17     12       0    0       16       0     0             55              775
+    5:55 PM        0             0      0     0       0         0      6     0        0        20      6       0    0       12       0     0             44              743
+ Peak 15-Min                       Northbound                     Southbound                      Eastbound                     Westbound
+   Flowrates      Left         Thru Right     U      Left    Thru Right     U        Left    Thru Right        U   Left    Thru Right      U                    Total
+  All Vehicles     0             0      0     0       24        0     92     0        0      272     224       0    24     192       0     0                    828
+ Heavy Trucks      0             0      0              4        0      8              0         8      8             4      24       0                           56
+  Pedestrians                    0                              0                               0                            0                                   0
+    Bicycles       0             0      0             0         0      0              0         0      0            0        0       0                           0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/11/2013 5:02 PM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: System Peak                                                        Method for determining peak hour: Total Entering Volume
+ LOCATION: I-5 NB Ramps -- Moonlit Oaks Ave                                                                                         QC JOB #: 10973406
+ CITY/STATE: Yreka, CA                                                                                                              DATE: Tue, Jun 04 2013
+                      0          159                           Peak-Hour: 4:30 PM -- 5:30 PM                                         0.0        6.9
+                      0    0      0
+                                                              Peak 15-Min: 4:55 PM -- 5:10 PM
+                                                                                                                                     0.0 0.0 0.0
+
+
+      237    132                       27    146
+                                                                                                                        6.3   6.1                      11.1       4.1
+             127          0.96         119
+                                                                                                                              3.9                       2.5
+      259    0                          0    161
+                                                                                                                        5.0   0.0                       0.0       8.1
+
+                   118     0     34
+                                                                                                                                     10.2 0.0 23.5
+                      0          152
+                                                                                                                                     0.0        13.2
+
+
+
+                           0                                                                                                          0    0     0
+
+
+
+                                                                                                                              0                           0
+
+             0                          1                                                                                     0                           0
+
+                                                                                                                              0                           0
+
+                           2                                                                                                          0    0     0
+
+
+
+
+                           NA                                                                                                              NA
+
+
+
+
+             NA                        NA                                                                                     NA                        NA
+
+
+
+
+                           NA                                                                                                              NA
+
+
+
+ 5-Min Count              I-5 NB Ramps                    I-5 NB Ramps                    Moonlit Oaks Ave              Moonlit Oaks Ave               Total       Hourly
+     Period                (Northbound)                   (Southbound)                      (Eastbound)                  (Westbound)                               Totals
+ Beginning At Left          Thru Right     U       Left    Thru Right     U        Left    Thru Right        U   Left    Thru Right      U
+    4:00 PM     10            0      0     0        0         0      0     0         4       16      0       0    0       11       2     0              43
+    4:05 PM      9            0      2     0        0         0      0     0         8       13      0       0    0       11       1     0              44
+    4:10 PM      9            0      1     0        0         0      0     0        15       11      0       0    0        6       0     0              42
+    4:15 PM      6            0      1     0        0         0      0     0        12       11      0       0    0        7       1     0              38
+    4:20 PM     11            0      3     0        0         0      0     0        13        9      0       0    0       10       3     0              49
+    4:25 PM     15            0      2     0        0         0      0     0         9       12      0       0    0        2       6     0              46
+    4:30 PM      6            0      4     0        0         0      0     0         7       12      0       0    0       12       1     0              42
+    4:35 PM     15            0      3     0        0         0      0     0         4       10      0       0    0       11       4     0              47
+    4:40 PM      7            0      3     0        0         0      0     0        11       13      0       0    0       12       3     0              49
+    4:45 PM      9            0      3     0        0         0      0     0        17        9      0       0    0       10       1     0              49
+    4:50 PM     13            0      2     0        0         0      0     0         7        7      0       0    0       13       2     0              44
+    4:55 PM     17            0      3     0        0         0      0     0         7       15      0       0    0        9       2     0              53              546
+    5:00 PM      7            0      5     0        0         0      0     0        10       16      0       0    0        9       2     0              49              552
+    5:05 PM      7            0      3     0        0         0      0     0        11       13      0       0    0        6       3     0              43              551
+    5:10 PM      6            0      1     0        0         0      0     0        12        5      0       0    0        7       5     0              36              545
+    5:15 PM     10            0      2     0        0         0      0     0        12       10      0       0    0       11       1     0              46              553
+    5:20 PM      8            0      3     0        0         0      0     0        13        6      0       0    0        8       1     0              39              543
+    5:25 PM     13            0      2     0        0         0      0     0        21       11      0       0    0       11       2     0              60              557
+    5:30 PM     11            0      0     0        0         0      0     0         9        7      0       0    0        6       0     0              33              548
+    5:35 PM      6            0      2     0        0         0      0     0        11        7      0       0    0        6       1     0              33              534
+    5:40 PM     17            0      2     0        0         0      0     0        10       15      0       0    0        2       1     0              47              532
+    5:45 PM      8            0      2     0        0         0      0     0        12       12      0       0    0       11       0     0              45              528
+    5:50 PM     12            0      0     0        0         0      0     0        10       12      0       0    0        5       0     0              39              523
+    5:55 PM      7            0      4     0        0         0      0     0        11        9      0       0    0        5       1     0              37              507
+ Peak 15-Min                    Northbound                      Southbound                      Eastbound                     Westbound
+   Flowrates   Left         Thru Right     U       Left    Thru Right     U       Left     Thru Right        U   Left    Thru Right      U                     Total
+  All Vehicles 124            0     44     0        0         0      0     0      112      176       0       0    0       96      28     0                     580
+ Heavy Trucks   20            0     16              0         0      0              8         4      0            0        4       8                            60
+  Pedestrians                 0                               0                               0                            0                                    0
+    Bicycles     0            0      0              0         0      0              0         0      0            0        0       0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/11/2013 5:02 PM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: System Peak                                                        Method for determining peak hour: Total Entering Volume
+ LOCATION: Fairlane Rd -- Moonlit Oaks Ave                                                                                          QC JOB #: 10973407
+ CITY/STATE: Yreka, CA                                                                                                              DATE: Tue, Jun 04 2013
+                    163            156                         Peak-Hour: 4:30 PM -- 5:30 PM                                         6.1        8.3
+                       92    71    0
+                                                              Peak 15-Min: 4:55 PM -- 5:10 PM
+                                                                                                                                     5.4 7.0 0.0
+
+
+       148   101                          0     0
+                                                                                                                        4.7   9.9                      0.0       0.0
+             0              0.87          0
+                                                                                                                              0.0                      0.0
+       157   56                           0     0
+                                                                                                                        8.9   7.1                      0.0       0.0
+
+                       55    56    0
+                                                                                                                                     3.6 5.4 0.0
+                    127            111
+                                                                                                                                     7.1        4.5
+
+
+
+                             0                                                                                                        0    0    0
+
+
+
+                                                                                                                              0                          0
+
+             0                            0                                                                                   0                          0
+
+                                                                                                                              0                          0
+
+                             0                                                                                                        0    1    0
+
+
+
+
+                            NA                                                                                                             NA
+
+
+
+
+             NA                          NA                                                                                   NA                       NA
+
+
+
+
+                            NA                                                                                                             NA
+
+
+
+ 5-Min Count                 Fairlane Rd                    Fairlane Rd                   Moonlit Oaks Ave              Moonlit Oaks Ave              Total       Hourly
+     Period                 (Northbound)                   (Southbound)                     (Eastbound)                  (Westbound)                              Totals
+ Beginning At     Left       Thru Right     U       Left    Thru Right    U        Left    Thru Right        U   Left    Thru Right      U
+    4:00 PM        8           5      0     0        0        2      8     0        13        0      2       0    0        0       0     0             38
+    4:05 PM        2           2      0     0        0        7      6     0         9        0      6       0    0        0       0     0             32
+    4:10 PM        3           3      0     0        0        7      4     0         9        0      3       0    0        0       0     0             29
+    4:15 PM        3           2      0     0        0        6      7     0         8        0      4       0    0        0       0     0             30
+    4:20 PM        5           4      0     0        0        7      7     0         5        0      7       0    0        0       0     0             35
+    4:25 PM        6           2      0     0        0        3      2     0        10        0      5       0    0        0       0     0             28
+    4:30 PM        5           3      0     0        0        3      9     0         8        0      6       0    0        0       0     0             34
+    4:35 PM        6           6      0     0        0        4      9     0         7        0      6       0    0        0       0     0             38
+    4:40 PM        5           6      0     0        0        6     13     0        12        0      5       0    0        0       0     0             47
+    4:45 PM        4           2      0     0        0       10      4     0         7        0      5       0    0        0       0     0             32
+    4:50 PM        2           8      0     0        0        6     13     0         4        0      3       0    0        0       0     0             36
+    4:55 PM        3           5      0     0        0        7      8     0        14        0      4       0    0        0       0     0             41              420
+    5:00 PM        6           5      0     0        0        5      9     0        14        0     10       0    0        0       0     0             49              431
+    5:05 PM        2           4      0     0        0        9      5     0        11        0      2       1    0        0       0     0             34              433
+    5:10 PM        7           4      0     0        0        6      3     0         5        0      3       0    0        0       0     0             28              432
+    5:15 PM        4           6      0     0        0        9      8     0         6        0      4       0    0        0       0     0             37              439
+    5:20 PM        6           3      0     0        0        4      5     0         3        0      5       0    0        0       0     0             26              430
+    5:25 PM        5           4      0     0        0        2      6     0         9        0      3       0    0        0       0     0             29              431
+    5:30 PM        1           3      0     0        0        7      3     0         4        0      3       0    0        0       0     0             21              418
+    5:35 PM        2           6      0     0        0        9      2     0         6        0      3       0    0        0       0     0             28              408
+    5:40 PM        4           3      0     0        0        4      1     0        12        0     10       0    0        0       0     0             34              395
+    5:45 PM        2           5      0     0        0        5      6     0         6        0      6       0    0        0       0     0             30              393
+    5:50 PM        1           5      0     0        0        3      4     0         8        0      2       0    0        0       0     0             23              380
+    5:55 PM        2           1      0     0        0        5      4     0        11        0      3       0    0        0       0     0             26              365
+ Peak 15-Min                     Northbound                     Southbound                      Eastbound                     Westbound
+   Flowrates      Left       Thru Right     U       Left    Thru Right    U       Left     Thru Right        U   Left    Thru Right      U                    Total
+  All Vehicles     44         56      0     0        0       84     88     0      156         0     64       4    0        0       0     0                    496
+ Heavy Trucks       4          4      0              0        4     12             16         0      4            0        0       0                           44
+  Pedestrians                  0                              0                               0                            0                                   0
+    Bicycles       0           0      0              0        0      0              0         0      0            0        0       0                           0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/11/2013 5:02 PM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212

@@ -1,0 +1,2140 @@
+EugeneWater ElectricBoard EWEB MasterPlannedDevelopment                                          October2012
+References
+
+
+
+
+    1
+         http wwwltdorgpdfroutes2011 20jan 209 20system 20mappdf
+    2                                                                                    http
+         www lcogorgdocuments TransPlanJul02Chap202 pdf3
+                                                                                         www
+         eugeneorgovportalserverptgatewayPTARGS0 2 181672 0 0 18 0120Cover TOC Intropdf4
+                                                                                            http
+         mutcd fhwadotgov5
+                                                                                         http
+                                                                                           www
+         oregon govODOTTDTPAUdocsAAPMAPM pdf6
+                                                  8       Edito2  Associates
+                                                               n 008th       Kittelson
+
+
+
+
+      Inc 64
+    AppendixA
+TrafficCountData
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATIONCoburgRd           QCJOB
+                 E3rd Ave10660401
+CITYSTATE                  DATE
+        Eugene ORWed Sep 212011
+           23831342
+                                  PeakHour 740AM 840AM                   3 03 4
+           22821550              Peak15Min 745AM 800AM
+                                                                          3 53000
+
+    228000
+                                                                  3 50 00 00 0
+        093
+       00
+                                                                      0 00 0
+    131300
+                                                                  0 00 00 00 0
+
+            013420
+                                                                          0 03400
+           21681342
+                                                                         3 03 4
+
+
+
+            0000
+
+
+                                                                     00
+
+     0000
+
+                                                                     00
+
+
+            0000
+
+
+
+
+            NANA
+
+
+
+
+       NANANANA
+
+
+
+
+            NANA
+
+
+ 5MinCount      CoburgRdCoburgRdE3rdAveE3rdAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM0520006715000000000134
+  705AM0400008919000100000149
+  710AM0590007211000100000143
+  715AM0670009110000000000168
+  720AM07300011615000200000206
+  725AM07000012116000100000208
+  730AM08100013822000100000242
+  735AM010200012918000000000249
+  740AM010600018011000000000297
+  745AM09200020122000000000315
+  750AM010300021117000400000335
+   755AM0124000207250003000003592805
+   800AM0118000163200001000003022973
+   805AM0116000170140001000003013125
+   810AM0105000178220000000003053287
+   815AM0119000178110000000003083427
+   820AM0133000173290000000003353556
+  825AM099000170240001000002943642
+   830AM0106000161100002000002793679
+   835AM0121000163230001000003083738
+   840AM0101000185180001000003053746
+   845AM0124000198100001000003333764
+   850AM0155000192170000000003643793
+   855AM0133000132210000000002863720
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles01276000247625600028000004036
+HeavyTrucks04800564000000108
+Pedestrians00000
+ Bicycles0000000000000
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon9222011543PMSOURCE QualityCounts LLC http wwwqualitycounts net 1 877 580 2212
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       Coburg St                               QCJOB
+                                      4thAve10622001
+CITYSTATE
+        Eugene                                 DATE
+                                      OR5 24 2011
+           22311411
+             086                 PeakHour 740AM 840AM                 2 23 5
+           022310               Peak15Min 745AM 800AM
+                                                                      0 02200
+
+    00121121
+                                                              0 00 04 14 1
+        089
+    0 00000 78
+                                                                  0 00 0
+   00034
+                                                              0 00 00 00 0
+
+           0129034
+                                                                      0 03500
+             089
+           22311324
+                                                                      2 23 4
+
+
+
+           0000
+
+
+                                                                 00
+
+    9000
+
+                                                                 00
+
+
+           0000
+
+
+
+
+ 5MinCount      CoburgStCoburgSt4thAve4thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM044300810000000010129
+  705AM040200670000000050114
+  710AM042000740000000010117
+  715AM056100920000000040153
+  720AM0674001190000000060196
+  725AM0751001400000000050221
+  730AM0702001220000000090203
+  735AM0844001690000000040261
+  740AM01162001900000000080316
+  745AM09630022700000000140340
+  750AM014950020700000000150376
+  755AM09060021600000000903212747
+   800AM0104500169000000001502932911
+  805AM012100024700000000903773174
+   810AM0111000171000000001002923349
+  815AM098200162000000001502773473
+  820AM09430017200000000902783555
+  825AM09040016600000000402643598
+  830AM010430014900000000502613656
+  835AM011710015500000000802813676
+  840AM08410016400000000802573617
+   845AM0117500157000000001202913568
+   850AM0127000151000000001802963488
+  855AM011120012600000000702463413
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles01340560026000000000015204148
+HeavyTrucks0320064000000096
+Pedestrians00000
+ Bicycles0000000000000
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATIONEWEBParkingLot        QCJOB
+                       4thAve10622034
+CITYSTATE
+        Eugene OR5 24 2011    DATE
+           00
+            000                  PeakHour 740AM 840AM                 0 00 0
+           000                  Peak15Min 750AM 805AM
+                                                                      0 00000
+
+   00014
+                                                              0 00 00 00 0
+        059
+    0 60000 58
+                                                                  0 00 0
+    1212140
+                                                              0 00 00 00 0
+
+           000
+                                                                      0 00000
+            000
+           260
+                                                                      0 00 0
+
+
+
+           0000
+
+
+                                                                 00
+
+     001910
+
+                                                                 78
+
+
+           2000
+
+
+
+
+ 5MinCount    EWEBParkingLotEWEBParkingLot4thAve4thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM00000000001020003
+  705AM00000000001000001
+  710AM00000000002000002
+  715AM00000000000010001
+  720AM00000000002030005
+  725AM00000000001000001
+  730AM00000000001010002
+  735AM00000000004030007
+  740AM00000000000000000
+  745AM00000000000020002
+  750AM00000000001020003
+  755AM0000000000200000229
+  800AM0000000000204000632
+  805AM0000000000100000132
+  810AM0000000000200000232
+  815AM0000000000102000334
+  820AM0000000000001000130
+  825AM0000000000203000534
+  830AM0000000000100000133
+  835AM0000000000000000026
+  840AM0000000000200000228
+  845AM0000000000201000329
+  850AM0000000000400000430
+  855AM0000000000300000331
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+AllVehicles00000000002002400044
+HeavyTrucks0000000000000
+Pedestrians00000
+ Bicycles0000000310408
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATIONMillSt                  QCJOB
+               EWEBParking Lots10622031
+CITYSTATE
+        Eugene OR5 24 2011      DATE
+           11721
+             068                 PeakHour 740AM 840AM                 2 60 0
+            11142               Peak15Min 750AM 805AM
+                                                                      0 02600
+
+   1001
+                                                              0 00 00 00 0
+        070
+    0 00000 25
+                                                                  0 00 0
+   0013
+                                                              0 00 00 00 0
+
+            0202
+                                                                      0 00000
+             069
+           11522
+                                                                      2 60 0
+
+
+
+            2020
+
+
+                                                                 00
+
+    4000
+
+                                                                 00
+
+
+            0000
+
+
+
+
+ 5MinCount       MillStMillStEWEBParkingLotsEWEBParkingLots
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM0000010000000000010
+  705AM00000601000000007
+  710AM00000501000000006
+  715AM01001500000000007
+  720AM021007000000000010
+  725AM0000017000000000017
+  730AM0200012000000000014
+  735AM0200113000000000016
+  740AM0200010000000000012
+  745AM030007000000100011
+  750AM0100011000000000012
+  755AM0300015000000000018140
+  800AM0120017000000000020150
+  805AM010009010000000011154
+  810AM00000900000000009157
+  815AM00000710000000008158
+  820AM0100111000000000013161
+  825AM01000600000000007151
+  830AM040009000000000013150
+  835AM03000300000000006140
+  840AM020038100000000014142
+  845AM00002700000000009140
+  850AM00000800000000008136
+  855AM0100014000000000015133
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles0208001720000000000200
+HeavyTrucks0000800000008
+Pedestrians00000
+ Bicycles0000100000001
+   Railroad
+StoppedBuses
+Comments
+       East Westparkinglots
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       Mill St           QCJOB
+               4thAve10622007
+CITYSTATE                DATE
+        Eugene OR5 24 2011
+            11522
+              067                      PeakHour 740AM 840AM           0 90 0
+             762910                   Peak15Min 750AM 805AM
+                                                                      1 30000
+
+    9814418
+                                                              1 00 00 00 0
+         073
+    0 8311770 41
+                                                                  4 30 0
+    150197133
+                                                              4 05 30 03 8
+
+             1546
+                                                                      0 00000
+              045
+             5525
+                                                                      1 80 0
+
+
+
+             3100
+
+
+                                                                 00
+
+     21267
+
+                                                                 40
+
+
+             7001
+
+
+
+
+ 5MinCount       MillStMillSt4thAve4thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM000014400100010011
+  705AM000014200510110015
+  710AM201012100220000011
+  715AM000003301310000011
+  720AM000020502710001018
+  725AM1000221300400010023
+  730AM2020101101750001030
+  735AM210043601430010025
+  740AM421012700900010027
+  745AM0200026001410011027
+  750AM302014600830111030
+  755AM10101311011200132036264
+  800AM20002510031430000039292
+  805AM100011701910000021298
+  810AM0000126001310000023310
+  815AM1020124001300000023322
+  820AM100005601720200024328
+  825AM100001501640100019324
+  830AM000022504540210025319
+  835AM100000303700000014308
+  840AM000021501810200020301
+  845AM0010205001110040024298
+  850AM0030503001500000026294
+  855AM00202210011130010032290
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles2401201648108016136240816120420
+HeavyTrucks0000040400008
+Pedestrians480012
+ Bicycles00100104302011
+   Railroad
+StoppedBuses
+Commentssitedrivewayandneighborhoodstreet
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATIONEWEBNorth SouthOverflowPark     QCJOB
+                                    4thAve10622028
+CITYSTATE
+        Eugene OR5 24 2011              DATE
+            04
+             000                    PeakHour 740AM 840AM                    0 00 0
+            000                    Peak15Min 745AM 800AM
+                                                                            0 00000
+
+    133112
+                                                                    0 00 00 00 0
+         075
+     0 73000 60
+                                                                        0 00 0
+    3532119
+                                                                    0 00 00 00 0
+
+            1309
+                                                                            0 00000
+             069
+            4322
+                                                                            0 00 0
+
+
+
+            2000
+
+
+                                                                       00
+
+      402811
+
+                                                                       21
+
+
+            3001
+
+
+
+
+ 5MinCount                                                       4thAve4thAve
+   Period    EWEBNorth SouthOverflowParkEWEBNorth SouthOverflowPark
+                                                                Eastbound Westbound
+                Northbound              Southbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU                 Total Hourly
+                                                                                          Totals
+  700AM00000000000000000
+  705AM00000000000000000
+  710AM00000000000000000
+  715AM00000000001000001
+  720AM00100000001020004
+  725AM00000000001010002
+  730AM00000000002020004
+  735AM20000000001010004
+  740AM00000000001040005
+  745AM30000000003000006
+  750AM10200000001010005
+  755AM10100000007030001243
+  800AM1010000000300000548
+  805AM1010000000201000553
+  810AM1000000000200000356
+  815AM1010000000500000762
+  820AM2000000010301000765
+  825AM1000000000100000265
+  830AM0010000020300010768
+  835AM1020000000101000569
+  840AM1000000000101000367
+  845AM1010000000000000263
+  850AM0010000000000000159
+  855AM0000000000101000249
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU                   Total
+ AllVehicles2001200000004401600092
+HeavyTrucks0000000000000
+Pedestrians4412020
+ Bicycles00100009004014
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       High St           QCJOB
+               4th Ave10622004
+CITYSTATE                DATE
+        Eugene OR5 24 2011
+           7768
+            077                  PeakHour 740AM 840AM                 2 64 4
+           35339                Peak15Min 755AM 810AM
+                                                                      0 06100
+
+    147162101
+                                                              2 012 50 02 0
+         080
+    0 85111780 70
+                                                                  3 62 6
+    132521182
+                                                              4 50 00 02 7
+
+           345062
+                                                                      2 92016
+            074
+           59146
+                                                                      3 42 1
+
+
+
+            63220
+
+
+                                                                 10
+
+     131286
+
+                                                                 23
+
+
+            20920
+
+
+
+
+ 5MinCount       HighStHighSt4thAve4thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM021013000000140012
+  705AM001011100500040013
+  710AM101005300300220017
+  715AM211000201500120015
+  720AM144016202500120028
+  725AM220004201500770030
+  730AM316033100500560033
+  735AM142003401700190032
+  740AM100024204800260029
+  745AM24400110213100101039
+  750AM334014200700251032
+  755AM57702310111102110051331
+  800AM23401350017002120049368
+  805AM644013601800270042397
+  810AM2210014102800430037417
+  815AM1810014302520320041443
+  820AM367001400700450037452
+  825AM153001102900070029451
+  830AM1650028011200050040458
+  835AM724003101610050030456
+  840AM486016302310041039466
+  845AM325012301510361033460
+  850AM854015500800220040468
+  855AM768024200700281047464
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles525660016364808144402412000568
+HeavyTrucks40000044004016
+Pedestrians0041216
+ Bicycles03305002002015
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       HighSt           QCJOB
+              WestDwy10622010
+CITYSTATE               DATE
+        Eugene OR5 24 2011
+             51155
+              061                      PeakHour 740AM 840AM           3 91 9
+             3480                     Peak15Min 805AM 820AM
+                                                                      0 04200
+
+   6400
+                                                              0 00 00 00 0
+        072
+    1 00000 00
+                                                                  0 00 0
+   4000
+                                                              0 00 00 00 0
+
+             31510
+                                                                      0 02000
+              075
+             48154
+                                                                      4 21 9
+
+
+
+             30300
+
+
+                                                                 00
+
+     31000
+
+                                                                 00
+
+
+             140340
+
+
+
+
+ 5MinCount       HighStHighStWestDwyWestDwy
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM02000200000000004
+  705AM00000100000000001
+  710AM030007000000000010
+  715AM05000100000000006
+  720AM090007000000000016
+  725AM0700011000000000018
+  730AM090007000000000016
+  735AM07000200000000009
+  740AM00000210100000004
+  745AM0160004000000000020
+  750AM0100005000000000015
+  755AM0160005101000000023142
+  800AM1110002000000000014152
+  805AM0170005000000000022173
+  810AM0140008000000000022185
+  815AM1190007101000000029208
+  820AM0160003000000000019211
+  825AM07000200000000009202
+  830AM1140001001000000017203
+  835AM0110004000000000015209
+  840AM1190006100000000027232
+  845AM3240009101000000038250
+  850AM2140006000000000022257
+  855AM0260004000000000030264
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles4200000804040000000292
+HeavyTrucks0800000000008
+Pedestrians20012032
+  Bicycles013004000000017
+   Railroad
+StoppedBuses
+Comments
+       WestDrivewayoppositefuturesiteaccess
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       High St           QCJOB
+               5th Ave10622013
+CITYSTATE                DATE
+        Eugene OR5 24 2011
+             47154
+              062                        PeakHour 740AM 840AM              6 41 9
+             28190                      Peak15Min 805AM 820AM
+                                                                           7 15300
+
+   513600
+                                                                       11 82 80 00 0
+        073
+    0 51000 00
+                                                                         0 00 0
+   39300
+                                                                       5 133 30 00 0
+
+             211200
+                                                                           1901700
+              082
+             22141
+                                                                           9 14 3
+
+
+
+               216160
+
+
+                                                                        70
+
+     47100
+
+                                                                        60
+
+
+              66280
+
+
+
+
+ 5MinCount       HighStHighSt5thAve5thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM02000200000000004
+  705AM00000010000000001
+  710AM130002500010000012
+  715AM05000010000000006
+  720AM160002503000000017
+  725AM250002802010000020
+  730AM090004400000000017
+  735AM160001101010000011
+  740AM00000000000000000
+  745AM1130000603010000024
+  750AM190000400010000015
+  755AM2120003304010000025152
+  800AM1110000201000000015163
+  805AM4130003203000000025187
+  810AM180004407000000024199
+  815AM3110002409000000029222
+  820AM1150002101001000021226
+  825AM270002000000000011217
+  830AM3110000104001000020220
+  835AM2100003102000000018227
+  840AM2160002404000000028255
+  845AM290003102010000018249
+  850AM2130002403000000024258
+  855AM4180002307010000035268
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles3212800036400760000000312
+HeavyTrucks124004040000024
+Pedestrians4044048
+  Bicycles210004530200026
+   Railroad
+StoppedBuses
+CommentsT intersectionwdiagonalRRcrossingnearproposednewintersection
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       High St           QCJOB
+               6th Ave10622016
+CITYSTATE                DATE
+        Eugene OR5 24 2011
+           21141
+            058                  PeakHour 740AM 840AM                 0 04 3
+           2100                 Peak15Min 750AM 805AM
+                                                                      0 00000
+
+    979060911
+                                                              4 60 03 33 5
+         096
+    0 0008510 94
+                                                                  0 03 5
+   0000
+                                                              0 00 00 00 0
+
+           107810
+                                                                     1404900
+            090
+           0188
+                                                                      0 0101
+
+
+
+           6701
+
+
+                                                                 00
+
+     161203
+
+                                                                 00
+
+
+            13350
+
+
+
+
+ 5MinCount       HighStHighSt6thAve6thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM3000001000000242030
+  705AM2000001000000410044
+  710AM5200003000000341045
+  715AM4100000000000444053
+  720AM5400002000000463060
+  725AM3300003000000564069
+  730AM8400004000000496071
+  735AM4200001000000565068
+  740AM11200000000000761090
+  745AM9500000000000687089
+  750AM118000010000008420106
+  755AM8700004000000686093818
+  800AM5600000000000766093881
+  805AM151100003000000636098935
+  810AM33000040000008460100990
+  815AM49000020000007250921029
+  820AM1111000020000006550941063
+  825AM930000200000080601001094
+  830AM711000000000004840701093
+  835AM145000030000006760951120
+  840AM119000010000005490841114
+  845AM155000040000006360931118
+  850AM128000010000006080891101
+  855AM15160000200000050110941102
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles96840000200000009125601168
+HeavyTrucks1200000000044056
+Pedestrians01624848
+ Bicycles08010200001012
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       High St           QCJOB
+               7th Ave10622022
+CITYSTATE                DATE
+        Eugene OR5 24 2011
+           0222
+            000                  PeakHour 740AM 840AM                 0 08 1
+           000                  Peak15Min 755AM 810AM
+                                                                      0 00000
+
+   07800
+                                                              0 02 60 00 0
+         089
+    0 89120700 00
+                                                                  4 70 0
+    1285001425
+                                                              4 60 00 04 6
+
+           0144218
+                                                                      0011137
+            083
+           0362
+                                                                      0 06 6
+
+
+
+           29000
+
+
+                                                                 00
+
+    6100
+
+                                                                 00
+
+
+            41430
+
+
+
+
+ 5MinCount       HighStHighSt7thAve7thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM0450000024400000055
+  705AM0570000014100000054
+  710AM0170000055600000069
+  715AM05110000035900000078
+  720AM0370000047600000090
+  725AM0890000016500000083
+  730AM0790000047400000094
+  735AM0620000003101000000130
+  740AM0121900000399000000133
+  745AM01314000006106000000139
+  750AM010300000015128000000183
+  755AM014150000051000000001341242
+  800AM09250000071020000001431330
+  805AM022240000031390000001881464
+  810AM092000000155000000851480
+  815AM01112000006990000001281530
+   820AM0101600000101170000001531593
+  825AM01013000007880000001181628
+  830AM01315000007780000001131647
+  835AM01115000008960000001301647
+  840AM02117000007770000001221636
+  845AM012190000031080000001421639
+  850AM015210000081090000001531609
+  855AM02318000009950000001451620
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles0180256000006013640000001860
+HeavyTrucks028120000760000116
+Pedestrians4120016
+  Bicycles011000000000011
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       Hilyard St                               QCJOB
+                                      8th Ave10622019
+CITYSTATE
+        Eugene                                  DATE
+                                      OR5 24 2011
+           0459
+            000                  PeakHour 740AM 840AM                 0 03 3
+           000                  Peak15Min 800AM 815AM
+                                                                      0 00000
+
+   17000
+                                                              0 00 00 00 0
+        090
+    0 31000 00
+                                                                  0 00 0
+   5500
+                                                              0 00 00 00 0
+
+           174590
+                                                                      0 03300
+            092
+           5476
+                                                                      0 03 2
+
+
+
+           0010
+
+
+                                                                 10
+
+     11700
+
+                                                                 00
+
+
+           2120
+
+
+
+
+ 5MinCount      HilyardStHilyardSt8thAve8thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM2170000000000000019
+  705AM0220000000000000022
+  710AM0160000000020000018
+  715AM2240000000010000027
+  720AM1280000000000000029
+  725AM2260000000010000029
+  730AM1330000000010000035
+  735AM0410000000000000041
+  740AM1380000000000000039
+  745AM2510000000000000053
+  750AM0250000000000000025
+  755AM2410000000010000044381
+  800AM1390000000020000042404
+  805AM1390000000010000041423
+  810AM1490000000000000050455
+  815AM3320000000010000036464
+  820AM0370000000000000037472
+  825AM1460000000000000047490
+  830AM3290000000000000032487
+  835AM2330000000000000035481
+  840AM2310000000000000033475
+  845AM4380000000000000042464
+  850AM2350000000000000037476
+  855AM0410000000020000043475
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles12508000000001200000532
+HeavyTrucks024000000000024
+Pedestrians4001216
+ Bicycles0000101000002
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       Hilyard St                               QCJOB
+                                      Broadway10622025
+CITYSTATE
+        Eugene                                  DATE
+                                      OR5 24 2011
+            23540
+             064                 PeakHour 740AM 840AM                 4 33 1
+            10013               Peak15Min 815AM 830AM
+                                                                     1000000
+
+    76328337659
+                                                              2 80 03 93 3
+          085
+    0 841141322089
+                                                                  2 92 8
+    1169001188
+                                                              2 80 00 02 9
+
+            43117534
+                                                                      2 62329
+             084
+            0640
+                                                                      0 02 5
+
+
+
+            6019
+
+
+                                                                 00
+
+     01000
+
+                                                                 00
+
+
+            4060
+
+
+
+
+ 5MinCount      HilyardStHilyardStBroadwayBroadway
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  700AM1081000003460001111090
+  705AM13101010003400001213093
+  710AM129001000352000128097
+  715AM191110200025700010140116
+  720AM22810000014300013230111
+  725AM25830200046900026180155
+  730AM171610101015100018190125
+  735AM211120001029300019270176
+   740AM3718201040111000021280222
+  745AM311320000029100029300198
+   750AM3811700000111900035160227
+   755AM3211202000599000312802101820
+   800AM3517301030193000252902071937
+   805AM3513003000179000282801872031
+   810AM2616301000364000232801642098
+   815AM4115501020483000282202012183
+   820AM55223020002171000325303402412
+   825AM3415101000385000183201892446
+   830AM3715201000158000291601592480
+  835AM309400010489000232701872491
+   840AM4221201000160000211601642433
+   845AM3717501010366000232001732408
+   850AM4016301000275000252401862367
+   855AM3719102010363000172101642321
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles5202083601608036135600031242802920
+HeavyTrucks1240004048001220100
+Pedestrians0401620
+ Bicycles0202000000004
+   Railroad
+StoppedBuses
+Commentssiteaccessfromsouth
+Reportgeneratedon6222011332PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATIONCoburgRd           QCJOB
+                 E3rd Ave10660402
+CITYSTATE                  DATE
+        Eugene ORWed Sep 212011
+           23632797
+                                  PeakHour 440PM 540PM                   1 71 6
+           32420390               Peak15Min 505PM 520PM
+                                                                          0 61900
+
+    324000
+                                                                  0 60 00 00 0
+        094
+       00
+                                                                      0 00 0
+    313100
+                                                                  0 00 00 00 0
+
+            027970
+                                                                          0 01600
+           20702797
+                                                                         1 91 6
+
+
+
+            0000
+
+
+                                                                     00
+
+     19000
+
+                                                                     00
+
+
+            0000
+
+
+
+
+            NANA
+
+
+
+
+       NANANANA
+
+
+
+
+            NANA
+
+
+ 5MinCount      CoburgRdCoburgRdE3rdAveE3rdAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM018900011926000000000334
+  405PM021200014227000300000384
+  410PM020600016819000300000396
+  415PM020600014814000500000373
+  420PM018600014917000100000353
+  425PM018300016118000100000363
+  430PM017900015417000000000350
+  435PM021400015614000100000385
+  440PM022500014416000200000387
+  445PM022400018820000400000436
+  450PM021700016627000100000411
+   455PM0216000177170002000004124584
+   500PM0234000171260002000004334683
+   505PM0259000178280007000004724771
+   510PM0249000176260003000004544829
+   515PM0227000191320004000004544910
+   520PM0234000180280002000004445001
+   525PM0260000160240001000004455083
+   530PM0245000156340001000004365169
+   535PM0207000152460002000004075191
+   540PM0193000132430000000003685172
+   545PM0211000146440001000004025138
+   550PM0186000127580001000003725099
+   555PM0176000123250003000003275014
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles02940000218034400056000005520
+HeavyTrucks0400040800000088
+Pedestrians0024024
+ Bicycles0000000000000
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon9222011544PMSOURCE QualityCounts LLC http wwwqualitycounts net 1 877 580 2212
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       Coburg St                               QCJOB
+                                      4thAve10622002
+CITYSTATE
+        Eugene                                 DATE
+                                      OR5 24 2011
+           19412699
+             091                PeakHour 440PM 540PM                  1 81 2
+           019410               Peak15Min 515PM 530PM
+                                                                      0 01800
+
+    00259259
+                                                              0 00 01 21 2
+        091
+    0 00000 77
+                                                                  0 00 0
+   00020
+                                                              0 00 00 00 0
+
+           0244020
+                                                                      0 01200
+             090
+           19412460
+                                                                      1 81 2
+
+
+
+           0000
+
+
+                                                                 00
+
+    0000
+
+                                                                 00
+
+
+           0000
+
+
+
+
+ 5MinCount      CoburgStCoburgSt4thAve4thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM017220012200000000120308
+  405PM020320014300000000210369
+  410PM021220015600000000290399
+  415PM021210014500000000140372
+  420PM014810014600000000230318
+  425PM018120011600000000150314
+  430PM017200012600000000110309
+  435PM016900013900000000190327
+  440PM019420015400000000170367
+  445PM018730015800000000170365
+  450PM017730015500000000230358
+   455PM0181400168000000002503784184
+   500PM0200100133000000002003544230
+   505PM0238100152000000002104124273
+   510PM0188200177000000003804054279
+   515PM0237100193000000002404554362
+   520PM0219000164000000002204054449
+   525PM0224100178000000001604194554
+   530PM0203100147000000001603674612
+   535PM0192100162000000002003754660
+   540PM0208100149000000001703754668
+   545PM0183100159000000001803614664
+   550PM0149000165000000001603304636
+   555PM0182000125000000001003174575
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles0272080021400000000024805116
+HeavyTrucks0200048000000472
+Pedestrians00000
+ Bicycles0000000000000
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATIONEWEBParkingLot        QCJOB
+                       4thAve10622035
+CITYSTATE
+        Eugene OR5 24 2011    DATE
+           00
+            000                 PeakHour 440PM 540PM                  0 00 0
+           000                  Peak15Min 445PM 500PM
+                                                                      0 00000
+
+   0006
+                                                              0 00 00 00 0
+        064
+    0 75000 50
+                                                                  0 00 0
+   212161
+                                                              0 00 00 00 0
+
+           001
+                                                                      0 00000
+            025
+           271
+                                                                      0 00 0
+
+
+
+           0000
+
+
+                                                                 00
+
+     102125
+
+                                                                  101
+
+
+            521101
+
+
+
+
+ 5MinCount    EWEBParkingLotEWEBParkingLot4thAve4thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM00000000005010006
+  405PM00000000001010002
+  410PM00000000007000007
+  415PM00000000002010003
+  420PM00000000003000003
+  425PM00000000000010001
+  430PM10000000002000003
+  435PM00200000002000004
+  440PM00000000002000002
+  445PM00000000003010004
+  450PM00000000001000001
+  455PM0010000000302000642
+  500PM0000000000300000339
+  505PM0000000000100000138
+  510PM0000000000201000334
+  515PM0000000000401000536
+  520PM0000000000100000134
+  525PM0000000000100000134
+  530PM0000000000000000031
+  535PM0000000000001000128
+  540PM0000000000000000026
+  545PM0000000000001000123
+  550PM0000000000000000022
+  555PM0000000000000000016
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+AllVehicles00400000002801200044
+HeavyTrucks0000000000000
+Pedestrians4804052
+ Bicycles30000001318016
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATIONMillSt                  QCJOB
+               EWEBParking Lots10622032
+CITYSTATE
+        Eugene OR5 24 2011      DATE
+           14924
+             083                PeakHour 440PM 540PM                  0 74 2
+            01490               Peak15Min 455PM 510PM
+                                                                      0 00700
+
+   11110
+                                                              0 00 00 00 0
+        085
+    0 25010 50
+                                                                  0 00 0
+   1080
+                                                              0 00 00 00 0
+
+            2220
+                                                                      0 04500
+             067
+           15924
+                                                                      0 64 2
+
+
+
+            0010
+
+
+                                                                 00
+
+    5000
+
+                                                                 00
+
+
+            1010
+
+
+
+
+ 5MinCount       MillStMillStEWEBParkingLotsEWEBParkingLots
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM000009000000100010
+  405PM00000700000000007
+  410PM0100010000000000011
+  415PM0100016000000000017
+  420PM0000010000000000010
+  425PM01000700000000008
+  430PM00000700000000007
+  435PM0200021000000000023
+  440PM020009001000200014
+  445PM0300011000000000014
+  450PM01000700000000008
+  455PM0000017000000000017146
+  500PM0200013000000110017153
+  505PM0302015000000000020166
+  510PM0200014000000000016171
+  515PM0200012000000000014168
+  520PM0000011000000001012170
+  525PM0100015000000200018180
+  530PM0300012000000000015188
+  535PM0300013000000300019184
+  540PM0000011000000000011181
+  545PM001009000000100011178
+  550PM01000700000000008178
+  555PM0000012000000000012173
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles0200801800000004400216
+HeavyTrucks0000000000000
+Pedestrians40408
+ Bicycles0000000000000
+   Railroad
+StoppedBuses
+Comments
+       East Westparkinglots
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       Mill St           QCJOB
+               4thAve10622008
+CITYSTATE                DATE
+        Eugene OR5 24 2011
+            16123
+              088                      PeakHour 440PM 540PM           0 64 3
+            102851                     Peak15Min 455PM 510PM
+                                                                      0 00020
+
+    17916213
+                                                               1 16 30 00 0
+         079
+    0 77200110 54
+                                                                  0 50 0
+    22370287
+                                                               1 314 30 00 7
+
+             66536
+                                                                      3 00000
+              067
+             15107
+                                                                      6 71 9
+
+
+
+             3000
+
+
+                                                                 00
+
+      002941
+
+                                                                 00
+
+
+             40200
+
+
+
+
+ 5MinCount       MillStMillSt4thAve4thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM8040308001600300042
+  405PM4040304001500010031
+  410PM6020415011900110040
+  415PM8110619001730010047
+  420PM4050325001200000031
+  425PM114001600900020024
+  430PM3030106001900010033
+  435PM110306112021010000046
+  440PM7110129011110020036
+  445PM2200723001510001033
+  450PM1040214001620021033
+  455PM50303113002500010051447
+  500PM4040607022110010046451
+  505PM172304012021920020063483
+  510PM5050817021600000044487
+  515PM4040309021800010041481
+  520PM7020308001600000036486
+  525PM20306011011700010041503
+  530PM6050317031400010040510
+  535PM60205012031200000040504
+  540PM501020900800010026494
+  545PM20200010011000000025486
+  550PM0000305011100000020473
+  555PM001031800610000020442
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles104840052412801626012001600640
+HeavyTrucks4000000400008
+Pedestrians2480032
+ Bicycles00000009007016
+   Railroad
+StoppedBuses
+Commentssitedrivewayandneighborhoodstreet
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATIONEWEBNorth SouthOverflowPark     QCJOB
+                                    4thAve10622029
+CITYSTATE
+        Eugene OR5 24 2011              DATE
+            30
+             038                   PeakHour 440PM 540PM                     0 00 0
+            300                    Peak15Min 525PM 540PM
+                                                                            0 00000
+
+    32205
+                                                                    0 00 00 00 0
+         068
+     0 50000 63
+                                                                        0 00 0
+    141257
+                                                                    0 00 00 00 0
+
+            2807
+                                                                            0 00000
+             051
+            1835
+                                                                            0 00 0
+
+
+
+            6100
+
+
+                                                                       00
+
+      103321
+
+                                                                       21
+
+
+            28315
+
+
+
+
+ 5MinCount                                                       4thAve4thAve
+   Period    EWEBNorth SouthOverflowParkEWEBNorth SouthOverflowPark
+                                                                Eastbound Westbound
+                Northbound              Southbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU                 Total Hourly
+                                                                                          Totals
+  400PM20000000002000004
+  405PM20000000000010003
+  410PM00000000002000002
+  415PM00000000000000000
+  420PM20100000000000003
+  425PM00000000000000000
+  430PM10000000001000002
+  435PM00000000000000000
+  440PM00000000000010001
+  445PM10000000001000002
+  450PM20000000002010005
+  455PM0000000000400000426
+  500PM1000001000100000325
+  505PM6000001000011000931
+  510PM2000000000000000231
+  515PM1020000000100000435
+  520PM2001000000102000638
+  525PM2010001000200000644
+  530PM4010000000000000547
+  535PM60300000000100001057
+  540PM1010000000001000359
+  545PM0000000000000000057
+  550PM0000000000000000052
+  555PM3000000000000000351
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU                   Total
+AllVehicles48020000400084000084
+HeavyTrucks0000000000000
+Pedestrians2404028
+ Bicycles10200008215019
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       High St           QCJOB
+               4th Ave10622005
+CITYSTATE                DATE
+        Eugene OR5 24 2011
+           20377
+             081                PeakHour 440PM 540PM                  2 02 6
+           749534               Peak15Min 455PM 510PM
+                                                                      2 71129
+
+    312114207
+                                                              1 09 10 01 0
+         084
+    0 80971260 70
+                                                                  2 10 8
+    115777226
+                                                              2 60 01 31 3
+
+           1126295
+                                                                      0 01600
+             080
+           179269
+                                                                      1 10 4
+
+
+
+            75200
+
+
+                                                                 40
+
+      17151629
+
+                                                                  014
+
+
+            1281715
+
+
+
+
+ 5MinCount       HighStHighSt4thAve4thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM8290443027003110053
+  405PM101035901800390040
+  410PM118100410301910480069
+  415PM331001530110006130055
+  420PM2840011900710640052
+  425PM453011301610560036
+  430PM10480284011000390059
+  435PM63402105016207152063
+  440PM754035202600780049
+  445PM123046603900261043
+  450PM8470128001100121045
+  455PM941006730013006161075639
+  500PM958089401800670065651
+  505PM9511031370091019181096707
+  510PM10650377019102120063701
+  515PM861200914007104140075721
+  520PM12690210600800850066735
+  525PM10990185038102120068767
+  530PM12410028400310890061769
+  535PM1767011180162012170088794
+  540PM4610141004004100035780
+  545PM943039502500540049786
+  550PM6270010400500250041782
+  555PM452025401300380037744
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles1085611606811656041204012416480944
+HeavyTrucks00044400004016
+Pedestrians88202056
+ Bicycles04603004056028
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       HighSt           QCJOB
+              WestDwy10622011
+CITYSTATE               DATE
+        Eugene OR5 24 2011
+            182258
+              076                     PeakHour 440PM 540PM            0 50 8
+             71750                    Peak15Min 525PM 540PM
+                                                                      0 00600
+
+   14800
+                                                              0 00 00 00 0
+        082
+    0 47000 00
+                                                                  0 00 0
+   15700
+                                                              0 00 00 00 0
+
+             72500
+                                                                      0 00800
+              078
+            182257
+                                                                      0 50 8
+
+
+
+             10390
+
+
+                                                                 00
+
+     39000
+
+                                                                 00
+
+
+             90410
+
+
+
+
+ 5MinCount       HighStHighStWestDwyWestDwy
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM0170008000000000025
+  405PM060008000000000014
+  410PM02700016000000000043
+  415PM0130009000000000022
+  420PM11200019200010000035
+  425PM2140005103000000025
+  430PM01700012000000000029
+  435PM01800020000000000038
+  440PM11000010200000000023
+  445PM11100010000000000022
+  450PM2170004001030000027
+  455PM02000011000020000033336
+  500PM02000014101010000037348
+  505PM02400033000000000057391
+  510PM02100012002000000035383
+  515PM02200013002000000037398
+  520PM12500017200000000045408
+  525PM12500010200000000038421
+  530PM12900019000000000049441
+  535PM02600022002010000051454
+  540PM01200011000000000023454
+  545PM01500016000010000032464
+  550PM01500011000010000027464
+  555PM0100008000000000018449
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles83200002048080400000552
+HeavyTrucks0000000000000
+Pedestrians4048052
+  Bicycles0140012000000026
+   Railroad
+StoppedBuses
+Comments
+       WestDrivewayoppositefuturesiteaccess
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       High St           QCJOB
+               5th Ave10622014
+CITYSTATE                DATE
+        Eugene OR5 24 2011
+             181257
+               073                      PeakHour 440PM 540PM              0 60 8
+             791020                     Peak15Min 520PM 535PM
+                                                                           0 01000
+
+    1575800
+                                                                       0 60 00 00 0
+        083
+    0 72000 00
+                                                                        0 00 0
+   862800
+                                                                       0 00 00 00 0
+
+             781990
+                                                                           1 31000
+               075
+             130277
+                                                                          0 81 1
+
+
+
+               128140
+
+
+                                                                        130
+
+     41000
+
+                                                                        40
+
+
+               714250
+
+
+
+
+ 5MinCount       HighStHighSt5thAve5thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM6130004504000000032
+  405PM150006301000000016
+  410PM61700095010010000048
+  415PM880005405000000030
+  420PM61200013502010000039
+  425PM6100004205010000028
+  430PM2130008404030000034
+  435PM51500017303020000045
+  440PM3100006301000000023
+  445PM2110005500010000024
+  450PM4130003406010000031
+  455PM4150006806030000042392
+  500PM61900010501070000048408
+  505PM916000211208010000067459
+  510PM12170007304050000048459
+  515PM4160008606010000041470
+  520PM14220009603020000056487
+  525PM5190005707030000046505
+  530PM102200011609040000062533
+  535PM519000111407000000056544
+  540PM6110006501010000030551
+  545PM3110009603010000033560
+  550PM51000010405010000035564
+  555PM590003501030000026548
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles1162520001007607603600000656
+HeavyTrucks0000000000000
+Pedestrians8064072
+  Bicycles710001950000032
+   Railroad
+StoppedBuses
+CommentsT intersectionwdiagonalRRcrossingnearproposednewintersection
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       High St           QCJOB
+               6th Ave10622017
+CITYSTATE                DATE
+        Eugene OR5 24 2011
+           143285
+             067                PeakHour 440PM 540PM                  0 71 1
+           14201                Peak15Min 510PM 525PM
+                                                                      0 70000
+
+    156301551310
+                                                              2 40 01 32 8
+         086
+    0 00011550 87
+                                                                  0 03 0
+   0000
+                                                              0 00 00 00 0
+
+           2661290
+                                                                      0 80800
+            082
+           0395
+                                                                      0 00 8
+
+
+
+           15750
+
+
+                                                                 01
+
+     231701
+
+                                                                 00
+
+
+            121290
+
+
+
+
+ 5MinCount       HighStHighSt6thAve6thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM1480000100000076110110
+  405PM1960000800000010090142
+  410PM1980000120000009780144
+  415PM148000090000009580134
+  420PM20700001200000094100143
+  425PM276000070000006080108
+  430PM115000080000008990122
+  435PM21130000160000007990138
+  440PM19800001400000084120137
+  445PM187000070000008950126
+  450PM2370000900000090100139
+  455PM17150000600000089901361579
+   500PM22110000171000001011201641633
+  505PM249000016000000911501551646
+   510PM24140000190000001131301831685
+  515PM249000080000001151201681719
+   520PM27220000130000001061601841760
+  525PM289000090000001111501721824
+   530PM2111000011000000882001511853
+  535PM197000013000000781601331848
+  540PM15300007000000771201141825
+  545PM12400001000000082901171816
+  550PM1290000800000084901221799
+  555PM15300001100000077801141777
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles3001800000160000000133616402140
+HeavyTrucks040000000028032
+Pedestrians1224242080
+  Bicycles010003200000015
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       High St           QCJOB
+               7th Ave10622023
+CITYSTATE                DATE
+        Eugene OR5 24 2011
+           0373
+            000                 PeakHour 440PM 540PM                  0 01 1
+           000                  Peak15Min 505PM 520PM
+                                                                      0 00000
+
+   05900
+                                                              0 01 70 00 0
+         082
+    0 83176400 00
+                                                                  1 90 0
+    1823002238
+                                                              1 90 00 01 9
+
+           0314474
+                                                                      0 01021
+            080
+           0788
+                                                                      0 01 6
+
+
+
+           18110
+
+
+                                                                 00
+
+     222510
+
+                                                                 00
+
+
+            90310
+
+
+
+
+ 5MinCount       HighStHighSt7thAve7thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM02429000001127000000181
+  405PM01834000006161000000219
+  410PM02241000006128000000197
+  415PM02437000003132000000196
+  420PM015260000010122000000173
+  425PM03018000003121000000172
+  430PM01437000001112000000164
+  435PM02740000005143000000215
+  440PM02539000003134000000201
+  445PM01532000006125000000178
+  450PM02830000006156000000220
+  455PM022370000071340000002002316
+  500PM027420000081320000002092344
+  505PM030560000052060000002972422
+  510PM030430000061590000002382463
+  515PM039490000031670000002582525
+  520PM026280000061530000002132565
+  525PM030340000041260000001942587
+  530PM028390000041380000002092632
+  535PM014450000011340000001942611
+  540PM020360000011150000001722582
+  545PM021280000031140000001662570
+  550PM011190000011290000001602510
+  555PM017170000011000000001352445
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles0396592000005621280000003172
+HeavyTrucks0416000044000064
+Pedestrians1228242892
+  Bicycles010000000000010
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       Hilyard St                               QCJOB
+                                      8th Ave10622020
+CITYSTATE
+        Eugene                                  DATE
+                                      OR5 24 2011
+           0718
+            000                 PeakHour 440PM 540PM                  0 02 1
+           000                  Peak15Min 505PM 520PM
+                                                                      0 00000
+
+   23100
+                                                              0 00 00 00 0
+        079
+    0 57000 00
+                                                                  0 00 0
+   161500
+                                                              6 36 70 00 0
+
+           237170
+                                                                      0 02100
+            079
+           15740
+                                                                      6 72 0
+
+
+
+           3001
+
+
+                                                                 00
+
+     42300
+
+                                                                 40
+
+
+           9510
+
+
+
+
+ 5MinCount      HilyardStHilyardSt8thAve8thAve
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM4580000000000000062
+  405PM4650000000000000069
+  410PM4610000000000000065
+  415PM3560000000010000060
+  420PM1470000001010000050
+  425PM3540000000000000057
+  430PM2470000000010000050
+  435PM2590000001000000062
+  440PM4510000000020000057
+  445PM4480000000020000054
+  450PM2490000000030000054
+  455PM1510000000010000053693
+  500PM1560000000000000057688
+  505PM2780000000030000083702
+  510PM3810000000000000084721
+  515PM1700000001010000073734
+  520PM1650000000010000067751
+  525PM1620000000000000063757
+  530PM2600000000010000063770
+  535PM1460000000010000048756
+  540PM4590000000010000064763
+  545PM0490000000010000050759
+  550PM2520000000040000058763
+  555PM2420000000020000046756
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles24916000000401600000960
+HeavyTrucks016000000000016
+Pedestrians0443240
+ Bicycles2001000010004
+   Railroad
+StoppedBuses
+Comments
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+Typeofpeakhourbeingreported User DefinedMethod fordeterminingpeakhour TotalEnteringVolume
+LOCATION
+       Hilyard St                               QCJOB
+                                      Broadway10622026
+CITYSTATE
+        Eugene                                  DATE
+                                      OR5 24 2011
+            24774
+             067                PeakHour 440PM 540PM                  0 01 7
+            2022                Peak15Min 505PM 520PM
+                                                                      0 00000
+
+    108732464893
+                                                              1 03 11 71 3
+          088
+    0 871142429079
+                                                                  2 60 9
+    1174001217
+                                                              2 60 00 02 5
+
+            65627853
+                                                                      1 11419
+             091
+            0987
+                                                                      0 01 2
+
+
+
+            21014
+
+
+                                                                 01
+
+     24610
+
+                                                                 00
+
+
+             100130
+
+
+
+
+ 5MinCount      HilyardStHilyardStBroadwayBroadway
+   Period       Northbound    Southbound     Eastbound     Westbound
+BeginningAtLeftThruRightULeftThruRightULeftThruRightULeftThruRightU  Total Hourly
+                                                                           Totals
+  400PM582240001058200041430256
+   405PM7121300000410500047460297
+  410PM552420100066900038420237
+  415PM461670101059000041380245
+  420PM622550201048000029250233
+  425PM511640000026300025370198
+  430PM551770201048000027280221
+  435PM512630510027200018400218
+  440PM511270200039700039420253
+  445PM462740300037700024250209
+  450PM391430101039300030340218
+   455PM4720202000293000303102272812
+   500PM6427600000282000363102482804
+   505PM50283040003105000455102892796
+   510PM57284000003113000445703062865
+   515PM58284010002105000414402832903
+   520PM60252010002114000334102782948
+   525PM4821603000387000374502503000
+   530PM6021804000291000313502523031
+   535PM7627401010485000392802653078
+   540PM8422801000480000353502693094
+   545PM5118402000487000273202253110
+   550PM6026306000494000282602473139
+   555PM6420802020279000282702323144
+ Peak15Min        NorthboundSouthboundEastboundWestbound
+  Flowrates LeftThruRightULeftThruRightULeftThruRightULeftThruRightU    Total
+ AllVehicles6603364402000032129200052060803512
+HeavyTrucks440000028004848
+Pedestrians02405680
+ Bicycles0201000000003
+   Railroad
+StoppedBuses
+Commentssiteaccessfromsouth
+Reportgeneratedon6222011333PMSOURCE QualityCounts LLC http wwwqualitycountsnet
+               AppendixB
+DescriptionofLevelofService
+         MethodsandCriteria
+

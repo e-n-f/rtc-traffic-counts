@@ -1,0 +1,80 @@
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Panther Creek HS East Dwy -- McCrimmon Pkwy                                                                      QC JOB #: 10852912
+ CITY/STATE: Cary, NC                                                                                                       DATE: Wed, Nov 28 2012
+                       26           26                          Peak-Hour: 5:00 PM -- 6:00 PM                                0.0        0.0
+
+                       26     0     0
+                                                               Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                             0.0 0.0 0.0
+
+
+       389   2                            25   387
+                                                                                                                1.0   0.0                      0.0       1.0
+             205             0.93        362
+                                                                                                                      6.3                      1.1
+       207   0                             0   205
+                                                                                                                6.3   0.0                      0.0       6.3
+
+                         0    0     0
+                                                                                                                             0.0 0.0 0.0
+
+                         0          0
+                                                                                                                             0.0        0.0
+
+
+
+                              2                                                                                               0    0    0
+
+
+
+                                                                                                                      0                          0
+
+             0                             0                                                                          0                          0
+
+                                                                                                                      0                          0
+
+                              0                                                                                               0    0    0
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+
+             NA                          NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+ 15-Min Count Panther Creek HS East Dwy Panther Creek HS East Dwy                  McCrimmon Pkwy            McCrimmon Pkwy                   Total       Hourly
+    Period          (Northbound)              (Southbound)                           (Eastbound)               (Westbound)                                Totals
+ Beginning At Left Thru Right       U   Left Thru Right       U                Left Thru Right    U      Left Thru Right    U
+    4:00 PM     0      0     0      0     0      0     14     0                 0     51     0    0       0     54     4    0                 123
+    4:15 PM     0      0     0      0     0      0     10     0                 2     41     0    0       0     58     0    0                 111
+    4:30 PM     0      0     0      0     0      0      5     0                 0     53     0    0       0     43     3    0                 104
+    4:45 PM     0      0     0      0     0      0     12     0                 1     43     0    0       0     40     6    0                 102              440
+    5:00 PM     0      0     0      0     0      0      6     0                 1     64     0    1       0     61     7    0                 140              457
+    5:15 PM     0      0     0      0     0      0      6     0                 0     51     0    0       0    105     4    0                 166              512
+    5:30 PM     0      0     0      0     0      0      5     0                 0     45     0    0       0    103     4    0                 157              565
+    5:45 PM     0      0     0      0     0      0      9     0                 0     45     0    0       0     93    10    0                 157              620
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0           0      0     0         0       0     24     0    0     204      0    0     0      420    16     0                      664
+ Heavy Trucks      0           0      0               0       0      0          0       8      0          0        0     0                             8
+  Pedestrians                  0                              0                         0                          0                                   0
+    Bicycles       0           0      0               0       0      0          0       0      0          0        0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/10/2012 9:42 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

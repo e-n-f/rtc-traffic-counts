@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Telegraph Ave -- 19th St                                                                                             QC JOB #: 11214215
+ CITY/STATE: Oakland, CA                                                                                                        DATE: Tue, Sep 10 2013
+                    305          306                           Peak-Hour: 4:30 PM -- 5:30 PM                                     1.0        1.6
+
+                       58 247     0
+                                                              Peak 15-Min: 4:30 PM -- 4:45 PM
+                                                                                                                                 0.0 1.2 0.0
+
+
+       473   0                         182   594
+                                                                                                                    1.1   0.0                      2.2       1.9
+             0            0.95         360
+                                                                                                                          0.0                      1.4
+       0     0                          52     0
+                                                                                                                    0.0   0.0                      3.8       0.0
+
+                       55 124     0
+                                                                                                                                 0.0 0.8 0.0
+
+                    299          179
+                                                                                                                                 1.7        0.6
+
+
+
+                           29                                                                                                     0    22   0
+
+
+
+                                                                                                                          0                         10
+
+             102                       120                                                                                1                          6
+
+                                                                                                                          0                          0
+
+                           79                                                                                                     3    26   1
+
+
+
+
+                           NA                                                                                                          NA
+
+
+
+
+             NA                        NA                                                                                 NA                       NA
+
+
+
+
+                           NA                                                                                                          NA
+
+
+
+ 5-Min Count              Telegraph Ave                   Telegraph Ave                    19th St                     19th St                    Total       Hourly
+     Period               (Northbound)                    (Southbound)                   (Eastbound)                 (Westbound)                              Totals
+ Beginning At     Left     Thru Right     U        Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U
+    4:00 PM         4        4      0     0         0       20      9     0        0       0       0     0    0       22     13    0               72
+    4:05 PM         7        8      0     0         0       15      4     0        0       0       0     0    3       39     17    0               93
+    4:10 PM        11        6      0     0         0       23      5     0        0       0       0     0    2       24     15    0               86
+    4:15 PM        11       10      0     0         0       11      4     0        0       0       0     0    7       23     16    0               82
+    4:20 PM         5        6      0     0         0       17      7     0        0       0       0     0    3       29     22    0               89
+    4:25 PM         6        6      0     0         0       20      5     0        0       0       0     0    4       22     19    0               82
+    4:30 PM         6        9      0     0         0       25      5     0        0       0       0     0    2       21     17    0               85
+    4:35 PM         5       14      0     0         0       22      4     0        0       0       0     0    3       37     18    0              103
+    4:40 PM         3        6      0     0         0       19      7     0        0       0       0     0    6       42     14    0               97
+    4:45 PM         6       12      0     0         0       20      4     0        0       0       0     0    3       17     13    0               75
+    4:50 PM         1        9      0     0         0       19      5     0        0       0       0     0    7       26     11    0               78
+    4:55 PM         3       11      0     0         0       24      8     0        0       0       0     0    5       25     13    0               89             1031
+    5:00 PM         5       11      0     0         0       24      4     0        0       0       0     0    7       31     14    0               96             1055
+    5:05 PM         8       12      0     0         0       14      6     0        0       0       0     0    3       35     12    0               90             1052
+    5:10 PM         6       11      0     0         0       19      2     0        0       0       0     0    2       34     20    0               94             1060
+    5:15 PM         1       16      0     0         0       24      4     0        0       0       0     0    5       35       9   0               94             1072
+    5:20 PM         8        9      0     0         0       20      6     0        0       0       0     0    6       24     19    0               92             1075
+    5:25 PM         3        4      0     0         0       17      3     0        0       0       0     0    3       33     22    0               85             1078
+    5:30 PM         7       11      0     0         0       21      2     0        0       0       0     0    6       20     11    0               78             1071
+    5:35 PM         7        9      0     0         0       14      5     0        0       0       0     0    4       19       8   0               66             1034
+    5:40 PM         3       11      0     0         0       20      6     1        0       0       0     0    6       20     18    0               85             1022
+    5:45 PM        12       12      0     0         0       19      5     0        0       0       0     0    1       25     11    0               85             1032
+    5:50 PM        14        7      0     0         0       11      7     0        0       0       0     0    1       16     13    0               69             1023
+    5:55 PM        14        8      0     0         0       19     10     0        0       0       0     0    1       18     13    0               83             1017
+ Peak 15-Min                   Northbound                      Southbound                    Eastbound                   Westbound
+   Flowrates      Left     Thru Right     U        Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U                      Total
+  All Vehicles     56      116      0     0         0      264     64     0        0       0       0     0    44     400    196    0                      1140
+ Heavy Trucks       0        0      0               0        0      0              0       0       0           4       8       8                           20
+  Pedestrians               64                              24                            80                          80                                  248
+    Bicycles       2         2      1               0        9      0              0       0       0          0        1       3                           18
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 9/18/2013 12:44 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

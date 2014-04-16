@@ -1,0 +1,2086 @@
+                                                          Draft NE Empire Avenue at NE 18th Street
+                            Intersection Traffic Control Determination and Design Recommendation
+                                                                                 February 10, 2012
+                                                                                      Page 2 of 35
+
+The transportation analysis includes a summary of prior traffic studies conducted at the study
+intersection, system context of the intersection, intersection use, baseline performance,
+alternatives evaluation, additional considerations, and concludes with recommendations.
+
+Summary of Prior Traffic Studies
+Several background documents address design and traffic considerations of the study
+intersection. Previous work includes the Empire Avenue Extension Preliminary Design Report3,
+the Empire Avenue Extension Final Transportation Technical Report4, and the Juniper Ridge
+Employment Sub-District Transportation Study5. A brief summary of each document is provided
+below.
+
+Empire Avenue Extension Final Transportation Technical Report (April 2006)
+Parametrix prepared the Empire Avenue Extension Final Transportation Technical Report,
+which was one of the underlying documents that influenced the Empire Avenue Extension
+Preliminary Design Report. The document provides an in depth analysis of the current and future
+landscape for transportation planning along the study corridor, including evaluation of the
+existing traffic control, geometrics, volumes, intersection operations (for the weekday PM peak
+hour conditions), crash history, and other transportation modes. The report also identifies future
+transportation needs (for the weekday PM peak hour) using forecasted year 2030 volumes
+(developed based on growth rate methodologies) and testing of different improvement options.
+Recommendations were made regarding street design requirements, intersection design, access
+management, and pedestrian and bicycle circulation.
+
+The NE Empire Avenue/NE 18th Street intersection was identified as operating within the City of
+Bend's intersection level of service standards (2005 existing conditions) with a relatively low
+crash rate. Under future year conditions (weekday PM peak hour), the intersection was evaluated
+using several scenarios including different roadway cross sections and different traffic control
+types (e.g., signal or roundabout alternatives). Evaluation was done using VISSIM, Synchro, and
+Rodel software packages, as the evaluation occurred before the City adopted their current
+guidelines for roundabout analysis. The ultimate geometric recommendations are described
+below in the summary of the Empire Avenue Extension Preliminary Design Report.
+
+Empire Avenue Extension Preliminary Design Report (December 2006)
+This report documented the analysis for the proposed Empire Avenue extension project that
+would complete a segment of a major transportation corridor in the northeast corner of the City
+of Bend. The report included documentation of the proposed construction of new roadway
+connecting NE Empire Avenue from NE Purcell Boulevard to NE 27th Street/NE Butler Market
+Road. While the City's standard design for the proposed major arterial would be a five-lane cross
+section, the improvements documented in the report included an interim design of widening NE
+Empire Avenue between NE 18th Street and NE Purcell Boulevard to two eastbound lanes and
+one westbound lane (including 5-foot raised shared pedestrian/bicycle facilities in each direction
+
+3
+  Empire Avenue Extension Preliminary Design Report. Otak, December 8, 2006.
+4
+  Empire Avenue Extension Final Transportation Technical Report . Parametrix, April 2006.
+5
+  Juniper Ridge Employment Sub-District Transportation Study. DKS Associates, July 2010.
+                                                          Draft NE Empire Avenue at NE 18th Street
+                            Intersection Traffic Control Determination and Design Recommendation
+                                                                                 February 10, 2012
+                                                                                      Page 3 of 35
+
+across the canal due)6. The interim design of the proposed extension between NE Purcell
+Boulevard and NE Butler Market Road included one lane in each direction (per limitation of
+roadways outside the UGB) that was estimated to serve growth until approximately the year
+2020. The design team, led by Otak, prepared a preliminary design document that included an
+evaluation of existing conditions and recommended improvements for the entire corridor.
+
+The intersection of NE Empire Avenue/NE 18th Street was recommended for improvement to a
+multi-lane roundabout. Based on the analysis, the east and west legs would have two entry lanes
+and two exit lanes. The south leg would have a single entry lane and exit, and the north leg
+would have a single lane exit and double lane entry as part of the assumed year 2018 build
+design. Additional modifications to the design would depend on the widening of the Central
+Oregon Irrigation District (COID) canal (accommodating a 5-lane cross section), which was
+expected to occur in 2020. The design included facilities for both pedestrians and bicyclists.
+
+Juniper Ridge Employment Sub-District Transportation Study
+The Juniper Ridge Transportation Study evaluated the transportation impacts during the weekday
+PM peak hour of the proposed rezone of the Juniper Ridge Employment Sub-District, which is
+located in the northeastern portion of the Bend urban growth boundary (UGB). The zone change
+evaluated in the Juniper Ridge Employment Sub-District modified a net 205 acres of developable
+parcels from Urban Area Reserve (UAR) to Light Industrial (LI).
+
+The increased potential traffic volumes resulting from the rezone was found to significantly
+impact the transportation network surrounding the area. Therefore, a series of mitigation
+measures (broken up by phases of development) was created and agreed to by the City of Bend
+and ODOT in a formal Intergovernmental Agreement (IGA). Part of the mitigation package
+includes widening NE 18th Street to three lanes from Cooley Road to NE Empire Avenue,
+completing sidewalks and bicycle lanes along the corridor, constructing a multi-lane roundabout
+at NE Empire Avenue/NE 18th Street including a southbound right turn slip lane in addition to
+two entry lanes, and constructing improvements to Purcell Boulevard and extending the roadway
+corridor to Cooley Road (which would divert traffic from the intersection of NE Empire
+Avenue/NE 18th Street).
+
+Intersection System Context
+Identifying the system in which an intersection operates is important to determine the factors that
+will contribute to its overall function. The existing and future context of the NE Empire
+Avenue/NE 18th Street intersection is discussed below. Factors including the motor vehicle
+system, pedestrian system, bicycle system, transit system, and emergency response system are
+outlined. Figure 2 provides a summary of the system context.
+
+
+Figure 2 ­ System Context
+
+6
+ This interim lane configuration appears to be based off of weekday PM peak hour operational analysis, as the
+documentation does not include analysis of the directional flow differences and operations under weekday AM peak
+hour conditions.
+                              Draft NE Empire Avenue at NE 18th Street
+Intersection Traffic Control Determination and Design Recommendation
+                                                     February 10, 2012
+                                                          Page 4 of 35
+                                                             Draft NE Empire Avenue at NE 18th Street
+                               Intersection Traffic Control Determination and Design Recommendation
+                                                                                    February 10, 2012
+                                                                                         Page 5 of 35
+
+Motor Vehicle System
+A field inventory was conducted by DKS Associates on December 5, 2011 to determine
+characteristics of the study intersection and surrounding transportation network. Information
+collected included posted speed limits, intersection and roadway configurations, pedestrian
+facilities, and intersection control. The summary of the study area roadway characteristics is
+provided in Table 1.
+
+Table 1: Existing Study Area Roadway Characteristics
+                                                                                           Turn
+                                                Posted
+Roadway                                                                                    Lane
+                              Functional        Speed        Traffic        Number                   Bike       Additional
+(Intersection    Agency                                                                   Storage
+                             Classification7    Limit        Control        of Lanes                 Lane         Notes
+Leg)                                                                                      Length
+                                                (mph)
+                                                                                            (ft)
+                                                                                                                Identified for
+                                                                                                              future widening
+NE 18th Street    City of                                     Stop-                                             to three lanes
+                             Minor Arterial       45                            2          None       Yes
+(North Leg)       Bend                                      Controlled                                         and addition of
+                                                                                                                sidewalk and
+                                                                                                                 bike lanes8
+                                                                                                                  A Central
+                                                                                                                   Oregon
+                                                                                                                  Irrigation
+                                                                                                              District canal is
+                                                                                                                    located
+NE Empire
+                  City of                                                                                      approximately
+Avenue (East                  Major Arterial      35       Uncontrolled         2          None       Yes
+                  Bend                                                                                          300 feet from
+Leg)
+                                                                                                                  the study
+                                                                                                              intersection and
+                                                                                                               will need to be
+                                                                                                               considered for
+                                                                                                                    design.
+                                                                                            Left
+                                                                                 3
+NE 18th Street    City of                                     Stop-                        Turn
+                             Major Collector      35                        (including                Yes              -
+(South Leg)       Bend                                      Controlled                     Lane
+                                                                            turn lane)
+                                                                                           (270)
+                                                                                            Left
+NE Empire                                                                        3
+                  City of                                                                  Turn
+Avenue (West                  Major Arterial      35       Uncontrolled     (including                Yes              -
+                  Bend                                                                     Lane
+Leg)                                                                        turn lane)
+                                                                                           (110)
+
+Nearby Traffic Control
+The adjacent public street intersections located near the NE Empire Avenue/NE 18th Street
+intersection are stop-controlled along the side streets. On the north leg of NE 18th Street, the
+adjacent intersection of NE Sierra Drive is a local street that intersects NE 18th Street
+approximately 500 feet north of the study intersection and provides access to residential areas.
+On the east leg of NE Empire Avenue, Brookstone Lane intersects NE Empire Avenue
+approximately 550 feet from the study intersection (approximately 170 feet east of the Central
+
+7
+  Bend Urban Area Transportation System Plan. Updated 2006-06-21.
+https://scholarsbank.uoregon.edu/xmlui/handle/1794/3223. Accessed December 13, 2011.
+8
+  An IGA between ODOT and City of Bend for the Juniper Ridge Employment Sub-District requires widening to three lanes and
+addition of sidewalk and bike lanes when the development creates 1,880 PM peak hour trips (approximately year 2025).
+                                                       Draft NE Empire Avenue at NE 18th Street
+                         Intersection Traffic Control Determination and Design Recommendation
+                                                                              February 10, 2012
+                                                                                   Page 6 of 35
+
+Oregon Irrigation District (COID) canal). On the south leg, Montana Way intersects NE 18th
+Street approximately 675 feet south of the study intersection. West of the intersection, High
+Desert Lane interests NE Empire Avenue (approximately 900 feet to the west).
+
+In addition, there are several existing stop-controlled access points to NE Empire Avenue and
+NE 18th Street near the intersection. To the west, there is a right-in/right-out/left-in access
+located on the north side of NE Empire Avenue approximately 500 feet from the intersection. In
+addition, there is a right-in/right-out access located on the south side of NE Empire Avenue
+approximately 660 feet to the west of the intersection. To the south, there are two private access
+points located on the east side of NE 18th Street approximately 350 and 550 feet south of the
+intersection. There are also two private access points located on the west side of NE 18th Street,
+located approximately 250 feet (right-in/right-out) and 470 feet south of the intersection,
+respectively.
+
+Pedestrian System
+Field review of the study intersection revealed that the north leg of NE 18th Street does not have
+sidewalks on either side of the roadway. A sidewalk is present along the west side of NE 18th
+Street beginning at NE Primrose Place (approximately 900 to the north), which is located curb
+tight to the travel lane. Sidewalk begins on the east side further north near Morningstar Drive
+(approximately 1,700 feet north of the intersection).
+
+On the east leg of NE Empire Avenue sidewalk is present on the south side of the roadway and is
+buffered by vegetation. The sidewalk runs approximately 230 feet to the east and then ends at the
+COID canal abutment. On the north side of the east leg of NE Empire Avenue, no sidewalk is
+present.
+
+On the south leg of the study intersection, sidewalk is present on both the east and west side of
+the roadway and is separated from the roadway by a planter strip. Sidewalks are present all the
+way to Brinson Boulevard approximately 2,700 feet to the south.
+
+On the west leg of the study intersection, sidewalk is present on both sides of NE Empire
+Avenue. The sidewalk along the south side is buffered from the roadway by a planter strip, but
+further west the sidewalk becomes curb tight just prior to Lower Meadow Drive. The sidewalk
+on the north side is present for approximately the first 670 feet to the west and then stops prior to
+High Desert Lane (with a 1,500 foot gap in sidewalk until Lower Meadow Drive).
+
+As development occurs within the vacant lots in the northwest quadrant of the intersection, the
+missing sidewalk gap along the north side of NE Empire Avenue and the west side of NE 18th
+Street will likely be filled in with respective frontage improvements (or they could be built as
+part of this improvement project).
+
+The intersection currently features no striped crosswalks. Pedestrian ramps are located on all
+quadrants of the intersection except for the northeast quadrant (no existing sidewalks along the
+                                                          Draft NE Empire Avenue at NE 18th Street
+                            Intersection Traffic Control Determination and Design Recommendation
+                                                                                 February 10, 2012
+                                                                                      Page 7 of 35
+
+north side NE Empire Avenue to the east or on east side of NE 18th Street to the north). The
+existing ramps are not ADA compliant.
+
+The Pilot Butte Canal Trail interects
+NE Empire Avenue 400 feet east of the
+intersection. North of NE Empire
+Avenue, the trail runs along the east
+side of the canal (see Figure 3). South
+of NE Empire Avenue, the trail is
+designated to continue along NE 18th
+Street. However, a maintenance road
+is located along the west side of the
+canal south of NE Empire Avenue that
+appears to be used as a continuation of
+the trail corridor. Trail users on this
+segment must cross NE Empire
+Avenue at an uncontrolled/unimproved                    Figure 3: Pilot Butte Canal Trail
+crossing and traverse the NE Empire                    (looking north from Empire Ave)
+Avenue canal bridge to move along the
+corridor. Improving this crossing and providing for pedestrian/bicycle facilities across the canal
+bridge should be considered as part of the intersection improvements, if feasible.
+
+Bicycle System
+Striped bike lanes are present along on all approaches at the NE Empire Avenue/NE 18th Street
+intersection. The Pilot Butte Canal Trail is a multiuse path located approximately 400 east of the
+intersection and continues to the north and south from NE Empire Avenue, as described in the
+previous section.
+
+Transit System
+Transit services in the City of Bend are provided by Cascade East Transit. The closest transit
+service to the study intersection is provided by route 5 (Wells Acres)9 which runs east and west
+along Butler Market Road and Wells Acres Road. Butler Market road is a minor arterial and a
+parallel east west facility located approximately one mile south of NE Empire Avenue. There
+are currently no bus stops located within typical walking distance (less than or equal to one
+quarter mile).
+
+
+
+
+9
+ Cascade East Transit, Bend Bus Service. Wells Acres 5. http://www.cascadeseasttransit.com/bend-schedule.html.
+Accessed January 6, 2012.
+                                                              Draft NE Empire Avenue at NE 18th Street
+                                Intersection Traffic Control Determination and Design Recommendation
+                                                                                     February 10, 2012
+                                                                                          Page 8 of 35
+
+Emergency Response System
+Two fire stations could potentially serve the study area on a regular basis. Station 305 (North
+Station)10, is located at 63377 Jamison Street. The station is approximately two miles northwest
+of the intersection and would take responders roughly seven minutes to travel from the Station to
+the study intersection. Station 304 is located southeast of the study intersection at 62420 Hamby
+Road. This station is located about twice as far from the study intersection (four miles), but it
+would require approximately the same travel time (eight minutes). However, emergency calls to
+this area could come from any fire station within Bend, as the nearest station could be
+responding to another call when an emergency occurs in the study area. Therefore, the
+intersection design must accommodate EMS responses from all approaches.
+.
+The main hospital in Bend is the St. Charles Medical Center. The medical center is located near
+the corner of NE Neff Road and NE 27th Street, which is approximately three miles southeast of
+the study intersection.
+
+The Bend Police Department is located on 555 NE 15th Street, which is 1 mile east of US 97 just
+off of US 20. The Deschutes County Sheriff's office and the Oregon State Police Patrol office
+are located near the north end of
+town where US 20 and US 97
+converge.
+
+Land Use
+The existing zoning near the NE
+Empire Avenue/NE 18th Street
+intersection is Professional Office,
+Industrial Light, Commercial
+Convenience, Residential Urban
+Medium Density, and Residential
+Urban Standard Density, which is
+shown in Figure 4. The northern
+portion of the study intersection is
+also identified as a special planned
+district. Upland areas of special
+interest are located northeast of the
+intersection.
+
+The northwest quadrant of the
+intersection consists of land zoned
+Residential Urban Medium
+Density, Commercial
+Convenience, and Professional
+Office. Residential Urban Medium                                   Figure 4: Existing Land Use Zoning
+
+
+10
+     City of Bend, Station Locations. http://www.bendoregon.gov/index.aspx?page=335. Accessed December 21, 2011.
+                                                        Draft NE Empire Avenue at NE 18th Street
+                          Intersection Traffic Control Determination and Design Recommendation
+                                                                               February 10, 2012
+                                                                                    Page 9 of 35
+
+Density is intended to provide primarily for the development of multiple family residential
+housing in areas where sewer and water service are available. The residential density range in the
+District is 7.3 to 21.7 units per gross acre and shall provide a transitional use area between other
+residential districts and other less restrictive areas.11 The Commercial Convenience use is
+intended to provide larger in scale retail to provide for frequent shopping and service needs of
+nearby residents. New Commercial Convenience nodes shall develop as commercial centers
+rather than a commercial strip and be limited in size up to 5 acres.12 The Professional Office zone
+is intended to provide for professional offices in locations near arterial or collector streets and to
+provide a transition of uses between residential areas and other more intensive zones. Through
+design standards, the Professional Office zone is intended to create a mix of high density
+residential housing, office and service commercial developments that are pedestrian oriented and
+provide a positive contribution to the streetscape.13
+
+The northeast quadrant of the intersection consists of land zoned Residential Urban Medium
+Density which was described previously, and Residential Urban Standard Density. Residential
+Urban Standard Density provides opportunity for a wide variety of residential housing types at
+the most common residential densities in places where community sewer and water services are
+available. The residential density rate in this district is 2.0 to 7.3 dwelling units per acre. 14
+
+The southeast quadrant of the intersection consists of land zoned Residential Urban Standard
+Density which was previously described, and Industrial Light. The Industrial Light zone is
+intended to provide for heavier commercial and light industrial uses with easy access to collector
+and arterial streets.15
+
+The southwest quadrant of the intersection is zoned completely Industrial Light.
+
+
+
+
+11
+   Bend Code ­ Chapter 10-10 Development Code, Section 2.1.100,
+http://www.ci.bend.or.us/modules/showdocument.aspx?documentid=4006. Accessed January 9, 2012.
+12
+   Ibid.
+13
+   Ibid.
+14
+   Ibid.
+15
+   Ibid.
+                                                             Draft NE Empire Avenue at NE 18th Street
+                               Intersection Traffic Control Determination and Design Recommendation
+                                                                                    February 10, 2012
+                                                                                        Page 10 of 35
+
+Intersection Use
+This section identities the users of the study intersection and quantifies the existing motor
+vehicle, pedestrian, and bicycle use during the AM and PM peak hours. In addition, motor
+vehicle volumes for the future year of 2030 are provided.
+
+Existing Volumes
+Intersection turn movements counted at the study
+intersection during the AM (7:00-9:00) and PM (4:00-
+6:00) peak periods are shown in Figure 5.16 The peak hour
+traffic volumes are greater than those used in previous
+studies and are attached in Appendix A. Roadway tube
+counts collected on NE 18th Avenue (Appendix B)
+indicate while there is a school peak traffic period due to
+the proximity to local schools, the peak traffic demand for
+the intersection still occurs between 4:00 PM and 6:00
+PM.
+
+Traffic counts indicated a total of 1,169 total entering
+vehicles during the AM peak hour and 1,317 total entering
+vehicles during the PM peak hour. During the AM peak
+hour, traffic volumes are highest along NE Empire
+Avenue in the westbound travel direction. During the PM                      Figure 5: Existing Peak Hour
+peak hour, this peak direction flow reverses to the
+                                                                             Volumes
+eastbound direction.
+
+Pedestrian activity at the study intersection is moderate. A total of five pedestrians were counted
+at the intersection during the AM peak hour and nine during the PM peak hour. The intersection
+currently features no striped crosswalks; however pedestrians were counted crossing along all
+four legs of the intersection during both the AM and PM peak hours. The most heavily used
+crosswalks were the west leg and south leg which both feature existing sidewalk connections.
+
+There are several public schools located near the study intersection. Both Sky View Middle
+School and Lava Ridge Elementary School are located approximately one mile to the north along
+NE 18th Street. Ponderosa Elementary School is located just to the east near the intersection of
+NE Empire Avenue/NE Purcell Boulevard. Mountain View High School is located to the
+southeast at the intersection of NE Wells Acres Road/NE 27th Street (approximately 1.5 miles
+from the intersection). The intersection is within the district boundaries of the schools and some
+students may live on the opposite side of the intersecting streets from where the school is
+located.
+
+The proximity of the schools creates the potential for students walking between schools and
+residential areas to cross at the intersection. Providing improvements that increase pedestrian
+
+16
+     Intersection turn movement counts, Quality Counts, February 11, 2010.
+                                                         Draft NE Empire Avenue at NE 18th Street
+                           Intersection Traffic Control Determination and Design Recommendation
+                                                                                February 10, 2012
+                                                                                    Page 11 of 35
+
+crossing safety and fill-in gaps in the sidewalk network could increase the number of students
+that walk to school. For example, students that live south of the intersection may be more likely
+to walk to Sky View Middle School if the crossing of NE Empire Avenue were improved and
+sidewalk gaps were filled-in on NE 18th Street. Students living west of the canal and NE 18th
+Street may be more likely to walk to Ponderosa Elementary or Mountain View High School if
+the crossing of NE 18th Street were improved and a pedestrian facility was provided across the
+canal.
+
+Only one bicyclist was counted at the study intersection during the AM peak hour. Two were
+counted during the PM peak hour. All four approaches currently feature striped bike lanes.
+
+As described in above and in previous sections, this intersection is located near several schools,
+multiple residential and business land use types, and a multi-use trail. The northwest quadrant is
+currently undeveloped with multiple zoning designations, including commercial. The
+development of this area may attribute to greater vehicle, bicycle, and pedestrian volumes. Based
+on the variety of land use types, there could be a need for special users to maneuver through the
+intersection. These special users could be those with physical disabilities, elderly, school
+children. The recommended intersection design should account for these potential user types.
+
+Future Motor Vehicle Volumes
+Future motor vehicle traffic demand for the intersection was
+forecasted to the year 2030 to analyze future traffic operations.
+The future 2030 peak period turn movement volumes were
+developed using the Bend MPO's regional travel demand model
+"Financially Committed" network scenario. Near the intersection,
+the "Financially Committed" network scenario improvements
+include:
+
+     x   Constructing a 3-lane extension of NE Empire Avenue
+         from Purcell Boulevard to NE 27th Street17.
+
+Other potential projects in the area (such as extending NE Purcell
+Boulevard north to Cooley Road and traffic growth from the
+Juniper Ridge Employment Sub-District) are assessed in a                       Figure 6: Future Year 2030 Peak
+sensitivity analysis in the Additional Considerations section of                        Hour Volumes
+this memorandum.
+
+Traffic forecasts were "post processed" following a methodology consistent with NCHRP Report
+25518. The resulting future 2030 AM and PM peak hour turn movement volumes for the
+intersection are shown in Figure 6.
+17
+   In the Financially Committed network, NE Empire Avenue is maintained as a 3-lane roadway between NE Boyd
+Acres Road and NE 18th Street.
+18
+   Highway Traffic Data for Urbanized Area Project Planning and Design - National Cooperative Highway
+Research Program Report 255, Transportation Research Board, Washington D.C., 1982.
+                                                           Draft NE Empire Avenue at NE 18th Street
+                             Intersection Traffic Control Determination and Design Recommendation
+                                                                                  February 10, 2012
+                                                                                      Page 12 of 35
+
+Design Vehicle
+NE Empire Avenue and NE 18th Street are both classified as arterial roadways. They are,
+therefore, subject to varying modes of vehicle types. NE Empire Avenue to the west and NE 18th
+Street to the south are classified as local freight routes. NE Empire Avenue east of NE 18th Street
+is identified as a future local freight route19. These local freight routes are intended to provide
+freight activity within the City, which complements the existing industrial activities in the
+intersection area as well as future industrial growth located to the north (Juniper Ridge).
+Therefore, this intersection is likely subject to larger vehicles than other areas in the City (e.g.,
+neighborhoods) that only generally see emergency vehicles, garbage trucks, and school buses.
+
+To provide more detailed information about the types of large vehicles that currently utilize the
+intersection, a detailed vehicle classification study was conducted as part of the AM peak period
+count (7:00 a.m. ­ 9:00 a.m.) at the intersection using the Federal Highway Administration's 13
+standard vehicle classes (Table 2 and Appendix C). This classification found that several class
+5,6,7,8, and 9 large vehicles use the intersection. These vehicles are equivalent to 5-axle double
+unit truck (WB-67 - Interstate Semitrailer) and smaller. One class 13 vehicle was counted
+making an eastbound right turn at the intersection. This was the largest vehicle type recorded at
+the study intersection and is equivalent to a truck with seven or more axles consisting of three or
+more units (WB-100T ­ Triple Trailer Combination). This type of vehicle is consistent with the
+type of truck making a northbound left turn at this intersection as shown in Figure 7.
+                                                        th
+Table 2: Vehicle Classification at Empire Avenue/NE 18 Street (AM 2-Hour Peak Period)
+                                                                    Vehicle Classification
+Intersection Approach                       Passenger Car        Single Unit    Tractor/Trailer     Tractor/Multi-
+                                                                   Truck                               Trailer
+Southbound                                        466                17                2                  0
+Northbound                                        64                  5                2                  0
+Eastbound                                         512                28                1                  1
+Westbound                                         968                37                11                 0
+Total                                            2010                87                16                 1
+Passenger Car = Vehicle class 1, 2, and 3
+Single Unit Truck = Vehicle class 4, 5, 6, and 7
+Tractor/Trailer = Vehicle class 8, 9, and 10
+Tractor/Multi-Trailer = Vehicle class 11, 12, and 13
+Note: 24-hour vehicle classification data for the east and south legs can be found in Appendix B.
+
+
+
+
+19
+  2007-2030 Metropolitan Transportation Plan, Bend Metropolitan Planning Organization, Figure 11-1, Adopted
+June 27, 2007
+                                                            Draft NE Empire Avenue at NE 18th Street
+                              Intersection Traffic Control Determination and Design Recommendation
+                                                                                   February 10, 2012
+                                                                                       Page 13 of 35
+
+The City's base design vehicle is a WB-50; however, due to the industrial areas and freight
+routes served by this intersection, the design vehicle should be a WB-67 for all movements
+(allowing the truck cab to stay in-lane with
+the trailer potentially tracking onto the truck
+apron). In addition, a double or triple trailer
+truck, as well as a "lowboy" style trailer,
+should be accommodated for all movements
+at this intersection. Under roundabout
+control, these "accommodated" vehicles
+would be allowed to use the apron; however,
+the apron height should be verified so that a
+"lowboy" trailer will not get high centered.
+
+Additionally, at roundabout controlled
+intersections, the City's design guidelines
+require that emergency vehicles be
+accommodated at the intersection without
+the use of truck aprons or mountable curbs.
+                                                                    Figure 7: Observed Triple Trailer Truck
+
+
+Baseline Performance
+This section summarizes intersection safety and existing and future intersection operations. The
+purpose is to form a b aseline for which future conditions can be compared to.
+
+Safety
+To evaluate the safety of the existing intersection, the most recent three years of collision data at
+the NE Empire Avenue/NE 18th Street intersection was obtained from the Oregon Department of
+Transportation (ODOT) and are attached in Appendix D20. Using the number of vehicles entering
+an intersection and the total number of collisions experienced, a collision rate describing
+frequency of collisions per million entering vehicles (MEV) is used to determine if the number
+of collisions is significant enough to indicate that there may be a safety issue. A collision rate of
+1.0 MEV or greater typically indicates a higher than average crash rate. As listed in Table 3, the
+collision rate at the study intersection is 0.67.
+
+Table 3: Intersection Collision Summary (2008-2010)
+                                        Collisions By Year                 Collision Severity
+Intersection                                                  Total                                Collision Rateb
+                                       2008   2009    2010              Fatal   Injury    PDOa
+
+Empire Ave./NE 18th St.                 5       1       3       9         0        7        2            0.67
+a
+    PDO = Property damage only.
+b
+    Average annual collisions per million entering vehicles (MEV); MEV based on PM Peak Hour Volumes.
+
+20
+     ODOT Collision Data for January 1, 2008 through December 31, 2010.
+                                                       Draft NE Empire Avenue at NE 18th Street
+                         Intersection Traffic Control Determination and Design Recommendation
+                                                                              February 10, 2012
+                                                                                  Page 14 of 35
+
+
+The collision history was reviewed in additional detail to determine if there were any trends for
+collision types or locations. Of the nine recorded crashes, seven resulted from vehicles failing to
+yield the right-of-way or running a stop sign, which would lead to crossing crashes. Crossing
+crashes have the potential for high rates of injury due to likely vehicle speed and location of
+impact. At this intersection, most of the reported collisions involved minor to moderate injuries.
+There were no collisions with major injuries reported and no fatal collisions at the study
+intersection.
+
+The crossing type crashes were found to occur fairly equally between the north and south legs of
+the intersection (three to four crashes occurring from each approach during the three year
+period).
+
+In addition to the ODOT 2008 to 2010 collision data, the City of Bend has provided a 2011 year
+to date set of collision data. The 2011 data set provided by the City of Bend accounts for
+collisions occurring in the City of Bend through November 2011. At the study intersection, one
+collision has occurred in the 2011 data set through the month of November. The collision
+occurred on May 15th, 2011 and was a rear end collision.
+
+Intersection Operations
+The following sections outline the City of Bend's intersection performance measures and
+intersection operation standards for various intersection control types.
+
+Measures of Effectiveness
+The City of Bend uses four measures of effectiveness (MOEs) to evaluate the operation of a
+roundabout. These measures include the volumes-to-capacity ratio, queuing, level of service, and
+delay. A combination of these four measures are used to evaluate two-way stop controlled
+intersections, all-way stop controlled intersections, and a signalized intersection. A summary of
+each of the MOEs is given below.
+Volume to Capacity Ratio
+The volume-to-capacity ratio is a measure used to represent the level of saturation (i.e., the
+portion of capacity that is being used). It is given as a decimal typically between 0.00 and 1.00
+and is determined by dividing the peak hour traffic volume by the hourly capacity of a given
+intersection or movement. A lower ratio indicates smooth operations and minimal delays. As the
+ratio approaches 1.00, congestion increases and performance is reduced. If the forecasted ratio is
+greater than 1.00, the intersection, lane, or movement is oversaturated and usually results in
+excessive queues and long delays.
+Queuing
+Queuing reports typically show the 95th percentile queue, defined to be the length of queue that
+has only a five percent probability of being exceeded during the analysis time period. The 95th
+percentile is useful in determining the appropriate length of turn pockets, but is not
+representative of what an average driver would experience.
+                                                        Draft NE Empire Avenue at NE 18th Street
+                          Intersection Traffic Control Determination and Design Recommendation
+                                                                               February 10, 2012
+                                                                                   Page 15 of 35
+
+Level of Service
+The level of service (LOS) is a measure of effectiveness that is similar to a "report card" rating
+and is based on average vehicle delay. Level of service A, B, and C indicate conditions where
+traffic moves without significant delays over periods of peak hour travel demand. Level of
+service D and E are progressively worse operating conditions. Level of service F represents
+conditions where average vehicle delay has become excessive and demand is near capacity. The
+average delay value (in seconds) corresponds to each level of service designation.
+
+The unsignalized level of service calculation evaluates each movement separately to identify
+problems (typically left turns from side streets). The calculation is based on the average total
+delay per vehicle for stop-controlled movements (typically on the minor side street or left turn
+movements). Level of service F indicates that there are insufficient gaps of suitable size to allow
+minor street traffic to safely enter or cross the major street. This is generally evident by long
+delays and queuing on the minor street.
+Delay
+The City's operational performance standard for roundabouts is measured against a volume to
+capacity ratio, but delay is used to compare alternative intersection forms to a roundabout.
+Typically under the same traffic conditions, a roundabout will result in lower overall delay than
+traffic signals and all-way stop control, but may result in higher overall delay than a two-way
+stop controlled intersection.
+
+Agency Operational Standards
+The City of Bend has established operation standards for two-way stop control intersections, all-
+way stop control intersections, roundabouts, and signalized intersections under the jurisdiction of
+the City of Bend. Below are the operational standards from the Bend Code ­ Chapter 10-10
+Development Code.21
+
+     x   Two-Way Stop Control ­ Approaches with greater than 100 peak hour trips; average
+         delay for the critical lane group is less than or equal to 50 seconds during the Peak Hour;
+     x   All-Way Stop Control ­ Average delay for the intersection as a whole is less than or
+         equal to 80 seconds during the Peak Hour;
+     x   Roundabout ­ Volume to capacity ratio for the intersection as a whole is less than or
+         equal to 1.0 during the Peak Hour. For this study, the intersection as a whole v/c ratio was
+         estimated by calculating a weighted average (by volume) using the critical lane for each
+         approach. The intersection as a whole v/c ratio is considered the minimum operational
+         standard. For design considerations, this study also identifies the v/c ratio for each
+         approach to a roundabout, as maintaining a v/c ratio of less than 1.0 for each approach
+         would be an ideal design condition for a roundabout;
+     x   Signalized Intersection under the jurisdiction of the City of Bend:
+             o For intersections that are not constructed to the widths and infrastructure elements
+                 of the Bend Urban Transportation System Plan or other approved master plan and
+
+21
+  Bend Code ­ Chapter 10-10 Development Code. Section 4.7.400 Part B.
+http://www.ci.bend.or.us/modules/showdocument.aspx?documentid=4006 Accessed on December 12, 2011.
+                                                           Draft NE Empire Avenue at NE 18th Street
+                             Intersection Traffic Control Determination and Design Recommendation
+                                                                                  February 10, 2012
+                                                                                      Page 16 of 35
+
+                 not located within or directly adjoining a historic district of Central Business
+                 Zone, the volume to capacity ratio for the intersection as a whole is less than or
+                 equal to 1.0 during the Peak Hour.
+               o For intersections that are not constructed to the widths and infrastructure elements
+                 of the Bend Urban Area Transportation System Plan or other approved master
+                 plan and are located within or directly adjoining a historic district or Central
+                 Business Zone, the volume to capacity ratio for the intersection as a whole is less
+                 than or equal to 1.0 during the hour directly preceding and following the Peak
+                 Hour.
+               o For intersections that are already constructed to the widths and infrastructure
+                 elements of the Bend Urban Area Transportation System Plan or other approved
+                 master plan, the operation standard shall be a volume-to-capacity ratio less than or
+                 equal to the 1.0 for the intersection as a whole during the hour directly preceding
+                 and following the Peak Hour.
+
+Existing Intersection Operations
+Intersection traffic operations were analyzed at the study intersection using Synchro 7TM
+software, which employs the 2000 Highway Capacity Manual22 methodology for signalized and
+unsignalized intersections. The following sections summarize existing and future year 2030 peak
+hour intersection operations at the study intersection.
+
+The existing AM and PM peak hour intersection operations at the NE Empire Avenue/NE 18th
+Street intersection are summarized in Table 4. As noted in Table 4, the level of volume
+performing turn movements from the side street exceed the capacity that would be estimated for
+the movement with default HCM critical gap and follow-up times. Therefore, to calibrate to
+observed levels of delay and an existing operations v/c ratio below 1.0, a 15% reduction was
+applied to the critical gap and follow-up times. This indicates that drivers at the intersection are
+potentially more aggressive than normal due to the high levels of congestion at the intersection.
+Aggressive behavior and the acceptance of smaller gaps to turn from the side-street may relate to
+the crash patterns described in the Safety section of this memorandum.
+
+Table 4 As indicated, this intersection currently does not meet the City's unsignalized
+operational standard during the AM and PM peak hours. This is due to the relatively high
+volumes along NE Empire Avenue and moderate volumes along the stop controlled NE 18th
+Street approaches, primarily the southbound left turn. Vehicles making a southbound left turn
+were observed to form significant queues (up to 10 vehicles during the afternoon school peak
+period) and experience delays corresponding to the estimated LOS F conditions while seeking
+gaps in order to execute the left turn maneuver. Existing intersection operation calculation sheets
+are attached in Appendix E.
+
+As noted in Table 4, the level of volume performing turn movements from the side street exceed
+the capacity that would be estimated for the movement with default HCM critical gap and
+follow-up times. Therefore, to calibrate to observed levels of delay and an existing operations
+22
+     2000 Highway Capacity Manual, Transportation Research Board, Washington DC, 2000.
+                                                            Draft NE Empire Avenue at NE 18th Street
+                              Intersection Traffic Control Determination and Design Recommendation
+                                                                                   February 10, 2012
+                                                                                       Page 17 of 35
+
+v/c ratio below 1.0, a 15% reduction was applied to the critical gap and follow-up times. This
+indicates that drivers at the intersection are potentially more aggressive than normal due to the
+high levels of congestion at the intersection. Aggressive behavior and the acceptance of smaller
+gaps to turn from the side-street may relate to the crash patterns described in the Safety section
+of this memorandum.
+
+Table 4: Existing 2010 Intersection Operating Conditions (AM/PM Peak Hour)
+                                                                              Existing 2011
+                                                                          1
+Intersection Operations                                  AM Peak Hour                           PM Peak Hour1
+                                                    Delay          LOS         V/C        Delay          LOS           V/C
+                                              Unsignalized Intersections
+                    th
+Empire Ave./NE 18 St.                                71.7           F/A        0.95          90.2         F/A          0.94
+Unsignalized Intersections
+Delay = Individual lane group stopped delay per vehicle (seconds) for the worst case approach
+LOS = Minor Street/Major Street level-of-service
+V/C = Individual lane group volume-to-capacity ratio
+1. HCM default critical gap and follow up time were reduced by approximately 15% to calibrate existing side
+    street delay to actual delay measured in the field and to result in an existing operations v/c ratio below 1.0..
+
+
+
+
+Future 2030 Intersection Operations
+Table 5 summarizes the future 2030 AM and PM peak hour intersection operations at the NE
+Empire Avenue/NE 18th Street intersection under existing intersection geometry and control.
+With the additional traffic volumes associated with future traffic growth, this intersection would
+further degrade and continue to not meet the City's unsignalized operational standard during the
+AM and PM peak hours. Future year intersection operation calculation sheets are attached in
+Appendix F.
+
+Table 5: Future 2030 Intersection Operating Conditions (AM/PM Peak Hour)
+                                                                               Future 2030
+Intersection Operations                                  AM Peak Hour1                          PM Peak Hour1
+                                                   Delay          LOS         V/C         Delay         LOS        V/C
+                                              Unsignalized Intersections
+Empire Ave./NE 18th St.                            >200.0         F/B         >2.00      >200.0         F/B       >2.00
+Unsignalized Intersections
+Delay = Individual lane group stopped delay per vehicle (seconds) for the worst case approach
+LOS = Minor Street/Major Street level-of-service
+V/C = Individual lane group volume-to-capacity ratio
+1. HCM default critical gap and follow up time were reduced by approximately 15% based on calibration to
+    existing field conditions
+                                                         Draft NE Empire Avenue at NE 18th Street
+                           Intersection Traffic Control Determination and Design Recommendation
+                                                                                February 10, 2012
+                                                                                    Page 18 of 35
+
+Potential Solutions
+In order to reduce delays along the side street at the study intersection, a preliminary alternative
+anaysis was conducted in order to determine the most appropriate intersection configuration to
+accommodate future growth to the year 2030. The alternatives analysis focused on intersection
+improvements such as all-way stop control, traffic signalization, and a roundabout.
+Roundabout
+The City currently implements a roundabout first policy; therefore a roundabout was considered
+as a viable intersection control alternative and carried forward with the alternatives analysis. The
+alternatives analysis will determine the required number of circulating lanes within the
+roundabout and any other geometric modifications needed.
+All-Way Stop
+All-way stop warrants were reviewed for the study intersection to determine the merit based on
+the requirements outlined in the Manual of Uniform Traffic Control Devices (MUTCD)23.
+
+An all-way stop would likely be warranted at this intersection based on future 2030 traffic
+volumes; however this intersection would fail to meet the City's intersection operational
+standards for all way stop control (average delay greater than 80 seconds during the AM and
+afternoon peak hour). Therefore, this intersection control was not considered for further analysis.
+Traffic Signal
+Although a traffic signal is currently not warranted at the study intersection, a traffic signal may
+be warranted by year 2015 based on the future PM peak hour volumes. The peak hour traffic
+signal warrant was conducted as outlined in the MUTCD24 and is attached in Appendix G. This
+alternative was carried forward with the alternatives analysis in order to determine the
+preliminary signal operations and any other geometric modifications which may be needed.
+
+
+Alternatives Evaluation
+Based on the potential solutions identified in the previous section, both a roundabout and traffic
+signal were analyzed in more detail. Each alternative was evaluated using the future 2030 AM
+and PM peak hour traffic volumes previously identified. The following sections provide a
+comparison of the traffic operations and queuing results for both intersection alternatives.
+
+
+
+
+23
+   2009 Manual on Uniform Traffic Control Devices, Section 2B-07 Multi-Way Stop Applications, U.S. Department
+of Transportation and Federal Highway Administration.
+24
+   2009 Manual on Uniform Traffic Control Devices, Warrant 3 Peak Hour, U.S. Department of Transportation and
+Federal Highway Administration.
+                                                              Draft NE Empire Avenue at NE 18th Street
+                                Intersection Traffic Control Determination and Design Recommendation
+                                                                                     February 10, 2012
+                                                                                         Page 19 of 35
+
+Alternative 1 ­ Roundabout Operations
+The first alternative included a roundabout, which was
+evaluated per City of Bend guidelines.25 In order for the
+roundabout to meet the City's ideal operational
+standards (i.e., each approach v/c ratio less than 1.0)
+during the future year 2030 AM and PM peak hours, a
+partial multi-lane roundabout would be required. A
+conceptual sketch of the multi-lane roundabout is
+illustrated in Figure 8. Scaled-down concepts that may
+be adequate for interim years or to only meet the City's
+minimum operational standard are evaluated in the
+Additional Considerations section of this memorandum.
+                                                                          Figure 8: Conceptual Partial Multi-Lane
+The peak hour roundabout operations and queuing                              Roundabout
+results are listed in Table 6 and calculation sheets for
+this alternative are attached in Appendix H. The west leg of the roundabout would operate near
+capacity (i.e., a v/c ratio of 0.97). The 95th percentile queues over the peak 15 minutes for this
+critical approach could extend up to 375 feet (and would not block any intersections or access
+points) during the 2030 PM peak hour. The overall intersection v/c ratio is both AM and PM
+peak hours is below 1.0 and would meet the City's minimum operational standard.
+
+Table 6: Alternative 1 - Future 2030 Partial Multi-Lane Roundabout Operations and Queuing Results (AM/PM
+Peak Hour)
+                                               Empire Ave./NE 18th St.
+                                                                          Future 2030
+                                                       AM Peak                                  PM Peak
+Roundabout Operations
+                                           North      East        South   West    North      East        South    West
+                                            Leg       Leg          Leg    Leg      Leg       Leg          Leg     Leg
+Volume/Capacity                             0.83      0.82        0.16    0.54     0.72      0.77          0.83   0.97
+Critical Lane Average Delay (sec)           31.9      19.7         9.5    17.8     20.5      20.5          52.1   56.3
+Intersection Volume/Capacity**                             0.75                                     0.83
+Intersection Control Delay (sec)                           22.4                                     35.0
+Intersection Level of Service                                C                                       D
+                       th
+Queuing Results (95 Percentile Queues)*
+Peak 15 min. flows (ft)                     225      250           25     100       175       200          200    375
+Peak Hour flows (ft)                        175      200           25     75        125       150          125    250
+
+*Queue lengths are rounded to the nearest 25 feet.
+** The intersection v/c ratio was calculated using a weighted average based on the critical lane volumes.
+
+
+25
+     Roundabout Operational Analysis Guidelines, City of Bend, April 2010.
+                                                      Draft NE Empire Avenue at NE 18th Street
+                        Intersection Traffic Control Determination and Design Recommendation
+                                                                             February 10, 2012
+                                                                                 Page 20 of 35
+
+Alternative 2 ­ Traffic Signal Operations
+This alternative includes traffic signal
+control at the study intersection. For
+the traffic signal to meet the City's
+peak hour operational requirement,
+additional turn lanes and receiving
+lanes would need to be provided along
+all approaches at the intersection.
+These additional storage lanes are
+illustrated in the conceptual sketch
+provided in Figure 9. Appendix I
+includes a sketch of a potential traffic
+signal layout.
+
+Traffic signal operations were
+evaluated using Synchro 7TM and
+queuing estimates were made using
+the SimTrafficTM software package.
+Lane utilization factors were estimated
+to account for downstream lane drops
+reducing the use of additional                         Figure 9: Conceptual Traffic Signal
+approach lanes. Estimates of 95th
+percentile queue lengths were
+determined using an average of five
+simulation runs of the SimTrafficTM model.
+
+It was assumed that the traffic signal would operate with protected-permissive left-turn phasing
+on the NE Empire Avenue eastbound and westbound approaches. Protected left turn phasing was
+assumed for the northbound and southbound left turns due to the dual southbound left turn lanes.
+Furthermore a westbound right turn overlap was assumed. The results of the traffic operations
+and queuing analysis is summarized in
+                                                       Draft NE Empire Avenue at NE 18th Street
+                         Intersection Traffic Control Determination and Design Recommendation
+                                                                              February 10, 2012
+                                                                                  Page 21 of 35
+
+Table 7. Intersection operation calculation sheets for this alternative are attached in Appendix J.
+
+Although the traffic signal would operate within the City's operational standards during the AM
+and PM peak hours, it would operate near capacity during the AM peak hour and operations
+would resemble LOS D conditions. Queues would be greatest along the southbound minor street
+approach during the AM and PM peak hours.
+                                                              Draft NE Empire Avenue at NE 18th Street
+                                Intersection Traffic Control Determination and Design Recommendation
+                                                                                     February 10, 2012
+                                                                                         Page 22 of 35
+
+Table 7: Alternative 2 - Future 2030 Traffic Signal Operations and Queuing Results (AM/PM Peak Hour)
+                                             Empire Ave./NE 18th St.
+                                                                       Future 2030
+Traffic Signal Operations
+                                                       AM Peak                           PM Peak
+Volume/Capacity                                           0.96                              0.95
+Intersection Control Delay (sec)                          38.4                              50.5
+Intersection Level of Service                              D                                 D
+                     th
+Queuing Results (95 Percentile Queues)*
+                                 L                       200 ft                            525 ft
+North Leg
+                                 T/R                     425 ft                            725 ft
+                                 L                        75 ft                             50 ft
+East Leg                         T                       400 ft                            250 ft
+                                 R                       250 ft                            250 ft
+                                 L                        25 ft                            175 ft
+South Leg
+                                 T/R                     200 ft                            350 ft
+                                 L                       125 ft                            300 ft
+West Leg
+                                 T/R                     150 ft                            250 ft
+L = Left; T = Through; R = Right
+*Queue lengths are rounded to the nearest 25 feet.
+                                                           Draft NE Empire Avenue at NE 18th Street
+                             Intersection Traffic Control Determination and Design Recommendation
+                                                                                  February 10, 2012
+                                                                                      Page 23 of 35
+
+Alternatives Evaluation
+Per the City's Tier 1 Table from the Intersection Form Evaluation Framework, a comparison
+between Alternative 1 (Roundabout) and Alternative 2 (Traffic Signal) was performed to
+determine the preferred alternative. The comparison is summarized in Table 8. Based on this
+evaluation, a partial multi-lane roundabout is the recommended long-term traffic control for this
+location due primarily to safety and operational benefits.
+
+Table 8: Tier 1 Intersection Form Selection Criteria
+   Category                Criteria                    Evaluation Comments                       Conclusion
+                                                       Safety
+Motor Vehicle     Conflict points              Motor Vehicle Conflict Points:
+Safety            (exposure)                   Traffic signal w/four approaches = 32       Roundabout
+                  Severity (speed)             Partial Multi-Lane Roundabout w/four
+                                               approaches = 19
+
+                                               Posted Speed:
+                                               NE Empire Avenue = 35mph
+                                               NE 18th Street = 45 mph
+
+                                               A partial multi-lane roundabout would
+                                               have fewer motor vehicle conflict
+                                               points, therefore reducing the exposure
+                                               to potential collisions. A partial multi-
+                                               lane roundabout would also have less
+                                               severe collisions than a traffic signal
+                                               due to the lower entry/circulating
+                                               speeds imposed by the roundabouts
+                                               geometry.
+Non-              Conflict points              Pedestrian Conflict Points:                 Neutral
+Motorized         (exposure)                   Traffic signal w/four approaches = 24
+Vehicle Safety    Severity (speed)             Partial Multi-Lane Roundabout w/four
+                                               approaches = 14
+
+                                               Posted Speed:
+                                               NE Empire Avenue = 35mph
+                                               NE 18th Street = 45 mph
+
+                                               A traffic signal would provide a
+                                               protected pedestrian movement along
+                                               all legs of the intersection.
+
+                                               A partial multi-lane roundabout has
+                                               fewer pedestrian conflict points
+                                               therefore reducing the overall exposure
+                                               to potential accidents. However, it
+                                               would require pedestrians to cross two
+                                               travel lanes at a time on some legs of
+                                               the intersection, which could result in
+                                               second car-coming conflicts. This
+                                                         Draft NE Empire Avenue at NE 18th Street
+                           Intersection Traffic Control Determination and Design Recommendation
+                                                                                February 10, 2012
+                                                                                    Page 24 of 35
+
+  Category               Criteria                   Evaluation Comments                       Conclusion
+                                            would require pedestrians to select
+                                            larger gaps in the traffic stream while
+                                            crossing unprotected. However, these
+                                            pedestrian issues would be eliminated if
+                                            the multi-lane approaches are
+                                            signalized for pedestrian movements to
+                                            meet the Public Rights-of-Way
+                                            Accessibility Guidelines.
+                                             Traffic Operations
+Peak-Hour        Volume-to-capacity ratio   Both a partial multi-lane roundabout        Roundabout
+Traffic          Average delay              and traffic signal could meet the City of
+Operations       LOS                        Bend's ideal and minimum operational
+                 Queue lengths              standards during the AM and PM peak
+                                            hours for each respective intersection
+                                            control.
+
+                                            A partial multi-lane roundabout would
+                                            yield shorter queues and less delay
+                                            during the AM and PM peak hours.
+
+                                             Anticipated Users
+Design Vehicle   Appropriate heavy          Both a traffic signal and partial multi-    Neutral
+                 vehicle                    lane lane roundabout would be
+                 Buses                      designed using the same
+                 Emergency vehicles         design/accommodated vehicle(s).
+
+                                            It is assumed that the intersection
+                                            would be designed for a WB-67 and
+                                            larger double or triple trailer trucks
+                                            would be accommodated for all
+                                            movements. Additionally the truck
+                                            apron of the roundabout would be
+                                            designed to accommodate a lowboy
+                                            trailer.
+
+Special User     School children            Both a traffic signal and partial multi-    Neutral
+Needs            Elderly                    lane roundabout would be designed to
+                 Visually impaired          accommodate the same special user
+                 ADA compliance             needs at the intersection.
+
+                                              System Context
+System Effects   Adjacent traffic control   There is an existing traffic signal         Neutral
+                 Railroad crossing          located to the west along NE Empire
+                                            Avenue/Boyd Acres Road
+                                            (approximately 0.75 miles). There is an
+                                            existing partial multi-lane roundabout
+                                            to the north along NE 18th Street at
+                                            Cooley Road (approximately 1.4
+                                            miles). Neither a traffic signal nor
+                                            roundabout would significantly impact
+                                                        Draft NE Empire Avenue at NE 18th Street
+                          Intersection Traffic Control Determination and Design Recommendation
+                                                                               February 10, 2012
+                                                                                   Page 25 of 35
+
+  Category              Criteria                Evaluation Comments                        Conclusion
+                                        the existing roadway system operations.
+Environmental   Land use context        The land use zoning surrounding the          Roundabout
+Impacts                                 intersection varies, including industrial,
+                                        commercial, and residential uses.
+                                        Neither a traffic signal nor roundabout
+                                        is anticipated to have significant
+                                        environmental impacts to the
+                                        surrounding residential land use.
+
+                                        Due to lower intersection delays and
+                                        shorter queue lengths during non-peak
+                                        periods, a roundabout could reduce the
+                                        number of stops, therefore reducing
+                                        noise and emissions associated with
+                                        stop and go driving.
+
+                                        A traffic signal may be generally
+                                        preferred by freight users along this
+                                        designated freight corridor. However,
+                                        the roundabout design vehicle has been
+                                        increased from the City standard WB-
+                                        50 to a WB-67, which may actually
+                                        improve turning movements for freight
+                                        vehicles compared to a traffic signal
+                                        alternative.
+
+Emergency       Response time/control   A traffic signal would be equipped with      Neutral
+Response        delay                   emergency vehicle preemption along all
+                                        approaches. Emergency vehicles would
+                                        be able to use left turn lanes and
+                                        opposing traffic lanes to maneuver
+                                        through the intersection.
+
+                                        The City's roundabout standards
+                                        require a 20 foot wide entrance and exit
+                                        lane in order to allow emergency
+                                        vehicles to enter around and pass
+                                        vehicles stopped within the roundabout.
+                                                         Draft NE Empire Avenue at NE 18th Street
+                           Intersection Traffic Control Determination and Design Recommendation
+                                                                                February 10, 2012
+                                                                                    Page 26 of 35
+
+                                           Context at Intersection
+Intersection     Intersection proper        Both a traffic signal and partial multi-    Neutral
+Footprint        (physical & operational    lane roundabout would require
+                 influence area)            additional lanes to be added at the
+                                            intersection. A traffic signal would
+                                            require widening along NE Empire
+                                            Avenue and additional turn lanes along
+                                            NE 18th Street (both approaches). The
+                                            canal crossing (east of NE 18th Street)
+                                            would need to be widened for both
+                                            alternatives.
+
+                                            The roundabout alternative would not
+                                            require widening of the south leg of the
+                                            intersection. In addition, the roundabout
+                                            alternative would require fewer lanes
+                                            approaching the intersection on the east
+                                            and west legs. This could offset the
+                                            larger intersection size that roundabout
+                                            typically have compared to signals.
+                                            Therefore, the right-of-way impact area
+                                            could be similar between the two
+                                            alternatives.
+
+Intersection     Driveway closures or       The nearest access to the intersection is   Roundabout
+Influence Area   impacts                    located on the south leg of NE 18th
+                                            Street approximately 265 south.
+                                            Queuing along the northbound
+                                            approach would likely extend back to
+                                            this access during the PM peak hour
+                                            under traffic signal operations. The
+                                            roundabout alternative would not
+                                            impact any nearby intersections or
+                                            roundabouts
+                                                      Draft NE Empire Avenue at NE 18th Street
+                        Intersection Traffic Control Determination and Design Recommendation
+                                                                             February 10, 2012
+                                                                                 Page 27 of 35
+
+Additional Roundabout Design Considerations
+Additional factors that could influence the design of the recommended roundabout were
+evaluated, future year scenario sensitivity (including the Juniper Ridge Employment Sub-District
+Scenario), roundabout construction phasing, including year of opening operations, and
+multimodal system considerations. The following subsections discuss each of these factors.
+
+Future Year Sensitivity Scenario
+As described in the Summary of Prior Traffic Studies section,
+the City of Bend completed a long-range transportation analysis
+at the study intersection as part of the Juniper Ridge
+Employment Sub-District Transportation Study. In that
+evaluation, a unique travel demand model scenario was created
+that adjusted both land use and roadway network, including key
+items such as:
+
+   x   Increased employment land use and trip generation in the
+       Juniper Ridge area
+   x   Improving and extending NE Purcell Boulevard to
+       Cooley Road
+   x   Widening NE 18th Street to 3-lanes from NE Empire
+       Avenue to Cooley Road                                     Figure 10: Year 2030 Peak Hour
+   x   Improving the US 97/Empire Avenue interchange            Volumes (Juniper Ridge Sensitivity
+                                                                              Scenario)
+The City of Bend and ODOT formally agreed to these
+improvements (and others in the area) in an IGA to allow the rezoning and development of the
+Juniper Ridge Employment Sub-District. Therefore, this scenario (Figure 10 shows 2030 Peak
+Hour Volumes) was evaluated with the proposed roundabout configuration (as shown in Figure
+8) to determine how the full build configuration would perform. The intersection operations, as
+listed in Table 9 (see Appendix K), were found to meet City of Bend ideal operational standards.
+Therefore, no configuration modifications would be required for this volume scenario. Compared
+to the Financially Committed Scenario operations listed in Table 6, this scenario would result in
+increased congestion on the north leg during the AM peak, additional congestion on the east leg
+during the PM peak, and reduced congestion on the south leg during the PM peak.
+                                                              Draft NE Empire Avenue at NE 18th Street
+                                Intersection Traffic Control Determination and Design Recommendation
+                                                                                     February 10, 2012
+                                                                                         Page 28 of 35
+
+Table 9: Future 2030 Juniper Ridge Roundabout Operations Results (AM/PM Peak Hour) with Partial Multi-Lane
+Roundabout (Full Buildout of Roundabout)
+                                            NE Empire Ave./NE 18th St.
+                                                                  2030 Juniper Ridge Scenario
+                                                       AM Peak                                  PM Peak
+Roundabout Operations
+                                           North      East       South   West      North     East         South    West
+                                            Leg       Leg         Leg    Leg        Leg      Leg           Leg     Leg
+Volume/Capacity                             0.92      0.83       0.15     0.55      0.71      0.85          0.77   0.97
+Critical Lane Average Delay (sec)           44.8      21.3        8.8     16.5      20.1      29.3          43.7   52.9
+Intersection Volume/Capacity*                             0.78                                       0.85
+Intersection Control Delay (sec)                          27.1                                       36.2
+Intersection Level of Service                                D                                        E
+* The intersection v/c ratio was calculated using a weighted average based on the critical lane volumes.
+
+
+
+Roundabout Construction Phasing
+There are multiple factors that should be considered in evaluating potential phasing of the
+roundabout configuration needed to meet the City's ideal operational standards under the
+forecasted 2030 conditions. First, a single-lane roundabout would likely operate adequately
+under year of opening conditions. Second, there are nearby physical constraints that that limit
+the ability to achieve full buildout of the roundabout concept, such as the canal crossing to the
+east that would need to be widened to have dual entry or dual exit lanes on the east leg of the
+intersection. Third, there are currently no identified funds to construct planned projects that are
+part of the Financially Committed system that would add volume to this intersection, such as the
+NE Empire Avenue extension to NE 27th Street. In addition, several of the potential network
+improvements in the Financially Committed Scenario and the Juniper Ridge Employment Sub-
+District scenario (which would be needed to accommodate growth in the area) are outside of the
+current State acknowledged Urban Growth Boundary, which could mean that it will be some
+time before these projects can be constructed. Therefore, phased construction was evaluated to
+determine a potential sequence of improvements that could be used to transition towards the full
+2030 configuration.
+
+Using calculated growth rates that were based on comparing existing (year 2011) traffic volumes
+and Financially Committed scenario 2030 volumes, 5-year incremental turn-movement volume
+sets were developed and analyzed. The interim year forecasts were then used to develop and
+evaluate phased components of the roundabout configuration, starting with a single lane
+configuration and working towards dual entry and then dual exit configurations, as needed.
+Figure 11 shows the potential interim year phasing strategies and Table 10 summarizes their
+operations.
+                              Draft NE Empire Avenue at NE 18th Street
+Intersection Traffic Control Determination and Design Recommendation
+                                                     February 10, 2012
+                                                         Page 29 of 35
+
+
+
+
+   Figure 11: Potential roundabout construction phasing
+                                                        Draft NE Empire Avenue at NE 18th Street
+                          Intersection Traffic Control Determination and Design Recommendation
+                                                                               February 10, 2012
+                                                                                   Page 30 of 35
+
+Table 10: Future Alternatives Roundabout Operations Results (AM/PM Peak Hour)
+                                                   NE Empire Ave./NE 18th St.
+                                                             Volume to Capacity
+Roundabout                           AM Peak                                        PM Peak
+Operations
+                         North     East    South      West     Over-   North      East   South   West   Over-
+                          Leg      Leg      Leg       Leg       all     Leg       Leg     Leg    Leg     all
+Year 2015 Scenarios
+Single Lane               0.48      0.68    0.05      0.31     0.54     0.32      0.57   0.22    0.65   0.53
+Year 2020 Scenarios
+Year 2020 Single Lane     0.80      0.89    0.06      0.42     0.76     0.53      0.77   0.32    0.85   0.71
+Year 2025 Scenarios
+Year 2025 Single Lane     1.36      1.18    0.10      0.60     1.13     0.88      1.05   0.49    1.19   1.02
+Year 2025 (Interim A)     0.93      1.18    0.11      0.48     0.99     0.66      1.05   0.51    0.91   0.88
+Year 2025 (Interim B)     0.74      0.65    0.11      0.52     0.63     0.48      0.59   0.51    1.02   0.73
+Year 2030 Scenarios
+Year 2030 (Interim A)     1.65      1.58    0.16      0.75     1.47     1.14      1.48   0.83    1.36   1.31
+Year 2030 (Interim B)     1.26      0.82    0.16      0.79     0.94     0.84      0.77   0.83    1.47   1.05
+Year 2030 Partial
+Multi-Lane (Full Build    0.83      0.82    0.16      0.54     0.75     0.72      0.77   0.83    0.97   0.83
+Out of Roundabout)
+
+
+The results of the analysis, as listed in Table 10, indicated that a single-lane roundabout would
+likely operate within the City's ideal operational standards (i.e., v/c ratios less than 1.0 for each
+approach) through the year 2020 and could meet the minimum operational standard for an
+additional few years (i.e., a design life of approximately 10 years). By the year 2025, one of the
+interim phasing concepts would be needed. Both interim concepts would meet the City's
+minimum operational standards (i.e., overall intersection v/c less than 1.0) through 2025, but
+would fail under year 2030 conditions. Interim Concept A, which maintains a single lane entry
+and exit on the east leg, would have significant congestion on the east leg and just meet the City's
+minimum operational standard under year 2025 conditions (i.e., it would have a design life of 10
+to 15 years). Interim Concept B, would provide additional capacity and almost meet the City's
+ideal operating standard under year 2025 conditions (i.e., it would have a design life of 10 to
+almost 20 years). Intersection operations for the 5-year incremental forecasts are listed in Table
+10 (see Appendix L).
+                                                            Draft NE Empire Avenue at NE 18th Street
+                              Intersection Traffic Control Determination and Design Recommendation
+                                                                                   February 10, 2012
+                                                                                       Page 31 of 35
+
+Given the nature of these interpolated future traffic volume forecasts, it is important to note that
+the actual construction of these improvements would not be needed precisely in 2025 or 2030.
+Development patterns and rates in the area could fluctuate significantly as the Central Oregon
+area recovers from the economic recession. Furthermore, there are key network changes that will
+likely drive the timing of these improvements. For example, the Financially Committed network
+evaluated in this interim phasing analysis assumes that NE Empire Avenue would be extended to
+NE 27th Street and no other significant improvement projects would be constructed in the
+immediate area. However, there are several other projects not included in this network scenario
+that could occur in the area before or after the NE Empire Avenue extension, such as the
+Yeoman Road extension to NE 18th Street, the NE Purcell Boulevard extension to Cooley Road,
+or the Cooley Road extension to Deschutes Market Road.
+To further explore the potential for corridor improvements in the area to affect the timing of
+when the interim roundabout configurations would be needed (or what each scenario's design life
+might be), additional travel demand model network scenarios were examined, including the Bend
+MPO Metropolitan Transportation Plan (MTP) scenario and the Juniper Ridge Employment Sub-
+District Mitigated scenario. In addition, some preliminary network testing (without formal full
+4-step travel demand model runs26) was conducted to determine the potential for certain roadway
+improvements in the area that might reduce the need for multi-lane configurations of the
+roundabout. Observations from this sensitivity testing include:
+     x   Traffic volumes at the NE Empire Avenue/NE 18th Street intersection would likely
+         increase significantly if NE Empire Avenue was extended to NE 27th Street (especially if
+         the NE Empire Avenue corridor was widened to 5-lanes). Therefore, this project would
+         reduce the design life of the interim phasing concepts.
+     x   Traffic volumes at the NE Empire Avenue/NE 18th Street intersection could potentially
+         be reduced if Yeoman Road was extended west to NE 18th Street. If this improvement
+         were to happen before NE Empire Avenue was extended to NE 27th Street (and without
+         other corridor improvements in the area), the interim configuration concepts may have a
+         substantially longer "design life". For example, Interim Concept A could potentially
+         meet City operational standards for up to 15 to 20 years under this scenario.
+     x   The extension of Purcell Boulevard to Cooley Road could reduce traffic volumes at the
+         NE Empire Avenue/NE 18th Street intersection. However, this improvement would
+         likely correspond to increased development at Juniper Ridge (as it is a condition of the
+         ODOT/Bend IGA for later phases of development in the Juniper Ridge Employment Sub-
+         District) and would therefore not likely represent a scenario that would increase the
+         design life of the interim roundabout concepts.
+
+
+
+
+26
+  The Bend MPO regional travel demand model, which was developed and is maintained by ODOT's
+Transportation Planning Analysis Unit (TPAU), follows a 4-step process that includes trip generation, trip
+distribution, mode choice, and trip assignment. Creating new network scenarios and developing future year volume
+estimates would require having TPAU run the full 4-step model. The preliminary testing completed was based upon
+looking at trip assignment patterns in the model to observe the potential for network changes to shift traffic volumes.
+                                                              Draft NE Empire Avenue at NE 18th Street
+                                Intersection Traffic Control Determination and Design Recommendation
+                                                                                     February 10, 2012
+                                                                                         Page 32 of 35
+
+Year of Opening Operations
+As discussed in the previous section, a single lane roundabout would operate well within the
+City's operational standards under year of opening (2012) traffic conditions if chosen as an
+initial interim configuration. A single lane roundabout would operate with minimal delay on all
+approaches and 95th percentile queue lengths would not be anticipated to exceed 125 feet during
+the AM and PM peak hours. Table 11 lists the expected day of opening single-lane roundabout
+traffic operations and queuing results (Appendix M).
+
+Table 11: Alternative 1 ­ 2012 Year of Opening Single-Lane Roundabout Operations and Queuing Results
+(AM/PM Peak Hour)
+                                            NE Empire Ave./NE 18th St.
+                                                                         2012 Year of Opening
+                                                      AM Peak                                     PM Peak
+Roundabout Operations
+                                          North      East         South     West    North       East         South   West
+                                           Leg       Leg           Leg      Leg      Leg        Leg           Leg    Leg
+Volume/Capacity                            0.39      0.64         0.04       0.30    0.23       0.47         0.17    0.55
+Critical Lane Average Delay (sec)           8.7      11.2          4.2       6.3      6.0       8.5           6.7    9.8
+Intersection Control Delay (sec)                            9.4                                        8.5
+Intersection Level of Service                               A                                          A
+Queuing Results (95th Percentile Queues)*
+Peak 15 min. volume (ft)                    50       125           25        50       25        75            25     100
+Peak Hour volume (ft)                       50       75            25        25       25        50            25      75
+*Queue lengths are rounded to the nearest 25 feet.
+
+
+
+
+Multimodal System Considerations
+As described in the system context, there are pedestrian and utility facilities near the intersection
+that should be considered during the design, including:
+    x The Pilot Butte Canal trail crossing should be considered in the intersection design and
+        the design team should coordinate with the Bend Park and Recreation District. Consider
+        utilizing the roundabout as the crossing between the south side of NE Empire Avenue
+        (with the trail running along NE 18th Street) and the north side of NE Empire Avenue
+        (with the trail running along the east side of the canal). In addition, a shared
+        pedestrian/bicycle facility should be considered on the north side of NE Empire Avenue
+        that would connect the trail ends and provide for crossing of the canal bridge (e.g., a
+        cross section of the bridge could include 10-foot multi-use path on the north side, two 12-
+        foot travel lanes, and a 5-foot pedestrian facility on the south side).
+    x Sidewalk should be provided along NE Empire Avenue between NE 18th Street and NE
+        Purcell Boulevard to provide for pedestrian facilities towards Sky View High School and
+                                                      Draft NE Empire Avenue at NE 18th Street
+                        Intersection Traffic Control Determination and Design Recommendation
+                                                                             February 10, 2012
+                                                                                 Page 33 of 35
+
+       Ponderosa Elementary School. As part of this project, a sidewalk should be designed and
+       constructed, if possible, along the north side of NE Empire Avenue in combination with
+       the improvements across the canal bridge.
+   x   Sidewalks and curb ramps should be constructed per ADA requirements on all quadrants
+       of the intersection.
+   x   Where dual entry or exit lanes are planned in the design, the potential for installing
+       pedestrian activated signals should be considered. This would include installing conduit
+       as part of the street lighting design for future traffic control device installation on each
+       approach.
+   x   Sidewalks should be designed and constructed, if possible, on the north leg of NE 18th
+       Street. Consideration should be made for constructing sidewalks to at least NE Primrose
+       Place as part of this project to support the mixed land use and the school access in the
+       area, which would complete the sidewalk network on the west side of NE 18th Street.
+       Continuing the sidewalks on the east side of NE 18th Street to Brightwater Drive would
+       be needed to complete the gaps in the corridor.
+   x   Accommodate bicyclists since all approaches feature bike lanes.
+
+
+Summary of Findings
+Based on the Tier 1 Selection Criteria for the forecasted future year 2030 conditions, a partial
+multi-lane roundabout would be recommended compared to traffic signal control at the
+intersection of NE Empire Avenue/NE 18th Street. As described in Table 8, a roundabout would
+provide safer operations and would result in shorter delays and vehicle queues during the AM
+and PM peak hours. Although a partial multi-lane roundabout as shown in Figure 8 would be
+necessary to meet City operational standards under the forecasted year 2030 conditions, there is
+opportunity to phase the roundabout improvements over time. Phasing of improvements may be
+desired by the City to reduce initial construction costs and right of way impacts, provide safer
+operations for all modes under single lane configurations on some approaches for interim
+periods, and provide flexibility to adapt to changing development trends and roadway system
+improvements that could alter the need for the identified full build-out configuration under year
+2030 conditions. If the City chooses to design for, and implement, a phased improvement
+strategy, the following operational highlights should be considered:
+
+   x   A single lane roundabout configuration is estimated to have approximately 10 years of
+       operational design life (i.e., before capacity would be reached during peak periods).
+   x   Interim Concept A, which expands the roundabout to add an eastbound left turn lane and
+       a southbound right turn lane, is estimated to have approximately 10 to 15 years of
+       operational design life. Under this configuration, the east leg (westbound approach)
+       would be maintained as a single entry/exit lane configuration given the constraints of the
+       current canal bridge width.
+   x   Interim Concept B, which would expand beyond Interim Concept A to also include a
+       westbound right turn lane, is estimated to have approximately 10 to almost 20 years of
+       operational design life.
+                                                       Draft NE Empire Avenue at NE 18th Street
+                         Intersection Traffic Control Determination and Design Recommendation
+                                                                              February 10, 2012
+                                                                                  Page 34 of 35
+
+   x    The design life of any of these interim options could vary significantly under changes in
+        development patterns and rates or changes to the timing and/or order of constructing
+        roadway improvements in the area. For example, if the Yeoman Road extension to NE
+        18th Street was constructed and no other significant projects in the area were completed
+        (e.g., the NE Empire Avenue extension to NE 27th Street, the NE Purcell Boulevard
+        extension to Cooley Road, the Cooley Road extension to Deschutes Market Road, or the
+        widening of NE Empire Avenue to 5-lane east of Boyd Acres Road), the design life of
+        Interim Concept A may potentially extend to 15+ years.
+
+If a phased implementation strategy is selected by the City, the roundabout footprint (and right-
+of-way) under interim year scenarios should consider options such as:
+
+    x   Building for an interim configuration and expanding the roundabout to add lanes in the
+        future when needed;
+    x   Building to accommodate the size of later phases and adding inner lanes in the future; or
+    x   Building to accommodate the size of later phases and using striping to implement
+        reduced lane configurations for interim conditions (restriping to add lanes in the future.
+
+These choices would likely have a significant effect on the design elements of the roundabout,
+such as drainage and right-of-way. The design team should coordinate with the City to
+determine the preferred approach. Under any of the phased or full build-out configurations of the
+roundabout improvements, the following items should be considered during design:
+
+   x    A design vehicle of a WB-67 should be used for all approaches (allowing the truck cab to
+        stay in-lane with the trailer potentially tracking onto the inner and/or outer truck apron).
+   x    A double and triple trailer configuration should be accommodated for all approaches
+        (with use of an inner and/or outer truck apron if necessary).
+   x    The truck apron vertical profile should accommodate a lowboy trailer for all approaches
+   x    Design for emergency response vehicles (ambulance and a hook/ladder fire truck) to stay
+        in-lane for all approaches and exits.
+   x    The Pilot Butte Canal trail crossing should be considered in the intersection design and
+        the design team should coordinate with the Bend Park and Recreation District. Consider
+        utilizing the roundabout as the crossing between the south side of NE Empire Avenue
+        (with the trail running along NE 18th Street) and the north side of NE Empire Avenue
+        (with the trail running along the east side of the canal). In addition, a shared
+        pedestrian/bicycle facility should be considered on the north side of NE Empire Avenue
+        that would connect the trail ends and provide for crossing of the canal bridge (e.g., a
+        cross section of the bridge could include a 10-foot multi-use path on the north side, two
+        12-foot motor vehicle travel lanes, and a 5-foot pedestrian facility on the south side).
+   x    Sidewalk should be provided along NE Empire Avenue between NE 18th Street and NE
+        Purcell Boulevard to provide for pedestrian facilities towards Sky View High School and
+        Ponderosa Elementary School. As part of this project, a sidewalk should be designed and
+                                                   Draft NE Empire Avenue at NE 18th Street
+                     Intersection Traffic Control Determination and Design Recommendation
+                                                                          February 10, 2012
+                                                                              Page 35 of 35
+
+    constructed, if possible, along the north side of NE Empire Avenue in combination with
+    the improvements across the canal bridge.
+x   Sidewalks and curb ramps should be constructed per ADA requirements all on quadrants
+    of the intersection.
+x   Sidewalks should be designed and constructed, if possible, on the north leg of NE 18th
+    Street. Consideration should be made for constructing sidewalks to at least NE Primrose
+    Place as part of this project to support the mixed land use and the school access in the
+    area, which would complete the sidewalk network on the west side of NE 18th Street.
+    Continuing the sidewalks on the east side of NE 18th Street to Brightwater Drive would
+    be needed to complete the gaps in the corridor.
+x   Where dual entry or exit lanes are planned in the design, the potential for installing
+    pedestrian activated signals should be considered. This would include installing conduit
+    as part of the street lighting design for future traffic control device installation on each
+    approach.
+x   Accommodate bicyclists to provide system connectivity since all approaches feature bike
+    lanes.
+                               Appendix A
+Existing Intersection Turn Movement Counts (AM/PM)
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 18th St -- Empire Ave                                                                                              QC JOB #: 10675705
+ CITY/STATE: Bend, OR                                                                                                         DATE: Tue, Nov 01 2011
+                     267            296                          Peak-Hour: 7:15 AM -- 8:15 AM                                 3.4        2.0
+                        89    67 111
+                                                                Peak 15-Min: 7:25 AM -- 7:40 AM
+                                                                                                                               2.2 4.5 3.6
+
+       455   44                           228   619
+                                                                                                                  2.0   0.0                       2.6      2.1
+             161             0.80         363
+                                                                                                                        0.0                       1.9
+       253   48                           28    275
+                                                                                                                  0.8   4.2                       0.0      1.5
+
+                         3    24    3
+                                                                                                                               0.0 0.0 0.0
+
+                     143            30
+                                                                                                                               3.5        0.0
+
+
+
+                              1                                                                                                 0    0    1
+
+
+                                                                                                                        0                          0
+
+             1                              1                                                                           0                          0
+
+                                                                                                                        0                          0
+
+
+                              2                                                                                                 0    0    0
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                            NA                        NA
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+ 5-Min Count                    18th St                         18th St                Empire Ave                   Empire Ave
+     Period                  (Northbound)                    (Southbound)              (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                    Total
+                  Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U                      Totals
+     7:00 AM        0           2       0    0          5       1       1   0     5      6      2      0     1       13      4       0           40
+     7:05 AM        2           0       2    0          8       5       3   0     3     13      5      0     1       13      3       0           58
+     7:10 AM        0           2       0    0          3       2       3   0     6     10      3      0     1       12     11       0           53
+     7:15 AM        0           2       0    0         10       4       5   0     6      8      4      0     3       20     21       0           83
+     7:20 AM        0           0       0    0         13       8       8   0     4      8      4      0     6       26     25       0          102
+     7:25 AM        0           2       1    0          8       9       9   0     5     21      5      0     0       30     37       0          127
+     7:30 AM        1           3       0    0         11       7     14    0     3     19      2      0     0       21     38       0          119
+     7:35 AM        0           3       1    0          9       7     11    0     7      9      2      0     0       35     34       0          118
+     7:40 AM        0           2       0    0         16       8     17    0     2     11      4      0     1       31     18       0          110
+     7:45 AM        0           0       0    0          8       5       5   0     7     18      2      0     3       46     16       0          110
+     7:50 AM        0           1       0    0         12       6       5   0     1     13      7      0     4       46      8       0          103
+     7:55 AM        1           4       0    0          4       2       3   0     3     13      7      0     4       37      9       0           87             1110
+     8:00 AM        0           2       0    0          5       6       4   0     2     17      4      0     4       28      9       0           81             1151
+     8:05 AM        1           3       0    0          4       4       5   0     3      9      4      0     2       25      5       0           65             1158
+     8:10 AM        0           2       1    0         11       1       3   0     1     15      3      0     1       18      8       0           64             1169
+     8:15 AM        0           2       1    0          9       7       6   0     2     14      4      0     2       18      5       0           70             1156
+     8:20 AM        1           1       1    0          8       3       3   0     1     19      0      0     2       25      2       0           66             1120
+     8:25 AM        2           0       0    0         10       4       5   0     4     11      8      0     0       30      4       0           78             1071
+     8:30 AM        0           4       1    0          7       2       6   0     0     16      4      0     3       27     12       0           82             1034
+     8:35 AM        2           2       0    0         17       4       1   0     3     21      1      0     2       22     10       0           85             1001
+     8:40 AM        0           3       1    0         13       7       7   0     4     26      3      0     0       28     15       0          107              998
+     8:45 AM        0           2       0    0         18       5       9   0     2     15      6      0     0       28      8       0           93              981
+     8:50 AM        0           1       1    0          9       5       6   0     3     24      0      0     2       31      7       0           89              967
+     8:55 AM        0           2       0    0          5       3       4   0    12     23      4      0     0       33      8       0           94              974
+ Peak 15-Min                      Northbound                     Southbound                Eastbound                    Westbound
+                                                                                                                                                        Total
+  Flowrates       Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles      4          32       8    0        112      92    136    0    60    196     36      0     0      344   436        0                  1456
+ Heavy Trucks       0           0       0               0       4       4         0      0      0            0        8     20                           36
+  Pedestrians                   0                               0                        0                            0                                   0
+   Bicycles         0           0       0               0       0       0         0      0      0            0        0      0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/20/2011 2:51 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 18th St -- Empire Ave                                                                                              QC JOB #: 10675706
+ CITY/STATE: Bend, OR                                                                                                         DATE: Tue, Nov 01 2011
+                     193            322                          Peak-Hour: 4:35 PM -- 5:35 PM                                 2.6        0.9
+                        53    43    97
+                                                                Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                               0.0 4.7 3.1
+
+       364   110                          163   454
+                                                                                                                  1.1   0.9                       0.6      1.1
+             405             0.89         277
+                                                                                                                        1.7                       1.4
+       556   41                           14    533
+                                                                                                                  1.4   0.0                       0.0      2.1
+
+                        34    49    31
+                                                                                                                               0.0 2.0 3.2
+
+                        98          114
+                                                                                                                               2.0        1.8
+
+
+
+                              1                                                                                                 0    1    0
+
+
+                                                                                                                        0                          1
+
+             4                              0                                                                           0                          0
+
+                                                                                                                        0                          0
+
+
+                              4                                                                                                 0    0    0
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                            NA                        NA
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+ 5-Min Count                    18th St                         18th St                Empire Ave                   Empire Ave
+     Period                  (Northbound)                    (Southbound)              (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                    Total
+                  Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U                      Totals
+     4:00 PM        1           3       2    0         10       4       6   0     3     27      0      0     2       27     10       0           95
+     4:05 PM        3           4       1    0          9       6       3   0     5     26      5      0     0       24      7       0           93
+     4:10 PM        0           0       2    0          7       3       5   0     3     25      2      0     1       16     14       0           78
+     4:15 PM        5           2       0    0          3       3       1   0     4     23      3      0     0       23      7       0           74
+     4:20 PM        3           2       0    0          8       1       2   0     8     30      2      0     0       27     10       0           93
+     4:25 PM        1           1       0    0          6       1       5   0     2     31      2      0     0       15     12       0           76
+     4:30 PM        0           0       2    0          8       7       3   0     3     27      1      0     1       30     10       0           92
+     4:35 PM        9           6       1    0         11       3       7   0    11     30      2      0     1       25     13       0          119
+     4:40 PM        2           2       3    0          7       0       2   0     5     36      1      0     1       17      9       0           85
+     4:45 PM        2           5       6    0          7       3       4   0     7     26      3      0     2       20     18       0          103
+     4:50 PM        1           5       2    0          7       1       2   0    13     35      2      0     4       29     12       0          113
+     4:55 PM        1           3       2    0          5       4       4   0     7     27      7      0     1       29     10       0          100             1121
+     5:00 PM        1           3       1    0          9       2       2   0    10     35      3      0     0       20     13       0           99             1125
+     5:05 PM        5           2       2    0          6       9       4   0    10     46      8      0     0       24     15       0          131             1163
+     5:10 PM        0           4       1    0         11       5       7   0     9     27      3      0     2       37     19       0          125             1210
+     5:15 PM        4           4       4    0          8       2       5   0    18     38      2      0     1       13     14       0          113             1249
+     5:20 PM        5           7       0    0         11       2       5   0    10     39      2      0     1       29     15       0          126             1282
+     5:25 PM        1           5       4    0          7       7       5   0     2     36      5      0     0       19     18       0          109             1315
+     5:30 PM        3           3       5    0          8       5       6   0     8     30      3      0     1       15      7       0           94             1317
+     5:35 PM        2           3       0    0         11       2       6   0     6     33      1      0     1       13     12       0           90             1288
+     5:40 PM        0           7       2    0          7       1       2   0     8     29      2      0     2       27      9       0           96             1299
+     5:45 PM        3           7       1    0          9       7       7   0     8     27      3      0     0       24      8       0          104             1300
+     5:50 PM        0           1       0    0          4       5       3   0     6     20      1      0     1       16     12       0           69             1256
+     5:55 PM        1           3       0    0          6       2       2   0     3     23      0      0     0       18     14       0           72             1228
+ Peak 15-Min                      Northbound                     Southbound                Eastbound                    Westbound
+                                                                                                                                                        Total
+  Flowrates       Left        Thru Right     U        Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles     36          40      28    0        100      64     64    0   148    444     52      0    12      296   192        0                  1476
+ Heavy Trucks       0           0       0               4       4       0         0      4      0            0        4      4                           20
+  Pedestrians                   0                               0                        4                            0                                   4
+   Bicycles         0           0       0               0       0       0         0      0      0            0        0      0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/20/2011 2:51 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Appendix B
+Existing Tube Counts
+Type of report: Tube Count - Volume Data                                                                                                   Page 1 of 1
+ LOCATION: Empire Ave East of NE 18th St                                                                                QC JOB #: 10701003
+ SPECIFIC LOCATION: 0 ft from                                                                                           DIRECTION: EB
+ CITY/STATE: Bend, OR                                                                                          DATE: Jan 31 2012 - Jan 31 2012
+                  Mon          Tue         Wed   Thu   Fri   Average Weekday    Sat   Sun       Average Week            Average Week Profile
+Start Time                  31-Jan-12                          Hourly Traffic                   Hourly Traffic
+ 12:00 AM                        10                                 10                                  10
+  1:00 AM                         6                                  6                                   6
+  2:00 AM                         6                                  6                                   6
+  3:00 AM                        11                                 11                                  11
+  4:00 AM                         8                                  8                                   8
+  5:00 AM                        31                                 31                                  31
+  6:00 AM                        95                                 95                                  95
+  7:00 AM                       292                                292                                 292
+  8:00 AM                       305                                305                                 305
+  9:00 AM                       211                                211                                 211
+ 10:00 AM                       247                                247                                 247
+ 11:00 AM                       251                                251                                 251
+ 12:00 PM                       302                                302                                 302
+  1:00 PM                       285                                285                                 285
+  2:00 PM                       350                                350                                 350
+  3:00 PM                       406                                406                                 406
+  4:00 PM                       463                                463                                 463
+  5:00 PM                       467                                467                                 467
+  6:00 PM                       304                                304                                 304
+  7:00 PM                       215                                215                                 215
+  8:00 PM                       148                                148                                 148
+  9:00 PM                        79                                 79                                  79
+ 10:00 PM                        47                                 47                                  47
+ 11:00 PM                        18                                 18                                  18
+ Day Total                     4557                               4557                                4557
+% Weekday
+                            100.0%
+ Average
+  % Week
+                            100.0%                                100.0%
+  Average
+  AM Peak                    8:00 AM                             8:00 AM                             8:00 AM
+   Volume                      305                                 305                                 305
+  PM Peak                    5:00 PM                             5:00 PM                             5:00 PM
+   Volume                      467                                 467                                 467
+ Comments:
+
+Report generated on 2/1/2012 10:15 AM                                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+Type of report: Tube Count - Volume Data                                                                                                   Page 1 of 1
+ LOCATION: Empire Ave East of NE 18th St                                                                                QC JOB #: 10701003
+ SPECIFIC LOCATION: 0 ft from                                                                                           DIRECTION: WB
+ CITY/STATE: Bend, OR                                                                                          DATE: Jan 31 2012 - Jan 31 2012
+                  Mon          Tue         Wed   Thu   Fri   Average Weekday    Sat   Sun       Average Week            Average Week Profile
+Start Time                  31-Jan-12                          Hourly Traffic                   Hourly Traffic
+ 12:00 AM                        10                                 10                                  10
+  1:00 AM                         0                                  0                                   0
+  2:00 AM                         4                                  4                                   4
+  3:00 AM                         7                                  7                                   7
+  4:00 AM                        19                                 19                                  19
+  5:00 AM                        57                                 57                                  57
+  6:00 AM                       157                                157                                 157
+  7:00 AM                       573                                573                                 573
+  8:00 AM                       390                                390                                 390
+  9:00 AM                       234                                234                                 234
+ 10:00 AM                       232                                232                                 232
+ 11:00 AM                       295                                295                                 295
+ 12:00 PM                       335                                335                                 335
+  1:00 PM                       287                                287                                 287
+  2:00 PM                       358                                358                                 358
+  3:00 PM                       433                                433                                 433
+  4:00 PM                       414                                414                                 414
+  5:00 PM                       421                                421                                 421
+  6:00 PM                       245                                245                                 245
+  7:00 PM                       145                                145                                 145
+  8:00 PM                       192                                192                                 192
+  9:00 PM                        75                                 75                                  75
+ 10:00 PM                        31                                 31                                  31
+ 11:00 PM                        19                                 19                                  19
+ Day Total                     4933                               4933                                4933
+% Weekday
+                            100.0%
+ Average
+  % Week
+                            100.0%                                100.0%
+  Average
+  AM Peak                    7:00 AM                             7:00 AM                             7:00 AM
+   Volume                      573                                 573                                 573
+  PM Peak                    3:00 PM                             3:00 PM                             3:00 PM
+   Volume                      433                                 433                                 433
+ Comments:
+
+Report generated on 2/1/2012 10:15 AM                                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+Type of report: Tube Count - Volume Data                                                                                                   Page 1 of 1
+ LOCATION: NE 18th St South of Empire Ave                                                                               QC JOB #: 10701004
+ SPECIFIC LOCATION: 0 ft from                                                                                           DIRECTION: NB
+ CITY/STATE: Bend, OR                                                                                          DATE: Jan 31 2012 - Jan 31 2012
+                  Mon          Tue         Wed   Thu   Fri   Average Weekday    Sat   Sun       Average Week            Average Week Profile
+Start Time                  31-Jan-12                          Hourly Traffic                   Hourly Traffic
+ 12:00 AM                         2                                  2                                   2
+  1:00 AM                         1                                  1                                   1
+  2:00 AM                         3                                  3                                   3
+  3:00 AM                         3                                  3                                   3
+  4:00 AM                         5                                  5                                   5
+  5:00 AM                         9                                  9                                   9
+  6:00 AM                        21                                 21                                  21
+  7:00 AM                        44                                 44                                  44
+  8:00 AM                        41                                 41                                  41
+  9:00 AM                        30                                 30                                  30
+ 10:00 AM                        37                                 37                                  37
+ 11:00 AM                        44                                 44                                  44
+ 12:00 PM                        69                                 69                                  69
+  1:00 PM                        55                                 55                                  55
+  2:00 PM                        59                                 59                                  59
+  3:00 PM                        63                                 63                                  63
+  4:00 PM                        57                                 57                                  57
+  5:00 PM                        73                                 73                                  73
+  6:00 PM                        59                                 59                                  59
+  7:00 PM                        42                                 42                                  42
+  8:00 PM                        28                                 28                                  28
+  9:00 PM                        13                                 13                                  13
+ 10:00 PM                        11                                 11                                  11
+ 11:00 PM                         6                                  6                                   6
+ Day Total                      775                                775                                 775
+% Weekday
+                            100.0%
+ Average
+  % Week
+                            100.0%                                100.0%
+  Average
+  AM Peak                    7:00 AM                             7:00 AM                             7:00 AM
+   Volume                       44                                  44                                  44
+  PM Peak                    5:00 PM                             5:00 PM                             5:00 PM
+   Volume                       73                                  73                                  73
+ Comments:
+
+Report generated on 2/1/2012 10:15 AM                                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+Type of report: Tube Count - Volume Data                                                                                                   Page 1 of 1
+ LOCATION: NE 18th St South of Empire Ave                                                                               QC JOB #: 10701004
+ SPECIFIC LOCATION: 0 ft from                                                                                           DIRECTION: SB
+ CITY/STATE: Bend, OR                                                                                          DATE: Jan 31 2012 - Jan 31 2012
+                  Mon          Tue         Wed   Thu   Fri   Average Weekday    Sat   Sun       Average Week            Average Week Profile
+Start Time                  31-Jan-12                          Hourly Traffic                   Hourly Traffic
+ 12:00 AM                         3                                  3                                   3
+  1:00 AM                         1                                  1                                   1
+  2:00 AM                         2                                  2                                   2
+  3:00 AM                         6                                  6                                   6
+  4:00 AM                        15                                 15                                  15
+  5:00 AM                        19                                 19                                  19
+  6:00 AM                        59                                 59                                  59
+  7:00 AM                       123                                123                                 123
+  8:00 AM                        89                                 89                                  89
+  9:00 AM                        60                                 60                                  60
+ 10:00 AM                        54                                 54                                  54
+ 11:00 AM                        57                                 57                                  57
+ 12:00 PM                        85                                 85                                  85
+  1:00 PM                        80                                 80                                  80
+  2:00 PM                        95                                 95                                  95
+  3:00 PM                       101                                101                                 101
+  4:00 PM                        61                                 61                                  61
+  5:00 PM                        92                                 92                                  92
+  6:00 PM                        56                                 56                                  56
+  7:00 PM                        16                                 16                                  16
+  8:00 PM                        19                                 19                                  19
+  9:00 PM                        18                                 18                                  18
+ 10:00 PM                        14                                 14                                  14
+ 11:00 PM                         3                                  3                                   3
+ Day Total                     1128                               1128                                1128
+% Weekday
+                            100.0%
+ Average
+  % Week
+                            100.0%                                100.0%
+  Average
+  AM Peak                    7:00 AM                             7:00 AM                             7:00 AM
+   Volume                      123                                 123                                 123
+  PM Peak                    3:00 PM                             3:00 PM                             3:00 PM
+   Volume                      101                                 101                                 101
+ Comments:
+
+Report generated on 2/1/2012 10:15 AM                                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net)
+                                   Appendix C
+Existing Intersection Vehicle Classification Counts (AM)
+                                                                                                     10690702 - Empire St & 18th St.xlsx                                                                                                          SBT
+
+                                                                                          Date Counted: 11/1/11
+                                                                                   Location/Intersection: 18th St & Empire St
+                                                                                     Direction Counted: Southbound Thru
+
+          16285 SW 85th Ave, Ste 302
+              Tigard, OR 97224
+               Ph:503-620-4242
+
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14
+          Motorcycles   Cars & Trailers   2 Axle Long   Buses     2 Axle 6 Tire   3 Axle Single   4 Axle Single   <5 Axle Double 5 Axle Double >6 Axle Double   <6 Axle Multi   6 Axle Multi   >6 Axle Multi   Low Boy Trailer   Interval Total
+7:00 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+7:05 AM        0              1                3           0            0               0               0                0             0              0               0              0               0                0                4
+7:10 AM        0              3                0           0            0               0               0                0             0              0               0              0               0                0                3
+7:15 AM        0              0                3           1            0               0               0                0             0              0               0              0               0                0                4
+7:20 AM        0              1                5           0            0               0               0                0             0              0               0              0               0                0                6
+7:25 AM        0              6                3           0            1               0               0                0             0              0               0              0               0                0                10
+7:30 AM        0              4                2           1            0               0               0                0             0              0               0              0               0                0                7
+7:35 AM        0              4                4           0            0               0               0                0             0              0               0              0               0                0                8
+7:40 AM        0              3                6           0            0               0               0                0             0              0               0              0               0                0                9
+7:45 AM        0              5                1           0            0               0               0                0             0              0               0              0               0                0                6
+7:50 AM        0              1                4           0            0               0               0                0             0              0               0              0               0                0                5
+7:55 AM        0              0                3           0            0               0               0                0             0              0               0              0               0                0                3
+8:00 AM        0              1                3           1            0               0               0                0             0              0               0              0               0                0                5
+8:05 AM        0              2                1           1            0               0               0                0             0              0               0              0               0                0                4
+8:10 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+8:15 AM        0              1                4           0            0               0               0                0             0              0               0              0               0                0                5
+8:20 AM        0              2                1           0            0               0               0                0             0              0               0              0               0                0                3
+8:25 AM        0              3                1           0            0               0               0                0             0              0               0              0               0                0                4
+8:30 AM        0              1                1           0            0               0               0                0             0              0               0              0               0                0                2
+8:35 AM        0              1                3           0            0               0               0                0             0              0               0              0               0                0                4
+8:40 AM        0              4                5           0            0               0               0                0             0              0               0              0               0                0                9
+8:45 AM        0              1                3           0            0               0               0                1             0              0               0              0               0                0                5
+8:50 AM        0              2                2           0            0               0               0                0             0              0               0              0               0                0                4
+8:55 AM        0              3                0           0            1               0               0                0             0              0               0              0               0                0                4
+Total          0              49              60           4            2               0               0                1             0              0               0              0               0                0
+                                                                                                                                                                                                                                     116
+ %          0.00%          42.24%           51.72%      3.45%        1.72%           0.00%           0.00%            0.86%         0.00%          0.00%           0.00%          0.00%           0.00%            0.00%
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14
+                                                                                                     10690702 - Empire St & 18th St.xlsx                                                                                                          SBL
+
+                                                                                          Date Counted: 11/1/11
+                                                                                   Location/Intersection: 18th St & Empire St
+                                                                                     Direction Counted: Southbound Left
+
+          16285 SW 85th Ave, Ste 302
+              Tigard, OR 97224
+               Ph:503-620-4242
+
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14
+          Motorcycles   Cars & Trailers   2 Axle Long   Buses     2 Axle 6 Tire   3 Axle Single   4 Axle Single   <5 Axle Double 5 Axle Double >6 Axle Double   <6 Axle Multi   6 Axle Multi   >6 Axle Multi   Low Boy Trailer   Interval Total
+7:00 AM        0              1                6           0            0               0               0                0             0              0               0              0               0                0                7
+7:05 AM        0              3                5           0            0               0               0                0             0              0               0              0               0                0                8
+7:10 AM        0              2                1           0            0               0               0                0             0              0               0              0               0                0                3
+7:15 AM        0              1                9           0            0               0               0                0             0              0               0              0               0                0                10
+7:20 AM        0              3               10           0            0               0               0                0             0              0               0              0               0                0                13
+7:25 AM        0              4                4           0            0               0               0                0             0              0               0              0               0                0                8
+7:30 AM        0              6                5           0            0               0               0                0             0              0               0              0               0                0                11
+7:35 AM        0              3                6           0            0               0               0                0             0              0               0              0               0                0                9
+7:40 AM        0              8                6           1            0               0               0                0             0              0               0              0               0                0                15
+7:45 AM        0              4                3           1            0               0               0                0             0              0               0              0               0                0                8
+7:50 AM        0              4                8           0            0               0               0                0             0              0               0              0               0                0                12
+7:55 AM        0              2                2           0            0               0               0                0             0              0               0              0               0                0                4
+8:00 AM        0              1                3           0            1               0               0                0             0              0               0              0               0                0                5
+8:05 AM        0              2                2           1            0               0               0                0             0              0               0              0               0                0                5
+8:10 AM        0              3                7           0            0               0               0                0             0              0               0              0               0                0                10
+8:15 AM        0              1                8           0            0               0               0                0             0              0               0              0               0                0                9
+8:20 AM        0              4                4           0            0               0               0                0             0              0               0              0               0                0                8
+8:25 AM        0              3                7           0            0               0               0                0             0              0               0              0               0                0                10
+8:30 AM        0              4                3           0            0               0               0                0             0              0               0              0               0                0                7
+8:35 AM        1              5               11           0            0               0               0                0             0              0               0              0               0                0                17
+8:40 AM        0              3               10           0            0               0               0                0             0              0               0              0               0                0                13
+8:45 AM        0              8               10           0            0               0               0                0             0              0               0              0               0                0                18
+8:50 AM        0              3                7           0            0               0               0                0             0              0               0              0               0                0                10
+8:55 AM        0              2                3           0            0               0               0                0             0              0               0              0               0                0                5
+Total          1              80              140          3            1               0               0                0             0              0               0              0               0                0
+                                                                                                                                                                                                                                     225
+ %          0.44%          35.56%           62.22%      1.33%        0.44%           0.00%           0.00%            0.00%         0.00%          0.00%           0.00%          0.00%           0.00%            0.00%
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14
+                                                                                                     10690702 - Empire St & 18th St.xlsx                                                                                                          SBR
+
+                                                                                          Date Counted: 11/1/11
+                                                                                   Location/Intersection: 18th St & Empire St
+                                                                                     Direction Counted: Southbound Right
+
+          16285 SW 85th Ave, Ste 302
+              Tigard, OR 97224
+               Ph:503-620-4242
+
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14
+          Motorcycles   Cars & Trailers   2 Axle Long   Buses     2 Axle 6 Tire   3 Axle Single   4 Axle Single   <5 Axle Double 5 Axle Double >6 Axle Double   <6 Axle Multi   6 Axle Multi   >6 Axle Multi   Low Boy Trailer   Interval Total
+7:00 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+7:05 AM        0              1                2           0            0               0               0                0             0              0               0              0               0                0                3
+7:10 AM        0              1                2           0            0               0               0                0             0              0               0              0               0                0                3
+7:15 AM        0              3                2           0            0               0               0                0             0              0               0              0               0                0                5
+7:20 AM        0              5                3           0            0               0               0                0             0              0               0              0               0                0                8
+7:25 AM        0              4                5           0            0               0               0                0             0              0               0              0               0                0                9
+7:30 AM        0              4                9           1            0               0               0                0             0              0               0              0               0                0                14
+7:35 AM        0              3                8           0            0               0               0                0             0              0               0              0               0                0                11
+7:40 AM        0              4               14           0            0               0               0                0             0              0               0              0               0                0                18
+7:45 AM        0              0                5           0            0               0               0                0             0              0               0              0               0                0                5
+7:50 AM        0              2                3           0            0               0               0                0             0              0               0              0               0                0                5
+7:55 AM        0              2                1           0            0               0               0                0             0              0               0              0               0                0                3
+8:00 AM        0              3                1           0            0               0               0                0             0              0               0              0               0                0                4
+8:05 AM        0              0                4           0            1               0               0                0             0              0               0              0               0                0                5
+8:10 AM        0              0                3           0            0               0               0                0             0              0               0              0               0                0                3
+8:15 AM        0              1                5           0            0               0               0                0             0              0               0              0               0                0                6
+8:20 AM        0              2                1           0            0               0               0                0             0              0               0              0               0                0                3
+8:25 AM        0              1                4           0            0               0               0                0             0              0               0              0               0                0                5
+8:30 AM        0              1                3           1            1               0               0                0             0              0               0              0               0                0                6
+8:35 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+8:40 AM        0              1                4           2            0               0               0                0             0              0               0              0               0                0                7
+8:45 AM        0              1                7           1            0               0               1                0             0              0               0              0               0                0                10
+8:50 AM        0              2                3           0            0               0               0                1             0              0               0              0               0                0                6
+8:55 AM        0              1                3           0            0               0               0                0             0              0               0              0               0                0                4
+Total          0              42              94           5            2               0               1                1             0              0               0              0               0                0
+                                                                                                                                                                                                                                     145
+ %          0.00%          28.97%           64.83%      3.45%        1.38%           0.00%           0.69%            0.69%         0.00%          0.00%           0.00%          0.00%           0.00%            0.00%
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14
+                                                                                                     10690702 - Empire St & 18th St.xlsx                                                                                                          NBT
+
+                                                                                          Date Counted: 11/1/11
+                                                                                   Location/Intersection: 18th St & Empire St
+                                                                                     Direction Counted: Northbound Thru
+
+          16285 SW 85th Ave, Ste 302
+              Tigard, OR 97224
+               Ph:503-620-4242
+
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14
+          Motorcycles   Cars & Trailers   2 Axle Long   Buses     2 Axle 6 Tire   3 Axle Single   4 Axle Single   <5 Axle Double 5 Axle Double >6 Axle Double   <6 Axle Multi   6 Axle Multi   >6 Axle Multi   Low Boy Trailer   Interval Total
+7:00 AM        0              0                2           0            0               0               0                0             0              0               0              0               0                0                2
+7:05 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+7:10 AM        0              0                1           1            0               0               0                0             0              0               0              0               0                0                2
+7:15 AM        0              0                1           1            0               0               0                0             0              0               0              0               0                0                2
+7:20 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+7:25 AM        0              1                0           0            0               0               0                0             0              0               0              0               0                0                1
+7:30 AM        0              3                1           0            0               0               0                0             0              0               0              0               0                0                4
+7:35 AM        0              2                1           0            0               0               0                0             0              0               0              0               0                0                3
+7:40 AM        0              0                2           0            1               0               0                0             0              0               0              0               0                0                3
+7:45 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+7:50 AM        0              1                0           0            0               0               0                0             0              0               0              0               0                0                1
+7:55 AM        0              2                1           0            0               0               0                0             0              0               0              0               0                0                3
+8:00 AM        0              1                0           0            0               0               0                0             0              0               0              0               0                0                1
+8:05 AM        0              0                3           0            0               0               0                0             0              0               0              0               0                0                3
+8:10 AM        0              0                2           0            0               0               0                0             0              0               0              0               0                0                2
+8:15 AM        0              1                2           0            0               0               0                0             0              0               0              0               0                0                3
+8:20 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+8:25 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+8:30 AM        0              1                1           0            0               0               0                0             0              0               0              0               0                0                2
+8:35 AM        0              1                2           0            0               0               0                0             0              0               0              0               0                0                3
+8:40 AM        0              1                2           0            0               0               0                0             0              0               0              0               0                0                3
+8:45 AM        0              0                1           0            1               0               0                0             0              0               0              0               0                0                2
+8:50 AM        0              1                0           0            0               0               0                0             0              0               0              0               0                0                1
+8:55 AM        0              1                2           0            0               0               0                0             0              0               0              0               0                0                3
+Total          0              16              27           2            2               0               0                0             0              0               0              0               0                0
+                                                                                                                                                                                                                                      47
+ %          0.00%          34.04%           57.45%      4.26%        4.26%           0.00%           0.00%            0.00%         0.00%          0.00%           0.00%          0.00%           0.00%            0.00%
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14
+                                                                                                     10690702 - Empire St & 18th St.xlsx                                                                                                          NBL
+
+                                                                                          Date Counted: 11/1/11
+                                                                                   Location/Intersection: 18th St & Empire St
+                                                                                     Direction Counted: Northbound Left
+
+          16285 SW 85th Ave, Ste 302
+              Tigard, OR 97224
+               Ph:503-620-4242
+
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14
+          Motorcycles   Cars & Trailers   2 Axle Long   Buses     2 Axle 6 Tire   3 Axle Single   4 Axle Single   <5 Axle Double 5 Axle Double >6 Axle Double   <6 Axle Multi   6 Axle Multi   >6 Axle Multi   Low Boy Trailer   Interval Total
+7:00 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+7:05 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+7:10 AM        0               0               0           0            0               0               0                0             0              2               0              0               0                0                2
+7:15 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+7:20 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+7:25 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+7:30 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+7:35 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+7:40 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+7:45 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+7:50 AM        0               0               1           0            0               0               0                0             0              0               0              0               0                0                1
+7:55 AM        0               0               1           0            0               0               0                0             0              0               0              0               0                0                1
+8:00 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+8:05 AM        0               0               1           0            0               0               0                0             0              0               0              0               0                0                1
+8:10 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+8:15 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+8:20 AM        0               0               1           0            0               0               0                0             0              0               0              0               0                0                1
+8:25 AM        0               0               2           0            0               0               0                0             0              0               0              0               0                0                2
+8:30 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+8:35 AM        0               1               2           0            0               0               0                0             0              0               0              0               0                0                3
+8:40 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+8:45 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+8:50 AM        0               0               0           0            0               0               0                0             0              0               0              0               0                0                0
+8:55 AM        0               0               1           0            0               0               0                0             0              0               0              0               0                0                1
+Total          0               1               9           0            0               0               0                0             0              2               0              0               0                0
+                                                                                                                                                                                                                                      12
+ %          0.00%           8.33%           75.00%      0.00%        0.00%           0.00%           0.00%            0.00%         0.00%         16.67%           0.00%          0.00%           0.00%            0.00%
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14
+                                                                                                     10690702 - Empire St & 18th St.xlsx                                                                                                          NBR
+
+                                                                                          Date Counted: 11/1/11
+                                                                                   Location/Intersection: 18th St & Empire St
+                                                                                     Direction Counted: Northbound Right
+
+          16285 SW 85th Ave, Ste 302
+              Tigard, OR 97224
+               Ph:503-620-4242
+
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14
+          Motorcycles   Cars & Trailers   2 Axle Long   Buses     2 Axle 6 Tire   3 Axle Single   4 Axle Single   <5 Axle Double 5 Axle Double >6 Axle Double   <6 Axle Multi   6 Axle Multi   >6 Axle Multi   Low Boy Trailer   Interval Total
+7:00 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+7:05 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+7:10 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+7:15 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+7:20 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+7:25 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+7:30 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+7:35 AM        0              1                0           0            0               0               0                0             0              0               0              0               0                0                1
+7:40 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+7:45 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+7:50 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+7:55 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+8:00 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+8:05 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+8:10 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+8:15 AM        0              0                0           0            1               0               0                0             0              0               0              0               0                0                1
+8:20 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+8:25 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+8:30 AM        0              1                0           0            0               0               0                0             0              0               0              0               0                0                1
+8:35 AM        0              1                0           0            0               0               0                0             0              0               0              0               0                0                1
+8:40 AM        0              0                1           0            0               0               0                0             0              0               0              0               0                0                1
+8:45 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+8:50 AM        0              0                2           0            0               0               0                0             0              0               0              0               0                0                2
+8:55 AM        0              0                0           0            0               0               0                0             0              0               0              0               0                0                0
+Total          0              3                8           0            1               0               0                0             0              0               0              0               0                0
+                                                                                                                                                                                                                                      12
+ %          0.00%          25.00%           66.67%      0.00%        8.33%           0.00%           0.00%            0.00%         0.00%          0.00%           0.00%          0.00%           0.00%            0.00%
+           Class 1         Class 2          Class 3     Class 4     Class 5          Class 6         Class 7         Class 8        Class 9       Class 10        Class 11       Class 12        Class 13         Class 14

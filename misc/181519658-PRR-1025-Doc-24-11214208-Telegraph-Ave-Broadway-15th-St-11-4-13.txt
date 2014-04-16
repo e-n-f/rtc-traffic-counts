@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                        Method for determining peak hour: Total Entering Volume
+ LOCATION: Telegraph Ave/Broadway -- 15th St                                                                              QC JOB #: 11214208
+ CITY/STATE: Oakland, CA                                                                                                  DATE: Tue, Sep 10 2013
+                    430          416                        Peak-Hour: 7:55 AM -- 8:55 AM                                  10.5        13.5
+
+                     0    430     0
+                                                           Peak 15-Min: 8:40 AM -- 8:55 AM
+                                                                                                                           0.0 10.5 0.0
+
+
+       0     0                         54    54
+                                                                                                              0.0   0.0                        5.6       5.6
+             0            0.91          0
+                                                                                                                    0.0                        0.0
+       0     0                          0    0
+                                                                                                              0.0   0.0                        0.0       0.0
+
+                     0    362     0
+                                                                                                                           0.0 14.6 0.0
+
+                    430          362
+                                                                                                                           10.5        14.6
+
+
+
+                           0                                                                                                0     63    1
+
+
+
+                                                                                                                    0                            1
+
+             6                         115                                                                          0                            0
+
+                                                                                                                    0                            0
+
+                           95                                                                                               0     8     0
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+
+             NA                        NA                                                                           NA                         NA
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+ 5-Min Count       Telegraph Ave/Broadway          Telegraph Ave/Broadway            15th St                     15th St                      Total       Hourly
+     Period             (Northbound)                    (Southbound)               (Eastbound)                 (Westbound)                                Totals
+ Beginning At     Left Thru Right      U          Left Thru Right      U    Left   Thru Right      U   Left    Thru Right    U
+     7:00 AM        0    16      0     0            0     14      0     0    0       0       0     0    0        0       4   0                 34
+     7:05 AM        0    22      0     0            0     12      0     0    0       0       0     0    0        0       2   0                 36
+     7:10 AM        0    15      0     0            0     20      0     0    0       0       0     0    0        0       2   0                 37
+     7:15 AM        0    17      0     0            0     22      0     0    0       0       0     0    0        0       8   0                 47
+     7:20 AM        0    23      0     0            0     18      0     0    0       0       0     0    0        0       1   0                 42
+     7:25 AM        0    20      0     0            0     20      0     0    0       0       0     0    0        0       5   0                 45
+     7:30 AM        0    19      0     0            0     22      0     0    0       0       0     0    0        0       1   0                 42
+     7:35 AM        0    23      0     0            0     29      0     0    0       0       0     0    0        0       2   0                 54
+     7:40 AM        0    15      0     0            0     22      0     0    0       0       0     0    0        0       2   0                 39
+     7:45 AM        0    19      0     0            0     36      0     0    0       0       0     0    0        0       8   0                 63
+     7:50 AM        0    24      0     0            0     27      0     0    0       0       0     0    0        0       7   0                 58
+     7:55 AM        0    42      0     0            0     37      0     0    0       0       0     0    0        0       3   0                 82              579
+     8:00 AM        0    25      0     0            0     29      0     0    0       0       0     0    0        0       4   0                 58              603
+     8:05 AM        0    31      0     0            0     30      0     0    0       0       0     0    0        0       5   0                 66              633
+     8:10 AM        0    22      0     0            0     31      0     0    0       0       0     0    0        0     10    0                 63              659
+     8:15 AM        0    25      0     0            0     30      0     0    0       0       0     0    0        0       0   0                 55              667
+     8:20 AM        0    36      0     0            0     39      0     0    0       0       0     0    0        0       6   0                 81              706
+     8:25 AM        0    24      0     0            0     31      0     0    0       0       0     0    0        0       4   0                 59              720
+     8:30 AM        0    28      0     0            0     50      0     0    0       0       0     0    0        0       4   0                 82              760
+     8:35 AM        0    30      0     0            0     33      0     0    0       0       0     0    0        0       5   0                 68              774
+     8:40 AM        0    31      0     0            0     41      0     0    0       0       0     0    0        0       5   0                 77              812
+     8:45 AM        0    31      0     0            0     38      0     0    0       0       0     0    0        0       3   0                 72              821
+     8:50 AM        0    37      0     0            0     41      0     0    0       0       0     0    0        0       5   0                 83              846
+     8:55 AM        0    28      0     0            0     28      0     0    0       0       0     0    0        0       7   0                 63              827
+ Peak 15-Min                Northbound                       Southbound                Eastbound                   Westbound
+   Flowrates      Left Thru Right      U          Left Thru Right      U    Left   Thru Right      U   Left    Thru Right    U                        Total
+  All Vehicles      0   396      0     0            0    480      0     0    0       0       0     0    0        0     52    0                        928
+ Heavy Trucks       0    48      0                  0     72      0          0       0       0          0        0       4                            124
+  Pedestrians            56                                0                         0                         140                                    196
+    Bicycles        0     0      0                  1     18      0          0       0       0          0        0       0                             19
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 9/18/2013 12:44 PM                                 SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

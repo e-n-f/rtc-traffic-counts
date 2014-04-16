@@ -1,0 +1,81 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Yates Store Rd -- Ashdown Forest Ln                                                                                    QC JOB #: 10956009
+ CITY/STATE: Cary, NC                                                                                                             DATE: Thu, May 09 2013
+                         71           176                            Peak-Hour: 7:45 AM -- 8:45 AM
+                               0.78                                                                                                14.1        1.1
+
+                         20     51     0
+                                                                    Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                                   20.0 11.8 0.0
+
+
+       22      38                            0        0
+                                                                                                                     18.2   0.0                       0.0       0.0
+        0.85   0               0.83          0   0.00
+                                                                                                                            0.0                       0.0
+       40      2                             0        0
+                                                                                                                     0.0    0.0                       0.0       0.0
+
+                           1   139     0
+                                                                                                                                   0.0 1.4 0.0
+
+                         53           140
+                               0.80                                                                                                11.3        1.4
+
+
+
+                                0                                                                                                   0     0    0
+
+
+
+                                                                                                                            0                           0
+
+               1                             0                                                                              0                           0
+
+                                                                                                                            0                           0
+
+                                0                                                                                                   0     0    0
+
+
+
+
+                               NA                                                                                                         NA
+
+
+
+
+               NA                           NA                                                                              NA                        NA
+
+
+
+
+                               NA                                                                                                         NA
+
+
+
+ 15-Min Count            Yates Store Rd                        Yates Store Rd           Ashdown Forest Ln         Ashdown Forest Ln                  Total       Hourly
+    Period                (Northbound)                          (Southbound)               (Eastbound)              (Westbound)                                  Totals
+ Beginning At       Left Thru Right               U       Left Thru Right       U   Left Thru Right      U    Left Thru Right      U
+    7:00 AM          0     20      0              0        0      10     2      0     2      0     0     0     0      0     0      0                  34
+    7:15 AM          1     23      0              0        0      10     2      0     3      0     0     0     0      0     0      0                  39
+    7:30 AM          0     33      0              0        0       9     1      0     9      0     1     0     0      0     0      0                  53
+    7:45 AM          0     32      0              0        0      12     6      0    11      0     1     0     0      0     0      0                  62              188
+    8:00 AM          1     32      0              0        0      15     3      0    10      0     0     0     0      0     0      0                  61              215
+    8:15 AM          0     31      0              0        0       7     5      0     8      0     1     0     0      0     0      0                  52              228
+    8:30 AM          0     44      0              0        0      17     6      0     8      0     0     1     0      0     0      0                  76              251
+    8:45 AM          0     25      0              0        0      16     3      0     5      0     0     0     0      0     0      0                  49              238
+
+
+
+
+ Peak 15-Min                       Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                        Total
+  All Vehicles       0         176      0     0            0      68     24     0    32      0      0    4     0        0     0     0                        304
+ Heavy Trucks        0           4      0                  0       4      4           0      0      0          0        0     0                               12
+  Pedestrians                    0                                 0                         0                          0                                      0
+    Bicycles         0           0      0                  0       0      0          0       0      0          0        0     0                                0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/18/2013 10:15 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

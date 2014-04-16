@@ -1,0 +1,80 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Green Level Church Rd -- Okelly Chapel Rd                                                                            QC JOB #: 10852922
+ CITY/STATE: Cary, NC                                                                                                           DATE: Wed, Nov 28 2012
+                    249            66                           Peak-Hour: 5:00 PM -- 6:00 PM                                    0.8        1.5
+
+                    100 122 27
+                                                               Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                 1.0 0.0 3.7
+
+
+       383   19                           25   575
+                                                                                                                    1.6   0.0                      0.0       1.0
+             265            0.83         244
+                                                                                                                          6.4                      2.0
+       415   131                         306   363
+                                                                                                                    4.3   0.8                      0.3       6.1
+
+                       39    22    71
+                                                                                                                                 0.0 4.5 5.6
+
+                    559            132
+                                                                                                                                 0.4        3.8
+
+
+
+                             0                                                                                                    0    0    0
+
+
+
+                                                                                                                          0                          0
+
+             0                             0                                                                              0                          0
+
+                                                                                                                          0                          0
+
+                             0                                                                                                    0    0    0
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+
+             NA                          NA                                                                               NA                       NA
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+ 15-Min Count       Green Level Church Rd              Green Level Church Rd          Okelly Chapel Rd              Okelly Chapel Rd              Total       Hourly
+    Period              (Northbound)                       (Southbound)                 (Eastbound)                  (Westbound)                              Totals
+ Beginning At     Left Thru Right      U             Left Thru Right      U    Left     Thru Right       U   Left     Thru Right       U
+    4:00 PM         9      5     12     0             14     25     11     0    6        52     16       0    34       38      7       0          229
+    4:15 PM         8      5     17     0              2     13     19     0    4        50      8       0    28       41      6       0          201
+    4:30 PM         8      7     10     0              6     16     12     0    8        59     22       0    33       53      5       1          240
+    4:45 PM        14      8     12     0              7     32     14     0    4        55     21       0    47       48      6       0          268              938
+    5:00 PM        10      3     24     0              7     37     17     0    2        59     27       0    61       54      5       0          306             1015
+    5:15 PM        11      3     17     0              6     22     10     0    4        75     36       0    76       52      8       0          320             1134
+    5:30 PM        11      8     21     0             10     37     47     0    8        68     30       0    88       75      8       0          411             1305
+    5:45 PM         7      8      9     0              4     26     26     0    5        63     38       0    81       63      4       0          334             1371
+
+
+
+
+ Peak 15-Min                    Northbound                      Southbound                  Eastbound                     Westbound
+   Flowrates      Left      Thru Right     U         Left   Thru Right    U    Left     Thru Right    U      Left     Thru Right    U                     Total
+  All Vehicles     44        32     84     0          40    148    188     0    32      272   120     0      352      300    32     0                     1644
+ Heavy Trucks       0         4      4                 0      0      0           0        8      0             4        0     0                            20
+  Pedestrians                 0                               0                           0                             0                                   0
+    Bicycles       0          0      0                0       0      0          0         0      0             0        0     0                             0
+   Railroad
+Stopped Buses
+ Comments: Offset Intersection
+Report generated on 12/10/2012 9:42 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
