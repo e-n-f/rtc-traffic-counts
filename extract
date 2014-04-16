@@ -282,6 +282,8 @@ while (<>) {
 		my $date;
 		if (/([A-Z][a-z]+, [A-Z][a-z]+ \d+, \d+)/) {
 			$date = $1;
+		} elsif (/(\d+)\/(\d+)\/(\d+)/) {
+			$date = $1;
 		} else {
 			print STDERR "$fname: expected date, not $_";
 			next PAGE;
@@ -317,7 +319,12 @@ while (<>) {
 				if ($#fields == 23) {
 					my ($x, $x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
 					print "$fname,$street,x,$date,$time,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bn,$be,$bs,$bw,";
-					print ",\n";
+
+					if ($fname =~ /rtc\/([0-9]+)\//) {
+						print "$lat{$1},$lon{$1}\n";
+					} else {
+						print ",\n";
+					}
 				}
 			}
 		}
