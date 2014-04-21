@@ -294,6 +294,7 @@ while (<>) {
 		$date =~ s/,/ /g;
 
 		my $minutes = 0;
+		my $form = 0;
 		while (<>) {
 			last if /Rolling Hour/;
 
@@ -303,6 +304,18 @@ while (<>) {
 
 			if (/^\s*(\d+)-Minute Interval Summary/) {
 				$minutes = $1;
+				# print "Got minutes $minutes\n";
+			}
+
+			if (/^\s*Time/) {
+				if (/Time  *L  *T  *R  *Bikes  *L  *T  *R  *Bikes  *L  *T  *R  *Bikes  *L  *T  *R  *Bikes  *Total  *North  *South  *East  *West/) {
+					$form = 1;
+				} elsif (/Time  *L  *T  *R  *HV  *L  *T  *R  *HV  *L  *T  *R  *HV  *L  *T  *R  *HV  *Total  *North  *South  *East  *West/) {
+					$form = 2;
+				} else {
+					print STDERR "$fname: Wrong column order $_\n";
+					last;
+				}
 			}
 
 			if (/^\s*(\d+):(\d+) (.M)?/ && $minutes != 0) {
@@ -318,6 +331,11 @@ while (<>) {
 
 				if ($#fields == 23 && $m ne "") {
 					my ($x, $x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
+
+					if ($form != 1) {
+						$bw = $be = $bn = $bs = "";
+					}
+
 					print "$fname,$street,x,$date,$time,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bn,$be,$bs,$bw,";
 
 					if ($fname =~ /rtc\/([0-9]+)\//) {
@@ -327,6 +345,11 @@ while (<>) {
 					}
 				} elsif ($#fields == 22 && $m eq "") {
 					my ($x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
+
+					if ($form != 1) {
+						$bw = $be = $bn = $bs = "";
+					}
+
 					print "$fname,$street,x,$date,$time,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bn,$be,$bs,$bw,";
 
 					if ($fname =~ /rtc\/([0-9]+)\//) {
