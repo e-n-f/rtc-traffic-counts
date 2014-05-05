@@ -1,0 +1,2965 @@
+      SCORE Jail Project
+  Traffic Impact Analysis
+
+
+
+
+                       May 2009
+
+
+
+
+                       Prepared for:
+
+DLR Group and City of Des Moines
+
+                        Prepared by:
+
+                    Fehr & Peers
+South Correctional Entity (SCORE) Project
+     Traffic Impact Analysis Report
+                      Prepared for:
+
+           DLR Group and City of Des Moines
+
+
+
+
+                      Prepared by:
+
+
+
+
+                     Fehr & Peers
+              11410 NE 122nd Way, Suite 320
+             Kirkland, Washington 98034-6927
+                       (425) 820-0100
+
+
+
+                       May 2009
+SCORE Jail Project Traffic Impact Analysis
+
+
+                                                            Table of Contents
+Executive Summary ...................................................................................................................................... 1
+
+1. Introduction ............................................................................................................................................... 2
+
+2. Existing Conditions ................................................................................................................................... 6
+
+3. Future BaseLine Traffic Conditions ........................................................................................................ 11
+
+4. Project Traffic Conditions........................................................................................................................ 15
+
+5. Future 2015 With Project Traffic ............................................................................................................. 21
+
+6. Transit, Bicycle, And Pedestrian Systems ­ Project Impacts ................................................................. 24
+
+7. Mitigation Actions.................................................................................................................................... 25
+
+8. Parking Analysis ..................................................................................................................................... 26
+
+
+
+                                                               List of Figures
+Figure 1.           Study Area............................................................................................................................... 3
+Figure 2.           Lane Configurations ­ Existing Conditions ............................................................................. 7
+Figure 3.           PM Peak Hour Volumes ­ Existing ......................................................................................... 8
+Figure 4.           PM Peak Hour Intersection LOS ­ Existing .......................................................................... 10
+Figure 5.           PM Peak Hour Volumes ­ 2015 Base .................................................................................. 12
+Figure 6.           2015 Base PM Peak Hour Intersection LOS......................................................................... 14
+Figure 7.           Proposed Project Trip Distribution ­ Entering Study Area.................................................... 19
+Figure 8.           Proposed Project Trip Distribution ­ Exiting Study Area ...................................................... 20
+Figure 9.           PM Peak Hour Volumes ­ 2015 with Project ........................................................................ 22
+Figure 10.          PM Peak Hour Intersection LOS ­ 2015 with Project ........................................................... 23
+
+
+                                                                List of Tables
+Table 1.            Level of Service Definition....................................................................................................... 4
+Table 2.            Existing PM peak Hour LOS and Delay .................................................................................. 9
+Table 3.            2015 Base PM Peak Hour LOS and Delay ........................................................................... 13
+Table 4.            Comparison of ITE and Regional Jail Trip Generation Rates............................................... 17
+Table 5.            Proposed Project Trip Generation ........................................................................................ 18
+Table 6.            Future Year 2015 with Project PM Peak Hour LOS and Delay ............................................ 21
+Table 7.            Future Year 2015 with Project PM Peak Hour LOS and Delay ­ With Mitigation................. 25
+
+
+
+
+                                                                                                                                                   May 2009
+                                                                                                                                                                i
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+EXECUTIVE SUMMARY
+
+PROJECT DESCRIPTION
+   The proposed project will build a new freestanding jail facility south of South 208th Street in the City of
+   Des Moines, Washington. The project will add 830 beds and a small administrative office. The facility,
+   operated by an organization known as the South Correctional Entity (SCORE), will serve the following
+   seven cities in south King County: Auburn, Burien, Des Moines, Federal Way, Renton, SeaTac, and
+   Tukwila. The facility will be constructed in two phases, with the first phase open in 2011 and the
+   second phase by 2015. For this study 2015 is the analysis year. Although 126 employees would be
+   employed, 100 employees are expected to be working at the site during any given weekday:
+
+       ·   A total of 80 correctional officers would work with two 12-hour shifts
+
+       ·   An additional 20 administrative staff would work 8-hour days
+
+   Four intersections within the City of SeaTac were analyzed as part of this study: South 200th
+   Street/Des Moines Memorial Drive
+
+       ·   South 200th Street/18th Avenue South
+
+       ·   South 200th Street/26th Avenue South
+
+       ·   South 200th Street/International Boulevard
+
+EXISTING CONDITIONS
+   Currently (2009), three of these signalized intersections operate at an acceptable level of service
+   (LOS) standard as adopted by the City of SeaTac. The unsignalized intersection, South 200th
+   Street/18th Avenue South, operates at LOS F (the southbound left turn movement) during the PM peak
+   hour.
+
+PROJECT INTERSECTION IMPACTS
+   Our analysis shows that all study intersections would operate at the same LOS as the 2009 existing
+   conditions. No intersection impacts are created with the addition of project-related traffic.
+
+TRANSIT, BICYCLE, AND PEDESTRIAN SYSTEM ­ PROJECT IMPACTS
+   No impacts were found to the transit, bicycle, and pedestrian systems in the project vicinity.
+
+
+
+
+                                                                                                    May 2009
+                                                                                                            1
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+1. INTRODUCTION
+   This report documents the results of a study evaluating potential traffic impacts for the jail facility
+   proposed by the South Correctional Entity (SCORE). This chapter describes the project, the study
+   area, and the analysis methodology.
+
+PROJECT DESCRIPTION
+   SCORE has proposed construction of a new jail facility to be located within the City of Des Moines,
+   just south of the northern city boundary with the City of SeaTac. SCORE is an entity created to serve
+   the following seven cities in south King County: Auburn, Burien, Des Monies, Federal Way, Renton,
+   SeaTac, and Tukwila. The proposed project would accept misdemeanor prisoners serving sentences
+   for crimes with maximum sentence of one year.
+   The proposed facility includes 830 beds and an administrative office in a free-standing building. Access to
+   the facility will be through the existing driveway in the alignment of 18th Avenue South from South 200th
+   Street. Figure 1 illustrates the location of the proposed SCORE Jail Facility site in relation to the
+   surrounding street system. The project site is located about a half mile west of International Boulevard
+   (SR 99), less than one mile west of I-5, approximately a half mile east of Des Moines Memorial Drive, and
+   about one mile south of the SeaTac Airport. The existing site is a wooded area owned by the Port of
+   Seattle.
+
+STUDY AREA
+   The study analyzed the potential project-generated traffic impacts on the streets surrounding and
+   serving the project. The projected completion year is estimated to be 2015 for Phases I and II. The
+   cities of SeaTac and Des Moines decided that the traffic impact analysis should be carried out for the
+   2015 planning horizon. The impact analysis examined the future conditions both with and without the
+   proposed project. The existing condition with the proposed project was also examined. Three traffic
+   scenarios were analyzed:
+
+       ·   Existing Conditions (2009) ­ The analysis of existing traffic conditions provided a basis for the
+           remainder of the study. The existing conditions analysis included an assessment of streets,
+           traffic volumes, operating conditions, and transit services.
+
+       ·   Base Conditions (No Project 2015) ­ This scenario projects the future traffic growth and
+           operating conditions expected from regional growth and related projects in the vicinity of the
+           project site, without consideration of the proposed project.
+
+       ·   Base plus Project Conditions (2015) ­ The objective of this scenario was to identify the traffic
+           impacts of the proposed project on future traffic operating conditions. The project traffic was
+           added to the base traffic forecast.
+   The study analyzed the traffic impacts along the major roads in the vicinity of the project site and included
+   peak hour street segment and intersection level of service analyses at four locations (see Figure 1):
+
+       ·   South 200th Street/Des Moines Memorial Drive
+
+       ·   South 200th Street/18th Avenue South
+
+       ·   South 200th Street/26th Avenue South
+
+       ·   South 200th Street/International Boulevard
+                                                                                                     May 2009
+                                                                                                             2
+                                                                                                                                                     Angle Lake
+
+
+
+
+                                                                                                                            eS
+                                                                                                                          Av
+                                                                                                                     th
+                                                                                                                   26
+
+
+                                                    !
+                                                    1
+                                                                            !         2
+                                                                                                  S 200th St
+                                                                                                               !
+                                                                                                               3
+                                                                                                                                             !   4
+                         Des Moines Memorial Dr S
+
+
+
+
+                                                                         18th Ave S
+
+
+
+
+                                                                                                                                      Blvd   l
+                                                                                                                                 Internationa
+  LEGEND
+                                                        S 208th St
+
+     !1     Study Intersection
+                                                                                              S 208th St
+                                                                                                                                                     §
+                                                                                                                                                     ¨
+                                                                                                                                                     ¦5
+
+            Project Site
+
+
+
+
+                 N
+                                                                                          S 212th St
+          NOT TO SCALE
+
+
+
+
+                                                                                                                                                          STUDY AREA
+N:\Projects\SE09-0145_SCORE jail\Graphics\GIS\MXD\fig01_study_area.mxd
+                                                                                                                                                                  FIGURE 1
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+ANALYSIS METHODOLOGY
+   This section discusses the methodology used to analyze traffic operations with the proposed facility.
+   Key input and assumptions, LOS definitions, LOS criteria for roadways and intersections, and
+   evaluation criteria are described.
+   Key Inputs and Assumptions
+   The key inputs and assumptions used in the traffic analysis include:
+
+       ·   The PM peak hour was established based on the traffic characteristics of operating conditions
+           on South 200th Street. Because PM peak hour traffic levels are higher than the AM peak hour,
+           the study did not include the AM peak hour analysis.
+
+       ·   The trip distribution for this facility was similar to the trip distribution of the travel demand
+           model used for the City of Des Moines Transportation Plan update.
+
+       ·   The cities of SeaTac and Des Moines would accept the use of the traffic operations analysis
+           for study intersections using the procedures and methodologies contained in the Highway
+           Capacity Manual (HCM 2000) (Transportation Research Board, 2000).
+
+       ·   The traffic on South 200th Street without the project would grow at a rate of one percent per
+           year from 2009 to 2015. A traffic model was not used to project traffic growth.
+   Level of Service Definitions
+   Level of service (LOS) is a qualitative measure used to describe the condition of traffic flow, ranging
+   from excellent conditions at LOS A to overloaded conditions at LOS F. Since the four study
+   intersections are located in the City of SeaTac, the SeaTac standard of LOS E along South 200th
+   Street was applied in this study as the minimum acceptable LOS. The City of SeaTac Transportation
+   Element of the City's Comprehensive Plan exempts applications from the LOS E policy for the South
+   200th Street/International Boulevard intersection. Level of service definition based on intersection
+   average delay per vehicle in seconds is shown in Table 1.
+
+
+Table 1. Level of Service Definition
+     Type Of
+                        A              B                 C                  D                  E                F
+   Intersection
+ Signalized (sec)      < 10    > 10 and < 20      > 20 and < 35      > 35 and < 55      > 55 and < 80          > 80
+ Control
+ Stop Sign Control     < 10    > 10 and < 15      > 15 and < 25      > 25 and < 35      > 35 and < 50          > 50
+ (sec)
+Source: Highway Capacity Manual 2000
+
+
+
+
+                                                                                                        May 2009
+                                                                                                                 4
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+   Intersection Analysis Methodology
+   Three of the analyzed intersections ­ South 200th Street/Des Moines Memorial Drive, South 200th
+   Street/26th Avenue South and South 200th Street/International Boulevard ­ are controlled by traffic
+   signals. The other intersection ­ South 200th Street/18th Avenue South ­ is an unsignalized
+   intersection. For this study, both types of intersections were evaluated with Synchro (Version 6, Build
+   614) software. For the unsignalized intersections, the stop controlled movement delays (northbound
+   and southbound approaches at the 18th Avenue South/South 200th Street intersection) were reported
+   in this report.
+   The City of SeaTac has established LOS E as the minimum acceptable threshold for intersections on
+   South 200th Street. The City of SeaTac exempts applications of the LOS E policy at the South 200th
+   Street/International Boulevard intersection.
+   In addition to vehicular impacts, potential impacts of the project were briefly evaluated on transit,
+   bicycles, and pedestrians. Even though the proposed project is in a suburban area, no transit service
+   on South 200th Street is provided. Visitors or employees are unlikely to ride a bicycle or walk to and
+   from this facility. Therefore, we did not evaluate the project's effect on those modes.
+
+
+
+
+                                                                                                May 2009
+                                                                                                        5
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+2. EXISTING CONDITIONS
+   This chapter describes the existing street network in the project vicinity, including operations at the
+   study intersections and streets.
+
+EXISTING ROADWAY FACILITIES
+   Access to the proposed site is provided by the long driveway (18th Avenue South) that connects with
+   South 200th Street. All vehicles accessing the proposed site must use South 200th Street and enter
+   onto this driveway. South 200th Street is a major arterial connecting to International Boulevard (SR 99)
+   and I-5 and is classified as a Principal Arterial by the City of SeaTac. It is a two-lane roadway.
+   Diagrams of the existing lane configurations and traffic controls at the analyzed intersections are
+   shown in Figure 2.
+
+BICYCLE/PEDESTRIAN NETWORK
+   No existing or planned bicycle and pedestrian facilities are in the study area. Sidewalks are provided
+   on South 200th Street from 500 feet west of 26th Avenue South to International Boulevard and on 26th
+   Avenue South and International Boulevard.
+
+TRAFFIC DATA COLLECTION
+   Turning movement counts at three intersections ­ South 200th Street/Des Moines Memorial Drive,
+   South 200th Street/26th Avenue South and South 200th Street/International Boulevard ­ were collected
+   in May 2008. Turning movement counts at South 200th Street/18th Avenue South intersection were
+   collected on March 5, 2009. A one percent growth rate was applied to the 2008 counts to bring them
+   to 2009. Intersection counts include two hours of traffic volume from 4:00 to 6:00 PM. The peak hour
+   occurred from 4:15 to 5:15 PM. Existing weekday PM peak hour volumes at the study intersections are
+   illustrated in Figure 3 and the traffic count data sheets are provided in Appendix A. The counts
+   shown in Appendix A are 2008 raw counts. To be conservative, we balanced the counts for continuity
+   between the intersections along South 200th Street to correct for variations between the adjacent
+   intersections. Therefore, the 2009 volumes shown in Figure 3 are higher than the counts shown in
+   Appendix A.
+
+
+
+
+                                                                                                 May 2009
+                                                                                                         6
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+EXISTING INTERSECTION OPERATIONS
+    The existing weekday peak hour turning movement volumes shown in Figure 3 were used in conjunction
+    with the LOS methodologies described previously to determine existing operating conditions at each
+    study intersection. Detailed LOS calculation worksheets are included in Appendix B.
+    Table 2 summarizes the existing LOS at each of the analyzed intersections during the PM peak hour.
+    Three of the analyzed intersections currently operate at LOS E or better during the time period. The
+    southbound approach on 18th Avenue South at the unsignalized intersection of South 200th Street/18th
+    Avenue South operates at LOS F. At this location, the northbound approach operates at LOS B. The
+    2009 intersection LOS and delay are also illustrated in Figure 4.
+
+
+Table 2. Existing PM peak Hour LOS and Delay
+                                                                           2009
+                                                   Control
+ Int #                    Location                                             Intersection
+                                                    Type       Delay (sec)
+                                                                                   LOS
+
+   1      South 200th St & Des Moines Memorial     Signal         29.5               C
+          Drive
+
+                                                                  261.5       F (Southbound)
+                     th       th
+   2      South 200 St & 18 Ave South              TWSC*
+                                                                    0         A (Northbound)
+
+
+   3      South 200th St & 26th Ave South          Signal          7.4               A
+
+
+   4      South 200th St & SR 99                   Signal         67.2               E
+
+* TWSC is two-way stop controlled.
+
+
+
+
+                                                                                               May 2009
+                                                                                                      9
+                                                                                                                                               Angle Lake
+
+
+
+
+                                                                                                                        eS
+                                                                                                                      Av
+                                                                                                                 th
+                                                                                                               26
+
+
+
+                         !
+                       =
+                                                                       !
+                                                C
+
+
+
+                                                                                                         ! !
+
+                                                                       =
+                                                                            F
+
+
+
+
+                                                                                                         =
+                                               29.5
+
+
+
+
+                                                                                                                             =
+                                                                                            S 200th St
+                                                                                                          A                              E
+                                                                           262
+                                                                                                         7.4                            67.2
+                         Des Moines Memorial Dr S
+
+
+
+
+                                                                       18th Ave S
+
+
+
+
+                                                                                                                                  Blvd   l
+                                                                                                                             Internationa
+  LEGEND
+   Intersection Level of Service
+   and Average Delay
+                                                      S 208th St
+
+
+    !
+                     Level of
+
+    !
+   =
+
+
+
+
+              ;                                                                         S 208th St
+        C
+       32.6
+              ;      Service
+                     Average Vehicle
+                     Delay in Seconds
+                                                                                                                                               §
+                                                                                                                                               ¨
+                                                                                                                                               ¦5
+
+
+
+
+                     N
+                                                                                    S 212th St
+              NOT TO SCALE
+
+
+
+
+                                                                                                                                              PM PEAK HOUR
+                                                                                                                             INTERSECTION LEVEL OF SERVICE -
+                                                                                                                                                   EXISTING
+N:\Projects\SE09-0145_SCORE jail\Graphics\GIS\MXD\fig04_los_2009.mxd
+                                                                                                                                                            FIGURE 4
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+3. FUTURE BASELINE TRAFFIC CONDITIONS
+   This chapter describes the future traffic projections and operations at the study intersections and
+   streets.
+
+ROADWAY IMPROVEMENTS
+   No arterial roadway capacity improvements are planned for South 200th Street. The City of SeaTac
+   has a planned intersection improvement at the intersection of South 200th Street at Des Moines
+   Memorial Drive. The improvements include left turn pockets for all approaches, a right turn lane for the
+   east leg, and improvement of the signal in partnership with the City of Des Moines. Washington State
+   Department of Transportation (WSDOT) has planned improvements for SR 509 extending and
+   connecting it to I-5 by building new freeway lanes. This project is currently not funded. If the SR 509
+   project were to be completed in the future, the traffic demand on South 200th Street would be reduced.
+
+FUTURE BASE TRAFFIC PROJECTION
+   The forecasts of future traffic conditions without the proposed project reflect traffic increases due to
+   general regional growth in the project vicinity. These conditions are referred to as the base condition
+   (i.e., no project conditions). The base traffic projections include growth in the existing background
+   traffic volumes reflecting the effect of overall regional growth and development in and around the study
+   area, referred to as ambient growth.
+   A background annual traffic growth factor of 1.0 percent (for the six-year period from 2009 to 2015)
+   was applied to existing traffic volumes at each of the analyzed locations to represent the traffic growth
+   in the study area.
+   The base traffic volumes, representing future conditions without the project for year 2015, are
+   presented in Figure 5. These future projections take into account the estimated overall growth in the
+   surrounding area.
+
+
+
+
+                                                                                                  May 2009
+                                                                                                        11
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+FUTURE BASE INTERSECTION OPERATIONS
+    The projected future 2015 Base PM peak hour turning movements depicted in Figure 5 were used in
+    conjunction with the LOS methodologies described previously to determine the future operating
+    conditions at each study intersection without considering the SCORE project. Detailed LOS calculation
+    worksheets are included in Appendix B.
+    Table 3 summarizes the 2015 Base LOS at each of the analyzed intersections during the PM peak
+    hour. Three of the analyzed intersections would operate at LOS E or better during the analyzed time
+    period in 2015. The southbound approach at the unsignalized intersection, South 200th Street/18th
+    Avenue South, would continue to operate at LOS F in 2015, and the northbound approach would
+    operate at LOS B. The 2015 Base intersection LOS and delay are also illustrated in Figure 6. We
+    have included the level of service analysis reports in Appendix C.
+
+
+Table 3. 2015 Base PM Peak Hour LOS and Delay
+                                                                             2015 Base
+                                                     Control
+   Int #                       Location
+                                                      Type       Delay (sec)    Intersection LOS
+
+     1        South 200th St & Des Moines Memorial    Signal        38.3                 D
+              Drive
+                                                                    372.9        F (Southbound)
+     2        South 200th St & 18th Ave South        TWSC*
+                                                                      0          A (Northbound)
+                          th         th
+     3        South 200 St & 26 Ave South             Signal         7.6                 A
+
+     4        South 200th St & SR 99                  Signal        69.1**               E**
+
+* TWSC is two-way stop controlled.
+** The traffic signal split was optimized.
+
+
+
+
+                                                                                               May 2009
+                                                                                                      13
+                                                                                                                                               Angle Lake
+
+
+
+
+                                                                                                                        eS
+                                                                                                                      Av
+                                                                                                                 th
+                                                                                                               26
+
+
+
+                         !
+                       =
+                                                                       !
+                                                D
+
+
+
+                                                                                                         ! !
+
+                                                                       =
+                                                                            F
+
+
+
+
+                                                                                                         =
+                                               38.3
+
+
+
+
+                                                                                                                             =
+                                                                                            S 200th St
+                                                                                                          A                              E
+                                                                           373
+                                                                                                         7.6                            69.1
+                         Des Moines Memorial Dr S
+
+
+
+
+                                                                       18th Ave S
+
+
+
+
+                                                                                                                                  Blvd   l
+                                                                                                                             Internationa
+  LEGEND
+   Intersection Level of Service
+   and Average Delay
+                                                      S 208th St
+
+
+    !
+                     Level of
+
+    !
+   =
+
+
+
+
+             ;                                                                          S 208th St
+       C
+      32.6
+             ;       Service
+                     Average Vehicle
+                     Delay in Seconds
+                                                                                                                                               §
+                                                                                                                                               ¨
+                                                                                                                                               ¦5
+
+
+
+
+                     N
+                                                                                    S 212th St
+             NOT TO SCALE
+
+
+
+
+                                                                                                                                              PM PEAK HOUR
+                                                                                                                             INTERSECTION LEVEL OF SERVICE -
+                                                                                                                                                  2015 BASE
+N:\Projects\SE09-0145_SCORE jail\Graphics\GIS\MXD\fig06_los_2015.mxd
+                                                                                                                                                            FIGURE 6
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+4. PROJECT TRAFFIC CONDITIONS
+   This section develops the future traffic projections used to estimate the impact of the project. The
+   three-step process included estimating project trip generation, trip distribution, and trip assignment.
+
+TRIP GENERATION FACTORS
+   The proposed SCORE Jail Facility will operate considerably differently from a typical jail or prison
+   facility. The following describes the differences between the SCORE Jail Facility and a typical jail
+   facility described by the Regional Jail trip generation data.
+   Employee Traffic
+   The staffing model for the SCORE facility is 6 to 1 (inmates to staff). A traditional jail's staffing model,
+   based on the regional jail data, is around 3 to 1. Based upon the staffing model, when the facility is at
+   full operations with 830 inmates, the total staffing needed to support the facility would be 135. To be
+   conservative, we assumed 40 correctional officers per shift, with four 12-hour shifts per week. In
+   addition, the facility would employ up to 20 administrative support staff who would work standard
+   business hours.
+   A total of 100 weekday employees would have the following shift distribution:
+
+       ·   40 custodial employees during the first shift (7:00 AM - 7:00 PM)
+
+       ·   40 custodial employees during the second shift (7:00 PM - 7:00 AM)
+
+       ·   20 administrative employees (8:00 AM - 5:00 PM)
+   Estimates of potential trips generated by these employees would be substantially lower than a typical
+   jail, for the following reasons:
+
+       ·   All correctional officers would arrive before the beginning the shift time and leave after their
+           work is completed (i.e., two person trips per employee per day). No correctional officers would
+           arrive or depart during AM and PM peak hours.
+
+       ·   Administrative employees would have a typical office employee working time profile.
+
+       ·   All employees would arrive to the site individually by car.
+
+       ·   Uniformed staff is not allowed to leave the facility during their shift. No staff would leave the
+           site except during shift changes or on official business.
+   Booking Trips
+   The SCORE facility will provide transport officers to pick up arrestees at the arresting agencies. The
+   transport officers will drive a prescribed route that visits the owner agencies and will be able to
+   transport multiple arrestees at one time, reducing the volume of vehicle trips to SCORE.
+   Court Visit Trips
+   Court hearings will be conducted via video link. This technology will drastically lower or eliminate
+   transfer trips to and from the jail facility. Any trips that do occur are not likely to coincide with either the
+   AM or PM peak hours.
+
+
+
+                                                                                                        May 2009
+                                                                                                               15
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+   Attorney/Business Trips
+   Attorneys will be able to use video connections to discuss with inmates. The video link can happen at
+   any computer that has an Internet camera and may dramatically reduce the number of daily trips by
+   attorneys to and from the site.
+   Visitor Trips
+   Inmate visiting will be conducted via video connection either on-site or off-site, lowering the incentive
+   for on-site visitor trips. No "in-person" visits will occur on-site. Visitors to the facility must pre-schedule
+   their visits, and they cannot visit during peak hours, which coincide with meal times within the facility.
+   Delivery and Service Vehicles
+   Most delivery trips will be scheduled for arriving and departing the site outside of peak hours.
+
+ITE TRIP GENERATION
+   We consulted available data sources such as the ITE Trip Generation 7th Edition and other available
+   studies in an effort to find information for a similar project. The ITE manual has data on the Prison
+   (571) land use, which is based on two studies that use the number of beds and the number of
+   employees as the independent variables. The studies present a wide range of rates, with a smaller-
+   sized facility (50 employee) having much higher trip rates than the larger-facility (320 employee).
+   Similarly, little correlation exists between the reported rates based on the number of beds, with the
+   average trip generation per bed for a 200-bed facility at 10 times the rate as a 500-bed facility. The ITE
+   manual does not include trip generation rates for total daily (weekday) trips and lacks rates for the AM
+   and PM Peak Hour of the Generator with beds as the independent variable. We feel this data is of
+   limited use because of the differences between jail and prison facilities and the variation in the rates.
+   We found improved trip generation data from a study published in the Journal of Urban Planning and
+   Development (March 2000), which included trip generation studies of five regional jails in West Virginia
+   that are similar in function (misdemeanor crime facilities) and size. A copy of the report is included in
+   Appendix D. The article distinguishes between jail facilities and prison facilities in terms of the use for
+   trip generation purposes. The article notes that visitor policies are the most important factor in trip
+   generation and that appropriate adjustments should be made to reflect conditions with respect to
+   facility type, size, and visitation policies. Table 4 compares the ITE trip generation data and the
+   Regional Jail data. Based on our review, we will use the Regional Data as the basis for determining
+   the trip generation.
+
+
+
+
+                                                                                                       May 2009
+                                                                                                              16
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+Table 4. Comparison of ITE and Regional Jail Trip Generation Rates
+
+                                                   Employees                                  Beds
+
+          Time Period                    ITE Rate         Regional Jail*          ITE Rate         Regional Jail*
+ Weekday Daily                               --                 0.92                  --                 1.38
+
+ AM Peak Hour (Generator)                   0.52                 0.4                0.10                 0.15
+
+ PM Peak Hour (Generator)                   0.68                 0.4                0.05                 0.15
+
+ AM Peak Hour (Street Traffic)              0.42                0.35                  --                 0.14
+
+ PM Peak Hour (Street Traffic)              0.23                0.26                  --                 0.10
+*French, L. James, et al, "Trip Generation Rates for Correctional Facilities," Journal of Urban Planning and
+Development, March 2000, pp. 18-25.
+
+
+    Proposed Trip Generation
+    Based upon these actions, we believe that the shift changes, video data link technology, and
+    operational controls will result in a dramatically lower impact to the project. We estimate that trip
+    generation from the site will be 75 to 80 percent lower than a typical jail facility.
+    To provide an extremely conservative analysis, we are assuming the PM peak hour trip generation
+    consistent with the data from the Regional Jail study using the higher of the trip generation rates
+    (beds). Therefore, a total of 83 PM peak hour trips would be generated by the development during the
+    PM peak hour. Table 5 shows trip generation for the weekday, AM and PM peak hours of the
+    generator, and AM and PM peak hours of the adjacent street traffic based upon the number of beds.
+
+
+
+
+                                                                                                               May 2009
+                                                                                                                    17
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+Table 5. Proposed Project Trip Generation
+
+                                                                        Beds = 830
+
+                Time Period                            Total                 In                 Out
+
+               Weekday Daily                           1145                 573                 573
+
+         AM Peak Hour (Generator)                       125                 77                  47
+
+         PM Peak Hour (Generator)                       125                 34                  91
+
+       AM Peak Hour (Street Traffic)                    116                 77                  40
+
+       PM Peak Hour (Street Traffic)                    83                  23                  60
+
+
+
+TRIP DISTRIBUTION
+   A trip distribution pattern was developed based on traveling to and from the seven member cities of
+   Auburn, Renton, Des Moines, Federal Way, SeaTac, Burien, and Tukwila and general traffic pattern at
+   the study intersections. Using this data, the directional distribution patterns for entering and exiting
+   trips are shown in Figures 7 and 8, respectively.
+
+TRIP ASSIGNMENT
+   Project trips were assigned to the study intersections and roadways in accordance with the trip
+   distribution percentages and roadway network.
+
+
+
+
+                                                                                                 May 2009
+                                                                                                       18
+                                                                                                                                                            Angle Lake
+
+
+
+
+                                                                                                                            eS
+                                                                                                                          Av
+                                                                                                                     th
+                                                                                                                   26
+
+
+                                                     S
+                                                     T ;
+                                                     25%                                    S 200th St
+                                                                                                         ;
+                                                                                                             S
+                                                                                                             T                                       S
+                                                                                                                                                     T
+                                                                                                             75%
+                                                                                                                                                 ;                 ;
+                                                                                                                                                      50%
+                              ;
+                          Des Moines Memorial Dr S
+
+
+
+
+                                                                       18th Ave S
+
+
+
+
+                                                                                                                                      Blvd   l
+                                                                                                                                 Internationa
+                                                                       S
+                                                                       T
+                                                                       100%
+
+
+                        S
+                        T    25%
+
+
+
+
+                                                                                                                                 ;
+                              ;
+
+
+
+
+                                                                                                                                 S
+                                                                                                                                 T
+                                                                                                                                 25%
+
+
+  LEGEND                                              S 208th St
+                                                                       ;
+
+     S
+     T;
+                                                                                        S 208th St
+       25%           Trip Distribution
+                                                                                                                                                            §
+                                                                                                                                                            ¨
+                                                                                                                                                            ¦5
+
+
+                     Project Site
+
+
+
+
+                    N
+
+
+
+
+                                                                                                                            ;
+                                                                                    S 212th St
+            NOT TO SCALE
+
+
+
+
+                                                                                                                                                   PROPOSED PROJECT
+                                                                                                                                                   TRIP DISTRIBUTION -
+                                                                                                                                                 ENTERING STUDY AREA
+N:\Projects\SE09-0145_SCORE jail\Graphics\GIS\MXD\fig07_tripDist.mxd
+                                                                                                                                                                         FIGURE 7
+                                                           ;
+                                                     S
+                                                     T9%
+                                                                                                                                                                      Angle Lake
+
+
+
+
+                                                                                ;
+                                                      ;
+
+
+
+
+                                                                                                                                                       ;
+                                                     S
+                                                     T
+                                                     3%                         S
+                                                                                T 6%
+                                                                                                                         26
+                                                                                                                           th
+                                                                                                                                Av
+                                                                                                                                  eS
+                                                                                                                                                   S
+                                                                                                                                                   T   5%
+
+
+
+
+                                                               S
+                                                               T
+                                                                      ;
+                                                               12%                                   S 200th St
+
+                                                                                                                  ;S
+                                                                                                                   T
+                                                                                                                   82%
+                                                                                                                                                            ;   S
+                                                                                                                                                                T
+                                                                                                                                                                61%
+                                                                                                                                                                             ;
+                         ;Des Moines Memorial Dr S
+
+
+
+
+                                                                                18th Ave S
+
+
+
+
+                                                                                                                                            Blvd   l
+                                                                                                                                       Internationa
+                                                                                S
+                                                                                T
+                                                                                100%
+
+
+                        S
+                        T            9%
+
+
+
+
+                                                                                                                                       ;
+                        ;
+
+
+
+
+                                                                                                                                       S
+                                                                                                                                       T
+                                                                                                                                       16%
+
+
+  LEGEND                                                        S 208th St
+
+     S
+     T;
+                                                                                ;
+                                                                                                 S 208th St
+       25%           Trip Distribution
+                                                                                                                                                                  §
+                                                                                                                                                                  ¨
+                                                                                                                                                                  ¦    5
+
+                     Project Site
+
+
+
+
+                    N
+
+
+
+
+                                                                                                                                ;
+                                                                                             S 212th St
+            NOT TO SCALE
+
+
+
+
+                                                                                                                                                            PROPOSED PROJECT
+                                                                                                                                                            TRIP DISTRIBUTION -
+                                                                                                                                                            EXITING STUDY AREA
+N:\Projects\SE09-0145_SCORE jail\Graphics\GIS\MXD\fig08_tripDist_outgoing.mxd
+                                                                                                                                                                                   FIGURE 8
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+5. FUTURE 2015 WITH PROJECT TRAFFIC
+    This chapter presents an analysis of the projected opening year 2015 base plus project traffic volumes
+    to determine the potential project-specific impacts of the proposed project.
+
+INTERSECTION OPERATIONS
+    Figure 9 illustrates PM peak hour traffic volumes at each of the four study intersections in 2015 with
+    the project. Table 6 summarizes the intersection operations with the proposed project for the planning
+    horizon year of 2015. All phases of the construction are expected to be complete and all planned
+    facilities open by 2015.
+    Three of the analyzed intersections currently operate at LOS E or better during the analyzed time
+    period. The unsignalized intersection, South 200th Street/18th Avenue South, operates at LOS F on the
+    southbound approach and at LOS E on the northbound approach. Figure 10 illustrates the
+    intersection LOS and delay. Appendix E contains the detailed level of service reports.
+
+PROJECT IMPACTS
+    The intersection analysis indicates that operations would degrade at South 200th Street/18th Avenue
+    South during the PM peak hour with the addition of project traffic. This intersection's level of service
+    issue primarily relates to the southbound left turn movement. This project would not add trips to this
+    movement. Based on our analysis, the intersection of South 200th Street/18th Avenue South will
+    require mitigation.
+
+Table 6. Future Year 2015 with Project PM Peak Hour LOS and Delay
+
+                                                                         2015 with Project
+                                                       Control
+ Int #                        Location                                               Intersection
+                                                        Type*      Delay (sec)
+                                                                                         LOS
+   1       South 200th St & Des Moines Memorial Dr      Signal         44.6                D
+                                                                       679.8        F (Southbound)
+   2             South 200th St & 18th Ave South       TWSC*
+                                                                       48.2         E (Northbound)
+   3             South 200th St & 26th Ave South        Signal          7.7                A
+                                  th
+   4                  South 200 St & SR 99              Signal        76.0**              E**
+* TWSC is two-way stop controlled.
+** The traffic signal split was optimized.
+
+
+
+
+                                                                                                  May 2009
+                                                                                                        21
+                                                                                                                                                 Angle Lake
+
+
+
+
+                                                                                                                          eS
+                                                                                                                        Av
+                                                                                                                   th
+                                                                                                                 26
+
+
+
+                         !
+                       =
+                                                                         !
+                                                D
+
+
+
+                                                                                                           ! !
+
+                                                                         =
+                                                                              F
+
+
+
+
+                                                                                                           =
+                                               39.1
+
+
+
+
+                                                                                                                               =
+                                                                                              S 200th St
+                                                                                                            A                               E
+                                                                             680
+                                                                                                           7.6                            70.2
+                         Des Moines Memorial Dr S
+
+
+
+
+                                                                         18th Ave S
+
+
+
+
+                                                                                                                                    Blvd   l
+                                                                                                                               Internationa
+  LEGEND
+   Intersection Level of Service
+   and Average Delay
+
+
+
+    !
+                     Level of
+
+    !
+   =
+
+
+
+
+             ;
+       C             Service
+      32.6
+             ;                                        S 208th St
+                     Average Vehicle                                                      S 208th St
+                     Delay in Seconds
+                                                                                                                                                 §
+                                                                                                                                                 ¨
+                                                                                                                                                 ¦5
+
+             Project Site
+
+
+
+
+                     N
+                                                                                      S 212th St
+             NOT TO SCALE
+
+
+
+
+                                                                                                                                                PM PEAK HOUR
+                                                                                                                               INTERSECTION LEVEL OF SERVICE -
+                                                                                                                                            2015 WITH PROJECT
+N:\Projects\SE09-0145_SCORE jail\Graphics\GIS\MXD\fig10_los_2015wp.mxd
+                                                                                                                                                              FIGURE 10
+                                                                                                                                                 Angle Lake
+
+
+
+
+                                                                                                                          eS
+                                                                                                                        Av
+                                                                                                                   th
+                                                                                                                 26
+
+
+
+                         !
+                       =
+                                                                         !
+                                                D
+
+
+
+                                                                                                           ! !
+
+                                                                         =
+                                                                              F
+
+
+
+
+                                                                                                           =
+                                               44.6
+
+
+
+
+                                                                                                                               =
+                                                                                              S 200th St
+                                                                                                            A                               E
+                                                                             680
+                                                                                                           7.7                            76.0
+                         Des Moines Memorial Dr S
+
+
+
+
+                                                                         18th Ave S
+
+
+
+
+                                                                                                                                    Blvd   l
+                                                                                                                               Internationa
+  LEGEND
+   Intersection Level of Service
+   and Average Delay
+
+
+
+    !
+                     Level of
+
+    !
+   =
+
+
+
+
+             ;
+       C             Service
+      32.6
+             ;                                        S 208th St
+                     Average Vehicle                                                      S 208th St
+                     Delay in Seconds
+                                                                                                                                                 §
+                                                                                                                                                 ¨
+                                                                                                                                                 ¦5
+
+             Project Site
+
+
+
+
+                     N
+                                                                                      S 212th St
+             NOT TO SCALE
+
+
+
+
+                                                                                                                                                PM PEAK HOUR
+                                                                                                                               INTERSECTION LEVEL OF SERVICE -
+                                                                                                                                            2015 WITH PROJECT
+N:\Projects\SE09-0145_SCORE jail\Graphics\GIS\MXD\fig10_los_2015wp.mxd
+                                                                                                                                                              FIGURE 10
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+6. TRANSIT, BICYCLE, AND PEDESTRIAN SYSTEMS ­ PROJECT IMPACTS
+   This chapter discusses impacts related to the transit, bicycle, and pedestrian system. Potential
+   impacts include disruptions to existing transit service; interference with planned transit facilities;
+   conflicts with adopted transit system plans, guidelines, policies, or standards; and creation of demand
+   for public transit above the available capacity.
+
+TRANSIT SYSTEM PROJECT IMPACTS
+   The project is in a suburban area with no transit routes on South 200th Street and little or no
+   anticipated transit riders from the project.
+   The project would not adversely affect the transit system. Therefore, the impact of the project is not
+   significant.
+
+BICYCLE SYSTEM PROJECT IMPACTS
+   The project vicinity has no bicycle facilities, and no bicycle activity is expected from the project.
+   The project's impact is not significant.
+
+PEDESTRIAN SYSTEM PROJECT IMPACTS
+   The project vicinity has no pedestrian facilities, and no pedestrian activity is expected around the
+   project site. The impact of the project on pedestrian movements is not significant.
+
+
+
+
+                                                                                                      May 2009
+                                                                                                           24
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+7. MITIGATION ACTIONS
+    The following measures are suggested to mitigate the impacts of the SCORE Jail Facility.
+
+OPERATIONAL MITIGATION
+    The SCORE Jail Facility is a modern example of a correctional institution that will not generate as
+    many trips as projected in this study, which assumes the operation of a traditional jail facility. We
+    believe the actual trip generation during the AM and PM peak hours will be only 25 to 50 percent of
+    the values used in this conservative analysis. To achieve this low trip generation, we suggest the
+    following as mitigation:
+
+         ·    Operation of shift changes outside of the 4:00 - 6:00 PM peak hour.
+
+         ·    Strict scheduling of visitor trips.
+
+         ·    Provision of inmate visitation, court proceedings via video connection.
+
+         ·    Scheduling of deliveries outside of peak hours.
+
+         ·    Ability to transport multiple arrestees to reduce individual booking trips.
+
+IMPACT FEES
+    The SCORE Jail Facility will provide transportation impact fees based on the number of PM peak hour
+    trips, as required by Section 12.56 of the Des Moines Municipal Code. Because the analysis
+    represents a worst-case scenario, we recommend that the City consider the operational aspects of the
+    SCORE Jail Facility that will lower the traffic impact of the facility. A credit for fees should be applied
+    for eligible off-site improvements funded or completed by SCORE.
+
+MITIGATION FOR 18TH AVENUE SOUTH AND SOUTH 200TH STREET
+    The southbound movement at this intersection has an existing LOS F condition during the PM peak
+    hour. We suggest a two-way left turn lane be constructed by the development to improve the operation
+    of the intersection and to provide left turn storage during shift changes for inbound traffic. This would
+    also serve as a refuge lane for southbound left turning volumes, allowing vehicles to make a two-stage
+    left turn. The northbound driveway access would improve from LOS E to LOS C with the improvement.
+    Table 7 summarizes the intersection operations with the proposed project for the planning horizon
+    year of 2015 with the proposed mitigation at the intersection of 18th Avenue South and South 200th
+    Street.
+
+Table 7. Future Year 2015 with Project PM Peak Hour LOS and Delay ­ With Mitigation
+
+                                                                              2015 with Project
+                                                           Control
+ Int #                        Location                                                       Intersection
+                                                            Type*       Delay (sec)
+                                                                                                 LOS
+                                                                           189.8            F (Southbound)
+   2       South 200th St & 18th Ave South                 TWSC*
+                                                                            16.4            C (Northbound)
+* TWSC is two-way stop controlled.
+** The traffic signal split was optimized.
+
+                                                                                                        May 2009
+                                                                                                             25
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+8. PARKING ANALYSIS
+   A parking analysis was conducted to estimate the number of parking spaces required at this facility
+   based upon the demand for parking facilities. A copy of the parking demand model is included in
+   Appendix F. The SCORE Jail Facility plans to have two parking lots. One lot will be exclusively for
+   employees; the other lot will provide parking stalls for other trips.
+
+EMPLOYEE PARKING LOT
+   The correctional officers will have 12-hour shifts daily, changing at 7:00 AM and 7:00 PM. Each shift
+   will employ 40 correctional officers. Since their shifts will overlap for 15 to 30 minutes, the facility will
+   need at least 80 parking stalls in the employee lot.
+   The 20 administrative employees will arrive after the AM shift change of correctional officers and leave
+   before the PM shift change at 7:00 PM. The administrative employees will have 40 available parking
+   stalls between 7:30 AM and 6:30 PM. The SCORE facility must provide a minimum of 80 parking
+   spaces to accommodate the highest employee demand.
+
+NON-EMPLOYEE PARKING LOT
+   The second parking lot will accommodate non-employee parking needs. Using a number of
+   conservative assumptions, we estimated a peak demand of 479 non-employee trips per day. Of these,
+   400 trips are generated by visitors, and 79 trips are generated by bookings, court visits,
+   attorney/business, and delivery trips. We developed a separate parking demand model for visitor and
+   other non-employee trips with the assumptions that these trips will follow two different hourly
+   distributions of parking demand. We assumed that the average duration of the visitor trips will be 25
+   minutes and the other non-employee trips will be 45 minutes. The highest demand for visitor parking of
+   30 stalls will occur between 1:15 PM and 3:00 PM. During the same time period, the highest demand
+   of nine stalls will occur for the other non-employee parking stalls. The SCORE facility must provide a
+   minimum of 39 parking stalls to meet the highest demand for non-employee parking needs, including
+   visitors.
+
+
+
+
+                                                                                                     May 2009
+                                                                                                            26
+
+
+
+                                                 A-1
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+      _____________________________________________ Appendix A
+                                                 Traffic Counts
+
+
+
+
+                                                        May 2009
+
+
+
+
+                                    A-2
+Peak Hour Summary
+
+
+
+           Mark Skaggs
+          (206) 251-0300
+
+
+                                        Des Moines Mem Dr & S 200th St
+                                                                      4:15 PM to 5:15 PM
+                                                                      Tuesday, May 06, 2008
+
+                                     Des Moines Mem
+                                                  Dr              0                            0
+
+
+
+
+                                                                      733                          272
+
+
+                                                             33       592   108
+
+                                                             É        Æ     Ê
+
+S 200th St                                                                   Peds     2
+
+
+                                                                                                                                Ç   42
+
+    0          238                                                                                                          Ã       175   258        0
+
+                                                                                                                                É   41
+                                           Peds 1
+
+
+
+
+                                                                                                               Peds 0
+
+
+                           13    È
+
+    0          341         260   Ä                                                                                                        554        0
+
+                           68    Ê
+
+                                                                             Peds     3                                                         S 200th St
+
+                                                                                          Ç        Å     È
+                                                                                          30       217   186
+                                                                                                               Des Moines Mem
+
+
+
+
+                                                                      701                          433
+                                                                                                               Dr
+
+
+
+
+                                                                  0                            0
+
+
+ Approach       PHF         HV%                Volume
+    EB          0.93        1.2%                       341
+    WB          0.90        4.3%                       258
+    NB          0.81        2.1%                       433
+    SB          0.96        1.2%                       733
+Intersection    0.97        1.9%                    1,765
+
+Count Period: 4:00 PM to 6:00 PM
+
+                                                                                    A-3
+                                                                                                                                       In         Out
+
+
+
+
+                                                                                                                        HV 1.2%
+Total Vehicle Summary
+
+
+
+
+                                                                                                                       PHF 0.96
+                                                                                                                                      733         272
+                                                                                                                                       33   592   108
+                                                                                                                                                                        HV 4.3%
+                                                                                                                                                                       PHF 0.90
+                                                                                                                                            2
+
+                                                                                                                 13                                                    42
+                     Mark Skaggs                                                               Out 238                                                                           258 In
+                                                                                                                260                                                    175
+
+
+
+
+                                                                                                                                  1
+
+
+
+
+                                                                                                                                                        0
+                    (206) 251-0300
+                                                                                                   In 341                                                                        554 Out
+                                                                                                                 68                                                    41
+
+                                                                                                                                            3
+                                                                                                             HV 1.2%
+Des Moines Mem Dr & S 200th St                                                                              PHF 0.93
+
+
+
+
+                                                                                                                                                             HV 2.1%
+                                                                                                                                                            PHF 0.81
+                                                                                                                                       30   217   186
+Tuesday, May 06, 2008                                                                                                                 Out          In
+                                                                                                                                      701         433
+4:00 PM to 6:00 PM
+                                                                                                                             Peak Hour Summary
+                                                                                                                             4:15 PM to 5:15 PM
+15-Minute Interval Summary
+4:00 PM to 6:00 PM
+ Interval              Northbound                   Southbound                 Eastbound                       Westbound                                                Pedestrians
+   Start            Des Moines Mem Dr            Des Moines Mem Dr             S 200th St                      S 200th St                    Interval                    Crosswalk
+   Time         L       T       R     HV    L         T      R     HV    L      T      R       HV       L       T      R              HV      Total         North       South East        West
+ 4:00 PM        7       48     26      4   24        136    11      2    1     55      19       4       8      41      11              3       387           0            0      0         1
+ 4:15 PM        7       54     45      3   26        158     6      2    4     62      19       1       7      47      11              3       446           0            0      0         0
+ 4:30 PM       15       48     71      3   35        141    10      3    2     64      16       1       8      34      12              2       456           0            0      0         0
+ 4:45 PM        2       56     46      1   18        159     7      1    5     63      14       0      13      45       9              3       437           0            1      0         1
+ 5:00 PM        6       59     24      2   29        134    10      3    2     71      19       2      13      49      10              3       426           2            2      0         0
+ 5:15 PM        5       58     15      1   35        164     7      2    3     52      17       1      11      50       9              1       426           0            1      0         0
+ 5:30 PM        8       55     37      0   23        168     6      2    7     53      13       0      11      35       7              1       423           0            0      0         0
+ 5:45 PM        5       48     17      1   25        142     5      4    3     48      11       0      11      43      10              2       368           1            0      0         0
+Total Survey   55      426     281   15    215     1,202   62     19    27     468     128     9       82      344         79         18        3,369         3              4    0        2
+
+
+
+Peak Hour Summary
+4:15 PM to 5:15 PM
+                      Northbound                  Southbound                   Eastbound                       Westbound                                                Pedestrians
+    By
+                   Des Moines Mem Dr           Des Moines Mem Dr                S 200th St                      S 200th St                      Total                    Crosswalk
+ Approach
+                In     Out     Total HV     In     Out     Total HV      In    Out     Total   HV       In     Out     Total          HV                    North       South East        West
+  Volume       433    701     1,134   9    733    272     1,005   9     341    238      579     4      258     554      812           11        1,765        2            3      0         1
+   %HV                   2.1%                        1.2%                         1.2%                            4.3%                          1.9%
+   PHF                     0.81                        0.96                        0.93                            0.90                         0.97
+
+                      Northbound                  Southbound                   Eastbound                       Westbound
+   By
+                   Des Moines Mem Dr           Des Moines Mem Dr                S 200th St                      S 200th St                      Total
+Movement
+                 L     T       R  Total     L      T       R  Total       L     T       R   Total        L      T       R   Total
+  Volume        30    217     186 433      108    592     33 733         13    260      68 341          41     175      42 258                  1,765
+   PHF         0.50   0.92   0.65 0.81     0.77   0.93   0.83 0.96      0.65   0.92    0.89 0.93       0.79    0.89    0.88 0.90                0.97
+
+
+
+Rolling Hour Summary
+4:00 PM to 6:00 PM
+ Interval              Northbound                 Southbound                   Eastbound                       Westbound                                                Pedestrians
+   Start            Des Moines Mem Dr          Des Moines Mem Dr                S 200th St                      S 200th St                   Interval                    Crosswalk
+   Time         L        T      R     HV    L       T      R     HV      L      T       R      HV       L       T       R             HV      Total         North       South East        West
+ 4:00 PM       31       206    188    11   103     594    34      8     12     244      68      6      36      167      43            11      1,726          0            1      0         2
+ 4:15 PM       30       217    186     9   108     592    33      9     13     260      68      4      41      175      42            11      1,765          2            3      0         1
+ 4:30 PM       28       221    156     7   117     598    34      9     12     250      66      4      45      178      40             9      1,745          2            4      0         1
+ 4:45 PM       21       228    122     4   105     625    30      8     17     239      63      3      48      179      35             8      1,712          2            4      0         1
+ 5:00 PM       24       220    93      4   112     608    28     11     15     224      60      3      46      177      36             7      1,643          3            3      0         0
+
+
+
+
+                                                                                     A-4
+Peak Hour Summary
+
+
+
+           Mark Skaggs
+          (206) 251-0300
+
+
+                                                      18th Ave S & S 200th St
+                                                                4:30 PM to 5:30 PM
+                                                                Tuesday, May 12, 2009
+
+
+                                     18th Ave S             0                     0
+
+
+
+
+                                                                214                   70
+
+
+                                                        6             208
+
+                                                        É             Ê
+
+S 200th St
+
+                                                                                           Ç   69
+
+    0          291                                                                         Ã   285   354        0
+
+
+
+
+                           1     È
+
+    0          298         297   Ä                                                                   505        0
+
+
+
+
+                                                                                                           S 200th St
+
+
+
+
+                                                            0                     0
+
+
+ Approach       PHF         HV%       Volume
+    EB          0.94        0.0%                  298
+    WB          0.95        1.7%                  354
+    NB          0.00        0.0%                  0
+    SB          0.78        2.8%                  214
+Intersection    0.92        1.4%                  866
+
+Count Period: 4:00 PM to 6:00 PM
+
+                                                                            A-5
+                                                                                                                                          In         Out
+
+
+
+
+                                                                                                                               HV 2.8%
+Total Vehicle Summary
+
+
+
+
+                                                                                                                              PHF 0.78
+                                                                                                                                         214         70
+                                                                                                                                              6       208
+                                                                                                                                                                         HV 1.7%
+                                                                                                                                                                        PHF 0.95
+
+
+                                                                                                                         1                                              69
+                     Mark Skaggs                                                                      Out 291                                                                  354 In
+                    (206) 251-0300                                                                                     297                                              285
+                                                                                                          In 298                                                               505 Out
+
+
+
+                                                                                                                    HV 0.0%
+18th Ave S & S 200th St                                                                                            PHF 0.94
+
+
+
+
+                                                                                                                                                              HV 0.0%
+                                                                                                                                                             PHF 0.00
+Tuesday, May 12, 2009                                                                                                                    Out          In
+                                                                                                                                          0            0
+4:00 PM to 6:00 PM
+                                                                                                                                    Peak Hour Summary
+                                                                                                                                    4:30 PM to 5:30 PM
+15-Minute Interval Summary
+4:00 PM to 6:00 PM
+ Interval              Northbound                     Southbound                   Eastbound                          Westbound
+   Start                18th Ave S                     18th Ave S                  S 200th St                         S 200th St                  Interval
+   Time                                         L              R       HV    L      T                HV                T      R          HV        Total
+ 4:00 PM                                       61              0        3    0     85                 2               53      14          3         213
+ 4:15 PM                                       55              0        1    0     67                 2               65      16          5         203
+ 4:30 PM                                       50              0        1    0     67                 0               75      18          2         210
+ 4:45 PM                                       45              1        3    0     79                 0               68      13          1         206
+ 5:00 PM                                       48              1        1    0     78                 0               74      13          2         214
+ 5:15 PM                                       65              4        1    1     73                 0               68      25          1         236
+ 5:30 PM                                       24              1        0    1     65                 0               68      11          1         170
+ 5:45 PM                                       28              0        0    0     58                 0               61       8          0         155
+Total Survey                                   376              7      10    2     572                4               532        118     15        1,607
+
+
+
+Peak Hour Summary
+4:30 PM to 5:30 PM
+                       Northbound                     Southbound                   Eastbound                          Westbound
+    By
+                        18th Ave S                     18th Ave S                   S 200th St                         S 200th St                  Total
+ Approach
+               In      Out     Total            In     Out     Total   HV    In    Out     Total     HV        In     Out     Total      HV
+  Volume        0        0      0              214     70       284     6   298    291      589       0       354     505      859        6         866
+   %HV                     0.0%                           2.8%                        0.0%                               1.7%                      1.4%
+   PHF                     0.00                            0.78                        0.94                               0.95                     0.92
+
+                       Northbound                     Southbound                   Eastbound                          Westbound
+   By
+                        18th Ave S                     18th Ave S                   S 200th St                         S 200th St                  Total
+Movement
+                                       Total    L              R   Total      L     T              Total               T       R   Total
+  Volume                               0       208             6   214       1     297             298                285      69 354              866
+   PHF                                 0.00    0.80           0.38 0.78     0.25   0.94            0.94               0.95    0.69 0.95            0.92
+
+
+
+Rolling Hour Summary
+4:00 PM to 6:00 PM
+ Interval              Northbound                     Southbound                   Eastbound                          Westbound
+   Start                18th Ave S                     18th Ave S                   S 200th St                         S 200th St                 Interval
+   Time                                         L              R       HV    L      T                HV                T       R         HV        Total
+ 4:00 PM                                       211             1        8    0     298                4               261      61        11         832
+ 4:15 PM                                       198             2        6    0     291                2               282      60        10         833
+ 4:30 PM                                       208             6        6    1     297                0               285      69         6         866
+ 4:45 PM                                       182             7        5    2     295                0               278      62         5         826
+ 5:00 PM                                       165             6        2    2     274                0               271      57         4         775
+
+
+
+
+                                                                                         A-6
+Peak Hour Summary
+
+
+
+           Mark Skaggs
+          (206) 251-0300
+
+
+                                                        26th Ave S & S 200th St
+                                                                   4:15 PM to 5:15 PM
+                                                                   Tuesday, May 06, 2008
+
+
+                                       26th Ave S              0                           0
+
+
+
+
+                                                                   153                         13
+
+
+                                                          28        0    125
+
+                                                          É        Æ     Ê
+
+S 200th St                                                                Peds     0
+
+
+                                                                                                                     Ç   3
+
+    0          317                                                                                                   Ã   289   297        0
+
+                                                                                                                     É   5
+                                     Peds 0
+
+
+
+
+                                                                                                         Peds 0
+
+
+                           10    È
+
+    0          774         760   Ä                                                                                             892        0
+
+                           4     Ê
+
+                                                                          Peds     1                                                 S 200th St
+
+                                                                                       Ç       Å    È
+                                                                                       0       0    7
+
+
+                                                                    9                          7
+                                                                                                        26th Ave S
+
+
+
+
+                                                               0                           0
+
+
+ Approach       PHF         HV%          Volume
+    EB          0.92        2.1%                    774
+    WB          0.85        6.7%                    297
+    NB          0.35        0.0%                    7
+    SB          0.80        2.0%                    153
+Intersection    0.94        3.2%              1,231
+
+Count Period: 4:00 PM to 6:00 PM
+
+                                                                                 A-7
+                                                                                                                                      In           Out
+
+
+
+
+                                                                                                                       HV 2.0%
+Total Vehicle Summary
+
+
+
+
+                                                                                                                      PHF 0.80
+                                                                                                                                     153           13
+                                                                                                                                      28      0     125
+                                                                                                                                                                          HV 6.7%
+                                                                                                                                                                         PHF 0.85
+                                                                                                                                              0
+
+                                                                                                                10                                                       3
+                      Mark Skaggs                                                                Out 317                                                                            297 In
+                                                                                                               760                                                       289
+
+
+
+
+                                                                                                                                 0
+
+
+
+
+                                                                                                                                                          0
+                     (206) 251-0300
+                                                                                                  In 774                                                                            892 Out
+                                                                                                                 4                                                       5
+
+                                                                                                                                              1
+                                                                                                            HV 2.1%
+26th Ave S & S 200th St                                                                                    PHF 0.92
+
+
+
+
+                                                                                                                                                               HV 0.0%
+                                                                                                                                                              PHF 0.35
+                                                                                                                                          0   0     7
+Tuesday, May 06, 2008                                                                                                                Out            In
+                                                                                                                                      9              7
+4:00 PM to 6:00 PM
+                                                                                                                            Peak Hour Summary
+                                                                                                                            4:15 PM to 5:15 PM
+15-Minute Interval Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                  Southbound                   Eastbound                    Westbound                                                      Pedestrians
+   Start                 26th Ave S                  26th Ave S                   S 200th St                  S 200th St                      Interval                        Crosswalk
+   Time         L         T      R      HV    L       T      R       HV    L      T       R      HV    L       T      R              HV        Total          North          South East      West
+ 4:00 PM        0         0      3       0   35       1       8       2    9     173      0       4    1      62      2               1         294            0               2      0       0
+ 4:15 PM        0         0      5       0   26       0       5       1    2     194      2       3    0      74      1               3         309            0               0      0       0
+ 4:30 PM        0         0      1       0   36       0      12       0    3     207      1       8    1      64      2              10         327            0               0      0       0
+ 4:45 PM        0         0      1       0   29       0       6       1    4     182      1       3    1      67      0               2         291            0               1      0       0
+ 5:00 PM        0         0      0       0   34       0       5       1    1     177      0       2    3      84      0               5         304            0               0      0       0
+ 5:15 PM        0         0      0       0   32       0       9       2    3     139      2       2    2      86      2               1         275            0               1      0       0
+ 5:30 PM        0         0      0       0   23       1       5       0    3     119      0       2    3      57      3               0         214            0               3      0       0
+ 5:45 PM        0         0      1       0   14       1       3       2    1     110      1       1    0      61      2               2         194            0               1      0       0
+Total Survey    0        0       11     0    229      3      53      9    26     1,301    7      25   11      555         12         24           2,208         0              8     0        0
+
+
+
+Peak Hour Summary
+4:15 PM to 5:15 PM
+                        Northbound                  Southbound                   Eastbound                    Westbound                                                      Pedestrians
+    By
+                         26th Ave S                  26th Ave S                   S 200th St                   S 200th St                         Total                       Crosswalk
+ Approach
+                In      Out     Total   HV    In     Out     Total   HV    In    Out     Total   HV    In     Out     Total          HV                       North          South East      West
+  Volume         7        9      16      0   153     13       166     3   774    317    1,091    16   297     892    1,189           20           1,231        0               1      0       0
+   %HV                      0.0%                        2.0%                        2.1%                         6.7%                             3.2%
+   PHF                      0.35                         0.80                        0.92                         0.85                            0.94
+
+                        Northbound                  Southbound                   Eastbound                    Westbound
+   By
+                         26th Ave S                  26th Ave S                   S 200th St                   S 200th St                         Total
+Movement
+                 L        T      R   Total    L       T      R   Total      L     T       R   Total     L      T       R   Total
+  Volume        0         0      7   7       125      0      28 153        10    760      4   774      5      289      3   297                    1,231
+   PHF         0.00     0.00    0.35 0.35    0.87   0.00    0.58 0.80     0.63   0.92    0.50 0.92    0.42    0.86    0.38 0.85                   0.94
+
+
+
+Rolling Hour Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                  Southbound                   Eastbound                    Westbound                                                      Pedestrians
+   Start                 26th Ave S                  26th Ave S                   S 200th St                   S 200th St                     Interval                        Crosswalk
+   Time         L         T      R      HV    L       T      R       HV    L      T       R      HV    L       T       R             HV        Total          North          South East      West
+ 4:00 PM        0         0      10      0   126      1      31       4   18     756      4      18    3      267      5             16        1,221           0               3      0       0
+ 4:15 PM        0         0       7      0   125      0      28       3   10     760      4      16    5      289      3             20        1,231           0               1      0       0
+ 4:30 PM        0         0       2      0   131      0      32       4   11     705      4      15    7      301      4             18        1,197           0               2      0       0
+ 4:45 PM        0         0       1      0   118      1      25       4   11     617      3       9    9      294      5              8        1,084           0               5      0       0
+ 5:00 PM        0         0       1      0   103      2      22       5    8     545      3       7    8      288      7              8         987            0               5      0       0
+
+
+
+
+                                                                                         A-8
+Peak Hour Summary
+
+
+
+           Mark Skaggs
+          (206) 251-0300
+
+
+                                                      Pacific Hwy & S 200th St
+                                                                    4:15 PM to 5:15 PM
+                                                                    Tuesday, May 06, 2008
+
+
+                                       Pacific Hwy              0                              0
+
+
+
+
+                                                                    1674                           693
+
+
+                                                           69       1322 283
+
+                                                           É        Æ      Ê
+
+S 200th St                                                                 Peds     4
+
+
+                                                                                                                            Ç   117
+
+    0          390                                                                                                          Ã   203   461        0
+
+                                                                                                                            É   141
+                                     Peds 0
+
+
+
+
+                                                                                                               Peds 7
+
+
+                           43    È
+
+    0          881         483   Ä                                                                                                    845        0
+
+                           355   Ê
+
+                                                                           Peds     24                                                      S 200th St
+
+                                                                                         Ç         Å     È
+                                                                                         118       533   79
+                                                                                                              Pacific Hwy
+
+
+
+
+                                                                    1818                           730
+
+
+
+
+                                                                0                              0
+
+
+ Approach       PHF         HV%          Volume
+    EB          0.92        1.9%                     881
+    WB          0.79        2.8%                     461
+    NB          0.87        5.2%                     730
+    SB          0.91        1.9%               1,674
+Intersection    0.97        2.6%               3,746
+
+Count Period: 4:00 PM to 6:00 PM
+
+                                                                                  A-9
+                                                                                                                                        In          Out
+
+
+
+
+                                                                                                                        HV 1.9%
+Total Vehicle Summary
+
+
+
+
+                                                                                                                       PHF 0.91
+                                                                                                                                      1,674         693
+                                                                                                                                       69 1,322 283
+                                                                                                                                                                           HV 2.8%
+                                                                                                                                                                          PHF 0.79
+                                                                                                                                              4
+
+                                                                                                                 43                                                       117
+                      Mark Skaggs                                                                 Out 390                                                                         461 In
+                                                                                                                483                                                       203
+
+
+
+
+                                                                                                                                  0
+
+
+
+
+                                                                                                                                                           7
+                     (206) 251-0300
+                                                                                                   In 881                                                                         845 Out
+                                                                                                                355                                                       141
+
+                                                                                                                                              24
+                                                                                                             HV 1.9%
+Pacific Hwy & S 200th St                                                                                    PHF 0.92
+
+
+
+
+                                                                                                                                                                HV 5.2%
+                                                                                                                                                               PHF 0.87
+                                                                                                                                      118     533    79
+Tuesday, May 06, 2008                                                                                                                  Out            In
+                                                                                                                                      1,818          730
+4:00 PM to 6:00 PM
+                                                                                                                             Peak Hour Summary
+                                                                                                                             4:15 PM to 5:15 PM
+15-Minute Interval Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                   Southbound                   Eastbound                    Westbound                                                   Pedestrians
+   Start                Pacific Hwy                   Pacific Hwy                  S 200th St                  S 200th St                      Interval                     Crosswalk
+   Time         L        T       R      HV     L       T       R      HV    L      T       R      HV    L       T      R              HV        Total          North       South East      West
+ 4:00 PM       29       154      20     12    72     300        7      8    9     144      78      7   35      44      24              2         916            1            9      2       0
+ 4:15 PM       28       170      12      9    76     361       21     10    4     118      77      5   33      39      23              2         962            0            6      1       0
+ 4:30 PM       25       127      23     14    70     337       15      4   11     123     102      5   40      56      26              4         955            0            9      1       0
+ 4:45 PM       35       118      24      8    75     318       20     11    9     112      86      4   33      32      33              4         895            2            7      3       0
+ 5:00 PM       30       118      20      7    62     306       13      6   19     130      90      3   35      76      35              3         934            2            2      2       0
+ 5:15 PM       36       138      21      4    71     307       19      5   13     96       58      7   36      47      20              2         862            2            4      0       0
+ 5:30 PM       24       153      22      2    73     250        9      3   16     105      66      3   49      55      25              3         847            0            2      1       0
+ 5:45 PM       35       151      16      6    64     239        9      4   13     76       44      2   29      46      19              5         741            3            3      1       0
+Total Survey   242     1,129    158     62   563     2,418    113     51   94     904     601     36   290     395        205         25          7,112         10          42     11       0
+
+
+
+Peak Hour Summary
+4:15 PM to 5:15 PM
+                       Northbound                    Southbound                   Eastbound                    Westbound                                                   Pedestrians
+    By
+                        Pacific Hwy                   Pacific Hwy                  S 200th St                   S 200th St                         Total                    Crosswalk
+ Approach
+                In      Out     Total   HV     In     Out     Total   HV    In    Out     Total   HV    In     Out    Total           HV                       North       South East      West
+  Volume       730     1,818 2,548      38   1,674   693      2,367   31   881    390    1,271    17   461     845    1,306           13          3,746         4           24      7       0
+   %HV                     5.2%                         1.9%                         1.9%                         2.8%                            2.6%
+   PHF                      0.87                          0.91                        0.92                         0.79                           0.97
+
+                        Northbound                   Southbound                   Eastbound                    Westbound
+   By
+                        Pacific Hwy                   Pacific Hwy                  S 200th St                   S 200th St                         Total
+Movement
+                 L       T       R   Total    L        T       R   Total     L     T       R   Total     L      T       R   Total
+  Volume       118      533      79 730      283     1,322     69 1,674     43    483     355 881      141     203     117 461                    3,746
+   PHF         0.84     0.78    0.82 0.87    0.93     0.92    0.82 0.91    0.57   0.93    0.87 0.92    0.88    0.67    0.84 0.79                  0.97
+
+
+
+Rolling Hour Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                   Southbound                   Eastbound                    Westbound                                                   Pedestrians
+   Start                Pacific Hwy                   Pacific Hwy                  S 200th St                   S 200th St                     Interval                     Crosswalk
+   Time         L        T       R      HV    L        T       R      HV    L      T       R      HV    L       T       R             HV        Total          North       South East      West
+ 4:00 PM       117      569      79     43   293     1,316     63     33   33     497     343     21   141     171     106            12        3,728           3           31      7       0
+ 4:15 PM       118      533      79     38   283     1,322     69     31   43     483     355     17   141     203     117            13        3,746           4           24      7       0
+ 4:30 PM       126      501      88     33   278     1,268     67     26   52     461     336     19   144     211     114            13        3,646           6           22      6       0
+ 4:45 PM       125      527      87     21   281     1,181     61     25   57     443     300     17   153     210     113            12        3,538           6           15      6       0
+ 5:00 PM       125      560      79     19   270     1,102     50     18   61     407     258     15   149     224      99            13        3,384           7           11      4       0
+
+
+
+
+                                                                                        A-10
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+      _____________________________________________ Appendix B
+                                             Level of Service Calculations
+                                                           Existing (2009)
+
+
+
+
+                                                                   May 2009
+
+
+
+
+                                    A-11
+HCM Unsignalized Intersection Capacity Analysis                                              2009 PM Peak Hour
+2: S 200th St & 18th Ave S                                                                                    Existing
+
+
+
+Movement                   EBL      EBT     EBR     WBL     WBT    WBR     NBL     NBT     NBR    SBL     SBT     SBR
+Lane Configurations
+Sign Control                        Free                    Free                   Stop                   Stop
+Grade                                0%                      0%                     0%                     0%
+Volume (veh/h)                1      547       0       0     285      69      0       0       0   208        0       6
+Peak Hour Factor           0.83     0.83    0.83    0.79    0.79    0.79   0.25    0.25    0.25   0.74    0.74    0.74
+Hourly flow rate (vph)        1      659       0       0     361      87      0       0       0   281        0       8
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                                                        None                   None
+Median storage veh)
+Upstream signal (ft)
+pX, platoon unblocked
+vC, conflicting volume     448                      659                    1074    1110    659    1066    1066    404
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol         448                      659                    1074    1110    659    1066    1066    404
+tC, single (s)              4.1                      4.1                     7.1     6.5    6.2     7.1     6.5    6.2
+tC, 2 stage (s)
+tF (s)                      2.2                      2.2                     3.5     4.0    3.3     3.5     4.0    3.3
+p0 queue free %            100                      100                     100     100    100        0    100     99
+cM capacity (veh/h)       1107                      924                     197     211    467     199     221    644
+Direction, Lane #         EB 1 WB 1         NB 1 SB 1
+Volume Total               660  448             0  289
+Volume Left                   1    0            0  281
+Volume Right                  0   87            0     8
+cSH                       1107  924         1700   203
+Volume to Capacity         0.00 0.00         0.00 1.42
+Queue Length 95th (ft)        0    0            0  428
+Control Delay (s)           0.0  0.0          0.0 261.5
+Lane LOS                      A                 A     F
+Approach Delay (s)          0.0  0.0          0.0 261.5
+Approach LOS                                    A     F
+Intersection Summary
+Average Delay                                54.1
+Intersection Capacity Utilization          49.8%          ICU Level of Service               A
+Analysis Period (min)                          15
+
+
+
+
+Fehr and Peers                                                                                      Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                           A-12
+HCM Signalized Intersection Capacity Analysis                                                  2009 PM Peak Hour
+1: S 200th St & Des Moines Memorial Dr                                                                          Existing
+
+
+
+Movement                EBL         EBT     EBR    WBL      WBT     WBR    NBL       NBT     NBR     SBL     SBT    SBR
+Lane Configurations
+Ideal Flow (vphpl)     1900         1900    1900   1900     1900    1900   1900      1900    1900   1900    1900    1900
+Total Lost time (s)                   5.0                     5.0                      5.0                    5.0
+Lane Util. Factor                    1.00                    1.00                     1.00                   1.00
+Frt                                  0.97                    0.98                     0.94                   0.99
+Flt Protected                        1.00                    0.99                     1.00                   0.99
+Satd. Flow (prot)                   1827                    1773                     1748                   1856
+Flt Permitted                        0.98                    0.74                     0.92                   0.86
+Satd. Flow (perm)                   1801                    1330                     1610                   1617
+Volume (vph)              13         263      69      41     177      42      30      219    188     109     598      33
+Peak-hour factor, PHF   0.81         0.81   0.81    0.78     0.78   0.78    0.93      0.93   0.93    0.84    0.84   0.84
+Adj. Flow (vph)           16         325      85      53     227      54      32      235    202     130     712      39
+RTOR Reduction (vph)       0           10      0       0        8      0       0        24      0       0       2      0
+Lane Group Flow (vph)      0         416       0       0     326       0       0      445       0       0    879       0
+Heavy Vehicles (%)       1%           1%     1%      4%       4%     4%      2%        2%     2%      1%      1%     1%
+Turn Type              Perm                        Perm                    Perm                     Perm
+Protected Phases                       2                        6                       8                      4
+Permitted Phases           2           2              6         6                8                     4
+Actuated Green, G (s)               24.1                     24.1                    53.3                    53.3
+Effective Green, g (s)              23.1                     23.1                    52.3                    52.3
+Actuated g/C Ratio                  0.27                     0.27                    0.61                    0.61
+Clearance Time (s)                   4.0                      4.0                     4.0                     4.0
+Vehicle Extension (s)                3.0                      3.0                     3.0                     3.0
+Lane Grp Cap (vph)                  487                      360                     986                     990
+v/s Ratio Prot
+v/s Ratio Perm                      0.23                   c0.25                     0.28                   c0.54
+v/c Ratio                           0.85                    0.91                     0.45                    0.89
+Uniform Delay, d1                   29.5                    30.1                      8.9                    14.1
+Progression Factor                  1.00                    1.00                     1.00                    1.00
+Incremental Delay, d2               13.6                    25.2                      0.3                     9.8
+Delay (s)                           43.1                    55.3                      9.2                    23.9
+Level of Service                       D                       E                        A                       C
+Approach Delay (s)                  43.1                    55.3                      9.2                    23.9
+Approach LOS                           D                       E                        A                       C
+Intersection Summary
+HCM Average Control Delay                  29.5           HCM Level of Service                 C
+HCM Volume to Capacity ratio               0.89
+Actuated Cycle Length (s)                  85.4           Sum of lost time (s)               10.0
+Intersection Capacity Utilization       105.3%            ICU Level of Service                 G
+Analysis Period (min)                        15
+c Critical Lane Group
+
+
+
+
+Fehr and Peers                                                                                        Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                           A-13
+HCM Signalized Intersection Capacity Analysis                                                  2009 PM Peak Hour
+3: S 200th St & 26th Ave S                                                                                      Existing
+
+
+
+Movement                   EBL       EBT     EBR     WBL     WBT        WBR    NBL   NBT     NBR     SBL    SBT     SBR
+Lane Configurations
+Ideal Flow (vphpl)        1900      1900     1900    1900    1900       1900 1900    1900    1900   1900    1900    1900
+Total Lost time (s)         5.0       5.0              5.0     5.0        5.0          5.0            5.0     5.0
+Lane Util. Factor          1.00      0.95             1.00    1.00       1.00         0.95           1.00    0.95
+Frt                        1.00      1.00             1.00    1.00       0.85         0.85           1.00    0.85
+Flt Protected              0.95      1.00             0.95    1.00       1.00         1.00           0.95    1.00
+Satd. Flow (prot)         1770      3537             1770    1863       1583         3008           1770    3008
+Flt Permitted              0.57      1.00             0.36    1.00       1.00         1.00           0.75    1.00
+Satd. Flow (perm)         1068      3537              671    1863       1583         3008           1402    3008
+Volume (vph)                 10      768        4        5    292           3    0       0      7    126        0     28
+Peak-hour factor, PHF      0.95      0.95    0.95     0.95    0.95       0.95 0.95    0.95   0.95    0.95    0.95   0.95
+Adj. Flow (vph)              11      808        4        5    307           3    0       0      7    133        0     29
+RTOR Reduction (vph)          0         1       0        0       0          2    0       5      0       0      22      0
+Lane Group Flow (vph)        11      811        0        5    307           1    0       2      0    133        7      0
+Turn Type                 Perm                       Perm               Perm Perm                   Perm
+Protected Phases                       4                            8                   2                      6
+Permitted Phases              4                         8                  8     2                      6
+Actuated Green, G (s)      12.1      12.1            12.1     12.1      12.1          8.1             8.1    8.1
+Effective Green, g (s)     11.1      11.1            11.1     11.1      11.1          7.1             7.1    7.1
+Actuated g/C Ratio         0.39      0.39            0.39     0.39      0.39         0.25            0.25   0.25
+Clearance Time (s)          4.0       4.0             4.0      4.0       4.0          4.0             4.0    4.0
+Vehicle Extension (s)       3.0       3.0             3.0      3.0       3.0          3.0             3.0    3.0
+Lane Grp Cap (vph)         420      1392             264      733       623          757             353    757
+v/s Ratio Prot                      c0.23                     0.16                   0.00                   0.00
+v/s Ratio Perm             0.01                      0.01               0.00                        c0.09
+v/c Ratio                  0.03      0.58            0.02     0.42      0.00         0.00            0.38   0.01
+Uniform Delay, d1           5.2       6.7             5.2      6.2       5.2          7.9             8.7    7.9
+Progression Factor         1.00      1.00            1.00     1.00      1.00         1.00            1.00   1.00
+Incremental Delay, d2       0.0       0.6             0.0      0.4       0.0          0.0             0.7    0.0
+Delay (s)                   5.3       7.4             5.3      6.6       5.2          7.9             9.4    7.9
+Level of Service              A         A               A        A         A            A               A      A
+Approach Delay (s)                    7.3                      6.6                    7.9                    9.1
+Approach LOS                            A                        A                      A                      A
+Intersection Summary
+HCM Average Control Delay                      7.4       HCM Level of Service                  A
+HCM Volume to Capacity ratio                  0.50
+Actuated Cycle Length (s)                     28.2       Sum of lost time (s)                10.0
+Intersection Capacity Utilization           43.3%        ICU Level of Service                   A
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Fehr and Peers                                                                                        Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                             A-14
+HCM Signalized Intersection Capacity Analysis                                                2009 PM Peak Hour
+4: S 200th St & SR 99 (Pacific Highway)                                                                       Existing
+
+
+
+Movement                EBL EBT        EBR     WBL      WBT        WBR    NBL     NBT     NBR      SBL    SBT     SBR
+Lane Configurations
+Ideal Flow (vphpl)     1900 1900       1900    1900     1900       1900   1900    1900    1900    1900    1900    1900
+Total Lost time (s)      5.0    5.0              5.0      5.0               5.0     5.0     5.0     5.0     5.0     5.0
+Lane Util. Factor       1.00 0.95               1.00     0.95              1.00    0.95    1.00    1.00   *1.00    1.00
+Frt                     1.00 0.94               1.00     0.95              1.00    1.00    0.85    1.00    1.00    0.85
+Flt Protected           0.95 1.00               0.95     1.00              0.95    1.00    1.00    0.95    1.00    1.00
+Satd. Flow (prot)      1770 3314               1770     3345              1770    3539    1583    1770    3725    1583
+Flt Permitted           0.95 1.00               0.95     1.00              0.95    1.00    1.00    0.95    1.00    1.00
+Satd. Flow (perm)      1770 3314               1770     3345              1770    3539    1583    1770    3725    1583
+Volume (vph)              43   488     359      142      205       118     119     538       80    286    1335       70
+Peak-hour factor, PHF   0.90 0.90      0.90     0.90     0.90      0.90    0.90    0.90    0.90    0.90    0.90    0.90
+Adj. Flow (vph)           48   542     399      158      228       131     132     598       89    318    1483       78
+RTOR Reduction (vph)       0  107         0        0       63         0       0       0      64       0       0      35
+Lane Group Flow (vph)     48  834         0     158      296          0    132     598       25    318    1483       43
+Turn Type               Prot                    Prot                       Prot           Perm     Prot           Perm
+Protected Phases           7      4                3           8              5      2                1      6
+Permitted Phases                                                                             2                       6
+Actuated Green, G (s)    7.5 27.4               14.6     34.5             10.8    33.1    33.1     24.9 47.2      47.2
+Effective Green, g (s)   7.5 27.4               14.6     34.5             10.8    33.1    33.1     24.9 47.2      47.2
+Actuated g/C Ratio      0.06 0.23               0.12     0.29             0.09    0.28    0.28     0.21 0.39      0.39
+Clearance Time (s)       5.0    5.0               5.0     5.0              5.0     5.0     5.0       5.0  5.0      5.0
+Vehicle Extension (s)    3.0    3.0               3.0     3.0              3.0     3.0     3.0       3.0  3.0      3.0
+Lane Grp Cap (vph)      111    757               215     962              159     976     437       367 1465      623
+v/s Ratio Prot          0.03 c0.25             c0.09     0.09             0.07    0.17            c0.18 c0.40
+v/s Ratio Perm                                                                            0.02                    0.03
+v/c Ratio               0.43 1.10               0.73     0.31             0.83    0.61    0.06    0.87    1.01    0.07
+Uniform Delay, d1       54.2 46.3               50.8     33.4             53.7    37.9    32.0    45.9    36.4    22.7
+Progression Factor      1.00 1.00               1.00     1.00             1.00    1.00    1.00    1.00    1.00    1.00
+Incremental Delay, d2    2.7 64.0               12.2      0.2             29.2     2.9     0.2    18.8    26.6     0.2
+Delay (s)               56.9 110.3              63.1     33.6             82.9    40.7    32.2    64.8    63.0    22.9
+Level of Service           E      F                E        C                F       D       C       E       E       C
+Approach Delay (s)           107.7                       42.6                     46.6                    61.6
+Approach LOS                      F                         D                        D                       E
+Intersection Summary
+HCM Average Control Delay               67.2        HCM Level of Service                     E
+HCM Volume to Capacity ratio            1.00
+Actuated Cycle Length (s)              120.0        Sum of lost time (s)                  20.0
+Intersection Capacity Utilization     93.0%         ICU Level of Service                     F
+Analysis Period (min)                     15
+c Critical Lane Group
+
+
+
+
+Fehr and Peers                                                                                      Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                        A-15
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+      _____________________________________________ Appendix C
+                                             Level of Service Calculations
+                                                    Baseline Future (2015)
+
+
+
+
+                                                                   May 2009
+
+
+
+
+                                    A-16
+HCM Unsignalized Intersection Capacity Analysis                                              2015 PM Peak Hour
+2: S 200th St & 18th Ave S                                                                   Baseline without Project
+
+
+
+Movement                   EBL      EBT     EBR     WBL     WBT    WBR     NBL     NBT     NBR    SBL     SBT     SBR
+Lane Configurations
+Sign Control                        Free                    Free                   Stop                   Stop
+Grade                                0%                      0%                     0%                     0%
+Volume (veh/h)                1      581       0       0     303      73      0       0       0   221        0       6
+Peak Hour Factor           0.83     0.83    0.83    0.79    0.79    0.79   0.25    0.25    0.25   0.74    0.74    0.74
+Hourly flow rate (vph)        1      700       0       0     384      92      0       0       0   299        0       8
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                                                        None                   None
+Median storage veh)
+Upstream signal (ft)
+pX, platoon unblocked
+vC, conflicting volume     476                      700                    1140    1178    700    1132    1132    430
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol         476                      700                    1140    1178    700    1132    1132    430
+tC, single (s)              4.1                      4.1                     7.1     6.5    6.2     7.1     6.5    6.2
+tC, 2 stage (s)
+tF (s)                      2.2                      2.2                     3.5     4.0    3.3     3.5     4.0    3.3
+p0 queue free %            100                      100                     100     100    100        0    100     99
+cM capacity (veh/h)       1081                      892                     177     192    443     179     202    623
+Direction, Lane #         EB 1 WB 1         NB 1 SB 1
+Volume Total               701  476             0  307
+Volume Left                   1    0            0  299
+Volume Right                  0   92            0     8
+cSH                       1081  892         1700   183
+Volume to Capacity         0.00 0.00         0.00 1.68
+Queue Length 95th (ft)        0    0            0  525
+Control Delay (s)           0.0  0.0          0.0 372.9
+Lane LOS                      A                 A     F
+Approach Delay (s)          0.0  0.0          0.0 372.9
+Approach LOS                                    A     F
+Intersection Summary
+Average Delay                                77.1
+Intersection Capacity Utilization          52.3%          ICU Level of Service               A
+Analysis Period (min)                          15
+
+
+
+
+Fehr and Peers                                                                                      Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                           A-17
+HCM Signalized Intersection Capacity Analysis                                                  2015 PM Peak Hour
+1: S 200th St & Des Moines Memorial Dr                                                         Baseline without Project
+
+
+
+Movement                EBL         EBT     EBR    WBL      WBT     WBR    NBL       NBT     NBR     SBL     SBT    SBR
+Lane Configurations
+Ideal Flow (vphpl)     1900         1900    1900   1900     1900    1900   1900      1900    1900   1900    1900    1900
+Total Lost time (s)                   5.0                     5.0                      5.0                    5.0
+Lane Util. Factor                    1.00                    1.00                     1.00                   1.00
+Frt                                  0.97                    0.98                     0.94                   0.99
+Flt Protected                        1.00                    0.99                     1.00                   0.99
+Satd. Flow (prot)                   1827                    1773                     1749                   1856
+Flt Permitted                        0.98                    0.72                     0.91                   0.85
+Satd. Flow (perm)                   1798                    1282                     1595                   1594
+Volume (vph)              14         279      73      44     188      45      32      233    199     116     635      35
+Peak-hour factor, PHF   0.81         0.81   0.81    0.78     0.78   0.78    0.93      0.93   0.93    0.84    0.84   0.84
+Adj. Flow (vph)           17         344      90      56     241      58      34      251    214     138     756      42
+RTOR Reduction (vph)       0           10      0       0        8      0       0        24      0       0       2      0
+Lane Group Flow (vph)      0         441       0       0     347       0       0      475       0       0    934       0
+Heavy Vehicles (%)       1%           1%     1%      4%       4%     4%      2%        2%     2%      1%      1%     1%
+Turn Type              Perm                        Perm                    Perm                     Perm
+Protected Phases                       2                        6                       8                      4
+Permitted Phases           2           2              6         6                8                     4
+Actuated Green, G (s)               26.6                     26.6                    57.3                    57.3
+Effective Green, g (s)              25.6                     25.6                    56.3                    56.3
+Actuated g/C Ratio                  0.28                     0.28                    0.61                    0.61
+Clearance Time (s)                   4.0                      4.0                     4.0                     4.0
+Vehicle Extension (s)                3.0                      3.0                     3.0                     3.0
+Lane Grp Cap (vph)                  501                      357                     977                     977
+v/s Ratio Prot
+v/s Ratio Perm                      0.25                   c0.27                     0.30                   c0.59
+v/c Ratio                           0.88                    0.97                     0.49                    0.96
+Uniform Delay, d1                   31.7                    32.8                      9.8                    16.7
+Progression Factor                  1.00                    1.00                     1.00                    1.00
+Incremental Delay, d2               16.3                    40.0                      0.4                    18.9
+Delay (s)                           48.0                    72.8                     10.2                    35.6
+Level of Service                       D                       E                        B                       D
+Approach Delay (s)                  48.0                    72.8                     10.2                    35.6
+Approach LOS                           D                       E                        B                       D
+Intersection Summary
+HCM Average Control Delay                  38.3           HCM Level of Service                 D
+HCM Volume to Capacity ratio               0.96
+Actuated Cycle Length (s)                  91.9           Sum of lost time (s)               10.0
+Intersection Capacity Utilization       111.4%            ICU Level of Service                 H
+Analysis Period (min)                        15
+c Critical Lane Group
+
+
+
+
+Fehr and Peers                                                                                        Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                           A-18
+HCM Signalized Intersection Capacity Analysis                                                  2015 PM Peak Hour
+3: S 200th St & 26th Ave S                                                                     Baseline without Project
+
+
+
+Movement                   EBL       EBT     EBR     WBL     WBT        WBR    NBL   NBT     NBR     SBL    SBT     SBR
+Lane Configurations
+Ideal Flow (vphpl)        1900      1900     1900    1900    1900       1900 1900    1900    1900   1900    1900    1900
+Total Lost time (s)         5.0       5.0              5.0     5.0        5.0          5.0            5.0     5.0
+Lane Util. Factor          1.00      0.95             1.00    1.00       1.00         0.95           1.00    0.95
+Frt                        1.00      1.00             1.00    1.00       0.85         0.85           1.00    0.85
+Flt Protected              0.95      1.00             0.95    1.00       1.00         1.00           0.95    1.00
+Satd. Flow (prot)         1770      3537             1770    1863       1583         3008           1770    3008
+Flt Permitted              0.56      1.00             0.34    1.00       1.00         1.00           0.75    1.00
+Satd. Flow (perm)         1050      3537              631    1863       1583         3008           1401    3008
+Volume (vph)                 11      815        4        5    310          10    0       0      8    134        0     30
+Peak-hour factor, PHF      0.95      0.95    0.95     0.95    0.95       0.95 0.95    0.95   0.95    0.95    0.95   0.95
+Adj. Flow (vph)              12      858        4        5    326          11    0       0      8    141        0     32
+RTOR Reduction (vph)          0         1       0        0       0          7    0       6      0       0      24      0
+Lane Group Flow (vph)        12      861        0        5    326           4    0       2      0    141        8      0
+Turn Type                 Perm                       Perm               Perm Perm                   Perm
+Protected Phases                       4                            8                   2                      6
+Permitted Phases              4                         8                  8     2                      6
+Actuated Green, G (s)      12.8      12.8            12.8     12.8      12.8          8.4             8.4    8.4
+Effective Green, g (s)     11.8      11.8            11.8     11.8      11.8          7.4             7.4    7.4
+Actuated g/C Ratio         0.40      0.40            0.40     0.40      0.40         0.25            0.25   0.25
+Clearance Time (s)          4.0       4.0             4.0      4.0       4.0          4.0             4.0    4.0
+Vehicle Extension (s)       3.0       3.0             3.0      3.0       3.0          3.0             3.0    3.0
+Lane Grp Cap (vph)         424      1429             255      753       640          762             355    762
+v/s Ratio Prot                      c0.24                     0.18                   0.00                   0.00
+v/s Ratio Perm             0.01                      0.01               0.00                        c0.10
+v/c Ratio                  0.03      0.60            0.02     0.43      0.01         0.00            0.40   0.01
+Uniform Delay, d1           5.2       6.9             5.2      6.3       5.2          8.1             9.0    8.2
+Progression Factor         1.00      1.00            1.00     1.00      1.00         1.00            1.00   1.00
+Incremental Delay, d2       0.0       0.7             0.0      0.4       0.0          0.0             0.7    0.0
+Delay (s)                   5.3       7.6             5.3      6.7       5.2          8.1             9.8    8.2
+Level of Service              A         A               A        A         A            A               A      A
+Approach Delay (s)                    7.5                      6.6                    8.1                    9.5
+Approach LOS                            A                        A                      A                      A
+Intersection Summary
+HCM Average Control Delay                      7.6       HCM Level of Service                  A
+HCM Volume to Capacity ratio                  0.52
+Actuated Cycle Length (s)                     29.2       Sum of lost time (s)                10.0
+Intersection Capacity Utilization           45.1%        ICU Level of Service                   A
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Fehr and Peers                                                                                        Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                             A-19
+HCM Signalized Intersection Capacity Analysis                                               2015 PM Peak Hour
+4: S 200th St & SR 99 (Pacific Highway)                                                     Baseline without Project
+
+
+
+Movement                EBL EBT        EBR     WBL     WBT        WBR     NBL    NBT     NBR      SBL    SBT     SBR
+Lane Configurations
+Ideal Flow (vphpl)     1900 1900       1900    1900    1900       1900   1900    1900    1900    1900    1900    1900
+Total Lost time (s)      5.0    5.0              5.0     5.0               5.0     5.0     5.0     5.0     5.0     5.0
+Lane Util. Factor       1.00 0.95               1.00    0.95              1.00    0.95    1.00    1.00   *1.00    1.00
+Frt                     1.00 0.94               1.00    0.95              1.00    1.00    0.85    1.00    1.00    0.85
+Flt Protected           0.95 1.00               0.95    1.00              0.95    1.00    1.00    0.95    1.00    1.00
+Satd. Flow (prot)      1770 3314               1770    3346              1770    3539    1583    1770    3725    1583
+Flt Permitted           0.95 1.00               0.95    1.00              0.95    1.00    1.00    0.95    1.00    1.00
+Satd. Flow (perm)      1770 3314               1770    3346              1770    3539    1583    1770    3725    1583
+Volume (vph)              46   518     381      151     218       125     127     571       85    303    1417       74
+Peak-hour factor, PHF   0.90 0.90      0.90     0.90    0.90      0.90    0.90    0.90    0.90    0.90    0.90    0.90
+Adj. Flow (vph)           51   576     423      168     242       139     141     634       94    337    1574       82
+RTOR Reduction (vph)       0  109         0        0      65         0       0       0      68       0       0      35
+Lane Group Flow (vph)     51  890         0     168     316          0    141     634       26    337    1574       47
+Turn Type               Prot                    Prot                      Prot           Perm     Prot           Perm
+Protected Phases           7      4                3          8              5      2                1      6
+Permitted Phases                                                                            2                       6
+Actuated Green, G (s)    6.8 31.0               11.0 35.2                  9.0   32.7    32.7     25.3 49.0      49.0
+Effective Green, g (s)   6.8 31.0               11.0 35.2                  9.0   32.7    32.7     25.3 49.0      49.0
+Actuated g/C Ratio      0.06 0.26               0.09 0.29                 0.08   0.27    0.27     0.21 0.41      0.41
+Clearance Time (s)       5.0    5.0               5.0  5.0                 5.0    5.0     5.0       5.0  5.0      5.0
+Vehicle Extension (s)    3.0    3.0               3.0  3.0                 3.0    3.0     3.0       3.0  3.0      3.0
+Lane Grp Cap (vph)      100    856               162  981                 133    964     431       373 1521      646
+v/s Ratio Prot          0.03 c0.27             c0.09 c0.09                0.08   0.18            c0.19 c0.42
+v/s Ratio Perm                                                                           0.02                    0.03
+v/c Ratio               0.51 1.04               1.04    0.32              1.06   0.66    0.06    0.90    1.03    0.07
+Uniform Delay, d1       55.0 44.5               54.5    33.1              55.5   38.7    32.3    46.2    35.5    21.6
+Progression Factor      1.00 1.00               1.00    1.00              1.00   1.00    1.00    1.00    1.00    1.00
+Incremental Delay, d2    4.3 41.5               80.8     0.2              95.0    3.5     0.3    24.3    32.6     0.2
+Delay (s)               59.3 86.0              135.3    33.3             150.5   42.2    32.5    70.5    68.1    21.9
+Level of Service           E      F                F       C                 F      D       C       E       E       C
+Approach Delay (s)            84.7                      64.5                     58.7                    66.6
+Approach LOS                      F                        E                        E                       E
+Intersection Summary
+HCM Average Control Delay               69.1       HCM Level of Service                     E
+HCM Volume to Capacity ratio            1.09
+Actuated Cycle Length (s)              120.0       Sum of lost time (s)                  25.0
+Intersection Capacity Utilization     97.8%        ICU Level of Service                     F
+Analysis Period (min)                     15
+c Critical Lane Group
+
+
+
+
+Fehr and Peers                                                                                     Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                       A-20
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+      _____________________________________________ Appendix D
+                                             Trip Generation Data/Studies
+
+
+
+
+                                                                  May 2009
+
+
+
+
+                                    A-21
+A-22
+A-23
+A-24
+A-25
+A-26
+A-27
+A-28
+A-29
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+      _____________________________________________ Appendix E
+                                             Level of Service Calculations
+                                                       With Project (2015)
+
+
+
+
+                                                                   May 2009
+
+
+
+
+                                    A-30
+HCM Unsignalized Intersection Capacity Analysis                                              2015 PM Peak Hour
+2: S 200th St & 18th Ave S                                                                        Baseline with Project
+
+
+
+Movement                   EBL      EBT     EBR     WBL     WBT    WBR     NBL     NBT     NBR     SBL     SBT     SBR
+Lane Configurations
+Sign Control                        Free                    Free                   Stop                    Stop
+Grade                                0%                      0%                     0%                      0%
+Volume (veh/h)                1      581       6      17     303      73     15       0      45    221        0       6
+Peak Hour Factor           0.83     0.83    0.83    0.79    0.79    0.79   0.75    0.75    0.75    0.74    0.74    0.74
+Hourly flow rate (vph)        1      700       7      22     384      92     20       0      60    299        0       8
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                                                        None                    None
+Median storage veh)
+Upstream signal (ft)
+pX, platoon unblocked
+vC, conflicting volume     476                      707                    1187    1225    704    1239     1182    430
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol         476                      707                    1187    1225    704    1239     1182    430
+tC, single (s)              4.1                      4.1                     7.1     6.5    6.2     7.1      6.5    6.2
+tC, 2 stage (s)
+tF (s)                      2.2                      2.2                     3.5     4.0    3.3      3.5     4.0    3.3
+p0 queue free %            100                       98                      88     100     86         0    100     99
+cM capacity (veh/h)       1081                      887                     162     176    441      128     184    623
+Direction, Lane #         EB 1 WB 1         NB 1 SB 1
+Volume Total               708  497           80  307
+Volume Left                   1   22          20  299
+Volume Right                  7   92          60     8
+cSH                       1081  887          308  131
+Volume to Capacity         0.00 0.02        0.26 2.34
+Queue Length 95th (ft)        0    2          25  658
+Control Delay (s)           0.0  0.7        20.8 679.8
+Lane LOS                      A    A           C     F
+Approach Delay (s)          0.0  0.7        20.8 679.8
+Approach LOS                                   C     F
+Intersection Summary
+Average Delay                               132.2
+Intersection Capacity Utilization          61.5%          ICU Level of Service               B
+Analysis Period (min)                          15
+
+
+
+
+Fehr and Peers                                                                                       Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                           A-31
+HCM Signalized Intersection Capacity Analysis                                                  2015 PM Peak Hour
+1: S 200th St & Des Moines Memorial Dr                                                              Baseline with Project
+
+
+
+Movement                EBL         EBT     EBR    WBL      WBT     WBR    NBL       NBT     NBR     SBL     SBT    SBR
+Lane Configurations
+Ideal Flow (vphpl)     1900         1900    1900   1900     1900    1900   1900      1900    1900   1900    1900    1900
+Total Lost time (s)                   5.0                     5.0                      5.0                    5.0
+Lane Util. Factor                    1.00                    1.00                     1.00                   1.00
+Frt                                  0.97                    0.98                     0.94                   0.99
+Flt Protected                        1.00                    0.99                     1.00                   0.99
+Satd. Flow (prot)                   1827                    1771                     1747                   1856
+Flt Permitted                        0.98                    0.67                     0.91                   0.84
+Satd. Flow (perm)                   1796                    1205                     1592                   1574
+Volume (vph)              14         279      73      59     188      45      32      233    205     116     635      35
+Peak-hour factor, PHF   0.81         0.81   0.81    0.78     0.78   0.78    0.93      0.93   0.93    0.84    0.84   0.84
+Adj. Flow (vph)           17         344      90      76     241      58      34      251    220     138     756      42
+RTOR Reduction (vph)       0           10      0       0        7      0       0        26      0       0       2      0
+Lane Group Flow (vph)      0         441       0       0     368       0       0      479       0       0    934       0
+Heavy Vehicles (%)       1%           1%     1%      4%       4%     4%      2%        2%     2%      1%      1%     1%
+Turn Type              Perm                        Perm                    Perm                     Perm
+Protected Phases                       2                        6                       8                       4
+Permitted Phases           2           2              6         6                8                      4
+Actuated Green, G (s)               30.9                     30.9                    57.2                    57.2
+Effective Green, g (s)              29.9                     29.9                    56.2                    56.2
+Actuated g/C Ratio                  0.31                     0.31                    0.58                    0.58
+Clearance Time (s)                   4.0                      4.0                     4.0                     4.0
+Vehicle Extension (s)                3.0                      3.0                     3.0                     3.0
+Lane Grp Cap (vph)                  559                      375                     931                     920
+v/s Ratio Prot
+v/s Ratio Perm                      0.25                   c0.31                     0.30                   c0.59
+v/c Ratio                           0.79                    0.98                     0.51                    1.02
+Uniform Delay, d1                   30.2                    32.8                     11.8                    19.9
+Progression Factor                  1.00                    1.00                     1.00                    1.00
+Incremental Delay, d2                7.3                    41.4                      0.5                    33.6
+Delay (s)                           37.5                    74.2                     12.3                    53.6
+Level of Service                       D                       E                        B                       D
+Approach Delay (s)                  37.5                    74.2                     12.3                    53.6
+Approach LOS                           D                       E                        B                       D
+Intersection Summary
+HCM Average Control Delay                  44.6           HCM Level of Service                 D
+HCM Volume to Capacity ratio               1.00
+Actuated Cycle Length (s)                  96.1           Sum of lost time (s)               10.0
+Intersection Capacity Utilization       119.0%            ICU Level of Service                 H
+Analysis Period (min)                        15
+c Critical Lane Group
+
+
+
+
+Fehr and Peers                                                                                         Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                           A-32
+HCM Signalized Intersection Capacity Analysis                                                  2015 PM Peak Hour
+3: S 200th St & 26th Ave S                                                                          Baseline with Project
+
+
+
+Movement                   EBL       EBT     EBR     WBL     WBT        WBR    NBL   NBT     NBR     SBL     SBT    SBR
+Lane Configurations
+Ideal Flow (vphpl)        1900      1900     1900    1900    1900       1900 1900    1900    1900   1900    1900    1900
+Total Lost time (s)         5.0       5.0              5.0     5.0        5.0          5.0            5.0     5.0
+Lane Util. Factor          1.00      0.95             1.00    1.00       1.00         0.95           1.00    0.95
+Frt                        1.00      1.00             1.00    1.00       0.85         0.85           1.00    0.85
+Flt Protected              0.95      1.00             0.95    1.00       1.00         1.00           0.95    1.00
+Satd. Flow (prot)         1770      3537             1770    1863       1583         3008           1770    3008
+Flt Permitted              0.55      1.00             0.33    1.00       1.00         1.00           0.75    1.00
+Satd. Flow (perm)         1032      3537              621    1863       1583         3008           1401    3008
+Volume (vph)                 11      860        4        5    327          10    0       0      8    134        0     30
+Peak-hour factor, PHF      0.95      0.95    0.95     0.95    0.95       0.95 0.95    0.95   0.95    0.95    0.95   0.95
+Adj. Flow (vph)              12      905        4        5    344          11    0       0      8    141        0     32
+RTOR Reduction (vph)          0         1       0        0       0          7    0       6      0       0      24      0
+Lane Group Flow (vph)        12      908        0        5    344           4    0       2      0    141        8      0
+Turn Type                 Perm                       Perm               Perm Perm                   Perm
+Protected Phases                       4                            8                   2                       6
+Permitted Phases              4                         8                  8     2                      6
+Actuated Green, G (s)      13.0      13.0            13.0     13.0      13.0          8.4             8.4     8.4
+Effective Green, g (s)     12.0      12.0            12.0     12.0      12.0          7.4             7.4     7.4
+Actuated g/C Ratio         0.41      0.41            0.41     0.41      0.41         0.25            0.25    0.25
+Clearance Time (s)          4.0       4.0             4.0      4.0       4.0          4.0             4.0     4.0
+Vehicle Extension (s)       3.0       3.0             3.0      3.0       3.0          3.0             3.0     3.0
+Lane Grp Cap (vph)         421      1444             253      760       646          757             353     757
+v/s Ratio Prot                      c0.26                     0.18                   0.00                    0.00
+v/s Ratio Perm             0.01                      0.01               0.00                        c0.10
+v/c Ratio                  0.03      0.63            0.02     0.45      0.01         0.00            0.40    0.01
+Uniform Delay, d1           5.2       6.9             5.2      6.3       5.2          8.2             9.2     8.3
+Progression Factor         1.00      1.00            1.00     1.00      1.00         1.00            1.00    1.00
+Incremental Delay, d2       0.0       0.9             0.0      0.4       0.0          0.0             0.7     0.0
+Delay (s)                   5.2       7.8             5.2      6.7       5.2          8.2             9.9     8.3
+Level of Service              A         A               A        A         A            A               A       A
+Approach Delay (s)                    7.8                      6.7                    8.2                     9.6
+Approach LOS                            A                        A                      A                       A
+Intersection Summary
+HCM Average Control Delay                      7.7       HCM Level of Service                  A
+HCM Volume to Capacity ratio                  0.54
+Actuated Cycle Length (s)                     29.4       Sum of lost time (s)                10.0
+Intersection Capacity Utilization           46.3%        ICU Level of Service                   A
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Fehr and Peers                                                                                         Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                             A-33
+HCM Signalized Intersection Capacity Analysis                                               2015 PM Peak Hour
+4: S 200th St & SR 99 (Pacific Highway)                                                          Baseline with Project
+
+
+
+Movement                EBL EBT        EBR     WBL     WBT        WBR     NBL    NBT     NBR      SBL     SBT    SBR
+Lane Configurations
+Ideal Flow (vphpl)     1900 1900       1900    1900    1900       1900   1900    1900    1900    1900    1900    1900
+Total Lost time (s)      5.0    5.0              5.0     5.0               5.0     5.0     5.0     5.0     5.0     5.0
+Lane Util. Factor       1.00 0.95               1.00    0.95              1.00    0.95    1.00    1.00   *1.00    1.00
+Frt                     1.00 0.94               1.00    0.95              1.00    1.00    0.85    1.00    1.00    0.85
+Flt Protected           0.95 1.00               0.95    1.00              0.95    1.00    1.00    0.95    1.00    1.00
+Satd. Flow (prot)      1770 3317               1770    3351              1770    3539    1583    1770    3725    1583
+Flt Permitted           0.95 1.00               0.95    1.00              0.95    1.00    1.00    0.95    1.00    1.00
+Satd. Flow (perm)      1770 3317               1770    3351              1770    3539    1583    1770    3725    1583
+Volume (vph)              46   548     396      151     229       125     133     571       85    303    1417       74
+Peak-hour factor, PHF   0.90 0.90      0.90     0.90    0.90      0.90    0.90    0.90    0.90    0.90    0.90    0.90
+Adj. Flow (vph)           51   609     440      168     254       139     148     634       94    337    1574       82
+RTOR Reduction (vph)       0  108         0        0      59         0       0       0      69       0       0      35
+Lane Group Flow (vph)     51  941         0     168     334          0    148     634       25    337    1574       47
+Turn Type               Prot                    Prot                      Prot           Perm     Prot           Perm
+Protected Phases           7      4                3          8              5      2                1       6
+Permitted Phases                                                                            2                       6
+Actuated Green, G (s)    6.8 32.0               11.0 36.2                 10.0   31.7    31.7     25.3 47.0      47.0
+Effective Green, g (s)   6.8 32.0               11.0 36.2                 10.0   31.7    31.7     25.3 47.0      47.0
+Actuated g/C Ratio      0.06 0.27               0.09 0.30                 0.08   0.26    0.26     0.21 0.39      0.39
+Clearance Time (s)       5.0    5.0               5.0  5.0                 5.0    5.0     5.0       5.0  5.0      5.0
+Vehicle Extension (s)    3.0    3.0               3.0  3.0                 3.0    3.0     3.0       3.0  3.0      3.0
+Lane Grp Cap (vph)      100    885               162 1011                 148    935     418       373 1459      620
+v/s Ratio Prot          0.03 c0.28             c0.09 c0.10                0.08   0.18            c0.19 c0.42
+v/s Ratio Perm                                                                           0.02                    0.03
+v/c Ratio               0.51 1.06               1.04    0.33              1.00   0.68    0.06     0.90    1.08   0.08
+Uniform Delay, d1       55.0 44.0               54.5    32.5              55.0   39.6    33.0     46.2    36.5   22.9
+Progression Factor      1.00 1.00               1.00    1.00              1.00   1.00    1.00     1.00    1.00   1.00
+Incremental Delay, d2    4.3 48.6               80.8     0.2              74.0    3.9     0.3     24.3    48.0    0.2
+Delay (s)               59.3 92.6              135.3    32.7             129.0   43.5    33.3     70.5    84.5   23.1
+Level of Service           E      F                F       C                 F      D       C        E       F      C
+Approach Delay (s)            91.1                      63.4                     56.9                     79.6
+Approach LOS                      F                        E                        E                        E
+Intersection Summary
+HCM Average Control Delay               76.0       HCM Level of Service                     E
+HCM Volume to Capacity ratio            1.12
+Actuated Cycle Length (s)              120.0       Sum of lost time (s)                  25.0
+Intersection Capacity Utilization     99.4%        ICU Level of Service                     F
+Analysis Period (min)                     15
+c Critical Lane Group
+
+
+
+
+Fehr and Peers                                                                                      Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                       A-34
+HCM Unsignalized Intersection Capacity Analysis                                               2015 PM Peak Hour
+2: S 200th St & 18th Ave S                                                                         Mitigated intersection
+
+
+
+Movement                   EBL      EBT     EBR     WBL     WBT    WBR     NBL      NBT     NBR     SBL       SBT    SBR
+Lane Configurations
+Sign Control                        Free                    Free                    Stop                     Stop
+Grade                                0%                      0%                      0%                       0%
+Volume (veh/h)                1      581       6      17     303      73     15        0      45    221         0       6
+Peak Hour Factor           0.83     0.83    0.83    0.79    0.79    0.79   0.75     0.75    0.75    0.74     0.74    0.74
+Hourly flow rate (vph)        1      700       7      22     384      92     20        0      60    299         0       8
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                                                        TWLTL                    TWLTL
+Median storage veh)                                                                    1                        1
+Upstream signal (ft)
+pX, platoon unblocked
+vC, conflicting volume     476                      707                    1141     1225    704     1235     1182    430
+vC1, stage 1 conf vol                                                       706      706             473      473
+vC2, stage 2 conf vol                                                       435      519             762      710
+vCu, unblocked vol         476                      707                    1141     1225    704     1235     1182    430
+tC, single (s)              4.1                      4.1                     7.1      6.5    6.2      7.1      6.5    6.2
+tC, 2 stage (s)                                                              6.1      5.5             6.1      5.5
+tF (s)                      2.2                      2.2                     3.5      4.0    3.3      3.5      4.0    3.3
+p0 queue free %            100                       98                      93      100     86         0     100     99
+cM capacity (veh/h)       1081                      887                     302      298    441      238      296    623
+Direction, Lane #         EB 1      EB 2 WB 1 WB 2          NB 1 SB 1
+Volume Total                  1      707    22 476            80  307
+Volume Left                   1         0   22    0           20  299
+Volume Right                  0         7    0   92           60     8
+cSH                       1081      1700  887 1700           395  242
+Volume to Capacity         0.00      0.42 0.02 0.28         0.20 1.27
+Queue Length 95th (ft)        0         0    2    0           19  387
+Control Delay (s)           8.3       0.0  9.2  0.0         16.4 189.8
+Lane LOS                      A              A                 C     F
+Approach Delay (s)          0.0            0.4              16.4 189.8
+Approach LOS                                                   C     F
+Intersection Summary
+Average Delay                                37.5
+Intersection Capacity Utilization          58.6%          ICU Level of Service                B
+Analysis Period (min)                          15
+
+
+
+
+Fehr and Peers                                                                                        Synchro 6 Report
+Mirai Associates, Inc.
+
+
+                                                           A-35
+SCORE Jail Project Traffic Impact Analysis
+
+
+
+
+       _____________________________________________ Appendix F
+                                             Parking Analysis Model
+
+
+
+
+                                                             May 2009
+
+
+
+
+                                    A-36
+Score Jail Parking Analysis
+
+            Employee   Visitors   Other   Lot 1   Lot 2   Total
+     6:15         40          0       1     40        1     41
+     6:30         40          0       1     40        1     41
+     6:45         80          0       1     80        1     81
+     7:00         80          0       1     80        1     81
+     7:15         40          0       1     40        1     41
+     7:30         40          0       2     40        2     42
+     7:45         55          0       2     55        2     57
+     8:00         60          0       3     60        3     63
+     8:15         60          0       4     60        4     64
+     8:30         60          0       4     60        4     64
+     8:45         60          0       4     60        4     64
+     9:00         60          8       5     60      13      73
+     9:15         60         15       6     60      21      81
+     9:30         60         15       6     60      21      81
+     9:45         60         15       6     60      21      81
+    10:00         60         15       6     60      21      81
+    10:15         60         15       6     60      21      81
+    10:30         60         15       6     60      21      81
+    10:45         60         15       6     60      21      81
+    11:00         60         18       7     60      25      85
+    11:15         60         20       8     60      28      88
+    11:30         60         20       9     60      29      89
+    11:45         60         20       9     60      29      89
+    12:00         60         23       9     60      32      92
+    12:15         60         25      10     60      35      95
+    12:30         60         25      10     60      35      95
+    12:45         60         25      10     60      35      95
+    13:00         60         28      10     60      37      97
+    13:15         60         30       9     60      39      99
+    13:30         60         30       9     60      39      99
+    13:45         60         30       9     60      39      99
+    14:00         60         30       8     60      38      98
+    14:15         60         30       7     60      37      97
+    14:30         60         30       6     60      36      96
+    14:45         60         30       6     60      36      96
+    15:00         60         28       6     60      33      93
+    15:15         60         25       5     60      30      90
+    15:30         60         25       4     60      29      89
+    15:45         60         25       4     60      29      89
+    16:00         60         13       4     60      16      76
+    16:15         60          0       3     60        3     63
+    16:30         60          0       2     60        2     62
+    16:45         60          0       2     60        2     62
+    17:00         60          0       1     60        1     61
+    17:15         40          0       1     40        1     41
+    17:30         40          0       0     40        0     40
+    17:45         40          0       0     40        0     40
+    18:00         40          0       0     40        0     40
+    18:15         40          0       0     40        0     40
+    18:30         40          0       0     40        0     40
+    18:45         40          0       0     40        0     40
+    19:00         80          0       0     80        0     80
+    19:15         80          0       0     80        0     80
+    19:30         40          0       0     40        0     40
+
+
+
+
+                                                  A-37
+
