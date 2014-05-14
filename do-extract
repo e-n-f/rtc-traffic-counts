@@ -1,6 +1,5 @@
 #!/bin/sh
 
-./extract bothell/*.txt > counts-bothell.csv
 ./extract corvallis/*.txt > counts-corvallis.csv
 ./extract dc/*.txt > counts-dc.csv
 ./extract misc/*.txt > counts-misc.csv
