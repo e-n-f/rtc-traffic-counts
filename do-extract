@@ -2,6 +2,7 @@
 
 ./extract corvallis/*.txt > counts-corvallis.csv
 ./extract dc/*.txt > counts-dc.csv
+./extract oakland/*.txt > counts-oakland.csv
 ./extract misc/*.txt > counts-misc.csv
 ./extract eugene/*.txt > counts-eugene.csv
 
