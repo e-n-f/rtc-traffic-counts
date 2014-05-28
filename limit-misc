@@ -2,9 +2,9 @@
 
 $max = 50;
 
-for $file (<misc.orig/*.txt>) {
-	$out = $file;
-	$out =~ s/\.orig//;
+for $file (<misc/*.txt>) {
+	$out = "$file.tmp";
+	print STDERR "$file $out\n";
 
 	open(IN, "$file");
 	open(OUT, ">$out");
@@ -27,4 +27,6 @@ for $file (<misc.orig/*.txt>) {
 	}
 	close(IN);
 	close(OUT);
+
+	rename($out, $file);
 }
