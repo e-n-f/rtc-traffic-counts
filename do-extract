@@ -8,3 +8,4 @@
 
 find rtc -name '*.txt' -print0 | xargs -0 ./extract > counts-rtc.csv
 find portland -name '*.txt' -print0 | xargs -0 ./extract > counts-portland.csv
+find sf -name '*.txt' -print0 | xargs -0 ./extract > counts-sf.csv
