@@ -4,6 +4,7 @@
 ./extract dc/*.txt > counts-dc.csv
 ./extract oakland/*.txt > counts-oakland.csv
 ./extract misc/*.txt > counts-misc.csv
+./extract sanjose/*.txt > counts-sanjose.csv
 ./extract eugene/*.txt > counts-eugene.csv
 
 find rtc -name '*.txt' -print0 | xargs -0 ./extract > counts-rtc.csv
