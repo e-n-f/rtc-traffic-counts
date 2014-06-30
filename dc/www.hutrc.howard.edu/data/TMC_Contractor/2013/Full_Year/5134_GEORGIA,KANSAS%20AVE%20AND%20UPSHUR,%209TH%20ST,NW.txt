@@ -1,0 +1,167 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Kansas Ave NW                                                                                          QC JOB #: 10695525
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, May 15 2013
+                    494             513                          Peak-Hour: 7:00 PM -- 8:00 PM                                    1.4        2.9
+
+                       43 451        0
+                                                                Peak 15-Min: 7:00 PM -- 7:15 PM
+                                                                                                                                  0.0 1.6 0.0
+
+
+       170   0                              0   138
+                                                                                                                     0.0   0.0                      0.0      2.2
+             199             0.90         127
+                                                                                                                           0.5                      0.0
+       199   0                             11   209
+                                                                                                                     0.5   0.0                     27.3      0.5
+
+                         0   513 10
+                                                                                                                                  0.0 2.9 0.0
+
+                    462             523
+                                                                                                                                  2.2        2.9
+
+
+
+                              23                                                                                                  3     3    0
+
+
+
+                                                                                                                           0                          0
+
+             79                             0                                                                              12                         5
+
+                                                                                                                           0                          0
+
+                              8                                                                                                   0     2    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                           NA                                                                               NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                 Georgia Ave                     Georgia Ave               Kansas Ave NW             Kansas Ave NW                    Total      Hourly
+    Period                   (Northbound)                    (Southbound)                (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U       Left Thru Right     U     Left Thru Right           U
+    7:00 PM        0         147       0        0      0      134      9    0        0    52      0     0      3    31      0           0          376
+    7:15 PM        0         126       2        0      0      110     13    0        0    43      0     0      5    34      0           0          333
+    7:30 PM        0         136       7        0      0       96     10    0        0    61      0     0      3    31      0           0          344
+    7:45 PM        0         104       1        0      0      111     11    0        0    43      0     0      0    31      0           0          301            1354
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         588      0     0          0     536     36     0        0     208      0    0     12     124     0     0                     1504
+ Heavy Trucks      0          12      0                0       8      0              0       0      0           4       0     0                             24
+  Pedestrians                 16                              48                            84                          0                                  148
+    Bicycles       0           0      0                0       2      1              0       0      0          0        0     0                              3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 6:05 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Kansas Ave NW                                                                                           QC JOB #: 10695526
+ CITY/STATE: Washington, DC                                                                                                       DATE: Sat, Jun 01 2013
+                    664             616                          Peak-Hour: 1:15 PM -- 2:15 PM                                     3.0        2.6
+
+                       92 571        1
+                                                                Peak 15-Min: 1:30 PM -- 1:45 PM
+                                                                                                                                   2.2 3.2 0.0
+
+
+       267   51                             3   203
+                                                                                                                      1.9   2.0                      0.0      3.0
+             163             0.93         173
+                                                                                                                            0.0                      1.7
+       214   0                             27   233
+                                                                                                                      0.5   0.0                     11.1      1.7
+
+                         2   562 69
+                                                                                                                                   0.0 2.7 5.8
+
+                    598             633
+                                                                                                                                   3.5        3.0
+
+
+
+                              30                                                                                                    1    0    0
+
+
+
+                                                                                                                            0                          0
+
+             47                            13                                                                               7                         11
+
+                                                                                                                            0                          0
+
+                              10                                                                                                    0    4    1
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+
+             NA                           NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+ 15-Min Count                 Georgia Ave                     Georgia Ave                  Kansas Ave NW           Kansas Ave NW                    Total      Hourly
+    Period                   (Northbound)                    (Southbound)                   (Eastbound)             (Westbound)                                Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U       Left    Thru Right     U   Left Thru Right           U
+    1:00 PM        0         133      14        0      2      139     14    0         9      31      0     0    11   47      1           0          401
+    1:15 PM        0         123      12        0      0      143     28    0        11      36      0     0     6   45      3           0          407
+    1:30 PM        0         156      25        0      0      142     22    0        13      50      0     0     9   45      0           0          462
+    1:45 PM        0         154      15        0      0      141     22    0        14      44      0     0     3   45      0           0          438            1708
+    2:00 PM        2         129      17        0      1      145     20    0        13      33      0     0     9   38      0           0          407            1714
+    2:15 PM        1         135       6        0      0      147      9    0         6      33      0     0    10   32      1           0          380            1687
+    2:30 PM        1         121      11        0      2      124     15    0        11      22      1     0     2   39      1           0          350            1575
+    2:45 PM        0         139      10        0      0      142     13    0         7      44      0     0     9   39      1           0          404            1541
+    3:00 PM        1         120      10        0      1      121     16    0        11      33      0     0     6   42      0           0          361            1495
+    3:15 PM        0         157      15        0      2      119     25    0        18      33      0     0     3   41      1           0          414            1529
+    3:30 PM        0         129      16        0      1      135     23    0         8      34      0     0     2   31      1           0          380            1559
+    3:45 PM        0         130      13        0      0      129     21    0        13      46      0     0     4   39      0           0          395            1550
+    4:00 PM        1         128      11        0      2      109     11    0         7      35      0     0     8   43      1           0          356            1545
+    4:15 PM        0         104       5        0      1      113     10    0         6      39      0     0     1   38      0           0          317            1448
+    4:30 PM        0          118      5        0      1      136     17    0        12      33      0     0     7   39      1           0          369            1437
+    4:45 PM        0         140      11        0      1      106     13    0         8      29      0     0     5   42      0           0          355            1397
+    5:00 PM        0         136      13        0      1      133     24    0        12      48      1     0     4   33      0           0          405            1446
+    5:15 PM        1         144      16        0      2      113     18    0         4      37      0     0     4   38      0           0          377            1506
+    5:30 PM        1         128       7        0      0      125     13    0         8      38      0     0     5   41      1           0          367            1504
+    5:45 PM        0         104      13        0      1      125     16    0         6      28      0     0     2   41      0           0          336            1485
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                     Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U        Left    Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         624    100     0          0     568     88     0        52     200      0    0     36     180     0     0                     1848
+ Heavy Trucks      0          12      4                0      12      0               0       0      0           4       0     0                             32
+  Pedestrians                  8                              36                             52                         12                                  108
+    Bicycles       0           0      0                0       0      0              0        0      0          0        5     0                              5
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 6:05 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

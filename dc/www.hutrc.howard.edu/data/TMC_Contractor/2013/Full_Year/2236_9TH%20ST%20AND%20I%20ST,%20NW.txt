@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 9th St -- I St NW                                                                                                 QC JOB #: 10862870
+ CITY/STATE: Washington, DC                                                                                                  DATE: Wed, Jan 30 2013
+                    992             0                          Peak-Hour: 7:45 AM -- 8:45 AM                                  5.6        0.0
+
+                         1   858 133
+                                                              Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                             100.0 6.2 1.5
+
+
+       5     0                            0    58
+                                                                                                               40.0   0.0                        0.0      13.8
+             0               0.90         1
+                                                                                                                      0.0                        0.0
+       5     5                           57   133
+                                                                                                               60.0   60.0                      14.0       1.5
+
+                         3    0     0
+                                                                                                                              33.3 0.0 0.0
+
+                    920             3
+                                                                                                                              7.0        33.3
+
+
+
+                              45                                                                                               0    12    2
+
+
+
+                                                                                                                      0                            0
+
+             9                          264                                                                           0                            0
+
+                                                                                                                      0                            1
+
+                              10                                                                                               0    0     0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                         NA                                                                            NA                         NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count                    9th St                        9th St                  I St NW                    I St NW                       Total        Hourly
+    Period                   (Northbound)                  (Southbound)              (Eastbound)                (Westbound)                                  Totals
+ Beginning At     Left        Thru Right      U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right          U
+    7:00 AM        1            0       0     0      19     131       0   0    0       0       2   0     11       0       0         0           164
+    7:15 AM        2            0       1     0      22     169       0   0    0       0       4   0     14       0       0         0           212
+    7:30 AM        1            0       0     0      29     200       1   0    0       0       1   0      9       0       0         0           241
+    7:45 AM        2            0       0     0      34     218       1   0    0       0       1   0     12       0       0         0           268              885
+    8:00 AM        1            0       0     0      42     228       0   0    0       0       3   0     21       0       0         0           295             1016
+    8:15 AM        0            0       0     0      25     212       0   0    0       0       0   0     14       0       0         0           251             1055
+    8:30 AM        0            0       0     0      32     200       0   0    0       0       1   0     10       1       0         0           244             1058
+    8:45 AM        0            0       0     0      24     216       1   0    0       0       1   0     20       0       0         0           262             1052
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                         Total
+  All Vehicles     4           0      0     0       168    912      0     0    0       0    12     0     84       0     0     0                         1180
+ Heavy Trucks      0           0      0               0     40      0          0       0      8           8       0     0                                 56
+  Pedestrians                  8                            48                        12                        228                                      296
+    Bicycles       0           0      0               1      3      0          0       0      0          1        0     0                                  5
+   Railroad
+Stopped Buses
+ Comments: 2236
+Report generated on 3/26/2013 2:54 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 9th St -- I St NW                                                                                                 QC JOB #: 10862872
+ CITY/STATE: Washington, DC                                                                                                  DATE: Wed, Jan 30 2013
+                    755             0                         Peak-Hour: 12:00 PM -- 1:00 PM                                   7.4         0.0
+
+                         5   643 107
+                                                             Peak 15-Min: 12:00 PM -- 12:15 PM
+                                                                                                                              60.0 7.3 5.6
+
+
+       7     0                            0    88
+                                                                                                               71.4   0.0                           0.0     13.6
+             3               0.95         1
+                                                                                                                      100.0                       100.0
+       9     6                           87   110
+                                                                                                               77.8   66.7                         12.6      8.2
+
+                         1    0     0
+                                                                                                                              100.0 0.0 0.0
+
+                    736             1
+                                                                                                                               8.4        100.0
+
+
+
+                              39                                                                                               0     5     0
+
+
+
+                                                                                                                      0                              0
+
+             9                          409                                                                           0                              0
+
+                                                                                                                      0                              1
+
+                              7                                                                                                0     2     1
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                         NA                                                                            NA                            NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count                    9th St                        9th St                  I St NW                    I St NW                         Total        Hourly
+    Period                   (Northbound)                  (Southbound)              (Eastbound)                (Westbound)                                    Totals
+ Beginning At     Left        Thru Right      U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right           U
+   11:00 AM        0            0       0     0      30     157       2   0    0       0       2   0     28       0       0          0            219
+   11:15 AM        1            0       0     0      35     134       1   0    0       0       5   0     27       0       0          0            203
+   11:30 AM        1            0       0     0      32     138       1   0    0       0       0   0     23       0       0          0            195
+   11:45 AM        0            0       1     0      24     151       1   0    0       0       2   0     12       0       0          1            192              809
+   12:00 PM        0            0       0     0      21     184       1   0    0       0       1   0     17       0       0          0            224              814
+   12:15 PM        0            0       0     0      30     155       1   0    0       0       1   0     21       0       0          0            208              819
+   12:30 PM        1            0       0     0      25     162       3   0    0       1       3   0     24       0       0          0            219              843
+   12:45 PM        0            0       0     0      31     142       0   0    0       2       1   0     25       1       0          0            202              853
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                           Total
+  All Vehicles     0           0      0     0        84    736      4     0    0       0      4    0     68       0     0     0                           896
+ Heavy Trucks      0           0      0               8     40      0          0       0      0          20       0     0                                  68
+  Pedestrians                  4                             8                        12                        336                                       360
+    Bicycles       0           1      0              0       1      0          0       0      0          0        0     0                                   2
+   Railroad
+Stopped Buses
+ Comments: 2236
+Report generated on 3/26/2013 2:54 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 9th St -- I St NW                                                                                               QC JOB #: 10862871
+ CITY/STATE: Washington, DC                                                                                                DATE: Wed, Jan 30 2013
+                    913             0                          Peak-Hour: 4:30 PM -- 5:30 PM                                4.1        0.0
+
+                         0   834 79
+                                                              Peak 15-Min: 4:45 PM -- 5:00 PM
+                                                                                                                            0.0 3.7 7.6
+
+
+       0     0                            0   220
+                                                                                                               0.0   0.0                      0.0       1.4
+             0               0.97         0
+                                                                                                                     0.0                      0.0
+       0     0                          220    79
+                                                                                                               0.0   0.0                      1.4       7.6
+
+                         0    0     0
+                                                                                                                            0.0 0.0 0.0
+
+                    1054            0
+                                                                                                                            3.2        0.0
+
+
+
+                              90                                                                                             0    6    3
+
+
+
+                                                                                                                     0                          0
+
+             36                         329                                                                          0                          0
+
+                                                                                                                     0                          0
+
+                              23                                                                                             0    0    0
+
+
+
+
+                             NA                                                                                                   NA
+
+
+
+
+             NA                         NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                   NA
+
+
+
+ 15-Min Count                    9th St                        9th St                  I St NW                    I St NW                    Total       Hourly
+    Period                   (Northbound)                  (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right      U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        0            0       0     0      17     207       0   0    0       0       0   0     66       0       0       0          290
+    4:45 PM        0            0       0     0      20     221       0   0    0       0       0   0     52       0       0       0          293
+    5:00 PM        0            0       0     0      22     215       0   0    0       0       0   0     50       0       0       0          287
+    5:15 PM        0            0       0     0      20     191       0   0    0       0       0   0     52       0       0       0          263             1133
+    5:30 PM        0            0       0     0      20     216       0   0    0       0       0   0     48       0       0       0          284             1127
+    5:45 PM        0            0       0     0      22     200       0   0    0       0       0   0     53       0       0       0          275             1109
+    6:00 PM        0            0       0     0      17     204       1   0    0       0       0   0     55       0       0       1          278             1100
+    6:15 PM        0            0       0     0      17     215       0   0    0       0       0   0     49       0       0       0          281             1118
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U   Left     Thru Right    U                      Total
+  All Vehicles     0           0      0     0        80    884      0     0    0       0      0    0   208        0     0     0                      1172
+ Heavy Trucks      0           0      0              12     32      0          0       0      0          0        0     0                              44
+  Pedestrians                 28                            84                        20                        316                                   448
+    Bicycles       0           0      0              0       1      0          0       0      0          0        0     0                               1
+   Railroad
+Stopped Buses
+ Comments: 2236
+Report generated on 3/26/2013 2:54 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 9th St -- I St NW                                                                                               QC JOB #: 10862873
+ CITY/STATE: Washington, DC                                                                                                DATE: Sat, Feb 02 2013
+                    948             0                          Peak-Hour: 3:45 PM -- 4:45 PM                                0.8        0.0
+
+                         0   765 183
+                                                              Peak 15-Min: 4:15 PM -- 4:30 PM
+                                                                                                                            0.0 0.9 0.5
+
+
+       0     0                            0   274
+                                                                                                               0.0   0.0                      0.0       0.4
+             0               0.95         0
+                                                                                                                     0.0                      0.0
+       0     0                          274   183
+                                                                                                               0.0   0.0                      0.4       0.5
+
+                         0    0     0
+                                                                                                                            0.0 0.0 0.0
+
+                    1039            0
+                                                                                                                            0.8        0.0
+
+
+
+                              61                                                                                             0    5    2
+
+
+
+                                                                                                                     0                          1
+
+             50                         531                                                                          0                          0
+
+                                                                                                                     0                          0
+
+                              36                                                                                             0    0    0
+
+
+
+
+                             NA                                                                                                   NA
+
+
+
+
+             NA                         NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                   NA
+
+
+
+ 15-Min Count                    9th St                        9th St                  I St NW                    I St NW                    Total       Hourly
+    Period                   (Northbound)                  (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right      U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM        0            0       0     0      46     184       0   0    0       0       0   0     49       0       0       0          279
+    3:15 PM        0            0       1     0      43     190       0   0    0       0       0   0     61       0       0       0          295
+    3:30 PM        0            0       0     0      42     181       0   0    0       0       2   0     55       0       0       1          281
+    3:45 PM        0            0       0     0      47     205       0   0    0       0       0   0     60       0       0       0          312             1167
+    4:00 PM        0            0       0     0      51     181       0   0    0       0       0   0     63       0       0       0          295             1183
+    4:15 PM        0            0       0     0      51     188       0   0    0       0       0   0     83       0       0       0          322             1210
+    4:30 PM        0            0       0     0      34     191       0   0    0       0       0   0     68       0       0       0          293             1222
+    4:45 PM        0            0       0     0      29     200       0   0    0       0       0   0     63       0       0       0          292             1202
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U   Left     Thru Right    U                      Total
+  All Vehicles     0           0      0     0       204    752      0     0    0       0      0    0   332        0     0     0                      1288
+ Heavy Trucks      0           0      0               0      4      0          0       0      0          0        0     0                              4
+  Pedestrians                 16                            56                        24                        504                                   600
+    Bicycles       0           0      0               0      0      0          0       0      0          0        0     1                              1
+   Railroad
+Stopped Buses
+ Comments: 2236
+Report generated on 3/26/2013 2:54 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

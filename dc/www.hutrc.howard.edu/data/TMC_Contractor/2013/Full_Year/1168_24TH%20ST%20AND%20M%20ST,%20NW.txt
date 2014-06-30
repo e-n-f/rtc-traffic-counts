@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 24th St NW -- M St NW                                                                                              QC JOB #: 10863960
+ CITY/STATE: Washington, DC                                                                                                   DATE: Tue, Feb 05 2013
+                       99          296                            Peak-Hour: 8:00 AM -- 9:00 AM                                3.0        2.0
+
+                       16    83     0
+                                                                 Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                               0.0 3.6 0.0
+
+
+       588   0                           100   690
+                                                                                                                  4.4   0.0                      6.0       5.1
+             0              0.93         484
+                                                                                                                        0.0                      5.4
+       0     0                           106       0
+                                                                                                                  0.0   0.0                      2.8       0.0
+
+                       88 196       0
+                                                                                                                               0.0 0.0 0.0
+
+                    189            284
+                                                                                                                               3.2        0.0
+
+
+
+                            259                                                                                                 1    7    0
+
+
+
+                                                                                                                        0                          3
+
+             552                         166                                                                            0                         18
+
+                                                                                                                        0                          0
+
+                            271                                                                                                 0    7    0
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+
+             NA                          NA                                                                             NA                       NA
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+ 15-Min Count                24th St NW                        24th St NW                 M St NW                    M St NW                    Total       Hourly
+    Period                  (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left       Thru Right        U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM        15         35      0        0        0       13      5    0    0       0      0    0     17      76     15        0          176
+    7:15 AM        17         37      0        0        0       11      6    0    0       0      0    0     14      85     19        0          189
+    7:30 AM        19         43      0        0        0       15      7    0    0       0      0    0     21      89     10        0          204
+    7:45 AM        19         42      0        0        0       22      5    0    0       0      0    0     25     104     26        0          243              812
+    8:00 AM        21         32      0        0        0       18      4    0    0       0      0    0     29     110     23        0          237              873
+    8:15 AM        31         55      0        0        0       23      5    0    0       0      0    0     25     107     23        0          269              953
+    8:30 AM        16         54      0        0        0       21      4    0    0       0      0    0     31     133     29        0          288             1037
+    8:45 AM        20         55      0        0        0       21      3    0    0       0      0    0     21     134     25        0          279             1073
+
+
+
+
+ Peak 15-Min                    Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates      Left      Thru Right     U           Left   Thru Right    U    Left   Thru Right    U   Left     Thru Right    U                      Total
+  All Vehicles     64       216      0     0            0      84     16     0    0       0      0    0   124      532   116     0                      1152
+ Heavy Trucks       0         0      0                  0       0      0          0       0      0          4       28     4                             36
+  Pedestrians               312                               332                       660                        208                                  1512
+    Bicycles       0          4      0                  0       2      0          0       0      0          0        7     0                             13
+   Railroad
+Stopped Buses
+ Comments: 1168
+Report generated on 5/29/2013 5:53 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: 24th St NW -- M St NW                                                                                            QC JOB #: 10863962
+ CITY/STATE: Washington, DC                                                                                                 DATE: Tue, Feb 05 2013
+                    162          245                           Peak-Hour: 11:30 AM -- 12:30 PM                               1.2        4.5
+
+                       56 106     0
+                                                              Peak 15-Min: 12:00 PM -- 12:15 PM
+                                                                                                                             1.8 0.9 0.0
+
+
+       639   0                         130   727
+                                                                                                                7.2   0.0                      6.2       7.0
+             0            0.96         508
+                                                                                                                      0.0                      8.3
+       0     0                          89       0
+                                                                                                                0.0   0.0                      1.1       0.0
+
+                       76 115     0
+                                                                                                                             3.9 2.6 0.0
+
+                    196          191
+                                                                                                                             1.0        3.1
+
+
+
+                          387                                                                                                 0    4    0
+
+
+
+                                                                                                                      1                          2
+
+             241                       145                                                                            0                         11
+
+                                                                                                                      0                          0
+
+                          296                                                                                                 1    2    0
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+
+             NA                        NA                                                                             NA                       NA
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+ 15-Min Count              24th St NW                        24th St NW                 M St NW                    M St NW                    Total       Hourly
+    Period                (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left     Thru Right        U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        26       37      0        0        0       23      6    0    0       0      0    0     21     128     42        0          283
+   11:15 AM        16       32      0        0        0       20     16    0    0       0      0    0     14     126     28        0          252
+   11:30 AM        24       25      0        0        0       24     11    0    0       0      0    0     21     137     31        0          273
+   11:45 AM        19       31      0        0        0       20     15    0    0       0      0    0     23     124     34        0          266             1074
+   12:00 PM        16       25      0        0        0       30     16    0    0       0      0    0     22     137     36        0          282             1073
+   12:15 PM        16       34      0        1        0       32     14    0    0       0      0    0     23     110     29        0          259             1080
+   12:30 PM        16       28      0        0        0       19     17    0    0       0      0    0     29      98     29        0          236             1043
+   12:45 PM        13       24      0        0        0       29     19    0    0       0      0    0     21     130     21        0          257             1034
+
+
+
+
+ Peak 15-Min                  Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     64     100      0     0            0     120     64     0    0       0      0    0     88     548   144     0                      1128
+ Heavy Trucks       4       4      0                  0       4      4          0       0      0           0      48     4                             68
+  Pedestrians             352                               572                       256                        156                                  1336
+    Bicycles       1        1      0                  0       0      0          0       0      0          0        3     1                              6
+   Railroad
+Stopped Buses
+ Comments: 1168
+Report generated on 5/29/2013 5:53 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: 24th St NW -- M St NW                                                                                            QC JOB #: 10863961
+ CITY/STATE: Washington, DC                                                                                                 DATE: Tue, Feb 05 2013
+                    209          207                            Peak-Hour: 5:15 PM -- 6:15 PM                                1.0        1.0
+
+                       59 150     0
+                                                               Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                             1.7 0.7 0.0
+
+
+       771   0                          89   889
+                                                                                                                2.2   0.0                      1.1       2.1
+             0            0.96         660
+                                                                                                                      0.0                      2.4
+       0     0                         140       0
+                                                                                                                0.0   0.0                      1.4       0.0
+
+                       53 118     0
+                                                                                                                             0.0 0.8 0.0
+
+                    291          171
+                                                                                                                             1.0        0.6
+
+
+
+                          495                                                                                                 2    5    0
+
+
+
+                                                                                                                      0                          1
+
+             358                       290                                                                            0                         41
+
+                                                                                                                      0                          1
+
+                          329                                                                                                 1    4    0
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+
+             NA                        NA                                                                             NA                       NA
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+ 15-Min Count              24th St NW                        24th St NW                 M St NW                    M St NW                    Total       Hourly
+    Period                (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left     Thru Right        U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM         8       27      0        0        0       54     17    0    0       0      0    0     32     106     22        0          266
+    4:45 PM        10       23      0        0        0       40     14    0    0       0      0    0     37     134     14        0          272
+    5:00 PM         7       20      0        0        0       44      9    0    0       0      0    0     32     174     25        0          311
+    5:15 PM        13       29      0        0        0       32     16    0    0       0      0    0     34     168     23        0          315             1164
+    5:30 PM        13       31      0        0        0       42     22    0    0       0      0    0     32     172     19        0          331             1229
+    5:45 PM        14       29      0        0        0       31     11    0    0       0      0    0     37     152     34        0          308             1265
+    6:00 PM        12       29      0        1        0       45     10    0    0       0      0    0     37     168     13        0          315             1269
+    6:15 PM         9       24      0        1        0       33     21    0    0       0      0    0     39     152     14        0          293             1247
+
+
+
+
+ Peak 15-Min                  Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U           Left   Thru Right    U    Left   Thru Right    U   Left     Thru Right    U                      Total
+  All Vehicles     52     124      0     0            0     168     88     0    0       0      0    0   128      688    76     0                      1324
+ Heavy Trucks       0       0      0                  0       4      0          0       0      0          4       28     0                             36
+  Pedestrians             376                               580                       368                        348                                  1672
+    Bicycles       0        0      0                  0       3      2          0       0      0          0        9     0                             14
+   Railroad
+Stopped Buses
+ Comments: 1168
+Report generated on 5/29/2013 5:53 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 24th St NW -- M St NW                                                                                              QC JOB #: 10863963
+ CITY/STATE: Washington, DC                                                                                                   DATE: Sat, Mar 23 2013
+                    116            153                            Peak-Hour: 3:00 PM -- 4:00 PM                                0.9        0.7
+
+                       29    87     0
+                                                                 Peak 15-Min: 3:15 PM -- 3:30 PM
+                                                                                                                               0.0 1.1 0.0
+
+
+       688   0                            51   786
+                                                                                                                  2.2   0.0                      0.0       1.9
+             0              0.97         614
+                                                                                                                        0.0                      2.4
+       0     0                           121       0
+                                                                                                                  0.0   0.0                      0.0       0.0
+
+                       46 102       0
+                                                                                                                               0.0 1.0 0.0
+
+                    209            148
+                                                                                                                               0.5        0.7
+
+
+
+                            272                                                                                                 1    5    0
+
+
+
+                                                                                                                        0                          0
+
+             152                         128                                                                            3                         17
+
+                                                                                                                        0                          0
+
+                            292                                                                                                 0    2    0
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+
+             NA                          NA                                                                             NA                       NA
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+ 15-Min Count                24th St NW                        24th St NW                 M St NW                    M St NW                    Total       Hourly
+    Period                  (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left       Thru Right        U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM         7         29      0        0        0       22      4    0    0       0      0    0     37     158     11        0          268
+    3:15 PM        15         34      0        0        0       29      7    0    0       0      0    0     30     148      8        0          271
+    3:30 PM         9         29      0        1        0       18      9    0    0       0      0    0     27     139     17        0          249
+    3:45 PM        14         10      0        0        0       18      9    0    0       0      0    0     27     169     15        0          262             1050
+    4:00 PM        10         18      0        0        0       18      5    0    0       0      0    0     23     132     13        0          219             1001
+    4:15 PM        11         20      0        0        0       19      5    0    0       0      0    0     23     132     24        0          234              964
+    4:30 PM         3         34      0        0        0       23     15    0    0       0      0    0     30     138     13        0          256              971
+    4:45 PM         9         24      0        0        0       17     10    0    0       0      0    0     34     118     17        0          229              938
+
+
+
+
+ Peak 15-Min                    Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates      Left      Thru Right     U           Left   Thru Right    U    Left   Thru Right    U   Left     Thru Right    U                      Total
+  All Vehicles     60       136      0     0            0     116     28     0    0       0      0    0   120      592    32     0                      1084
+ Heavy Trucks       0         0      0                  0       0      0          0       0      0          0       20     0                              20
+  Pedestrians               300                               296                        80                        152                                   828
+    Bicycles       0          1      0                  0       0      0          0       1      0          0        1     0                               3
+   Railroad
+Stopped Buses
+ Comments: 1168
+Report generated on 5/29/2013 5:53 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 10th St -- New York Ave NW                                                                                            QC JOB #: 10695952
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, Jan 18 2012
+                       405 0.95        0                            Peak-Hour: 8:00 AM -- 9:00 AM                                 7.7            0.0
+
+                       141      3     261
+                                                                   Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                  5.7            7.7
+                                                                                                                                         100.0
+       974     0                              0    839
+                                                                                                                    6.9   0.0                            0.0      7.0
+        0.95   404             0.94         833   0.89
+                                                                                                                          5.7                            7.1
+       409     5                              6    672
+                                                                                                                    6.6   80.0                           0.0      6.8
+
+                           0    0     4
+                                                                                                                                  0.0 0.0 75.0
+
+                          11 0.63      4
+                                                                                                                                  63.6        75.0
+
+
+
+                               325                                                                                                 4      0      1
+
+
+                                                                                                                          1                               0
+
+               59                            60                                                                           7                              48
+
+                                                                                                                          0                               0
+
+
+                                85                                                                                                 0      0      1
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+
+               NA                           NA                                                                            NA                             NA
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+15-Min Count                      10th St                          10th St             New York Ave NW           New York Ave NW
+   Period                      (Northbound)                     (Southbound)             (Eastbound)               (Westbound)                                     Hourly
+Beginning At                                                                                                                                           Total
+                    Left        Thru Right         U     Left    Thru Right    U   Left Thru Right       U   Left Thru Right              U                        Totals
+   7:00 AM            0           0       2        0      55       3     21    0     0   110      0      0     0    155     0             1            347
+   7:15 AM            0           0       1        0      51       3     20    0     0    96      1      0     1    172     0             1            346
+   7:30 AM            1           0       0        0      59       1     14    0     0   108      0      0     0    191     0             0            374
+   7:45 AM            0           0       1        0      62       2     20    0     0    86      3      1     1    194     0             3            373             1440
+   8:00 AM            0           0       1        0      63       2     29    0     0   108      1      0     1    233     0             1            439             1532
+   8:15 AM            0           0       1        0      72       0     35    0     0   104      3      0     1    195     0             1            412             1598
+   8:30 AM            0           0       2        0      66       1     38    0     0   103      0      0     0    204     0             1            415             1639
+   8:45 AM            0           0       0        0      60       0     39    0     0    89      1      0     1    201     0             0            391             1657
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                 Eastbound                  Westbound
+                                                                                                                                                               Total
+  Flowrates         Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles        0          0      4     0          252      8   116     0      0    432      4    0      4     932      0    4                           1756
+ Heavy Trucks         0          0      4                 20      8    16            0     24      4           0      68      0                                 144
+  Pedestrians                   72                              232                        56                         32                                        392
+   Bicycles           0          0      0                  0      0     1            0      3      0           0      10      0                                 14
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/6/2012 6:35 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 10th St -- New York Ave NW                                                                                           QC JOB #: 10695953
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Jan 18 2012
+                       449 0.94        0                           Peak-Hour: 11:45 AM -- 12:45 PM                                8.2         0.0
+
+                       129      4     316
+                                                                  Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                                  7.0 50.0 8.2
+
+       657     0                              0    534
+                                                                                                                    5.8   0.0                          0.0      5.6
+        0.87   474             0.94         524   0.93
+                                                                                                                          4.2                          5.5
+       481     7                             10    809
+                                                                                                                    5.6   100.0                       10.0      6.4
+
+                           4    0     12
+                                                                                                                                  0.0 0.0 50.0
+
+                          14 0.50 16
+                                                                                                                                  71.4        37.5
+
+
+
+                               275                                                                                                 1     0     0
+
+
+                                                                                                                          0                             1
+
+               33                            56                                                                           0                             2
+
+                                                                                                                          0                             0
+
+
+                                89                                                                                                 0     0     0
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+
+               NA                           NA                                                                            NA                           NA
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+15-Min Count                      10th St                          10th St             New York Ave NW           New York Ave NW
+   Period                      (Northbound)                     (Southbound)             (Eastbound)               (Westbound)                                   Hourly
+Beginning At                                                                                                                                         Total
+                    Left        Thru Right         U     Left    Thru Right    U   Left Thru Right       U   Left Thru Right             U                       Totals
+  11:00 AM            1           0       0        0      75       2     29    0     0    94      3      0     1    109     0            1           315
+  11:15 AM            0           0       2        0      83       1     26    0     0   109      3      0     1    108     0            2           335
+  11:30 AM            0           0       0        0      74       1     41    0     0   112      4      1     0    104     0            0           337
+  11:45 AM            1           0       2        0      74       0     31    0     0   118      3      0     0    139     0            3           371             1358
+  12:00 PM            3           0       5        0      83       2     35    0     0    98      0      0     3    138     0            2           369             1412
+  12:15 PM            0           0       5        0      76       0     32    0     0   138      1      0     0    141     0            2           395             1472
+  12:30 PM            0           0       0        0      83       2     31    0     0   120      3      0     0    106     0            0           345             1480
+  12:45 PM            0           0       1        0      86       1     18    0     0   111      1      1     1    117     0            1           338             1447
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                 Eastbound                  Westbound
+                                                                                                                                                             Total
+  Flowrates         Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles        0          0      20    0          304      0   128     0      0    552      4    0      0     564      0    8                         1580
+ Heavy Trucks         0          0      12                36      0     0            0     16      4           0      12      0                               80
+  Pedestrians                  100                              264                        16                         28                                      408
+   Bicycles           0          0       0                 0      0     0            0      0      0           0       0      0                                0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/6/2012 6:35 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 10th St -- New York Ave NW                                                                                           QC JOB #: 10695954
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Jan 18 2012
+                       691 0.92        0                            Peak-Hour: 5:15 PM -- 6:15 PM                                2.6        0.0
+
+                       124      0     567
+                                                                   Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                 0.0 0.0 3.2
+
+       563     0                              0    445
+                                                                                                                    4.4   0.0                       0.0      5.6
+        0.88   546             0.94         439   0.91
+                                                                                                                          2.6                       5.7
+       548     2                              6   1124
+                                                                                                                    2.6   0.0                       0.0      2.8
+
+                           0    0     6
+                                                                                                                                 0.0 0.0 0.0
+
+                           3   0.75    6
+                                                                                                                                 0.0        0.0
+
+
+
+                               214                                                                                                0    0    3
+
+
+                                                                                                                          0                          0
+
+               66                            82                                                                           11                         3
+
+                                                                                                                          0                          0
+
+
+                               120                                                                                                0    0    0
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+
+               NA                           NA                                                                            NA                        NA
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+15-Min Count                      10th St                          10th St             New York Ave NW           New York Ave NW
+   Period                      (Northbound)                     (Southbound)             (Eastbound)               (Westbound)                                Hourly
+Beginning At                                                                                                                                      Total
+                    Left        Thru Right         U     Left    Thru Right    U   Left Thru Right       U   Left Thru Right           U                      Totals
+   4:30 PM            1           0       0        0     128       0     41    0     0   121      0      0     0    114     0          0          405
+   4:45 PM            0           0       1        0     126       0     22    0     0   120      0      0     0    126     0          0          395
+   5:00 PM            0           0       3        0     131       1     24    0     0   128      0      0     0     93     0          0          380
+   5:15 PM            0           0       2        0     143       0     32    0     0   156      0      0     1    113     0          3          450             1630
+   5:30 PM            0           0       1        0     149       0     39    0     0   132      0      0     0    120     0          1          442             1667
+   5:45 PM            0           0       3        0     147       0     28    0     0   124      2      0     0    106     0          1          411             1683
+   6:00 PM            0           0       0        0     128       0     25    0     0   134      0      0     0    100     0          0          387             1690
+   6:15 PM            1           0       0        0     145       0     19    0     0   139      0      0     0     91     0          0          395             1635
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                 Eastbound                  Westbound
+                                                                                                                                                          Total
+  Flowrates         Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles        0          0      8     0          572      0   128     0      0    624      0    0      4     452      0   12                      1800
+ Heavy Trucks         0          0      0                 20      0     0            0     12      0           0      28      0                            60
+  Pedestrians                  112                              188                        84                         68                                   452
+   Bicycles           0          0      0                  2      0     0            0      3      0           0       0      0                             5
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/6/2012 6:35 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 10th St -- New York Ave NW                                                                                           QC JOB #: 10695955
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Jan 21 2012
+                       289 0.81        0                            Peak-Hour: 3:00 PM -- 4:00 PM                                4.2        0.0
+
+                          45    0     244
+                                                                   Peak 15-Min: 3:15 PM -- 3:30 PM
+                                                                                                                                 2.2 0.0 4.5
+
+       390     0                              0    349
+                                                                                                                    2.8   0.0                       0.0      2.9
+        0.83   302             0.93         345   0.93
+                                                                                                                          1.7                       2.9
+       302     0                              4    550
+                                                                                                                    1.7   0.0                       0.0      2.9
+
+                           0    0     0
+                                                                                                                                 0.0 0.0 0.0
+
+                           0   0.33    0
+                                                                                                                                 0.0        0.0
+
+
+
+                                53                                                                                                0    0    0
+
+
+                                                                                                                          0                          0
+
+               16                            27                                                                           1                          0
+
+                                                                                                                          0                          0
+
+
+                                35                                                                                                0    0    0
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+
+               NA                           NA                                                                            NA                        NA
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+15-Min Count                      10th St                          10th St             New York Ave NW           New York Ave NW
+   Period                      (Northbound)                     (Southbound)             (Eastbound)               (Westbound)                                Hourly
+Beginning At                                                                                                                                      Total
+                    Left        Thru Right         U     Left    Thru Right    U   Left Thru Right       U   Left Thru Right           U                      Totals
+   3:00 PM            0           0       0        0      43       0     12    0     0    77      0      0     0    91      0          3          226
+   3:15 PM            0           0       0        0      70       0     13    0     0    91      0      0     0    77      0          1          252
+   3:30 PM            0           0       0        0      81       0       9   0     0    59      0      0     0    84      0          0          233
+   3:45 PM            0           0       0        0      50       0     11    0     0    75      0      0     0    93      0          0          229              940
+   4:00 PM            0           0       0        0      45       0     12    0     0    55      0      0     0    79      0          0          191              905
+   4:15 PM            0           0       0        0      53       0       9   0     0    67      0      0     0    68      0          0          197              850
+   4:30 PM            0           0       3        0      39       0     13    0     0    52      0      0     0    83      1          1          192              809
+   4:45 PM            0           0       1        0      64       0     14    0     0    67      0      0     0    72      0          0          218              798
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                 Eastbound                  Westbound
+                                                                                                                                                          Total
+  Flowrates         Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles        0          0      0     0          280      0    52     0      0    364      0    0      0     308      0    4                      1008
+ Heavy Trucks         0          0      0                 12      0     0            0      4      0           0       4      0                            20
+  Pedestrians                   28                               48                        12                         12                                   100
+   Bicycles           0          0      0                  0      0     0            0      0      0           0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/31/2012 6:47 PM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

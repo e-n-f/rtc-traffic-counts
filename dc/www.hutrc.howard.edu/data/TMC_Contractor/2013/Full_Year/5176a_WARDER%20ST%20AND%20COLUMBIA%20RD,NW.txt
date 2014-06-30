@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: Warder St -- Columbia Rd NW                                                                                               QC JOB #: 10695859
+ CITY/STATE: Washington, DC                                                                                                          DATE: Tue, May 28 2013
+                         0          257                           Peak-Hour: 7:45 AM -- 8:45 AM                                       0.0        6.6
+
+                         0    0      0
+                                                                 Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                                      0.0 0.0 0.0
+
+
+       2     2                             4       4
+                                                                                                                        50.0   0.0                     25.0      25.0
+             1               0.96          0
+                                                                                                                               0.0                      0.0
+       3     0                             0       6
+                                                                                                                        0.0    0.0                      0.0      50.0
+
+                         2   251     5
+                                                                                                                                      50.0 6.4 60.0
+
+                         0          258
+                                                                                                                                      0.0        7.8
+
+
+
+                              3                                                                                                        0    1    0
+
+
+
+                                                                                                                               0                          0
+
+             52                            6                                                                                   0                          0
+
+                                                                                                                               0                          0
+
+                              5                                                                                                        0    3    0
+
+
+
+
+                             NA                                                                                                             NA
+
+
+
+
+             NA                           NA                                                                                   NA                       NA
+
+
+
+
+                             NA                                                                                                             NA
+
+
+
+ 15-Min Count                  Warder St                        Warder St                   Columbia Rd NW              Columbia Rd NW                 Total        Hourly
+    Period                   (Northbound)                     (Southbound)                    (Eastbound)                (Westbound)                                Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U       Left     Thru Right     U   Left     Thru Right        U
+    7:00 AM        0           36     0        0        0        0     0     0        1         0     0      0    0         0     0         0           37
+    7:15 AM        1           40     1        0        0        0     0     0        1         0     0      0    0         0     3         0           46
+    7:30 AM        1           50     0        0        0        0     0     0        1         0     0      0    0         0     0         0           52
+    7:45 AM        0           61     1        0        0        0     0     0        0         0     0      0    0         0     1         0           63              198
+    8:00 AM        1           61     1        0        0        0     0     0        1         1     0      0    0         0     2         0           67              228
+    8:15 AM        0           65     0        0        0        0     0     0        1         0     0      0    0         0     0         0           66              248
+    8:30 AM        1           64     3        0        0        0     0     0        0         0     0      0    0         0     1         0           69              265
+    8:45 AM        0           51     1        0        0        0     0     0        0         0     0      0    0         0     0         0           52              254
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                     Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U        Left    Thru Right    U     Left    Thru Right    U                       Total
+  All Vehicles     4         256     12     0           0       0      0     0        0        0      0    0      0        0     4     0                       276
+ Heavy Trucks      0          16      8                 0       0      0              0        0      0           0        0     0                              24
+  Pedestrians                 12                                4                             28                           8                                    52
+    Bicycles       0           1      0                 0       0      0              0        0      0           0        0     0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/9/2013 4:19 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: Warder St -- Columbia Rd NW                                                                                              QC JOB #: 10695860
+ CITY/STATE: Washington, DC                                                                                                         DATE: Tue, May 28 2013
+                         0          211                          Peak-Hour: 12:00 PM -- 1:00 PM                                      0.0        6.6
+
+                         0    0      0
+                                                                Peak 15-Min: 12:00 PM -- 12:15 PM
+                                                                                                                                     0.0 0.0 0.0
+
+
+       3     0                             2       3
+                                                                                                                        0.0   0.0                      0.0       0.0
+             2               0.93          1
+                                                                                                                              0.0                      0.0
+       2     0                             0       5
+                                                                                                                        0.0   0.0                      0.0       0.0
+
+                         2   209     3
+                                                                                                                                     0.0 6.7 0.0
+
+                         0          214
+                                                                                                                                     0.0        6.5
+
+
+
+                              4                                                                                                       0    0    0
+
+
+
+                                                                                                                              0                          0
+
+             15                            7                                                                                  0                          0
+
+                                                                                                                              0                          0
+
+                              0                                                                                                       0    3    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                           NA                                                                                  NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count                  Warder St                        Warder St                   Columbia Rd NW              Columbia Rd NW                Total       Hourly
+    Period                   (Northbound)                     (Southbound)                    (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U       Left     Thru Right     U   Left     Thru Right       U
+   11:00 AM        0           35     0        0        0        0     0     0        0         0     0      0    0         0     0        0           35
+   11:15 AM        1           58     1        0        0        0     0     0        0         0     0      0    0         0     0        0           60
+   11:30 AM        1           40     0        0        0        0     0     0        1         0     0      0    0         0     3        0           45
+   11:45 AM        0           44     0        0        0        0     0     0        2         0     0      0    0         0     0        0           46              186
+   12:00 PM        0           59     0        0        0        0     0     0        0         0     0      0    0         0     0        0           59              210
+   12:15 PM        1           41     1        0        0        0     0     0        0         1     0      0    0         1     1        0           46              196
+   12:30 PM        1           54     0        0        0        0     0     0        0         0     0      0    0         0     0        0           55              206
+   12:45 PM        0           55     2        0        0        0     0     0        0         1     0      0    0         0     1        0           59              219
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                     Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U        Left    Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     0         236      0     0           0       0      0     0        0        0      0    0      0        0     0     0                      236
+ Heavy Trucks      0          20      0                 0       0      0              0        0      0           0        0     0                             20
+  Pedestrians                  0                                0                             24                           8                                   32
+    Bicycles       0           0      0                 0       0      0              0        0      0           0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/9/2013 4:19 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: Warder St -- Columbia Rd NW                                                                                              QC JOB #: 10695861
+ CITY/STATE: Washington, DC                                                                                                         DATE: Tue, May 28 2013
+                         0          497                           Peak-Hour: 5:00 PM -- 6:00 PM                                      0.0        2.0
+
+                         0    0      0
+                                                                 Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                     0.0 0.0 0.0
+
+
+       3     4                             1       2
+                                                                                                                        0.0   0.0                      0.0       0.0
+             0               0.87          1
+                                                                                                                              0.0                      0.0
+       4     0                             0       2
+                                                                                                                        0.0   0.0                      0.0       0.0
+
+                         2   492     2
+                                                                                                                                     0.0 2.0 0.0
+
+                         0          496
+                                                                                                                                     0.0        2.0
+
+
+
+                              8                                                                                                       0    1    0
+
+
+
+                                                                                                                              0                          0
+
+             12                            6                                                                                  0                          0
+
+                                                                                                                              0                          0
+
+                              1                                                                                                       0    17   0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                           NA                                                                                  NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count                  Warder St                        Warder St                   Columbia Rd NW              Columbia Rd NW                Total       Hourly
+    Period                   (Northbound)                     (Southbound)                    (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U       Left     Thru Right     U   Left     Thru Right       U
+    4:30 PM        1          115     3        0        0        0     0     0        0         0     0      0    0         0     0        0          119
+    4:45 PM        0           89     0        0        0        0     0     0        0         0     0      0    0         0     1        0           90
+    5:00 PM        0          117     2        0        0        0     0     0        0         0     0      0    0         0     0        0          119
+    5:15 PM        0         142      0        0        0        0     0     0        1         0     0      0    0         1     0        0          144              472
+    5:30 PM        2         121      0        0        0        0     0     0        2         0     0      0    0         0     0        0          125              478
+    5:45 PM        0          112     0        0        0        0     0     0        1         0     0      0    0         0     1        0          114              502
+    6:00 PM        0          110     0        0        0        0     0     0        1         0     0      0    0         0     0        0          111              494
+    6:15 PM        0         101      1        0        0        0     0     0        3         0     0      0    0         0     0        0          105              455
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                     Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U        Left    Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     0         568      0     0           0       0      0     0        4        0      0    0      0        4     0     0                      576
+ Heavy Trucks      0           8      0                 0       0      0              0        0      0           0        0     0                              8
+  Pedestrians                  0                               20                             32                           4                                   56
+    Bicycles       0           5      0                 0       0      0              0        0      0           0        0     0                              5
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/9/2013 4:19 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: Warder St -- Columbia Rd NW                                                                                              QC JOB #: 10695862
+ CITY/STATE: Washington, DC                                                                                                         DATE: Sat, Jun 01 2013
+                         0          280                           Peak-Hour: 3:00 PM -- 4:00 PM                                      0.0        2.1
+
+                         0    0      0
+                                                                 Peak 15-Min: 3:00 PM -- 3:15 PM
+                                                                                                                                     0.0 0.0 0.0
+
+
+       6     1                             1       1
+                                                                                                                        0.0   0.0                      0.0       0.0
+             0               0.92          0
+                                                                                                                              0.0                      0.0
+       1     0                             0       1
+                                                                                                                        0.0   0.0                      0.0       0.0
+
+                         6   278     1
+                                                                                                                                     0.0 2.2 0.0
+
+                         0          285
+                                                                                                                                     0.0        2.1
+
+
+
+                              1                                                                                                       0    0    0
+
+
+
+                                                                                                                              0                          1
+
+             10                            8                                                                                  0                          0
+
+                                                                                                                              0                          0
+
+                              1                                                                                                       0    6    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                           NA                                                                                  NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count                  Warder St                        Warder St                   Columbia Rd NW              Columbia Rd NW                Total       Hourly
+    Period                   (Northbound)                     (Southbound)                    (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U       Left     Thru Right     U   Left     Thru Right       U
+    3:00 PM        4           74     0        0        0        0     0     0        0         0     0      0    0         0     0        0           78
+    3:15 PM        0           69     0        0        0        0     0     0        0         0     0      0    0         0     1        0           70
+    3:30 PM        1           70     1        0        0        0     0     0        1         0     0      0    0         0     0        0           73
+    3:45 PM        1           65     0        0        0        0     0     0        0         0     0      0    0         0     0        0           66              287
+    4:00 PM        1           70     0        0        0        0     0     0        0         0     0      0    0         0     0        0           71              280
+    4:15 PM        1           73     0        0        0        0     0     0        1         0     0      0    0         0     0        0           75              285
+    4:30 PM        0           74     0        0        0        0     0     0        0         0     0      0    0         0     0        0           74              286
+    4:45 PM        1           63     1        0        0        0     0     0        1         0     0      0    0         0     1        0           67              287
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                     Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U        Left    Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     16        296      0     0           0       0      0     0        0        0      0    0      0        0     0     0                      312
+ Heavy Trucks       0          8      0                 0       0      0              0        0      0           0        0     0                              8
+  Pedestrians                  0                                0                              4                           8                                   12
+    Bicycles       0           0      0                 0       0      0              0        0      0           0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/9/2013 4:19 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

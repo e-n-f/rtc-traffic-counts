@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                        Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- 34th St                                                                                      QC JOB #: 10707147
+ CITY/STATE: Washington, DC                                                                                              DATE: Thu, Apr 12 2012
+                    1006          825                        Peak-Hour: 8:00 AM -- 9:00 AM                                4.2        5.0
+
+                    238 766        2
+                                                            Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                          2.9 4.6 0.0
+
+
+       292   0                          18   51
+                                                                                                             3.4   0.0                      0.0       0.0
+             0             0.98          1
+                                                                                                                   0.0                      0.0
+       0     0                          32   56
+                                                                                                             0.0   0.0                      0.0       3.6
+
+                       53 807 54
+                                                                                                                          5.7 5.1 3.7
+
+                    798           914
+                                                                                                                          4.4        5.0
+
+
+
+                            57                                                                                             2    11   0
+
+
+
+                                                                                                                   0                          0
+
+             162                        53                                                                         0                          1
+
+                                                                                                                   0                          0
+
+                           212                                                                                             0    4    0
+
+
+
+
+                           NA                                                                                                   NA
+
+
+
+
+             NA                         NA                                                                         NA                       NA
+
+
+
+
+                           NA                                                                                                   NA
+
+
+
+ 15-Min Count          Wisconsin Ave                   Wisconsin Ave                 34th St                    34th St                    Total       Hourly
+    Period             (Northbound)                    (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right            U    Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM        11  148      8            0     0     90    41      0     0       0       0   0      6       0       1       0          305
+    7:15 AM         8  191     13            0     0    100    36      0     0       0       0   0      6       0       1       0          355
+    7:30 AM         6  219     11            0     0    132    37      0     0       0       0   0      8       0     10        0          423
+    7:45 AM        10  238      9            0     0    165    41      0     0       0       0   0      5       6       6       0          480             1563
+    8:00 AM        18  215     11            0     0    182    68      0     0       0       0   0      4       0       3       0          501             1759
+    8:15 AM        14  201     11            0     0    188    59      0     0       0       0   0     10       1       5       0          489             1893
+    8:30 AM        11  181     22            0     0    198    61      0     0       0       0   0     12       0       3       0          488             1958
+    8:45 AM        10  210     10            0     2    198    50      0     0       0       0   0      6       0       7       0          493             1971
+
+
+
+
+ Peak 15-Min                   Northbound                    Southbound                Eastbound                  Westbound
+   Flowrates      Left     Thru Right     U       Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     72      860     44     0        0     728    272     0    0       0      0    0     16       0    12     0                      2004
+ Heavy Trucks       4       56      0              0      28      4          0       0      0           0       0     0                              92
+  Pedestrians              248                            76                       180                         60                                   564
+    Bicycles       0         0      0              0       1      1          0       0      0          0        0     0                               2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:53 PM                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                        Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- 34th St                                                                                      QC JOB #: 10707148
+ CITY/STATE: Washington, DC                                                                                              DATE: Thu, Apr 12 2012
+                    614          566                       Peak-Hour: 11:30 AM -- 12:30 PM                                6.0        7.2
+
+                    127 487       0
+                                                          Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                          2.4 7.0 0.0
+
+
+       166   0                          22   81
+                                                                                                             2.4   0.0                      0.0       0.0
+             0            0.98           2
+                                                                                                                   0.0                      0.0
+       0     0                          57   70
+                                                                                                             0.0   0.0                      0.0       0.0
+
+                       37 544 70
+                                                                                                                          2.7 7.5 0.0
+
+                    544          651
+                                                                                                                          6.3        6.5
+
+
+
+                           59                                                                                              1    8    0
+
+
+
+                                                                                                                   0                          0
+
+             53                        112                                                                         0                          0
+
+                                                                                                                   0                          0
+
+                          107                                                                                              0    4    0
+
+
+
+
+                          NA                                                                                                    NA
+
+
+
+
+             NA                        NA                                                                          NA                       NA
+
+
+
+
+                          NA                                                                                                    NA
+
+
+
+ 15-Min Count          Wisconsin Ave                   Wisconsin Ave                 34th St                    34th St                    Total       Hourly
+    Period             (Northbound)                    (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right            U    Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        11  125     18            0     0    116    17      0     0       0       0   0     15       1       6       0          309
+   11:15 AM         3  132     23            0     0    115    31      0     0       0       0   0     10       0       6       0          320
+   11:30 AM         9  147     18            0     0    111    31      0     0       0       0   0     14       0       5       0          335
+   11:45 AM        13  126     15            0     0    138    32      0     0       0       0   0     13       1       4       0          342             1306
+   12:00 PM         7  152     18            0     0    107    30      0     0       0       0   0     16       0       5       0          335             1332
+   12:15 PM         8  119     19            0     0    131    34      0     0       0       0   0     14       1       8       0          334             1346
+   12:30 PM         6  117     16            0     0    121    42      0     0       0       0   0     17       6       5       0          330             1341
+   12:45 PM         7  136     19            1     0    108    36      1     0       0       0   0     20       2       4       0          334             1333
+
+
+
+
+ Peak 15-Min                  Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     52     504     60     0         0     552    128     0    0       0      0    0     52       4    16     0                      1368
+ Heavy Trucks       0      56      0               0      48      0          0       0      0           0       0     0                             104
+  Pedestrians             108                             68                       100                        112                                   388
+    Bicycles       0        1      0               0       3      1          0       0      0          0        0     0                              5
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:53 PM                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- 34th St                                                                                       QC JOB #: 10707149
+ CITY/STATE: Washington, DC                                                                                               DATE: Thu, Apr 12 2012
+                    842          880                          Peak-Hour: 5:30 PM -- 6:30 PM                                2.5        2.8
+
+                    211 631       0
+                                                             Peak 15-Min: 6:00 PM -- 6:15 PM
+                                                                                                                           0.5 3.2 0.0
+
+
+       249   0                          30   101
+                                                                                                              0.4   0.0                      0.0       0.0
+             0            0.97           8
+                                                                                                                    0.0                      0.0
+       0     0                          63    97
+                                                                                                              0.0   0.0                      0.0       1.0
+
+                       30 850 97
+                                                                                                                           0.0 2.9 1.0
+
+                    694          977
+                                                                                                                           2.9        2.7
+
+
+
+                           53                                                                                               3    5    0
+
+
+
+                                                                                                                    0                          0
+
+             85                        173                                                                          0                          0
+
+                                                                                                                    0                          1
+
+                          140                                                                                               0    16   1
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+
+             NA                        NA                                                                           NA                       NA
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+ 15-Min Count          Wisconsin Ave                    Wisconsin Ave                 34th St                    34th St                    Total       Hourly
+    Period             (Northbound)                     (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right            U     Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        7   167     20            0      0    142    59      0     0       0       0   0     19       7       5       0          426
+    4:45 PM        0   173     24            0      0    157    75      0     0       0       0   0     16       4       9       0          458
+    5:00 PM        4   170     23            0      0    142    51      0     0       0       0   0     13       2       6       0          411
+    5:15 PM        4   204     20            0      0    165    49      0     0       0       0   0     17       2       6       0          467             1762
+    5:30 PM        9   195     32            0      0    156    47      0     0       0       0   0     14       1       5       0          459             1795
+    5:45 PM        5   182     20            0      0    171    59      0     0       0       0   0     16       5     11        0          469             1806
+    6:00 PM        7   243     23            0      0    156    49      0     0       0       0   0     13       2       3       0          496             1891
+    6:15 PM        9   230     22            0      0    148    56      0     0       0       0   0     20       0     11        0          496             1920
+
+
+
+
+ Peak 15-Min                  Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     28     972     92     0          0     624    196     0    0       0      0    0     52       8    12     0                      1984
+ Heavy Trucks       0      32      0                0      28      0          0       0      0           0       0     0                              60
+  Pedestrians             144                              48                        64                        208                                   464
+    Bicycles       0        3      0                0       0      1          0       0      0          0        0     0                               4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:53 PM                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- 34th St                                                                                       QC JOB #: 10707150
+ CITY/STATE: Washington, DC                                                                                               DATE: Sat, Apr 14 2012
+                    766          745                        Peak-Hour: 12:00 PM -- 1:00 PM                                 2.7        3.1
+
+                    200 553 13
+                                                           Peak 15-Min: 12:00 PM -- 12:15 PM
+                                                                                                                           0.0 3.8 0.0
+
+
+       236   0                          50   134
+                                                                                                              0.4   0.0                      0.0       2.2
+             0            0.96          15
+                                                                                                                    0.0                      6.7
+       0     0                          69    87
+                                                                                                              0.0   0.0                      2.9       0.0
+
+                       21 695 74
+                                                                                                                           0.0 3.3 0.0
+
+                    622          790
+                                                                                                                           3.7        2.9
+
+
+
+                           49                                                                                               0    6    0
+
+
+
+                                                                                                                    0                          0
+
+             107                       182                                                                          0                          0
+
+                                                                                                                    0                          0
+
+                          119                                                                                               0    11   0
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+
+             NA                        NA                                                                           NA                       NA
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+ 15-Min Count          Wisconsin Ave                    Wisconsin Ave                 34th St                    34th St                    Total       Hourly
+    Period             (Northbound)                     (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right            U     Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+   12:00 PM         5  181     22            0      5    138    49      0     0       0       0   0     20       3     18        0          441
+   12:15 PM         0  162     26            0      4    139    60      0     0       0       0   0     23       3     10        0          427
+   12:30 PM        10  167     12            0      2    157    46      0     0       0       0   0     12       6     10        0          422
+   12:45 PM         6  185     14            0      2    119    45      0     0       0       0   0     14       3     12        0          400             1690
+    1:00 PM         4  144     17            0      3    139    47      0     0       0       0   0     17       4       4       0          379             1628
+    1:15 PM         1  134     22            0      7    138    45      0     0       0       0   0     16       1       8       0          372             1573
+    1:30 PM         2  150     20            0      6    141    48      0     0       0       0   0     16       2     11        0          396             1547
+    1:45 PM         0  143     18            0      3    124    38      0     0       0       0   0     22       2       6       0          356             1503
+
+
+
+
+ Peak 15-Min                  Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     20     724     88     0          20    552    196     0    0       0      0    0     80      12    72     0                      1764
+ Heavy Trucks       0      16      0                 0     24      0          0       0      0           8       0     0                              48
+  Pedestrians             104                              80                        56                        224                                   464
+    Bicycles       0        1      0                0       2      0          0       0      0          0        0     0                               3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:53 PM                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

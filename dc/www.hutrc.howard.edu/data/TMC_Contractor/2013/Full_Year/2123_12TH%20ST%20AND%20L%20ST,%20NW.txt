@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 12th St NW -- L St NW                                                                                               QC JOB #: 10863360
+ CITY/STATE: Washington, DC                                                                                                    DATE: Tue, Feb 26 2013
+                         0          615                            Peak-Hour: 7:45 AM -- 8:45 AM                                0.0        4.6
+
+                         0    0      0
+                                                                  Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                0.0 0.0 0.0
+
+
+       0     51                             0       0
+                                                                                                                   0.0   5.9                      0.0       0.0
+             589             0.92           0
+                                                                                                                         7.8                      0.0
+       640   0                              0   693
+                                                                                                                   7.7   0.0                      0.0       8.8
+
+                         0   564 104
+                                                                                                                                0.0 4.4 14.4
+
+                         0          668
+                                                                                                                                0.0        6.0
+
+
+
+                             133                                                                                                 0    0    0
+
+
+
+                                                                                                                         0                          0
+
+             148                          155                                                                            10                         0
+
+                                                                                                                         0                          0
+
+                             271                                                                                                 0    0    0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                 12th St NW                        12th St NW                 L St NW                    L St NW                    Total       Hourly
+    Period                   (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right        U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM        0         134      23        0        0        0      0    0    14    130      0    0     0        0      0        0          301
+    7:15 AM        0         108      23        0        0        0      0    0     8    118      0    0     0        0      0        0          257
+    7:30 AM        0         133      16        0        0        0      0    0     6    143      0    0     0        0      0        0          298
+    7:45 AM        0         140      17        0        0        0      0    0     5    140      0    0     0        0      0        0          302             1158
+    8:00 AM        0         166      25        0        0        0      0    0    11    154      0    0     0        0      0        0          356             1213
+    8:15 AM        0         113      37        0        0        0      0    0    17    157      0    0     0        0      0        0          324             1280
+    8:30 AM        0         145      25        0        0        0      0    0    18    138      0    0     0        0      0        0          326             1308
+    8:45 AM        0         125      23        0        0        0      0    0    23    130      0    0     0        0      0        0          301             1307
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         664    100     0            0       0      0     0    44    616      0    0     0        0     0     0                      1424
+ Heavy Trucks      0          20      8                  0       0      0           4     44      0          0        0     0                              76
+  Pedestrians                160                               104                        72                         80                                   416
+    Bicycles       0           0      0                  0       0      0          0       2      0          0        0     0                               2
+   Railroad
+Stopped Buses
+ Comments: 2123
+Report generated on 3/19/2013 11:22 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 12th St NW -- L St NW                                                                                              QC JOB #: 10863362
+ CITY/STATE: Washington, DC                                                                                                   DATE: Tue, Feb 26 2013
+                         0          490                          Peak-Hour: 12:00 PM -- 1:00 PM                                0.0        3.7
+
+                         0    0      0
+                                                                Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                               0.0 0.0 0.0
+
+
+       0     50                            0       0
+                                                                                                                  0.0   8.0                      0.0       0.0
+             405             0.94          0
+                                                                                                                        8.9                      0.0
+       455   0                             0   506
+                                                                                                                  8.8   0.0                      0.0       9.1
+
+                         0   440 101
+                                                                                                                               0.0 3.2 9.9
+
+                         0          541
+                                                                                                                               0.0        4.4
+
+
+
+                              34                                                                                                0    0    0
+
+
+
+                                                                                                                        0                          0
+
+             53                           42                                                                            6                          0
+
+                                                                                                                        1                          0
+
+                             106                                                                                                0    2    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count                 12th St NW                       12th St NW                 L St NW                    L St NW                    Total       Hourly
+    Period                   (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        0         105      25       0        0        0      0    0    16     81      0    0     0        0      0        0          227
+   11:15 AM        0           85     22       0        0        0      0    0    13     90      0    0     0        0      0        0          210
+   11:30 AM        0           81     28       0        0        0      0    0     7     97      0    0     0        0      0        0          213
+   11:45 AM        0         105      29       0        0        0      0    0    10    115      0    0     0        0      0        0          259              909
+   12:00 PM        0         114      25       0        0        0      0    0     8    105      0    0     0        0      0        0          252              934
+   12:15 PM        0         116      26       0        0        0      0    0    15     84      0    0     0        0      0        0          241              965
+   12:30 PM        0         103      23       0        0        0      0    0    10    101      0    0     0        0      0        0          237              989
+   12:45 PM        0         107      27       0        0        0      0    0    17    115      0    0     0        0      0        0          266              996
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         428    108     0           0       0      0     0    68    460      0    0     0        0     0     0                      1064
+ Heavy Trucks      0           0      8                 0       0      0           4     44      0          0        0     0                              56
+  Pedestrians                140                               56                        68                         32                                   296
+    Bicycles       0           0      0                 0       0      0          0       3      0          0        0     0                               3
+   Railroad
+Stopped Buses
+ Comments: 2123
+Report generated on 3/19/2013 11:22 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 12th St NW -- L St NW                                                                                                QC JOB #: 10863361
+ CITY/STATE: Washington, DC                                                                                                     DATE: Tue, Feb 26 2013
+                         0          974                             Peak-Hour: 5:00 PM -- 6:00 PM                                0.0        1.0
+
+                         0    0      0
+                                                                   Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       0     64                              0       0
+                                                                                                                    0.0   0.0                      0.0       0.0
+             814             0.98            0
+                                                                                                                          3.6                      0.0
+       878   0                               0   948
+                                                                                                                    3.3   0.0                      0.0       4.2
+
+                         0   910 134
+                                                                                                                                 0.0 1.1 8.2
+
+                         0          1044
+                                                                                                                                 0.0        2.0
+
+
+
+                             109                                                                                                  0    0    1
+
+
+
+                                                                                                                          5                          0
+
+             129                           116                                                                            13                         0
+
+                                                                                                                          0                          0
+
+                             229                                                                                                  0    12   1
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                            NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                 12th St NW                         12th St NW                 L St NW                    L St NW                    Total       Hourly
+    Period                   (Northbound)                       (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right         U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        0         192      24         0        0        0      0    0    14    189      0    0     0        0      0        0          419
+    4:45 PM        0         195      35         0        0        0      0    0    17    207      0    0     0        0      0        0          454
+    5:00 PM        0         223      40         0        0        0      0    0    19    186      0    0     0        0      0        0          468
+    5:15 PM        0         237      31         0        0        0      0    0    11    210      0    0     0        0      0        0          489             1830
+    5:30 PM        0         225      28         0        0        0      0    0    17    209      0    0     0        0      0        0          479             1890
+    5:45 PM        0         225      35         0        0        0      0    0    17    209      0    0     0        0      0        0          486             1922
+    6:00 PM        0         214      40         0        0        0      0    0    14    182      0    0     0        0      0        0          450             1904
+    6:15 PM        0         225      29         0        0        0      0    0    13    192      0    0     0        0      0        0          459             1874
+
+
+
+
+ Peak 15-Min                     Northbound                         Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U            Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         948    124     0             0       0      0     0    44    840      0    0     0        0     0     0                      1956
+ Heavy Trucks      0          20      8                   0       0      0           0     24      0          0        0     0                              52
+  Pedestrians                152                                124                       148                        100                                   524
+    Bicycles       0           3      0                   0       0      0          2       1      0          0        0     0                               6
+   Railroad
+Stopped Buses
+ Comments: 2123
+Report generated on 3/19/2013 11:22 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 12th St -- L St NW                                                                                                 QC JOB #: 10863363
+ CITY/STATE: Washington, DC                                                                                                   DATE: Sat, Mar 02 2013
+                         0          518                           Peak-Hour: 3:45 PM -- 4:45 PM                                0.0        1.0
+
+                         0    0      0
+                                                                 Peak 15-Min: 4:00 PM -- 4:15 PM
+                                                                                                                               0.0 0.0 0.0
+
+
+       0     31                            0       0
+                                                                                                                  0.0   0.0                      0.0       0.0
+             291             0.94          0
+                                                                                                                        2.4                      0.0
+       322   0                             0   339
+                                                                                                                  2.2   0.0                      0.0       2.9
+
+                         0   487 48
+                                                                                                                               0.0 1.0 6.3
+
+                         0          535
+                                                                                                                               0.0        1.5
+
+
+
+                              62                                                                                                1    1    0
+
+
+
+                                                                                                                        0                          0
+
+             48                           58                                                                            10                         0
+
+                                                                                                                        0                          1
+
+                              28                                                                                                0    7    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count                   12th St                          12th St                  L St NW                    L St NW                    Total       Hourly
+    Period                   (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM        0         105      15       0        0        0       0   0     3     32      0    0     0        0      0        0          155
+    3:15 PM        0         130      11       0        0        0       0   0     1     25      0    0     0        0      0        0          167
+    3:30 PM        0         131      13       0        0        0       0   0     9     46      0    0     0        0      0        0          199
+    3:45 PM        0         124      18       0        0        0       0   0    10     70      0    0     0        0      0        0          222              743
+    4:00 PM        0         130        8      0        0        0       0   0    10     79      0    0     0        0      0        0          227              815
+    4:15 PM        0         110      11       0        0        0       0   0     5     63      0    0     0        0      0        0          189              837
+    4:30 PM        0         123      11       0        0        0       0   0     6     79      0    0     0        0      0        0          219              857
+    4:45 PM        0         111        7      0        0        0       0   0     5     77      0    0     0        0      0        0          200              835
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         520     32     0           0       0      0     0    40    316      0    0     0        0     0     0                      908
+ Heavy Trucks      0           4      0                 0       0      0           0      8      0          0        0     0                             12
+  Pedestrians                 24                               68                        48                         72                                  212
+    Bicycles       0           3      0                 0       1      0          0       2      0          0        0     0                              6
+   Railroad
+Stopped Buses
+ Comments: 2123
+Report generated on 3/19/2013 11:22 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

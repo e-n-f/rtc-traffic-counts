@@ -1,0 +1,333 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 30th St -- Military Rd NW                                                                                          QC JOB #: 10706725
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Feb 22 2012
+                         33           23                            Peak-Hour: 7:30 AM -- 8:30 AM
+                               0.88                                                                                            3.0        4.3
+
+                         11     0     22
+                                                                   Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                               0.0 0.0 4.5
+
+
+       1218    0                             23   1230
+                                                                                                                  6.3   0.0                      4.3       6.3
+        0.91   494             0.98        1207   0.95
+                                                                                                                        7.1                      6.4
+       494     0                              0    516
+                                                                                                                  7.1   0.0                      0.0       7.0
+
+                           0    0     0
+                                                                                                                               0.0 0.0 0.0
+
+                           0          0
+                               0.00                                                                                            0.0        0.0
+
+
+
+                                8                                                                                               0    0    0
+
+
+
+                                                                                                                        0                          0
+
+               3                              2                                                                         0                          0
+
+                                                                                                                        0                          0
+
+                                5                                                                                               0    0    0
+
+
+
+
+                               NA                                                                                                    NA
+
+
+
+
+               NA                           NA                                                                          NA                       NA
+
+
+
+
+                               NA                                                                                                    NA
+
+
+
+ 15-Min Count                     30th St                          30th St              Military Rd NW            Military Rd NW                Total       Hourly
+    Period                     (Northbound)                     (Southbound)             (Eastbound)               (Westbound)                              Totals
+ Beginning At       Left        Thru Right         U     Left    Thru Right    U   Left Thru Right       U   Left Thru Right         U
+    7:00 AM          0            0       0        0      4        0       0   0    1    105       0     0    0    257       0       0          367
+    7:15 AM          0            0       0        0      5        0       3   0    0    114       0     0    0    295       2       0          419
+    7:30 AM          0            0       0        0      4        0       0   0    0    136       0     0    0    308       1       0          449
+    7:45 AM          0            0       0        0      6        0       4   0    0    118       0     0    0    315       7       0          450             1685
+    8:00 AM          0            0       0        0      4        0       5   0    0    114       0     0    0    294       4       0          421             1739
+    8:15 AM          0            0       0        0      8        0       2   0    0    126       0     0    0    290      11       0          437             1757
+    8:30 AM          0            0       0        0      6        0       0   0    1    110       0     0    0    278      18       0          413             1721
+    8:45 AM          0            0       0        0      4        0       0   0    1    117       0     0    0    289      19       0          430             1701
+
+
+
+
+ Peak 15-Min                       Northbound                       Southbound                Eastbound               Westbound
+   Flowrates        Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left Thru Right    U                       Total
+  All Vehicles       0           0      0     0           24      0     16     0    0     472      0    0     0 1260     28     0                       1800
+ Heavy Trucks        0           0      0                  0      0      0          0      24      0          0    72     4                              100
+  Pedestrians                    0                               12                         0                       0                                     12
+    Bicycles         0           0      0                 0       0      0          0       0      0          0     0     0                                0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 30th St -- Military Rd NW                                                                                          QC JOB #: 10706726
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Feb 22 2012
+                         10           5                          Peak-Hour: 12:00 PM -- 1:00 PM
+                               0.65                                                                                            0.0        0.0
+
+                           3    0     7
+                                                                Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                               0.0 0.0 0.0
+
+
+       591     2                            3    591
+                                                                                                                  6.9   0.0                      0.0       6.9
+        0.87   435             0.88       588   0.88
+                                                                                                                        6.9                      7.0
+       437     0                            0    442
+                                                                                                                  6.9   0.0                      0.0       6.8
+
+                           0    0     0
+                                                                                                                               0.0 0.0 0.0
+
+                           0          0
+                               0.00                                                                                            0.0        0.0
+
+
+
+                                4                                                                                               0    0    0
+
+
+
+                                                                                                                        0                          0
+
+               0                            8                                                                           0                          0
+
+                                                                                                                        0                          0
+
+                                2                                                                                               0    0    0
+
+
+
+
+                               NA                                                                                                    NA
+
+
+
+
+               NA                         NA                                                                            NA                       NA
+
+
+
+
+                               NA                                                                                                    NA
+
+
+
+ 15-Min Count                     30th St                        30th St              Military Rd NW            Military Rd NW                  Total       Hourly
+    Period                     (Northbound)                   (Southbound)             (Eastbound)               (Westbound)                                Totals
+ Beginning At       Left        Thru Right       U     Left    Thru Right    U   Left Thru Right       U   Left Thru Right           U
+   11:00 AM          0            0       0      0      4        0       1   0    0     80       0     0    0    138       1         0          224
+   11:15 AM          0            0       0      0      0        0       0   0    0     97       0     0    0    140       2         0          239
+   11:30 AM          0            0       0      0      2        0       0   0    0     87       0     0    0    156       0         0          245
+   11:45 AM          0            0       0      0      3        0       1   0    0     90       0     0    0    141       0         0          235              943
+   12:00 PM          0            0       0      0      0        0       2   0    0    125       0     0    0    137       1         0          265              984
+   12:15 PM          0            0       0      0      5        0       0   0    2    102       0     0    0    133       1         0          243              988
+   12:30 PM          0            0       0      0      1        0       1   0    0     83       0     0    0    150       1         0          236              979
+   12:45 PM          0            0       0      0      1        0       0   0    0    125       0     0    0    168       0         0          294             1038
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       0           0      0     0         4       0      0     0    0     500      0    0     0      672     0     0                      1176
+ Heavy Trucks        0           0      0               0       0      0          0      36      0          0       52     0                             88
+  Pedestrians                    0                              8                         0                         12                                   20
+    Bicycles         0           0      0               0       0      0          0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 30th St -- Military Rd NW                                                                                           QC JOB #: 10706727
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, Feb 22 2012
+                         23           16                           Peak-Hour: 5:15 PM -- 6:15 PM
+                               0.81                                                                                             0.0        0.0
+
+                           2    0     21
+                                                                  Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                0.0 0.0 0.0
+
+
+       790     3                            13    801
+                                                                                                                   1.0   0.0                      0.0       1.0
+        0.95   749             0.95        788   0.92
+                                                                                                                         2.3                      1.0
+       752     0                             0    770
+                                                                                                                   2.3   0.0                      0.0       2.2
+
+                           0    0     0
+                                                                                                                                0.0 0.0 0.0
+
+                           0          0
+                               0.00                                                                                             0.0        0.0
+
+
+
+                                1                                                                                                0    0    0
+
+
+
+                                                                                                                         0                          0
+
+               3                             3                                                                           2                          1
+
+                                                                                                                         0                          0
+
+                                5                                                                                                0    0    0
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+
+               NA                          NA                                                                            NA                       NA
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+ 15-Min Count                     30th St                         30th St              Military Rd NW            Military Rd NW                  Total       Hourly
+    Period                     (Northbound)                    (Southbound)             (Eastbound)               (Westbound)                                Totals
+ Beginning At       Left        Thru Right        U     Left    Thru Right    U   Left Thru Right       U   Left Thru Right           U
+    4:30 PM          0            0       0       0      5        0       2   0    0    178       0     0    0    172       0         0          357
+    4:45 PM          0            0       0       0      8        0       1   0    0    160       0     0    0    154       1         0          324
+    5:00 PM          0            0       0       0      4        0       2   0    0    158       0     0    0    166       2         0          332
+    5:15 PM          0            0       0       0      5        0       1   0    1    185       0     0    0    203       5         0          400             1413
+    5:30 PM          0            0       0       0      7        0       1   0    0    188       0     0    0    218       1         0          415             1471
+    5:45 PM          0            0       0       0      3        0       0   0    1    179       0     0    0    198       4         0          385             1532
+    6:00 PM          0            0       0       0      6        0       0   0    1    197       0     0    0    169       3         0          376             1576
+    6:15 PM          0            0       0       0      5        0       3   0    1    167       0     0    0    209       4         0          389             1565
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       0           0      0     0          28      0      4     0    0     752      0    0     0      872     4     0                      1660
+ Heavy Trucks        0           0      0                 0      0      0          0      20      0          0       16     0                             36
+  Pedestrians                    8                               0                         0                          0                                    8
+    Bicycles         0           0      0                0       0      0          0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 30th St -- Military Rd_ NW                                                                                         QC JOB #: 10706728
+ CITY/STATE: Washington, DC                                                                                                   DATE: Sat, Mar 24 2012
+                         10           4                           Peak-Hour: 2:15 PM -- 3:15 PM
+                               0.67                                                                                            0.0        0.0
+
+                           3    0     7
+                                                                 Peak 15-Min: 2:45 PM -- 3:00 PM
+                                                                                                                               0.0 0.0 0.0
+
+
+       659     2                            2    658
+                                                                                                                  1.8   0.0                      0.0       1.8
+        0.96   503             0.91       656   0.86
+                                                                                                                        3.6                      1.8
+       505     0                            0    510
+                                                                                                                  3.6   0.0                      0.0       3.5
+
+                           0    0     0
+                                                                                                                               0.0 0.0 0.0
+
+                           0          0
+                               0.00                                                                                            0.0        0.0
+
+
+
+                                1                                                                                               0    0    0
+
+
+
+                                                                                                                        0                          0
+
+               0                            0                                                                           0                          0
+
+                                                                                                                        0                          0
+
+                                4                                                                                               0    0    0
+
+
+
+
+                               NA                                                                                                    NA
+
+
+
+
+               NA                         NA                                                                            NA                       NA
+
+
+
+
+                               NA                                                                                                    NA
+
+
+
+ 15-Min Count                     30th St                        30th St             Military Rd_ NW           Military Rd_ NW                  Total       Hourly
+    Period                     (Northbound)                   (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left        Thru Right       U     Left    Thru Right    U   Left Thru Right       U   Left Thru Right           U
+   12:00 PM          0            0       0      0      0        0       0   0    1   114        0     0    0   128        0         0          243
+   12:15 PM          0            0       0      0      2        0       2   0    0     98       0     0    0   155        1         0          258
+   12:30 PM          0            0       0      0      1        0       2   0    0   118        0     0    0   159        1         0          281
+   12:45 PM          0            0       0      0      1        0       0   0    0   117        0     0    0   126        1         0          245             1027
+    1:00 PM          0            0       0      0      3        0       1   0    0   108        0     0    0   140        3         0          255             1039
+    1:15 PM          0            0       0      0      3        0       0   0    0   114        0     0    0   152        1         0          270             1051
+    1:30 PM          0            0       0      0      3        0       2   0    0   125        0     0    0   130        1         0          261             1031
+    1:45 PM          0            0       0      0      1        0       0   0    0   129        0     0    0   127        2         0          259             1045
+    2:00 PM          0            0       0      0      5        0       1   0    1   111        0     0    0   135        2         0          255             1045
+    2:15 PM          0            0       0      0      3        0       1   0    1   125        0     0    0   151        0         0          281             1056
+    2:30 PM          0            0       0      0      1        0       1   0    1   131        0     0    0   172        2         0          308             1103
+    2:45 PM          0            0       0      0      2        0       1   0    0   129        0     0    0   191        0         0          323             1167
+    3:00 PM          0            0       0      0      1        0       0   0    0   118        0     0    0   142        0         0          261             1173
+    3:15 PM          0            0       0      0      2        0       2   0    0   133        0     0    0   124        1         0          262             1154
+    3:30 PM          0            0       0      0      3        0       2   0    0   119        0     0    0   139        1         0          264             1110
+    3:45 PM          0            0       0      0      1        0       0   0    1   118        0     1    0   159        2         0          282             1069
+    4:00 PM          0            0       0      0      4        0       2   0    0   117        0     0    0   153        1         0          277             1085
+    4:15 PM          0            0       0      0      1        0       0   0    0   102        0     0    0   124        2         0          229             1052
+    4:30 PM          0            0       0      0      5        0       0   0    0   120        0     0    0   128        1         0          254             1042
+    4:45 PM          0            0       0      0      3        0       0   0    0   109        0     0    0   118        2         0          232              992
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       0           0      0     0         8       0      4     0    0     516      0    0     0      764     0     0                      1292
+ Heavy Trucks        0           0      0               0       0      0          0      24      0          0       24     0                             48
+  Pedestrians                    0                              0                         0                          0                                    0
+    Bicycles         0           0      0               0       0      0          0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

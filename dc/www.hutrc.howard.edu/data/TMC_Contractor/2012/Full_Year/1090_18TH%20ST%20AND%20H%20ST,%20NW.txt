@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: 18th St -- H St NW                                                                                                     QC JOB #: 10696466
+ CITY/STATE: Washington, DC                                                                                                       DATE: Tue, Jan 31 2012
+                           0   0.00 1231                             Peak-Hour: 8:00 AM -- 9:00 AM                                 0.0        4.0
+
+                           0    0     0
+                                                                    Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                   0.0 0.0 0.0
+
+       0       159                           0        0
+                                                                                                                      0.0   0.6                       0.0      0.0
+        0.91   652             0.95          0   0.00
+                                                                                                                            4.6                       0.0
+       811     0                             0   1005
+                                                                                                                      3.8   0.0                       0.0      4.2
+
+                           0 1072 353
+                                                                                                                                   0.0 4.5 3.4
+
+                           0   0.92 1425
+                                                                                                                                   0.0        4.2
+
+
+
+                               234                                                                                                  0    0    0
+
+
+                                                                                                                            0                          0
+
+               907                         568                                                                              5                          0
+
+                                                                                                                            0                          0
+
+
+                               101                                                                                                  0    15   1
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+
+               NA                          NA                                                                               NA                        NA
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+15-Min Count                      18th St                           18th St                  H St NW                     H St NW
+   Period                      (Northbound)                      (Southbound)              (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                        Total
+                    Left        Thru Right        U       Left    Thru Right    U   Left   Thru Right    U     Left     Thru Right       U                      Totals
+   7:00 AM            0         193     88        0         0       0       0   0    15     77      0    0       0        0     0        0          373
+   7:15 AM            0         210     70        0         0       0       0   0    18     91      0    0       0        0     0        0          389
+   7:30 AM            0         236    102        0         0       0       0   0    20     98      0    0       0        0     0        0          456
+   7:45 AM            0         219     92        0         0       0       0   0    27    141      0    0       0        0     0        0          479             1697
+   8:00 AM            0         300     89        0         0       0       0   0    31    156      0    0       0        0     0        0          576             1900
+   8:15 AM            0         293     95        0         0       0       0   0    37    164      0    0       0        0     0        0          589             2100
+   8:30 AM            0         242     92        0         0       0       0   0    42    159      0    0       0        0     0        0          535             2179
+   8:45 AM            0         237     77        0         0       0       0   0    49    173      0    0       0        0     0        0          536             2236
+
+
+
+
+ Peak 15-Min                 Northbound                             Southbound                 Eastbound                   Westbound
+                                                                                                                                                            Total
+  Flowrates         Left Thru Right     U                 Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles        0 1172    380     0                   0      0     0     0    148    656      0    0       0       0      0    0                      2356
+ Heavy Trucks         0   64      12                        0      0     0            4     28      0            0       0      0                            108
+  Pedestrians             96                                     232                       884                         432                                  1644
+   Bicycles           0    5       0                        0      0     0            0      1      0            0       0      0                             6
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/27/2012 11:33 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 18th St -- H St NW                                                                                                    QC JOB #: 10696467
+ CITY/STATE: Washington, DC                                                                                                      DATE: Tue, Jan 31 2012
+                           0   0.00 626                            Peak-Hour: 11:15 AM -- 12:15 PM                                0.0        4.2
+
+                           0    0     0
+                                                                  Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                                  0.0 0.0 0.0
+
+       0       68                           0        0
+                                                                                                                     0.0   4.4                       0.0      0.0
+        0.91   455             0.96         0   0.00
+                                                                                                                           6.4                       0.0
+       523     0                            0    779
+                                                                                                                     6.1   0.0                       0.0      4.5
+
+                           0   558 324
+                                                                                                                                  0.0 4.1 1.9
+
+                           0   0.93 882
+                                                                                                                                  0.0        3.3
+
+
+
+                               245                                                                                                 0    3    1
+
+
+                                                                                                                           0                          1
+
+               440                        428                                                                              4                          1
+
+                                                                                                                           0                          0
+
+
+                               118                                                                                                 1    7    4
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+
+               NA                         NA                                                                               NA                        NA
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+15-Min Count                      18th St                          18th St                  H St NW                     H St NW
+   Period                      (Northbound)                     (Southbound)              (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                       Total
+                    Left        Thru Right       U       Left    Thru Right    U   Left   Thru Right    U     Left     Thru Right       U                      Totals
+  11:00 AM            0         128     92       0         0       0       0   0    16     75      0    0       0        0     0        0          311
+  11:15 AM            0         134     68       0         0       0       0   0    10    110      0    0       0        0     0        0          322
+  11:30 AM            0         136     82       0         0       0       0   0    22    124      0    0       0        0     0        0          364
+  11:45 AM            0         141     83       0         0       0       0   0    27    116      0    0       0        0     0        0          367             1364
+  12:00 PM            0         147     91       0         0       0       0   0     9    105      0    0       0        0     0        0          352             1405
+  12:15 PM            0         119     68       0         0       0       0   0    20    106      0    0       0        0     0        0          313             1396
+  12:30 PM            0         114     62       0         0       0       0   0    21    119      0    0       0        0     0        0          316             1348
+  12:45 PM            0         125     61       0         0       0       0   0    17     87      0    0       0        0     0        0          290             1271
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                 Eastbound                   Westbound
+                                                                                                                                                           Total
+  Flowrates         Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles        0        564    332     0            0      0     0     0    108    464      0    0       0       0      0    0                      1468
+ Heavy Trucks         0         20      4                  0      0     0            8     20      0            0       0      0                            52
+  Pedestrians                  116                              288                       400                         488                                  1292
+   Bicycles           0          2      1                  0      1     0            0      3      0            0       0      0                             7
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/27/2012 11:33 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 18th St -- H St NW                                                                                                    QC JOB #: 10696468
+ CITY/STATE: Washington, DC                                                                                                      DATE: Tue, Jan 31 2012
+                           0   0.00 656                             Peak-Hour: 4:45 PM -- 5:45 PM                                 0.0        3.8
+
+                           0    0     0
+                                                                   Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                                  0.0 0.0 0.0
+
+       0       81                           0        0
+                                                                                                                     0.0   2.5                       0.0      0.0
+        0.91   511             0.97         0   0.00
+                                                                                                                           3.9                       0.0
+       592     0                            0    813
+                                                                                                                     3.7   0.0                       0.0      6.6
+
+                           0   575 302
+                                                                                                                                  0.0 4.0 11.3
+
+                           0   0.93 877
+                                                                                                                                  0.0        6.5
+
+
+
+                               252                                                                                                 0    0    0
+
+
+                                                                                                                           3                          0
+
+               943                        479                                                                              5                          0
+
+                                                                                                                           0                          0
+
+
+                               197                                                                                                 0    17   2
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+
+               NA                         NA                                                                               NA                        NA
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+15-Min Count                      18th St                          18th St                  H St NW                     H St NW
+   Period                      (Northbound)                     (Southbound)              (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                       Total
+                    Left        Thru Right       U       Left    Thru Right    U   Left   Thru Right    U     Left     Thru Right       U                      Totals
+   4:30 PM            0         119     73       0         0       0       0   0    21    129      0    0       0        0     0        0          342
+   4:45 PM            0         134     88       0         0       0       0   0    13    119      0    0       0        0     0        0          354
+   5:00 PM            0         157     78       0         0       0       0   0    24    120      0    0       0        0     0        0          379
+   5:15 PM            0         142     71       0         0       0       0   0    17    132      0    0       0        0     0        0          362             1437
+   5:30 PM            0         142     65       0         0       0       0   0    27    140      0    0       0        0     0        0          374             1469
+   5:45 PM            0         138     73       0         0       0       0   0    25    117      0    0       0        0     0        0          353             1468
+   6:00 PM            0         127     73       0         0       0       0   0    21    119      0    0       0        0     0        0          340             1429
+   6:15 PM            0         101     85       0         0       0       0   0    22    134      0    0       0        0     0        0          342             1409
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                  Eastbound                  Westbound
+                                                                                                                                                           Total
+  Flowrates         Left       Thru Right     U          Left   Thru Right    U    Left    Thru Right    U    Left    Thru Right    U
+  All Vehicles        0        628    312     0            0      0     0     0     96     480      0    0      0       0      0    0                      1516
+ Heavy Trucks         0         36      40                 0      0     0            0      16      0           0       0      0                            92
+  Pedestrians                  264                              268                       1056                        512                                  2100
+   Bicycles           0          3       0                 0      0     0            2       2      0           0       0      0                             7
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/27/2012 11:33 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 18th St -- H St NW                                                                                                   QC JOB #: 10696469
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Feb 25 2012
+                           0   0.00 367                            Peak-Hour: 4:00 PM -- 5:00 PM                                 0.0        1.4
+
+                           0    0     0
+                                                                  Peak 15-Min: 4:45 PM -- 5:00 PM
+                                                                                                                                 0.0 0.0 0.0
+
+       0       26                          0        0
+                                                                                                                    0.0   0.0                       0.0      0.0
+        0.75   253             0.88        0   0.00
+                                                                                                                          3.2                       0.0
+       279     0                           0    399
+                                                                                                                    2.9   0.0                       0.0      3.0
+
+                           0   341 146
+                                                                                                                                 0.0 1.5 2.7
+
+                           0   0.91 487
+                                                                                                                                 0.0        1.8
+
+
+
+                                48                                                                                                0    0    0
+
+
+                                                                                                                          1                          0
+
+               75                         69                                                                              3                          0
+
+                                                                                                                          0                          0
+
+
+                                24                                                                                                0    1    0
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+
+               NA                         NA                                                                              NA                        NA
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+15-Min Count                      18th St                         18th St                  H St NW                     H St NW
+   Period                      (Northbound)                    (Southbound)              (Eastbound)                 (Westbound)                                Hourly
+Beginning At                                                                                                                                      Total
+                    Left        Thru Right      U       Left    Thru Right    U   Left   Thru Right    U     Left     Thru Right       U                        Totals
+   3:00 PM            0          60     40      0         0       0       0   0     5     69      0    0       0        0     0        0          174
+   3:15 PM            0          80     33      0         0       0       0   0     4     57      0    0       0        0     0        0          174
+   3:30 PM            0          80     34      0         0       0       0   0     6     45      0    0       0        0     0        0          165
+   3:45 PM            0          95     35      0         0       0       0   0     5     39      0    0       0        0     0        0          174              687
+   4:00 PM            0          94     31      0         0       0       0   0     3     39      0    0       0        0     0        0          167              680
+   4:15 PM            0          72     42      0         0       0       0   0     6     54      0    0       0        0     0        0          174              680
+   4:30 PM            0          84     30      0         0       0       0   0    12     81      0    0       0        0     0        0          207              722
+   4:45 PM            0          91     43      0         0       0       0   0     5     79      0    0       0        0     0        0          218              766
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound                 Eastbound                   Westbound
+                                                                                                                                                          Total
+  Flowrates         Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles        0        364    172     0           0      0     0     0     20    316      0    0       0       0      0    0                      872
+ Heavy Trucks         0          0      8                 0      0     0            0      4      0            0       0      0                           12
+  Pedestrians                   24                              56                        80                          32                                  192
+   Bicycles           0          0      0                 0      0     0            1      1      0            0       0      0                            2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/27/2012 11:33 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

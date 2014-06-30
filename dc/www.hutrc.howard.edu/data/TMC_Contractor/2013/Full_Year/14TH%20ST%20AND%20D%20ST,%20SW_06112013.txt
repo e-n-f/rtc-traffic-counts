@@ -1,0 +1,183 @@
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- D St SW                                                                                                 QC JOB #: 10977407
+ CITY/STATE: Washington, DC                                                                                                   DATE: Tue, Jun 11 2013
+                     0          2403                         Peak-Hour: 7:05 AM -- 8:05 AM                                     0.0        3.7
+
+                     0    0      0
+                                                            Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                               0.0 0.0 0.0
+
+
+       0     0                          9   9
+                                                                                                                  0.0   0.0                      0.0      0.0
+             0           0.98           0
+                                                                                                                        0.0                      0.0
+       0     0                          0   39
+                                                                                                                  0.0   0.0                      0.0      2.6
+
+                     0 2394 39
+                                                                                                                               0.0 3.7 2.6
+
+                     0          2433
+                                                                                                                               0.0        3.7
+
+
+
+                          0                                                                                                     0    0    0
+
+
+
+                                                                                                                        0                          0
+
+             0                         77                                                                               0                          0
+
+                                                                                                                        0                          0
+
+                          0                                                                                                     0    1    3
+
+
+
+
+                         NA                                                                                                          NA
+
+
+
+
+             NA                        NA                                                                               NA                       NA
+
+
+
+
+                         NA                                                                                                          NA
+
+
+
+ 5-Min Count              14th St                          14th St                       D St SW                     D St SW                    Total      Hourly
+     Period            (Northbound)                     (Southbound)                   (Eastbound)                 (Westbound)                             Totals
+ Beginning At     Left Thru Right     U          Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U
+     7:00 AM       0   194        0   0           0        0       0    0        0       0      0      0    0        0      1    0              195
+     7:05 AM       0   194        4   0           0        0       0    0        0       0      0      0    0        0      1    0              199
+     7:10 AM       0   198        6   0           0        0       0    0        0       0      0      0    0        0      1    0              205
+     7:15 AM       0   191        6   0           0        0       0    0        0       0      0      0    0        0      3    0              200
+     7:20 AM       0   187        3   0           0        0       0    0        0       0      0      0    0        0      0    0              190
+     7:25 AM       0   206        2   0           0        0       0    0        0       0      0      0    0        0      1    0              209
+     7:30 AM       0   198        1   0           0        0       0    0        0       0      0      0    0        0      1    0              200
+     7:35 AM       0   201        1   0           0        0       0    0        0       0      0      0    0        0      0    0              202
+     7:40 AM       0   207        2   0           0        0       0    0        0       0      0      0    0        0      0    0              209
+     7:45 AM       0   204        3   0           0        0       0    0        0       0      0      0    0        0      0    0              207
+     7:50 AM       0   201        4   0           0        0       0    0        0       0      0      0    0        0      1    0              206
+     7:55 AM       0   210        3   0           0        0       0    0        0       0      0      0    0        0      0    0              213            2435
+     8:00 AM       0   197        4   0           0        0       0    0        0       0      0      0    0        0      1    0              202            2442
+     8:05 AM       0   192        2   0           0        0       0    0        0       0      0      0    0        0      1    0              195            2438
+     8:10 AM       0   168        3   0           0        0       0    0        0       0      0      0    0        0      3    0              174            2407
+     8:15 AM       0   187        2   0           0        0       0    0        0       0      0      0    0        0      2    0              191            2398
+     8:20 AM       0   195        4   0           0        0       0    0        0       0      0      0    0        0      4    0              203            2411
+     8:25 AM       0   178        1   0           0        0       0    0        0       0      0      0    0        0      1    0              180            2382
+     8:30 AM       0   177        6   0           0        0       0    0        0       0      0      0    0        0      4    0              187            2369
+     8:35 AM       0   178        2   0           0        0       0    0        0       0      0      0    0        0      4    0              184            2351
+     8:40 AM       0   179        2   0           0        0       0    0        0       0      0      0    0        0      3    0              184            2326
+     8:45 AM       0   179        4   0           0        0       0    0        0       0      0      0    0        0      3    0              186            2305
+     8:50 AM       0   193        3   0           0        0       0    0        0       0      0      0    0        0      2    0              198            2297
+     8:55 AM       0   174        3   0           0        0       0    0        0       0      0      0    0        0      6    0              183            2267
+ Peak 15-Min               Northbound                        Southbound                    Eastbound                   Westbound
+   Flowrates      Left Thru Right     U          Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U                     Total
+  All Vehicles     0 2460       40    0           0        0       0    0        0       0      0      0    0        0      4    0                     2504
+ Heavy Trucks      0    76        4               0        0       0             0       0      0           0        0      0                           80
+  Pedestrians            0                                 0                             0                          64                                  64
+    Bicycles       0     0        2               0        0       0             0       0      0           0        0      0                            2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/4/2013 9:00 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- D St SW                                                                                                  QC JOB #: 10977408
+ CITY/STATE: Washington, DC                                                                                                    DATE: Tue, Jun 11 2013
+                     0          1696                         Peak-Hour: 4:05 PM -- 5:05 PM                                      0.0        3.9
+
+                     0    0      0
+                                                            Peak 15-Min: 4:20 PM -- 4:35 PM
+                                                                                                                                0.0 0.0 0.0
+
+
+       0     0                         20    21
+                                                                                                                   0.0   0.0                      0.0      0.0
+             0           0.94           0
+                                                                                                                         0.0                      0.0
+       0     0                          1   162
+                                                                                                                   0.0   0.0                      0.0      4.3
+
+                     0 1676 161
+                                                                                                                                0.0 3.9 4.3
+
+                     0          1837
+                                                                                                                                0.0        4.0
+
+
+
+                          0                                                                                                      0    0    0
+
+
+
+                                                                                                                         0                          0
+
+             0                         79                                                                                0                          0
+
+                                                                                                                         0                          0
+
+                          0                                                                                                      0    1    0
+
+
+
+
+                         NA                                                                                                           NA
+
+
+
+
+             NA                        NA                                                                                NA                       NA
+
+
+
+
+                         NA                                                                                                           NA
+
+
+
+ 5-Min Count              14th St                           14th St                       D St SW                     D St SW                    Total      Hourly
+     Period            (Northbound)                      (Southbound)                   (Eastbound)                 (Westbound)                             Totals
+ Beginning At     Left Thru Right      U          Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U
+    4:00 PM        0    119     21     0           0        0       0    0        0       0      0      0    0        0      3    0              143
+    4:05 PM        0   130      24     0           0        0       0    0        0       0      0      0    0        0      1    0              155
+    4:10 PM        0   135      15     0           0        0       0    0        0       0      0      0    0        0      2    0              152
+    4:15 PM        0   137      16     0           0        0       0    0        0       0      0      0    0        0      1    0              154
+    4:20 PM        0   154      16     0           0        0       0    0        0       0      0      0    0        0      2    0              172
+    4:25 PM        0   136      20     0           0        0       0    0        0       0      0      0    0        0      2    0              158
+    4:30 PM        0   145      17     0           0        0       0    0        0       0      0      0    0        0      0    0              162
+    4:35 PM        0   144      10     0           0        0       0    0        0       0      0      0    0        0      4    1              159
+    4:40 PM        0   130        5    0           0        0       0    0        0       0      0      0    0        0      2    0              137
+    4:45 PM        0   147      18     0           0        0       0    0        0       0      0      0    0        0      0    0              165
+    4:50 PM        0   133        5    0           0        0       0    0        0       0      0      0    0        0      2    0              140
+    4:55 PM        0   143      11     0           0        0       0    0        0       0      0      0    0        0      3    0              157            1854
+    5:00 PM        0   142        4    0           0        0       0    0        0       0      0      0    0        0      1    0              147            1858
+    5:05 PM        0    115       4    0           0        0       0    0        0       0      0      0    0        0      4    0              123            1826
+    5:10 PM        0    110     10     0           0        0       0    0        0       0      0      0    0        0      4    0              124            1798
+    5:15 PM        0     94       5    0           0        0       0    0        0       0      0      0    0        0      6    0              105            1749
+    5:20 PM        0    118       6    0           0        0       0    0        0       0      0      0    0        0      1    0              125            1702
+    5:25 PM        0   104        3    0           0        0       0    0        0       0      0      0    0        0      4    0              111            1655
+    5:30 PM        0    114       9    0           0        0       0    0        0       0      0      0    0        0      3    1              127            1620
+    5:35 PM        0    112       5    0           0        0       0    0        0       0      0      0    0        0      4    0              121            1582
+    5:40 PM        0   133        4    0           0        0       0    0        0       0      0      0    0        0      0    0              137            1582
+    5:45 PM        0    115     10     0           0        0       0    0        0       0      0      0    0        0      0    1              126            1543
+    5:50 PM        0   103        4    0           0        0       0    0        0       0      0      0    0        0      1    0              108            1511
+    5:55 PM        0     92       4    0           0        0       0    0        0       0      0      0    0        0      3    0               99            1453
+ Peak 15-Min                Northbound                        Southbound                    Eastbound                   Westbound
+   Flowrates      Left Thru Right      U          Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U                     Total
+  All Vehicles     0 1740      212     0           0        0       0    0        0       0      0      0    0        0     16    0                     1968
+ Heavy Trucks      0     32       8                0        0       0             0       0      0           0        0      0                           40
+  Pedestrians             0                                 0                             0                          72                                  72
+    Bicycles       0      0       0                0        0       0             0       0      0           0        0      0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/4/2013 9:00 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

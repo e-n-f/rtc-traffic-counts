@@ -1,0 +1,414 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Dupont Cir -- P St NW                                                                                                 QC JOB #: 10863825
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, Mar 27 2013
+                    1437            0                           Peak-Hour: 8:15 AM -- 9:15 AM                                     5.0        0.0
+
+                    171 1266 0
+                                                               Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                  10.5 4.3 0.0
+
+
+       171   0                           0       0
+                                                                                                                    10.5   0.0                      0.0      0.0
+             0               0.98        0
+                                                                                                                           0.0                      0.0
+       247   247                         0       0
+                                                                                                                    6.1    6.1                      0.0      0.0
+
+                         0    0     0
+                                                                                                                                  0.0 0.0 0.0
+
+                    1513            0
+                                                                                                                                  4.6        0.0
+
+
+
+                              0                                                                                                   36    96   0
+
+
+
+                                                                                                                           0                          0
+
+             198                         0                                                                                 0                          0
+
+                                                                                                                           4                          0
+
+                              0                                                                                                    0    0    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                         NA                                                                                 NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                  Dupont Cir                     Dupont Cir                    P St NW                    P St NW                     Total      Hourly
+    Period                   (Northbound)                   (Southbound)                  (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right     U       Left    Thru Right    U       Left   Thru Right    U    Left    Thru Right         U
+    6:30 AM        0            0      0     0        0       97    18     0        0       0     12    0     0        0      0         0          127
+    6:45 AM        0            0      0     0        0      138    30     0        0       0     21    0     0        0      0         0          189
+    7:00 AM        0            0      0     0        0      188    32     0        0       0     20    0     0        0      0         0          240
+    7:15 AM        0            0      0     0        0      215    45     0        0       0     27    0     0        0      0         0          287             843
+    7:30 AM        0            0      0     0        0      247    40     0        0       0     35    0     0        0      0         0          322            1038
+    7:45 AM        0            0      0     0        0      279    40     0        0       0     40    0     0        0      0         0          359            1208
+    8:00 AM        0            0      0     0        0      284    43     0        0       0     40    0     0        0      0         0          367            1335
+    8:15 AM        0            0      0     0        0      333    43     0        0       0     52    0     0        0      0         0          428            1476
+    8:30 AM        0            0      0     0        0      315    42     0        0       0     65    0     0        0      0         0          422            1576
+    8:45 AM        0            0      0     0        0      305    47     0        0       0     62    0     0        0      0         0          414            1631
+    9:00 AM        0            0      0     0        0      313    39     0        0       0     68    0     0        0      0         0          420            1684
+    9:15 AM        0            0      0     0        0      280    44     0        0       0     58    0     0        0      0         0          382            1638
+
+
+
+
+ Peak 15-Min                     Northbound                   Southbound                      Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0           0      0     0         0 1332     172     0          0       0   208     0     0        0     0     0                      1712
+ Heavy Trucks      0           0      0               0    80      8                0       0      8          0        0     0                             96
+  Pedestrians                  0                            0                              68                          0                                   68
+    Bicycles       0           0      0               0    12     12                0       0      2           0       0     0                             26
+   Railroad
+Stopped Buses
+ Comments: 1195i
+Report generated on 7/9/2013 1:17 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Dupont Cir -- P St NW                                                                                                QC JOB #: 10863826
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Mar 27 2013
+                    988             0                          Peak-Hour: 11:45 AM -- 12:45 PM                                   4.9        0.0
+
+                    129 859         0
+                                                              Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                                 4.7 4.9 0.0
+
+
+       129   0                           0       0
+                                                                                                                    4.7   0.0                      0.0      0.0
+             0               0.93        0
+                                                                                                                          0.0                      0.0
+       210   210                         0       0
+                                                                                                                    3.8   3.8                      0.0      0.0
+
+                         0    0     0
+                                                                                                                                 0.0 0.0 0.0
+
+                    1069            0
+                                                                                                                                 4.7        0.0
+
+
+
+                              0                                                                                                  10    20   0
+
+
+
+                                                                                                                          0                          0
+
+             308                         0                                                                                0                          0
+
+                                                                                                                          0                          0
+
+                              0                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                         NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                  Dupont Cir                     Dupont Cir                    P St NW                    P St NW                    Total      Hourly
+    Period                   (Northbound)                   (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right     U       Left    Thru Right    U       Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        0            0      0     0        0      197    31     0        0       0     45    0     0        0      0        0          273
+   11:15 AM        0            0      0     0        0      219    32     0        0       0     50    0     0        0      0        0          301
+   11:30 AM        0            0      0     0        0      216    28     0        0       0     51    0     0        0      0        0          295
+   11:45 AM        0            0      0     0        0      217    22     0        0       0     40    0     0        0      0        0          279            1148
+   12:00 PM        0            0      0     0        0      200    41     0        0       0     51    0     0        0      0        0          292            1167
+   12:15 PM        0            0      0     0        0      237    28     0        0       0     58    0     0        0      0        0          323            1189
+   12:30 PM        0            0      0     0        0      205    38     0        0       0     61    0     0        0      0        0          304            1198
+   12:45 PM        0            0      0     0        0      187    33     0        0       0     49    0     0        0      0        0          269            1188
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0           0      0     0         0     948    112     0        0       0   232     0     0        0     0     0                     1292
+ Heavy Trucks      0           0      0               0      32      8              0       0      4          0        0     0                             44
+  Pedestrians                  0                              0                           332                          0                                  332
+    Bicycles       0           0      0               0       4      3              0       0      0           0       0     0                              7
+   Railroad
+Stopped Buses
+ Comments: 1195i
+Report generated on 7/9/2013 1:17 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Dupont Cir -- P St NW                                                                                                QC JOB #: 10863827
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Mar 27 2013
+                    1081            0                           Peak-Hour: 5:00 PM -- 6:00 PM                                    3.7        0.0
+
+                    140 941         0
+                                                               Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                 7.9 3.1 0.0
+
+
+       140   0                           0       0
+                                                                                                                    7.9   0.0                      0.0      0.0
+             0               0.96        0
+                                                                                                                          0.0                      0.0
+       334   334                         0       0
+                                                                                                                    2.4   2.4                      0.0      0.0
+
+                         0    0     0
+                                                                                                                                 0.0 0.0 0.0
+
+                    1275            0
+                                                                                                                                 2.9        0.0
+
+
+
+                              0                                                                                                  17    7    0
+
+
+
+                                                                                                                          0                          0
+
+             471                         0                                                                                0                          0
+
+                                                                                                                          2                          0
+
+                              0                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                         NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                  Dupont Cir                     Dupont Cir                    P St NW                    P St NW                    Total      Hourly
+    Period                   (Northbound)                   (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right     U       Left    Thru Right    U       Left   Thru Right    U    Left    Thru Right        U
+    3:30 PM        0            0      0     0        0      210    21     0        0       0     81    0     0        0      0        0          312
+    3:45 PM        0            0      0     0        0      234    28     0        0       0     71    0     0        0      0        0          333
+    4:00 PM        0            0      0     0        0      202    36     0        0       0     67    0     0        0      0        0          305
+    4:15 PM        0            0      0     0        0      232    40     0        0       0     64    0     0        0      0        0          336            1286
+    4:30 PM        0            0      0     0        0      178    40     0        0       0     69    0     0        0      0        0          287            1261
+    4:45 PM        0            0      0     0        0      230    29     0        0       0     43    0     0        0      0        0          302            1230
+    5:00 PM        0            0      0     0        0      236    36     0        0       0     76    0     0        0      0        0          348            1273
+    5:15 PM        0            0      0     0        0      232    39     0        0       0     94    0     0        0      0        0          365            1302
+    5:30 PM        0            0      0     0        0      249    26     0        0       0     92    0     0        0      0        0          367            1382
+    5:45 PM        0            0      0     0        0      224    39     0        0       0     72    0     0        0      0        0          335            1415
+    6:00 PM        0            0      0     0        0      210    40     0        0       0     77    0     0        0      0        0          327            1394
+    6:15 PM        0            0      0     0        0      197    35     0        0       0     91    0     0        0      0        0          323            1352
+    6:30 PM        0            0      0     0        0      200    35     0        0       0     81    0     0        0      0        0          316            1301
+    6:45 PM        0            0      0     0        0      196    48     0        0       0     63    0     0        0      0        0          307            1273
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0           0      0     0         0     996    104     0        0       0   368     0     0        0     0     0                     1468
+ Heavy Trucks      0           0      0               0      36     12              0       0      0          0        0     0                             48
+  Pedestrians                  0                              0                           480                          0                                  480
+    Bicycles       0           0      0               0       2      6              0       0      0           0       0     0                              8
+   Railroad
+Stopped Buses
+ Comments: 1195i
+Report generated on 7/9/2013 1:17 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Dupont Cir -- P St NW                                                                                                QC JOB #: 10863868
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Mar 27 2013
+                    786             0                           Peak-Hour: 7:00 PM -- 8:00 PM                                    3.4        0.0
+
+                    143 643         0
+                                                               Peak 15-Min: 7:00 PM -- 7:15 PM
+                                                                                                                                 5.6 3.0 0.0
+
+
+       143   0                           0       0
+                                                                                                                    5.6   0.0                      0.0      0.0
+             0               0.90        0
+                                                                                                                          0.0                      0.0
+       193   193                         0       0
+                                                                                                                    2.6   2.6                      0.0      0.0
+
+                         0    0     0
+                                                                                                                                 0.0 0.0 0.0
+
+                    836             0
+                                                                                                                                 2.9        0.0
+
+
+
+                              0                                                                                                   8    11   0
+
+
+
+                                                                                                                          0                          0
+
+             292                         0                                                                                0                          0
+
+                                                                                                                          2                          0
+
+                              0                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                         NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                  Dupont Cir                     Dupont Cir                    P St NW                    P St NW                    Total      Hourly
+    Period                   (Northbound)                   (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right     U       Left    Thru Right    U       Left   Thru Right    U    Left    Thru Right        U
+    7:00 PM        0            0      0     0        0      181    37     0        0       0     53    0     0        0      0        0          271
+    7:15 PM        0            0      0     0        0      156    49     0        0       0     40    0     0        0      0        0          245
+    7:30 PM        0            0      0     0        0      165    31     0        0       0     50    0     0        0      0        0          246
+    7:45 PM        0            0      0     0        0      141    26     0        0       0     50    0     0        0      0        0          217             979
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0           0      0     0         0     724    148     0        0       0   212     0     0        0     0     0                     1084
+ Heavy Trucks      0           0      0               0      24     12              0       0      8          0        0     0                             44
+  Pedestrians                  0                              0                           348                          0                                  348
+    Bicycles       0           0      0               0       6      2              0       0      0           0       0     0                              8
+   Railroad
+Stopped Buses
+ Comments: 1195i
+Report generated on 7/9/2013 1:18 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Dupont Cir -- P St NW                                                                                                QC JOB #: 10863869
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Apr 20 2013
+                    952             0                           Peak-Hour: 4:45 PM -- 5:45 PM                                    3.0        0.0
+
+                    137 815         0
+                                                               Peak 15-Min: 4:45 PM -- 5:00 PM
+                                                                                                                                 4.4 2.8 0.0
+
+
+       137   0                           0       0
+                                                                                                                    4.4   0.0                      0.0      0.0
+             0               0.98        0
+                                                                                                                          0.0                      0.0
+       241   241                         0       0
+                                                                                                                    3.3   3.3                      0.0      0.0
+
+                         0    0     0
+                                                                                                                                 0.0 0.0 0.0
+
+                    1056            0
+                                                                                                                                 2.9        0.0
+
+
+
+                              0                                                                                                   4    12   0
+
+
+
+                                                                                                                          0                          0
+
+             350                         0                                                                                0                          0
+
+                                                                                                                          0                          0
+
+                              0                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                         NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                  Dupont Cir                     Dupont Cir                    P St NW                    P St NW                    Total      Hourly
+    Period                   (Northbound)                   (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right     U       Left    Thru Right    U       Left   Thru Right    U    Left    Thru Right        U
+    1:00 PM        0            0      0     0        0      144    31     0        0       0     55    0     0        0      0        0          230
+    1:15 PM        0            0      0     0        0      180    41     0        0       0     34    0     0        0      0        0          255
+    1:30 PM        0            0      0     0        0      199    37     0        0       0     50    0     0        0      0        0          286
+    1:45 PM        0            0      0     0        0      187    46     0        0       0     32    0     0        0      0        0          265            1036
+    2:00 PM        0            0      0     0        0      168    37     0        0       0     36    0     0        0      0        0          241            1047
+    2:15 PM        0            0      0     0        0      175    40     0        0       0     38    0     0        0      0        0          253            1045
+    2:30 PM        0            0      0     0        0      183    31     0        0       0     55    0     0        0      0        0          269            1028
+    2:45 PM        0            0      0     0        0      183    34     0        0       0     42    0     0        0      0        0          259            1022
+    3:00 PM        0            0      0     0        0      190    30     0        0       0     46    0     0        0      0        0          266            1047
+    3:15 PM        0            0      0     0        0      206    38     0        0       0     36    0     0        0      0        0          280            1074
+    3:30 PM        0            0      0     0        0      199    35     0        0       0     55    0     0        0      0        0          289            1094
+    3:45 PM        0            0      0     0        0      203    32     0        0       0     45    0     0        0      0        0          280            1115
+    4:00 PM        0            0      0     0        0      194    39     0        0       0     36    0     0        0      0        0          269            1118
+    4:15 PM        0            0      0     0        0      198    30     0        0       0     43    0     0        0      0        0          271            1109
+    4:30 PM        0            0      0     0        0      176    36     0        0       0     49    0     0        0      0        0          261            1081
+    4:45 PM        0            0      0     0        0      216    31     0        0       0     58    0     0        0      0        0          305            1106
+    5:00 PM        0            0      0     0        0      186    41     0        0       0     60    0     0        0      0        0          287            1124
+    5:15 PM        0            0      0     0        0      199    32     0        0       0     66    0     0        0      0        0          297            1150
+    5:30 PM        0            0      0     0        0      214    33     0        0       0     57    0     0        0      0        0          304            1193
+    5:45 PM        0            0      0     0        0      182    37     0        0       0     64    0     0        0      0        0          283            1171
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0           0      0     0         0     864    124     0        0       0   232     0     0        0     0     0                     1220
+ Heavy Trucks      0           0      0               0      32      4              0       0    16           0        0     0                             52
+  Pedestrians                  0                              0                           452                          0                                  452
+    Bicycles       0           0      0               0       1      1              0       0      0           0       0     0                              2
+   Railroad
+Stopped Buses
+ Comments: 1195i
+Report generated on 7/9/2013 1:18 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

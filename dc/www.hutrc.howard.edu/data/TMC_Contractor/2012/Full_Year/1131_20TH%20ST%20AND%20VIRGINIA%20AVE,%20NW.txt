@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 20th St -- Virginia Ave NW                                                                                             QC JOB #: 10697541
+ CITY/STATE: Washington, DC                                                                                                       DATE: Thu, Feb 02 2012
+                           0   0.00 562                           Peak-Hour: 8:00 AM -- 9:00 AM                                    0.0        4.6
+
+                           0    0     0
+                                                                 Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                   0.0 0.0 0.0
+
+       396     270                        294    690
+                                                                                                                     9.8   3.3                        5.8      8.1
+        0.94   425             0.99       394   0.91
+                                                                                                                           11.3                       9.9
+       695     0                            2    427
+                                                                                                                     8.2   0.0                        0.0     11.2
+
+                           0    0     0
+                                                                                                                                   0.0 0.0 0.0
+
+                           0   0.00   0
+                                                                                                                                   0.0        0.0
+
+
+
+                                20                                                                                                  0    0    0
+
+
+                                                                                                                           3                           4
+
+               1                          100                                                                              12                          3
+
+                                                                                                                           0                           0
+
+
+                                30                                                                                                  0    0    0
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+
+               NA                         NA                                                                               NA                         NA
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+15-Min Count                      20th St                        20th St                Virginia Ave NW              Virginia Ave NW
+   Period                      (Northbound)                   (Southbound)                (Eastbound)                  (Westbound)                              Hourly
+Beginning At                                                                                                                                        Total
+                    Left        Thru Right       U     Left    Thru Right    U   Left     Thru Right      U   Left      Thru Right       U                      Totals
+   7:00 AM            0           0       0      0       0       0       0   0    26       53       0     0     0        77     30       0          186
+   7:15 AM            0           0       0      0       0       0       0   0    26       64       0     0     0        93     39       0          222
+   7:30 AM            0           0       0      0       0       0       0   0    31       75       0     1     0       100     42       0          249
+   7:45 AM            0           0       0      0       0       0       0   0    42       76       0     0     0        94     47       1          260              917
+   8:00 AM            0           0       0      0       0       0       0   0    63       90       0     0     0       114     75       1          343             1074
+   8:15 AM            0           0       0      0       0       0       0   0    74      101       0     1     0       110     65       0          351             1203
+   8:30 AM            0           0       0      0       0       0       0   0    67      118       0     0     0        95     69       1          350             1304
+   8:45 AM            0           0       0      0       0       0       0   0    64      116       0     1     0        75     85       0          341             1385
+
+
+
+
+ Peak 15-Min                       Northbound                    Southbound                  Eastbound                    Westbound
+                                                                                                                                                            Total
+  Flowrates         Left       Thru Right     U        Left   Thru Right    U    Left    Thru Right    U      Left    Thru Right    U
+  All Vehicles        0          0      0     0          0      0     0     0    296     404      0    4        0     440   260     0                       1404
+ Heavy Trucks         0          0      0                0      0     0            8      60      0             0      56     20                             144
+  Pedestrians                   48                             28                          4                          128                                    208
+   Bicycles           0          0      0                0      0     0            1       1      0             0       2      0                              4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/29/2012 6:01 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 20th St -- Virginia Ave NW                                                                                            QC JOB #: 10697542
+ CITY/STATE: Washington, DC                                                                                                      DATE: Thu, Feb 02 2012
+                           0   0.00 224                          Peak-Hour: 11:00 AM -- 12:00 PM                                  0.0        6.3
+
+                           0    0     0
+                                                                Peak 15-Min: 11:15 AM -- 11:30 AM
+                                                                                                                                  0.0 0.0 0.0
+
+       221     89                         141    359
+                                                                                                                     6.8   2.2                       8.5      7.5
+        0.98   181             0.89       215   0.85
+                                                                                                                           7.7                       7.0
+       270     0                            3    184
+                                                                                                                     5.9   0.0                       0.0      7.6
+
+                           0    0     0
+                                                                                                                                  0.0 0.0 0.0
+
+                           0   0.00   0
+                                                                                                                                  0.0        0.0
+
+
+
+                                44                                                                                                 0    0    0
+
+
+                                                                                                                           1                          0
+
+               4                           38                                                                              1                          1
+
+                                                                                                                           0                          0
+
+
+                                29                                                                                                 1    0    0
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+
+               NA                         NA                                                                               NA                        NA
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+15-Min Count                      20th St                        20th St                Virginia Ave NW              Virginia Ave NW
+   Period                      (Northbound)                   (Southbound)                (Eastbound)                  (Westbound)                               Hourly
+Beginning At                                                                                                                                       Total
+                    Left        Thru Right       U     Left    Thru Right    U   Left     Thru Right      U   Left      Thru Right      U                        Totals
+  11:00 AM            0           0       0      0       0       0       0   0    14       49       0     1     0        49     39      0          152
+  11:15 AM            0           0       0      0       0       0       0   0    22       47       0     1     0        67     39      0          176
+  11:30 AM            0           0       0      0       0       0       0   0    25       42       0     2     0        48     35      2          154
+  11:45 AM            0           0       0      0       0       0       0   0    22       43       0     2     0        51     28      1          147              629
+  12:00 PM            0           0       0      0       0       0       0   0    22       44       0     3     0        55     25      2          151              628
+  12:15 PM            0           0       0      0       0       0       0   0    20       43       0     1     0        56     33      0          153              605
+  12:30 PM            0           0       0      0       0       0       0   0    19       43       0     1     0        51     37      1          152              603
+  12:45 PM            0           0       0      0       0       0       0   0    24       39       0     0     0        64     30      0          157              613
+
+
+
+
+ Peak 15-Min                       Northbound                    Southbound                  Eastbound                    Westbound
+                                                                                                                                                           Total
+  Flowrates         Left       Thru Right     U        Left   Thru Right    U    Left    Thru Right    U      Left    Thru Right    U
+  All Vehicles        0          0      0     0          0      0     0     0     88     188      0    4        0     268   156     0                      704
+ Heavy Trucks         0          0      0                0      0     0            0      12      0             0      24     20                           56
+  Pedestrians                    4                             20                          4                           20                                  48
+   Bicycles           0          0      0                0      0     0            0       1      0             0       0      0                            1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/29/2012 6:01 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 20th St -- Virginia Ave NW                                                                                             QC JOB #: 10697543
+ CITY/STATE: Washington, DC                                                                                                       DATE: Thu, Feb 02 2012
+                           0   0.00 282                           Peak-Hour: 5:00 PM -- 6:00 PM                                    0.0        10.6
+
+                           0    0     0
+                                                                 Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                                   0.0 0.0 0.0
+
+       397     113                        169    567
+                                                                                                                     7.1   17.7                        5.9      6.7
+        0.94   558             0.96       397   0.86
+                                                                                                                           3.9                         7.1
+       671     0                            1    559
+                                                                                                                     6.3   0.0                         0.0      3.9
+
+                           0    0     0
+                                                                                                                                   0.0 0.0 0.0
+
+                           0   0.00   0
+                                                                                                                                   0.0        0.0
+
+
+
+                                35                                                                                                  0    0     0
+
+
+                                                                                                                           4                            4
+
+               1                           80                                                                              0                            8
+
+                                                                                                                           0                            0
+
+
+                                27                                                                                                  0    0     0
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+
+               NA                         NA                                                                               NA                          NA
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+15-Min Count                      20th St                        20th St                Virginia Ave NW              Virginia Ave NW
+   Period                      (Northbound)                   (Southbound)                (Eastbound)                  (Westbound)                               Hourly
+Beginning At                                                                                                                                         Total
+                    Left        Thru Right       U     Left    Thru Right    U   Left     Thru Right      U   Left      Thru Right       U                       Totals
+   4:30 PM            0           0       0      0       0       0       0   0    27       94       0     1     0        76     42       1           241
+   4:45 PM            0           0       0      0       0       0       0   0    25      114       0     1     0        95     50       0           285
+   5:00 PM            0           0       0      0       0       0       0   0    27      140       0     0     0       113     40       1           321
+   5:15 PM            0           0       0      0       0       0       0   0    30      148       0     0     0        88     38       0           304             1151
+   5:30 PM            0           0       0      0       0       0       0   0    26      137       0     0     0       108     48       0           319             1229
+   5:45 PM            0           0       0      0       0       0       0   0    30      133       0     0     0        88     43       0           294             1238
+   6:00 PM            0           0       0      0       0       0       0   0    24      106       0     0     0       133     38       0           301             1218
+   6:15 PM            0           0       0      0       0       0       0   0    20      109       0     0     0       131     56       0           316             1230
+
+
+
+
+ Peak 15-Min                       Northbound                    Southbound                  Eastbound                    Westbound
+                                                                                                                                                             Total
+  Flowrates         Left       Thru Right     U        Left   Thru Right    U    Left    Thru Right    U      Left    Thru Right    U
+  All Vehicles        0          0      0     0          0      0     0     0    108     560      0    0        0     452   160     4                        1284
+ Heavy Trucks         0          0      0                0      0     0           36      20      0             0      24     12                              92
+  Pedestrians                   48                             32                          0                          140                                     220
+   Bicycles           0          0      0                0      0     0            1       0      0             0       4      2                               7
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/29/2012 6:01 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 20th St -- Virginia Ave NW                                                                                             QC JOB #: 10697544
+ CITY/STATE: Washington, DC                                                                                                       DATE: Sat, Feb 04 2012
+                           0   0.00 162                           Peak-Hour: 4:00 PM -- 5:00 PM                                    0.0        5.6
+
+                           0    0     0
+                                                                 Peak 15-Min: 4:30 PM -- 4:45 PM
+                                                                                                                                   0.0 0.0 0.0
+
+       313     61                         104    419
+                                                                                                                     2.2   13.1                       1.0      1.9
+        0.60   189             0.86       310   0.89
+                                                                                                                           3.7                        2.3
+       250     0                            5    194
+                                                                                                                     6.0   0.0                        0.0      3.6
+
+                           0    0     0
+                                                                                                                                   0.0 0.0 0.0
+
+                           0   0.00   0
+                                                                                                                                   0.0        0.0
+
+
+
+                                20                                                                                                  0    0    0
+
+
+                                                                                                                           1                           3
+
+               0                           15                                                                              0                           0
+
+                                                                                                                           0                           0
+
+
+                                0                                                                                                   0    0    0
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+
+               NA                         NA                                                                               NA                         NA
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+15-Min Count                      20th St                        20th St                Virginia Ave NW              Virginia Ave NW
+   Period                      (Northbound)                   (Southbound)                (Eastbound)                  (Westbound)                                Hourly
+Beginning At                                                                                                                                        Total
+                    Left        Thru Right       U     Left    Thru Right    U   Left     Thru Right      U   Left      Thru Right       U                        Totals
+   3:00 PM            0           0       0      0       0       0       0   0    10       41       0     0     0        52     35       0          138
+   3:15 PM            0           0       0      0       0       0       0   0     9       32       0     0     0        62     20       0          123
+   3:30 PM            0           0       0      0       0       0       0   0     4       38       0     0     0        71     18       0          131
+   3:45 PM            0           0       0      0       0       0       0   0     8       26       0     0     0        74     23       0          131              523
+   4:00 PM            0           0       0      0       0       0       0   0     7       29       0     2     0        73     28       2          141              526
+   4:15 PM            0           0       0      0       0       0       0   0    15       36       0     0     0        80     27       1          159              562
+   4:30 PM            0           0       0      0       0       0       0   0    22       81       0     1     0        66     23       1          194              625
+   4:45 PM            0           0       0      0       0       0       0   0    14       43       0     0     0        91     26       1          175              669
+
+
+
+
+ Peak 15-Min                       Northbound                    Southbound                  Eastbound                    Westbound
+                                                                                                                                                            Total
+  Flowrates         Left       Thru Right     U        Left   Thru Right    U    Left    Thru Right    U      Left    Thru Right    U
+  All Vehicles        0          0      0     0          0      0     0     0     88     324      0    4        0     264     92    4                       776
+ Heavy Trucks         0          0      0                0      0     0            8      12      0             0      16      4                            40
+  Pedestrians                    0                             12                          0                            8                                   20
+   Bicycles           0          0      0                0      0     0            0       0      0             0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/29/2012 6:01 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

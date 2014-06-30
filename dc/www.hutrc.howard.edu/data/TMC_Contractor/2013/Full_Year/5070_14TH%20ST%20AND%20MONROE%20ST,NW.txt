@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Monroe St NW                                                                                               QC JOB #: 10694952
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, Apr 24 2013
+                    400             446                          Peak-Hour: 7:45 AM -- 8:45 AM                                    7.8         8.5
+
+                         0   391     9
+                                                                Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                                  0.0 7.7 11.1
+
+
+       0     31                            95   187
+                                                                                                                     0.0   3.2                       4.2       2.7
+             83              0.93           0
+                                                                                                                           4.8                       0.0
+       176   62                            92   125
+                                                                                                                     4.0   3.2                       1.1       5.6
+
+                         0   320 33
+                                                                                                                                  0.0 10.3 6.1
+
+                    545             353
+                                                                                                                                  6.1         9.9
+
+
+
+                              7                                                                                                    0    130   1
+
+
+
+                                                                                                                           0                           1
+
+             482                          257                                                                              15                          0
+
+                                                                                                                           2                           7
+
+                              73                                                                                                   0     9    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                           NA                                                                               NA                        NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                   14th St                         14th St                  Monroe St NW              Monroe St NW                     Total       Hourly
+    Period                   (Northbound)                    (Southbound)                 (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U       Left Thru Right     U     Left Thru Right            U
+    7:00 AM        0           58       0       0      2       97       0   0         1     6      8    0      15     0    10            0          197
+    7:15 AM        0           56       9       0      4      107       0   0         4     4     11    0      13     0    13            0          221
+    7:30 AM        0           65       3       0      0       96       0   0         5    12      5    0      22     0    26            0          234
+    7:45 AM        0           83       9       0      4      106       0   0        12    28    14     0      16     0    27            0          299              951
+    8:00 AM        0           72       9       0      3       97       0   0         3    15    15     0      29     0    26            0          269             1023
+    8:15 AM        0           79       9       0      1       99       0   0         4    21    13     0      24     0    24            0          274             1076
+    8:30 AM        0           86       6       0      1       89       0   0        12    19    20     0      23     0    18            0          274             1116
+    8:45 AM        0           90     13        0      1       90       0   0         7    25    19     0      20     0    19            0          284             1101
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     0         332     36     0          16    424      0     0        48    112    56     0     64       0   108     0                       1196
+ Heavy Trucks      0          48      0                 4     44      0               0      4      0           0       0     4                             104
+  Pedestrians                 48                              16                           328                        224                                   616
+    Bicycles       0           3      0                1      26      0              0       4      0          0        0     0                              34
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/8/2013 11:04 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Monroe St NW                                                                                               QC JOB #: 10694953
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, Apr 24 2013
+                    339             386                         Peak-Hour: 11:00 AM -- 12:00 PM                                   7.1        7.5
+
+                         0   316 23
+                                                               Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                                  0.0 6.6 13.0
+
+
+       0     22                            48   96
+                                                                                                                     0.0   0.0                      2.1       2.1
+             46              0.92           0
+                                                                                                                           0.0                      0.0
+       109   41                            48   117
+                                                                                                                     1.8   4.9                      2.1       7.7
+
+                         1   316 48
+                                                                                                                                  0.0 8.9 12.5
+
+                    406             365
+                                                                                                                                  5.9        9.3
+
+
+
+                              8                                                                                                    0    32   0
+
+
+
+                                                                                                                           1                          0
+
+             244                          264                                                                              0                          0
+
+                                                                                                                           3                          1
+
+                              77                                                                                                   0    19   1
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                           NA                                                                               NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                   14th St                         14th St                  Monroe St NW              Monroe St NW                    Total       Hourly
+    Period                   (Northbound)                    (Southbound)                 (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U       Left Thru Right     U     Left Thru Right           U
+   11:00 AM        0           66       8       0      3       83       0   0        6     10      8    0      15     0    14           0          213
+   11:15 AM        0         100        6       0      5       80       0   0        4      7      9    0       7     0    14           0          232
+   11:30 AM        0           73     11        1      6       76       0   0        6     15      7    0      14     0      8          0          217
+   11:45 AM        0           77     23        0      9       77       0   0        6     14    17     0      12     0    12           0          247              909
+   12:00 PM        0           70     17        2      4       67       0   0        3     13    10     0      10     0    14           0          210              906
+   12:15 PM        0           70     11        0      5       61       0   0        9     12      6    0      17     0      9          0          200              874
+   12:30 PM        0           83     17        0      4       60       0   0        1      7      6    0      15     0      5          0          198              855
+   12:45 PM        0           97     23        0      4       65       0   0        2     10      5    0      10     0      4          0          220              828
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         308     92     0          36    308      0     0        24     56    68     0     48       0    48     0                      988
+ Heavy Trucks      0          16      4                 4     16      0               0      0      8           0       0     0                             48
+  Pedestrians                 72                               8                           352                        312                                  744
+    Bicycles       0           7      1                0       9      0              0       0      2          0        0     0                             19
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/8/2013 11:04 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Monroe St NW                                                                                               QC JOB #: 10694954
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, Apr 24 2013
+                    319             576                          Peak-Hour: 5:30 PM -- 6:30 PM                                    4.4        3.3
+
+                         0   299 20
+                                                                Peak 15-Min: 6:15 PM -- 6:30 PM
+                                                                                                                                  0.0 4.7 0.0
+
+
+       0     29                            71   117
+                                                                                                                     0.0   0.0                      0.0      0.0
+             114             0.95           0
+                                                                                                                           0.0                      0.0
+       210   67                            46   197
+                                                                                                                     0.0   0.0                      0.0      0.0
+
+                         0   476 63
+                                                                                                                                  0.0 4.0 0.0
+
+                    412             539
+                                                                                                                                  3.4        3.5
+
+
+
+                              27                                                                                                   1    39   0
+
+
+
+                                                                                                                           0                          6
+
+             552                          407                                                                              4                          0
+
+                                                                                                                           2                          4
+
+                             150                                                                                                   0    66   2
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                           NA                                                                               NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                   14th St                         14th St                  Monroe St NW              Monroe St NW                    Total      Hourly
+    Period                   (Northbound)                    (Southbound)                 (Eastbound)               (Westbound)                               Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U       Left Thru Right     U     Left Thru Right           U
+    4:30 PM        0          116     14        0       7      61       0   0        10    30      9    0      10     0    14           0          271
+    4:45 PM        0           89     15        0       4      65       0   0         9    29    15     0      15     0    23           0          264
+    5:00 PM        0          117     16        0      11      61       0   0         9    31      9    0      22     0    21           0          297
+    5:15 PM        0         107      18        0       7      71       0   0         6    33     11    0      31     0    18           0          302            1134
+    5:30 PM        0          117     18        0       8      83       0   0        10    27      9    0      13     0    17           0          302            1165
+    5:45 PM        0         125      12        0       3      71       0   0         3    20    13     0      14     0    18           0          279            1180
+    6:00 PM        0          117     13        0       7      72       0   0         4    24    26     0      10     0    18           0          291            1174
+    6:15 PM        0          117     20        0       2      73       0   0        12    43    19     0       9     0    18           0          313            1185
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         468     80     0          8     292      0     0        48    172    76     0     36       0    72     0                     1252
+ Heavy Trucks      0          20      0                0      12      0               0      0      0           0       0     0                            32
+  Pedestrians                104                              24                           516                        384                                 1028
+    Bicycles       0          19      1                0      14      0              0       3      1          3        0     0                            41
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/8/2013 11:04 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Monroe St NW                                                                                               QC JOB #: 10694955
+ CITY/STATE: Washington, DC                                                                                                      DATE: Sat, May 04 2013
+                    364             519                          Peak-Hour: 3:00 PM -- 4:00 PM                                    2.7        2.7
+
+                         0   344 20
+                                                                Peak 15-Min: 3:15 PM -- 3:30 PM
+                                                                                                                                  0.0 2.9 0.0
+
+
+       0     48                            54   118
+                                                                                                                     0.0   2.1                      0.0       1.7
+             87              0.97           0
+                                                                                                                           0.0                      0.0
+       169   34                            64   177
+                                                                                                                     0.6   0.0                      3.1       1.1
+
+                         2   417 70
+                                                                                                                                  0.0 3.1 2.9
+
+                    444             489
+                                                                                                                                  2.7        3.1
+
+
+
+                              71                                                                                                   0    53   2
+
+
+
+                                                                                                                           2                          2
+
+             435                          458                                                                              4                          0
+
+                                                                                                                           1                          6
+
+                             125                                                                                                   0    38   1
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                           NA                                                                               NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                   14th St                         14th St                  Monroe St NW              Monroe St NW                    Total       Hourly
+    Period                   (Northbound)                    (Southbound)                 (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U       Left Thru Right     U     Left Thru Right           U
+    3:00 PM        0           95     21        1       4      87       0   0        10    24      4    0      17     0      8          0          271
+    3:15 PM        0          118       8       0       9      81       0   0         9    19    16     0      20     0    13           0          293
+    3:30 PM        0           95     28        0       2      93       0   0        14    23      7    0      13     0    14           0          289
+    3:45 PM        0         109      13        1       5      83       0   0        15    21      7    0      14     0    19           0          287             1140
+    4:00 PM        0           95     26        0       2      78       0   0        13     9      7    0      19     0    15           0          264             1133
+    4:15 PM        0           94     17        1       4      84       0   0         4    26    16     0      17     0    18           0          281             1121
+    4:30 PM        0         105      25        0       1      96       0   0         6    21      7    0       9     0    15           0          285             1117
+    4:45 PM        0           91     22        0      10      94       0   0         6    23    12     0      15     0    20           0          293             1123
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         472     32     0          36    324      0     0        36     76    64     0     80       0    52     0                      1172
+ Heavy Trucks      0           8      0                 0     12      0               0      0      0           4       0     0                             24
+  Pedestrians                124                              72                           480                        460                                  1136
+    Bicycles       0           8      0                1      14      0              1       0      0          3        0     0                             27
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/8/2013 11:04 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

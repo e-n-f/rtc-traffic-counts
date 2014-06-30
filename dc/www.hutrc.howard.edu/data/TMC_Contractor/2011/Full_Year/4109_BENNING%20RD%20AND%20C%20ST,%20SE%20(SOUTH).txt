@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Benning Rd -- C St SE                                                                                            QC JOB #: 10655850
+ CITY/STATE: Washington, DC                                                                                                 DATE: Wed, Oct 12 2011
+                     345            962                         Peak-Hour: 7:15 AM -- 8:15 AM                                10.1        5.4
+
+                         0   314 31
+                                                               Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                             0.0 11.1 0.0
+
+       0     0                            62   158
+                                                                                                                0.0   0.0                        8.1      7.6
+             0               0.94          0
+                                                                                                                      0.0                        0.0
+       0     0                            96    82
+                                                                                                                0.0   0.0                        7.3      2.4
+
+                         0   900 51
+                                                                                                                             0.0 5.2 3.9
+
+                     410            951
+                                                                                                                             10.2        5.2
+
+
+
+                              10                                                                                              0     0    0
+
+
+                                                                                                                      0                           0
+
+             32                           57                                                                          0                           0
+
+                                                                                                                      0                           0
+
+
+                              13                                                                                              0     1    0
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+
+             NA                           NA                                                                          NA                         NA
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+15-Min Count                  Benning Rd                     Benning Rd                 C St SE                     C St SE
+   Period                    (Northbound)                   (Southbound)              (Eastbound)                (Westbound)                               Hourly
+Beginning At                                                                                                                                   Total
+                  Left        Thru Right       U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right        U                      Totals
+   7:00 AM          0         190     5        0       6      61     0     0     1      0      0    0     11        0      7        0          281
+   7:15 AM          0         216     5        0       6      62     0     0     0      0      0    0      9        0     11        0          309
+   7:30 AM          0         241     7        0       6      93     0     0     0      0      0    0     21        0     16        0          384
+   7:45 AM          0         216    22        0      13      79     0     0     0      0      0    0     33        0     22        0          385             1359
+   8:00 AM          0         227    17        0       6      80     0     0     0      0      0    0     33        0     13        0          376             1454
+   8:15 AM          0         165    22        0       5      78     0     0     0      0      0    0     16        0      9        0          295             1440
+   8:30 AM          0         155    10        0       6      70     0     0     0      0      0    0     24        0     18        0          283             1339
+   8:45 AM          0         134     9        0       6      88     0     1     0      0      0    0     15        0     12        0          265             1219
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                 Eastbound                  Westbound
+                                                                                                                                                       Total
+  Flowrates       Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles      0        864      88    0         52    316     0     0      0      0      0    0    132       0     88    0                       1540
+ Heavy Trucks       0         68       0               0     24     0            0      0      0           8       0      8                             108
+  Pedestrians                 12                              4                        64                         60                                    140
+   Bicycles         0          0       0               0      0     0            0      0      0           0       0      0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/22/2011 6:12 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Benning Rd -- C St SE                                                                                           QC JOB #: 10655851
+ CITY/STATE: Washington, DC                                                                                                DATE: Wed, Oct 12 2011
+                     343            421                       Peak-Hour: 11:45 AM -- 12:45 PM                               7.9        5.5
+
+                         0   327 16
+                                                             Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                            0.0 8.0 6.3
+
+       0     0                            35   56
+                                                                                                               0.0   0.0                       0.0      3.6
+             0               0.94          0
+                                                                                                                     0.0                       0.0
+       1     1                            21   32
+                                                                                                               0.0   0.0                       9.5      6.3
+
+                         0   386 16
+                                                                                                                            0.0 6.0 6.3
+
+                     349            402
+                                                                                                                            8.0        6.0
+
+
+
+                              2                                                                                              0    0    0
+
+
+                                                                                                                     0                          0
+
+             41                           25                                                                         0                          0
+
+                                                                                                                     0                          0
+
+
+                              6                                                                                              0    0    0
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+
+             NA                           NA                                                                         NA                        NA
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+15-Min Count                  Benning Rd                    Benning Rd                 C St SE                     C St SE
+   Period                    (Northbound)                  (Southbound)              (Eastbound)                (Westbound)                                Hourly
+Beginning At                                                                                                                                 Total
+                  Left        Thru Right       U    Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right       U                        Totals
+  11:00 AM          2          85     4        0      3      80     0     0     0      0      0    0      7        0      7       0          188
+  11:15 AM          0          77     6        0      3      87     0     0     0      0      0    0      5        0      5       0          183
+  11:30 AM          0          72     3        0      6      67     0     0     0      0      0    0     11        0      4       0          163
+  11:45 AM          0         101     1        0      4      94     0     0     0      0      0    0      6        0      8       0          214              748
+  12:00 PM          0          92     4        0      4      72     0     0     0      0      1    0      7        0      6       0          186              746
+  12:15 PM          0          92     3        0      2      93     0     0     0      0      0    0      3        0      9       0          202              765
+  12:30 PM          0         101     8        0      6      68     0     0     0      0      0    0      5        0     12       0          200              802
+  12:45 PM          0          83     5        0      4      79     0     0     0      0      0    0      8        0      4       0          183              771
+
+
+
+
+ Peak 15-Min                     Northbound                   Southbound                 Eastbound                  Westbound
+                                                                                                                                                     Total
+  Flowrates       Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles      0        404      4     0        16    376     0     0      0      0      0    0     24       0     32    0                      856
+ Heavy Trucks       0         32      0               0     32     0            0      0      0           0       0      0                           64
+  Pedestrians                  4                             0                        36                         36                                  76
+   Bicycles         0          0      0               0      0     0            0      0      0           0       0      0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/22/2011 6:12 AM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Benning Rd -- C St SE                                                                                           QC JOB #: 10655852
+ CITY/STATE: Washington, DC                                                                                                DATE: Wed, Oct 12 2011
+                     641            503                        Peak-Hour: 4:30 PM -- 5:30 PM                                3.4        5.2
+
+                         1   623 17
+                                                              Peak 15-Min: 4:30 PM -- 4:45 PM
+                                                                                                                            0.0 3.4 5.9
+
+       1     0                            25   88
+                                                                                                               0.0   0.0                       8.0      5.7
+             0               0.92          0
+                                                                                                                     0.0                       0.0
+       0     0                            63   68
+                                                                                                               0.0   0.0                       4.8      5.9
+
+                         0   477 52
+                                                                                                                            0.0 5.0 5.8
+
+                     686            529
+                                                                                                                            3.5        5.1
+
+
+
+                              7                                                                                              0    0    0
+
+
+                                                                                                                     0                          0
+
+             33                           42                                                                         0                          0
+
+                                                                                                                     0                          0
+
+
+                              6                                                                                              0    0    0
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+
+             NA                           NA                                                                         NA                        NA
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+15-Min Count                  Benning Rd                    Benning Rd                 C St SE                     C St SE
+   Period                    (Northbound)                  (Southbound)              (Eastbound)                (Westbound)                              Hourly
+Beginning At                                                                                                                                 Total
+                  Left        Thru Right       U    Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right       U                      Totals
+   4:30 PM          0         119    18        0      2     177     1     0     0      0      0    0     19        0      5       0          341
+   4:45 PM          0         113    13        0      4     164     0     1     0      0      0    0     15        0      8       0          318
+   5:00 PM          0         135    11        0      5     158     0     0     0      0      0    0     20        0      6       0          335
+   5:15 PM          0         110    10        0      5     124     0     0     0      0      0    0      9        0      6       0          264             1258
+   5:30 PM          0         107     9        0     11     151     0     0     0      0      0    0     14        0      8       0          300             1217
+   5:45 PM          0          87     8        0      9     170     0     0     0      0      0    0     18        0      5       0          297             1196
+   6:00 PM          0          93     5        0      9     143     0     0     0      0      0    0     12        0      9       0          271             1132
+   6:15 PM          0          92     3        0      3     141     0     0     0      0      0    0     13        0      4       0          256             1124
+
+
+
+
+ Peak 15-Min                     Northbound                   Southbound                 Eastbound                  Westbound
+                                                                                                                                                     Total
+  Flowrates       Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles      0        476      72    0         8    708     4     0      0      0      0    0     76       0     20    0                      1364
+ Heavy Trucks       0         32       8              0     16     0            0      0      0           8       0      4                            68
+  Pedestrians                  0                             0                        36                         56                                   92
+   Bicycles         0          0       0              0      0     0            0      0      0           0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/22/2011 6:12 AM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Benning Rd -- C St SE                                                                                           QC JOB #: 10655853
+ CITY/STATE: Washington, DC                                                                                                DATE: Sat, Oct 08 2011
+                     498            520                       Peak-Hour: 12:30 PM -- 1:30 PM                                2.2        2.7
+
+                         0   479 19
+                                                              Peak 15-Min: 1:15 PM -- 1:30 PM
+                                                                                                                            0.0 2.3 0.0
+
+       2     0                            19   58
+                                                                                                               0.0   0.0                       0.0      0.0
+             0               0.93          1
+                                                                                                                     0.0                       0.0
+       0     0                            38   45
+                                                                                                               0.0   0.0                       0.0      2.2
+
+                         1   501 26
+                                                                                                                            0.0 2.8 3.8
+
+                     517            528
+                                                                                                                            2.1        2.8
+
+
+
+                              5                                                                                              0    1    0
+
+
+                                                                                                                     0                          0
+
+             59                           25                                                                         0                          0
+
+                                                                                                                     0                          0
+
+
+                              3                                                                                              0    1    0
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+
+             NA                           NA                                                                         NA                        NA
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+15-Min Count                  Benning Rd                    Benning Rd                 C St SE                     C St SE
+   Period                    (Northbound)                  (Southbound)              (Eastbound)                (Westbound)                              Hourly
+Beginning At                                                                                                                                 Total
+                  Left        Thru Right       U    Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right       U                      Totals
+  12:00 PM          0         130    12        0      6     100     0     0     0      0      0    0      8        0     14       0          270
+  12:15 PM          0         110     3        0      3     107     0     0     0      0      0    0      8        0      2       0          233
+  12:30 PM          0         125     6        0      5     117     0     0     0      0      0    0     13        0      4       0          270
+  12:45 PM          0         129     5        0      1     123     0     0     0      0      0    0      8        0      4       0          270             1043
+   1:00 PM          0         114     7        0      7     112     0     0     0      0      0    0      8        1      5       0          254             1027
+   1:15 PM          1         133     8        0      6     127     0     0     0      0      0    0      9        0      6       0          290             1084
+   1:30 PM          0         134     4        0      1     108     0     0     0      0      0    0      6        1      4       0          258             1072
+   1:45 PM          1         129     4        0      7     114     0     0     0      0      0    0      7        0      5       0          267             1069
+
+
+
+
+ Peak 15-Min                     Northbound                   Southbound                 Eastbound                  Westbound
+                                                                                                                                                     Total
+  Flowrates       Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles      4        532      32    0        24    508     0     0      0      0      0    0     36       0     24    0                      1160
+ Heavy Trucks       0         12       0              0      4     0            0      0      0           0       0      0                            16
+  Pedestrians                  4                             0                        72                         16                                   92
+   Bicycles         0          0       0              0      0     0            0      0      0           0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/22/2011 6:12 AM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

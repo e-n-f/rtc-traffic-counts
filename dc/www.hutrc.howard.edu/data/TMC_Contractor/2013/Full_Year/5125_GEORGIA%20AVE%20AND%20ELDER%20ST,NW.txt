@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Elder St NW                                                                                           QC JOB #: 10695445
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Jul 10 2013
+                    1071            586                         Peak-Hour: 7:45 AM -- 8:45 AM                                    4.1        7.7
+
+                         0 1065 6
+                                                               Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                                 0.0 4.1 0.0
+
+
+       0     0                            21   25
+                                                                                                                    0.0   0.0                      0.0      0.0
+             0               0.93          0
+                                                                                                                          0.0                      0.0
+       0     0                             4   13
+                                                                                                                    0.0   0.0                      0.0      7.7
+
+                         0   565     7
+                                                                                                                                 0.0 8.0 14.3
+
+                    1069            572
+                                                                                                                                 4.1        8.0
+
+
+
+                              0                                                                                                   0    5    0
+
+
+
+                                                                                                                          0                          0
+
+             11                           16                                                                              0                          0
+
+                                                                                                                          0                          0
+
+                              0                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                 Georgia Ave                   Georgia Ave                   Elder St NW                Elder St NW                  Total      Hourly
+    Period                   (Northbound)                  (Southbound)                   (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right       U    Left    Thru Right    U        Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM        0           86      2       0     0      220      0    0         0       0       0   0     1        0       2       0          311
+    7:15 AM        0           98      0       0     0      187      0    0         0       0       0   0     0        0       7       0          292
+    7:30 AM        0          119      1       0     1      285      0    0         0       0       0   0     1        0       2       0          409
+    7:45 AM        0         131       2       0     1      260      0    0         0       0       0   0     2        0       7       0          403            1415
+    8:00 AM        0         138       0       0     0      272      0    0         0       0       0   0     1        0       6       0          417            1521
+    8:15 AM        0         138       3       0     2      255      0    0         0       0       0   0     0        0       4       0          402            1631
+    8:30 AM        0         158       2       0     3      278      0    0         0       0       0   0     1        0       4       0          446            1668
+    8:45 AM        0         165       3       0     1      200      0    0         0       0       0   0     0        0       4       0          373            1638
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left    Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         632      8     0        12    1112      0     0        0       0      0    0     4        0    16     0                     1784
+ Heavy Trucks      0          40      0               0      68      0              0       0      0          0        0     0                            108
+  Pedestrians                  0                              0                            24                         12                                   36
+    Bicycles       0           0      0              0        3      0              0       0      0           0       0     0                              3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Elder St NW                                                                                          QC JOB #: 10695446
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, Jul 10 2013
+                    590             585                       Peak-Hour: 11:30 AM -- 12:30 PM                                   6.9        8.0
+
+                         0   580 10
+                                                             Peak 15-Min: 11:30 AM -- 11:45 AM
+                                                                                                                                0.0 7.1 0.0
+
+
+       0     0                            12   18
+                                                                                                                   0.0   0.0                      0.0      0.0
+             0               0.95          0
+                                                                                                                         0.0                      0.0
+       0     0                             6   17
+                                                                                                                   0.0   0.0                      0.0      0.0
+
+                         0   573     7
+                                                                                                                                0.0 8.2 0.0
+
+                    586             580
+                                                                                                                                7.0        8.1
+
+
+
+                              1                                                                                                  0    2    0
+
+
+
+                                                                                                                         0                          0
+
+             16                           23                                                                             0                          0
+
+                                                                                                                         0                          0
+
+                              0                                                                                                  0    0    0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                 Georgia Ave                   Georgia Ave                  Elder St NW                Elder St NW                  Total      Hourly
+    Period                   (Northbound)                  (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right       U    Left    Thru Right    U       Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        0         135       0       0     4      136      0    0        0       0       0   0     0        0       3       0          278
+   11:15 AM        0         124       4       0     0      148      1    0        0       1       0   0     2        0       2       0          282
+   11:30 AM        0         146       2       0     1      157      0    0        0       0       0   0     1        0       6       0          313
+   11:45 AM        0         129       4       0     2      157      0    0        0       0       0   0     2        0       0       0          294            1167
+   12:00 PM        0         148       1       0     4      137      0    0        0       0       0   0     0        0       2       0          292            1181
+   12:15 PM        0         150       0       0     3      129      0    0        0       0       0   0     3        0       4       0          289            1188
+   12:30 PM        0         133       1       0     0      148      0    0        0       0       0   0     0        0       2       0          284            1159
+   12:45 PM        0         160       0       0     1      137      0    0        0       0       0   0     0        0       1       0          299            1164
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         584      8     0        4     628      0     0        0       0      0    0     4        0    24     0                     1252
+ Heavy Trucks      0          28      0              0      44      0              0       0      0          0        0     0                            72
+  Pedestrians                  0                             0                            28                         36                                  64
+    Bicycles       0           0      0              0       1      0              0       0      0           0       0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Elder St NW                                                                                           QC JOB #: 10695447
+ CITY/STATE: Washington, DC                                                                                                     DATE: Tue, May 14 2013
+                    684             1146                        Peak-Hour: 5:15 PM -- 6:15 PM                                    3.5        2.3
+
+                         0   673 11
+                                                               Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                 0.0 3.6 0.0
+
+
+       0     0                             24   24
+                                                                                                                    0.0   0.0                      4.2      4.2
+             0               0.95           0
+                                                                                                                          0.0                      0.0
+       0     0                              0   20
+                                                                                                                    0.0   0.0                      0.0      5.0
+
+                         0 1122 9
+                                                                                                                                 0.0 2.2 11.1
+
+                    673             1131
+                                                                                                                                 3.6        2.3
+
+
+
+                              3                                                                                                   0    4    0
+
+
+
+                                                                                                                          0                          1
+
+             16                            26                                                                             0                          0
+
+                                                                                                                          0                          0
+
+                              0                                                                                                   0    6    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                            NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                 Georgia Ave                    Georgia Ave                  Elder St NW                Elder St NW                  Total      Hourly
+    Period                   (Northbound)                   (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right        U    Left    Thru Right    U       Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        0         262       1        0     1      144      0    0        0       0       0   0     0        0       2       0          410
+    4:45 PM        0         250       1        0     4      179      0    0        0       0       0   0     0        0       7       0          441
+    5:00 PM        0         232       2        0     1      156      0    0        0       0       0   0     0        0       0       0          391
+    5:15 PM        0         284       3        0     0      178      0    0        0       0       0   0     0        0       7       0          472            1714
+    5:30 PM        0         299       1        0     5      175      0    0        0       0       0   0     0        0       5       0          485            1789
+    5:45 PM        0         287       3        0     5      168      0    0        0       0       0   0     0        0       9       0          472            1820
+    6:00 PM        0         252       2        0     1      152      0    0        0       0       0   0     0        0       3       0          410            1839
+    6:15 PM        0         279       2        0     1      156      0    0        0       0       0   0     0        0       2       0          440            1807
+
+
+
+
+ Peak 15-Min               Northbound                           Southbound                    Eastbound                  Westbound
+   Flowrates      Left Thru Right     U              Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0 1196       4     0               20    700      0     0        0       0      0    0     0        0    20     0                     1940
+ Heavy Trucks      0    24      0                      0     20      0              0       0      0          0        0     0                            44
+  Pedestrians            0                                    0                            12                         20                                  32
+    Bicycles       0     0      0                     0       0      0              0       0      0           0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Elder St NW                                                                                          QC JOB #: 10695448
+ CITY/STATE: Washington, DC                                                                                                    DATE: Sat, May 18 2013
+                    702             759                        Peak-Hour: 3:45 PM -- 4:45 PM                                    1.7        2.1
+
+                         0   689 13
+                                                              Peak 15-Min: 4:00 PM -- 4:15 PM
+                                                                                                                                0.0 1.6 7.7
+
+
+       0     0                            15   21
+                                                                                                                   0.0   0.0                      0.0      0.0
+             0               0.95          0
+                                                                                                                         0.0                      0.0
+       0     0                             6   22
+                                                                                                                   0.0   0.0                      0.0      9.1
+
+                         0   744     9
+                                                                                                                                0.0 2.2 11.1
+
+                    695             753
+                                                                                                                                1.6        2.3
+
+
+
+                              7                                                                                                  0    4    0
+
+
+
+                                                                                                                         0                          0
+
+             11                           22                                                                             0                          0
+
+                                                                                                                         0                          0
+
+                              2                                                                                                  0    1    0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                 Georgia Ave                   Georgia Ave                  Elder St NW                Elder St NW                  Total      Hourly
+    Period                   (Northbound)                  (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right       U    Left    Thru Right    U       Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM        0         179       1       0     5      154      0    0        0       0       0   0     0        0       3       0          342
+    3:15 PM        0         183       4       0     4      150      0    0        0       0       0   0     0        0       7       0          348
+    3:30 PM        0         180       0       0     3      150      0    0        0       0       0   0     1        0       4       0          338
+    3:45 PM        0         198       1       0     4      143      0    0        0       0       0   0     1        0       5       0          352            1380
+    4:00 PM        0         196       4       0     2      184      0    0        0       0       0   0     3        0       1       0          390            1428
+    4:15 PM        0         170       1       0     4      203      0    0        0       0       0   0     1        0       5       0          384            1464
+    4:30 PM        0         180       3       0     3      159      0    0        0       0       0   0     1        0       4       0          350            1476
+    4:45 PM        0         164       0       0     6      161      0    0        0       0       0   0     0        0       3       0          334            1458
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         784     16     0        8     736      0     0        0       0      0    0     12       0     4     0                     1560
+ Heavy Trucks      0          16      0              0       8      0              0       0      0           0       0     0                            24
+  Pedestrians                  8                             0                            24                         12                                  44
+    Bicycles       0           1      0              0       0      0              0       0      0           0       0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

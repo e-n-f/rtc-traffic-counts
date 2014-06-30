@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- Madison Dr NW                                                                                            QC JOB #: 10862333
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Dec 19 2012
+                      400          506                            Peak-Hour: 8:00 AM -- 9:00 AM
+                            0.84                                                                                               5.5        5.3
+
+                         33 367     0
+                                                                 Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                               9.1 5.2 0.0
+
+
+       54      0                          0        0
+                                                                                                                  5.6   0.0                      0.0       0.0
+        0.00   0            0.95          0   0.00
+                                                                                                                        0.0                      0.0
+       0       0                          0        0
+                                                                                                                  0.0   0.0                      0.0       0.0
+
+                         21 506     0
+                                                                                                                               0.0 5.3 0.0
+
+                      367          527
+                            0.88                                                                                               5.2        5.1
+
+
+
+                             19                                                                                                30    13   0
+
+
+
+                                                                                                                        2                          0
+
+               72                        74                                                                             0                          0
+
+                                                                                                                        1                          0
+
+                             52                                                                                                 6    13   0
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+
+               NA                        NA                                                                             NA                       NA
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+ 15-Min Count                   3rd St                            3rd St             Madison Dr NW             Madison Dr NW                    Total       Hourly
+    Period                  (Northbound)                      (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left     Thru Right        U       Left    Thru Right    U   Left Thru Right     U     Left Thru Right           U
+    7:00 AM          2        88       0       0        0       46       5   0    0     0      0     0      0     0      0           0          141
+    7:15 AM          3        94       0       0        0       59       5   0    0     0      0     0      0     0      0           0          161
+    7:30 AM          3        73       0       0        0       65       5   0    0     0      0     0      0     0      0           0          146
+    7:45 AM          9        87       0       0        0       79       7   0    0     0      0     0      0     0      0           0          182              630
+    8:00 AM          8      141        0       0        0       81       7   0    0     0      0     0      0     0      0           0          237              726
+    8:15 AM          4      113        0       0        0       87       6   0    0     0      0     0      0     0      0           0          210              775
+    8:30 AM          5      131        0       0        0       92       8   0    0     0      0     0      0     0      0           0          236              865
+    8:45 AM          4      121        0       0        0      107     12    0    0     0      0     0      0     0      0           0          244              927
+
+
+
+
+ Peak 15-Min                    Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       16     484      0     0            0     428     48     0    0       0      0    0     0        0     0     0                      976
+ Heavy Trucks         0      20      0                  0      16      8          0       0      0          0        0     0                             44
+  Pedestrians                60                                12                        36                         64                                  172
+    Bicycles         0        4      0                  0       6      5          0       0      1          0        0     0                             16
+   Railroad
+Stopped Buses
+ Comments: 2022
+Report generated on 1/31/2013 2:34 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- Madison Dr NW                                                                                            QC JOB #: 10862335
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Dec 19 2012
+                      475          318                           Peak-Hour: 11:15 AM -- 12:15 PM
+                            0.91                                                                                               1.9        6.9
+
+                         31 444     0
+                                                                Peak 15-Min: 11:15 AM -- 11:30 AM
+                                                                                                                               0.0 2.0 0.0
+
+
+       81      0                          0        0
+                                                                                                                  2.5   0.0                      0.0       0.0
+        0.00   0            0.95          0   0.00
+                                                                                                                        0.0                      0.0
+       0       0                          0        0
+                                                                                                                  0.0   0.0                      0.0       0.0
+
+                         54 318     0
+                                                                                                                               3.7 6.9 0.0
+
+                      448          372
+                            0.96                                                                                               2.0        6.5
+
+
+
+                             17                                                                                                 6    9    0
+
+
+
+                                                                                                                        0                          0
+
+               105                       53                                                                             0                          0
+
+                                                                                                                        0                          0
+
+                            129                                                                                                 0    6    0
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+
+               NA                        NA                                                                             NA                       NA
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+ 15-Min Count                   3rd St                            3rd St             Madison Dr NW             Madison Dr NW                    Total       Hourly
+    Period                  (Northbound)                      (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left     Thru Right        U       Left    Thru Right    U   Left Thru Right     U     Left Thru Right           U
+   11:00 AM          10       72       0       0        0      106       2   0    0     0      0     0      0     0      0           0          190
+   11:15 AM          12       79       0       1        0      118     12    0    0     0      0     0      0     0      0           0          222
+   11:30 AM          11       76       0       2        0      102       8   0    0     0      0     0      0     0      0           0          199
+   11:45 AM          13       81       0       0        0      116       7   0    0     0      0     0      0     0      0           0          217              828
+   12:00 PM          14       82       0       1        0      108       4   0    0     0      0     0      0     0      0           0          209              847
+   12:15 PM          15       77       0       0        0       94       4   0    0     0      0     0      0     0      0           0          190              815
+   12:30 PM           6       57       0       0        0       93       5   0    0     0      0     0      0     0      0           0          161              777
+   12:45 PM           6       71       0       0        0      113       2   0    0     0      0     0      0     0      0           0          192              752
+
+
+
+
+ Peak 15-Min                    Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       48     316      0     4            0     472     48     0    0       0      0    0     0        0     0     0                      888
+ Heavy Trucks         0      20      0                  0      16      0          0       0      0          0        0     0                             36
+  Pedestrians               108                                 4                        48                         60                                  220
+    Bicycles         0        0      0                  0       4      0          0       0      0          0        0     0                              4
+   Railroad
+Stopped Buses
+ Comments: 2022
+Report generated on 1/31/2013 2:34 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- Madison Dr NW                                                                                            QC JOB #: 10862334
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Dec 19 2012
+                      890          278                            Peak-Hour: 5:30 PM -- 6:30 PM
+                            0.86                                                                                               1.8        2.5
+
+                         59 831     0
+                                                                 Peak 15-Min: 5:45 PM -- 6:00 PM
+                                                                                                                               3.4 1.7 0.0
+
+
+       79      0                          0        0
+                                                                                                                  3.8   0.0                      0.0       0.0
+        0.00   0            0.89          0   0.00
+                                                                                                                        0.0                      0.0
+       0       0                          0        0
+                                                                                                                  0.0   0.0                      0.0       0.0
+
+                         20 278     0
+                                                                                                                               5.0 2.5 0.0
+
+                      831          298
+                            0.95                                                                                               1.7        2.7
+
+
+
+                             16                                                                                                14    9    0
+
+
+
+                                                                                                                        0                          0
+
+               96                        36                                                                             0                          0
+
+                                                                                                                        0                          1
+
+                             54                                                                                                 4    16   0
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+
+               NA                        NA                                                                             NA                       NA
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+ 15-Min Count                   3rd St                            3rd St             Madison Dr NW             Madison Dr NW                    Total       Hourly
+    Period                  (Northbound)                      (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left     Thru Right        U       Left    Thru Right    U   Left Thru Right     U     Left Thru Right           U
+    4:30 PM          7        74       0       1        0      211     10    0    0     0      0     0      0     0      0           0          303
+    4:45 PM          3        78       0       0        0      206     18    0    0     0      0     0      0     0      0           0          305
+    5:00 PM          2        70       0       0        0      201       6   0    0     0      0     0      0     0      0           0          279
+    5:15 PM          7        74       0       0        0      192       8   0    0     0      0     0      0     0      0           0          281             1168
+    5:30 PM          6        78       0       0        0      180       9   0    0     0      0     0      0     0      0           0          273             1138
+    5:45 PM          5        68       0       0        0      242     17    0    0     0      0     0      0     0      0           0          332             1165
+    6:00 PM          2        69       0       0        0      205     16    0    0     0      0     0      0     0      0           0          292             1178
+    6:15 PM          7        63       0       0        0      204     17    0    0     0      0     0      0     0      0           0          291             1188
+
+
+
+
+ Peak 15-Min                    Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       20     272      0     0            0     968     68     0    0       0      0    0     0        0     0     0                      1328
+ Heavy Trucks         4       4      0                  0       4      4          0       0      0          0        0     0                              16
+  Pedestrians                48                                 4                        72                         16                                   140
+    Bicycles         3        3      0                  0       0      4          0       0      0          0        0     0                              10
+   Railroad
+Stopped Buses
+ Comments: 2022
+Report generated on 1/31/2013 2:34 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- Madison Dr NW                                                                                             QC JOB #: 10862336
+ CITY/STATE: Washington, DC                                                                                                    DATE: Sat, Jan 12 2013
+                      322          199                             Peak-Hour: 3:00 PM -- 4:00 PM
+                            0.88                                                                                                2.5        0.5
+
+                         54 268     0
+                                                                  Peak 15-Min: 3:00 PM -- 3:15 PM
+                                                                                                                                1.9 2.6 0.0
+
+
+       121     0                           0        0
+                                                                                                                   0.8   0.0                      0.0       0.0
+        0.00   0            0.88           0   0.25
+                                                                                                                         0.0                      0.0
+       0       0                           0        0
+                                                                                                                   0.0   0.0                      0.0       0.0
+
+                         69 199     0
+                                                                                                                                0.0 0.5 0.0
+
+                      270          268
+                            0.88                                                                                                2.6        0.4
+
+
+
+                             46                                                                                                  4    11   0
+
+
+
+                                                                                                                         0                          0
+
+               150                       115                                                                             0                          2
+
+                                                                                                                         0                          0
+
+                            599                                                                                                  6    21   0
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+
+               NA                        NA                                                                              NA                       NA
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+ 15-Min Count                   3rd St                             3rd St             Madison Dr NW             Madison Dr NW                    Total       Hourly
+    Period                  (Northbound)                       (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left     Thru Right         U       Left    Thru Right    U   Left Thru Right     U     Left Thru Right           U
+    3:00 PM          14       61       0        1        0       75     16    0    0     0      0     0      0     0      0           0          167
+    3:15 PM          20       55       0        0        0       68     12    0    0     0      0     0      0     0      0           0          155
+    3:30 PM          18       52       0        1        0       70     13    0    0     0      0     0      0     0      0           0          154
+    3:45 PM          15       31       0        0        0       55     13    0    0     0      0     0      0     0      0           0          114              590
+    4:00 PM          16       47       0        1        0       69     10    1    0     0      0     0      0     0      0           0          144              567
+    4:15 PM          15       50       0        0        0       68       9   1    0     0      0     0      0     0      0           0          143              555
+    4:30 PM          16       47       0        1        0       50       9   0    0     0      0     0      0     0      0           1          124              525
+    4:45 PM          12       47       0        0        0       61       7   0    0     0      0     0      0     0      0           0          127              538
+
+
+
+
+ Peak 15-Min                    Northbound                         Southbound                Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U            Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       56     244      0     4             0     300     64     0    0       0      0    0     0        0     0     0                      668
+ Heavy Trucks         0       0      0                   0       8      4          0       0      0          0        0     0                             12
+  Pedestrians               552                                 44                       124                         68                                  788
+    Bicycles         0        8      0                   0       0      1          0       0      0          0        0     0                              9
+   Railroad
+Stopped Buses
+ Comments: 2022
+Report generated on 1/31/2013 9:44 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

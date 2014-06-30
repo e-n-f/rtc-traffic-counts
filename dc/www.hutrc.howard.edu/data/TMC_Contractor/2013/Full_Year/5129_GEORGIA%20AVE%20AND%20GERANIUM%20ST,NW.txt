@@ -1,0 +1,80 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Geranium St NW                                                                                      QC JOB #: 10695460
+ CITY/STATE: Washington, DC                                                                                                   DATE: Sat, May 18 2013
+                    645          767                        Peak-Hour: 3:45 PM -- 4:45 PM                                      1.6        2.1
+
+                       13 623     9
+                                                           Peak 15-Min: 4:00 PM -- 4:15 PM
+                                                                                                                               0.0 1.6 0.0
+
+
+       48    22                        28   83
+                                                                                                                  2.1   0.0                      0.0      1.2
+             21           0.94         19
+                                                                                                                        4.8                      0.0
+       71    28                        36   45
+                                                                                                                  1.4   0.0                      2.8      2.2
+
+                       19 717 15
+                                                                                                                               5.3 2.2 0.0
+
+                    690          751
+                                                                                                                               1.6        2.3
+
+
+
+                           10                                                                                                   0    6    0
+
+
+
+                                                                                                                        0                          0
+
+             30                        29                                                                               0                          0
+
+                                                                                                                        0                          0
+
+                           18                                                                                                   0    1    0
+
+
+
+
+                          NA                                                                                                         NA
+
+
+
+
+             NA                        NA                                                                               NA                       NA
+
+
+
+
+                          NA                                                                                                         NA
+
+
+
+ 15-Min Count              Georgia Ave                   Georgia Ave                  Geranium St NW              Geranium St NW                Total      Hourly
+    Period                (Northbound)                  (Southbound)                   (Eastbound)                 (Westbound)                             Totals
+ Beginning At     Left     Thru Right       U    Left    Thru Right    U       Left    Thru Right      U   Left    Thru Right        U
+    3:00 PM        5      159       5       0     2      144      2    0        5         5     7      0     7      10      2        0          353
+    3:15 PM        1      183       4       0     4      142      4    0        3         6     2      0    10        9     8        0          376
+    3:30 PM        5      171       5       0     3      133      3    0        6         8     4      0    12        6     2        0          358
+    3:45 PM        6      186       4       2     2      130      2    0        2         4     8      0     9        5     7        0          367            1454
+    4:00 PM        6      180       6       0     3      169      4    0        3         5    12      0     9        8     7        0          412            1513
+    4:15 PM        4      167       3       1     0      179      4    0        8         4     4      0    11        5     8        0          398            1535
+    4:30 PM        0      184       2       0     4      145      3    0        9         8     4      0     7        1     6        0          373            1550
+    4:45 PM        1      155       2       0     1      159      7    0        4         5     3      0    12        7     7        0          363            1546
+
+
+
+
+ Peak 15-Min                  Northbound                    Southbound                     Eastbound                   Westbound
+   Flowrates      Left    Thru Right     U       Left   Thru Right    U        Left    Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles     24     720     24     0        12    676     16     0        12      20    48     0      36      32    28     0                     1648
+ Heavy Trucks       0      16      0               0      4      0               0       0      0            4       0     0                            24
+  Pedestrians              28                             4                             24                          20                                  76
+    Bicycles       0        1      0              0       0      0              0        0      0           0        0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

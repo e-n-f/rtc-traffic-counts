@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 34th St NE -- Benning Rd                                                                                              QC JOB #: 10655655
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, Sep 21 2011
+                          84 0.72 59                                Peak-Hour: 7:45 AM -- 8:45 AM                                 47.6        22.0
+
+                          61    0     23
+                                                                   Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                                  54.1 0.0 30.4
+
+       2505    14                            45   2566
+                                                                                                                    7.1   28.6                        20.0      6.4
+        0.93   783             0.97        2420   0.97
+                                                                                                                          8.8                          6.0
+       818     21                           101    859
+                                                                                                                    8.9   0.0                          8.9      9.5
+
+                          24    0     49
+                                                                                                                                  0.0 0.0 12.2
+
+                       118 0.82 73
+                                                                                                                                  7.6         8.2
+
+
+
+                                1                                                                                                  0     0     0
+
+
+                                                                                                                          0                             0
+
+               1                             19                                                                           0                             1
+
+                                                                                                                          0                             1
+
+
+                                16                                                                                                 0     0     0
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+
+               NA                           NA                                                                            NA                           NA
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+15-Min Count                     34th St NE                       34th St NE              Benning Rd                  Benning Rd
+   Period                      (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                                 Hourly
+Beginning At                                                                                                                                         Total
+                    Left        Thru Right         U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right         U                       Totals
+   7:00 AM            6           0      12        0      11       0      13   0     5    134      1    0     17      434    36          1           670
+   7:15 AM            7           0      14        0      13       0      14   0     7    144      4    0     20      527    36          0           786
+   7:30 AM            9           0      15        0      13       0      23   0     1    143      4    0     19      580    22          0           829
+   7:45 AM            4           0      11        0       2       0      14   0     4    206      7    0     25      630    10          1           914             3199
+   8:00 AM            6           0      13        0       9       0      15   0     4    182      3    0     22      630    13          0           897             3426
+   8:15 AM            4           0       9        0       9       0      16   0     2    195      5    0     24      605    12          0           881             3521
+   8:30 AM           10           0      16        0       3       0      16   0     4    200      6    0     26      555    10          3           849             3541
+   8:45 AM            9           0      10        0       9       0      10   0     2    213      7    0     24      457    10          1           752             3379
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                 Eastbound               Westbound
+                                                                                                                                                             Total
+  Flowrates         Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left Thru Right    U
+  All Vehicles       16          0      44    0            8      0    56     0     16    824     28    0    100 2520     40    4                            3656
+ Heavy Trucks         0          0       8                 4      0    24            8     92      0          12  164      8                                  320
+  Pedestrians                    4                                4                         0                      24                                         32
+   Bicycles           0          0       0                 0      0     0            0      0      0           0    0      0                                   0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/30/2011 12:57 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 34th St NE -- Benning Rd                                                                                             QC JOB #: 10655656
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Sep 21 2011
+                          49 0.83 49                               Peak-Hour: 7:00 AM -- 8:00 AM                                 8.2         16.3
+
+                          14    1     34
+                                                                  Peak 15-Min: 7:15 AM -- 7:30 AM
+                                                                                                                                 14.3           2.9
+                                                                                                                                        100.0
+       871     16                           33    959
+                                                                                                                   8.2   31.3                           9.1      8.0
+        0.88   843             0.97        824   0.92
+                                                                                                                         8.2                            8.1
+       883     24                          102    937
+                                                                                                                   8.4   0.0                            6.9      7.7
+
+                          33    0     54
+                                                                                                                                 6.1 0.0 3.7
+
+                       121 0.87 87
+                                                                                                                                 6.6            4.6
+
+
+
+                                3                                                                                                 0      0      0
+
+
+                                                                                                                         0                               0
+
+               0                             8                                                                           0                               2
+
+                                                                                                                         0                               0
+
+
+                                13                                                                                                0      0      0
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+
+               NA                          NA                                                                            NA                             NA
+
+
+
+
+                                NA                                                                                                      NA
+
+
+
+15-Min Count                     34th St NE                      34th St NE              Benning Rd                  Benning Rd
+   Period                      (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                                   Hourly
+Beginning At                                                                                                                                          Total
+                    Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right          U                        Totals
+   6:00 AM            4           0       8       0       9       0       6   0     4    217      7    0     12      169     4           3            443
+   6:15 AM            9           1       8       0      11       0       3   0     1    173     10    0     21      208     6           1            452
+   6:30 AM            8           1      14       0      11       0       5   0     4    176      7    0     26      191     4           0            447
+   6:45 AM            3           0      14       0       6       0       2   0     3    183      7    0     17      199     4           1            439             1781
+   7:00 AM            8           0      18       0       8       0       3   0     4    185      6    0     30      218     9           3            492             1830
+   7:15 AM            9           0      15       0       7       0       1   0     6    239      6    0     21      196     9           0            509             1887
+   7:30 AM           10           0       7       0      10       1       2   0     3    199      6    0     24      203     7           2            474             1914
+   7:45 AM            6           0      14       0       9       0       8   0     3    220      6    0     21      207     8           1            503             1978
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound                 Eastbound                  Westbound
+                                                                                                                                                              Total
+  Flowrates         Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles       36          0      60    0          28      0     4     0     24    956     24    0     84     784     36    0                           2036
+ Heavy Trucks         0          0       4                0      0     0            4     48      0           4      48      4                                 112
+  Pedestrians                   16                               4                         0                          0                                        20
+   Bicycles           0          0       0                0      0     0            0      0      0           0       0      0                                  0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/30/2011 12:57 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 34th St NE -- Benning Rd                                                                                             QC JOB #: 10655657
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Sep 21 2011
+                          53 0.73 22                               Peak-Hour: 5:00 PM -- 6:00 PM                                 0.0        50.0
+
+                           9    0     44
+                                                                  Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                                 0.0 0.0 0.0
+
+       995     6                            15   1107
+                                                                                                                   5.4   50.0                       46.7      6.1
+        0.95   2041            0.97        960   0.91
+                                                                                                                         3.4                         5.6
+       2073    26                          132   2171
+                                                                                                                   3.6   7.7                         5.3      3.4
+
+                          25    2     68
+                                                                                                                                 0.0 50.0 5.9
+
+                       140 0.82 95
+                                                                                                                                 6.4        5.3
+
+
+
+                                1                                                                                                 0    0     0
+
+
+                                                                                                                         0                            0
+
+               0                            21                                                                           5                            2
+
+                                                                                                                         0                            0
+
+
+                                24                                                                                                0    0     0
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+
+               NA                          NA                                                                            NA                          NA
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+15-Min Count                     34th St NE                      34th St NE              Benning Rd                  Benning Rd
+   Period                      (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                                Hourly
+Beginning At                                                                                                                                       Total
+                    Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right        U                       Totals
+   4:30 PM            4           0      17       0      21       0       6   0     0    481      9    0     28      235     5         2           808
+   4:45 PM            3           1      15       0      22       0       4   0     3    502      6    0     34      222     6         4           822
+   5:00 PM            5           1      20       0       6       0       3   0     0    539      7    0     24      249     2         3           859
+   5:15 PM            6           0      12       0      14       0       3   0     5    470      4    0     30      265     5         7           821             3310
+   5:30 PM            8           1      20       0      18       0       1   0     0    512      5    1     33      211     4         7           821             3323
+   5:45 PM            6           0      16       0       6       0       2   0     0    520     10    0     27      235     4         1           827             3328
+   6:00 PM            2           1      17       0       8       0       3   0     2    442      8    0     25      207     0         2           717             3186
+   6:15 PM            4           0      10       0      14       0       2   0     0    452      9    0     28      216     2         1           738             3103
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound               Eastbound                    Westbound
+                                                                                                                                                           Total
+  Flowrates         Left       Thru Right     U         Left   Thru Right    U    Left Thru Right    U      Left    Thru Right    U
+  All Vehicles       20          4      80    0          24      0    12     0      0 2156     28    0       96     996      8   12                        3436
+ Heavy Trucks         0          0       4                0      0     0            0   84      0            12      52      4                              156
+  Pedestrians                   24                               0                       0                            8                                     32
+   Bicycles           0          0       0                0      0     0            0    2      0             0       1      0                               3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/30/2011 12:57 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 34th St NE -- Benning Rd                                                                                             QC JOB #: 10655658
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Sep 24 2011
+                          22 0.78 15                               Peak-Hour: 1:00 PM -- 2:00 PM                                 4.5        46.7
+
+                           2    0     20
+                                                                  Peak 15-Min: 1:15 PM -- 1:30 PM
+                                                                                                                                 50.0 0.0 0.0
+
+       919     5                             9    998
+                                                                                                                   2.4   60.0                       44.4      2.9
+        0.96   1041            0.96        879   0.95
+                                                                                                                         3.1                         2.2
+       1082    36                          110   1125
+                                                                                                                   3.2   0.0                         5.5      3.1
+
+                          38    1     59
+                                                                                                                                 5.3 0.0 5.1
+
+                       141 0.85 98
+                                                                                                                                 4.3        5.1
+
+
+
+                                6                                                                                                 0    0     0
+
+
+                                                                                                                         0                            0
+
+               0                             4                                                                           1                            0
+
+                                                                                                                         1                            0
+
+
+                                14                                                                                                0    0     0
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+
+               NA                          NA                                                                            NA                          NA
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+15-Min Count                     34th St NE                      34th St NE              Benning Rd                  Benning Rd
+   Period                      (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                                Hourly
+Beginning At                                                                                                                                       Total
+                    Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right        U                       Totals
+  12:00 PM           17           0      13       0       4       0       0   0     0    244      4    0     34      235     3         1           555
+  12:15 PM            5           0      12       0       3       0       0   0     1    265      7    0     29      244     0         0           566
+  12:30 PM            9           0      23       0       5       0       0   0     1    234      4    1     25      233     2         1           538
+  12:45 PM            6           0      22       0       3       0       1   0     1    256     11    1     24      196     5         0           526             2185
+   1:00 PM            8           0      17       0       7       0       1   0     1    256     13    0     25      212     2         2           544             2174
+   1:15 PM           11           0      13       0       8       0       0   0     1    277      7    0     25      231     1         0           574             2182
+   1:30 PM           12           0      10       0       1       0       0   0     2    263      7    0     27      218     1         1           542             2186
+   1:45 PM            7           1      19       0       4       0       1   0     1    245      9    0     28      218     5         2           540             2200
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound               Eastbound                    Westbound
+                                                                                                                                                           Total
+  Flowrates         Left       Thru Right     U         Left   Thru Right    U    Left Thru Right    U      Left    Thru Right    U
+  All Vehicles       44          0      52    0          32      0     0     0      4 1108     28    0      100     924      4    0                        2296
+ Heavy Trucks         4          0       4                0      0     0            0   28      0             8      16      0                              60
+  Pedestrians                    8                               8                       0                            8                                     24
+   Bicycles           0          0       0                0      0     0            0    0      0             0       0      0                               0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/2/2011 6:45 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

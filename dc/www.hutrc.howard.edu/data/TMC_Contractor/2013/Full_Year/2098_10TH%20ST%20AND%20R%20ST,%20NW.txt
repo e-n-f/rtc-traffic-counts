@@ -1,0 +1,318 @@
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 10th St -- R St NW                                                                                                QC JOB #: 10863245
+ CITY/STATE: Washington, DC                                                                                                  DATE: Wed, Feb 20 2013
+                       26           0                            Peak-Hour: 7:45 AM -- 8:45 AM                                3.8         0.0
+
+                       26     0     0
+                                                                Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                              3.8 0.0 0.0
+
+
+       334   0                            0   307
+                                                                                                                 4.2   0.0                        0.0       3.9
+             0               0.93       307
+                                                                                                                       0.0                        3.9
+       0     0                            0       0
+                                                                                                                 0.0   0.0                        0.0       0.0
+
+                         1    0     0
+                                                                                                                             100.0 0.0 0.0
+
+                         0          1
+                                                                                                                              0.0        100.0
+
+
+
+                              37                                                                                               3    0     0
+
+
+
+                                                                                                                       0                            0
+
+             7                            9                                                                            0                           70
+
+                                                                                                                       0                            0
+
+                              14                                                                                               0    0     0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                         NA                                                                             NA                         NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count                   10th St                         10th St                  R St NW                    R St NW                      Total       Hourly
+    Period                   (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                                Totals
+ Beginning At     Left        Thru Right      U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM        0            0       0     0        0        0       1   0    0       0      0    0     0       52      0        0             53
+    7:15 AM        0            0       0     0        0        0       2   0    0       0      0    0     0       64      0        0             66
+    7:30 AM        0            0       0     0        0        0       3   0    0       0      0    0     0       76      0        0             79
+    7:45 AM        0            0       0     0        0        0       8   0    0       0      0    0     0       82      0        0             90              288
+    8:00 AM        1            0       0     0        0        0       3   0    0       0      0    0     0       67      0        0             71              306
+    8:15 AM        0            0       0     0        0        0       6   0    0       0      0    0     0       83      0        0             89              329
+    8:30 AM        0            0       0     0        0        0       9   0    0       0      0    0     0       75      0        0             84              334
+    8:45 AM        0            0       0     0        0        0       4   0    0       0      0    0     0       67      0        0             71              315
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                        Total
+  All Vehicles     0           0      0     0          0       0     32     0    0       0      0    0     0      328     0     0                        360
+ Heavy Trucks      0           0      0                0       0      4          0       0      0          0       16     0                               20
+  Pedestrians                 16                              16                         0                         12                                     44
+    Bicycles       0           0      0                0       0      0          0       0      0          0       12     0                               12
+   Railroad
+Stopped Buses
+ Comments: 2098
+Report generated on 3/29/2013 9:21 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 10th St -- R St NW                                                                                                 QC JOB #: 10863247
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Feb 20 2013
+                       14           0                            Peak-Hour: 11:00 AM -- 12:00 PM                               0.0        0.0
+
+                       14     0     0
+                                                                Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                               0.0 0.0 0.0
+
+
+       230   0                             0   199
+                                                                                                                  4.3   0.0                      0.0       5.0
+             0               0.86        198
+                                                                                                                        0.0                      5.1
+       0     0                             1       0
+                                                                                                                  0.0   0.0                      0.0       0.0
+
+                       18     0     0
+                                                                                                                               0.0 0.0 0.0
+
+                         1          18
+                                                                                                                               0.0        0.0
+
+
+
+                              5                                                                                                 1    0    0
+
+
+
+                                                                                                                        0                          0
+
+             5                             4                                                                            0                         13
+
+                                                                                                                        0                          0
+
+                              11                                                                                                0    0    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                          NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count                   10th St                          10th St                  R St NW                    R St NW                    Total       Hourly
+    Period                   (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM         1           0       0      0        0        0       3   0    0       0      0    0     0       56      0        0           60
+   11:15 AM         1           0       0      0        0        0       6   0    0       0      0    0     1       53      0        0           61
+   11:30 AM         1           0       0      0        0        0       3   0    0       0      0    0     0       39      0        0           43
+   11:45 AM        15           0       0      0        0        0       2   0    0       0      0    0     0       50      0        0           67              231
+   12:00 PM        12           0       0      0        0        0       2   0    0       0      0    0     0       43      0        0           57              228
+   12:15 PM         0           0       0      0        0        0       3   0    0       0      0    0     0       47      0        0           50              217
+   12:30 PM         1           0       0      0        0        0       0   0    0       0      0    0     0       43      0        0           44              218
+   12:45 PM         1           0       0      0        0        0       2   0    0       0      0    0     0       37      0        0           40              191
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     60          0      0     0           0       0      8     0    0       0      0    0     0      200     0     0                      268
+ Heavy Trucks       0          0      0                 0       0      0          0       0      0          0        0     0                              0
+  Pedestrians                  8                                4                         8                          4                                   24
+    Bicycles       0           0      0                 0       0      0          0       0      0          0        4     0                              4
+   Railroad
+Stopped Buses
+ Comments: 2098
+Report generated on 3/29/2013 9:21 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 10th St -- R St NW                                                                                                QC JOB #: 10863246
+ CITY/STATE: Washington, DC                                                                                                  DATE: Wed, Feb 20 2013
+                         9          0                            Peak-Hour: 5:30 PM -- 6:30 PM                                0.0        0.0
+
+                         9    0     0
+                                                                Peak 15-Min: 6:00 PM -- 6:15 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       321   0                            0   310
+                                                                                                                 1.2   0.0                      0.0       1.3
+             0               0.90       310
+                                                                                                                       0.0                      1.3
+       0     0                            0       0
+                                                                                                                 0.0   0.0                      0.0       0.0
+
+                         2    0     0
+                                                                                                                              0.0 0.0 0.0
+
+                         0          2
+                                                                                                                              0.0        0.0
+
+
+
+                              55                                                                                               0    0    0
+
+
+
+                                                                                                                       0                          0
+
+             1                           13                                                                            3                         30
+
+                                                                                                                       0                          0
+
+                              19                                                                                               0    1    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                         NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count                   10th St                         10th St                  R St NW                    R St NW                    Total       Hourly
+    Period                   (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right      U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        0            0       0     0        0        0       2   0    0       0      0    0     0       61      0        0           63
+    4:45 PM        0            0       0     0        0        0       2   0    0       0      0    0     0       75      0        0           77
+    5:00 PM        0            0       0     0        0        0       1   0    0       0      0    0     0       61      0        0           62
+    5:15 PM        1            0       0     0        1        0       3   0    0       0      0    0     0       59      0        0           64              266
+    5:30 PM        0            0       0     0        0        0       2   0    0       0      0    0     0       80      0        0           82              285
+    5:45 PM        0            0       0     0        0        0       0   0    0       0      0    0     0       69      0        0           69              277
+    6:00 PM        2            0       0     0        0        0       4   0    0       0      0    0     0       83      0        0           89              304
+    6:15 PM        0            0       0     0        0        0       3   0    0       0      0    0     0       78      0        0           81              321
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     8           0      0     0          0       0     16     0    0       0      0    0     0      332     0     0                      356
+ Heavy Trucks      0           0      0                0       0      0          0       0      0          0        8     0                              8
+  Pedestrians                 12                              32                         4                          8                                   56
+    Bicycles       0           0      0                0       0      0          0       1      0          0        9     0                             10
+   Railroad
+Stopped Buses
+ Comments: 2098
+Report generated on 3/29/2013 9:21 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 10th St -- R St NW                                                                                                   QC JOB #: 10863248
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Mar 02 2013
+                         17           5                             Peak-Hour: 3:00 PM -- 4:00 PM
+                               0.71                                                                                              0.0        0.0
+
+                         17     0     0
+                                                                   Peak 15-Min: 3:15 PM -- 3:30 PM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       266     0                            5    248
+                                                                                                                    0.4   0.0                      0.0       0.4
+        0.00   0               0.95       243   0.94
+                                                                                                                          0.0                      0.4
+       0       0                            0        0
+                                                                                                                    0.0   0.0                      0.0       0.0
+
+                           6    0     0
+                                                                                                                                 0.0 0.0 0.0
+
+                           0          6
+                               0.35                                                                                              0.0        0.0
+
+
+
+                                36                                                                                                1    0    0
+
+
+
+                                                                                                                          0                          0
+
+               7                            3                                                                             0                         12
+
+                                                                                                                          0                          0
+
+                                20                                                                                                0    0    0
+
+
+
+
+                               NA                                                                                                      NA
+
+
+
+
+               NA                         NA                                                                              NA                       NA
+
+
+
+
+                               NA                                                                                                      NA
+
+
+
+ 15-Min Count                     10th St                          10th St                  R St NW                    R St NW                    Total       Hourly
+    Period                     (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left        Thru Right       U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM          0            0       0      0        0        0       3   0    0       0      0    0     0       57      2        0           62
+    3:15 PM          0            0       0      0        0        0       5   0    0       0      0    0     0       66      0        0           71
+    3:30 PM          1            0       0      0        0        0       2   0    0       0      0    0     0       63      1        0           67
+    3:45 PM          5            0       0      0        0        0       7   0    0       0      0    0     0       57      2        0           71              271
+    4:00 PM          1            0       0      0        0        0       5   0    0       0      0    0     0       50      0        0           56              265
+    4:15 PM          0            0       0      0        0        0       4   0    0       0      0    0     0       45      0        0           49              243
+    4:30 PM          0            0       0      0        0        0       4   0    0       0      0    0     0       43      1        0           48              224
+    4:45 PM          0            0       0      0        0        0       4   0    0       0      0    0     0       54      0        0           58              211
+
+
+
+
+ Peak 15-Min                       Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       0           0      0     0           0       0     20     0    0       0      0    0     0      264     0     0                      284
+ Heavy Trucks        0           0      0                 0       0      0          0       0      0          0        0     0                              0
+  Pedestrians                   20                               56                         0                          0                                   76
+    Bicycles         0           0      0                 0       0      0          0       0      0          0        4     0                              4
+   Railroad
+Stopped Buses
+ Comments: 2098
+Report generated on 4/2/2013 5:54 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

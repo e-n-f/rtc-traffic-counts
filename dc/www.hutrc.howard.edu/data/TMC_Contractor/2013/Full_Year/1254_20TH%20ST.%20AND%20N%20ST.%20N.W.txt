@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 20th St NW -- N St NW                                                                                               QC JOB #: 10863976
+ CITY/STATE: Washington, DC                                                                                                    DATE: Tue, Feb 05 2013
+                         0          432                            Peak-Hour: 8:00 AM -- 9:00 AM                                0.0        6.5
+
+                         0    0      0
+                                                                  Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                                0.0 0.0 0.0
+
+
+       115   0                             54   125
+                                                                                                                   7.8   0.0                      7.4       9.6
+             0               0.93          71
+                                                                                                                         0.0                     11.3
+       0     0                              0       0
+                                                                                                                   0.0   0.0                      0.0       0.0
+
+                       44 378        0
+                                                                                                                                2.3 6.3 0.0
+
+                         0          422
+                                                                                                                                0.0        5.9
+
+
+
+                             125                                                                                                 0    2    1
+
+
+
+                                                                                                                         0                          0
+
+             206                          230                                                                            0                          6
+
+                                                                                                                         1                          1
+
+                             212                                                                                                 0    3    0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                 20th St NW                        20th St NW                 N St NW                    N St NW                    Total       Hourly
+    Period                   (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right        U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM         2          47      0        0        0        0      0    0    0       0      0    0     0        6      5        0           60
+    7:15 AM         2          50      0        0        0        0      0    0    0       0      0    0     0        6     12        0           70
+    7:30 AM         4          69      0        0        0        0      0    0    0       0      0    0     0       12     10        0           95
+    7:45 AM         6          69      0        0        0        0      0    0    0       0      0    0     0       16      8        0           99              324
+    8:00 AM         9          83      0        0        0        0      0    0    0       0      0    0     0       16     12        0          120              384
+    8:15 AM        10          95      0        0        0        0      0    0    0       0      0    0     0       18     19        0          142              456
+    8:30 AM        12          95      0        0        0        0      0    0    0       0      0    0     0       18     13        0          138              499
+    8:45 AM        13        105       0        0        0        0      0    0    0       0      0    0     0       19     10        0          147              547
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     52        420      0     0            0       0      0     0    0       0      0    0     0       76    40     0                       588
+ Heavy Trucks       0         16      0                  0       0      0          0       0      0          0        8     4                              28
+  Pedestrians                304                               196                       288                        276                                  1064
+    Bicycles       0           1      0                  0       1      0          0       0      0          0        1     0                               3
+   Railroad
+Stopped Buses
+ Comments: 1254
+Report generated on 5/29/2013 5:53 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 20th St NW -- N St NW                                                                                               QC JOB #: 10863978
+ CITY/STATE: Washington, DC                                                                                                    DATE: Tue, Feb 05 2013
+                         0          547                           Peak-Hour: 11:30 AM -- 12:30 PM                               0.0        5.1
+
+                         0    0      0
+                                                                 Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                                0.0 0.0 0.0
+
+
+       158   0                            143   238
+                                                                                                                   9.5   0.0                      3.5       7.1
+             0               0.96          95
+                                                                                                                         0.0                     12.6
+       0     0                              0       1
+                                                                                                                   0.0   0.0                      0.0       0.0
+
+                       63 404        1
+                                                                                                                                4.8 5.7 0.0
+
+                         0          468
+                                                                                                                                0.0        5.6
+
+
+
+                              73                                                                                                 0    2    0
+
+
+
+                                                                                                                         0                          0
+
+             98                           138                                                                            0                          2
+
+                                                                                                                         0                          1
+
+                              99                                                                                                 1    4    2
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                 20th St NW                        20th St NW                 N St NW                    N St NW                    Total       Hourly
+    Period                   (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right        U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        11          85      0        0        0        0      0    0    0       0      0    0     0       21     25        0          142
+   11:15 AM        13          93      0        0        0        0      0    0    0       0      0    0     0       12     32        0          150
+   11:30 AM        14          98      0        0        0        0      0    0    0       0      0    0     0       25     32        0          169
+   11:45 AM        15        108       0        0        0        0      0    0    0       0      0    0     0       19     32        0          174              635
+   12:00 PM        15          99      1        0        0        0      0    0    0       0      0    0     0       24     40        0          179              672
+   12:15 PM        19          99      0        0        0        0      0    0    0       0      0    0     0       27     39        0          184              706
+   12:30 PM        16          86      0        0        0        0      0    0    0       0      0    0     0       35     24        0          161              698
+   12:45 PM        17          87      0        0        0        0      0    0    0       0      0    0     0       28     28        0          160              684
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     76        396      0     0            0       0      0     0    0       0      0    0     0      108   156     0                      736
+ Heavy Trucks       8         32      0                  0       0      0          0       0      0          0        4     4                             48
+  Pedestrians                128                                56                        88                        192                                  464
+    Bicycles       0           0      0                  0       0      0          0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments: 1254
+Report generated on 5/29/2013 5:53 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 20th St NW -- N St NW                                                                                               QC JOB #: 10863977
+ CITY/STATE: Washington, DC                                                                                                    DATE: Tue, Feb 05 2013
+                         0          673                            Peak-Hour: 5:30 PM -- 6:30 PM                                0.0        2.5
+
+                         0    0      0
+                                                                  Peak 15-Min: 5:45 PM -- 6:00 PM
+                                                                                                                                0.0 0.0 0.0
+
+
+       286   0                            157   256
+                                                                                                                   1.7   0.0                      0.0       2.0
+             0               0.95          99
+                                                                                                                         0.0                      5.1
+       0     0                              0       0
+                                                                                                                   0.0   0.0                      0.0       0.0
+
+                    187 516          0
+                                                                                                                                0.0 3.3 0.0
+
+                         0          703
+                                                                                                                                0.0        2.4
+
+
+
+                             142                                                                                                 0    0    0
+
+
+
+                                                                                                                         0                          0
+
+             197                          251                                                                            0                          1
+
+                                                                                                                         0                          0
+
+                             205                                                                                                 5    55   0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                 20th St NW                        20th St NW                 N St NW                    N St NW                    Total       Hourly
+    Period                   (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right        U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        21        104       0        0        0        0      0    0    0       0      0    0     0       32     34        0          191
+    4:45 PM        21          98      0        0        0        0      0    0    0       0      0    0     0       26     28        0          173
+    5:00 PM        21        113       0        0        0        0      0    0    0       0      0    0     0       32     28        0          194
+    5:15 PM        37        116       0        0        0        0      0    0    0       0      0    0     0       22     31        0          206              764
+    5:30 PM        47        129       0        0        0        0      0    0    0       0      0    0     0       28     41        0          245              818
+    5:45 PM        50        142       0        0        0        0      0    0    0       0      0    0     0       18     42        0          252              897
+    6:00 PM        45        127       0        0        0        0      0    0    0       0      0    0     0       27     43        0          242              945
+    6:15 PM        45        118       0        0        0        0      0    0    0       0      0    0     0       26     31        0          220              959
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates   Left          Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles 200           568      0     0            0       0      0     0    0       0      0    0     0       72   168     0                      1008
+ Heavy Trucks    0            20      0                  0       0      0          0       0      0          0        0     0                              20
+  Pedestrians                228                               132                       212                        260                                   832
+    Bicycles     3            21      0                  0       0      0          0       0      0          0        0     0                              24
+   Railroad
+Stopped Buses
+ Comments: 1254
+Report generated on 5/29/2013 5:53 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 20th St NW -- N St NW                                                                                              QC JOB #: 10863979
+ CITY/STATE: Washington, DC                                                                                                   DATE: Sat, Mar 23 2013
+                         0          331                           Peak-Hour: 4:00 PM -- 5:00 PM                                0.0        1.8
+
+                         0    0      0
+                                                                 Peak 15-Min: 4:30 PM -- 4:45 PM
+                                                                                                                               0.0 0.0 0.0
+
+
+       101   0                            66   143
+                                                                                                                  4.0   0.0                      1.5       3.5
+             0               0.96         77
+                                                                                                                        0.0                      5.2
+       0     0                             0       0
+                                                                                                                  0.0   0.0                      0.0       0.0
+
+                       24 265        0
+                                                                                                                               0.0 1.9 0.0
+
+                         0          289
+                                                                                                                               0.0        1.7
+
+
+
+                              76                                                                                                0    0    0
+
+
+
+                                                                                                                        0                          0
+
+             48                           93                                                                            4                          4
+
+                                                                                                                        0                          0
+
+                              71                                                                                                2    9    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count                 20th St NW                       20th St NW                 N St NW                    N St NW                    Total       Hourly
+    Period                   (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM        12          71      0       0        0        0      0    0    0       0      0    0     0       14     19        0          116
+    3:15 PM        20          62      0       0        0        0      0    0    0       0      0    0     0       16     13        0          111
+    3:30 PM         6          67      0       0        0        0      0    0    0       0      0    0     0       22     14        0          109
+    3:45 PM         7          42      0       0        0        0      0    0    0       0      0    0     0       22     15        0           86              422
+    4:00 PM         7          56      0       0        0        0      0    0    0       0      0    0     0       19     18        0          100              406
+    4:15 PM         5          75      0       0        0        0      0    0    0       0      0    0     0       17     13        0          110              405
+    4:30 PM         6          64      0       0        0        0      0    0    0       0      0    0     0       24     18        0          112              408
+    4:45 PM         6          70      0       0        0        0      0    0    0       0      0    0     0       17     17        0          110              432
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     24        256      0     0           0       0      0     0    0       0      0    0     0       96    72     0                      448
+ Heavy Trucks       0          4      0                 0       0      0          0       0      0          0        4     0                             8
+  Pedestrians                 56                               84                        68                        116                                  324
+    Bicycles       0           1      0                 0       0      0          0       0      0          0        1     0                             2
+   Railroad
+Stopped Buses
+ Comments: 1254
+Report generated on 5/29/2013 5:53 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

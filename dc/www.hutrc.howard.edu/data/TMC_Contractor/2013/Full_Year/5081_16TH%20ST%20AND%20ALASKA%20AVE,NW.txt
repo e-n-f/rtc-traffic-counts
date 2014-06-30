@@ -1,0 +1,414 @@
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- Alaska Ave NW                                                                                              QC JOB #: 10695022
+ CITY/STATE: Washington, DC                                                                                                      DATE: Tue, Feb 19 2013
+                    1875            893                           Peak-Hour: 7:30 AM -- 8:30 AM                                   1.8        3.1
+
+                         0 1875 0
+                                                                 Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                  0.0 1.8 0.0
+
+
+       0     0                               1   388
+                                                                                                                     0.0   0.0                      0.0      3.6
+             0               0.95            0
+                                                                                                                           0.0                      0.0
+       0     0                             387   117
+                                                                                                                     0.0   0.0                      3.6      7.7
+
+                         0   892 117
+                                                                                                                                  0.0 3.1 7.7
+
+                    2262            1009
+                                                                                                                                  2.1        3.7
+
+
+
+                              1                                                                                                    0    2    0
+
+
+
+                                                                                                                           0                          0
+
+             1                               5                                                                             0                          0
+
+                                                                                                                           0                          0
+
+                              0                                                                                                    0    1    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                            NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                   16th St                          16th St                  Alaska Ave NW            Alaska Ave NW                   Total      Hourly
+    Period                   (Northbound)                     (Southbound)                 (Eastbound)              (Westbound)                               Totals
+ Beginning At     Left        Thru Right         U     Left    Thru Right    U       Left Thru Right      U   Left Thru Right           U
+    6:30 AM        0         103      10         0      0      322       0   0        0      0      0     0    46     0      0          0          481
+    6:45 AM        0         120        9        0      0      337       0   0        0      0      0     0    42     0      0          0          508
+    7:00 AM        0         131        8        0      0      414       0   0        0      0      0     0    51     0      1          0          605
+    7:15 AM        0         177      23         0      0      508       0   0        0      0      0     0   104     0      1          0          813            2407
+    7:30 AM        0         184      23         0      0      487       0   0        0      0      0     0   110     0      1          0          805            2731
+    7:45 AM        0         217      34         0      0      424       0   0        0      0      0     0   105     0      0          0          780            3003
+    8:00 AM        0         237      26         0      0      459       0   0        0      0      0     0   100     0      0          0          822            3220
+    8:15 AM        0         254      34         0      0      505       0   0        0      0      0     0    72     0      0          0          865            3272
+    8:30 AM        0         225      36         0      0      380       0   0        0      0      0     0    59     0      1          0          701            3168
+    8:45 AM        0         199      36         0      0      371       0   0        0      0      0     0    59     0      0          0          665            3053
+    9:00 AM        0         196      23         0      0      357       0   0        0      0      0     0    45     0      1          0          622            2853
+    9:15 AM        0         156      27         0      0      325       0   0        0      0      0     0    40     0      1          0          549            2537
+
+
+
+
+ Peak 15-Min               Northbound                           Southbound                      Eastbound                 Westbound
+   Flowrates      Left Thru Right     U                Left Thru Right    U          Left   Thru Right    U   Left    Thru Right    U                     Total
+  All Vehicles     0 1016     136     0                 0 2020       0     0          0       0      0    0   288       0     0     0                     3460
+ Heavy Trucks      0    32      8                       0    36      0                0       0      0         12       0     0                            88
+  Pedestrians            0                                    0                               0                        12                                  12
+    Bicycles       0     1      0                       0     0      0                0       0      0          0       0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- Alaska Ave NW                                                                                             QC JOB #: 10695023
+ CITY/STATE: Washington, DC                                                                                                     DATE: Tue, Feb 19 2013
+                    621             645                         Peak-Hour: 12:00 PM -- 1:00 PM                                   2.7        5.3
+
+                         0   621     0
+                                                               Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                                 0.0 2.7 0.0
+
+
+       0     0                              5   105
+                                                                                                                    0.0   0.0                      0.0      3.8
+             0               0.95           0
+                                                                                                                          0.0                      0.0
+       0     0                            100   136
+                                                                                                                    0.0   0.0                      4.0      3.7
+
+                         0   640 136
+                                                                                                                                 0.0 5.3 3.7
+
+                    721             776
+                                                                                                                                 2.9        5.0
+
+
+
+                              0                                                                                                   0    0    0
+
+
+
+                                                                                                                          0                          0
+
+             0                              0                                                                             0                          0
+
+                                                                                                                          0                          0
+
+                              0                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                   16th St                         16th St                  Alaska Ave NW             Alaska Ave NW                  Total      Hourly
+    Period                   (Northbound)                    (Southbound)                 (Eastbound)               (Westbound)                              Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U       Left Thru Right      U    Left Thru Right          U
+   11:00 AM        0         142      23        0      0      187       0   0        0      0      0     0     16     0      0         0          368
+   11:15 AM        0          118     25        0      0      182       0   0        0      0      0     0     25     0      0         0          350
+   11:30 AM        0         151      17        0      0      171       0   0        0      0      0     0     26     0      0         0          365
+   11:45 AM        0         131      28        0      0      149       0   0        0      0      0     0     19     0      0         0          327            1410
+   12:00 PM        0         159      21        0      0      183       0   0        0      0      0     0     25     0      2         0          390            1432
+   12:15 PM        0         170      28        0      0      146       0   0        0      0      0     0     33     0      2         0          379            1461
+   12:30 PM        0         156      48        0      0      164       0   0        0      0      0     0     27     0      0         0          395            1491
+   12:45 PM        0         155      39        0      0      128       0   0        0      0      0     0     15     0      1         0          338            1502
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                    Eastbound                 Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U        Left   Thru Right    U   Left    Thru Right    U                     Total
+  All Vehicles     0         624    192     0          0     656      0     0        0       0      0    0   108       0     0     0                     1580
+ Heavy Trucks      0          36      4                0      16      0              0       0      0          4       0     0                            60
+  Pedestrians                  0                               0                             0                         0                                   0
+    Bicycles       0           0      0                0       0      0              0       0      0          0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- Alaska Ave NW                                                                                              QC JOB #: 10695024
+ CITY/STATE: Washington, DC                                                                                                      DATE: Tue, Feb 19 2013
+                    977             1624                          Peak-Hour: 5:45 PM -- 6:45 PM                                   1.2        1.4
+
+                         0   977     0
+                                                                 Peak 15-Min: 6:00 PM -- 6:15 PM
+                                                                                                                                  0.0 1.2 0.0
+
+
+       0     0                               0   159
+                                                                                                                     0.0   0.0                      0.0      7.5
+             0               0.96            0
+                                                                                                                           0.0                      0.0
+       0     0                             159   356
+                                                                                                                     0.0   0.0                      7.5      4.2
+
+                         0 1624 356
+                                                                                                                                  0.0 1.4 4.2
+
+                    1136            1980
+                                                                                                                                  2.1        1.9
+
+
+
+                              1                                                                                                    0    0    0
+
+
+
+                                                                                                                           0                          0
+
+             4                               6                                                                             0                          0
+
+                                                                                                                           0                          0
+
+                              0                                                                                                    0    0    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                            NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                   16th St                          16th St                  Alaska Ave NW             Alaska Ave NW                  Total      Hourly
+    Period                   (Northbound)                     (Southbound)                 (Eastbound)               (Westbound)                              Totals
+ Beginning At     Left        Thru Right         U     Left    Thru Right    U       Left Thru Right      U    Left Thru Right          U
+    3:30 PM        0         298      55         0      0      182       0   0        0      0      0     0     28     0      4         0          567
+    3:45 PM        0         320      50         0      0      179       0   0        0      0      0     0     19     0      0         0          568
+    4:00 PM        0         330      42         0      0      152       0   0        0      0      0     0     27     0      2         0          553
+    4:15 PM        0         403      72         0      0      198       0   0        0      0      0     0     21     0      1         0          695            2383
+    4:30 PM        0         375      67         0      0      182       0   0        0      0      0     0     36     0      1         0          661            2477
+    4:45 PM        0         358      63         0      0      192       0   0        0      0      0     0     28     0      1         0          642            2551
+    5:00 PM        0         365      74         0      0      209       0   0        0      0      0     0     45     0      2         0          695            2693
+    5:15 PM        0         393      77         0      0      257       0   0        0      0      0     0     39     0      2         0          768            2766
+    5:30 PM        0         420      84         0      0      211       0   0        0      0      0     0     42     0      0         0          757            2862
+    5:45 PM        0         419      95         0      0      213       0   0        0      0      0     0     35     0      0         0          762            2982
+    6:00 PM        0         425      84         0      0      249       0   0        0      0      0     0     50     0      0         0          808            3095
+    6:15 PM        0         392      92         0      0      261       0   0        0      0      0     0     42     0      0         0          787            3114
+    6:30 PM        0         388      85         0      0      254       0   0        0      0      0     0     32     0      0         0          759            3116
+    6:45 PM        0         354      66         0      0      197       0   0        0      0      0     0     33     0      0         0          650            3004
+
+
+
+
+ Peak 15-Min               Northbound                             Southbound                    Eastbound                 Westbound
+   Flowrates      Left Thru Right     U                Left   Thru Right    U        Left   Thru Right    U   Left    Thru Right    U                     Total
+  All Vehicles     0 1700     336     0                 0     996      0     0        0       0      0    0   200       0     0     0                     3232
+ Heavy Trucks      0    12     16                       0      20      0              0       0      0          8       0     0                            56
+  Pedestrians            0                                      0                             0                         4                                   4
+    Bicycles       0     0      0                       0       0      0              0       0      0          0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- Alaska Ave NW                                                                                              QC JOB #: 10695045
+ CITY/STATE: Washington, DC                                                                                                      DATE: Tue, Feb 19 2013
+                    612             933                          Peak-Hour: 7:00 PM -- 8:00 PM                                    1.8        1.2
+
+                         0   612     0
+                                                                Peak 15-Min: 7:00 PM -- 7:15 PM
+                                                                                                                                  0.0 1.8 0.0
+
+
+       0     0                              3    90
+                                                                                                                     0.0   0.0                      0.0     12.2
+             0               0.92           0
+                                                                                                                           0.0                      0.0
+       0     0                             87   175
+                                                                                                                     0.0   0.0                     12.6      4.6
+
+                         0   930 175
+                                                                                                                                  0.0 1.2 4.6
+
+                    699             1105
+                                                                                                                                  3.1        1.7
+
+
+
+                              1                                                                                                    0    0    0
+
+
+
+                                                                                                                           0                          0
+
+             0                              4                                                                              0                          0
+
+                                                                                                                           0                          0
+
+                              0                                                                                                    0    0    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                            NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                   16th St                         16th St                  Alaska Ave NW             Alaska Ave NW                   Total       Hourly
+    Period                   (Northbound)                    (Southbound)                 (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U       Left Thru Right      U    Left Thru Right           U
+    7:00 PM        0         263      41        0      0      168       0   0        0      0      0     0     20     0      0          0          492
+    7:15 PM        0         232      57        0      0      173       0   0        0      0      0     0     23     0      1          0          486
+    7:30 PM        0         224      40        0      0      107       0   0        0      0      0     0     23     0      2          0          396
+    7:45 PM        0          211     37        0      0      164       0   0        0      0      0     0     21     0      0          0          433            1807
+
+
+
+
+ Peak 15-Min               Northbound                            Southbound                    Eastbound                  Westbound
+   Flowrates      Left Thru Right     U               Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0 1052     164     0                0     672      0     0        0       0      0    0     80       0     0     0                     1968
+ Heavy Trucks      0     8      8                      0      16      0              0       0      0          20       0     0                            52
+  Pedestrians            0                                     0                             0                          4                                   4
+    Bicycles       0     0      0                      0       0      0              0       0      0          0        0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- Alaska Ave NW                                                                                               QC JOB #: 10695035
+ CITY/STATE: Washington, DC                                                                                                       DATE: Sat, May 18 2013
+                    930             977                           Peak-Hour: 3:45 PM -- 4:45 PM                                    1.2        1.5
+
+                         0   930     0
+                                                                 Peak 15-Min: 4:30 PM -- 4:45 PM
+                                                                                                                                   0.0 1.2 0.0
+
+
+       0     0                              7    117
+                                                                                                                      0.0   0.0                      0.0      2.6
+             0               0.97           0
+                                                                                                                            0.0                      0.0
+       0     0                             110   127
+                                                                                                                      0.0   0.0                      2.7      3.1
+
+                         0   970 127
+                                                                                                                                   0.0 1.5 3.1
+
+                    1040            1097
+                                                                                                                                   1.3        1.7
+
+
+
+                              2                                                                                                     0    1    0
+
+
+
+                                                                                                                            0                          0
+
+             2                              9                                                                               0                          0
+
+                                                                                                                            0                          0
+
+                              0                                                                                                     0    0    0
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+
+             NA                            NA                                                                               NA                       NA
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+ 15-Min Count                   16th St                          16th St                  Alaska Ave NW             Alaska Ave NW                   Total      Hourly
+    Period                   (Northbound)                     (Southbound)                 (Eastbound)               (Westbound)                               Totals
+ Beginning At     Left        Thru Right         U     Left    Thru Right    U       Left Thru Right      U    Left Thru Right           U
+    1:00 PM        0         192      28         0      0      218       0   0        0      0      0     0     18     0      1          0          457
+    1:15 PM        0         182      26         0      1      214       0   0        0      0      0     0     29     0      3          0          455
+    1:30 PM        0         299      35         0      0      215       0   0        0      0      0     0     34     0      3          0          586
+    1:45 PM        0         229      28         0      0      228       0   0        0      0      0     0     32     0      2          0          519            2017
+    2:00 PM        0         229      24         0      0      192       0   0        0      0      0     0     26     0      1          0          472            2032
+    2:15 PM        0         245      29         0      0      211       0   0        0      0      0     0     30     0      1          0          516            2093
+    2:30 PM        0         264      31         0      0      222       0   0        0      0      0     0     36     0      1          0          554            2061
+    2:45 PM        0         237      33         2      0      210       0   0        0      0      0     0     20     0      3          0          505            2047
+    3:00 PM        0         245      26         1      0      219       0   0        0      0      0     0     30     0      1          0          522            2097
+    3:15 PM        0         236      36         0      0      207       0   0        0      0      0     0     21     0      1          0          501            2082
+    3:30 PM        0         252      31         0      0      203       0   0        0      0      0     0     30     0      2          0          518            2046
+    3:45 PM        0         243      30         0      0      206       0   0        0      0      0     0     27     0      2          0          508            2049
+    4:00 PM        0         250      38         0      0      227       0   0        0      0      0     0     23     0      3          0          541            2068
+    4:15 PM        0         244      25         0      0      235       0   0        0      0      0     0     38     0      0          0          542            2109
+    4:30 PM        0         233      34         0      0      262       0   0        0      0      0     0     22     0      2          0          553            2144
+    4:45 PM        0         224      30         0      0      220       0   0        0      0      0     0     23     0      1          0          498            2134
+    5:00 PM        0         236      35         0      0      202       0   0        0      0      0     0     27     0      0          0          500            2093
+    5:15 PM        0         235      25         0      0      238       0   0        0      0      0     0     38     0      0          0          536            2087
+    5:30 PM        0         221      36         0      0      222       0   0        0      0      0     0     35     0      0          0          514            2048
+    5:45 PM        0         242      36         1      1      257       0   0        0      0      0     0     24     0      0          0          561            2111
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                      Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         932    136     0           0 1048       0     0          0       0      0    0     88       0     8     0                     2212
+ Heavy Trucks      0           8      8                 0     4      0                0       0      0           0       0     0                            20
+  Pedestrians                  0                              0                               0                         16                                  16
+    Bicycles       0           0      0                 0     0      0                0       0      0          0        0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

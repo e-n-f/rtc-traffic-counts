@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Allison St NW                                                                                         QC JOB #: 10695429
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, May 15 2013
+                    1059          445                        Peak-Hour: 7:45 AM -- 8:45 AM                                       4.7        8.1
+
+                       24 1027 8
+                                                            Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                 12.5 4.6 0.0
+
+
+       101   12                          3   73
+                                                                                                                  6.9    8.3                       0.0      5.5
+             56            0.94         57
+                                                                                                                         14.3                      7.0
+       93    25                         13   65
+                                                                                                                  10.8   4.0                       0.0     12.3
+
+                       21 430      1
+                                                                                                                                 0.0 8.1 0.0
+
+                    1066          452
+                                                                                                                                 4.5        7.7
+
+
+
+                            10                                                                                                    0    8    0
+
+
+
+                                                                                                                         0                           0
+
+             69                         17                                                                               1                           0
+
+                                                                                                                         0                           0
+
+                            21                                                                                                    0    1    0
+
+
+
+
+                           NA                                                                                                          NA
+
+
+
+
+             NA                         NA                                                                               NA                        NA
+
+
+
+
+                           NA                                                                                                          NA
+
+
+
+ 15-Min Count               Georgia Ave                   Georgia Ave                  Allison St NW               Allison St NW                  Total       Hourly
+    Period                 (Northbound)                  (Southbound)                  (Eastbound)                 (Westbound)                                Totals
+ Beginning At     Left      Thru Right       U    Left    Thru Right    U       Left   Thru Right      U   Left    Thru Right          U
+    7:00 AM        1         76      0       0     0      183      0    0        0        3       0    0    0         5       1        0          269
+    7:15 AM        2         73      0       0     2      222      1    0        1        6       2    0    0         6       0        0          315
+    7:30 AM        5         98      1       0     2      263      6    0        1        3       7    0    3         6       1        0          396
+    7:45 AM        7         89      0       0     0      243      5    0        3        7       3    0    3       21        2        0          383            1363
+    8:00 AM        8        117      0       1     3      265      5    0        0      17      13     0    5       14        0        0          448            1542
+    8:15 AM        3        118      1       0     3      275      9    0        2      14        2    0    3       15        0        0          445            1672
+    8:30 AM        2       106       0       0     2      244      5    0        7      18        7    0    2         7       1        0          401            1677
+    8:45 AM        2         81      0       0     2      241      9    0        1        9       3    0    2         4       2        0          356            1650
+
+
+
+
+ Peak 15-Min                   Northbound                  Southbound                      Eastbound                   Westbound
+   Flowrates      Left     Thru Right     U       Left Thru Right    U          Left   Thru Right    U     Left    Thru Right    U                       Total
+  All Vehicles     32      468      0     4        12 1060     20     0          0      68    52     0      20      56     0     0                       1792
+ Heavy Trucks       0       36      0               0   36      0                0       0      0            0       4     0                              76
+  Pedestrians                8                          12                              68                           8                                    96
+    Bicycles       0         1      0               0    0      0                0       1      0            0       0     0                               2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Allison St NW                                                                                          QC JOB #: 10695430
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, May 15 2013
+                    560             484                       Peak-Hour: 12:00 PM -- 1:00 PM                                      6.4        7.0
+
+                       12 544        4
+                                                             Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                                  0.0 6.6 0.0
+
+
+       29    4                             2   14
+                                                                                                                    6.9   0.0                       0.0      21.4
+             19              0.93         10
+                                                                                                                          5.3                      20.0
+       37    14                            2   25
+                                                                                                                    8.1   14.3                     50.0       4.0
+
+                         7   477     3
+                                                                                                                                  0.0 7.1 0.0
+
+                    560             487
+                                                                                                                                  7.0        7.0
+
+
+
+                              2                                                                                                   0     3    0
+
+
+
+                                                                                                                          0                           0
+
+             27                           17                                                                              0                           0
+
+                                                                                                                          0                           0
+
+                              6                                                                                                   0     1    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                           NA                                                                              NA                        NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                 Georgia Ave                   Georgia Ave                  Allison St NW               Allison St NW                 Total        Hourly
+    Period                   (Northbound)                  (Southbound)                  (Eastbound)                 (Westbound)                                Totals
+ Beginning At     Left        Thru Right       U    Left    Thru Right    U       Left   Thru Right      U   Left    Thru Right         U
+   11:00 AM        5          117      0       0     0      130      0    0        1        3       2    0    0         1       1       0          260
+   11:15 AM        7           98      0       1     1      118      4    0        0        5       5    0    1         1       1       0          242
+   11:30 AM        5           94      0       0     2      123      2    0        1        3       1    1    0         2       2       0          236
+   11:45 AM        2         102       0       0     0      106      0    0        3        4       4    0    0         1       0       0          222              960
+   12:00 PM        1         109       0       0     2      135      3    1        1        4       4    0    0         4       0       0          264              964
+   12:15 PM        3         120       0       0     0      143      2    0        1        5       4    0    1         1       0       0          280             1002
+   12:30 PM        2         129       1       0     0      142      4    0        2        7       3    0    1         3       1       0          295             1061
+   12:45 PM        1          119      2       0     1      124      3    0        0        3       3    0    0         2       1       0          259             1098
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                    Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                       Total
+  All Vehicles     8         516      4     0        0     568     16     0        8      28    12     0      4       12     4     0                       1180
+ Heavy Trucks      0          44      0              0      56      0              0       4      0           0        0     0                             104
+  Pedestrians                  0                             0                            32                          24                                    56
+    Bicycles       0           0      0              0       2      0              0       0      0            0       0     0                               2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Allison St NW                                                                                      QC JOB #: 10695431
+ CITY/STATE: Washington, DC                                                                                                  DATE: Wed, May 15 2013
+                    562          869                        Peak-Hour: 5:30 PM -- 6:30 PM                                     3.4        2.6
+
+                       13 544     5
+                                                           Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                              0.0 3.5 0.0
+
+
+       44    8                          5   20
+                                                                                                                 0.0   0.0                      0.0      5.0
+             50           0.95         11
+                                                                                                                       0.0                      0.0
+       72    14                         4   61
+                                                                                                                 0.0   0.0                     25.0      0.0
+
+                       21 856     6
+                                                                                                                              0.0 2.7 0.0
+
+                    563          883
+                                                                                                                              3.6        2.6
+
+
+
+                           10                                                                                                 0     5    0
+
+
+
+                                                                                                                       0                          0
+
+             77                        32                                                                              2                          0
+
+                                                                                                                       0                          0
+
+                           20                                                                                                 0     7    0
+
+
+
+
+                          NA                                                                                                        NA
+
+
+
+
+             NA                        NA                                                                              NA                       NA
+
+
+
+
+                          NA                                                                                                        NA
+
+
+
+ 15-Min Count              Georgia Ave                   Georgia Ave                  Allison St NW               Allison St NW                Total      Hourly
+    Period                (Northbound)                  (Southbound)                  (Eastbound)                 (Westbound)                             Totals
+ Beginning At     Left     Thru Right       U    Left    Thru Right    U       Left   Thru Right      U   Left    Thru Right        U
+    4:30 PM        0      210       0       0     1      112      2    0        4      13      10     0    2         4       2      0          360
+    4:45 PM        3      196       3       0     2      117      2    0        2      18        5    0    2         2       2      0          354
+    5:00 PM        6      196       1       0     1       97      7    0        2      14        4    0    0         3       0      0          331
+    5:15 PM        3      203       3       0     1      136      7    0        3        9       6    0    0         3       3      0          377            1422
+    5:30 PM        5      233       2       1     1      133      3    0        1      15        4    0    1         3       2      0          404            1466
+    5:45 PM        2      199       1       0     1      137      3    0        1      13        4    0    2         4       2      0          369            1481
+    6:00 PM        8      204       2       0     2      135      4    0        4      14        3    0    0         3       0      0          379            1529
+    6:15 PM        5      220       1       0     1      139      3    0        2        8       3    0    1         1       1      0          385            1537
+
+
+
+
+ Peak 15-Min                  Northbound                    Southbound                    Eastbound                   Westbound
+   Flowrates      Left    Thru Right     U       Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles     20     932      8     4        4     532     12     0        4      60    16     0      4       12     8     0                     1616
+ Heavy Trucks       0      28      0              0       8      0              0       0      0           0        0     0                             36
+  Pedestrians              16                             8                            80                          40                                  144
+    Bicycles       0        2      0              0       0      0              0       1      0            0       0     0                              3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Allison St NW                                                                                         QC JOB #: 10695432
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, May 18 2013
+                    580             592                        Peak-Hour: 4:00 PM -- 5:00 PM                                     2.6        3.5
+
+                       13 565        2
+                                                              Peak 15-Min: 4:15 PM -- 4:30 PM
+                                                                                                                                 0.0 2.7 0.0
+
+
+       26    5                             5   10
+                                                                                                                    0.0   0.0                      0.0      0.0
+             11              0.97          5
+                                                                                                                          9.1                      0.0
+       24    8                             0   18
+                                                                                                                    4.2   0.0                      0.0      5.6
+
+                         9   582     5
+                                                                                                                                 0.0 3.6 0.0
+
+                    574             596
+                                                                                                                                 2.6        3.5
+
+
+
+                              1                                                                                                   0    4    0
+
+
+
+                                                                                                                          0                          0
+
+             46                           12                                                                              0                          0
+
+                                                                                                                          0                          0
+
+                              9                                                                                                   0    8    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                 Georgia Ave                   Georgia Ave                  Allison St NW               Allison St NW                Total      Hourly
+    Period                   (Northbound)                  (Southbound)                  (Eastbound)                 (Westbound)                             Totals
+ Beginning At     Left        Thru Right       U    Left    Thru Right    U       Left   Thru Right      U   Left    Thru Right        U
+    3:00 PM        5          117      0       0     0      133      2    0        0        2       3    0    1         2       1      0          266
+    3:15 PM        4         155       0       2     3      137      2    0        2        3       1    0    1         2       0      0          312
+    3:30 PM        0         145       0       0     0      117      3    0        0        4       5    0    1         0       1      0          276
+    3:45 PM        1         135       0       0     1      133      2    0        3        6       4    0    0         0       1      0          286            1140
+    4:00 PM        2         150       1       0     0      139      2    0        0        3       2    0    0         1       3      0          303            1177
+    4:15 PM        3         150       3       1     0      143      3    0        4        3       0    0    0         1       1      0          312            1177
+    4:30 PM        3         141       1       0     1      145      6    0        0        3       2    0    0         2       1      0          305            1206
+    4:45 PM        0         141       0       0     1      138      2    0        1        2       4    0    0         1       0      0          290            1210
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                    Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles     12        600     12     4        0     572     12     0        16     12      0    0      0        4     4     0                     1248
+ Heavy Trucks       0         20      0              0      16      0               0      0      0           0        0     0                            36
+  Pedestrians                  8                             0                            24                           8                                  40
+    Bicycles       0           1      0              0       0      0              0       0      0            0       0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

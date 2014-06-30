@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Penn Ave NW                                                                                                  QC JOB #: 10862263
+ CITY/STATE: Washington, DC                                                                                                       DATE: Tue, Dec 18 2012
+                          0           0                             Peak-Hour: 8:00 AM -- 9:00 AM
+                              0.00                                                                                                 0.0         0.0
+
+                          0    0      0
+                                                                   Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                                   0.0 0.0 0.0
+
+
+       1507   0                               0   1295
+                                                                                                                     2.9   0.0                        0.0       2.8
+       0.94   793             0.96         1294   0.96
+                                                                                                                           3.4                        2.8
+       922    129                             1    883
+                                                                                                                     5.1   15.5                       0.0       3.6
+
+                     213       0     90
+                                                                                                                                   3.8 0.0 5.6
+
+                     130             303
+                              0.85                                                                                                 15.4        4.3
+
+
+
+                              157                                                                                                   0     0    0
+
+
+
+                                                                                                                           0                            0
+
+              61                            102                                                                            22                          72
+
+                                                                                                                           11                           2
+
+                               38                                                                                                  19     0    1
+
+
+
+
+                              NA                                                                                                          NA
+
+
+
+
+              NA                            NA                                                                             NA                         NA
+
+
+
+
+                              NA                                                                                                          NA
+
+
+
+ 15-Min Count                     4th St                            4th St                Penn Ave NW                Penn Ave NW                     Total       Hourly
+    Period                    (Northbound)                      (Southbound)               (Eastbound)               (Westbound)                                 Totals
+ Beginning At      Left        Thru Right          U     Left    Thru Right    U   Left    Thru Right    U    Left    Thru Right          U
+    7:00 AM         17           0     10          0      0        0       0   0    0     120     14     0     1     210      0           0          372
+    7:15 AM         22           0       9         0      0        0       0   0    0     141     19     0     0     239      0           0          430
+    7:30 AM         23           0     10          0      0        0       0   0    0     158     22     0     0     228      0           0          441
+    7:45 AM         29           0     18          0      0        0       0   0    0     152     18     2     0     253      0           0          472             1715
+    8:00 AM         41           0     19          0      0        0       0   0    0     194     36     0     0     328      0           0          618             1961
+    8:15 AM         62           0     14          0      0        0       0   0    0     187     23     0     1     338      0           0          625             2156
+    8:30 AM         55           0     23          0      0        0       0   0    0     204     33     0     0     303      0           0          618             2333
+    8:45 AM         55           0     34          0      0        0       0   0    0     208     37     0     0     325      0           0          659             2520
+
+
+
+
+ Peak 15-Min                      Northbound                        Southbound                Eastbound                Westbound
+   Flowrates   Left           Thru Right     U           Left   Thru Right    U    Left   Thru Right    U     Left Thru Right    U                           Total
+  All Vehicles 220              0    136     0            0       0      0     0    0     832   148     0      0 1300      0     0                           2636
+ Heavy Trucks    8              0      8                  0       0      0          0      24    24            0    28     0                                   92
+  Pedestrians                  68                               188                        76                      160                                        492
+    Bicycles     2              0      0                  0       0      0          0      11      4           1    18     0                                   36
+   Railroad
+Stopped Buses
+ Comments: 2030
+Report generated on 1/31/2013 7:22 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Penn Ave NW                                                                                                QC JOB #: 10862265
+ CITY/STATE: Washington, DC                                                                                                     DATE: Tue, Dec 18 2012
+                          0           0                           Peak-Hour: 11:45 AM -- 12:45 PM
+                              0.00                                                                                               0.0        0.0
+
+                          0    0      0
+                                                                 Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       966    0                              0    829
+                                                                                                                    3.5   0.0                      0.0       2.8
+       0.98   662             0.95         829   0.93
+                                                                                                                          6.0                      2.8
+       815    153                            0    710
+                                                                                                                    6.6   9.2                      0.0       5.9
+
+                     137       0     48
+                                                                                                                                 8.0 0.0 4.2
+
+                     153             185
+                              0.95                                                                                               9.2        7.0
+
+
+
+                              240                                                                                                 0    0    0
+
+
+
+                                                                                                                          0                          0
+
+              72                           155                                                                            16                        11
+
+                                                                                                                          3                          0
+
+                              115                                                                                                 4    0    1
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+
+              NA                           NA                                                                             NA                       NA
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+ 15-Min Count                     4th St                           4th St                Penn Ave NW                Penn Ave NW                   Total       Hourly
+    Period                    (Northbound)                     (Southbound)               (Eastbound)               (Westbound)                               Totals
+ Beginning At      Left        Thru Right         U     Left    Thru Right    U   Left    Thru Right    U    Left    Thru Right        U
+   11:00 AM         33           0     19         0      0        0       0   0    0     148     30     0     1     216      0         0          447
+   11:15 AM         31           0     22         0      0        0       0   0    0     182     27     0     1     191      0         0          454
+   11:30 AM         32           0     18         0      0        0       0   0    0     169     32     0     0     181      0         1          433
+   11:45 AM         32           0     15         0      0        0       0   0    0     164     46     0     0     222      0         0          479             1813
+   12:00 PM         36           0       9        0      0        0       0   0    0     176     35     0     0     205      0         0          461             1827
+   12:15 PM         35           0     12         0      0        0       0   0    0     156     33     0     0     180      0         0          416             1789
+   12:30 PM         34           0     12         0      0        0       0   0    0     166     39     0     0     222      0         0          473             1829
+   12:45 PM         37           0     16         0      0        0       0   0    0     174     31     0     0     174      0         0          432             1782
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound                Eastbound                   Westbound
+   Flowrates   Left           Thru Right     U          Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles 128              0     60     0           0       0      0     0    0     656   184     0      0      888     0     0                      1916
+ Heavy Trucks   16              0      0                 0       0      0          0      44    12            0       24     0                              96
+  Pedestrians                  92                              184                        56                         140                                   472
+    Bicycles     4              0      0                 0       0      0          0       2      0           0        4     0                              10
+   Railroad
+Stopped Buses
+ Comments: 2030
+Report generated on 1/31/2013 7:22 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Penn Ave NW                                                                                                 QC JOB #: 10862264
+ CITY/STATE: Washington, DC                                                                                                      DATE: Tue, Dec 18 2012
+                          0           0                             Peak-Hour: 5:00 PM -- 6:00 PM
+                              0.00                                                                                                0.0        0.0
+
+                          0    0      0
+                                                                   Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                  0.0 0.0 0.0
+
+
+       1300   1                               0   1122
+                                                                                                                     2.4   0.0                      0.0       1.9
+       0.95   1432            0.96         1120   0.96
+                                                                                                                           1.6                      1.9
+       1642   209                             2   1532
+                                                                                                                     1.9   4.3                      0.0       1.6
+
+                     179       0     100
+                                                                                                                                  5.6 0.0 2.0
+
+                     211             279
+                              0.96                                                                                                4.3        4.3
+
+
+
+                              194                                                                                                  0    0    0
+
+
+
+                                                                                                                           0                          0
+
+              79                            122                                                                            67                        17
+
+                                                                                                                           14                         3
+
+                              108                                                                                                 16    0    0
+
+
+
+
+                              NA                                                                                                        NA
+
+
+
+
+              NA                            NA                                                                             NA                       NA
+
+
+
+
+                              NA                                                                                                        NA
+
+
+
+ 15-Min Count                     4th St                            4th St                Penn Ave NW                Penn Ave NW                   Total       Hourly
+    Period                    (Northbound)                      (Southbound)               (Eastbound)               (Westbound)                               Totals
+ Beginning At      Left        Thru Right          U     Left    Thru Right    U   Left    Thru Right    U    Left    Thru Right        U
+    4:30 PM         39           0     23          0      0        0       0   0    0     307     61     0     0     258      0         0          688
+    4:45 PM         41           0     21          0      0        0       0   0    0     342     47     0     0     257      0         0          708
+    5:00 PM         45           0     28          0      0        0       0   0    0     348     42     0     1     291      0         0          755
+    5:15 PM         44           0     23          0      0        0       0   0    0     369     63     1     0     290      0         0          790             2941
+    5:30 PM         47           0     24          0      0        0       0   0    0     345     57     0     1     284      0         0          758             3011
+    5:45 PM         43           0     25          0      0        0       0   0    0     370     47     0     0     255      0         0          740             3043
+    6:00 PM         33           0     15          0      0        0       0   0    0     351     45     1     0     269      0         0          714             3002
+    6:15 PM         28           0     15          0      0        0       0   0    0     303     43     0     0     277      0         0          666             2878
+
+
+
+
+ Peak 15-Min                      Northbound                        Southbound              Eastbound                  Westbound
+   Flowrates   Left           Thru Right     U           Left   Thru Right    U    Left Thru Right    U       Left Thru Right    U                         Total
+  All Vehicles 176              0     92     0            0       0      0     0    0 1476    252     4        0 1160      0     0                         3160
+ Heavy Trucks   20              0      0                  0       0      0          0    28    16              0    28     0                                 92
+  Pedestrians                  96                               220                      92                        132                                      540
+    Bicycles     5              0      0                  0       0      0          0    20      5             2     3     0                                 35
+   Railroad
+Stopped Buses
+ Comments: 2030
+Report generated on 1/31/2013 7:22 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Penn Ave NW                                                                                                QC JOB #: 10862266
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Jan 05 2013
+                          0           0                            Peak-Hour: 3:30 PM -- 4:30 PM
+                              0.00                                                                                               0.0        0.0
+
+                          0    0      0
+                                                                  Peak 15-Min: 4:15 PM -- 4:30 PM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       648    0                              0    484
+                                                                                                                    0.8   0.0                      0.0       1.0
+       0.97   565             0.96         484   0.91
+                                                                                                                          1.8                      1.0
+       747    182                            0    623
+                                                                                                                    1.5   0.5                      0.0       1.6
+
+                     164       0     58
+                                                                                                                                 0.0 0.0 0.0
+
+                     182             222
+                              0.83                                                                                               0.5        0.0
+
+
+
+                              332                                                                                                 0    0    0
+
+
+
+                                                                                                                          0                          0
+
+              168                          252                                                                            17                        33
+
+                                                                                                                          3                          0
+
+                              343                                                                                                 8    0    0
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+
+              NA                           NA                                                                             NA                       NA
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+ 15-Min Count                     4th St                           4th St                Penn Ave NW                Penn Ave NW                   Total       Hourly
+    Period                    (Northbound)                     (Southbound)               (Eastbound)               (Westbound)                               Totals
+ Beginning At      Left        Thru Right         U     Left    Thru Right    U   Left    Thru Right    U    Left    Thru Right        U
+    3:00 PM         30           0     19         0      0        0       0   0    0     133     55     0     0     130      0         0          367
+    3:15 PM         35           0     10         0      0        0       0   0    0     132     57     0     0     123      0         0          357
+    3:30 PM         39           0     14         0      0        0       0   0    0     135     54     0     0     108      0         0          350
+    3:45 PM         43           0     14         0      0        0       0   0    0     125     48     0     0     121      0         0          351             1425
+    4:00 PM         33           0     12         0      0        0       0   0    0     157     35     0     0     138      0         0          375             1433
+    4:15 PM         49           0     18         0      0        0       0   0    0     148     45     0     0     117      0         0          377             1453
+    4:30 PM         31           0       7        0      0        0       0   0    0     138     31     0     0     116      0         0          323             1426
+    4:45 PM         29           0     12         0      0        0       0   0    0     116     33     0     0     130      0         0          320             1395
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound                Eastbound                   Westbound
+   Flowrates   Left           Thru Right     U          Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles 196              0     72     0           0       0      0     0    0     592   180     0      0      468     0     0                      1508
+ Heavy Trucks    0              0      0                 0       0      0          0       8      0           0        0     0                              8
+  Pedestrians                 260                              324                       192                         228                                  1004
+    Bicycles     2              0      0                 0       0      0          0       5      0           0        2     0                              9
+   Railroad
+Stopped Buses
+ Comments: 2030
+Report generated on 1/31/2013 6:53 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

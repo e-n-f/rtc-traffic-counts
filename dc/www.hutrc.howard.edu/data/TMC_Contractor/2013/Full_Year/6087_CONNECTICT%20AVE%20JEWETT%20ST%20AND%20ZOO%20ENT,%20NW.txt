@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave -- Zoo Gate NW                                                                                           QC JOB #: 10707139
+ CITY/STATE: Washington, DC                                                                                                         DATE: Thu, Sep 26 2013
+                      2227            666                         Peak-Hour: 7:45 AM -- 8:45 AM
+                               0.92                                                                                                  1.6        6.0
+
+                           0 2205 22
+                                                                 Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                     0.0 1.6 0.0
+
+
+       0       0                            36     49
+                                                                                                                        0.0   0.0                      0.0      8.2
+        0.50   0               0.92          0   0.74
+                                                                                                                              0.0                      0.0
+       1       1                            13     47
+                                                                                                                        0.0   0.0                     30.8      8.5
+
+                           0   630 25
+                                                                                                                                     0.0 6.3 16.0
+
+                      2219            655
+                               0.96                                                                                                  1.8        6.7
+
+
+
+                                0                                                                                                     0    47   0
+
+
+
+                                                                                                                              0                          0
+
+               139                          69                                                                                0                          0
+
+                                                                                                                              0                          0
+
+                                3                                                                                                     0    9    0
+
+
+
+
+                               NA                                                                                                          NA
+
+
+
+
+               NA                           NA                                                                                NA                       NA
+
+
+
+
+                               NA                                                                                                          NA
+
+
+
+ 15-Min Count           Connecticut Ave                     Connecticut Ave                  Zoo Gate NW                 Zoo Gate NW                  Total      Hourly
+    Period               (Northbound)                        (Southbound)                     (Eastbound)                (Westbound)                             Totals
+ Beginning At       Left Thru Right               U     Left Thru Right       U       Left   Thru Right     U    Left    Thru Right        U
+    7:00 AM          0    113     7               0       8   283     0       0        0        0     0     0     1        0      1        0          413
+    7:15 AM          0     98     7               0       1   322     0       0        0        0     0     0     3        0      3        0          434
+    7:30 AM          0   151      5               0       5   408     0       0        0        0     1     0     0        0      2        0          572
+    7:45 AM          0   171      2               0       1   520     0       0        0        0     0     0     3        0      6        0          703            2122
+    8:00 AM          0   160      5               0       2   558     0       0        0        0     1     0     3        0     10        0          739            2448
+    8:15 AM          0   167      8               0      10   605     0       0        0        0     0     0     5        0      5        0          800            2814
+    8:30 AM          0   132     10               0       9   522     0       0        0        0     0     0     2        0     15        0          690            2932
+    8:45 AM          0   125      3               0      23   526     0       0        0        0     0     0     3        0      7        0          687            2916
+
+
+
+
+ Peak 15-Min                       Northbound                    Southbound                      Eastbound                   Westbound
+   Flowrates        Left       Thru Right     U         Left Thru Right    U          Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles       0         668     32     0          40 2420      0     0          0       0      0    0      20       0    20     0                     3200
+ Heavy Trucks        0          32      4                 0   32      0                0       0      0            8       0     0                             76
+  Pedestrians                    8                             0                             164                          44                                  216
+    Bicycles         0           6      0                 0   11      0                0       0      0            0       0     0                             17
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/4/2013 12:25 PM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                     Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave -- Zoo Gate NW                                                                                            QC JOB #: 10707140
+ CITY/STATE: Washington, DC                                                                                                          DATE: Thu, Sep 26 2013
+                      894             741                          Peak-Hour: 11:15 AM -- 12:15 PM
+                               0.95                                                                                                   5.8        5.7
+
+                           1   856 37
+                                                                  Peak 15-Min: 11:30 AM -- 11:45 AM
+                                                                                                                                      0.0 5.6 10.8
+
+
+       1       1                             30     50
+                                                                                                                         0.0   0.0                      3.3      4.0
+        0.50   0               0.96           0   0.88
+                                                                                                                               0.0                      0.0
+       1       0                             20     81
+                                                                                                                         0.0   0.0                      5.0     11.1
+
+                           2   709 44
+                                                                                                                                      0.0 5.8 11.4
+
+                      877             755
+                               0.96                                                                                                   5.6        6.1
+
+
+
+                                1                                                                                                      0    8    0
+
+
+
+                                                                                                                               0                          0
+
+               107                          149                                                                                0                          0
+
+                                                                                                                               0                          0
+
+                                0                                                                                                      0    6    0
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+
+               NA                           NA                                                                                 NA                       NA
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+ 15-Min Count           Connecticut Ave                      Connecticut Ave                  Zoo Gate NW                 Zoo Gate NW                  Total      Hourly
+    Period               (Northbound)                         (Southbound)                     (Eastbound)                (Westbound)                             Totals
+ Beginning At       Left Thru Right                U     Left Thru Right       U       Left   Thru Right     U    Left    Thru Right        U
+   11:00 AM          0   158     15                0       8   197     0       0        0        0     0     0     4        0      6        0          388
+   11:15 AM          0   185     14                2      11   211     1       1        0        0     0     0     2        0      6        0          433
+   11:30 AM          0   184     10                0      14   221     0       0        0        0     0     0     8        0      4        0          441
+   11:45 AM          0   190     11                0       7   206     0       0        0        0     0     0     6        0     10        0          430            1692
+   12:00 PM          0   150      9                0       4   218     0       0        1        0     0     0     3        0     10        1          396            1700
+   12:15 PM          0   169     12                0       5   181     0       0        0        0     0     0     8        0      8        0          383            1650
+   12:30 PM          0   182     13                0       7   187     0       0        1        0     0     0     9        0     10        0          409            1618
+   12:45 PM          0   167     11                0       9   158     0       0        0        0     2     0     8        0     10        0          365            1553
+
+
+
+
+ Peak 15-Min                       Northbound                       Southbound                    Eastbound                   Westbound
+   Flowrates        Left       Thru Right     U          Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles       0         736     40     0           56    884      0     0        0       0      0    0      32       0    16     0                     1764
+ Heavy Trucks        0          28      8                  8     60      0              0       0      0            4       0     0                            108
+  Pedestrians                    0                                0                            84                          96                                  180
+    Bicycles         0           1      0                 0       3      0              0       0      0            0       0     0                             4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/4/2013 12:25 PM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave -- Zoo Gate NW                                                                                          QC JOB #: 10707141
+ CITY/STATE: Washington, DC                                                                                                        DATE: Thu, Sep 26 2013
+                      681          2119                           Peak-Hour: 5:30 PM -- 6:30 PM
+                            0.99                                                                                                    2.1        0.8
+
+                       0    674     7
+                                                                 Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                    0.0 2.1 0.0
+
+
+       0       0                           40     78
+                                                                                                                       0.0   0.0                      0.0      2.6
+        0.42   0            0.98            0   0.80
+                                                                                                                             0.0                      0.0
+       3       3                           38     25
+                                                                                                                       0.0   0.0                      5.3      4.0
+
+                       1 2079 18
+                                                                                                                                    0.0 0.8 5.6
+
+                      716          2098
+                            0.97                                                                                                    2.2        0.9
+
+
+
+                             0                                                                                                       0    19   0
+
+
+
+                                                                                                                             0                          1
+
+               179                        160                                                                                0                          0
+
+                                                                                                                             0                          0
+
+                             2                                                                                                       0    38   0
+
+
+
+
+                            NA                                                                                                            NA
+
+
+
+
+               NA                         NA                                                                                 NA                       NA
+
+
+
+
+                            NA                                                                                                            NA
+
+
+
+ 15-Min Count           Connecticut Ave                    Connecticut Ave                  Zoo Gate NW                 Zoo Gate NW                  Total      Hourly
+    Period               (Northbound)                       (Southbound)                     (Eastbound)                (Westbound)                             Totals
+ Beginning At       Left Thru Right              U     Left Thru Right       U       Left   Thru Right     U    Left    Thru Right        U
+    4:30 PM          0   400      2              1      5    153     0       0        0        0     2     0      6       0      7        0          576
+    4:45 PM          0   433      7              0      6    146     0       0        0        0     0     0      7       0     19        0          618
+    5:00 PM          0   493     11              1      4    179     0       0        0        0     0     0     10       0      8        0          706
+    5:15 PM          0   502      6              0      1    181     0       0        3        0     0     0     12       0     10        0          715            2615
+    5:30 PM          0   522      6              0      2    181     0       0        0        0     1     0      8       0      9        0          729            2768
+    5:45 PM          0   494      4              0      1    174     0       0        0        0     0     0     14       0     11        0          698            2848
+    6:00 PM          0   534      5              0      2    154     0       0        0        0     0     0      6       0     11        0          712            2854
+    6:15 PM          0   529      3              1      2    165     0       0        0        0     2     0     10       0      9        0          721            2860
+
+
+
+
+ Peak 15-Min                 Northbound                           Southbound                    Eastbound                   Westbound
+   Flowrates        Left Thru Right     U              Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles       0 2088      24     0               8     724      0     0        0       0      4    0      32       0    36     0                     2916
+ Heavy Trucks        0    20      0                     0      20      0              0       0      0            0       0     0                             40
+  Pedestrians              0                                    0                           152                         184                                  336
+    Bicycles         0     8      0                     0       4      0              0       0      0            0       0     1                             13
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/4/2013 12:25 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                     Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave -- Zoo Gate NW                                                                                            QC JOB #: 10707142
+ CITY/STATE: Washington, DC                                                                                                          DATE: Sat, Sep 28 2013
+                      909             888                           Peak-Hour: 3:30 PM -- 4:30 PM
+                               0.93                                                                                                   1.5        1.5
+
+                           0   862 47
+                                                                   Peak 15-Min: 4:15 PM -- 4:30 PM
+                                                                                                                                      0.0 1.5 2.1
+
+
+       0       1                             73    149
+                                                                                                                         0.0   0.0                      0.0      2.0
+        0.50   0               0.93           0   0.81
+                                                                                                                               0.0                      0.0
+       5       4                             76    132
+                                                                                                                         0.0   0.0                      3.9      4.5
+
+                           2   814 85
+                                                                                                                                      0.0 1.6 5.9
+
+                      944             901
+                               0.93                                                                                                   1.7        2.0
+
+
+
+                                4                                                                                                      0    25   2
+
+
+
+                                                                                                                               0                          0
+
+               249                          513                                                                                0                          0
+
+                                                                                                                               0                          0
+
+                                0                                                                                                      0    16   0
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+
+               NA                           NA                                                                                 NA                       NA
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+ 15-Min Count           Connecticut Ave                      Connecticut Ave                  Zoo Gate NW                 Zoo Gate NW                  Total      Hourly
+    Period               (Northbound)                         (Southbound)                     (Eastbound)                (Westbound)                             Totals
+ Beginning At       Left Thru Right                U     Left Thru Right       U       Left   Thru Right     U    Left    Thru Right        U
+    3:00 PM          0   202     26                0      23   192     0       0        0        0     1     0     19       0     33        1          497
+    3:15 PM          0   201     32                0      18   198     0       0        0        0     1     0     20       0     22        0          492
+    3:30 PM          0   193     25                1      16   212     0       0        0        0     1     0     16       0     22        0          486
+    3:45 PM          0   192     17                0      10   219     0       0        0        0     3     0     19       0     20        0          480            1955
+    4:00 PM          0   204     26                0       8   200     0       0        0        0     0     0     15       0     15        0          468            1926
+    4:15 PM          0   225     17                1      13   231     0       0        1        0     0     0     26       0     16        0          530            1964
+    4:30 PM          0   194     14                2      11   209     0       0        0        0     0     0     26       0     19        0          475            1953
+    4:45 PM          0   179     16                0       7   213     0       0        2        0     0     0     19       0     21        0          457            1930
+
+
+
+
+ Peak 15-Min                       Northbound                       Southbound                    Eastbound                   Westbound
+   Flowrates        Left       Thru Right     U          Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles       0         900     68     4           52    924      0     0        4       0      0    0     104       0    64     0                     2120
+ Heavy Trucks        0          20      4                  0      4      0              0       0      0            0       0     0                             28
+  Pedestrians                    0                                0                           248                         660                                  908
+    Bicycles         0           3      0                 0       6      0              0       0      0            0       0     0                              9
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/4/2013 12:25 PM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

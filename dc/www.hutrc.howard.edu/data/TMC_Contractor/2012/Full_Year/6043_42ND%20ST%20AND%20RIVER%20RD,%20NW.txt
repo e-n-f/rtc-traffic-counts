@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 42nd St -- River Rd NW                                                                                               QC JOB #: 10706821
+ CITY/STATE: Washington, DC                                                                                                     DATE: Thu, Feb 23 2012
+                      244             156                           Peak-Hour: 7:30 AM -- 8:30 AM
+                               0.87                                                                                              1.6        0.0
+
+                           2   235     7
+                                                                   Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                 0.0 1.7 0.0
+
+
+       189     1                             40    211
+                                                                                                                    2.1   0.0                      0.0       2.4
+        0.96   431             0.91         146   0.90
+                                                                                                                          1.4                      2.7
+       514     82                            25    465
+                                                                                                                    1.4   1.2                      4.0       1.3
+
+                         41 115 27
+                                                                                                                                 0.0 0.0 0.0
+
+                      342             183
+                               0.82                                                                                              1.8        0.0
+
+
+
+                                35                                                                                                0    1    0
+
+
+
+                                                                                                                          0                          0
+
+               17                            10                                                                           1                          1
+
+                                                                                                                          0                          0
+
+                                65                                                                                                0    1    0
+
+
+
+
+                               NA                                                                                                      NA
+
+
+
+
+               NA                           NA                                                                            NA                       NA
+
+
+
+
+                               NA                                                                                                      NA
+
+
+
+ 15-Min Count                     42nd St                          42nd St                River Rd NW                River Rd NW                  Total       Hourly
+    Period                     (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left        Thru Right         U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM          10          13      4         0      1       13      0    0    1      53     12    0      0      25      5        0          137
+    7:15 AM          10          20      3         0      5       17      0    0    0      87     15    0      2      22      9        0          190
+    7:30 AM           2          21     11         0      0       55      0    0    0     106     28    0      4      34     13        0          274
+    7:45 AM          12          24      1         0      2       54      0    0    1     114     19    0      5      40      5        0          277              878
+    8:00 AM          16          46      7         0      2       67      1    0    0     102     14    0      5      43     13        0          316             1057
+    8:15 AM          11          24      8         0      3       59      1    0    0     109     21    0     11      29      9        0          285             1152
+    8:30 AM          15          31      7         0      5       41      1    0    0      99     15    0     14      40      2        0          270             1148
+    8:45 AM          11          37     13         0      1       24      0    0    1     103     22    0     14      35      5        0          266             1137
+
+
+
+
+ Peak 15-Min                       Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       64        184     28     0           8     268      4     0    0     408    56     0     20     172    52     0                      1264
+ Heavy Trucks         0          0      0                 0       0      0          0       8      4           0       0     0                              12
+  Pedestrians                   76                               44                        28                         16                                   164
+    Bicycles         0           0      0                 0       0      0          0       0      0          0        0     0                               0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 42nd St -- River Rd NW                                                                                               QC JOB #: 10706822
+ CITY/STATE: Washington, DC                                                                                                     DATE: Thu, Feb 23 2012
+                      109             102                          Peak-Hour: 11:30 AM -- 12:30 PM
+                               0.78                                                                                              3.7        3.9
+
+                           4   101     4
+                                                                  Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                                 0.0 4.0 0.0
+
+
+       220     4                             18    196
+                                                                                                                    5.0   0.0                      5.6       5.6
+        0.88   184             0.93         148   0.89
+                                                                                                                          5.4                      6.8
+       241     53                            30    209
+                                                                                                                    4.6   1.9                      0.0       5.3
+
+                         68     80    21
+                                                                                                                                 1.5 3.8 4.8
+
+                      184             169
+                               0.77                                                                                              2.7        3.0
+
+
+
+                                33                                                                                                0    0    0
+
+
+
+                                                                                                                          0                          0
+
+               12                            13                                                                           1                          1
+
+                                                                                                                          0                          0
+
+                                21                                                                                                1    2    0
+
+
+
+
+                               NA                                                                                                      NA
+
+
+
+
+               NA                           NA                                                                            NA                       NA
+
+
+
+
+                               NA                                                                                                      NA
+
+
+
+ 15-Min Count                     42nd St                          42nd St                River Rd NW                River Rd NW                  Total       Hourly
+    Period                     (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left        Thru Right         U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM          14          18      4         0      1       21      3    0    0      53     16    0     6       33      4        0          173
+   11:15 AM          11          13      3         0      2       27      1    0    2      45     10    0     5       35      3        0          157
+   11:30 AM          14          27      6         0      1       25      0    0    0      47     13    0     8       33      7        0          181
+   11:45 AM          18          25      5         0      1       31      1    0    2      50     11    0     5       43      1        0          193              704
+   12:00 PM          21          15      5         0      1       11      1    0    1      50     20    0     9       43      4        0          181              712
+   12:15 PM          15          13      5         0      1       34      2    0    1      37      9    0     8       29      6        0          160              715
+   12:30 PM          17          23     10         0      3       28      0    1    0      34     13    0     6       43      2        0          180              714
+   12:45 PM          18          30     12         0      1       20      3    0    0      46     12    0     7       24      2        0          175              696
+
+
+
+
+ Peak 15-Min                       Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       72        100     20     0           4     124      4     0    8     200    44     0     20     172     4     0                      772
+ Heavy Trucks         0          0      0                 0       8      0          0      16      0           0       8     0                             32
+  Pedestrians                   28                               20                         8                         12                                   68
+    Bicycles         0           0      0                 0       0      0          0       1      0          0        0     0                              1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 42nd St -- River Rd NW                                                                                              QC JOB #: 10706823
+ CITY/STATE: Washington, DC                                                                                                    DATE: Thu, Feb 23 2012
+                     146             132                           Peak-Hour: 5:15 PM -- 6:15 PM
+                              0.91                                                                                              0.0        0.0
+
+                          7   134     5
+                                                                  Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                0.0 0.0 0.0
+
+
+       478    1                             30    407
+                                                                                                                   0.6   0.0                      0.0       0.7
+       0.87   212             0.97         346   0.97
+                                                                                                                         0.5                      0.9
+       285    72                            31    225
+                                                                                                                   0.4   0.0                      0.0       0.4
+
+                     124 102          8
+                                                                                                                                0.0 0.0 0.0
+
+                     237             234
+                              0.91                                                                                              0.0        0.0
+
+
+
+                               31                                                                                                0    0    0
+
+
+
+                                                                                                                         0                          0
+
+              15                             3                                                                           0                          3
+
+                                                                                                                         0                          0
+
+                               52                                                                                                0    0    0
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+
+              NA                           NA                                                                            NA                       NA
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+ 15-Min Count                    42nd St                          42nd St                River Rd NW                River Rd NW                  Total       Hourly
+    Period                    (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At      Left        Thru Right         U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM         21          13      2         0      2       39      0    0    0      40     10    0     12      66      8        0          213
+    4:45 PM         29          20      0         0      3       36      1    0    1      53     16    0      8      60      6        0          233
+    5:00 PM         23          21      0         0      3       30      2    0    0      43     13    0      7      49      9        0          200
+    5:15 PM         24          27      0         0      1       31      2    0    0      60     18    0      6      91      8        0          268              914
+    5:30 PM         36          27      1         0      1       32      1    0    0      51     24    1      8      88      7        0          277              978
+    5:45 PM         35          28      1         0      2       39      2    0    0      50     14    0      5      89      8        0          273             1018
+    6:00 PM         29          20      6         0      1       32      2    0    0      51     16    0     12      78      7        0          254             1072
+    6:15 PM         24          15      8         0      2       34      2    0    0      63     20    0      9      65      7        0          249             1053
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates   Left           Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles 144            108      4     0           4     128      4     0    0     204    96     4     32     352    28     0                      1108
+ Heavy Trucks    0              0      0                 0       0      0          0       0      0           0       4     0                              4
+  Pedestrians                  60                               36                        20                          8                                   124
+    Bicycles     0              0      0                 0       0      0          0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 42nd St -- River Rd NW                                                                                               QC JOB #: 10706824
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Apr 21 2012
+                      130             124                          Peak-Hour: 12:45 PM -- 1:45 PM
+                               0.90                                                                                              0.0        0.8
+
+                           2   120     8
+                                                                  Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       323     4                             30    303
+                                                                                                                    2.2   0.0                      0.0       2.3
+        0.88   232             0.93         233   0.86
+                                                                                                                          1.7                      2.6
+       319     83                            40    240
+                                                                                                                    1.3   0.0                      2.5       1.7
+
+                         88     90     0
+                                                                                                                                 1.1 1.1 0.0
+
+                      243             178
+                               0.82                                                                                              0.4        1.1
+
+
+
+                                14                                                                                                0    1    0
+
+
+
+                                                                                                                          0                          1
+
+               11                             5                                                                           1                          1
+
+                                                                                                                          0                          0
+
+                                41                                                                                                0    3    0
+
+
+
+
+                               NA                                                                                                      NA
+
+
+
+
+               NA                           NA                                                                            NA                       NA
+
+
+
+
+                               NA                                                                                                      NA
+
+
+
+ 15-Min Count                     42nd St                          42nd St                River Rd NW                River Rd NW                  Total       Hourly
+    Period                     (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left        Thru Right         U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   12:00 PM          25          19      0         0      1       32      1    0    1      61     15    0     11      64      5        0          235
+   12:15 PM          24          18      0         0      4       28      0    0    0      61     13    0      6      54      9        0          217
+   12:30 PM          25          20      0         0      5       25      0    0    0      50     22    0     13      56      9        0          225
+   12:45 PM          17          17      0         0      1       35      1    0    0      67     20    0     12      71     10        0          251              928
+    1:00 PM          22          18      0         0      1       30      0    0    0      63     30    0      7      53      7        0          231              924
+    1:15 PM          23          31      0         0      2       29      0    0    3      44     16    0     13      49     10        0          220              927
+    1:30 PM          26          24      0         0      4       26      1    0    1      58     17    0      8      60      3        0          228              930
+    1:45 PM          16          13      0         0      3       30      0    0    1      59     20    1      7      54      9        0          213              892
+
+
+
+
+ Peak 15-Min                       Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       68         68      0     0           4     140      4     0    0     268    80     0     48     284    40     0                      1004
+ Heavy Trucks         4          0      0                 0       0      0          0       4      0           0       4     0                             12
+  Pedestrians                   60                                4                        16                          0                                   80
+    Bicycles         0           0      0                 0       0      0          0       0      0          0        0     1                              1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

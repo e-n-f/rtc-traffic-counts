@@ -1,0 +1,414 @@
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- N Portal Dr NW Int                                                                                            QC JOB #: 10695010
+ CITY/STATE: Washington, DC                                                                                                         DATE: Tue, Feb 19 2013
+                    1635            0                            Peak-Hour: 7:00 AM -- 8:00 AM                                       2.1        0.0
+
+                         0 1635 0
+                                                                Peak 15-Min: 7:30 AM -- 7:45 AM
+                                                                                                                                     0.0 2.1 0.0
+
+
+       0     0                            0   886
+                                                                                                                        0.0   0.0                      0.0      2.6
+             0               0.91         0
+                                                                                                                              0.0                      0.0
+       0     0                          886       0
+                                                                                                                        0.0   0.0                      2.6      0.0
+
+                         0    0     0
+                                                                                                                                     0.0 0.0 0.0
+
+                    2521            0
+                                                                                                                                     2.3        0.0
+
+
+
+                              4                                                                                                       0    2    0
+
+
+
+                                                                                                                              0                          0
+
+             9                            0                                                                                   0                          0
+
+                                                                                                                              0                          1
+
+                              0                                                                                                       0    0    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                         NA                                                                                    NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count                   16th St                         16th St                 N Portal Dr NW Int           N Portal Dr NW Int               Total      Hourly
+    Period                   (Northbound)                    (Southbound)                  (Eastbound)                 (Westbound)                               Totals
+ Beginning At     Left        Thru Right      U       Left    Thru Right    U       Left Thru Right          U   Left Thru Right           U
+    6:30 AM        0            0       0     0        0      260       0   0        0       0       0       0   165     0        0        0          425
+    6:45 AM        0            0       0     0        0      249       0   0        0       0       0       0   195     0        0        0          444
+    7:00 AM        0            0       0     0        0      394       0   0        0       0       0       0   192     0        0        0          586
+    7:15 AM        0            0       0     0        0      396       0   0        0       0       0       0   235     0        0        0          631            2086
+    7:30 AM        0            0       0     0        0      447       0   0        0       0       0       0   244     0        0        0          691            2352
+    7:45 AM        0            0       0     0        0      398       0   0        0       0       0       0   215     0        0        0          613            2521
+    8:00 AM        0            0       0     0        0      400       0   0        0       0       0       0   170     0        0        0          570            2505
+    8:15 AM        0            0       0     0        0      342       0   0        0       0       0       0   181     0        0        0          523            2397
+    8:30 AM        0            0       0     0        0      334       0   0        0       0       0       0   180     0        0        0          514            2220
+    8:45 AM        0            0       0     0        0      290       0   0        0       0       0       0   177     0        0        0          467            2074
+    9:00 AM        0            0       0     0        0      327       0   0        0       0       0       0   150     0        0        0          477            1981
+    9:15 AM        0            0       0     0        0      235       0   0        0       0       0       0   178     0        0        0          413            1871
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                      Eastbound                     Westbound
+   Flowrates      Left       Thru Right     U         Left Thru Right    U          Left   Thru Right    U       Left    Thru Right    U                     Total
+  All Vehicles     0           0      0     0          0 1788       0     0          0       0      0    0       976       0     0     0                     2764
+ Heavy Trucks      0           0      0                0    36      0                0       0      0             24       0     0                            60
+  Pedestrians                  0                             0                              12                             0                                  12
+    Bicycles       0           0      0                0     1      0                0       0      0              0       0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- N Portal Dr NW Int                                                                                            QC JOB #: 10695011
+ CITY/STATE: Washington, DC                                                                                                         DATE: Tue, Feb 19 2013
+                    597             0                           Peak-Hour: 11:00 AM -- 12:00 PM                                      2.7        0.0
+
+                         0   597    0
+                                                               Peak 15-Min: 11:15 AM -- 11:30 AM
+                                                                                                                                     0.0 2.7 0.0
+
+
+       1     0                            0   338
+                                                                                                                        0.0   0.0                      0.0      2.4
+             0               0.90         1
+                                                                                                                              0.0                      0.0
+       0     0                          337       0
+                                                                                                                        0.0   0.0                      2.4      0.0
+
+                         0    0     0
+                                                                                                                                     0.0 0.0 0.0
+
+                    934             0
+                                                                                                                                     2.6        0.0
+
+
+
+                              2                                                                                                       0    0    0
+
+
+
+                                                                                                                              0                          0
+
+             3                            0                                                                                   0                          0
+
+                                                                                                                              0                          0
+
+                              0                                                                                                       0    0    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                         NA                                                                                    NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count                   16th St                         16th St                 N Portal Dr NW Int           N Portal Dr NW Int               Total      Hourly
+    Period                   (Northbound)                    (Southbound)                  (Eastbound)                 (Westbound)                               Totals
+ Beginning At     Left        Thru Right      U       Left    Thru Right    U       Left Thru Right          U   Left Thru Right           U
+   11:00 AM        0            0       0     0        0      148       0   0        0       0       0       0    75     0        0        0          223
+   11:15 AM        0            0       0     0        0      160       0   0        0       0       0       0   100     1        0        0          261
+   11:30 AM        0            0       0     0        0      147       0   0        0       0       0       0    76     0        0        0          223
+   11:45 AM        0            0       0     0        0      142       0   0        0       0       0       0    86     0        0        0          228             935
+   12:00 PM        0            0       0     0        0      134       0   0        0       0       0       0    62     0        0        0          196             908
+   12:15 PM        0            0       0     0        0      138       0   0        0       0       0       0    78     0        0        0          216             863
+   12:30 PM        0            0       0     0        0      130       0   0        0       0       0       0    84     0        0        0          214             854
+   12:45 PM        0            0       0     0        0      142       0   0        0       0       0       0    75     0        0        0          217             843
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                    Eastbound                     Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U        Left   Thru Right    U       Left    Thru Right    U                     Total
+  All Vehicles     0           0      0     0          0     640      0     0        0       0      0    0       400       4     0     0                     1044
+ Heavy Trucks      0           0      0                0      28      0              0       0      0              4       0     0                            32
+  Pedestrians                  0                               8                             8                             0                                  16
+    Bicycles       0           0      0                0       0      0              0       0      0              0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- N Portal Dr NW Int                                                                                            QC JOB #: 10695012
+ CITY/STATE: Washington, DC                                                                                                         DATE: Tue, Feb 19 2013
+                    924             0                            Peak-Hour: 5:45 PM -- 6:45 PM                                       0.4        0.0
+
+                         0   924    0
+                                                                Peak 15-Min: 6:15 PM -- 6:30 PM
+                                                                                                                                     0.0 0.4 0.0
+
+
+       1     0                            0   406
+                                                                                                                        0.0   0.0                      0.0      4.2
+             0               0.91         1
+                                                                                                                              0.0                      0.0
+       0     0                          405       0
+                                                                                                                        0.0   0.0                      4.2      0.0
+
+                         0    0     0
+                                                                                                                                     0.0 0.0 0.0
+
+                    1329            0
+                                                                                                                                     1.6        0.0
+
+
+
+                              2                                                                                                       0    1    0
+
+
+
+                                                                                                                              0                          0
+
+             6                            0                                                                                   0                          0
+
+                                                                                                                              0                          0
+
+                              0                                                                                                       0    0    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                         NA                                                                                    NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count                   16th St                         16th St                 N Portal Dr NW Int           N Portal Dr NW Int               Total      Hourly
+    Period                   (Northbound)                    (Southbound)                  (Eastbound)                 (Westbound)                               Totals
+ Beginning At     Left        Thru Right      U       Left    Thru Right    U       Left Thru Right          U   Left Thru Right           U
+    3:30 PM        0            0       0     0        0      167       0   0        0       0       0       0    79     0        0        0          246
+    3:45 PM        0            0       0     0        0      187       0   0        0       0       0       0    77     0        0        0          264
+    4:00 PM        0            0       0     0        0      171       0   0        0       0       0       0    70     0        0        0          241
+    4:15 PM        0            0       0     0        0      222       0   0        0       0       0       0    89     0        0        0          311            1062
+    4:30 PM        0            0       0     0        0      161       0   0        0       0       0       0    52     0        0        0          213            1029
+    4:45 PM        0            0       0     0        0      218       0   0        0       0       0       0    86     0        0        0          304            1069
+    5:00 PM        0            0       0     0        0      199       0   0        0       0       0       0    89     0        0        0          288            1116
+    5:15 PM        0            0       0     0        0      233       0   0        0       0       0       0   113     0        0        0          346            1151
+    5:30 PM        0            0       0     0        0      211       0   0        0       0       0       0    79     0        0        0          290            1228
+    5:45 PM        0            0       0     0        0      221       0   0        0       0       0       0    88     0        0        0          309            1233
+    6:00 PM        0            0       0     0        0      235       0   0        0       0       0       0    94     0        0        0          329            1274
+    6:15 PM        0            0       0     0        0      254       0   0        0       0       0       0   112     1        0        0          367            1295
+    6:30 PM        0            0       0     0        0      214       0   0        0       0       0       0   111     0        0        0          325            1330
+    6:45 PM        0            0       0     0        0      171       0   0        0       0       0       0    95     0        0        0          266            1287
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                      Eastbound                     Westbound
+   Flowrates      Left       Thru Right     U         Left Thru Right    U          Left   Thru Right    U       Left    Thru Right    U                     Total
+  All Vehicles     0           0      0     0          0 1016       0     0          0       0      0    0       448       4     0     0                     1468
+ Heavy Trucks      0           0      0                0     4      0                0       0      0             24       0     0                            28
+  Pedestrians                  0                             0                               8                             0                                   8
+    Bicycles       0           0      0                0     1      0                0       0      0              0       0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- N Portal Dr NW Int                                                                                            QC JOB #: 10695037
+ CITY/STATE: Washington, DC                                                                                                         DATE: Tue, Feb 19 2013
+                    619             0                            Peak-Hour: 7:00 PM -- 8:00 PM                                       1.0        0.0
+
+                         0   619    0
+                                                                Peak 15-Min: 7:00 PM -- 7:15 PM
+                                                                                                                                     0.0 1.0 0.0
+
+
+       0     0                            0   284
+                                                                                                                        0.0   0.0                      0.0      3.9
+             0               0.86         0
+                                                                                                                              0.0                      0.0
+       0     0                          284       0
+                                                                                                                        0.0   0.0                      3.9      0.0
+
+                         0    0     0
+                                                                                                                                     0.0 0.0 0.0
+
+                    903             0
+                                                                                                                                     1.9        0.0
+
+
+
+                              1                                                                                                       0    0    0
+
+
+
+                                                                                                                              0                          0
+
+             5                            0                                                                                   0                          0
+
+                                                                                                                              0                          2
+
+                              0                                                                                                       0    0    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                         NA                                                                                    NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count                   16th St                         16th St                 N Portal Dr NW Int           N Portal Dr NW Int               Total      Hourly
+    Period                   (Northbound)                    (Southbound)                  (Eastbound)                 (Westbound)                               Totals
+ Beginning At     Left        Thru Right      U       Left    Thru Right    U       Left Thru Right          U   Left Thru Right           U
+    7:00 PM        0            0       0     0        0      183       0   0        0       0       0       0    80     0        0        0          263
+    7:15 PM        0            0       0     0        0      149       0   0        0       0       0       0    84     0        0        0          233
+    7:30 PM        0            0       0     0        0      146       0   0        0       0       0       0    55     0        0        0          201
+    7:45 PM        0            0       0     0        0      141       0   0        0       0       0       0    65     0        0        0          206             903
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                    Eastbound                     Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U        Left   Thru Right    U       Left    Thru Right    U                     Total
+  All Vehicles     0           0      0     0          0     732      0     0        0       0      0    0       320       0     0     0                     1052
+ Heavy Trucks      0           0      0                0      16      0              0       0      0             12       0     0                            28
+  Pedestrians                  0                               0                             0                             0                                   0
+    Bicycles       0           0      0                0       0      0              0       0      0              0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- N Portal Dr NW int                                                                                            QC JOB #: 10695009
+ CITY/STATE: Washington, DC                                                                                                         DATE: Sat, May 11 2013
+                    856             0                            Peak-Hour: 1:15 PM -- 2:15 PM                                       1.2        0.0
+
+                         0   856    0
+                                                                Peak 15-Min: 1:45 PM -- 2:00 PM
+                                                                                                                                     0.0 1.2 0.0
+
+
+       0     0                            0   442
+                                                                                                                        0.0   0.0                      0.0      2.7
+             0               0.97         0
+                                                                                                                              0.0                      0.0
+       1     1                          442       0
+                                                                                                                        0.0   0.0                      2.7      0.0
+
+                         0    0     0
+                                                                                                                                     0.0 0.0 0.0
+
+                    1299            0
+                                                                                                                                     1.7        0.0
+
+
+
+                              5                                                                                                       0    0    0
+
+
+
+                                                                                                                              0                          0
+
+             27                           0                                                                                   0                          0
+
+                                                                                                                              0                          4
+
+                              0                                                                                                       0    0    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                         NA                                                                                    NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count                   16th St                         16th St                 N Portal Dr NW int           N Portal Dr NW int               Total      Hourly
+    Period                   (Northbound)                    (Southbound)                  (Eastbound)                 (Westbound)                               Totals
+ Beginning At     Left        Thru Right      U       Left    Thru Right    U       Left Thru Right          U   Left Thru Right           U
+    1:00 PM        0            0       0     0        0      183       0   0        0       0       0       0    85     0        0        0          268
+    1:15 PM        0            0       0     0        0      230       0   0        0       0       0       0    96     0        0        0          326
+    1:30 PM        0            0       0     0        0      198       0   0        0       0       1       0   122     0        0        0          321
+    1:45 PM        0            0       0     0        0      213       0   0        0       0       0       0   121     0        0        0          334            1249
+    2:00 PM        0            0       0     0        0      215       0   0        0       0       0       0   103     0        0        0          318            1299
+    2:15 PM        0            0       0     0        0      197       0   0        0       0       0       0   121     0        0        0          318            1291
+    2:30 PM        0            0       0     0        0      203       0   0        0       0       0       0   114     0        0        0          317            1287
+    2:45 PM        0            0       0     0        0      219       0   0        0       0       0       0    95     0        0        0          314            1267
+    3:00 PM        0            0       0     0        0      206       0   0        0       0       0       0   124     0        0        0          330            1279
+    3:15 PM        0            0       0     0        0      209       0   0        0       0       0       0   109     0        0        0          318            1279
+    3:30 PM        0            0       0     0        0      219       0   0        0       0       0       0   108     0        0        0          327            1289
+    3:45 PM        0            0       0     0        0      174       0   0        0       0       0       0   100     0        0        0          274            1249
+    4:00 PM        0            0       0     0        0      211       0   0        0       0       0       0    80     0        0        0          291            1210
+    4:15 PM        0            0       0     0        0      211       1   0        0       0       0       0    93     0        0        0          305            1197
+    4:30 PM        0            0       0     0        0      199       0   0        0       0       0       0    89     0        0        0          288            1158
+    4:45 PM        0            0       0     0        0      197       0   0        0       0       0       0   107     0        0        0          304            1188
+    5:00 PM        0            0       0     0        0      202       0   0        0       0       0       0   104     0        0        0          306            1203
+    5:15 PM        0            0       0     0        0      223       1   0        0       0       0       0   100     0        0        0          324            1222
+    5:30 PM        0            0       0     0        0      171       0   0        0       0       2       0   102     1        0        0          276            1210
+    5:45 PM        0            0       0     0        0      209       0   0        0       0       0       0    97     0        0        0          306            1212
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                    Eastbound                     Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U        Left   Thru Right    U       Left    Thru Right    U                     Total
+  All Vehicles     0           0      0     0          0     852      0     0        0       0      0    0       484       0     0     0                     1336
+ Heavy Trucks      0           0      0                0      12      0              0       0      0              8       0     0                            20
+  Pedestrians                  0                              12                            36                             0                                  48
+    Bicycles       0           0      0                0       0      0              0       0      0              2       0     0                             2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

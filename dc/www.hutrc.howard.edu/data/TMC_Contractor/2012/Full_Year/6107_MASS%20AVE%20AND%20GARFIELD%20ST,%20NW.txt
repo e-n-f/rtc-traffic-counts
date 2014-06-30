@@ -1,0 +1,414 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Garfield St NW                                                                                QC JOB #: 10707213
+ CITY/STATE: Washington, DC                                                                                                   DATE: Tue, May 08 2012
+                    1255            1018                         Peak-Hour: 7:30 AM -- 8:30 AM                                 2.0        4.6
+
+                         0 1254 1
+                                                                Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                               0.0 2.0 0.0
+
+
+       192   5                             244   437
+                                                                                                                  6.8   0.0                      2.0       4.1
+             292             0.94          192
+                                                                                                                        2.1                      6.8
+       803   506                             1   294
+                                                                                                                  2.4   2.6                      0.0       2.0
+
+                         0   769     1
+                                                                                                                               0.0 5.5 0.0
+
+                    1761            770
+                                                                                                                               2.2        5.5
+
+
+
+                              10                                                                                                0    6    0
+
+
+
+                                                                                                                        0                          0
+
+             43                             39                                                                          0                          1
+
+                                                                                                                        1                          0
+
+                              11                                                                                                0    0    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                            NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count         Massachusetts Ave                    Massachusetts Ave          Garfield St NW            Garfield St NW                  Total       Hourly
+    Period              (Northbound)                         (Southbound)              (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left Thru Right      U               Left Thru Right      U    Left Thru Right       U   Left Thru Right           U
+    6:30 AM        3     94      0      0               1     119     0      0    0     15      52     0    0      7      13         0          304
+    6:45 AM        2     91      1      0               2     134     0      0    1     21      50     0    0     13      19         0          334
+    7:00 AM        0    130      0      0               0     224     0      0    0     34      78     0    0     21      33         0          520
+    7:15 AM        0    117      0      0               0     271     0      0    1     52      85     0    0     25      76         0          627             1785
+    7:30 AM        0    202      0      0               1     295     0      0    4     63     116     0    1     51      73         0          806             2287
+    7:45 AM        0    209      0      0               0     322     0      0    1     76     120     0    0     55      88         0          871             2824
+    8:00 AM        0    169      1      0               0     336     0      0    0     76     143     0    0     46      41         0          812             3116
+    8:15 AM        0    189      0      0               0     301     0      0    0     77     127     0    0     40      42         0          776             3265
+    8:30 AM        0    175      1      0               1     292     0      0    0     93     116     0    0     35      46         0          759             3218
+    8:45 AM        0    187      2      0               0     250     0      0    2     77     112     0    1     51      48         0          730             3077
+    9:00 AM        0    133      0      0               0     256     0      0    0     68     112     0    0     35      32         0          636             2901
+    9:15 AM        0    169      0      0               3     283     0      0    0     57      83     0    0     36      42         0          673             2798
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                  Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left Thru Right    U      Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         836      0     0           0 1288       0     0      4     304   480     0     0      220   352     0                      3484
+ Heavy Trucks      0          40      0                 0    16      0            0       4    12           0       12     8                              92
+  Pedestrians                 16                             24                          36                         36                                   112
+    Bicycles       0           0      0                 0     1      0            0       0      0          0        0     0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Garfield St NW                                                                               QC JOB #: 10707214
+ CITY/STATE: Washington, DC                                                                                                  DATE: Tue, May 08 2012
+                    496             766                        Peak-Hour: 12:00 PM -- 1:00 PM                                 6.0        7.3
+
+                         3   491     2
+                                                              Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                              0.0 6.1 0.0
+
+
+       130   1                            129   241
+                                                                                                                 0.8   0.0                     10.9       6.2
+             89              0.88         111
+                                                                                                                       6.7                      0.9
+       305   215                            1    93
+                                                                                                                 7.5   7.9                      0.0       6.5
+
+                       16 636        2
+                                                                                                                              0.0 6.6 0.0
+
+                    707             654
+                                                                                                                              6.6        6.4
+
+
+
+                              6                                                                                                0    3    0
+
+
+
+                                                                                                                       0                          0
+
+             13                             7                                                                          0                          0
+
+                                                                                                                       0                          0
+
+                              4                                                                                                0    2    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count         Massachusetts Ave                   Massachusetts Ave          Garfield St NW            Garfield St NW                  Total       Hourly
+    Period              (Northbound)                        (Southbound)              (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left Thru Right      U              Left Thru Right      U    Left Thru Right       U   Left Thru Right           U
+   11:00 AM        0    132      0      0              1     144     0      0    0     20      52     0    0     27      26         0          402
+   11:15 AM        2    170      0      0              1     130     0      0    0     27      46     0    0     20      21         0          417
+   11:30 AM        0    151      0      0              0     131     1      0    0     19      51     0    0     28      27         0          408
+   11:45 AM        6    145      0      0              0     145     0      0    0     21      38     0    0     24      21         0          400             1627
+   12:00 PM        3    121      1      0              1     124     3      0    1     32      50     0    0     28      31         0          395             1620
+   12:15 PM        5    165      1      0              0     155     0      0    0     20      68     0    1     33      34         0          482             1685
+   12:30 PM        5    169      0      0              0     106     0      0    0     20      45     0    0     24      35         0          404             1681
+   12:45 PM        3    181      0      0              1     106     0      0    0     17      52     0    0     26      29         0          415             1696
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     20        660      4     0          0     620      0     0    0      80   272     0     4      132   136     0                      1928
+ Heavy Trucks       0         52      0                0      68      0          0       4      8          0        0    20                             152
+  Pedestrians                  0                               0                         4                          0                                    4
+    Bicycles       0           0      0                0       1      0          0       0      0          0        0     0                              1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Garfield St NW                                                                             QC JOB #: 10707215
+ CITY/STATE: Washington, DC                                                                                                DATE: Tue, May 08 2012
+                    544          1588                          Peak-Hour: 5:30 PM -- 6:30 PM                                2.0        2.0
+
+                     0    544     0
+                                                              Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                            0.0 2.0 0.0
+
+
+       272   0                          182   446
+                                                                                                               1.1   0.0                      4.4       2.5
+             230          0.97          264
+                                                                                                                     1.3                      1.1
+       413   183                          0   233
+                                                                                                               1.2   1.1                      0.0       1.3
+
+                     8 1406 3
+                                                                                                                            0.0 1.6 0.0
+
+                    727          1417
+                                                                                                                            1.8        1.6
+
+
+
+                           26                                                                                                0    6    0
+
+
+
+                                                                                                                     0                          0
+
+             27                          49                                                                          0                          1
+
+                                                                                                                     0                          0
+
+                           11                                                                                                0    2    0
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+
+             NA                         NA                                                                           NA                       NA
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+ 15-Min Count         Massachusetts Ave                 Massachusetts Ave          Garfield St NW            Garfield St NW                  Total       Hourly
+    Period              (Northbound)                      (Southbound)              (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left Thru Right      U            Left Thru Right      U    Left Thru Right       U   Left Thru Right           U
+    3:30 PM        4    216      0      0            0     160     0      0    3     38      50     0    0     38      68         0          577
+    3:45 PM        9    237      1      0            2     111     0      0    1     47      49     0    0     50      61         0          568
+    4:00 PM        0    244      0      0            0     126     0      0    1     37      53     0    0     56      37         0          554
+    4:15 PM        0    215      0      0            1     138     0      0    1     46      38     0    0     46      46         0          531             2230
+    4:30 PM        1    258      1      0            0     108     0      0    0     59      50     0    1     60      44         0          582             2235
+    4:45 PM        0    277      0      0            0     112     0      0    0     59      51     0    0     56      57         0          612             2279
+    5:00 PM        0    324      0      0            1     116     0      0    0     45      44     0    1     60      42         0          633             2358
+    5:15 PM        0    333      0      0            2     136     0      0    0     60      45     0    0     62      48         0          686             2513
+    5:30 PM        0    377      1      0            0     132     0      0    0     61      39     0    0     73      45         0          728             2659
+    5:45 PM        3    329      1      0            0     121     0      0    0     69      36     0    0     74      44         0          677             2724
+    6:00 PM        1    344      0      0            0     146     0      0    0     51      56     0    0     55      38         0          691             2782
+    6:15 PM        4    356      1      0            0     145     0      0    0     49      52     0    0     62      55         0          724             2820
+    6:30 PM        7    322      0      0            0     122     0      0    0     39      57     0    0     46      44         0          637             2729
+    6:45 PM        8    335      0      0            0     122     0      0    0     47      56     0    0     40      60         0          668             2720
+
+
+
+
+ Peak 15-Min               Northbound                          Southbound                Eastbound                  Westbound
+   Flowrates      Left Thru Right     U             Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0 1508       4     0              0     528      0     0    0     244   156     0     0      292   180     0                      2912
+ Heavy Trucks      0    20      0                    0      20      0          0       0      4          0        0    12                              56
+  Pedestrians           28                                  36                        32                         40                                   136
+    Bicycles       0     0      0                    0       1      0          0       0      0          0        0     0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Garfield St NW                                                                             QC JOB #: 10707224
+ CITY/STATE: Washington, DC                                                                                                DATE: Tue, May 08 2012
+                    393          1202                          Peak-Hour: 7:00 PM -- 8:00 PM                                2.0        1.5
+
+                     0    393     0
+                                                              Peak 15-Min: 7:00 PM -- 7:15 PM
+                                                                                                                            0.0 2.0 0.0
+
+
+       155   0                          149   276
+                                                                                                               2.6   0.0                      2.0       2.2
+             122          0.81          127
+                                                                                                                     0.8                      2.4
+       323   201                          0   123
+                                                                                                               2.2   3.0                      0.0       0.8
+
+                     28 1053 1
+                                                                                                                            3.6 1.4 0.0
+
+                    594          1082
+                                                                                                                            2.4        1.5
+
+
+
+                           4                                                                                                 0    5    0
+
+
+
+                                                                                                                     0                          0
+
+             21                          20                                                                          2                          0
+
+                                                                                                                     0                          0
+
+                           11                                                                                                0    0    0
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+
+             NA                         NA                                                                           NA                       NA
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+ 15-Min Count         Massachusetts Ave                 Massachusetts Ave          Garfield St NW            Garfield St NW                  Total       Hourly
+    Period              (Northbound)                      (Southbound)              (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left Thru Right      U            Left Thru Right      U    Left Thru Right       U   Left Thru Right           U
+    7:00 PM        7    317      1      0            0     109     0      0    0     46      57     0    0     46      60         0          643
+    7:15 PM        4    274      0      0            0     101     0      0    0     29      63     0    0     26      40         0          537
+    7:30 PM        8    273      0      0            0      84     0      0    0     26      35     0    0     31      36         0          493
+    7:45 PM        9    189      0      0            0      99     0      0    0     21      46     0    0     24      13         0          401             2074
+
+
+
+
+ Peak 15-Min               Northbound                          Southbound                Eastbound                  Westbound
+   Flowrates      Left Thru Right     U             Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     28 1268      4     0              0     436      0     0    0     184   228     0     0      184   240     0                      2572
+ Heavy Trucks       0   24      0                    0       4      0          0       0    16           0        8     8                             60
+  Pedestrians           16                                   4                        24                          8                                   52
+    Bicycles        0    0      0                    0       2      0          0       0      0          0        0     0                              2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Garfield St NW                                                                               QC JOB #: 10707225
+ CITY/STATE: Washington, DC                                                                                                  DATE: Sat, Nov 03 2012
+                    543             786                         Peak-Hour: 12:30 PM -- 1:30 PM                                1.3        3.2
+
+                         3   537     3
+                                                                Peak 15-Min: 1:00 PM -- 1:15 PM
+                                                                                                                              0.0 1.3 0.0
+
+
+       137   1                            135   260
+                                                                                                                 1.5   0.0                      4.4       3.1
+             115             0.95         123
+                                                                                                                       0.9                      1.6
+       358   242                            2   119
+                                                                                                                 1.1   1.2                      0.0       0.8
+
+                       11 650        1
+                                                                                                                              0.0 2.9 0.0
+
+                    781             662
+                                                                                                                              1.3        2.9
+
+
+
+                              8                                                                                                0    6    1
+
+
+
+                                                                                                                       0                          1
+
+             17                            17                                                                          2                          2
+
+                                                                                                                       0                          0
+
+                              9                                                                                                0    1    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count         Massachusetts Ave                   Massachusetts Ave          Garfield St NW            Garfield St NW                  Total       Hourly
+    Period              (Northbound)                        (Southbound)              (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left Thru Right      U              Left Thru Right      U    Left Thru Right       U   Left Thru Right           U
+   12:00 PM         6   141      1      0              2     133     2      0    0     33      41     0    2     31      42         0          434
+   12:15 PM         3   140      2      0              1     140     1      0    1     30      64     0    1     33      46         0          462
+   12:30 PM         5   145      1      0              1     145     1      0    0     21      58     0    1     30      38         0          446
+   12:45 PM         2   158      0      0              1     112     1      0    1     35      59     0    1     34      31         0          435             1777
+    1:00 PM         1   184      0      0              0     137     0      0    0     27      65     0    0     29      35         0          478             1821
+    1:15 PM         3   163      0      0              1     143     1      0    0     32      60     0    0     30      31         0          464             1823
+    1:30 PM         5   148      0      0              0     135     0      0    1     30      51     0    1     23      37         0          431             1808
+    1:45 PM         4   168      0      0              1     131     2      0    0     26      54     0    0     30      30         0          446             1819
+    2:00 PM         6   158      0      0              1     111     0      0    0     28      49     0    3     29      39         0          424             1765
+    2:15 PM         6   170      0      0              1     132     1      0    0     29      61     0    0     27      33         0          460             1761
+    2:30 PM         9   170      1      0              1     125     0      0    1     24      57     0    0     42      33         0          463             1793
+    2:45 PM         6   183      0      0              1     116     4      0    0     31      53     0    0     20      29         0          443             1790
+    3:00 PM         3   154      0      0              0      92     0      0    2     25      59     0    1     19      32         0          387             1753
+    3:15 PM         2   179      0      0              1     117     4      0    0     20      51     0    0     27      26         0          427             1720
+    3:30 PM         5   153      0      0              1      91     1      0    0     33      63     0    1     33      25         0          406             1663
+    3:45 PM        12   163      2      0              0      92     0      0    0     31      61     0    0     26      29         0          416             1636
+    4:00 PM         4   156      0      0              0      96     0      0    0     37      60     0    0     33      35         0          421             1670
+    4:15 PM         2   186      0      0              1     124     2      0    1     44      59     0    2     18      38         0          477             1720
+    4:30 PM         2   175      2      0              0      88     1      0    0     24      58     0    0     34      48         0          432             1746
+    4:45 PM         5   169      0      0              0     113     1      0    1     31      63     0    0     27      28         0          438             1768
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     4         736      0     0          0     548      0     0    0     108   260     0     0      116   140     0                      1912
+ Heavy Trucks      0          12      0                0       8      0          0       0      4          0        4     0                             28
+  Pedestrians                  8                              12                        16                         16                                   52
+    Bicycles       0           0      0                0       0      0          0       0      0          0        0     1                              1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

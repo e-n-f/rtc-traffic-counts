@@ -1,0 +1,414 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St NW (West) -- Thomas Cir NW                                                                                     QC JOB #: 10863519
+ CITY/STATE: Washington, DC                                                                                                       DATE: Thu, Feb 28 2013
+                          0          145                           Peak-Hour: 8:15 AM -- 9:15 AM                                   0.0        11.0
+
+                          0    0      0
+                                                                  Peak 15-Min: 9:00 AM -- 9:15 AM
+                                                                                                                                   0.0 0.0 0.0
+
+
+       0      145                           0       0
+                                                                                                                     0.0   11.0                       0.0       0.0
+              753             0.96          0
+                                                                                                                           4.5                        0.0
+       1087   189                           0   753
+                                                                                                                     5.5   5.3                        0.0       4.5
+
+                          0    0      0
+                                                                                                                                   0.0 0.0 0.0
+
+                     189              0
+                                                                                                                                   5.3        0.0
+
+
+
+                               0                                                                                                    0    0     0
+
+
+
+                                                                                                                           24                           0
+
+              290                           0                                                                              95                           0
+
+                                                                                                                           36                           0
+
+                               0                                                                                                    0    0     0
+
+
+
+
+                              NA                                                                                                         NA
+
+
+
+
+              NA                           NA                                                                              NA                         NA
+
+
+
+
+                              NA                                                                                                         NA
+
+
+
+ 15-Min Count          14th St NW (West)                    14th St NW (West)           Thomas Cir NW             Thomas Cir NW                      Total       Hourly
+    Period               (Northbound)                         (Southbound)               (Eastbound)               (Westbound)                                   Totals
+ Beginning At      Left Thru Right              U       Left Thru Right         U   Left Thru Right   U       Left Thru Right   U
+    6:30 AM         0       0      0            0        0       0      0       0    15  117    10    0        0     0      0   0                    142
+    6:45 AM         0       0      0            0        0       0      0       0    24  104    26    0        0     0      0   0                    154
+    7:00 AM         0       0      0            0        0       0      0       0    34  142    31    0        0     0      0   0                    207
+    7:15 AM         0       0      0            0        0       0      0       0    18  139    38    0        0     0      0   0                    195              698
+    7:30 AM         0       0      0            0        0       0      0       0    21  169    45    0        0     0      0   0                    235              791
+    7:45 AM         0       0      0            0        0       0      0       0    35  149    52    0        0     0      0   0                    236              873
+    8:00 AM         0       0      0            0        0       0      0       0    35  193    43    0        0     0      0   0                    271              937
+    8:15 AM         0       0      0            0        0       0      0       0    31  194    40    0        0     0      0   0                    265             1007
+    8:30 AM         0       0      0            0        0       0      0       0    38  186    51    0        0     0      0   0                    275             1047
+    8:45 AM         0       0      0            0        0       0      0       0    41  183    39    0        0     0      0   0                    263             1074
+    9:00 AM         0       0      0            0        0       0      0       0    35  190    59    0        0     0      0   0                    284             1087
+    9:15 AM         0       0      0            0        0       0      0       0    25  170    45    0        0     0      0   0                    240             1062
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound                  Eastbound                  Westbound
+   Flowrates       Left       Thru Right     U          Left   Thru Right    U      Left   Thru Right    U    Left    Thru Right    U                        Total
+  All Vehicles      0           0      0     0           0       0      0     0     140    760   236     0     0        0     0     0                        1136
+ Heavy Trucks       0           0      0                 0       0      0            24     40    12           0        0     0                                76
+  Pedestrians                   0                                0                         304                          0                                     304
+    Bicycles        0           0      0                 0       0      0             7     27    10           0        0     0                                44
+   Railroad
+Stopped Buses
+ Comments: 1027b
+Report generated on 4/16/2013 2:28 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St NW (West) -- Thomas Cir NW                                                                                   QC JOB #: 10863520
+ CITY/STATE: Washington, DC                                                                                                     DATE: Thu, Feb 28 2013
+                         0          103                         Peak-Hour: 11:45 AM -- 12:45 PM                                  0.0        8.7
+
+                         0    0      0
+                                                               Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       0     103                           0       0
+                                                                                                                    0.0   8.7                      0.0       0.0
+             547             0.95          0
+                                                                                                                          3.1                      0.0
+       766   116                           0   547
+                                                                                                                    4.2   5.2                      0.0       3.1
+
+                         0    0      0
+                                                                                                                                 0.0 0.0 0.0
+
+                    116              0
+                                                                                                                                 5.2        0.0
+
+
+
+                              0                                                                                                   0    0    0
+
+
+
+                                                                                                                          9                          0
+
+             332                           0                                                                              12                         0
+
+                                                                                                                          8                          0
+
+                              0                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count         14th St NW (West)                    14th St NW (West)           Thomas Cir NW             Thomas Cir NW                    Total       Hourly
+    Period              (Northbound)                         (Southbound)               (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left Thru Right              U       Left Thru Right         U   Left Thru Right   U       Left Thru Right   U
+   11:00 AM        0       0      0            0        0       0      0       0    32  108    31    0        0     0      0   0                  171
+   11:15 AM        0       0      0            0        0       0      0       0    36  121    36    0        0     0      0   0                  193
+   11:30 AM        0       0      0            0        0       0      0       0    32  113    30    0        0     0      0   0                  175
+   11:45 AM        0       0      0            0        0       0      0       0    28  145    27    0        0     0      0   0                  200              739
+   12:00 PM        0       0      0            0        0       0      0       0    22  136    23    0        0     0      0   0                  181              749
+   12:15 PM        0       0      0            0        0       0      0       0    30  122    32    0        0     0      0   0                  184              740
+   12:30 PM        0       0      0            0        0       0      0       0    23  144    34    0        0     0      0   0                  201              766
+   12:45 PM        0       0      0            0        0       0      0       0    27  140    28    0        0     0      0   0                  195              761
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                  Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U      Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0           0      0     0           0       0      0     0      92    576   136     0     0        0     0     0                      804
+ Heavy Trucks      0           0      0                 0       0      0             0     20      4          0        0     0                             24
+  Pedestrians                  0                                0                         396                          0                                  396
+    Bicycles       0           0      0                 0       0      0            1       1      3          0        0     0                              5
+   Railroad
+Stopped Buses
+ Comments: 1027b
+Report generated on 4/16/2013 2:28 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St NW (West) -- Thomas Cir NW                                                                                   QC JOB #: 10863521
+ CITY/STATE: Washington, DC                                                                                                     DATE: Thu, Feb 28 2013
+                         0          129                           Peak-Hour: 4:15 PM -- 5:15 PM                                  0.0        6.2
+
+                         0    0      0
+                                                                 Peak 15-Min: 4:30 PM -- 4:45 PM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       0     129                           0       0
+                                                                                                                    0.0   6.2                      0.0       0.0
+             641             0.96          0
+                                                                                                                          4.8                      0.0
+       891   121                           0   641
+                                                                                                                    4.6   1.7                      0.0       4.8
+
+                         0    0      0
+                                                                                                                                 0.0 0.0 0.0
+
+                    121              0
+                                                                                                                                 1.7        0.0
+
+
+
+                              0                                                                                                   0    0    0
+
+
+
+                                                                                                                          5                          0
+
+             319                           0                                                                              6                          0
+
+                                                                                                                          4                          0
+
+                              0                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count         14th St NW (West)                    14th St NW (West)           Thomas Cir NW             Thomas Cir NW                    Total       Hourly
+    Period              (Northbound)                         (Southbound)               (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left Thru Right              U       Left Thru Right         U   Left Thru Right   U       Left Thru Right   U
+    3:30 PM        0       0      0            0        0       0      0       0    27  156    25    0        0     0      0   0                  208
+    3:45 PM        0       0      0            0        0       0      0       0    28  124    28    0        0     0      0   0                  180
+    4:00 PM        0       0      0            0        0       0      0       0    26  134    29    0        0     0      0   0                  189
+    4:15 PM        0       0      0            0        0       0      0       0    28  152    25    0        0     0      0   0                  205              782
+    4:30 PM        0       0      0            0        0       0      0       0    38  161    33    0        0     0      0   0                  232              806
+    4:45 PM        0       0      0            0        0       0      0       0    33  152    37    0        0     0      0   0                  222              848
+    5:00 PM        0       0      0            0        0       0      0       0    30  176    26    0        0     0      0   0                  232              891
+    5:15 PM        0       0      0            0        0       0      0       0    23  123    37    0        0     0      0   0                  183              869
+    5:30 PM        0       0      0            0        0       0      0       0    32  145    34    0        0     0      0   0                  211              848
+    5:45 PM        0       0      0            0        0       0      0       0    39  155    29    0        0     0      0   0                  223              849
+    6:00 PM        0       0      0            0        0       0      0       0    31  143    26    0        0     0      0   0                  200              817
+    6:15 PM        0       0      0            0        0       0      0       0    26  134    36    0        0     0      0   0                  196              830
+    6:30 PM        0       0      0            0        0       0      0       0    20  140    33    0        0     0      0   0                  193              812
+    6:45 PM        0       0      0            0        0       0      0       0    39  130    30    0        0     0      0   0                  199              788
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                  Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U      Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0           0      0     0           0       0      0     0     152    644   132     0     0        0     0     0                      928
+ Heavy Trucks      0           0      0                 0       0      0             8     44      0          0        0     0                             52
+  Pedestrians                  0                                0                         244                          0                                  244
+    Bicycles       0           0      0                 0       0      0             1      2      1          0        0     0                              4
+   Railroad
+Stopped Buses
+ Comments: 1027b
+Report generated on 4/16/2013 2:28 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St NW (West) -- Thomas Cir NW                                                                                   QC JOB #: 10863555
+ CITY/STATE: Washington, DC                                                                                                     DATE: Thu, Feb 28 2013
+                         0          138                           Peak-Hour: 7:00 PM -- 8:00 PM                                  0.0        4.3
+
+                         0    0      0
+                                                                 Peak 15-Min: 7:30 PM -- 7:45 PM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       0     138                           0       0
+                                                                                                                    0.0   4.3                      0.0       0.0
+             505             0.90          0
+                                                                                                                          3.2                      0.0
+       738   95                            0   505
+                                                                                                                    3.1   1.1                      0.0       3.2
+
+                         0    0      0
+                                                                                                                                 0.0 0.0 0.0
+
+                       95            0
+                                                                                                                                 1.1        0.0
+
+
+
+                              0                                                                                                   0    0    0
+
+
+
+                                                                                                                          4                          0
+
+             122                           0                                                                              5                          0
+
+                                                                                                                          0                          0
+
+                              0                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count         14th St NW (West)                    14th St NW (West)           Thomas Cir NW             Thomas Cir NW                    Total       Hourly
+    Period              (Northbound)                         (Southbound)               (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left Thru Right              U       Left Thru Right         U   Left Thru Right   U       Left Thru Right   U
+    7:00 PM        0       0      0            0        0       0      0       0    24  131    30    0        0     0      0   0                  185
+    7:15 PM        0       0      0            0        0       0      0       0    41  121    18    0        0     0      0   0                  180
+    7:30 PM        0       0      0            0        0       0      0       0    44  140    21    0        0     0      0   0                  205
+    7:45 PM        0       0      0            0        0       0      0       0    29  113    26    0        0     0      0   0                  168              738
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                  Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U      Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0           0      0     0           0       0      0     0     176    560    84     0     0        0     0     0                      820
+ Heavy Trucks      0           0      0                 0       0      0             8     24      4          0        0     0                             36
+  Pedestrians                  0                                0                         116                          0                                  116
+    Bicycles       0           0      0                 0       0      0             2      1      0          0        0     0                              3
+   Railroad
+Stopped Buses
+ Comments: 1027b
+Report generated on 4/16/2013 2:29 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St NW (West) -- Thomas Cir NW                                                                                   QC JOB #: 10863556
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Mar 16 2013
+                         0          166                           Peak-Hour: 3:30 PM -- 4:30 PM                                  0.0        3.6
+
+                         0    0      0
+                                                                 Peak 15-Min: 4:15 PM -- 4:30 PM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       0     166                           0       0
+                                                                                                                    0.0   3.6                      0.0       0.0
+             600             0.95          0
+                                                                                                                          2.7                      0.0
+       862   96                            0   600
+                                                                                                                    2.7   1.0                      0.0       2.7
+
+                         0    0      0
+                                                                                                                                 0.0 0.0 0.0
+
+                       96            0
+                                                                                                                                 1.0        0.0
+
+
+
+                              0                                                                                                   0    0    0
+
+
+
+                                                                                                                          3                          0
+
+             139                           0                                                                              31                         0
+
+                                                                                                                          2                          0
+
+                              0                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count         14th St NW (West)                    14th St NW (West)           Thomas Cir NW             Thomas Cir NW                    Total       Hourly
+    Period              (Northbound)                         (Southbound)               (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left Thru Right              U       Left Thru Right         U   Left Thru Right   U       Left Thru Right   U
+    1:00 PM        0       0      0            0        0       0      0       0    23  141    22    0        0     0      0   0                  186
+    1:15 PM        0       0      0            0        0       0      0       0    31  143    14    0        0     0      0   0                  188
+    1:30 PM        0       0      0            0        0       0      0       0    29  135    25    0        0     0      0   0                  189
+    1:45 PM        0       0      0            0        0       0      0       0    34  139    27    0        0     0      0   0                  200              763
+    2:00 PM        0       0      0            0        0       0      0       0    35  130    28    0        0     0      0   0                  193              770
+    2:15 PM        0       0      0            0        0       0      0       0    40  158    23    0        0     0      0   0                  221              803
+    2:30 PM        0       0      0            0        0       0      0       0    33  155    22    0        0     0      0   0                  210              824
+    2:45 PM        0       0      0            0        0       0      0       0    29  152    27    0        0     0      0   0                  208              832
+    3:00 PM        0       0      0            0        0       0      0       0    36  140    25    0        0     0      0   0                  201              840
+    3:15 PM        0       0      0            0        0       0      0       0    42  146    24    0        0     0      0   0                  212              831
+    3:30 PM        0       0      0            0        0       0      0       0    50  152    20    0        0     0      0   0                  222              843
+    3:45 PM        0       0      0            0        0       0      0       0    41  144    26    0        0     0      0   0                  211              846
+    4:00 PM        0       0      0            0        0       0      0       0    42  139    21    0        0     0      0   0                  202              847
+    4:15 PM        0       0      0            0        0       0      0       0    33  165    29    0        0     0      0   0                  227              862
+    4:30 PM        0       0      0            0        0       0      0       0    43  159    19    0        0     0      0   0                  221              861
+    4:45 PM        0       0      0            0        0       0      0       0    34  136    28    0        0     0      0   0                  198              848
+    5:00 PM        0       0      0            0        0       0      0       0    37  127    17    0        0     0      0   0                  181              827
+    5:15 PM        0       0      0            0        0       0      0       0    30  121    20    0        0     0      0   0                  171              771
+    5:30 PM        0       0      0            0        0       0      0       0    34  135    27    0        0     0      0   0                  196              746
+    5:45 PM        0       0      0            0        0       0      0       0    32  121    28    0        0     0      0   0                  181              729
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                  Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U      Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0           0      0     0           0       0      0     0     132    660   116     0     0        0     0     0                      908
+ Heavy Trucks      0           0      0                 0       0      0             4     20      4          0        0     0                             28
+  Pedestrians                  0                                0                         140                          0                                  140
+    Bicycles       0           0      0                 0       0      0             1     10      1          0        0     0                             12
+   Railroad
+Stopped Buses
+ Comments: 1027b
+Report generated on 4/16/2013 2:29 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

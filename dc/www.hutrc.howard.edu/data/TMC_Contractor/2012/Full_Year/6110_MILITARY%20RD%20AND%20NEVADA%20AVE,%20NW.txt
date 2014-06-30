@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Nevada Ave NW -- Military Rd NW                                                                                      QC JOB #: 10706753
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Feb 22 2012
+                      183            158                            Peak-Hour: 7:15 AM -- 8:15 AM
+                              0.88                                                                                               1.6        1.9
+
+                         31 151       1
+                                                                   Peak 15-Min: 7:30 AM -- 7:45 AM
+                                                                                                                                 0.0 1.3 100.0
+
+
+       598     21                           38    601
+                                                                                                                    4.7   0.0                      2.6       5.0
+        0.86   0              0.98         552   0.89
+                                                                                                                          0.0                      5.1
+       283     262                          11      1
+                                                                                                                    3.5   3.8                      9.1     100.0
+
+                         15    99     0
+                                                                                                                                 0.0 2.0 0.0
+
+                      424            114
+                              0.92                                                                                               3.1        1.8
+
+
+
+                               1                                                                                                  0    1    0
+
+
+
+                                                                                                                          0                          0
+
+               2                             1                                                                            0                          0
+
+                                                                                                                          0                          0
+
+                               1                                                                                                  0    0    0
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+
+               NA                          NA                                                                             NA                       NA
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+ 15-Min Count              Nevada Ave NW                       Nevada Ave NW            Military Rd NW            Military Rd NW                  Total        Hourly
+    Period                  (Northbound)                        (Southbound)             (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left     Thru Right  U              Left     Thru Right  U     Left Thru Right       U   Left Thru Right           U
+    7:00 AM          3         9     0   0               0        17     1   0       1      0     65     0    0    111       6         0          213
+    7:15 AM          4        17     0   0               1        41     5   0       5      0     77     0    5    131       8         0          294
+    7:30 AM          0        24     0   0               0        34     7   0       3      0     66     0    4    154      10         0          302
+    7:45 AM          8        25     0   0               0        40     8   0       3      0     63     0    0    138       9         0          294             1103
+    8:00 AM          3        33     0   0               0        36    11   0      10      0     56     0    2    129      11         0          291             1181
+    8:15 AM          6        32     0   0               0        44     7   0       3      0     57     0    0    114       5         0          268             1155
+    8:30 AM          7        26     0   0               0        44     7   0       8      0     50     0    3    135       5         0          285             1138
+    8:45 AM          3        22     0   0               0        50     9   0      10      0     54     0    2    125       6         0          281             1125
+
+
+
+
+ Peak 15-Min                      Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates        Left      Thru Right     U          Left    Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       0         96      0     0           0      136     28     0    12      0   264     0     16     616    40     0                      1208
+ Heavy Trucks        0          8      0                 0        0      0           0      0      8           0      24     0                             40
+  Pedestrians                   0                                 4                         0                          0                                    4
+    Bicycles         0          0      0                 0        1      0          0       0      0          0        0     0                              1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Nevada Ave NW -- Military Rd NW                                                                                        QC JOB #: 10706754
+ CITY/STATE: Washington, DC                                                                                                       DATE: Wed, Feb 22 2012
+                      101              161                           Peak-Hour: 12:00 PM -- 1:00 PM
+                                0.59                                                                                               5.0        4.3
+
+                           9     92     0
+                                                                    Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                                   11.1 4.3 0.0
+
+
+       343     26                             19    325
+                                                                                                                      5.2   3.8                      5.3       4.9
+        0.91   0                0.92         302   0.88
+                                                                                                                            0.0                      4.6
+       239     213                             4      1
+                                                                                                                      5.0   5.2                     25.0     100.0
+
+                         32 116         1
+                                                                                                                                   9.4 4.3 100.0
+
+                      309              149
+                                0.76                                                                                               5.2        6.0
+
+
+
+                                 6                                                                                                  0    0    0
+
+
+
+                                                                                                                            0                          0
+
+               0                               5                                                                            0                          0
+
+                                                                                                                            0                          0
+
+                                 4                                                                                                  0    0    0
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+
+               NA                            NA                                                                             NA                       NA
+
+
+
+
+                                NA                                                                                                       NA
+
+
+
+ 15-Min Count                  Nevada Ave NW                     Nevada Ave NW            Military Rd NW            Military Rd NW                  Total        Hourly
+    Period                      (Northbound)                      (Southbound)             (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left         Thru Right  U            Left     Thru Right  U     Left Thru Right       U   Left Thru Right           U
+   11:00 AM           3           12     0   0             0        24     1   0       7      1     38     0    4     58       4         0          152
+   11:15 AM           0           16     0   0             0        19     1   0       2      0     42     0    4     59       8         0          151
+   11:30 AM           2           22     1   0             0        21     3   0       3      0     46     0    1     84       6         0          189
+   11:45 AM           1           23     0   0             0        51     7   0       2      0     57     0    1     66       3         0          211              703
+   12:00 PM           5           15     0   0             0        34     0   0       9      0     57     0    1     72       3         0          196              747
+   12:15 PM          10           39     0   0             0        15     4   0       4      0     48     0    1     63       5         0          189              785
+   12:30 PM          10           32     1   0             0        17     2   0       3      0     55     0    1     80       7         0          208              804
+   12:45 PM           7           30     0   0             0        26     3   0      10      0     53     0    1     87       4         0          221              814
+
+
+
+
+ Peak 15-Min                        Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates        Left        Thru Right     U          Left    Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       28         120      0     0           0      104     12     0    40      0   212     0     4      348    16     0                      884
+ Heavy Trucks         0           4      0                 0        4      0           0      0      8          0       20     0                             36
+  Pedestrians                     4                                12                         0                          0                                   16
+    Bicycles         0            0      0                 0        0      0          0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Nevada Ave NW -- Military Rd NW                                                                                      QC JOB #: 10706755
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Feb 22 2012
+                         83          352                            Peak-Hour: 5:15 PM -- 6:15 PM
+                              0.90                                                                                               0.0        0.3
+
+                         54    29     0
+                                                                   Peak 15-Min: 5:45 PM -- 6:00 PM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       485     166                          26    432
+                                                                                                                    0.2   0.0                      0.0       0.2
+        0.88   0              0.94         403   0.85
+                                                                                                                          0.0                      0.2
+       343     177                           3      0
+                                                                                                                    0.9   1.7                      0.0       0.0
+
+                         26 162       0
+                                                                                                                                 0.0 0.6 0.0
+
+                      209            188
+                              0.92                                                                                               1.4        0.5
+
+
+
+                               1                                                                                                  0    2    0
+
+
+
+                                                                                                                          0                          0
+
+               12                            2                                                                            1                          0
+
+                                                                                                                          1                          0
+
+                               0                                                                                                  0    1    0
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+
+               NA                          NA                                                                             NA                       NA
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+ 15-Min Count              Nevada Ave NW                       Nevada Ave NW            Military Rd NW            Military Rd NW                  Total       Hourly
+    Period                  (Northbound)                        (Southbound)             (Eastbound)               (Westbound)                                Totals
+ Beginning At       Left     Thru Right  U              Left     Thru Right  U     Left Thru Right       U   Left Thru Right           U
+    4:30 PM          5        29     0   0               0         0    20   0      34      0     44     0    3    108       6         0          249
+    4:45 PM          7        27     0   0               0         9    12   1      45      0     54     0    0     96       6         0          257
+    5:00 PM          6        34     0   0               0         8    16   0      26      0     49     0    1     69       2         0          211
+    5:15 PM          5        42     0   0               0         9    10   0      34      0     48     0    0    100       5         0          253              970
+    5:30 PM          5        46     0   0               0         9    16   0      45      0     47     0    1    100       3         0          272              993
+    5:45 PM          7        41     0   0               0         7    10   0      44      0     41     1    1    114      12         0          278             1014
+    6:00 PM          9        33     0   0               0         4    18   0      41      0     41     1    1     89       6         0          243             1046
+    6:15 PM          4        32     0   0               0         5    15   0      34      0     48     0    0     97       6         0          241             1034
+
+
+
+
+ Peak 15-Min                      Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates        Left      Thru Right     U          Left    Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       28       164      0     0           0       28     40     0   176      0   164     4     4      456    48     0                      1112
+ Heavy Trucks         0         0      0                 0        0      0           0      0      4          0        0     0                              4
+  Pedestrians                   0                                 4                         4                          4                                   12
+    Bicycles         0          0      0                 0        0      0           0      0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Nevada Ave NW -- Military Rd NW                                                                                     QC JOB #: 10706756
+ CITY/STATE: Washington, DC                                                                                                    DATE: Sat, Dec 01 2012
+                      175          160                           Peak-Hour: 12:45 PM -- 1:45 PM
+                            0.81                                                                                                1.7        1.3
+
+                         14 125 36
+                                                                 Peak 15-Min: 1:30 PM -- 1:45 PM
+                                                                                                                                7.1 0.8 2.8
+
+
+       442     9                          18    396
+                                                                                                                  2.0   11.1                      0.0       2.0
+        0.85   338          0.96         375   0.85
+                                                                                                                        2.4                       2.1
+       369     22                          3    378
+                                                                                                                  2.7   4.5                       0.0       2.4
+
+                         53 132     5
+                                                                                                                                0.0 0.8 0.0
+
+                      150          190
+                            0.86                                                                                                1.3        0.5
+
+
+
+                             5                                                                                                   0    6    0
+
+
+
+                                                                                                                        0                           0
+
+               10                          4                                                                            0                           1
+
+                                                                                                                        0                           0
+
+                             3                                                                                                   0    1    0
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+
+               NA                        NA                                                                             NA                        NA
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+ 15-Min Count              Nevada Ave NW                     Nevada Ave NW            Military Rd NW            Military Rd NW                   Total       Hourly
+    Period                  (Northbound)                      (Southbound)             (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left     Thru Right  U            Left     Thru Right  U     Left Thru Right       U   Left Thru Right            U
+   12:00 PM           9       38     1   0              6       42     2   0      3     68       3     0    1     78       1          0          252
+   12:15 PM           6       19     0   0              8       23     2   0      1     63       4     0    2     76       2          0          206
+   12:30 PM          12       29     0   0              9       25     3   0      0     64       8     0    0     67       2          0          219
+   12:45 PM          12       36     2   0              8       19     2   0      1     81       5     0    1     88       5          0          260              937
+    1:00 PM          18       25     1   0              9       36     1   0      0     91       6     0    0     99       1          0          287              972
+    1:15 PM           9       40     1   0             12       29     4   1      6     95       7     0    0     80       6          0          290             1056
+    1:30 PM          14       31     1   0              6       41     7   0      2     71       4     0    2    108       6          0          293             1130
+    1:45 PM          18       38     1   0              6       18     5   0      3     64       8     0    3     74      13          0          251             1121
+
+
+
+
+ Peak 15-Min                    Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U          Left    Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles       56     124      4     0           24     164     28     0    8     284    16     0     8      432    24     0                       1172
+ Heavy Trucks         0       4      0                  0       4      4          4      20      0          0        8     0                              44
+  Pedestrians                 0                                 4                        20                          0                                    24
+    Bicycles         0        0      0                 0        5      0          0       0      0          0        0     0                               5
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

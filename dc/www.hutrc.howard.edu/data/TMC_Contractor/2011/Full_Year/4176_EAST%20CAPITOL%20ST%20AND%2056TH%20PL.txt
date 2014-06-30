@@ -1,0 +1,369 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 56th Pl -- E Capitol St                                                                                            QC JOB #: 10655784
+ CITY/STATE: Washington, DC                                                                                                   DATE: Tue, Sep 27 2011
+                          0          0                             Peak-Hour: 7:20 AM -- 8:20 AM                               0.0         0.0
+
+                          0    0     0
+                                                                  Peak 15-Min: 7:50 AM -- 8:05 AM
+                                                                                                                               0.0 0.0 0.0
+
+       1960   0                              0   1961
+                                                                                                                 2.0   0.0                         0.0      2.0
+              394             0.95        1960
+                                                                                                                       6.3                         2.0
+       401    7                              1    416
+                                                                                                                 6.5   14.3                        0.0      6.3
+
+                          0    0     22
+                                                                                                                               0.0 0.0 4.5
+
+                          8          22
+                                                                                                                               12.5        4.5
+
+
+
+                               75                                                                                               0     0    0
+
+
+                                                                                                                       0                            0
+
+              45                            14                                                                         0                            0
+
+                                                                                                                       0                            0
+
+
+                               19                                                                                               0     0    0
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+
+              NA                           NA                                                                          NA                          NA
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+ 5-Min Count                     56th Pl                          56th Pl                E Capitol St              E Capitol St
+     Period                   (Northbound)                     (Southbound)              (Eastbound)              (Westbound)                                Hourly
+Beginning At                                                                                                                                     Total
+                   Left        Thru Right     U         Left    Thru Right    U   Left   Thru Right      U   Left Thru Right          U                      Totals
+     7:00 AM         0           0       1    0           0       0       0   0     0     19       0     0     0   140       0        0          160
+     7:05 AM         0           0       1    0           0       0       0   0     0     20       0     0     0   148       0        0          169
+     7:10 AM         0           0       0    0           0       0       0   0     0     18       0     0     0   164       0        0          182
+     7:15 AM         0           0       1    0           0       0       0   0     0     17       0     0     0   157       0        0          175
+     7:20 AM         0           0       4    0           0       0       0   0     0     27       0     0     0   163       0        0          194
+     7:25 AM         0           0       1    0           0       0       0   0     0     24       0     0     0   175       0        0          200
+     7:30 AM         0           0       1    0           0       0       0   0     0     17       0     0     0   179       0        0          197
+     7:35 AM         0           0       0    0           0       0       0   0     0     21       0     0     0   162       0        0          183
+     7:40 AM         0           0       1    0           0       0       0   0     0     37       1     0     0   159       0        0          198
+     7:45 AM         0           0       1    0           0       0       0   0     0     31       1     0     0   169       0        0          202
+     7:50 AM         0           0       3    0           0       0       0   0     0     44       2     0     1   162       0        0          212
+     7:55 AM         0           0       2    0           0       0       0   0     0     34       1     0     0   157       0        0          194             2266
+     8:00 AM         0           0       2    0           0       0       0   0     0     44       0     0     0   178       0        0          224             2330
+     8:05 AM         0           0       2    0           0       0       0   0     0     39       0     0     0   142       0        0          183             2344
+     8:10 AM         0           0       2    0           0       0       0   0     0     34       0     0     0   165       0        0          201             2363
+     8:15 AM         0           0       3    0           0       0       0   0     0     42       2     0     0   149       0        0          196             2384
+     8:20 AM         0           0       2    0           0       0       0   0     0     21       0     0     0   167       0        0          190             2380
+     8:25 AM         0           0       1    0           0       0       0   0     0     33       1     0     0   153       0        0          188             2368
+     8:30 AM         0           0       3    0           0       0       0   0     0     24       1     0     0   140       0        0          168             2339
+     8:35 AM         0           0       1    0           0       0       0   0     0     41       2     0     0   125       0        0          169             2325
+     8:40 AM         0           0       2    0           0       0       0   0     0     25       0     0     0   142       0        0          169             2296
+     8:45 AM         0           0       0    0           0       0       0   0     0     28       1     0     0   112       0        0          141             2235
+     8:50 AM         0           0       0    0           0       0       0   0     0     25       0     0     0   143       0        0          168             2191
+     8:55 AM         0           0       0    0           0       0       0   0     0     32       1     0     0   119       0        0          152             2149
+ Peak 15-Min                       Northbound                      Southbound                Eastbound                 Westbound
+                                                                                                                                                         Total
+  Flowrates        Left        Thru Right     U         Left    Thru Right    U   Left   Thru Right      U   Left Thru Right          U
+  All Vehicles       0           0      28    0           0       0       0   0     0    488     12      0     4 1988        0        0                  2520
+ Heavy Trucks        0           0       0                0       0       0         0     36       0           0    24       0                            60
+  Pedestrians                   20                              140                       84                        16                                    260
+   Bicycles          0           0       0                0       0       0         0      0       0           0     0       0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/19/2011 12:00 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: 56th Pl -- E Capitol St                                                                                           QC JOB #: 10655785
+ CITY/STATE: Washington, DC                                                                                                  DATE: Tue, Sep 27 2011
+                         0          0                          Peak-Hour: 11:50 AM -- 12:50 PM                                0.0        0.0
+
+                         0    0     0
+                                                              Peak 15-Min: 12:35 PM -- 12:50 PM
+                                                                                                                              0.0 0.0 0.0
+
+       458   0                             0   458
+                                                                                                                 2.6   0.0                       0.0      2.6
+             448             0.93        458
+                                                                                                                       3.8                       2.6
+       459   11                            0   461
+                                                                                                                 3.7   0.0                       0.0      3.7
+
+                         0    0     13
+                                                                                                                              0.0 0.0 0.0
+
+                        11          13
+                                                                                                                              0.0        0.0
+
+
+
+                              4                                                                                                0    0    0
+
+
+                                                                                                                       0                          0
+
+             2                             1                                                                           0                          0
+
+                                                                                                                       0                          0
+
+
+                              2                                                                                                0    0    0
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+
+             NA                          NA                                                                            NA                        NA
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+ 5-Min Count                    56th Pl                        56th Pl                E Capitol St                 E Capitol St
+     Period                  (Northbound)                   (Southbound)              (Eastbound)                 (Westbound)                                Hourly
+Beginning At                                                                                                                                   Total
+                  Left        Thru Right     U       Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U                        Totals
+   11:00 AM         0           0       0    0         0       0       0   0     0     34       1     0     0       45       0      0           80
+   11:05 AM         0           0       1    0         0       0       0   0     0     26       0     0     0       46       0      0           73
+   11:10 AM         0           0       2    0         0       0       0   0     0     29       0     0     0       60       0      0           91
+   11:15 AM         0           0       2    0         0       0       0   0     0     41       0     0     0       38       0      0           81
+   11:20 AM         0           0       2    0         0       0       0   0     0     27       0     0     0       32       0      0           61
+   11:25 AM         0           0       0    0         0       0       0   0     0     28       0     0     0       37       0      0           65
+   11:30 AM         0           0       0    1         0       0       0   0     0     35       1     0     1       44       0      0           82
+   11:35 AM         1           0       2    0         0       0       0   0     0     32       0     0     0       27       0      0           62
+   11:40 AM         0           0       1    0         0       0       0   0     0     28       0     0     0       37       0      0           66
+   11:45 AM         0           0       1    0         0       0       0   0     0     38       2     0     0       35       0      0           76
+   11:50 AM         0           0       0    0         0       0       0   0     0     47       1     0     0       43       0      0           91
+   11:55 AM         0           0       3    0         0       0       0   0     0     40       0     0     0       37       0      0           80              908
+   12:00 PM         0           0       2    0         0       0       0   0     0     30       2     0     0       40       0      0           74              902
+   12:05 PM         0           0       2    0         0       0       0   0     0     34       1     0     0       33       0      0           70              899
+   12:10 PM         0           0       1    0         0       0       0   0     0     36       1     0     0       31       0      0           69              877
+   12:15 PM         0           0       2    0         0       0       0   0     0     35       1     0     0       37       0      0           75              871
+   12:20 PM         0           0       2    0         0       0       0   0     0     42       0     0     0       36       0      0           80              890
+   12:25 PM         0           0       0    0         0       0       0   0     0     40       1     0     0       43       0      0           84              909
+   12:30 PM         0           0       1    0         0       0       0   0     0     31       2     0     0       24       0      0           58              885
+   12:35 PM         0           0       0    0         0       0       0   0     0     34       2     0     0       53       0      0           89              912
+   12:40 PM         0           0       0    0         0       0       0   0     0     35       0     0     0       44       0      0           79              925
+   12:45 PM         0           0       0    0         0       0       0   0     0     44       0     0     0       37       0      0           81              930
+   12:50 PM         0           0       0    0         0       0       0   0     0     34       1     0     0       40       0      0           75              914
+   12:55 PM         0           0       1    0         0       0       0   0     0     25       1     0     0       37       0      0           64              898
+ Peak 15-Min                      Northbound                    Southbound                Eastbound                    Westbound
+                                                                                                                                                       Total
+  Flowrates       Left        Thru Right     U       Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles      0           0       0    0         0       0       0   0     0    452       8     0     0      536       0      0                  996
+ Heavy Trucks       0           0       0              0       0       0         0     20       0           0        4       0                         24
+  Pedestrians                   0                              0                        4                            0                                  4
+    Bicycles        0           0       0              0       0       0         0      0       0           0        0       0                          0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/19/2011 12:00 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 56th Pl -- E Capitol St                                                                                           QC JOB #: 10655786
+ CITY/STATE: Washington, DC                                                                                                  DATE: Tue, Sep 27 2011
+                          0          0                            Peak-Hour: 5:00 PM -- 6:00 PM                               0.0        0.0
+
+                          0    0     0
+                                                                 Peak 15-Min: 5:45 PM -- 6:00 PM
+                                                                                                                              0.0 0.0 0.0
+
+       506    0                             0    506
+                                                                                                                 2.2   0.0                       0.0      2.2
+              1540            0.97        506
+                                                                                                                       1.3                       2.2
+       1553   13                            0   1557
+                                                                                                                 1.3   0.0                       0.0      1.3
+
+                          0    0     17
+                                                                                                                              0.0 0.0 0.0
+
+                         13          17
+                                                                                                                              0.0        0.0
+
+
+
+                               38                                                                                              0    0    0
+
+
+                                                                                                                       0                          0
+
+              22                            3                                                                          1                          0
+
+                                                                                                                       0                          0
+
+
+                               9                                                                                               0    0    0
+
+
+
+
+                               NA                                                                                                   NA
+
+
+
+
+              NA                          NA                                                                           NA                        NA
+
+
+
+
+                               NA                                                                                                   NA
+
+
+
+ 5-Min Count                     56th Pl                         56th Pl              E Capitol St                 E Capitol St
+     Period                   (Northbound)                    (Southbound)            (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                   Total
+                   Left        Thru Right     U        Left    Thru Right    U   Left Thru Right      U   Left     Thru Right       U                      Totals
+     4:30 PM         0           0       1    0          0       0       0   0     0   96       3     0     0       42       0      0          142
+     4:35 PM         0           0       4    0          0       0       0   0     0  124       1     0     0       42       0      0          171
+     4:40 PM         0           0       0    0          0       0       0   0     0  119       1     0     0       44       0      0          164
+     4:45 PM         0           0       5    0          0       0       0   0     0  126       3     0     0       40       0      0          174
+     4:50 PM         0           0       1    0          0       0       0   0     0  103       0     0     0       42       0      0          146
+     4:55 PM         0           0       2    0          0       0       0   0     0  125       2     0     0       32       0      0          161
+     5:00 PM         0           0       2    0          0       0       0   0     0  125       1     0     0       51       0      0          179
+     5:05 PM         0           0       1    0          0       0       0   0     0  128       0     0     0       56       0      0          185
+     5:10 PM         0           0       0    0          0       0       0   0     0  131       0     0     0       39       0      0          170
+     5:15 PM         0           0       1    0          0       0       0   0     0  125       3     0     0       37       0      0          166
+     5:20 PM         0           0       0    0          0       0       0   0     0  117       0     0     0       48       0      0          165
+     5:25 PM         0           0       1    0          0       0       0   0     0  129       1     0     0       40       0      0          171             1994
+     5:30 PM         0           0       3    0          0       0       0   0     0  132       1     0     0       41       0      0          177             2029
+     5:35 PM         0           0       3    0          0       0       0   0     0  139       0     0     0       40       0      0          182             2040
+     5:40 PM         0           0       2    0          0       0       0   0     0  109       2     0     0       32       0      0          145             2021
+     5:45 PM         0           0       1    0          0       0       0   0     0  153       3     0     0       39       0      0          196             2043
+     5:50 PM         0           0       1    0          0       0       0   0     0  122       2     0     0       42       0      0          167             2064
+     5:55 PM         0           0       2    0          0       0       0   0     0  130       0     0     0       41       0      0          173             2076
+     6:00 PM         0           0       4    0          0       0       0   0     0  108       0     0     0       50       0      0          162             2059
+     6:05 PM         0           0       0    0          0       0       0   0     0  120       3     0     0       30       0      0          153             2027
+     6:10 PM         0           0       1    0          0       0       0   0     0  145       1     0     0       30       0      0          177             2034
+     6:15 PM         0           0       3    0          0       0       0   0     0  137       2     0     0       33       0      0          175             2043
+     6:20 PM         0           0       2    0          0       0       0   0     0  122       0     0     0       36       0      0          160             2038
+     6:25 PM         0           0       2    0          0       0       0   0     0  118       1     0     0       23       0      0          144             2011
+ Peak 15-Min                       Northbound                     Southbound              Eastbound                    Westbound
+                                                                                                                                                       Total
+  Flowrates        Left        Thru Right     U        Left    Thru Right    U   Left Thru Right      U   Left     Thru Right       U
+  All Vehicles       0           0      16    0          0       0       0   0     0 1620     20      0     0      488       0      0                  2144
+ Heavy Trucks        0           0       0               0       0       0         0   20       0           0        8       0                          28
+  Pedestrians                   12                              36                     24                            4                                  76
+   Bicycles          0           0       0               0       0       0         0    0       0           0        0       0                           0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/19/2011 12:00 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: 56th Pl -- E Capitol St                                                                                           QC JOB #: 10655787
+ CITY/STATE: Washington, DC                                                                                                  DATE: Sat, Sep 24 2011
+                         0          0                          Peak-Hour: 12:55 PM -- 1:55 PM                                 0.0        0.0
+
+                         0    0     0
+                                                               Peak 15-Min: 1:40 PM -- 1:55 PM
+                                                                                                                              0.0 0.0 0.0
+
+       576   0                             0   576
+                                                                                                                 1.6   0.0                       0.0      1.6
+             614             0.93        576
+                                                                                                                       1.8                       1.6
+       622   8                             0   634
+                                                                                                                 1.8   0.0                       0.0      1.7
+
+                         0    0     20
+                                                                                                                              0.0 0.0 0.0
+
+                         8          20
+                                                                                                                              0.0        0.0
+
+
+
+                              0                                                                                                0    0    0
+
+
+                                                                                                                       0                          0
+
+             3                             1                                                                           0                          0
+
+                                                                                                                       0                          0
+
+
+                              4                                                                                                0    0    0
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+
+             NA                          NA                                                                            NA                        NA
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+ 5-Min Count                    56th Pl                        56th Pl                E Capitol St                 E Capitol St
+     Period                  (Northbound)                   (Southbound)              (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                   Total
+                  Left        Thru Right     U       Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U                      Totals
+   12:00 PM         0           0       2    0         0       0       0   0     0     37       2     0     0       62       0      0          103
+   12:05 PM         0           0       2    0         0       0       0   0     0     36       1     0     0       55       0      0           94
+   12:10 PM         0           0       1    0         0       0       0   0     0     43       1     0     0       52       0      0           97
+   12:15 PM         0           0       0    0         0       0       0   0     0     43       1     0     0       39       0      0           83
+   12:20 PM         0           0       3    0         0       0       0   0     0     48       0     0     0       53       0      0          104
+   12:25 PM         0           0       2    0         0       0       0   0     0     43       2     0     0       39       0      0           86
+   12:30 PM         0           0       2    0         0       0       0   0     0     45       1     0     0       51       0      0           99
+   12:35 PM         0           0       1    0         0       0       0   0     0     55       0     0     0       42       0      0           98
+   12:40 PM         0           0       2    0         0       0       0   0     0     31       0     0     0       51       0      0           84
+   12:45 PM         0           0       1    0         0       0       0   0     0     52       1     0     0       37       0      0           91
+   12:50 PM         0           0       1    0         0       0       0   0     0     54       0     0     0       66       0      0          121
+   12:55 PM         0           0       2    0         0       0       0   0     0     52       1     0     0       53       0      0          108             1168
+     1:00 PM        0           0       2    0         0       0       0   0     0     43       1     0     0       55       0      0          101             1166
+     1:05 PM        0           0       2    0         0       0       0   0     0     54       2     0     0       29       0      0           87             1159
+     1:10 PM        0           0       2    0         0       0       0   0     0     42       1     0     0       59       0      0          104             1166
+     1:15 PM        0           0       2    0         0       0       0   0     0     45       1     0     0       44       0      0           92             1175
+     1:20 PM        0           0       0    0         0       0       0   0     0     36       0     0     0       40       0      0           76             1147
+     1:25 PM        0           0       2    0         0       0       0   0     0     65       0     0     0       47       0      0          114             1175
+     1:30 PM        0           0       0    0         0       0       0   0     0     49       2     0     0       50       0      0          101             1177
+     1:35 PM        0           0       6    0         0       0       0   0     0     59       0     0     0       43       0      0          108             1187
+     1:40 PM        0           0       1    0         0       0       0   0     0     49       0     0     0       45       0      0           95             1198
+     1:45 PM        0           0       0    0         0       0       0   0     0     61       0     0     0       48       0      0          109             1216
+     1:50 PM        0           0       1    0         0       0       0   0     0     59       0     0     0       63       0      0          123             1218
+     1:55 PM        0           0       1    0         0       0       0   0     0     54       0     0     0       41       0      0           96             1206
+ Peak 15-Min                      Northbound                    Southbound                Eastbound                    Westbound
+                                                                                                                                                       Total
+  Flowrates       Left        Thru Right     U       Left    Thru Right    U   Left   Thru Right      U   Left     Thru Right       U
+  All Vehicles      0           0       8    0         0       0       0   0     0    676       0     0     0      624       0      0                  1308
+ Heavy Trucks       0           0       0              0       0       0         0     24       0           0       12       0                          36
+  Pedestrians                   0                              0                        4                            0                                   4
+    Bicycles        0           0       0              0       0       0         0      0       0           0        0       0                           0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/19/2011 12:00 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

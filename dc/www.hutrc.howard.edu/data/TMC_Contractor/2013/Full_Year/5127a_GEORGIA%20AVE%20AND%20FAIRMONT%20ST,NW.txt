@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Fairmont St NW B                                                                                         QC JOB #: 10695477
+ CITY/STATE: Washington, DC                                                                                                        DATE: Tue, May 28 2013
+                    1270            621                           Peak-Hour: 7:45 AM -- 8:45 AM                                     3.8        8.5
+
+                         0 1268 2
+                                                                 Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                                    0.0 3.8 0.0
+
+
+       0     0                            36   68
+                                                                                                                       0.0   0.0                      5.6      8.8
+             0               0.94          0
+                                                                                                                             0.0                      0.0
+       0     0                            32       0
+                                                                                                                       0.0   0.0                     12.5      0.0
+
+                         2   583     0
+                                                                                                                                    0.0 8.7 0.0
+
+                    1302            585
+                                                                                                                                    4.0        8.7
+
+
+
+                              11                                                                                                     0    32   0
+
+
+
+                                                                                                                             0                          0
+
+             50                           25                                                                                 0                          0
+
+                                                                                                                             0                          4
+
+                              13                                                                                                     0    2    0
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+
+             NA                           NA                                                                                 NA                       NA
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+ 15-Min Count                 Georgia Ave                      Georgia Ave               Fairmont St NW B           Fairmont St NW B                 Total      Hourly
+    Period                   (Northbound)                     (Southbound)                 (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U       Left Thru Right        U   Left Thru Right           U
+    7:00 AM        0           94      0       0        0      184      0    0        0       0      0      0     2      0      1         0          281
+    7:15 AM        0         103       0       0        0      196      0    0        0       0      0      0     3      0      8         0          310
+    7:30 AM        0         134       0       0        0      273      0    0        0       0      0      0     2      0    10          0          419
+    7:45 AM        0         142       0       1        0      292      0    0        0       0      0      0     7      0    18          0          460            1470
+    8:00 AM        0         141       0       0        0      299      0    0        0       0      0      0    12      0      9         0          461            1650
+    8:15 AM        0         163       0       0        0      312      0    2        0       0      0      0     8      0      7         0          492            1832
+    8:30 AM        0         137       0       1        0      365      0    0        0       0      0      0     5      0      2         0          510            1923
+    8:45 AM        0          116      0       0        0      326      0    0        0       0      0      0     2      0      5         0          449            1912
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                      Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left Thru Right    U          Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles     0         548      0     4           0 1460       0     0          0       0      0    0      20       0     8     0                     2040
+ Heavy Trucks      0          48      0                 0    52      0                0       0      0            4       0     4                            108
+  Pedestrians                  0                              8                              44                          20                                   72
+    Bicycles       0           2      0                 0     8      0                0       0      0           2        0     0                             12
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Fairmont St NW B                                                                                         QC JOB #: 10695478
+ CITY/STATE: Washington, DC                                                                                                        DATE: Tue, May 28 2013
+                    557             594                          Peak-Hour: 12:00 PM -- 1:00 PM                                     6.1        6.4
+
+                         0   556     1
+                                                                Peak 15-Min: 12:00 PM -- 12:15 PM
+                                                                                                                                    0.0 6.1 0.0
+
+
+       0     0                            27   68
+                                                                                                                       0.0   0.0                      7.4      5.9
+             0               0.92          0
+                                                                                                                             0.0                      0.0
+       0     0                            41       0
+                                                                                                                       0.0   0.0                      4.9      0.0
+
+                         1   566     0
+                                                                                                                                    0.0 6.4 0.0
+
+                    598             567
+                                                                                                                                    6.0        6.3
+
+
+
+                              11                                                                                                     0    5    0
+
+
+
+                                                                                                                             0                          0
+
+             65                           31                                                                                 0                          0
+
+                                                                                                                             0                          0
+
+                              29                                                                                                     0    1    0
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+
+             NA                           NA                                                                                 NA                       NA
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+ 15-Min Count                 Georgia Ave                      Georgia Ave               Fairmont St NW B           Fairmont St NW B                 Total      Hourly
+    Period                   (Northbound)                     (Southbound)                 (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U       Left Thru Right        U   Left Thru Right           U
+   11:00 AM        0          116      0       0        0      117      0    0        0       0      0      0     4      0      9         0          246
+   11:15 AM        0         124       0       1        0      149      0    0        0       0      0      0     7      0      8         0          289
+   11:30 AM        0         122       0       0        0      142      0    0        0       0      0      0    11      0    10          0          285
+   11:45 AM        0          118      0       0        0      137      0    0        0       0      0      0     8      0    10          0          273            1093
+   12:00 PM        0         152       0       0        0      160      0    0        0       0      0      0     8      0      4         0          324            1171
+   12:15 PM        0         147       0       0        0      136      0    0        0       0      0      0    10      0      7         0          300            1182
+   12:30 PM        0         137       0       0        0      119      0    0        0       0      0      0    12      0      8         0          276            1173
+   12:45 PM        0         130       0       1        0      141      0    1        0       0      0      0    11      0      8         0          292            1192
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                    Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles     0         608      0     0           0     640      0     0        0       0      0    0      32       0    16     0                     1296
+ Heavy Trucks      0          40      0                 0      40      0              0       0      0            0       0     0                             80
+  Pedestrians                 32                                0                            40                          28                                  100
+    Bicycles       0           0      0                 0       1      0              0       0      0           0        0     0                              1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgis Ave -- Fairmont St NW B                                                                                          QC JOB #: 10695479
+ CITY/STATE: Washington, DC                                                                                                         DATE: Tue, May 28 2013
+                    522             1099                           Peak-Hour: 5:00 PM -- 6:00 PM                                     2.9        2.4
+
+                         0   522     0
+                                                                  Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                                     0.0 2.9 0.0
+
+
+       0     0                             53   91
+                                                                                                                        0.0   0.0                      1.9      3.3
+             0               0.96           0
+                                                                                                                              0.0                      0.0
+       0     0                             38       0
+                                                                                                                        0.0   0.0                      5.3      0.0
+
+                         2 1046 0
+                                                                                                                                     0.0 2.4 0.0
+
+                    562             1048
+                                                                                                                                     3.0        2.4
+
+
+
+                              24                                                                                                      0    14   0
+
+
+
+                                                                                                                              0                          0
+
+             80                            34                                                                                 0                          0
+
+                                                                                                                              0                          1
+
+                              22                                                                                                      0    13   0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                            NA                                                                                 NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count                 Georgis Ave                       Georgis Ave               Fairmont St NW B           Fairmont St NW B                 Total      Hourly
+    Period                   (Northbound)                      (Southbound)                 (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left        Thru Right        U       Left    Thru Right    U       Left Thru Right        U   Left Thru Right           U
+    4:30 PM        0         204       0        0        0      168      0    0        0       0      0      0    10      0    15          0          397
+    4:45 PM        0         213       0        0        0      136      0    0        0       0      0      0     8      0    14          0          371
+    5:00 PM        0         253       0        0        0      145      0    0        0       0      0      0     9      0    24          0          431
+    5:15 PM        0         269       0        1        0      121      0    0        0       0      0      0     9      0      7         0          407            1606
+    5:30 PM        0         261       0        0        0      122      0    0        0       0      0      0    12      0    12          0          407            1616
+    5:45 PM        0         263       0        1        0      134      0    0        0       0      0      0     8      0    10          0          416            1661
+    6:00 PM        0         229       0        0        0      145      0    0        0       0      0      0     3      0    11          0          388            1618
+    6:15 PM        0         232       0        0        0      128      0    0        0       0      0      0     2      0      8         0          370            1581
+
+
+
+
+ Peak 15-Min               Northbound                              Southbound                    Eastbound                   Westbound
+   Flowrates      Left Thru Right     U                 Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles     0 1012       0     0                  0     580      0     0        0       0      0    0      36       0    96     0                     1724
+ Heavy Trucks      0    24      0                        0      16      0              0       0      0            4       0     0                             44
+  Pedestrians           44                                      44                            84                          16                                  188
+    Bicycles       0     2      0                        0       5      0              0       0      0           1        0     0                              8
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Fairmont St NW B                                                                                         QC JOB #: 10695480
+ CITY/STATE: Washington, DC                                                                                                        DATE: Sat, May 18 2013
+                    615             654                           Peak-Hour: 3:30 PM -- 4:30 PM                                     2.1        2.3
+
+                         0   614     1
+                                                                 Peak 15-Min: 4:00 PM -- 4:15 PM
+                                                                                                                                    0.0 2.1 0.0
+
+
+       0     0                            18   47
+                                                                                                                       0.0   0.0                      0.0      0.0
+             0               0.98          0
+                                                                                                                             0.0                      0.0
+       0     0                            29       0
+                                                                                                                       0.0   0.0                      0.0      0.0
+
+                         0   635     0
+                                                                                                                                    0.0 2.4 0.0
+
+                    643             635
+                                                                                                                                    2.0        2.4
+
+
+
+                              12                                                                                                     0    16   0
+
+
+
+                                                                                                                             0                          0
+
+             73                           37                                                                                 0                          0
+
+                                                                                                                             0                          0
+
+                              8                                                                                                      0    2    0
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+
+             NA                           NA                                                                                 NA                       NA
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+ 15-Min Count                 Georgia Ave                      Georgia Ave               Fairmont St NW B           Fairmont St NW B                 Total      Hourly
+    Period                   (Northbound)                     (Southbound)                 (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U       Left Thru Right        U   Left Thru Right           U
+    3:00 PM        0         168       0       0        0      164      0    0        0       0      0      0     1      0      4         0          337
+    3:15 PM        0         142       0       0        0      162      0    0        0       0      0      0     2      0      3         0          309
+    3:30 PM        0         169       0       0        0      145      0    0        0       0      0      0    12      0      2         0          328
+    3:45 PM        0         151       0       0        0      149      0    1        0       0      0      0     6      0      6         0          313            1287
+    4:00 PM        0         177       0       0        0      145      0    0        0       0      0      0     5      0      4         0          331            1281
+    4:15 PM        0         138       0       0        0      175      0    0        0       0      0      0     6      0      6         0          325            1297
+    4:30 PM        0         144       0       0        0      169      0    0        0       0      0      0     1      0      6         0          320            1289
+    4:45 PM        0         159       0       0        0      157      0    0        0       0      0      0     2      0      2         0          320            1296
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                    Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles     0         708      0     0           0     580      0     0        0       0      0    0      20       0    16     0                     1324
+ Heavy Trucks      0          16      0                 0      16      0              0       0      0            0       0     0                             32
+  Pedestrians                 12                                8                            68                          44                                  132
+    Bicycles       0           1      0                 0       1      0              0       0      0           0        0     0                              2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

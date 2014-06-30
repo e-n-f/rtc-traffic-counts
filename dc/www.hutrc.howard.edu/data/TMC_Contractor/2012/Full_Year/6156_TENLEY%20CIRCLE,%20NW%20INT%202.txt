@@ -1,0 +1,414 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: INT 2 - Wisconsin Ave S -- Tenley Cir                                                                              QC JOB #: 10707013
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Sep 05 2012
+                    1730            949                         Peak-Hour: 8:00 AM -- 9:00 AM                                  3.9        5.1
+
+                         0 1728 2
+                                                               Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                               0.0 3.9 0.0
+
+
+       0     169                            0     0
+                                                                                                                  0.0   6.5                      0.0       0.0
+             485             0.99           0
+                                                                                                                        7.4                      0.0
+       720   66                             0   652
+                                                                                                                  6.7   1.5                      0.0       8.6
+
+                         0   780 165
+                                                                                                                               0.0 4.7 12.1
+
+                    1794            945
+                                                                                                                               3.8        6.0
+
+
+
+                              22                                                                                                0    6    0
+
+
+
+                                                                                                                        0                          0
+
+             117                          168                                                                           2                          0
+
+                                                                                                                        0                          0
+
+                              42                                                                                                0    9    3
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count      INT 2 - Wisconsin Ave S             INT 2 - Wisconsin Ave S           Tenley Cir                 Tenley Cir                  Total       Hourly
+    Period              (Northbound)                        (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right       U             Left Thru Right       U    Left   Thru Right    U    Left    Thru Right        U
+    6:30 AM         0     75     16     0               0    197      0     0     16     25     11    0     0        0      0        0          340
+    6:45 AM         0     87     18     0               0    244      0     0     24     48      4    0     0        0      0        0          425
+    7:00 AM         0     96     25     0               0    301      0     0     17     68      8    0     0        0      0        0          515
+    7:15 AM         0    130     29     0               0    408      0     0     25     84      8    0     0        0      0        0          684             1964
+    7:30 AM         0    171     34     0               0    488      0     0     29     99     11    0     0        0      0        0          832             2456
+    7:45 AM         0    181     30     0               0    453      0     0     33    107     14    0     0        0      0        0          818             2849
+    8:00 AM         0    197     47     0               0    416      0     0     44    136     19    0     0        0      0        0          859             3193
+    8:15 AM         0    210     37     0               1    424      0     0     36    130     17    0     0        0      0        0          855             3364
+    8:30 AM         0    184     45     0               0    447      0     0     46    103     15    0     0        0      0        0          840             3372
+    8:45 AM         0    189     36     0               1    441      0     0     43    116     15    0     0        0      0        0          841             3395
+    9:00 AM         0    186     30     0               0    410      0     0     48    103     10    0     0        0      0        0          787             3323
+    9:15 AM         0    157     38     0               0    402      0     0     30    106     14    0     0        0      0        0          747             3215
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                   Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left Thru Right    U       Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         788    188     0          0 1664       0     0      176    544    76     0     0        0     0     0                      3436
+ Heavy Trucks      0          24     12                0    64      0             12     36      0          0        0     0                             148
+  Pedestrians                 28                            16                          140                        132                                   316
+    Bicycles       0           1      1                0     0      0              0      0      0          0        0     0                              2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 11:54 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: INT 2 - Wisconsin Ave S -- Tenley Cir                                                                              QC JOB #: 10707014
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Sep 05 2012
+                    818             807                        Peak-Hour: 12:00 PM -- 1:00 PM                                  4.5        5.5
+
+                         0   818     0
+                                                              Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                               0.0 4.5 0.0
+
+
+       0     120                            0     0
+                                                                                                                  0.0   7.5                      0.0       0.0
+             324             0.87           0
+                                                                                                                        7.4                      0.0
+       495   51                             0   445
+                                                                                                                  7.5   7.8                      0.0       7.2
+
+                         0   687 121
+                                                                                                                               0.0 5.1 6.6
+
+                    869             808
+                                                                                                                               4.7        5.3
+
+
+
+                              41                                                                                                0    4    0
+
+
+
+                                                                                                                        1                          0
+
+             161                          143                                                                           1                          0
+
+                                                                                                                        0                          0
+
+                              44                                                                                                0    4    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count      INT 2 - Wisconsin Ave S             INT 2 - Wisconsin Ave S           Tenley Cir                 Tenley Cir                  Total       Hourly
+    Period              (Northbound)                        (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right       U             Left Thru Right       U    Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM         0    166     26     0               0    187      0     0     35     56      9    0     0        0      0        0          479
+   11:15 AM         0    147     37     0               0    171      0     0     36     52      9    0     0        0      0        0          452
+   11:30 AM         0    181     28     0               0    249      0     0     32     73     13    0     0        0      0        0          576
+   11:45 AM         0    165     32     0               0    191      0     0     42     73      9    0     0        0      0        0          512             2019
+   12:00 PM         0    105     27     0               0    147      0     0     12     76     15    0     0        0      0        0          382             1922
+   12:15 PM         0    200     28     0               0    234      0     0     36    106      9    0     0        0      0        0          613             2083
+   12:30 PM         0    204     29     0               0    216      0     0     37     74     14    0     0        0      0        0          574             2081
+   12:45 PM         0    178     37     0               0    221      0     0     35     68     13    0     0        0      0        0          552             2121
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                 Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U     Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         800    112     0          0     936      0     0    144    424    36     0     0        0     0     0                      2452
+ Heavy Trucks      0          48      8                0      56      0           12     20    12           0        0     0                             156
+  Pedestrians                 52                              16                        124                        128                                   320
+    Bicycles       0           0      0                0       0      0            0      0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 11:58 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: INT 2 - Wisconsin Ave S -- Tenley Cir                                                                            QC JOB #: 10707015
+ CITY/STATE: Washington, DC                                                                                                 DATE: Wed, Sep 05 2012
+                    937          1393                         Peak-Hour: 5:15 PM -- 6:15 PM                                  2.8        1.4
+
+                     0    937     0
+                                                             Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                             0.0 2.8 0.0
+
+
+       0     191                          0     0
+                                                                                                                0.0   2.1                      0.0       0.0
+             609          0.94            0
+                                                                                                                      5.3                      0.0
+       843   43                           0   851
+                                                                                                                4.3   0.0                      0.0       4.5
+
+                     0 1202 242
+                                                                                                                             0.0 1.2 2.5
+
+                    980          1444
+                                                                                                                             2.7        1.5
+
+
+
+                           20                                                                                                 0    5    0
+
+
+
+                                                                                                                      0                          0
+
+             180                        193                                                                           3                          0
+
+                                                                                                                      0                          0
+
+                           64                                                                                                 0    10   0
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+
+             NA                         NA                                                                            NA                       NA
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+ 15-Min Count      INT 2 - Wisconsin Ave S           INT 2 - Wisconsin Ave S           Tenley Cir                 Tenley Cir                  Total       Hourly
+    Period              (Northbound)                      (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right       U           Left Thru Right       U    Left   Thru Right    U    Left    Thru Right        U
+    3:30 PM         0    236     32     0             0    246      0     0     48    165     10    0     0        0      0        0          737
+    3:45 PM         0    259     40     0             0    201      0     0     53    140     12    0     0        0      0        0          705
+    4:00 PM         0    297     43     0             0    239      0     0     46    126      9    0     0        0      0        0          760
+    4:15 PM         0    225     38     0             1    228      0     0     37    139     17    0     0        0      0        0          685             2887
+    4:30 PM         0    213     44     0             0    232      0     0     52    121     10    0     0        0      0        0          672             2822
+    4:45 PM         0    246     45     0             0    224      0     0     51    127      6    0     0        0      0        0          699             2816
+    5:00 PM         0    283     38     0             0    249      0     0     51    148     13    0     0        0      0        0          782             2838
+    5:15 PM         0    280     62     0             0    241      0     0     59    162      8    0     0        0      0        0          812             2965
+    5:30 PM         0    312     61     0             0    256      0     0     49    166     11    0     0        0      0        0          855             3148
+    5:45 PM         0    312     56     0             0    219      0     0     40    134     12    0     0        0      0        0          773             3222
+    6:00 PM         0    298     63     0             0    221      0     0     43    147     12    0     0        0      0        0          784             3224
+    6:15 PM         0    312     59     0             0    216      0     0     31    141      9    0     0        0      0        0          768             3180
+    6:30 PM         0    253     38     0             0    259      0     0     46    117      7    0     0        0      0        0          720             3045
+    6:45 PM         0    263     48     0             0    226      0     0     49    107     12    0     0        0      0        0          705             2977
+
+
+
+
+ Peak 15-Min               Northbound                        Southbound                   Eastbound                  Westbound
+   Flowrates      Left Thru Right     U             Left Thru Right    U       Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0 1248     244     0              0 1024       0     0      196    664    44     0     0        0     0     0                      3420
+ Heavy Trucks      0    20      8                    0    36      0              4     28      0          0        0     0                              96
+  Pedestrians           64                                24                          192                        136                                   416
+    Bicycles       0     3      0                    0     1      0              0      1      0          0        0     0                               5
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 12:04 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: INT 2 - Wisconsin Ave S -- Tenley Cir                                                                              QC JOB #: 10707039
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Sep 05 2012
+                    745             848                          Peak-Hour: 7:00 PM -- 8:00 PM                                 3.6        4.0
+
+                         0   744     1
+                                                                Peak 15-Min: 7:00 PM -- 7:15 PM
+                                                                                                                               0.0 3.6 0.0
+
+
+       0     114                            0     0
+                                                                                                                  0.0   3.5                      0.0       0.0
+             373             0.88           0
+                                                                                                                        5.6                      0.0
+       525   38                             0   521
+                                                                                                                  4.8   0.0                      0.0       6.1
+
+                         0   734 147
+                                                                                                                               0.0 4.1 7.5
+
+                    782             881
+                                                                                                                               3.5        4.7
+
+
+
+                              10                                                                                                0    5    0
+
+
+
+                                                                                                                        0                          0
+
+             123                          189                                                                           1                          0
+
+                                                                                                                        0                          0
+
+                              71                                                                                                0    9    3
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count      INT 2 - Wisconsin Ave S             INT 2 - Wisconsin Ave S           Tenley Cir                 Tenley Cir                  Total       Hourly
+    Period              (Northbound)                        (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right       U             Left Thru Right       U    Left   Thru Right    U    Left    Thru Right        U
+    7:00 PM         0    217     38     0               0    193      0     0     43    106     11    0     0        0      0        0          608
+    7:15 PM         0    198     48     0               1    201      0     0     24     82     14    0     0        0      0        0          568
+    7:30 PM         0    167     38     0               0    178      0     0     25     80      7    0     0        0      0        0          495
+    7:45 PM         0    152     23     0               0    172      0     0     22    105      6    0     0        0      0        0          480             2151
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                 Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U     Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         868    152     0          0     772      0     0    172    424    44     0     0        0     0     0                      2432
+ Heavy Trucks      0          28      4                0      32      0            8     16      0          0        0     0                              88
+  Pedestrians                 44                               4                        116                        188                                   352
+    Bicycles       0           2      0                0       2      0            0      0      0          0        0     0                               4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 12:08 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: INT 2 - Wisconsin Ave S -- Tenley Cir                                                                              QC JOB #: 10707040
+ CITY/STATE: Washington, DC                                                                                                   DATE: Sat, Mar 17 2012
+                    1008            923                        Peak-Hour: 12:15 PM -- 1:15 PM                                  1.7        1.7
+
+                         0 1007 1
+                                                              Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                               0.0 1.7 0.0
+
+
+       0     157                            0     0
+                                                                                                                  0.0   1.9                      0.0       0.0
+             357             0.97           0
+                                                                                                                        3.1                      0.0
+       576   62                             0   490
+                                                                                                                  2.4   0.0                      0.0       2.9
+
+                         0   766 132
+                                                                                                                               0.0 1.7 2.3
+
+                    1069            898
+                                                                                                                               1.6        1.8
+
+
+
+                              10                                                                                                0    6    0
+
+
+
+                                                                                                                        0                          0
+
+             108                          175                                                                           1                          0
+
+                                                                                                                        0                          0
+
+                              38                                                                                                0    9    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count      INT 2 - Wisconsin Ave S             INT 2 - Wisconsin Ave S           Tenley Cir                 Tenley Cir                  Total       Hourly
+    Period              (Northbound)                        (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right       U             Left Thru Right       U    Left   Thru Right    U    Left    Thru Right        U
+   12:00 PM         0    195     31     0               0    218      0     0     45     76      9    0     0        0      0        0          574
+   12:15 PM         0    183     35     0               0    257      0     0     38     83     17    0     0        0      0        0          613
+   12:30 PM         0    206     34     0               0    246      0     0     34    107     13    0     0        0      0        0          640
+   12:45 PM         0    180     35     0               1    248      0     0     48     96     16    0     0        0      0        0          624             2451
+    1:00 PM         0    197     28     0               0    256      0     0     37     71     16    0     0        0      0        0          605             2482
+    1:15 PM         0    207     33     0               0    249      0     0     23     70     16    0     0        0      0        0          598             2467
+    1:30 PM         0    211     31     0               0    244      0     0     26     68     10    0     0        0      0        0          590             2417
+    1:45 PM         0    209     22     0               0    263      0     0     34     76     12    0     0        0      0        0          616             2409
+    2:00 PM         0    173     44     0               0    254      0     0     28     77     17    0     0        0      0        0          593             2397
+    2:15 PM         0    217     28     0               0    257      0     0     37     84     15    0     0        0      0        0          638             2437
+    2:30 PM         0    214     34     0               0    261      0     0     32     79      9    0     0        0      0        0          629             2476
+    2:45 PM         0    197     37     0               0    257      0     0     29     77     14    0     0        0      0        0          611             2471
+    3:00 PM         0    188     33     0               0    223      0     0     33     91     18    0     0        0      0        0          586             2464
+    3:15 PM         0    178     44     0               0    239      0     0     33     89     12    0     0        0      0        0          595             2421
+    3:30 PM         0    178     29     0               0    250      0     0     44     78      8    0     0        0      0        0          587             2379
+    3:45 PM         0    220     32     0               0    245      0     0     36     79      9    0     0        0      0        0          621             2389
+    4:00 PM         0    199     43     0               0    231      0     0     47     81      9    0     0        0      0        0          610             2413
+    4:15 PM         0    212     34     0               0    260      0     0     32     69     14    0     0        0      0        0          621             2439
+    4:30 PM         0    167     35     0               0    234      0     0     26     80      9    0     0        0      0        0          551             2403
+    4:45 PM         0    233     34     0               0    241      0     0     25     86     16    0     0        0      0        0          635             2417
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                 Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U     Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         824    136     0          0     984      0     0    136    428    52     0     0        0     0     0                      2560
+ Heavy Trucks      0           4      4                0      12      0            0     12      0          0        0     0                              32
+  Pedestrians                 48                               0                        120                        224                                   392
+    Bicycles       0           3      0                0       1      0            0      0      0          0        0     0                               4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 12:11 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

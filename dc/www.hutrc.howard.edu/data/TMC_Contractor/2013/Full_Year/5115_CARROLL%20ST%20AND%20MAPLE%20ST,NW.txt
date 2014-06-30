@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Maple St -- Carroll St NW                                                                                             QC JOB #: 10695364
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, May 15 2013
+                    158            42                          Peak-Hour: 7:30 AM -- 8:30 AM                                      2.5        7.1
+
+                       57    70    31
+                                                              Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                  7.0 0.0 0.0
+
+
+       717   21                          10   650
+                                                                                                                    5.2   14.3                      0.0       5.1
+             239            0.96        637
+                                                                                                                          10.0                      5.2
+       283   23                           3   276
+                                                                                                                    9.9   4.3                       0.0       8.7
+
+                       23    11    6
+                                                                                                                                  0.0 0.0 0.0
+
+                       96          40
+                                                                                                                                  1.0        0.0
+
+
+
+                             53                                                                                                   0     15   0
+
+
+
+                                                                                                                          0                           0
+
+             52                          38                                                                               1                          15
+
+                                                                                                                          2                           0
+
+                            181                                                                                                   0     1    0
+
+
+
+
+                            NA                                                                                                          NA
+
+
+
+
+             NA                         NA                                                                                NA                        NA
+
+
+
+
+                            NA                                                                                                          NA
+
+
+
+ 15-Min Count                 Maple St                        Maple St                   Carroll St NW               Carroll St NW                 Total       Hourly
+    Period                  (Northbound)                   (Southbound)                  (Eastbound)                 (Westbound)                               Totals
+ Beginning At     Left       Thru Right       U     Left    Thru Right    U       Left   Thru Right      U   Left    Thru Right         U
+    7:00 AM        6           2     1        0       3       7      7    0        2      47        5    0    1       91        0       0          172
+    7:15 AM        4           0     0        0       3      17     12    0        3      45        3    0    0      141        1       0          229
+    7:30 AM        1           3     1        0       6      18     12    0        5      56        4    0    0      155        3       0          264
+    7:45 AM        9           1     3        0       7      19     20    0        6      63        8    0    1      151        0       0          288              953
+    8:00 AM        5           5     2        0       8      17     14    0        2      59        4    0    0      161        6       0          283             1064
+    8:15 AM        8           2     0        0      10      16     11    0        8      61        7    0    2      170        1       0          296             1131
+    8:30 AM        8           3     0        0       6      15      5    0        7      64        2    0    0      134        2       0          246             1113
+    8:45 AM        4           8     2        0       6       9     14    0        2      83        6    0    1      147        3       0          285             1110
+
+
+
+
+ Peak 15-Min                    Northbound                     Southbound                    Eastbound                   Westbound
+   Flowrates      Left      Thru Right     U        Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                       Total
+  All Vehicles     32         8      0     0         40     64     44     0        32    244    28     0      8      680     4     0                       1184
+ Heavy Trucks       0         0      0                0      0      4               4     28      0           0       36     0                              72
+  Pedestrians               212                             68                            60                          64                                   404
+    Bicycles       0          1      0               0       2      0              0       0      0            0       7     0                              10
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/31/2013 5:42 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Maple St -- Carroll St NW                                                                                            QC JOB #: 10695365
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, May 15 2013
+                       50          44                         Peak-Hour: 11:45 AM -- 12:45 PM                                    4.0        0.0
+
+                       20    22    8
+                                                             Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                                 5.0 4.5 0.0
+
+
+       296   11                          17   285
+                                                                                                                    5.4   0.0                      0.0       5.6
+             244            0.90        258
+                                                                                                                          5.7                      5.8
+       274   19                          10   264
+                                                                                                                    5.1   0.0                     10.0       5.3
+
+                       18    16    12
+                                                                                                                                 0.0 0.0 0.0
+
+                       51          46
+                                                                                                                                 3.9        0.0
+
+
+
+                             16                                                                                                  0     0    0
+
+
+
+                                                                                                                          0                          0
+
+             11                          29                                                                               0                          1
+
+                                                                                                                          0                          0
+
+                            110                                                                                                  0     2    0
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+
+             NA                         NA                                                                                NA                       NA
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+ 15-Min Count                 Maple St                       Maple St                    Carroll St NW               Carroll St NW                Total       Hourly
+    Period                  (Northbound)                   (Southbound)                  (Eastbound)                 (Westbound)                              Totals
+ Beginning At     Left       Thru Right       U     Left    Thru Right    U       Left   Thru Right      U   Left    Thru Right        U
+   11:00 AM        3           2     3        0      2        7     4     0        6      55        4    0    1       68        5      0          160
+   11:15 AM        2           3     3        0      3        4     5     0        1      71        1    0    4       71        7      0          175
+   11:30 AM        4           4     1        0      6        3     8     0        1      48        2    0    1       62        5      0          145
+   11:45 AM        4           5     1        0      2        2     2     0        5      58        3    0    5       64        7      0          158              638
+   12:00 PM        5           2     4        0      2        6     4     0        2      58        4    0    3       57        2      0          149              627
+   12:15 PM        5           7     5        0      2        8     7     0        2      65        5    0    2       70        3      0          181              633
+   12:30 PM        4           2     2        0      2        6     7     0        2      63        7    0    0       67        5      0          167              655
+   12:45 PM        5           2     3        0      2        3     2     0        5      63        0    0    3       56        6      0          150              647
+
+
+
+
+ Peak 15-Min                    Northbound                     Southbound                    Eastbound                   Westbound
+   Flowrates      Left      Thru Right     U        Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     20        28     20     0         8      32     28     0        8     260    20     0      8      280    12     0                      724
+ Heavy Trucks       0         0      0               0       0      0              0      20      0           0       12     0                             32
+  Pedestrians               132                              4                             4                          20                                  160
+    Bicycles       0          0      0               0       0      0              0       0      0            0       0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/31/2013 5:42 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Maple St -- Carroll St NW                                                                                             QC JOB #: 10695366
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, May 15 2013
+                       83          173                          Peak-Hour: 5:30 PM -- 6:30 PM                                     2.4        2.3
+
+                       26    37    20
+                                                               Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                  7.7 0.0 0.0
+
+
+       418   50                           57   420
+                                                                                                                     6.7   8.0                      0.0       6.0
+             464            0.97         354
+                                                                                                                           5.2                      7.1
+       531   17                            9   489
+                                                                                                                     5.3   0.0                      0.0       4.9
+
+                       38    66     5
+                                                                                                                                  2.6 0.0 0.0
+
+                       63          109
+                                                                                                                                  0.0        0.9
+
+
+
+                             62                                                                                                   2     0    0
+
+
+
+                                                                                                                           0                          1
+
+             48                           90                                                                               12                         3
+
+                                                                                                                           1                          0
+
+                            282                                                                                                   4     10   0
+
+
+
+
+                            NA                                                                                                          NA
+
+
+
+
+             NA                          NA                                                                                NA                       NA
+
+
+
+
+                            NA                                                                                                          NA
+
+
+
+ 15-Min Count                  Maple St                        Maple St                   Carroll St NW               Carroll St NW                Total       Hourly
+    Period                  (Northbound)                    (Southbound)                  (Eastbound)                 (Westbound)                              Totals
+ Beginning At     Left       Thru Right        U     Left    Thru Right    U       Left   Thru Right      U   Left    Thru Right        U
+    4:30 PM         7         14      1        0      7        6      7    0         8     98        6    0    0       82      10       0          246
+    4:45 PM         9         18      0        0      7        8      6    0        15    115        3    0    2       91       11      0          285
+    5:00 PM         8         16      2        0      9        9      5    0         7    101        5    0    5       84        9      0          260
+    5:15 PM         7         17      2        0      7        6      4    0         7    112        5    0    0       85        6      0          258             1049
+    5:30 PM         8         12      2        0      9       14      8    0        11    112        5    0    1       98      15       0          295             1098
+    5:45 PM         7         20      0        0      3        6      8    0        13    122        5    0    4       83      15       0          286             1099
+    6:00 PM        10         16      1        0      6        6      8    0        11    102        5    0    1       91      21       0          278             1117
+    6:15 PM        13         18      2        0      2       11      2    0        15    128        2    0    3       82        6      0          284             1143
+
+
+
+
+ Peak 15-Min                    Northbound                      Southbound                    Eastbound                   Westbound
+   Flowrates      Left      Thru Right     U         Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     32        48      8     0          36     56     32     0        44    448    20     0      4      392    60     0                      1180
+ Heavy Trucks       0         0      0                 0      0      4               4     16      0           0       32     0                             56
+  Pedestrians               316                              80                            48                          76                                  520
+    Bicycles       1          4      0                0       0      2              0       6      1            0       1     0                             15
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/31/2013 5:42 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Maple St -- Carroll St NW                                                                                            QC JOB #: 10695367
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, May 18 2013
+                       57          51                          Peak-Hour: 3:00 PM -- 4:00 PM                                     1.8        0.0
+
+                       25    24    8
+                                                              Peak 15-Min: 3:15 PM -- 3:30 PM
+                                                                                                                                 0.0 0.0 12.5
+
+
+       380   18                          20   362
+                                                                                                                    2.9   0.0                      0.0       3.0
+             328            0.97        331
+                                                                                                                          3.4                      3.3
+       368   22                          11   345
+                                                                                                                    3.0   0.0                      0.0       3.8
+
+                       24    13    9
+                                                                                                                                 0.0 0.0 11.1
+
+                       57          46
+                                                                                                                                 0.0        2.2
+
+
+
+                             15                                                                                                   0    0    0
+
+
+
+                                                                                                                          0                          0
+
+             15                          25                                                                               2                          1
+
+                                                                                                                          0                          0
+
+                            108                                                                                                   0    0    0
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+
+             NA                         NA                                                                                NA                       NA
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+ 15-Min Count                 Maple St                       Maple St                    Carroll St NW               Carroll St NW                Total       Hourly
+    Period                  (Northbound)                   (Southbound)                  (Eastbound)                 (Westbound)                              Totals
+ Beginning At     Left       Thru Right       U     Left    Thru Right    U       Left   Thru Right      U   Left    Thru Right        U
+    3:00 PM        3           6     3        0      1        9     6     0         5     66        5    0    3       96        6      0          209
+    3:15 PM        6           3     3        0      1        6     9     0         0     90        4    0    5       81        6      0          214
+    3:30 PM        8           3     1        0      2        4     4     0        10     96        5    0    0       68        6      0          207
+    3:45 PM        7           1     2        0      4        5     6     0         3     76        8    0    3       86        2      0          203              833
+    4:00 PM        7           2     1        0      7        4     3     0         4     70        6    0    4       83        5      0          196              820
+    4:15 PM        7           5     1        0      2       11     8     0         4     83        5    0    1       74        5      0          206              812
+    4:30 PM        7           5     1        0      3        5     3     0         7     92        3    0    3       84        7      0          220              825
+    4:45 PM        5           5     2        0      3        5     3     0         6     78        6    0    2       74        8      0          197              819
+
+
+
+
+ Peak 15-Min                    Northbound                     Southbound                    Eastbound                   Westbound
+   Flowrates      Left      Thru Right     U        Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     24        12     12     0         4      24     36     0        0     360    16     0      20     324    24     0                      856
+ Heavy Trucks       0         0      0               0       0      0              0      12      0            0       4     0                             16
+  Pedestrians                84                             32                            24                          12                                  152
+    Bicycles       0          0      0               0       0      0              0       0      0            0       0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/31/2013 5:42 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

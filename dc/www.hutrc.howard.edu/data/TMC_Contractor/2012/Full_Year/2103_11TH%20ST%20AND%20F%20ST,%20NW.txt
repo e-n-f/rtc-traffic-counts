@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 11th St -- F St NW                                                                                               QC JOB #: 10695960
+ CITY/STATE: Washington, DC                                                                                                 DATE: Wed, Jan 18 2012
+                       441 0.78 342                           Peak-Hour: 8:00 AM -- 9:00 AM                                  9.8         13.5
+
+                          47 361 33
+                                                             Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                             4.3 10.8 6.1
+
+       180     28                      61    200
+                                                                                                               7.8   0.0                         19.7     10.0
+        0.81   179          0.82      119   0.83
+                                                                                                                     4.5                          5.9
+       290     83                      20    248
+                                                                                                               5.9   10.8                         5.0      4.0
+
+                          14 253 36
+                                                                                                                             35.7 13.4 0.0
+
+                       464 0.78 303
+                                                                                                                             10.6        12.9
+
+
+
+                             279                                                                                              6     31    6
+
+
+                                                                                                                     0                             4
+
+               227                    607                                                                            10                            4
+
+                                                                                                                     4                             0
+
+
+                             343                                                                                              2     4     0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+               NA                     NA                                                                             NA                           NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+15-Min Count                   11th St                       11th St                  F St NW                      F St NW
+   Period                   (Northbound)                  (Southbound)              (Eastbound)                 (Westbound)                                 Hourly
+Beginning At                                                                                                                                    Total
+                    Left     Thru Right      U     Left    Thru Right    U   Left   Thru Right    U     Left     Thru Right         U                       Totals
+   7:00 AM            2       33       4     0       7      39       6   0     7     25     13    0       3       24      6         0           169
+   7:15 AM            4       24       7     0       9      44       8   0     3     29      9    0       0       12      9         0           158
+   7:30 AM            3       31       3     0      11      69       8   0     4     38     14    0       1       18     14         0           214
+   7:45 AM            8       47       6     0       2      80       5   0     5     35     18    0       2       34     11         0           253              794
+   8:00 AM            2       55       8     0       6      77       6   0     5     38     21    0       4       38     18         0           278              903
+   8:15 AM            5       53       8     0       5      77     12    0     5     46     23    0       3       24     14         0           275             1020
+   8:30 AM            2       66       7     0      12      90     15    0     7     37     19    0       7       27     16         0           305             1111
+   8:45 AM            5       79     13      0      10     117     14    0    11     58     20    0       6       30     13         0           376             1234
+
+
+
+
+ Peak 15-Min                    Northbound                   Southbound                 Eastbound                   Westbound
+                                                                                                                                                        Total
+  Flowrates         Left    Thru Right     U       Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles       20     316      52    0        40    468    56     0     44    232     80    0      24     120     52    0                         1504
+ Heavy Trucks         8      40       0              4     40     0            0     24     12            0       8      4                               140
+  Pedestrians               388                           292                       292                         720                                     1692
+   Bicycles           1       1       0              1     10     2            0      4      1            0       0      1                               21
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/6/2012 6:35 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 11th St -- F St NW                                                                                               QC JOB #: 10695961
+ CITY/STATE: Washington, DC                                                                                                 DATE: Wed, Jan 18 2012
+                       364 0.76 359                          Peak-Hour: 11:45 AM -- 12:45 PM                                 8.5        12.0
+
+                          72 255 37
+                                                            Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                             4.2 11.0 0.0
+
+       252     27                     107    266
+                                                                                                               4.0   14.8                       10.3      6.0
+        0.96   214          0.94      146   0.86
+                                                                                                                     4.2                         2.7
+       338     97                      13    323
+                                                                                                               5.6   6.2                         7.7      5.0
+
+                          34 225 72
+                                                                                                                             8.8 12.4 9.7
+
+                       365 0.93 331
+                                                                                                                             9.6        11.5
+
+
+
+                             663                                                                                              1    5     2
+
+
+                                                                                                                     0                            0
+
+               442                    529                                                                            2                            4
+
+                                                                                                                     2                            0
+
+
+                             612                                                                                              0    4     0
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+
+               NA                     NA                                                                             NA                          NA
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+15-Min Count                   11th St                       11th St                  F St NW                      F St NW
+   Period                   (Northbound)                  (Southbound)              (Eastbound)                 (Westbound)                                Hourly
+Beginning At                                                                                                                                   Total
+                    Left     Thru Right      U     Left    Thru Right    U   Left   Thru Right    U     Left     Thru Right        U                       Totals
+  11:00 AM            9       56     18      0       5      46     14    0     9     39     27    0       4       45     21        0           293
+  11:15 AM            6       47     13      0       8      58     19    0    13     50     15    0       1       34     26        0           290
+  11:30 AM           12       58     19      0       5      49     19    0     9     50     16    0       3       28     16        0           284
+  11:45 AM           10       51     15      0      10      57     19    0     6     47     18    0       4       41     32        0           310             1177
+  12:00 PM           14       58     22      0      12      47     15    0     4     56     25    0       5       30     32        0           320             1204
+  12:15 PM            7       63     22      0       4      69     11    0     6     58     28    0       1       31     22        0           322             1236
+  12:30 PM            3       53     13      0      11      82     27    0    11     53     26    0       3       44     21        0           347             1299
+  12:45 PM            8       55     15      0      10      61     11    0     6     55     25    0       2       34     27        0           309             1298
+
+
+
+
+ Peak 15-Min                    Northbound                   Southbound                 Eastbound                   Westbound
+                                                                                                                                                       Total
+  Flowrates         Left    Thru Right     U       Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles       12     212      52    0        44    328   108     0     44    212    104    0      12     176     84    0                        1388
+ Heavy Trucks         4      28       8              0     36     0           12     12      4            0       8      4                              116
+  Pedestrians               616                           572                       420                         480                                    2088
+   Bicycles           0       4       0              0      0     1            0      1      0            0       2      0                               8
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/6/2012 6:35 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 11th St -- F St NW                                                                                              QC JOB #: 10695962
+ CITY/STATE: Washington, DC                                                                                                DATE: Wed, Jan 18 2012
+                       695 0.94 414                           Peak-Hour: 5:30 PM -- 6:30 PM                                 6.9        7.7
+
+                          58 578 59
+                                                             Peak 15-Min: 6:15 PM -- 6:30 PM
+                                                                                                                            0.0 7.6 6.8
+
+       282     35                      89    291
+                                                                                                               2.8   0.0                       6.7      3.4
+        0.93   359          0.96      192   0.84
+                                                                                                                     1.4                       2.1
+       491     97                      10    471
+                                                                                                               2.0   5.2                       0.0      2.5
+
+                          31 291 53
+                                                                                                                            12.9 8.9 5.7
+
+                       685 0.97 375
+                                                                                                                            7.2        8.8
+
+
+
+                             496                                                                                             1    8    0
+
+
+                                                                                                                     1                          0
+
+               362                    570                                                                            7                          5
+
+                                                                                                                     1                          0
+
+
+                             453                                                                                             0    10   0
+
+
+
+
+                             NA                                                                                                   NA
+
+
+
+
+               NA                     NA                                                                             NA                        NA
+
+
+
+
+                             NA                                                                                                   NA
+
+
+
+15-Min Count                   11th St                       11th St                  F St NW                      F St NW
+   Period                   (Northbound)                  (Southbound)              (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                 Total
+                    Left     Thru Right      U     Left    Thru Right    U   Left   Thru Right    U     Left     Thru Right       U                      Totals
+   4:30 PM            4       49     14      0       9     100     13    0     6     53     24    1       4       31     19       0          327
+   4:45 PM            4       73     12      0      18     133     14    0     5     67     25    0       2       44     21       0          418
+   5:00 PM           12       52     10      0       9     143     11    0     6     61     18    0       1       56     16       0          395
+   5:15 PM            8       77     14      0      14     156     17    0     7     76     20    0       6       51     21       0          467             1607
+   5:30 PM            9       72     14      0      10     156       9   0     5     99     24    0       3       45     17       0          463             1743
+   5:45 PM            7       70     14      0      12     142     21    0     9     72     30    0       4       62     25       0          468             1793
+   6:00 PM            7       77     14      0      17     123     15    0     7     96     17    0       2       39     25       0          439             1837
+   6:15 PM            8       72     11      0      20     157     13    0    13     92     26    1       1       46     22       0          482             1852
+
+
+
+
+ Peak 15-Min                    Northbound                   Southbound                 Eastbound                   Westbound
+                                                                                                                                                     Total
+  Flowrates         Left    Thru Right     U       Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles       32     288      44    0        80    628    52     0     52    368    104    4       4     184     88    0                      1928
+ Heavy Trucks         4      28       8              4     44     0            0      4      4            0       4      8                            108
+  Pedestrians               500                           500                       336                         540                                  1876
+   Bicycles           0       0       0              0      0     1            0      4      0            0       2      0                             7
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/6/2012 6:35 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 11th St -- F St NW                                                                                              QC JOB #: 10695963
+ CITY/STATE: Washington, DC                                                                                                DATE: Sat, Jan 21 2012
+                       243 0.91 282                           Peak-Hour: 4:00 PM -- 5:00 PM                                 5.8        8.2
+
+                          30 185 28
+                                                             Peak 15-Min: 4:15 PM -- 4:30 PM
+                                                                                                                            0.0 7.6 0.0
+
+       191     17                      91    239
+                                                                                                               4.2   0.0                       9.9      5.0
+        0.94   163          0.94      136   0.89
+                                                                                                                     3.1                       2.2
+       221     41                      12    242
+                                                                                                               4.1   9.8                       0.0      2.5
+
+                          27 173 52
+                                                                                                                            18.5 8.1 1.9
+
+                       240 0.89 252
+                                                                                                                            7.5        7.9
+
+
+
+                             369                                                                                             0    3    1
+
+
+                                                                                                                     0                          0
+
+               141                    518                                                                            1                          1
+
+                                                                                                                     1                          0
+
+
+                             310                                                                                             0    1    0
+
+
+
+
+                             NA                                                                                                   NA
+
+
+
+
+               NA                     NA                                                                             NA                        NA
+
+
+
+
+                             NA                                                                                                   NA
+
+
+
+15-Min Count                   11th St                       11th St                  F St NW                      F St NW
+   Period                   (Northbound)                  (Southbound)              (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                 Total
+                    Left     Thru Right      U     Left    Thru Right    U   Left   Thru Right    U     Left     Thru Right       U                      Totals
+   3:00 PM            1       31     11      0       4      36     10    0     4     38     10    0       1       35     27       0          208
+   3:15 PM            4       43     11      0       7      37     12    0     5     45      7    1       3       29     28       0          232
+   3:30 PM            4       29     14      0       6      48       7   0     6     33     14    0       5       30     24       0          220
+   3:45 PM            7       32     15      0       9      53       7   0     3     38     18    0       3       27     18       0          230              890
+   4:00 PM           10       40     11      0      10      41     10    1     5     35     10    0       2       40     23       0          238              920
+   4:15 PM            2       48     11      1       7      57       9   0     6     44      9    0       6       32     21       0          253              941
+   4:30 PM            5       41     11      1       6      46       3   0     4     40     10    0       3       25     20       0          215              936
+   4:45 PM            8       44     19      0       4      41       8   0     2     44     12    0       1       39     27       0          249              955
+
+
+
+
+ Peak 15-Min                    Northbound                   Southbound                 Eastbound                   Westbound
+                                                                                                                                                     Total
+  Flowrates         Left    Thru Right     U       Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles        8     192      44    4        28    228    36     0     24    176     36    0      24     128     84    0                      1012
+ Heavy Trucks         4      16       0              0     12     0            0      8      4            0       4      4                            52
+  Pedestrians               316                           412                       156                         540                                  1424
+   Bicycles           0       1       0              1      1     0            0      0      1            0       0      0                             4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/31/2012 6:47 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

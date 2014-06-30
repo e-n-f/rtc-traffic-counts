@@ -1,0 +1,168 @@
+Type of peak hour being reported: Intersection Peak                                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 5233 Franklin St -- Michigan Ave NE                                                                                             QC JOB #: 11199120
+ CITY/STATE: Washington, DC                                                                                                                DATE: Wed, Sep 25 2013
+                          0            0                              Peak-Hour: 7:00 PM -- 8:00 PM
+                               0.00                                                                                                         0.0        0.0
+
+                          0     0      0
+                                                                     Peak 15-Min: 7:00 PM -- 7:15 PM
+                                                                                                                                            0.0 0.0 0.0
+
+
+       605    0                               0    346
+                                                                                                                               5.6   0.0                      0.0      5.8
+       0.88   281              0.94         312   0.91
+                                                                                                                                     5.0                      5.8
+       710    429                            34    336
+                                                                                                                               4.6   4.4                      5.9      4.5
+
+                     293        0     55
+                                                                                                                                            5.5 0.0 1.8
+
+                     463              348
+                               0.81                                                                                                         4.5        4.9
+
+
+
+                                10                                                                                                           0    0    0
+
+
+
+                                                                                                                                     0                          0
+
+              2                               6                                                                                      3                          2
+
+                                                                                                                                     3                          0
+
+                                18                                                                                                           1    0    0
+
+
+
+
+                                NA                                                                                                                NA
+
+
+
+
+              NA                            NA                                                                                       NA                       NA
+
+
+
+
+                                NA                                                                                                                NA
+
+
+
+ 15-Min Count                 5233 Franklin St                  5233 Franklin St                  Michigan Ave NE              Michigan Ave NE               Total      Hourly
+    Period                     (Northbound)                      (Southbound)                       (Eastbound)                 (Westbound)                             Totals
+ Beginning At      Left         Thru Right         U     Left     Thru Right       U       Left     Thru Right      U   Left     Thru Right       U
+    7:00 PM         94            0    14          0      0         0      0       0        0        80     92      0     8       87     0        0          375
+    7:15 PM         74            0    16          0      0         0      0       0        0        67    109      0     6       77     0        0          349
+    7:30 PM         63            0    13          0      0         0      0       0        0        71    130      0    12       71     0        0          360
+    7:45 PM         62            0    12          0      0         0      0       0        0        63     98      0     8       77     0        0          320            1404
+
+
+
+
+ Peak 15-Min                       Northbound                        Southbound                        Eastbound                    Westbound
+   Flowrates   Left            Thru Right     U          Left    Thru Right    U           Left    Thru Right    U      Left    Thru Right    U                     Total
+  All Vehicles 376               0     56     0           0        0      0     0           0      320   368     0       32     348     0     0                     1500
+ Heavy Trucks   24               0      0                 0        0      0                 0       16    24              0      24     0                            88
+  Pedestrians                   28                                12                                 0                           16                                  56
+    Bicycles     0               0      0                 0        0      0                 0        0      0            0        2     0                             2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/4/2013 9:13 AM                                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Franklin St NE -- Michigan Ave NW                                                                                          QC JOB #: 10695721
+ CITY/STATE: Washington, DC                                                                                                           DATE: Sat, Jun 08 2013
+                         0           0                            Peak-Hour: 2:30 PM -- 3:30 PM                                        0.0        0.0
+
+                         0     0     0
+                                                                 Peak 15-Min: 2:45 PM -- 3:00 PM
+                                                                                                                                       0.0 0.0 0.0
+
+
+       754   0                              0   427
+                                                                                                                          2.4   0.0                      0.0      2.8
+             269             0.95         404
+                                                                                                                                3.7                      3.0
+       604   335                           23   294
+                                                                                                                          4.3   4.8                      0.0      3.4
+
+                    350        0    25
+                                                                                                                                       1.7 0.0 0.0
+
+                    358             375
+                                                                                                                                       4.5        1.6
+
+
+
+                               5                                                                                                        0    0    0
+
+
+
+                                                                                                                                0                          0
+
+             0                              9                                                                                   0                         10
+
+                                                                                                                                4                          1
+
+                              41                                                                                                        0    0    0
+
+
+
+
+                              NA                                                                                                             NA
+
+
+
+
+             NA                           NA                                                                                    NA                       NA
+
+
+
+
+                              NA                                                                                                             NA
+
+
+
+ 15-Min Count                Franklin St NE                  Franklin St NE                  Michigan Ave NW              Michigan Ave NW               Total      Hourly
+    Period                   (Northbound)                    (Southbound)                      (Eastbound)                  (Westbound)                            Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right      U       Left     Thru Right      U   Left     Thru Right       U
+    1:00 PM        57           0       1       0      0        0       0     0        0        61     79      0    15      100      0       0          313
+    1:15 PM        58           0       6       0      0        0       0     0        0        81     65      0     6       82      0       0          298
+    1:30 PM        90           0       4       0      0        0       0     0        0        99     90      0     4       97      0       0          384
+    1:45 PM        81           0       6       0      0        0       0     0        0        69     86      0    11       99      0       0          352            1347
+    2:00 PM        74           0       7       0      0        0       0     0        0        70     79      0    10       81      0       0          321            1355
+    2:15 PM        99           0       7       0      0        0       0     0        0        61     64      0     5       79      0       0          315            1372
+    2:30 PM        97           0       6       0      0        0       0     0        0        77     79      0     3      103      0       0          365            1353
+    2:45 PM        95           0       6       0      0        0       0     0        0        65     89      0     5      110      0       0          370            1371
+    3:00 PM        79           0       5       0      0        0       0     0        0        61     76      0    12      109      0       0          342            1392
+    3:15 PM        79           0       8       0      0        0       0     0        0        66     91      0     3       82      0       0          329            1406
+    3:30 PM        93           0       7       0      0        0       0     0        0        76     90      0     5       92      0       0          363            1404
+    3:45 PM        66           0       8       0      0        0       0     0        0        61     86      0     5       93      0       0          319            1353
+    4:00 PM        82           0       7       0      0        0       0     0        0        67     73      0     4      114      0       0          347            1358
+    4:15 PM        64           0       5       0      0        0       0     0        0        67     86      0     6       77      0       0          305            1334
+    4:30 PM        81           0       4       0      0        0       0     0        0        88     82      0     6       62      0       0          323            1294
+    4:45 PM        65           0       7       0      0        0       0     0        0        78     77      0     3       55      0       0          285            1260
+    5:00 PM        74           0       9       0      0        0       0     0        0        63     84      0     3       78      0       0          311            1224
+    5:15 PM        76           0       6       0      0        0       0     0        0        60     98      0     6       69      0       0          315            1234
+    5:30 PM        65           0       4       1      0        0       0     0        0        70     89      0     2       80      0       0          311            1222
+    5:45 PM        58           0       2       0      0        0       0     0        0        56     83      0     5       57      0       0          261            1198
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                        Eastbound                    Westbound
+   Flowrates   Left          Thru Right     U         Left   Thru Right    U          Left     Thru Right    U     Left     Thru Right    U                    Total
+  All Vehicles 380             0     24     0          0       0      0     0          0       260   356     0      20      440     0     0                    1480
+ Heavy Trucks    8             0      0                0       0      0                0         4    28             0        8     0                           48
+  Pedestrians                 24                               4                                 0                            4                                 32
+    Bicycles     0             0      0                0       0      0                0         0      2           1         5     0                            8
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 7:42 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

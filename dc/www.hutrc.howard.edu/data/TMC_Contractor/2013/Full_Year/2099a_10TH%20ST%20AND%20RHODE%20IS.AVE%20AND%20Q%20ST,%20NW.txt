@@ -1,0 +1,442 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Q St W -- Rhode Island Ave                                                                                          QC JOB #: 10863204
+ CITY/STATE: Washington, DC                                                                                                    DATE: Tue, Mar 05 2013
+                     198              0                             Peak-Hour: 8:05 AM -- 9:05 AM                               7.1        0.0
+
+                          0    0     198
+                                                                   Peak 15-Min: 8:40 AM -- 8:55 AM
+                                                                                                                                0.0 0.0 7.1
+
+
+       1209   1                               0   1217
+                                                                                                                   4.5   0.0                      0.0       4.4
+              386             0.95         1208
+                                                                                                                         6.5                      4.5
+       387    0                               9    592
+                                                                                                                   6.5   0.0                      0.0       6.6
+
+                          0    0      0
+                                                                                                                                0.0 0.0 0.0
+
+                          1           0
+                                                                                                                                0.0        0.0
+
+
+
+                               36                                                                                                0    1    9
+
+
+
+                                                                                                                         0                          0
+
+              1                               1                                                                          1                         65
+
+                                                                                                                         0                          0
+
+                              107                                                                                                0    0    0
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+
+              NA                            NA                                                                           NA                       NA
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+ 5-Min Count                     Q St W                            Q St W               Rhode Island Ave           Rhode Island Ave              Total       Hourly
+     Period                   (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                             Totals
+ Beginning At      Left        Thru Right     U          Left    Thru Right    U    Left Thru Right        U   Left Thru Right      U
+     7:30 AM        0            0      0     0           17       0      0     0    0     29      0       0    0     83      0     0            129             1319
+     7:35 AM        0            0      0     0           13       0      0     0    0     30      0       0    0     94      0     0            137             1374
+     7:40 AM        0            0      0     0           19       0      0     0    0     36      0       0    0     90      0     0            145             1436
+     7:45 AM        0            0      0     0           10       0      0     0    0     27      0       0    0    106      0     0            143             1476
+     7:50 AM        0            0      0     0            7       0      0     0    0     41      0       0    0     81      0     0            129             1516
+     7:55 AM        0            0      0     0           19       0      0     0    0     24      0       0    0     91      0     0            134             1538
+     8:00 AM        0            0      0     0           14       0      0     0    0     42      0       0    0     76      0     1            133             1572
+     8:05 AM        0            0      0     0           20       0      0     0    0     30      0       0    0    107      0     0            157             1580
+     8:10 AM        0            0      0     0           13       0      0     0    0     29      0       0    0     91      0     0            133             1617
+     8:15 AM        0            0      0     0           15       0      0     0    0     18      0       0    0    108      0     0            141             1632
+     8:20 AM        0            0      0     0           17       0      0     0    0     33      0       0    0    101      0     1            152             1668
+     8:25 AM        0            0      0     0           18       0      0     0    0     47      0       0    0     99      0     0            164             1697
+     8:30 AM        0            0      0     0           16       0      0     0    0     31      0       0    0    108      0     1            156             1724
+     8:35 AM        0            0      0     0           21       0      0     0    0     32      0       0    0     99      0     0            152             1739
+     8:40 AM        0            0      0     0           15       0      0     0    0     34      0       1    0     94      0     2            146             1740
+     8:45 AM        0            0      0     0           14       0      0     0    0     34      0       0    0    111      0     2            161             1758
+     8:50 AM        0            0      0     0           13       0      0     0    0     37      0       0    1    116      0     0            167             1796
+     8:55 AM        0            0      0     0           17       0      0     0    0     33      0       0    0     89      0     0            139             1801
+     9:00 AM        0            0      0     0           19       0      0     0    0     28      0       0    0     85      0     2            134             1802
+     9:05 AM        0            0      0     0           13       0      0     0    0     22      0       0    0    104      0     1            140             1785
+     9:10 AM        0            0      0     0           14       0      1     0    0     39      0       0    0     89      0     1            144             1796
+     9:15 AM        0            0      0     0           15       0      0     0    0     26      0       0    0     89      0     0            130             1785
+     9:20 AM        0            0      0     0           14       0      0     0    0     29      0       0    0     85      0     1            129             1762
+     9:25 AM        0            0      0     0           15       0      1     0    0     32      0       0    0    100      0     0            148             1746
+ Peak 15-Min                       Northbound                        Southbound               Eastbound                  Westbound
+   Flowrates       Left        Thru Right     U          Left    Thru Right    U    Left Thru Right        U   Left Thru Right      U                    Total
+  All Vehicles      0            0      0     0          168       0      0     0    0    420      0       4    4 1284        0    16                    1896
+ Heavy Trucks       0            0      0                 12       0      0          0     16      0            0     68      0                            96
+  Pedestrians                 108                                 60                        0                          4                                  172
+    Bicycles        0            0      0                  4       0      0          0      1      0            0     20      0                            25
+   Railroad
+Stopped Buses
+ Comments: 2099a
+Report generated on 4/2/2013 7:14 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Q St W -- Rhode Island Ave                                                                                       QC JOB #: 10863205
+ CITY/STATE: Washington, DC                                                                                                 DATE: Tue, Mar 05 2013
+                    225              0                          Peak-Hour: 12:00 PM -- 1:00 PM                               2.7        0.0
+
+                         1    0     224
+                                                               Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                             0.0 0.0 2.7
+
+
+       476   0                              0   480
+                                                                                                                6.7   0.0                      0.0       6.7
+             552             0.91         475
+                                                                                                                      6.7                      6.7
+       552   0                              5   781
+                                                                                                                6.7   0.0                      0.0       5.5
+
+                         0    0      0
+                                                                                                                             0.0 0.0 0.0
+
+                         0           0
+                                                                                                                             0.0        0.0
+
+
+
+                              7                                                                                               0    0    3
+
+
+
+                                                                                                                      0                          0
+
+             1                              0                                                                         4                          6
+
+                                                                                                                      0                          0
+
+                              19                                                                                              0    0    0
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+
+             NA                           NA                                                                          NA                       NA
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+ 5-Min Count                    Q St W                          Q St W               Rhode Island Ave           Rhode Island Ave              Total       Hourly
+     Period                  (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right     U        Left    Thru Right    U    Left Thru Right        U   Left Thru Right      U
+   11:00 AM        0            0      0     0         18       0      0     0    0     34      0       0    0     43      0     0             95
+   11:05 AM        0            0      0     0          4       0      0     0    0     53      0       0    0     49      0     1            107
+   11:10 AM        0            0      0     0         17       0      0     0    0     38      0       0    0     39      0     2             96
+   11:15 AM        0            0      0     0         11       0      0     0    0     39      0       0    0     54      0     1            105
+   11:20 AM        0            0      0     0          8       0      0     0    0     37      0       0    0     34      0     0             79
+   11:25 AM        0            0      0     0          9       0      0     0    0     31      0       0    0     49      0     0             89
+   11:30 AM        0            0      0     0         18       0      0     0    0     28      0       0    0     42      0     0             88
+   11:35 AM        0            0      0     0         14       0      0     0    0     34      0       0    0     36      0     1             85
+   11:40 AM        0            0      0     0         19       0      0     0    0     31      0       0    0     33      0     2             85
+   11:45 AM        0            0      0     0         15       0      0     0    0     33      0       0    0     37      0     1             86
+   11:50 AM        0            0      0     0         14       0      0     0    0     31      0       0    0     40      0     0             85
+   11:55 AM        0            0      0     0         14       0      0     0    0     42      0       0    0     33      0     0             89             1089
+   12:00 PM        0            0      0     0         20       0      0     0    0     40      0       0    0     45      0     0            105             1099
+   12:05 PM        0            0      0     0         28       0      0     0    0     45      0       0    0     37      0     2            112             1104
+   12:10 PM        0            0      0     0         19       0      0     0    0     44      0       0    0     44      0     0            107             1115
+   12:15 PM        0            0      0     0         21       0      0     0    0     49      0       0    0     34      0     1            105             1115
+   12:20 PM        0            0      0     0         15       0      0     0    0     34      0       0    0     38      0     0             87             1123
+   12:25 PM        0            0      0     0         18       0      0     0    0     48      0       0    0     30      0     0             96             1130
+   12:30 PM        0            0      0     0         20       0      0     0    0     55      0       0    0     37      0     0            112             1154
+   12:35 PM        0            0      0     0         18       0      1     0    0     48      0       0    0     43      0     0            110             1179
+   12:40 PM        0            0      0     0         17       0      0     0    0     57      0       0    0     51      0     0            125             1219
+   12:45 PM        0            0      0     0         18       0      0     0    0     36      0       0    0     34      0     1             89             1222
+   12:50 PM        0            0      0     0         13       0      0     0    0     48      0       0    0     42      0     1            104             1241
+   12:55 PM        0            0      0     0         17       0      0     0    0     48      0       0    0     40      0     0            105             1257
+ Peak 15-Min                      Northbound                      Southbound               Eastbound                  Westbound
+   Flowrates      Left        Thru Right     U        Left    Thru Right    U    Left Thru Right        U   Left Thru Right      U                    Total
+  All Vehicles     0            0      0     0        220       0      4     0    0    640      0       0    0    524      0     0                    1388
+ Heavy Trucks      0            0      0                4       0      0          0     48      0            0     44      0                           96
+  Pedestrians                  16                               8                        0                          0                                  24
+    Bicycles       0            0      0                0       0      0          0      2      0            0      0      0                            2
+   Railroad
+Stopped Buses
+ Comments: 2099a
+Report generated on 4/2/2013 7:14 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Q St W -- Rhode Island Ave                                                                                        QC JOB #: 10863206
+ CITY/STATE: Washington, DC                                                                                                  DATE: Tue, Mar 05 2013
+                    271              0                            Peak-Hour: 5:30 PM -- 6:30 PM                               2.2        0.0
+
+                         5    0     266
+                                                                 Peak 15-Min: 5:50 PM -- 6:05 PM
+                                                                                                                              0.0 0.0 2.3
+
+
+       558   2                              0    556
+                                                                                                                 2.5   0.0                      0.0       2.5
+             960             0.94         551
+                                                                                                                       4.3                      2.5
+       962   0                              5   1231
+                                                                                                                 4.3   0.0                      0.0       3.8
+
+                         0    0      0
+                                                                                                                              0.0 0.0 0.0
+
+                         0           0
+                                                                                                                              0.0        0.0
+
+
+
+                              29                                                                                               0    0    21
+
+
+
+                                                                                                                       0                          0
+
+             6                              0                                                                          33                         7
+
+                                                                                                                       0                          0
+
+                             109                                                                                               0    0    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 5-Min Count                    Q St W                           Q St W               Rhode Island Ave           Rhode Island Ave              Total       Hourly
+     Period                  (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right     U         Left    Thru Right    U    Left Thru Right        U   Left Thru Right      U
+     5:00 PM       0            0      0     0          21       0      1     0    0     77      0       1    0     51      0     0            151             1732
+     5:05 PM       0            0      0     0          12       0      1     0    0     83      0       0    0     47      0     0            143             1741
+     5:10 PM       0            0      0     0          31       0      0     0    0     79      0       0    0     54      0     1            165             1751
+     5:15 PM       0            0      0     0           9       0      3     0    0     65      0       0    0     48      0     0            125             1733
+     5:20 PM       0            0      0     0          27       0      0     0    0     72      0       0    0     52      0     0            151             1736
+     5:25 PM       0            0      0     0          10       0      2     0    0     61      0       0    0     44      0     0            117             1734
+     5:30 PM       0            0      0     0          27       0      0     0    0     86      0       0    0     75      0     0            188             1773
+     5:35 PM       0            0      0     0          12       0      0     0    0     54      0       0    0     43      0     1            110             1755
+     5:40 PM       0            0      0     0          26       0      1     0    0     68      0       1    0     48      0     0            144             1742
+     5:45 PM       0            0      0     0          10       0      4     0    0     80      0       0    0     35      0     0            129             1733
+     5:50 PM       0            0      0     0          34       0      0     0    0     78      0       0    0     50      0     1            163             1730
+     5:55 PM       0            0      0     0          18       0      0     0    0     86      0       1    0     38      0     1            144             1730
+     6:00 PM       0            0      0     0          25       0      0     0    0     94      0       0    0     48      0     0            167             1746
+     6:05 PM       0            0      0     0          24       0      0     0    0     90      0       0    0     37      0     0            151             1754
+     6:10 PM       0            0      0     0          20       0      0     0    0     77      0       0    0     43      0     0            140             1729
+     6:15 PM       0            0      0     0          21       0      0     0    0     81      0       0    0     38      0     1            141             1745
+     6:20 PM       0            0      0     0          27       0      0     0    0     76      0       0    0     52      0     1            156             1750
+     6:25 PM       0            0      0     0          22       0      0     0    0     90      0       0    0     44      0     0            156             1789
+     6:30 PM       0            0      0     0          19       0      0     0    0     74      0       0    0     46      0     1            140             1741
+     6:35 PM       0            0      0     0          23       0      0     0    0     71      0       0    0     25      0     0            119             1750
+     6:40 PM       0            0      0     0          20       0      0     0    0     90      0       0    0     38      0     1            149             1755
+     6:45 PM       0            0      0     0          27       0      0     0    0     63      0       0    0     30      0     0            120             1746
+     6:50 PM       0            0      0     0          17       0      1     0    0     61      0       0    0     33      0     1            113             1696
+     6:55 PM       0            0      0     0          21       0      0     0    0     68      0       0    0     31      0     0            120             1672
+ Peak 15-Min                      Northbound                       Southbound               Eastbound                  Westbound
+   Flowrates      Left        Thru Right     U         Left    Thru Right    U    Left Thru Right        U   Left Thru Right      U                    Total
+  All Vehicles     0            0      0     0         308       0      0     0    0 1032        0       4    0    544      0     8                    1896
+ Heavy Trucks      0            0      0                 8       0      0          0     52      0            0     20      0                            80
+  Pedestrians                128                                32                       16                          0                                  176
+    Bicycles       0            0      0                 5       0      0          0      7      0            0      1      0                            13
+   Railroad
+Stopped Buses
+ Comments: 2099a
+Report generated on 4/2/2013 7:14 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Q St W -- Rhode Island Ave                                                                                            QC JOB #: 10863215
+ CITY/STATE: Washington, DC                                                                                                      DATE: Tue, Mar 05 2013
+                      215              0                            Peak-Hour: 7:00 PM -- 8:00 PM
+                               0.80                                                                                               0.5        0.0
+
+                           0    0     215
+                                                                   Peak 15-Min: 7:00 PM -- 7:15 PM
+                                                                                                                                  0.0 0.0 0.5
+
+
+       309     1                              0    310
+                                                                                                                     1.6   0.0                      0.0       1.6
+        0.83   590             0.89         308   0.86
+                                                                                                                           3.2                      1.6
+       591     0                              2    807
+                                                                                                                     3.2   0.0                      0.0       2.5
+
+                           0    0      0
+                                                                                                                                  0.0 0.0 0.0
+
+                           0           0
+                               0.00                                                                                               0.0        0.0
+
+
+
+                                22                                                                                                 0    0    12
+
+
+
+                                                                                                                           0                          0
+
+               2                              0                                                                            25                         1
+
+                                                                                                                           0                          0
+
+                                93                                                                                                 0    0    0
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+
+               NA                           NA                                                                             NA                       NA
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+ 15-Min Count                     Q St W                           Q St W              Rhode Island Ave           Rhode Island Ave                 Total       Hourly
+    Period                     (Northbound)                     (Southbound)             (Eastbound)                (Westbound)                                Totals
+ Beginning At       Left        Thru Right         U     Left    Thru Right    U   Left Thru Right        U   Left Thru Right           U
+    7:00 PM          0            0      0         0      64       0      0    0    0    178      0       0    0     72      0          1          315
+    7:15 PM          0            0      0         0      67       0      0    0    0    148      0       0    0     90      0          0          305
+    7:30 PM          0            0      0         0      43       0      0    0    0    136      0       0    0     75      0          1          255
+    7:45 PM          0            0      0         0      41       0      0    0    0    128      0       1    0     71      0          0          241             1116
+
+
+
+
+ Peak 15-Min                       Northbound                       Southbound                Eastbound                   Westbound
+   Flowrates        Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles       0           0      0     0          256      0      0     0    0     712      0    0      0      288     0     4                      1260
+ Heavy Trucks        0           0      0                  4      0      0          0      16      0           0        4     0                              24
+  Pedestrians                   76                               28                         0                           0                                   104
+    Bicycles         0           0      0                  6      0      0          0       5      0           0        0     0                              11
+   Railroad
+Stopped Buses
+ Comments: 2099a
+Report generated on 4/2/2013 7:53 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Q St W -- Rhode Island Ave                                                                                            QC JOB #: 10863216
+ CITY/STATE: Washington, DC                                                                                                      DATE: Sat, Mar 09 2013
+                      229              0                            Peak-Hour: 2:45 PM -- 3:45 PM
+                               0.91                                                                                               0.9        0.0
+
+                           0    0     229
+                                                                   Peak 15-Min: 3:30 PM -- 3:45 PM
+                                                                                                                                  0.0 0.0 0.9
+
+
+       517     0                              0    518
+                                                                                                                     1.4   0.0                      0.0       1.4
+        0.91   559             0.95         517   0.89
+                                                                                                                           1.4                      1.4
+       559     0                              1    789
+                                                                                                                     1.4   0.0                      0.0       1.3
+
+                           0    0      0
+                                                                                                                                  0.0 0.0 0.0
+
+                           0           0
+                               0.00                                                                                               0.0        0.0
+
+
+
+                                33                                                                                                 0    0    11
+
+
+
+                                                                                                                           0                          0
+
+               2                              0                                                                            14                        11
+
+                                                                                                                           0                          0
+
+                                38                                                                                                 0    0    0
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+
+               NA                           NA                                                                             NA                       NA
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+ 15-Min Count                     Q St W                           Q St W              Rhode Island Ave           Rhode Island Ave                 Total       Hourly
+    Period                     (Northbound)                     (Southbound)             (Eastbound)                (Westbound)                                Totals
+ Beginning At       Left        Thru Right         U     Left    Thru Right    U   Left Thru Right        U   Left Thru Right           U
+    1:00 PM          0            0      0         0      53       0      0    0    0    116      0       0    0    145      0          0          314
+    1:15 PM          0            0      0         0      50       0      1    0    0    100      0       0    0    130      0          2          283
+    1:30 PM          0            0      0         0      48       0      0    0    0    127      0       0    0    131      0          0          306
+    1:45 PM          0            0      0         0      37       0      0    0    0    129      0       0    0    113      0          1          280             1183
+    2:00 PM          0            0      0         0      50       0      0    0    0    113      0       0    0    121      0          1          285             1154
+    2:15 PM          0            0      0         0      48       0      1    0    0    132      0       0    0    123      0          1          305             1176
+    2:30 PM          0            0      0         0      50       0      0    0    0    111      0       0    0    151      0          4          316             1186
+    2:45 PM          0            0      0         0      54       0      0    0    0    123      0       0    0    140      0          0          317             1223
+    3:00 PM          0            0      0         0      53       0      0    0    0    141      0       0    0    133      0          1          328             1266
+    3:15 PM          0            0      0         0      59       0      0    0    0    135      0       0    0    123      0          0          317             1278
+    3:30 PM          0            0      0         0      63       0      0    0    0    160      0       0    0    121      0          0          344             1306
+    3:45 PM          0            0      0         0      46       0      0    0    0    164      0       0    0    104      0          1          315             1304
+    4:00 PM          0            0      0         0      62       0      0    0    0    127      0       0    0    121      0          0          310             1286
+    4:15 PM          0            0      0         0      43       0      0    0    0    130      0       0    0    117      0          0          290             1259
+    4:30 PM          0            0      0         0      58       0      0    0    0    118      0       0    0     87      0          0          263             1178
+    4:45 PM          0            0      0         0      30       0      0    0    0    147      0       0    0    117      0          1          295             1158
+    5:00 PM          0            0      0         0      48       0      1    0    0    120      0       0    0     93      0          1          263             1111
+    5:15 PM          0            0      0         0      30       0      0    0    0    116      0       0    0    118      0          1          265             1086
+    5:30 PM          0            0      0         0      47       0      0    0    0    114      0       0    0    100      0          1          262             1085
+    5:45 PM          0            0      0         0      43       0      0    0    0    123      0       0    0    124      0          1          291             1081
+
+
+
+
+ Peak 15-Min                       Northbound                       Southbound                Eastbound                   Westbound
+   Flowrates        Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles       0           0      0     0          252      0      0     0    0     640      0    0      0      484     0     0                      1376
+ Heavy Trucks        0           0      0                  0      0      0          0       8      0           0       12     0                              20
+  Pedestrians                   72                               52                         0                           0                                   124
+    Bicycles         0           0      0                  3      0      0          0       4      0           0        4     0                              11
+   Railroad
+Stopped Buses
+ Comments: 2099a
+Report generated on 4/2/2013 5:53 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

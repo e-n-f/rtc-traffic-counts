@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 12th St NW -- Rhode Island Ave NW                                                                                 QC JOB #: 10863376
+ CITY/STATE: Washington, DC                                                                                                  DATE: Tue, Feb 26 2013
+                         0          118                          Peak-Hour: 7:45 AM -- 8:45 AM                                0.0        1.7
+
+                         0    0      0
+                                                                Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                              0.0 0.0 0.0
+
+
+       930   1                              3   932
+                                                                                                                 5.4   0.0                      0.0       5.4
+             239             0.97         928
+                                                                                                                       7.5                      5.4
+       240   0                              1   306
+                                                                                                                 7.5   0.0                      0.0       5.9
+
+                         2   114 66
+                                                                                                                              0.0 1.8 0.0
+
+                         0          182
+                                                                                                                              0.0        1.1
+
+
+
+                              23                                                                                               0    0    0
+
+
+
+                                                                                                                       0                          0
+
+             12                            31                                                                          3                         40
+
+                                                                                                                       0                          0
+
+                              74                                                                                               0    4    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count                 12th St NW                      12th St NW          Rhode Island Ave NW       Rhode Island Ave NW                Total       Hourly
+    Period                   (Northbound)                    (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+    7:00 AM        1           20     24        0      0        0      0    0    0    71       0     0     0   176       1     0               293
+    7:15 AM        0           20     11        0      0        0      0    0    0    60       0     0     0   207       0     1               299
+    7:30 AM        0           26     13        0      0        0      0    0    2    53       0     0     0   221       0     0               315
+    7:45 AM        1           35     14        0      0        0      0    0    0    62       0     0     0   236       0     0               348             1255
+    8:00 AM        0           31     13        0      0        0      0    0    0    66       0     0     0   228       1     0               339             1301
+    8:15 AM        1           21     18        0      0        0      0    0    1    54       0     0     0   247       0     0               342             1344
+    8:30 AM        0           27     21        0      0        0      0    0    0    57       0     0     0   217       2     1               325             1354
+    8:45 AM        0           24     17        0      0        0      0    0    1    73       0     0     0   216       2     2               335             1341
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     4         140     56     0          0       0      0     0    0     248      0    0     0      944     0     0                      1392
+ Heavy Trucks      0           8      0                0       0      0          0      20      0          0       52     0                              80
+  Pedestrians                 52                              28                        12                         12                                   104
+    Bicycles       0           1      0                0       0      0          0       0      0          0        8     0                               9
+   Railroad
+Stopped Buses
+ Comments: 2129
+Report generated on 3/19/2013 11:22 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 12th St NW -- Rhode Island Ave NW                                                                                 QC JOB #: 10863378
+ CITY/STATE: Washington, DC                                                                                                  DATE: Tue, Feb 26 2013
+                         0          100                         Peak-Hour: 11:45 AM -- 12:45 PM                               0.0        3.0
+
+                         0    0      0
+                                                               Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       403   2                              5   404
+                                                                                                                 5.2   0.0                     20.0       5.2
+             337             0.97         397
+                                                                                                                       8.9                      5.0
+       339   0                              2   417
+                                                                                                                 8.8   0.0                      0.0       8.2
+
+                         6    93    78
+                                                                                                                              16.7 2.2 5.1
+
+                         0          177
+                                                                                                                              0.0        4.0
+
+
+
+                              5                                                                                                0    0    0
+
+
+
+                                                                                                                       1                          0
+
+             4                              6                                                                          6                          3
+
+                                                                                                                       0                          0
+
+                              17                                                                                               0    2    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count                 12th St NW                      12th St NW          Rhode Island Ave NW       Rhode Island Ave NW                Total       Hourly
+    Period                   (Northbound)                    (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+   11:00 AM        2           25     16        0      0        0      0    0    2    82       0     1     0    78       1     0               207
+   11:15 AM        3           14     18        0      0        0      0    0    1    76       0     0     0    96       4     0               212
+   11:30 AM        1            9     14        0      0        0      0    0    1    67       0     0     0   100       1     0               193
+   11:45 AM        3           28     14        0      0        0      0    0    0    78       0     0     0   107       1     0               231              843
+   12:00 PM        1           20     17        0      0        0      0    0    1    79       0     0     0   108       2     0               228              864
+   12:15 PM        1           30     18        0      0        0      0    0    1    95       0     0     0    79       0     1               225              877
+   12:30 PM        1           15     29        0      0        0      0    0    0    85       0     0     0   103       2     1               236              920
+   12:45 PM        3           16     19        0      0        0      0    0    0    81       0     0     0    87       0     0               206              895
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     4          60    116     0          0       0      0     0    0     340      0    0     0      412     8     4                      944
+ Heavy Trucks      0           0      0                0       0      0          0      32      0          0       16     4                             52
+  Pedestrians                 16                               8                         4                          8                                   36
+    Bicycles       0           1      0                0       0      0          0       4      0          0        0     0                              5
+   Railroad
+Stopped Buses
+ Comments: 2129
+Report generated on 3/19/2013 11:22 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 12th St NW -- Rhode Island Ave NW                                                                                 QC JOB #: 10863377
+ CITY/STATE: Washington, DC                                                                                                  DATE: Tue, Feb 26 2013
+                         0          244                          Peak-Hour: 5:15 PM -- 6:15 PM                                0.0        0.8
+
+                         0    0      0
+                                                                Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       482   14                            11   484
+                                                                                                                 2.5   0.0                      0.0       2.5
+             757             0.90         472
+                                                                                                                       2.8                      2.5
+       771   0                              1   892
+                                                                                                                 2.7   0.0                      0.0       2.6
+
+                       10 219 134
+                                                                                                                              0.0 0.9 1.5
+
+                         0          363
+                                                                                                                              0.0        1.1
+
+
+
+                              13                                                                                               0    0    0
+
+
+
+                                                                                                                       0                          0
+
+             8                             16                                                                          20                         3
+
+                                                                                                                       0                          0
+
+                              36                                                                                               0    10   6
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count                 12th St NW                      12th St NW          Rhode Island Ave NW       Rhode Island Ave NW                Total       Hourly
+    Period                   (Northbound)                    (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+    4:30 PM        1           41     40        0      0        0      0    0    1   135       0     0     0   113       1     0               332
+    4:45 PM        0           64     32        0      0        0      0    0    2   162       0     0     0   123       3     0               386
+    5:00 PM        2           41     42        0      0        0      0    0    3   168       0     0     0   114       0     0               370
+    5:15 PM        1           50     30        0      0        0      0    0    2   201       0     0     0   122       1     0               407             1495
+    5:30 PM        2           59     32        0      0        0      0    0    4   203       0     0     0   147       1     0               448             1611
+    5:45 PM        5           62     34        0      0        0      0    0    3   167       0     0     0   104       2     0               377             1602
+    6:00 PM        2           48     38        0      0        0      0    0    5   186       0     0     0    99       7     1               386             1618
+    6:15 PM        2           50     41        0      0        0      0    0    3   151       0     0     0    92       2     1               342             1553
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     8         236    128     0          0       0      0     0    16    812      0    0     0      588     4     0                      1792
+ Heavy Trucks      0           4      0                0       0      0           0     24      0          0        4     0                             32
+  Pedestrians                 28                               4                         8                         16                                   56
+    Bicycles       0           3      0                0       0      0          0       9      0          0        0     0                             12
+   Railroad
+Stopped Buses
+ Comments: 2129
+Report generated on 3/19/2013 11:22 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 12th St -- Rhode Island Ave                                                                                        QC JOB #: 10863379
+ CITY/STATE: Washington, DC                                                                                                   DATE: Sat, Mar 02 2013
+                         0          151                          Peak-Hour: 3:00 PM -- 4:00 PM                                 0.0        2.0
+
+                         0    0      0
+                                                                Peak 15-Min: 3:30 PM -- 3:45 PM
+                                                                                                                               0.0 0.0 0.0
+
+
+       395   10                            10   394
+                                                                                                                  0.8   0.0                      0.0       0.8
+             408             0.88         383
+                                                                                                                        2.0                      0.8
+       418   0                              1   489
+                                                                                                                  1.9   0.0                      0.0       1.8
+
+                       11 132 80
+                                                                                                                               0.0 2.3 1.3
+
+                         0          223
+                                                                                                                               0.0        1.8
+
+
+
+                              28                                                                                                0    0    0
+
+
+
+                                                                                                                        0                          0
+
+             9                             12                                                                           6                         13
+
+                                                                                                                        0                          0
+
+                              44                                                                                                0    1    1
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count                   12th St                         12th St             Rhode Island Ave           Rhode Island Ave                 Total       Hourly
+    Period                   (Northbound)                    (Southbound)             (Eastbound)                (Westbound)                                Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U   Left Thru Right        U   Left Thru Right           U
+    3:00 PM        4           28     15        0      0        0       0   0    1     83      0       1    0    103      2          0          237
+    3:15 PM        2           31     20        0      0        0       0   0    1    106      0       0    0    102      1          1          264
+    3:30 PM        1           44     22        0      0        0       0   0    4    129      0       0    0     90      5          0          295
+    3:45 PM        4           29     23        0      0        0       0   0    3     90      0       0    0     88      2          0          239             1035
+    4:00 PM        2           30     20        0      0        0       0   0    1     81      0       0    0     91      0          0          225             1023
+    4:15 PM        4           27     22        0      0        0       0   0    0     85      0       0    0     86      2          0          226              985
+    4:30 PM        0           36     20        0      0        0       0   0    3     83      0       1    0     96      1          0          240              930
+    4:45 PM        1           25     14        0      0        0       0   0    1     87      0       0    0     94      0          0          222              913
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     4         176     88     0          0       0      0     0    16    516      0    0      0      360    20     0                      1180
+ Heavy Trucks      0           4      4                0       0      0           0      4      0           0        0     0                             12
+  Pedestrians                 40                              36                         4                           8                                   88
+    Bicycles       0           0      0                0       0      0          0       1      0           0        2     0                              3
+   Railroad
+Stopped Buses
+ Comments: 2129
+Report generated on 3/19/2013 11:22 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

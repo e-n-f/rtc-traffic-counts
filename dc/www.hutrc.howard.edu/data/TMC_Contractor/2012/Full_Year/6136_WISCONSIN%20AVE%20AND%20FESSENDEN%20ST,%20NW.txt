@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Fessenden St NW                                                                                    QC JOB #: 10706869
+ CITY/STATE: Washington, DC                                                                                                    DATE: Thu, Feb 23 2012
+                      1200            891                          Peak-Hour: 7:45 AM -- 8:45 AM
+                               0.92                                                                                             3.8        5.5
+
+                         13 1144 43
+                                                                  Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                0.0 3.8 2.3
+
+
+       97      27                            63    307
+                                                                                                                   0.0   7.4                      0.0       0.3
+        0.83   66              0.96          80   0.83
+                                                                                                                         0.0                      0.0
+       112     19                           164    109
+                                                                                                                   1.8   0.0                      0.6       0.9
+
+                           4   801     0
+                                                                                                                                0.0 5.9 0.0
+
+                      1327            805
+                               0.94                                                                                             3.4        5.8
+
+
+
+                                19                                                                                               0    1    0
+
+
+
+                                                                                                                         0                          0
+
+               47                            19                                                                          1                          3
+
+                                                                                                                         0                          0
+
+                                8                                                                                                0    10   0
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+
+               NA                           NA                                                                           NA                       NA
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+ 15-Min Count            Wisconsin Ave                        Wisconsin Ave           Fessenden St NW           Fessenden St NW                  Total       Hourly
+    Period               (Northbound)                         (Southbound)              (Eastbound)               (Westbound)                                Totals
+ Beginning At       Left Thru Right                U     Left Thru Right      U   Left Thru Right       U   Left Thru Right           U
+    7:00 AM          0    86      1                0      10   210     1      0    2      5      2      0     9    15    13           0          354
+    7:15 AM          2   114      0                0      15   259     0      0    2     18      6      0    20    21      6          0          463
+    7:30 AM          1   150      0                0      15   322     3      0    4     14      3      0    32    20    10           0          574
+    7:45 AM          0   167      0                0       7   314     2      0    7     22      3      0    45    32    15           0          614             2005
+    8:00 AM          1   226      0                0       9   277     3      0    9     22      3      0    47    15    17           0          629             2280
+    8:15 AM          1   195      0                0       8   291     4      0    6     11      6      0    40    15    18           0          595             2412
+    8:30 AM          2   213      0                0      19   262     4      0    5     11      7      0    32    18    13           0          586             2424
+    8:45 AM          2   217      1                0       5   244     2      0    5     14      3      0    22    33    12           0          560             2370
+
+
+
+
+ Peak 15-Min                       Northbound                     Southbound                 Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U          Left Thru Right    U     Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       4         904      0     0           36 1108     12     0     36     88    12     0    188      60    68     0                      2516
+ Heavy Trucks        0          52      0                  0   44      0            4      0      0           0       0     0                             100
+  Pedestrians                   20                             28                         60                         36                                   144
+    Bicycles         0           2      0                  0    1      0           0       0      0           0       1     0                              4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Fessenden St NW                                                                                  QC JOB #: 10706870
+ CITY/STATE: Washington, DC                                                                                                  DATE: Thu, Feb 23 2012
+                      750          769                        Peak-Hour: 12:00 PM -- 1:00 PM
+                            0.93                                                                                              4.0        4.4
+
+                         25 692 33
+                                                             Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                              4.0 4.2 0.0
+
+
+       121     27                        48    211
+                                                                                                                1.7   3.7                       2.1       2.8
+        0.81   63           0.97         74   0.89
+                                                                                                                      1.6                       0.0
+       107     17                        89    104
+                                                                                                                3.7   11.8                      5.6       1.0
+
+                         22 694     8
+                                                                                                                              4.5 4.6 0.0
+
+                      798          724
+                            0.91                                                                                              4.5        4.6
+
+
+
+                             36                                                                                                0    4    0
+
+
+
+                                                                                                                      0                           0
+
+               151                       49                                                                           1                           0
+
+                                                                                                                      0                           0
+
+                             40                                                                                                0    4    0
+
+
+
+
+                            NA                                                                                                      NA
+
+
+
+
+               NA                        NA                                                                           NA                        NA
+
+
+
+
+                            NA                                                                                                      NA
+
+
+
+ 15-Min Count            Wisconsin Ave                    Wisconsin Ave            Fessenden St NW           Fessenden St NW                   Total       Hourly
+    Period               (Northbound)                     (Southbound)               (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left Thru Right            U     Left Thru Right      U    Left Thru Right       U   Left Thru Right            U
+   11:00 AM          1   162      3            0       8   150     9      1      1    19      4      0    15    19    13            0          405
+   11:15 AM          2   181      2            0       8   171     7      0     10     1      3      0    18    12    16            0          431
+   11:30 AM          1   175      2            1      14   161     3      0      7    13      5      0    13    11    16            0          422
+   11:45 AM          2   168      2            0      10   174     5      0     10    11      2      0    21    12    17            0          434             1692
+   12:00 PM          2   157      2            0      10   174     6      0      5    16      1      0    28    18    13            0          432             1719
+   12:15 PM          6   190      2            0       6   171     4      0      5    14      5      0    17    11    16            0          447             1735
+   12:30 PM          6   167      3            0      10   187     8      0     10    10      8      0    23    21    11            0          464             1777
+   12:45 PM          8   180      1            0       7   160     7      0      7    23      3      0    21    24      8           0          449             1792
+
+
+
+
+ Peak 15-Min                    Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles       24     668     12     0          40    748     32     0    40     40    32     0     92      84    44     0                       1856
+ Heavy Trucks         0      32      0                 0     28      0           0      0      4           8       0     0                               72
+  Pedestrians                12                              36                       108                         52                                    208
+    Bicycles         0        0      0                0       1      0          0       1      0          0        0     0                                2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Fessenden St NW                                                                                   QC JOB #: 10706871
+ CITY/STATE: Washington, DC                                                                                                   DATE: Thu, Feb 23 2012
+                      912          1060                           Peak-Hour: 5:15 PM -- 6:15 PM
+                            0.91                                                                                               2.0        2.4
+
+                      18 840 54
+                                                                 Peak 15-Min: 5:45 PM -- 6:00 PM
+                                                                                                                               0.0 2.0 1.9
+
+
+       152     25                          83    293
+                                                                                                                  0.7   4.0                      0.0       0.3
+        0.84   88           0.99          120   0.94
+                                                                                                                        0.0                      0.8
+       144     31                          90    143
+                                                                                                                  0.7   0.0                      0.0       0.7
+
+                      17 952        1
+                                                                                                                               0.0 2.5 0.0
+
+                      964          970
+                            0.94                                                                                               1.8        2.5
+
+
+
+                             27                                                                                                 0    6    0
+
+
+
+                                                                                                                        0                          0
+
+               91                          64                                                                           0                          3
+
+                                                                                                                        0                          0
+
+                             33                                                                                                 0    4    0
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+
+               NA                         NA                                                                            NA                       NA
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+ 15-Min Count            Wisconsin Ave                      Wisconsin Ave            Fessenden St NW           Fessenden St NW                  Total       Hourly
+    Period               (Northbound)                       (Southbound)               (Eastbound)               (Westbound)                                Totals
+ Beginning At       Left Thru Right              U     Left Thru Right      U    Left Thru Right       U   Left Thru Right           U
+    4:30 PM          4   214      0              0       6   192     8      0     9     26      7      0    28    24    19           0          537
+    4:45 PM          2   201      1              0      14   207     4      0     4     20      6      0    15    17    13           0          504
+    5:00 PM          5   221      1              0      11   188     3      0     4     26      1      0    26    26    11           0          523
+    5:15 PM          3   244      0              1      10   206     8      0     5     33      6      0    19    28    20           0          583             2147
+    5:30 PM          2   227      1              0      13   232     5      0     5     18      8      0    21    34    15           0          581             2191
+    5:45 PM          4   252      0              2      18   195     5      0     6     22      8      0    23    24    28           0          587             2274
+    6:00 PM          5   229      0              0      13   207     0      0     9     15      9      0    27    34    20           0          568             2319
+    6:15 PM          4   221      1              0      12   208     6      0     6     22    12       0    19    40    21           0          572             2308
+
+
+
+
+ Peak 15-Min                 Northbound                           Southbound                Eastbound                  Westbound
+   Flowrates        Left Thru Right     U              Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       16 1008      0     8               72    780     20     0    24     88    32     0     92      96   112     0                      2348
+ Heavy Trucks         0   32      0                      0     12      0           0      0      0           0       0     0                              44
+  Pedestrians             24                                   12                        76                         64                                   176
+    Bicycles          0    0      0                     0       1      0          0       0      0          0        3     0                               4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Fessenden St NW                                                                                 QC JOB #: 10706872
+ CITY/STATE: Washington, DC                                                                                                 DATE: Sat, Apr 21 2012
+                      835          920                          Peak-Hour: 1:00 PM -- 2:00 PM
+                            0.97                                                                                             1.3        0.9
+
+                         23 768 44
+                                                               Peak 15-Min: 1:45 PM -- 2:00 PM
+                                                                                                                             0.0 1.4 0.0
+
+
+       145     25                        62    253
+                                                                                                                0.7   4.0                      0.0       0.8
+        0.95   77           0.95         98   0.90
+                                                                                                                      0.0                      1.0
+       132     30                        93    133
+                                                                                                                0.8   0.0                      1.1       0.0
+
+                         24 833 12
+                                                                                                                             0.0 0.8 0.0
+
+                      891          869
+                            0.95                                                                                             1.3        0.8
+
+
+
+                             30                                                                                               0    2    0
+
+
+
+                                                                                                                      0                          0
+
+               183                       26                                                                           0                          0
+
+                                                                                                                      1                          0
+
+                             63                                                                                               0    0    0
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+
+               NA                        NA                                                                           NA                       NA
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+ 15-Min Count            Wisconsin Ave                    Wisconsin Ave            Fessenden St NW           Fessenden St NW                  Total       Hourly
+    Period               (Northbound)                     (Southbound)               (Eastbound)               (Westbound)                                Totals
+ Beginning At       Left Thru Right            U     Left Thru Right      U    Left Thru Right       U   Left Thru Right           U
+   12:00 PM          8   193      2            0       8   207     6      0      7    18    10       0    24    28      6          0          517
+   12:15 PM          3   176      3            0      10   213     2      0      4    22      8      0    21    22    11           0          495
+   12:30 PM          3   189      2            0      13   206     3      0      6    22      6      0    23    32    17           0          522
+   12:45 PM          2   191      3            0      10   189     7      0      8    16      6      0    22    24    16           0          494             2028
+    1:00 PM          5   199      2            0       8   181     6      0      5    20    10       0    21    34    17           0          508             2019
+    1:15 PM          5   220      3            0      10   202     6      0      3    24      7      0    20    19    12           0          531             2055
+    1:30 PM          6   200      6            0      14   180     4      0      6    16      4      0    22    21    20           0          499             2032
+    1:45 PM          8   214      1            0      12   205     7      0     11    17      9      0    30    24    13           0          551             2089
+
+
+
+
+ Peak 15-Min                    Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       32     856      4     0          48    820     28     0    44     68    36     0    120      96    52     0                      2204
+ Heavy Trucks         0       4      0                 0     16      0           4      0      0           0       0     0                              24
+  Pedestrians                60                              40                       244                         40                                   384
+    Bicycles         0        0      0                0       1      0          0       0      0           0       0     0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

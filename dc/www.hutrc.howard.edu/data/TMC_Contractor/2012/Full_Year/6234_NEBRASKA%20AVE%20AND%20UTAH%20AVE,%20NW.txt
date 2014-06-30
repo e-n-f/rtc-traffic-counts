@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Nebraska Ave -- Utah Ave NW                                                                                          QC JOB #: 10706761
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Feb 22 2012
+                      405             137                          Peak-Hour: 7:45 AM -- 8:45 AM
+                               0.95                                                                                              0.5        5.8
+
+                           6   370 29
+                                                                  Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                                 0.0 0.5 0.0
+
+
+       126     5                            28    142
+                                                                                                                   7.1   20.0                     21.4       6.3
+        0.83   188             0.85         99   0.72
+                                                                                                                         2.1                       3.0
+       280     87                           15    226
+                                                                                                                   4.6   9.2                       0.0       1.8
+
+                         21 104        9
+                                                                                                                                 28.6 1.0 0.0
+
+                      472             134
+                               0.85                                                                                              2.1        5.2
+
+
+
+                                1                                                                                                 0    1    0
+
+
+
+                                                                                                                         0                           0
+
+               3                            11                                                                           1                           1
+
+                                                                                                                         2                           0
+
+                                21                                                                                                0    0    0
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+
+               NA                           NA                                                                           NA                        NA
+
+
+
+
+                                NA                                                                                                     NA
+
+
+
+ 15-Min Count                  Nebraska Ave                    Nebraska Ave              Utah Ave NW                Utah Ave NW                   Total       Hourly
+    Period                     (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                               Totals
+ Beginning At       Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right         U
+    7:00 AM          3           10     4         0       6      65     3     0    2      21     15    0     1       12      3         0          145
+    7:15 AM          4           13     2         0       8      76     0     0    0      38     19    0     2       18      3         0          183
+    7:30 AM          4           25     1         0      13      73     1     0    1      45     23    0     4       15      4         0          209
+    7:45 AM          3           28     3         0      16      91     0     0    2      60     29    0     4       38      7         0          281              818
+    8:00 AM          3           27     2         0      11      92     3     0    0      62     23    0     4       29     10         0          266              939
+    8:15 AM          8           24     1         0       1      94     2     0    0      30     18    0     2       18      4         0          202              958
+    8:30 AM          7           25     3         0       1      93     1     0    3      36     17    0     5       14      7         0          212              961
+    8:45 AM          5           34     3         0       3      89     1     0    6      35     18    0     4       16     11         0          225              905
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles       12        112     12     0          64    364      0     0    8     240   116     0     16     152    28     0                       1124
+ Heavy Trucks         4          4      0                 0      0      0          0       4    12            0       8     4                              36
+  Pedestrians                   36                               4                         4                         16                                    60
+    Bicycles         0           0      0                0       0      0          0       0      1          0        1     0                               2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Nebraska Ave -- Utah Ave NW                                                                                         QC JOB #: 10706762
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, Feb 22 2012
+                      153             77                          Peak-Hour: 11:30 AM -- 12:30 PM
+                               0.84                                                                                             0.7        0.0
+
+                           3   145     5
+                                                                 Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                                0.0 0.7 0.0
+
+
+       71      3                             1     52
+                                                                                                                   5.6   0.0                      0.0       1.9
+        0.74   33              0.94         46   0.74
+                                                                                                                         0.0                      2.2
+       69      33                            5     46
+                                                                                                                   2.9   6.1                      0.0       0.0
+
+                         22     73     8
+                                                                                                                                13.6 0.0 0.0
+
+                      183             103
+                               0.94                                                                                             1.6        2.9
+
+
+
+                                10                                                                                               1    0    0
+
+
+
+                                                                                                                         0                          0
+
+               2                             4                                                                           0                          3
+
+                                                                                                                         0                          0
+
+                                3                                                                                                0    0    0
+
+
+
+
+                                NA                                                                                                    NA
+
+
+
+
+               NA                           NA                                                                           NA                       NA
+
+
+
+
+                                NA                                                                                                    NA
+
+
+
+ 15-Min Count                  Nebraska Ave                    Nebraska Ave              Utah Ave NW                Utah Ave NW                  Total       Hourly
+    Period                     (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM          6           14     4         0      1       31     0     0    0      17      8    0     3        9      1        0           94
+   11:15 AM          7           17     3         0      2       31     2     0    1       8      6    0     2        8      1        0           88
+   11:30 AM          5           20     0         0      2       36     0     0    0       8      9    0     1        9      0        0           90
+   11:45 AM          5           15     1         0      1       46     0     0    3       7      7    0     2       13      0        0          100              372
+   12:00 PM          5           19     2         0      1       35     1     0    0      12      9    0     2       11      1        0           98              376
+   12:15 PM          7           19     5         0      1       28     2     0    0       6      8    0     0       13      0        0           89              377
+   12:30 PM          9           19     3         0      2       25     0     0    2       7      5    0     1        5      2        0           80              367
+   12:45 PM          5           25     2         0      2       33     2     0    1       8      5    0     2       14      2        0          101              368
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       20         60      4     0          4     184      0     0    12     28    28     0     8       52     0     0                      400
+ Heavy Trucks         4          0      0                0       4      0           0      0      4          0        4     0                             16
+  Pedestrians                    4                               4                         8                          8                                   24
+    Bicycles         0           0      0                0       0      0          0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Nebraska Ave -- Utah Ave NW                                                                                         QC JOB #: 10706763
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, Feb 22 2012
+                      139             295                          Peak-Hour: 4:45 PM -- 5:45 PM
+                               0.97                                                                                             0.7        0.7
+
+                           3   136     0
+                                                                  Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                                0.0 0.7 0.0
+
+
+       123     4                            21    118
+                                                                                                                   3.3   0.0                      0.0       0.8
+        0.89   60              0.95         86   0.83
+                                                                                                                         0.0                      1.2
+       110     46                           11     70
+                                                                                                                   2.7   6.5                      0.0       0.0
+
+                         35 270 10
+                                                                                                                                8.6 0.7 0.0
+
+                      194             315
+                               0.84                                                                                             2.1        1.6
+
+
+
+                                14                                                                                               0    0    0
+
+
+
+                                                                                                                         0                          0
+
+               7                            10                                                                           3                          0
+
+                                                                                                                         0                          0
+
+                                11                                                                                               0    0    0
+
+
+
+
+                                NA                                                                                                    NA
+
+
+
+
+               NA                           NA                                                                           NA                       NA
+
+
+
+
+                                NA                                                                                                    NA
+
+
+
+ 15-Min Count                  Nebraska Ave                    Nebraska Ave              Utah Ave NW                Utah Ave NW                  Total       Hourly
+    Period                     (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM           9          56     3         0      2       33     1     0    0      10      4    0     3       14      7        0          142
+    4:45 PM           8          57     2         1      0       35     1     0    2      16      6    0     2       13      7        0          150
+    5:00 PM           9          58     5         0      0       36     0     0    1      12     18    0     6       29      6        0          180
+    5:15 PM           6          86     3         0      0       31     0     0    1      15      9    0     1       19      5        0          176              648
+    5:30 PM          11          69     0         0      0       34     2     0    0      17     13    0     2       25      3        0          176              682
+    5:45 PM           8          54     4         0      2       18     0     0    2       7     12    0     5       28      3        0          143              675
+    6:00 PM           8          62     7         0      1       24     1     0    1      13      9    0     6       33      9        0          174              669
+    6:15 PM          10          50     5         0      2       37     0     0    1      17     12    0     0       44      2        0          180              673
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       36        232     20     0          0     144      0     0    4      48    72     0     24     116    24     0                      720
+ Heavy Trucks         4          4      0                0       0      0          0       0      4           0       0     0                             12
+  Pedestrians                    8                              12                        12                         16                                   48
+    Bicycles         0           0      0                0       0      0          0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Nebraska Ave -- Utah Ave NW                                                                                         QC JOB #: 10706764
+ CITY/STATE: Washington, DC                                                                                                    DATE: Sat, Mar 24 2012
+                         98           111                          Peak-Hour: 1:00 PM -- 2:00 PM
+                               0.77                                                                                             0.0        0.9
+
+                           3    94     1
+                                                                  Peak 15-Min: 1:15 PM -- 1:30 PM
+                                                                                                                                0.0 0.0 0.0
+
+
+       94      4                             2     63
+                                                                                                                   0.0   0.0                      0.0       0.0
+        0.93   43              0.90         48   0.81
+                                                                                                                         0.0                      0.0
+       95      48                           13     56
+                                                                                                                   1.1   2.1                      0.0       0.0
+
+                         43 105 12
+                                                                                                                                0.0 1.0 0.0
+
+                      155             160
+                               0.86                                                                                             0.6        0.6
+
+
+
+                                4                                                                                                0    1    0
+
+
+
+                                                                                                                         0                          0
+
+               2                             2                                                                           0                          0
+
+                                                                                                                         0                          0
+
+                                2                                                                                                0    0    0
+
+
+
+
+                                NA                                                                                                    NA
+
+
+
+
+               NA                           NA                                                                           NA                       NA
+
+
+
+
+                                NA                                                                                                    NA
+
+
+
+ 15-Min Count                  Nebraska Ave                    Nebraska Ave              Utah Ave NW                Utah Ave NW                  Total       Hourly
+    Period                     (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   12:00 PM           5          19     1         0      0       23     2     0    0      16     12    0     5       14      1        0           98
+   12:15 PM           4          17     2         0      0       19     0     0    0      16     13    0     2       14      3        0           90
+   12:30 PM           6          31     2         0      4       19     1     0    1      16      8    0     1       17      1        0          107
+   12:45 PM           9          23     1         0      2       14     0     0    1      17      8    0     0        7      0        0           82              377
+    1:00 PM          14          26     3         0      0       30     2     0    1      10      8    0     4       12      0        0          110              389
+    1:15 PM          12          31     4         0      1       19     1     0    1      15     15    0     3       14      0        0          116              415
+    1:30 PM           5          23     3         0      0       24     0     0    1      12     12    0     4        7      1        0           92              400
+    1:45 PM          12          25     2         0      0       21     0     0    1       6     13    0     2       15      1        0           98              416
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       48        124     16     0          4      76      4     0    4      60    60     0     12      56     0     0                      464
+ Heavy Trucks         0          0      0                0       0      0          0       0      4           0       0     0                             4
+  Pedestrians                    0                               0                         4                          0                                   4
+    Bicycles         0           0      0                0       1      0          0       0      0          0        0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

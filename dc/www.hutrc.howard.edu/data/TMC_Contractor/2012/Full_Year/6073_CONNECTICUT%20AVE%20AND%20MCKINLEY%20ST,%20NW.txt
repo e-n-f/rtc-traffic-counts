@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave -- McKinley St NW                                                                                      QC JOB #: 10706777
+ CITY/STATE: Washington, DC                                                                                                       DATE: Tue, Nov 27 2012
+                      1825          793                            Peak-Hour: 7:45 AM -- 8:45 AM
+                             0.92                                                                                                  1.6        2.5
+
+                         49 1760 16
+                                                                  Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                   6.1 1.4 12.5
+
+
+       267     65                          26    270
+                                                                                                                     7.5   1.5                       3.8       5.6
+        0.81   84            0.97         202   0.84
+                                                                                                                           10.7                      6.9
+       167     18                          42    115
+                                                                                                                     6.6   5.6                       0.0      10.4
+
+                         16 702 15
+                                                                                                                                   18.8 2.6 6.7
+
+                      1820          733
+                             0.91                                                                                                  1.4        3.0
+
+
+
+                              14                                                                                                    0    4    0
+
+
+
+                                                                                                                           0                           0
+
+               49                          16                                                                              0                           0
+
+                                                                                                                           0                           0
+
+                              25                                                                                                    0    1    0
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+
+               NA                         NA                                                                               NA                        NA
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+ 15-Min Count              Connecticut Ave                    Connecticut Ave           McKinley St NW            McKinley St NW                    Total        Hourly
+    Period                  (Northbound)                       (Southbound)              (Eastbound)               (Westbound)                                   Totals
+ Beginning At       Left     Thru Right          U     Left     Thru Right      U   Left Thru Right      U    Left Thru Right            U
+    7:00 AM          4        88     0           0      0       319     4       0     0    5      5      0      2   19      2            0          448
+    7:15 AM          3      160      3           0      2       328     7       0     6   12      5      0      6   26      7            0          565
+    7:30 AM          2      141      3           1      0       326     8       0    15   21      4      0      7   36      6            0          570
+    7:45 AM          3      175      4           0      4       478    14       0    10   20      3      0     12   34      5            0          762             2345
+    8:00 AM          3      176      2           0      4       459    14       0    16   23      2      0     11   53      6            0          769             2666
+    8:15 AM          1      162      2           0      3       452     7       0    27   24      3      0     12   59      5            0          757             2858
+    8:30 AM          9      189      7           0      5       371    14       0    12   17     10      0      7   56     10            0          707             2995
+    8:45 AM          8      185      4           0      2       380    15       0    15   21      6      0     14   72      7            0          729             2962
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                     Eastbound                  Westbound
+   Flowrates        Left     Thru Right     U          Left Thru Right    U         Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles       12      704      8     0           16 1836     56     0         64     92      8    0     44     212    24     0                       3076
+ Heavy Trucks         0       12      0                  0   32      4                0     16      0           0      20     0                               84
+  Pedestrians                 32                             20                             48                         20                                    120
+    Bicycles         0         0      0                  0    1      0               0       0      0          0        0     0                                1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave -- Mckinley St NW                                                                                   QC JOB #: 10706778
+ CITY/STATE: Washington, DC                                                                                                    DATE: Fri, Nov 30 2012
+                      748          663                          Peak-Hour: 11:30 AM -- 12:30 PM
+                            0.88                                                                                                3.2        3.9
+
+                         84 658     6
+                                                               Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                                1.2 3.5 0.0
+
+
+       207     34                        15    111
+                                                                                                                   5.8   0.0                      6.7       7.2
+        0.82   66           0.95         78   0.80
+                                                                                                                         9.1                      9.0
+       141     41                        18    125
+                                                                                                                   7.1   9.8                      0.0       6.4
+
+                         45 614 53
+                                                                                                                                8.9 4.1 3.8
+
+                      717          712
+                            0.91                                                                                                3.8        4.4
+
+
+
+                             22                                                                                                  0    1    0
+
+
+
+                                                                                                                         0                          0
+
+               61                        41                                                                              0                          0
+
+                                                                                                                         0                          1
+
+                             51                                                                                                  0    1    0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+               NA                        NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count              Connecticut Ave                  Connecticut Ave           Mckinley St NW            Mckinley St NW                   Total       Hourly
+    Period                  (Northbound)                     (Southbound)              (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left     Thru Right        U     Left     Thru Right      U   Left Thru Right    U      Left Thru Right    U
+   11:00 AM           3     162     13         0      0       175    11       0     7   18     16    0       8    16      3    0                 432
+   11:15 AM           8     143     12         0      3       145    15       0     7   11      8    0       3    16      4    0                 375
+   11:30 AM           9     118     12         0      1       192    19       0     5   16      7    0       5    18      6    0                 408
+   11:45 AM          13     144     16         0      1       159    27       0     8   14     13    0       6    27      3    0                 431             1646
+   12:00 PM           9     164     10         0      1       149    24       0    14   16     13    0       5    18      1    0                 424             1638
+   12:15 PM          14     188     15         0      3       158    14       0     7   20      8    0       2    15      5    0                 449             1712
+   12:30 PM          15     149     12         0      0       157    19       0     5   14      7    0       5    21      2    0                 406             1710
+   12:45 PM          10     191     10         0      2       143    10       0     9   10     12    0       8    18      6    0                 429             1708
+
+
+
+
+ Peak 15-Min                    Northbound                       Southbound                  Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U         Left    Thru Right    U      Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       56     752     60     0          12     632     56     0      28     80    32     0     8       60    20     0                      1796
+ Heavy Trucks         8      36      0                 0      20      0             0      8      4          0        8     0                              84
+  Pedestrians                52                               12                          72                         20                                   156
+    Bicycles         0        0      0                0        0      0            0       0      0          1        0     0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave -- McKinley St NW                                                                                    QC JOB #: 10706779
+ CITY/STATE: Washington, DC                                                                                                     DATE: Tue, Nov 27 2012
+                      813          1476                           Peak-Hour: 5:15 PM -- 6:15 PM
+                            0.96                                                                                                 1.4        1.4
+
+                       41 757 15
+                                                                 Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                 2.4 1.2 6.7
+
+
+       178     26                         12    143
+                                                                                                                    5.6   0.0                      0.0       5.6
+        0.96   179          0.99          97   0.90
+                                                                                                                          5.6                      8.2
+       219     14                         34    265
+                                                                                                                    4.6   0.0                      0.0       4.2
+
+                       41 1438 71
+                                                                                                                                 2.4 1.5 0.0
+
+                      806          1550
+                            0.96                                                                                                 1.1        1.4
+
+
+
+                             37                                                                                                   0    2    0
+
+
+
+                                                                                                                          0                          0
+
+               76                         46                                                                              0                          0
+
+                                                                                                                          0                          0
+
+                             54                                                                                                   0    2    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+               NA                         NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count              Connecticut Ave                   Connecticut Ave           McKinley St NW            McKinley St NW                   Total       Hourly
+    Period                  (Northbound)                      (Southbound)              (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left     Thru Right         U     Left     Thru Right      U   Left Thru Right      U    Left Thru Right           U
+    4:30 PM          12     300     17          0      2       176    12       0     7   25      7      0      5   26      5           0          594
+    4:45 PM          10     303     21          0      6       147    13       0    13   28      9      0      4   26      6           0          586
+    5:00 PM           8     364     16          0      5       151    13       0     8   46      8      0      6   30      9           0          664
+    5:15 PM          11     374     17          1      4       177     6       0     9   51      3      0     10   26      2           0          691             2535
+    5:30 PM          10     344     16          0      5       191    13       0     5   43      5      0     13   30      0           0          675             2616
+    5:45 PM           6     354     17          0      3       201     7       0     5   52      6      0      7   21      7           0          686             2716
+    6:00 PM          13     366     21          0      3       188    15       0     7   33      0      0      4   20      3           0          673             2725
+    6:15 PM           6     371     19          0      2       181     5       0     8   45      7      0      5   26      4           0          679             2713
+
+
+
+
+ Peak 15-Min                 Northbound                           Southbound                  Eastbound                  Westbound
+   Flowrates        Left Thru Right     U             Left    Thru Right    U      Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       44 1496     68     4              16     708     24     0      36    204    12     0     40     104     8     0                      2764
+ Heavy Trucks         0   20      0                     0       8      0             0     12      0           0      12     0                              52
+  Pedestrians             52                                   40                         140                         52                                   284
+    Bicycles          0    1      0                    0        0      0            0       0      0          0        0     0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave -- McKinley St NW                                                                                     QC JOB #: 10706780
+ CITY/STATE: Washington, DC                                                                                                      DATE: Sat, Dec 01 2012
+                      942          1008                            Peak-Hour: 1:00 PM -- 2:00 PM
+                            0.92                                                                                                  1.3        1.7
+
+                      105 825 12
+                                                                  Peak 15-Min: 1:00 PM -- 1:15 PM
+                                                                                                                                  1.0 1.3 0.0
+
+
+       271     44                          31    178
+                                                                                                                     1.5   0.0                      3.2       2.2
+        0.87   106          0.96          109   0.85
+                                                                                                                           0.9                      2.8
+       179     29                          38    192
+                                                                                                                     0.6   0.0                      0.0       0.5
+
+                         57 933 74
+                                                                                                                                  0.0 1.7 0.0
+
+                      892          1064
+                            0.94                                                                                                  1.2        1.5
+
+
+
+                             85                                                                                                    0    3    0
+
+
+
+                                                                                                                           0                          0
+
+               246                        103                                                                              0                          0
+
+                                                                                                                           0                          0
+
+                            103                                                                                                    0    2    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+               NA                         NA                                                                               NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count              Connecticut Ave                    Connecticut Ave           McKinley St NW            McKinley St NW                   Total       Hourly
+    Period                  (Northbound)                       (Southbound)              (Eastbound)               (Westbound)                                 Totals
+ Beginning At       Left     Thru Right          U     Left     Thru Right      U   Left Thru Right      U    Left Thru Right           U
+   12:00 PM          17     207     12           0      2       222    30       0    15   34     12      0      9   30      8           0          598
+   12:15 PM          11     253     14           0      5       205    18       0     9   25      8      0     10   38      6           0          602
+   12:30 PM          13     196     13           0      3       234    27       0    21   28     11      0     10   27     14           0          597
+   12:45 PM          16     194     15           0      3       202    23       0    14   26     10      0      5   22      4           0          534             2331
+    1:00 PM          11     249     23           0      4       216    25       0    13   29      3      0     10   26      6           0          615             2348
+    1:15 PM          14     238     17           0      5       207    25       0    15   24     10      0     13   20      5           0          593             2339
+    1:30 PM          15     215     18           0      1       192    32       0     9   28      7      0      9   31      7           0          564             2306
+    1:45 PM          17     231     16           0      2       210    23       0     7   25      9      0      6   32     13           0          591             2363
+
+
+
+
+ Peak 15-Min                    Northbound                         Southbound                  Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U           Left    Thru Right    U      Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       44     996     92     0            16     864    100     0      52    116    12     0     40     104    24     0                      2460
+ Heavy Trucks         0      20      0                   0       8      0             0      0      0           0       0     0                              28
+  Pedestrians                56                                128                         248                        112                                   544
+    Bicycles         0        0      0                  0        0      0            0       0      0          0        0     0                               0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

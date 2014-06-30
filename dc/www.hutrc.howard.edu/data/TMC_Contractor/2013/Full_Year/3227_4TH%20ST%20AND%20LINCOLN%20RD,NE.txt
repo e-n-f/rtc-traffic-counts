@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Lincoln Rd NE                                                                                             QC JOB #: 10862952
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, Jan 30 2013
+                    645             540                           Peak-Hour: 7:30 AM -- 8:30 AM                                 4.3        7.0
+
+                    323 322          0
+                                                                 Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                                1.9 6.8 0.0
+
+
+       325   131                           0       0
+                                                                                                                   1.8   3.8                      0.0       0.0
+             0               0.98          0
+                                                                                                                         0.0                      0.0
+       132   1                             0       0
+                                                                                                                   3.8   0.0                      0.0       0.0
+
+                         3   409     0
+                                                                                                                                0.0 8.1 0.0
+
+                    324             412
+                                                                                                                                6.8        8.0
+
+
+
+                              0                                                                                                  1    2    0
+
+
+
+                                                                                                                         0                          0
+
+             3                             1                                                                             0                          0
+
+                                                                                                                         0                          0
+
+                              2                                                                                                  0    2    0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                    4th St                           4th St                Lincoln Rd NE              Lincoln Rd NE                 Total       Hourly
+    Period                   (Northbound)                     (Southbound)               (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left    Thru Right     U   Left    Thru Right        U
+    7:00 AM        0           49       0      0        0       41     56    0    24       0      0     0    0        0      0        0          170
+    7:15 AM        0           82       0      0        0       60     59    0    26       0      0     0    0        0      0        0          227
+    7:30 AM        0           99       0      1        0       68     94    0    29       0      0     0    0        0      0        0          291
+    7:45 AM        0           88       0      0        0       87     83    0    45       0      1     0    0        0      0        0          304              992
+    8:00 AM        0         111        0      0        0       89     73    0    24       0      0     0    0        0      0        0          297             1119
+    8:15 AM        2         111        0      0        0       78     73    0    33       0      0     0    0        0      0        0          297             1189
+    8:30 AM        0           98       0      0        0       87     74    0    30       0      0     0    0        0      0        0          289             1187
+    8:45 AM        1           87       0      0        0      102     74    0    38       0      0     0    0        0      0        0          302             1185
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     0         352      0     0           0     348    332     0   180      0      4    0      0        0     0     0                      1216
+ Heavy Trucks      0          28      0                 0      24     12           4      0      0           0        0     0                             68
+  Pedestrians                  0                                0                         0                           0                                    0
+    Bicycles       0           0      0                 0       2      0           0      0      0           0        0     0                              2
+   Railroad
+Stopped Buses
+ Comments: 3227
+Report generated on 3/27/2013 8:54 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Lincoln Rd NE                                                                                             QC JOB #: 10862954
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, Jan 30 2013
+                    351             370                          Peak-Hour: 11:30 AM -- 12:30 PM                                4.8        8.4
+
+                    142 209          0
+                                                                Peak 15-Min: 11:30 AM -- 11:45 AM
+                                                                                                                                2.1 6.7 0.0
+
+
+       143   120                           0       0
+                                                                                                                   2.1   4.2                       0.0       0.0
+             0               0.93          0
+                                                                                                                         0.0                       0.0
+       120   0                             0       0
+                                                                                                                   4.2   0.0                       0.0       0.0
+
+                         1   250     0
+                                                                                                                                0.0 10.4 0.0
+
+                    209             251
+                                                                                                                                6.7        10.4
+
+
+
+                              0                                                                                                  0    1     0
+
+
+
+                                                                                                                         0                           0
+
+             0                             0                                                                             0                           0
+
+                                                                                                                         0                           0
+
+                              2                                                                                                  0    1     0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                        NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                    4th St                           4th St                Lincoln Rd NE              Lincoln Rd NE                  Total       Hourly
+    Period                   (Northbound)                     (Southbound)               (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left    Thru Right     U   Left    Thru Right        U
+   11:00 AM        1           51       0      0        0       57     39    0    24       0      0     0    0        0      0        0           172
+   11:15 AM        1           54       0      0        0       60     23    1    32       0      0     0    0        0      0        0           171
+   11:30 AM        0           76       0      0        0       49     43    0    26       0      0     0    0        0      0        0           194
+   11:45 AM        0           60       0      0        0       45     35    0    23       0      0     0    0        0      0        0           163              700
+   12:00 PM        1           60       0      0        0       55     31    0    27       0      0     0    0        0      0        0           174              702
+   12:15 PM        0           54       0      0        0       60     33    0    44       0      0     0    0        0      0        0           191              722
+   12:30 PM        1           62       0      0        0       40     25    0    26       0      1     0    0        0      0        0           155              683
+   12:45 PM        0           68       0      0        0       65     33    0    25       0      0     0    0        0      0        0           191              711
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                       Total
+  All Vehicles     0         304      0     0           0     196    172     0   104      0      0    0      0        0     0     0                       776
+ Heavy Trucks      0          16      0                 0       8      4           4      0      0           0        0     0                              32
+  Pedestrians                  4                                0                         0                           0                                     4
+    Bicycles       0           0      0                 0       0      0           0      0      0           0        0     0                               0
+   Railroad
+Stopped Buses
+ Comments: 3227
+Report generated on 3/27/2013 8:54 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Lincoln Rd NE                                                                                             QC JOB #: 10862953
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, Jan 30 2013
+                    518             744                           Peak-Hour: 5:00 PM -- 6:00 PM                                 2.9        2.2
+
+                    218 300          0
+                                                                 Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                0.5 4.7 0.0
+
+
+       218   278                           0       0
+                                                                                                                   0.5   2.5                      0.0       0.0
+             0               0.90          0
+                                                                                                                         0.0                      0.0
+       281   3                             0       0
+                                                                                                                   2.5   0.0                      0.0       0.0
+
+                         0   466     0
+                                                                                                                                0.0 1.9 0.0
+
+                    303             466
+                                                                                                                                4.6        1.9
+
+
+
+                              0                                                                                                  0    1    0
+
+
+
+                                                                                                                         0                          0
+
+             3                             0                                                                             0                          0
+
+                                                                                                                         0                          0
+
+                              2                                                                                                  0    2    0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                    4th St                           4th St                Lincoln Rd NE              Lincoln Rd NE                 Total       Hourly
+    Period                   (Northbound)                     (Southbound)               (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left    Thru Right     U   Left    Thru Right        U
+    4:30 PM        2         100        0      0        0       90     50    0    45       0      1     0    0        0      0        0          288
+    4:45 PM        0           98       0      0        0       77     53    0    65       0      0     0    0        0      0        0          293
+    5:00 PM        0           96       0      0        0       65     65    0    60       0      0     0    0        0      0        0          286
+    5:15 PM        0         110        0      0        0       77     51    0    65       0      1     0    0        0      0        0          304             1171
+    5:30 PM        0         140        0      0        0       86     52    0    72       0      0     0    0        0      0        0          350             1233
+    5:45 PM        0         120        0      0        0       72     50    0    81       0      2     0    0        0      0        0          325             1265
+    6:00 PM        1           98       0      0        0       61     49    0    68       0      1     0    0        0      0        0          278             1257
+    6:15 PM        0           96       0      0        0       68     45    0    54       0      1     0    0        0      0        0          264             1217
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     0         560      0     0           0     344    208     0   288      0      0    0      0        0     0     0                      1400
+ Heavy Trucks      0           8      0                 0       4      4           8      0      0           0        0     0                             24
+  Pedestrians                  0                                0                         0                           0                                    0
+    Bicycles       0           1      0                 0       0      0           0      0      0           0        0     0                              1
+   Railroad
+Stopped Buses
+ Comments: 3227
+Report generated on 3/27/2013 8:54 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Lincoln Rd NE                                                                                             QC JOB #: 10862955
+ CITY/STATE: Washington, DC                                                                                                    DATE: Sat, Feb 02 2013
+                    416             433                           Peak-Hour: 3:30 PM -- 4:30 PM                                 2.4        0.9
+
+                    150 266          0
+                                                                 Peak 15-Min: 3:30 PM -- 3:45 PM
+                                                                                                                                0.0 3.8 0.0
+
+
+       152   144                           0       1
+                                                                                                                   0.0   1.4                      0.0       0.0
+             1               0.93          0
+                                                                                                                         0.0                      0.0
+       147   2                             1       1
+                                                                                                                   1.4   0.0                      0.0       0.0
+
+                         2   289     0
+                                                                                                                                0.0 0.7 0.0
+
+                    269             291
+                                                                                                                                3.7        0.7
+
+
+
+                              0                                                                                                  0    0    0
+
+
+
+                                                                                                                         0                          0
+
+             7                             0                                                                             0                          0
+
+                                                                                                                         0                          0
+
+                              0                                                                                                  0    0    0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                    4th St                           4th St                Lincoln Rd NE              Lincoln Rd NE                 Total       Hourly
+    Period                   (Northbound)                     (Southbound)               (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left    Thru Right     U   Left    Thru Right        U
+    3:00 PM        0           82       0      0        0       54     39    0    29       0      2     0    0        0      0        0          206
+    3:15 PM        0           73       0      0        1       65     34    0    42       0      0     0    0        0      0        0          215
+    3:30 PM        0           77       0      0        0       75     44    0    35       0      0     0    0        0      0        0          231
+    3:45 PM        1           62       0      0        0       58     34    0    36       0      1     0    0        0      0        0          192              844
+    4:00 PM        1           77       0      0        0       62     43    0    29       0      0     0    1        0      0        0          213              851
+    4:15 PM        0           73       0      0        0       71     29    0    44       1      1     0    0        0      0        0          219              855
+    4:30 PM        1           71       1      0        0       42     24    0    26       1      0     0    0        0      0        0          166              790
+    4:45 PM        1           54       0      0        0       59     33    0    35       0      0     0    0        0      0        0          182              780
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     0         308      0     0           0     300    176     0   140      0      0    0      0        0     0     0                      924
+ Heavy Trucks      0           4      0                 0      20      0           0      0      0           0        0     0                             24
+  Pedestrians                  0                                0                        16                           0                                   16
+    Bicycles       0           0      0                 0       0      0           0      0      0           0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments: 3227
+Report generated on 3/27/2013 8:54 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

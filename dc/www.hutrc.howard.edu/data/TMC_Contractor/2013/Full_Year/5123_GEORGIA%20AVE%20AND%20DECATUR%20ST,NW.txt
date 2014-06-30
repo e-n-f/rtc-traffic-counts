@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Decatur St NW                                                                                         QC JOB #: 10695441
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, May 15 2013
+                    1018            480                        Peak-Hour: 8:00 AM -- 9:00 AM                                     3.8        5.8
+
+                         2 1007 9
+                                                              Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                 0.0 3.9 0.0
+
+
+       30    3                            22   61
+                                                                                                                   10.0   0.0                      0.0      4.9
+             28              0.94         26
+                                                                                                                          3.6                      7.7
+       39    8                            13   47
+                                                                                                                   2.6    0.0                      7.7      2.1
+
+                         2   455 10
+                                                                                                                                 50.0 6.2 0.0
+
+                    1028            467
+                                                                                                                                 3.9        6.2
+
+
+
+                              71                                                                                                  0    10   0
+
+
+
+                                                                                                                          0                          0
+
+             44                           49                                                                              0                          0
+
+                                                                                                                          0                          0
+
+                              17                                                                                                  0    2    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                 Georgia Ave                   Georgia Ave                Decatur St NW             Decatur St NW                    Total      Hourly
+    Period                   (Northbound)                  (Southbound)                 (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left        Thru Right       U    Left    Thru Right    U       Left Thru Right      U    Left Thru Right            U
+    7:00 AM        0           70      0       0     0      170      1    0        0      3      5     0     2      2      3           0          256
+    7:15 AM        2           74      3       0     2      213      1    0        0      3      2     0     0      1      4           0          305
+    7:30 AM        3         105       2       0     0      256      1    0        1      6      0     0     2      9      2           0          387
+    7:45 AM        0           90      3       0     2      231      0    0        1      7      0     0     5      6      3           0          348            1296
+    8:00 AM        1         128       2       0     1      266      0    0        1      7      0     0     2      6      3           0          417            1457
+    8:15 AM        1          112      4       0     4      264      1    0        1      9      3     0     7     10      6           0          422            1574
+    8:30 AM        0          117      1       0     2      237      0    0        0      6      3     0     2      9      5           0          382            1569
+    8:45 AM        0           98      3       0     2      240      1    0        1      6      2     0     2      1      8           0          364            1585
+
+
+
+
+ Peak 15-Min                     Northbound                  Southbound                      Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     4         448     16     0        16 1056      4     0          4      36    12     0     28      40    24     0                      1688
+ Heavy Trucks      0          24      0               0   40      0                0       0      0           0       0     0                              64
+  Pedestrians                 20                          72                              24                         60                                   176
+    Bicycles       0           0      0               0    4      0                0       0      0          0        0     0                               4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Decatur St NW                                                                                         QC JOB #: 10695442
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, May 15 2013
+                    548             510                       Peak-Hour: 12:00 PM -- 1:00 PM                                     6.9        6.3
+
+                         8   529 11
+                                                             Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                                 0.0 7.2 0.0
+
+
+       14    4                            14   31
+                                                                                                                   0.0   0.0                       0.0       3.2
+             17              0.97          5
+                                                                                                                         11.8                      0.0
+       26    5                            12   39
+                                                                                                                   7.7   0.0                       8.3       5.1
+
+                         1   491 12
+                                                                                                                                 0.0 6.5 0.0
+
+                    546             504
+                                                                                                                                 7.1        6.3
+
+
+
+                              33                                                                                                 0     3    1
+
+
+
+                                                                                                                         0                           1
+
+             14                           63                                                                             2                           0
+
+                                                                                                                         0                           0
+
+                              7                                                                                                  0     5    1
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                             NA                        NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                 Georgia Ave                   Georgia Ave                Decatur St NW             Decatur St NW                    Total       Hourly
+    Period                   (Northbound)                  (Southbound)                 (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right       U    Left    Thru Right    U       Left Thru Right      U    Left Thru Right            U
+   11:00 AM        1         108       5       0     1      126      2    0        2      1      1     0     0      0      3           0          250
+   11:15 AM        0         109       0       0     2      115      1    0        1      5      2     0     2      2      3           0          242
+   11:30 AM        1           96      0       0     4      119      1    0        1      6      2     0     2      3      3           0          238
+   11:45 AM        2         100       0       0     1      101      1    0        1      5      1     0     0      4      2           0          218              948
+   12:00 PM        0          115      0       0     2      132      1    1        1      3      0     0     2      1      2           0          260              958
+   12:15 PM        0         128       3       0     1      140      1    0        0      5      2     0     2      2      3           0          287             1003
+   12:30 PM        0         125       2       0     3      139      3    0        3      4      1     0     2      0      4           0          286             1051
+   12:45 PM        1         123       7       0     4      118      3    0        0      5      2     0     6      2      5           0          276             1109
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     0         512     12     0        4     560      4     0        0      20      8    0     8        8    12     0                       1148
+ Heavy Trucks      0          28      0              0      32      0              0       4      0          0        0     0                              64
+  Pedestrians                  0                            28                             8                         48                                    84
+    Bicycles       0           1      0              0       1      0              0       0      0          0        0     0                               2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Decatur St NW                                                                                        QC JOB #: 10695443
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, May 15 2013
+                    544             882                        Peak-Hour: 5:30 PM -- 6:30 PM                                    3.3        2.5
+
+                       11 519 14
+                                                              Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                0.0 3.5 0.0
+
+
+       30    11                            6   30
+                                                                                                                   3.3   0.0                      0.0      0.0
+             36              0.97         14
+                                                                                                                         0.0                      0.0
+       53    6                            10   61
+                                                                                                                   0.0   0.0                      0.0      0.0
+
+                         5   865 11
+                                                                                                                                20.0 2.5 0.0
+
+                    535             881
+                                                                                                                                3.4        2.6
+
+
+
+                              42                                                                                                 0    2    0
+
+
+
+                                                                                                                         1                          1
+
+             34                           55                                                                             1                          2
+
+                                                                                                                         0                          0
+
+                              11                                                                                                 0    3    2
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                 Georgia Ave                   Georgia Ave                Decatur St NW             Decatur St NW                   Total      Hourly
+    Period                   (Northbound)                  (Southbound)                 (Eastbound)               (Westbound)                               Totals
+ Beginning At     Left        Thru Right       U    Left    Thru Right    U       Left Thru Right      U    Left Thru Right           U
+    4:30 PM        2         220       1       0     4      108      1    0        4     16      0     0     4      4      3          0          367
+    4:45 PM        0         201       5       0     3      111      0    0        3     15      4     0     1      7      1          0          351
+    5:00 PM        3         200       0       0     3       92      0    0        3     14      0     0     2      3      3          0          323
+    5:15 PM        1         219       1       0     1      130      2    0        1     10      0     0     1      0      3          0          369            1410
+    5:30 PM        1         231       3       0     3      124      1    0        5     10      1     0     2      5      2          0          388            1431
+    5:45 PM        0         209       2       0     2      134      3    0        2     12      2     0     2      2      0          0          370            1450
+    6:00 PM        1         213       4       0     6      127      5    0        2      7      2     0     6      4      3          0          380            1507
+    6:15 PM        3         212       2       0     3      134      2    0        2      7      1     0     0      3      1          0          370            1508
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     4         924     12     0        12    496      4     0        20     40      4    0     8       20     8     0                     1552
+ Heavy Trucks      0          32      0               0      8      0               0      0      0          0        0     0                            40
+  Pedestrians                  8                            72                            12                         24                                  116
+    Bicycles       0           1      2              0       0      0              0       0      0          0        1     0                             4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Decatur St NW                                                                                        QC JOB #: 10695444
+ CITY/STATE: Washington, DC                                                                                                    DATE: Sat, May 18 2013
+                    548             607                        Peak-Hour: 3:45 PM -- 4:45 PM                                    3.1        2.8
+
+                         5   533 10
+                                                              Peak 15-Min: 4:15 PM -- 4:30 PM
+                                                                                                                                20.0 3.0 0.0
+
+
+       32    10                           14   54
+                                                                                                                   3.1   0.0                      0.0      0.0
+             28              0.95         24
+                                                                                                                         0.0                      0.0
+       46    8                            16   52
+                                                                                                                   0.0   0.0                      0.0      0.0
+
+                         3   583 14
+                                                                                                                                0.0 2.9 0.0
+
+                    557             600
+                                                                                                                                2.9        2.8
+
+
+
+                              31                                                                                                 0    6    0
+
+
+
+                                                                                                                         0                          0
+
+             18                           32                                                                             0                          0
+
+                                                                                                                         0                          0
+
+                              6                                                                                                  1    5    1
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                 Georgia Ave                   Georgia Ave                Decatur St NW             Decatur St NW                   Total      Hourly
+    Period                   (Northbound)                  (Southbound)                 (Eastbound)               (Westbound)                               Totals
+ Beginning At     Left        Thru Right       U    Left    Thru Right    U       Left Thru Right      U    Left Thru Right           U
+    3:00 PM        0         130       2       0     0      123      1    0        2     11      2     0     3      5      1          0          280
+    3:15 PM        1         148       3       0     4      130      2    0        4      8      0     0     7      2      9          0          318
+    3:30 PM        1         147       3       0     2      110      2    0        3     10      1     0     3      2      4          0          288
+    3:45 PM        0         135       4       0     3      125      0    0        2      8      3     0     3      9      5          0          297            1183
+    4:00 PM        3         161       3       0     2      131      2    0        0      4      1     0     4      3      2          0          316            1219
+    4:15 PM        0         147       7       0     2      142      3    0        3      8      2     0     3      6      5          0          328            1229
+    4:30 PM        0         140       0       0     3      135      0    0        5      8      2     0     6      6      2          0          307            1248
+    4:45 PM        0         132       3       0     2      126      1    0        0      7      2     0     4      5      4          0          286            1237
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         588     28     0        8     568     12     0        12     32      8    0     12      24    20     0                     1312
+ Heavy Trucks      0          24      0              0      12      0               0      0      0           0       0     0                            36
+  Pedestrians                 12                            52                             0                         16                                  80
+    Bicycles       0           0      0              0       2      0              0       0      0          0        0     0                             2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 7/22/2013 7:50 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

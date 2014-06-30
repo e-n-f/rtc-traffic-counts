@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Belmont Rd NW                                                                                 QC JOB #: 10864191
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Mar 13 2013
+                    1505          1094                        Peak-Hour: 8:00 AM -- 9:00 AM                                    2.4        3.2
+
+                     1 1460 44
+                                                             Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                               0.0 2.4 2.3
+
+
+       5     6                           80   94
+                                                                                                                  0.0   0.0                      1.3      1.1
+             0             0.99           4
+                                                                                                                        0.0                      0.0
+       7     1                           10   56
+                                                                                                                  0.0   0.0                      0.0      1.8
+
+                     0 1008 12
+                                                                                                                               0.0 3.4 0.0
+
+                    1471          1020
+                                                                                                                               2.4        3.3
+
+
+
+                            6                                                                                                   0    20   0
+
+
+
+                                                                                                                        0                          0
+
+             68                          32                                                                             0                          0
+
+                                                                                                                        0                          0
+
+                            15                                                                                                  0    3    0
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+
+             NA                          NA                                                                             NA                       NA
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+ 15-Min Count         Massachusetts Ave                Massachusetts Ave             Belmont Rd NW             Belmont Rd NW                    Total      Hourly
+    Period              (Northbound)                     (Southbound)                 (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left Thru Right      U           Left Thru Right      U        Left Thru Right   U       Left Thru Right   U
+    7:00 AM        1    188      2      0            2    214     0      0        1     0      0   0        0     0      6   0                  414
+    7:15 AM        1    204      3      0            1    267     0      0        0     0      0   0        2     0      4   0                  482
+    7:30 AM        1    241      0      0            4    294     0      0        2     0      0   0        2     0     16   0                  560
+    7:45 AM        0    247      3      0            5    347     0      0        0     0      0   0        1     0     23   0                  626            2082
+    8:00 AM        0    271      3      0           11    352     0      0        2     0      1   0        2     2     19   0                  663            2331
+    8:15 AM        0    253      1      0            8    379     0      0        2     0      0   0        0     0     20   0                  663            2512
+    8:30 AM        0    246      4      0           13    357     0      0        1     0      0   0        3     1     28   0                  653            2605
+    8:45 AM        0    238      4      0           12    372     1      0        1     0      0   0        5     1     13   0                  647            2626
+
+
+
+
+ Peak 15-Min               Northbound                       Southbound                      Eastbound                  Westbound
+   Flowrates      Left Thru Right     U            Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0 1084      12     0             44 1408      0     0          8       0      4    0     8        8    76     0                     2652
+ Heavy Trucks      0    28      0                    4   40      0                0       0      0          0        0     4                            76
+  Pedestrians           24                                0                              76                         16                                  116
+    Bicycles       0     0      0                    0    6      0                0       0      0          0        0     0                             6
+   Railroad
+Stopped Buses
+ Comments: 6105
+Report generated on 7/9/2013 10:50 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Belmont Rd NW                                                                                  QC JOB #: 10864193
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, Mar 13 2013
+                    900             731                       Peak-Hour: 11:30 AM -- 12:30 PM                                   4.9        4.2
+
+                         0   835 65
+                                                             Peak 15-Min: 11:30 AM -- 11:45 AM
+                                                                                                                                0.0 5.1 1.5
+
+
+       0     0                            62   80
+                                                                                                                   0.0   0.0                      1.6      2.5
+             0               0.97          0
+                                                                                                                         0.0                      0.0
+       0     0                            18   91
+                                                                                                                   0.0   0.0                      5.6      2.2
+
+                         1   669 26
+                                                                                                                                0.0 4.5 3.8
+
+                    854             696
+                                                                                                                                5.2        4.5
+
+
+
+                              6                                                                                                  0    2    0
+
+
+
+                                                                                                                         0                          0
+
+             19                           30                                                                             0                          0
+
+                                                                                                                         0                          0
+
+                              12                                                                                                 0    0    0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count         Massachusetts Ave                 Massachusetts Ave             Belmont Rd NW             Belmont Rd NW                    Total      Hourly
+    Period              (Northbound)                      (Southbound)                 (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left Thru Right      U            Left Thru Right      U        Left Thru Right   U       Left Thru Right   U
+   11:00 AM        0    136      7      0            17    181     0      0        0     0      0   0        3     0     15   0                  359
+   11:15 AM        0    144      7      0            16    210     0      0        0     0      0   0        2     0     10   0                  389
+   11:30 AM        0    162      8      1            16    220     0      0        0     0      0   0        6     0     17   0                  430
+   11:45 AM        0    159      6      0            22    226     0      0        0     0      0   0        2     0     15   0                  430            1608
+   12:00 PM        0    166      7      0            12    203     0      0        0     0      0   0        3     0     17   0                  408            1657
+   12:15 PM        0    182      5      0            15    186     0      0        0     0      0   0        7     0     13   0                  408            1676
+   12:30 PM        0    197      5      0            15    174     0      0        0     0      0   0        2     0      8   0                  401            1647
+   12:45 PM        0    149     10      0            19    158     0      0        0     0      0   0        1     0     13   0                  350            1567
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         648     32     4        64    880      0     0        0       0      0    0     24       0    68     0                     1720
+ Heavy Trucks      0          32      0               4     40      0              0       0      0           4       0     4                            84
+  Pedestrians                  0                             4                            16                         56                                  76
+    Bicycles       0           0      0              0       0      0              0       0      0          0        0     0                             0
+   Railroad
+Stopped Buses
+ Comments: 6105
+Report generated on 7/9/2013 10:50 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Belmont Rd NW                                                                                 QC JOB #: 10864192
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Mar 13 2013
+                    1165          1232                       Peak-Hour: 5:15 PM -- 6:15 PM                                     2.1        1.9
+
+                     0 1088 77
+                                                            Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                               0.0 2.3 0.0
+
+
+       0     0                           47   63
+                                                                                                                  0.0   0.0                      0.0      0.0
+             0             0.96           0
+                                                                                                                        0.0                      0.0
+       1     1                           16   93
+                                                                                                                  0.0   0.0                      0.0      1.1
+
+                     0 1185 16
+                                                                                                                               0.0 1.9 6.3
+
+                    1105          1201
+                                                                                                                               2.3        2.0
+
+
+
+                            9                                                                                                   0    7    1
+
+
+
+                                                                                                                        0                          1
+
+             65                          42                                                                             0                          0
+
+                                                                                                                        0                          0
+
+                            6                                                                                                   0    6    0
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+
+             NA                          NA                                                                             NA                       NA
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+ 15-Min Count         Massachusetts Ave                Massachusetts Ave             Belmont Rd NW             Belmont Rd NW                    Total      Hourly
+    Period              (Northbound)                     (Southbound)                 (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left Thru Right      U           Left Thru Right      U        Left Thru Right   U       Left Thru Right   U
+    4:30 PM        0    218      9      0           34    250     0      0        0     0      0   0        2     0     11   0                  524
+    4:45 PM        0    233      6      0           20    254     0      0        0     0      0   0        0     0      8   0                  521
+    5:00 PM        0    276      5      0           18    267     0      0        0     1      0   0        6     0     16   0                  589
+    5:15 PM        0    296      4      0           20    300     0      0        0     0      0   0        4     0     11   0                  635            2269
+    5:30 PM        0    284      4      0           17    275     0      0        0     0      0   0        6     0     15   0                  601            2346
+    5:45 PM        0    301      6      0           20    233     0      0        0     0      1   0        2     0      8   0                  571            2396
+    6:00 PM        0    304      2      0           20    280     0      0        0     0      0   0        4     0     13   0                  623            2430
+    6:15 PM        0    297      1      0           22    251     0      0        0     0      1   0        2     0     14   0                  588            2383
+
+
+
+
+ Peak 15-Min               Northbound                       Southbound                      Eastbound                  Westbound
+   Flowrates      Left Thru Right     U            Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0 1184      16     0             80 1200      0     0          0       0      0    0     16       0    44     0                     2540
+ Heavy Trucks      0    40      4                    0   44      0                0       0      0           0       0     0                            88
+  Pedestrians            0                               12                              68                         36                                  116
+    Bicycles       0     2      0                    0    0      0                0       0      0          0        0     1                             3
+   Railroad
+Stopped Buses
+ Comments: 6105
+Report generated on 7/9/2013 10:50 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Belmont Rd NW                                                                                  QC JOB #: 10864194
+ CITY/STATE: Washington, DC                                                                                                    DATE: Sat, Apr 20 2013
+                    849             784                        Peak-Hour: 3:30 PM -- 4:30 PM                                    2.2        1.7
+
+                         0   776 73
+                                                              Peak 15-Min: 3:30 PM -- 3:45 PM
+                                                                                                                                0.0 2.4 0.0
+
+
+       0     0                            62   80
+                                                                                                                   0.0   0.0                      0.0      0.0
+             0               0.95          0
+                                                                                                                         0.0                      0.0
+       0     0                            18   86
+                                                                                                                   0.0   0.0                      0.0      0.0
+
+                         0   721 14
+                                                                                                                                0.0 1.8 0.0
+
+                    794             735
+                                                                                                                                2.4        1.8
+
+
+
+                              0                                                                                                  0    13   0
+
+
+
+                                                                                                                         0                          0
+
+             69                           49                                                                             0                          0
+
+                                                                                                                         0                          0
+
+                              13                                                                                                 0    8    1
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count         Massachusetts Ave                 Massachusetts Ave             Belmont Rd NW             Belmont Rd NW                    Total      Hourly
+    Period              (Northbound)                      (Southbound)                 (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left Thru Right      U            Left Thru Right      U        Left Thru Right   U       Left Thru Right   U
+    3:00 PM        0    189      6      0            19    168     0      1        0     0      0   0         7    0     11   0                  401
+    3:15 PM        0    174      5      0            15    199     0      0        0     0      0   0         1    0      4   0                  398
+    3:30 PM        0    173      4      0            21    222     0      0        0     0      0   0         5    0     15   0                  440
+    3:45 PM        0    161      3      0            20    196     0      0        0     0      0   0         3    0     14   0                  397            1636
+    4:00 PM        0    190      5      0            16    182     0      1        0     0      0   0         0    0     16   0                  410            1645
+    4:15 PM        0    197      2      0            15    176     0      0        0     0      0   0        10    0     17   0                  417            1664
+    4:30 PM        0    171      6      0            29    188     0      0        0     0      0   0         4    0     19   0                  417            1641
+    4:45 PM        0    181      3      0            26    195     0      0        0     0      0   0         1    0     11   0                  417            1661
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         692     16     0        84    888      0     0        0       0      0    0     20       0    60     0                     1760
+ Heavy Trucks      0           8      0               0     24      0              0       0      0           0       0     0                             32
+  Pedestrians                 16                             0                            96                         28                                  140
+    Bicycles       0           2      0              0       3      0              0       0      0          0        0     0                              5
+   Railroad
+Stopped Buses
+ Comments: 6105
+Report generated on 7/9/2013 10:50 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

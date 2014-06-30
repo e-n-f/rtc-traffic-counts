@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Thomas Jefferson St NW -- M St NW                                                                                   QC JOB #: 10707250
+ CITY/STATE: Washington, DC                                                                                                    DATE: Tue, Nov 27 2012
+                          0           0                            Peak-Hour: 8:00 AM -- 9:00 AM                                0.0        0.0
+
+                          0    0      0
+                                                                  Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                0.0 0.0 0.0
+
+
+       493    0                              0    435
+                                                                                                                   9.3   0.0                      0.0      10.1
+              1045            0.95         433
+                                                                                                                         5.5                     10.2
+       1045   0                              2   1186
+                                                                                                                   5.5   0.0                      0.0       5.6
+
+                         60    0     140
+                                                                                                                                3.3 0.0 6.4
+
+                          1          200
+                                                                                                                                0.0        5.5
+
+
+
+                               83                                                                                                0    0    0
+
+
+
+                                                                                                                         0                          0
+
+              7                             58                                                                           40                        22
+
+                                                                                                                         2                          1
+
+                              171                                                                                                1    0    6
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+
+              NA                           NA                                                                            NA                       NA
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+ 15-Min Count       Thomas Jefferson St NW               Thomas Jefferson St NW            M St NW                    M St NW                    Total        Hourly
+    Period              (Northbound)                         (Southbound)                (Eastbound)                (Westbound)                               Totals
+ Beginning At      Left Thru Right      U               Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM         13    0      21      0                0     0      0      0    0     158      0    0     0      102      0        1          295
+    7:15 AM         13    0      31      0                0     0      0      0    0     161      0    0     0      114      0        0          319
+    7:30 AM         14    0      30      0                0     0      0      0    0     163      0    0     0      104      0        0          311
+    7:45 AM         24    0      24      0                0     0      0      0    0     170      0    0     0      121      0        0          339             1264
+    8:00 AM         21    0      30      0                0     0      0      0    0     284      0    0     0      106      0        0          441             1410
+    8:15 AM          9    0      38      0                0     0      0      0    0     237      0    0     1      108      0        0          393             1484
+    8:30 AM         19    0      36      0                0     0      0      0    0     266      0    0     0      105      0        0          426             1599
+    8:45 AM         11    0      36      0                0     0      0      0    0     258      0    0     0      114      0        1          420             1680
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound              Eastbound                    Westbound
+   Flowrates       Left       Thru Right     U          Left   Thru Right    U    Left Thru Right    U      Left    Thru Right    U                      Total
+  All Vehicles      84          0    120     0           0       0      0     0    0 1136       0    0       0      424     0     0                      1764
+ Heavy Trucks        4          0      8                 0       0      0          0    56      0            0       40     0                             108
+  Pedestrians                 124                               52                       0                           16                                   192
+    Bicycles         0          0      1                 0       0      0          0    10      2            0        2     0                              15
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Thomas Jefferson St NW -- M St NW                                                                                 QC JOB #: 10707251
+ CITY/STATE: Washington, DC                                                                                                  DATE: Tue, Nov 27 2012
+                         0           0                         Peak-Hour: 11:15 AM -- 12:15 PM                                0.0        0.0
+
+                         0    0      0
+                                                              Peak 15-Min: 12:00 PM -- 12:15 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       679   0                              0   611
+                                                                                                                 8.1   0.0                      0.0       8.7
+             687             0.96         611
+                                                                                                                       8.3                      8.7
+       687   0                              0   806
+                                                                                                                 8.3   0.0                      0.0       7.9
+
+                       68     0     119
+                                                                                                                              2.9 0.0 5.9
+
+                         0          187
+                                                                                                                              0.0        4.8
+
+
+
+                             179                                                                                               0    0    0
+
+
+
+                                                                                                                       0                          0
+
+             4                             72                                                                          7                         10
+
+                                                                                                                       0                          0
+
+                             200                                                                                               0    0    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count      Thomas Jefferson St NW              Thomas Jefferson St NW            M St NW                    M St NW                    Total       Hourly
+    Period             (Northbound)                        (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right      U              Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        13    0      25      0               0     0      0      0    0     186      0    0     0      159      0        0          383
+   11:15 AM        18    0      29      0               0     0      0      0    0     166      0    0     0      164      0        0          377
+   11:30 AM        21    0      29      0               0     0      0      0    0     160      0    0     0      151      0        0          361
+   11:45 AM        15    0      32      0               0     0      0      0    0     181      0    0     0      134      0        0          362             1483
+   12:00 PM        14    0      29      0               0     0      0      0    0     180      0    0     0      162      0        0          385             1485
+   12:15 PM        16    0      20      0               0     0      0      0    0     164      0    0     0      135      0        1          336             1444
+   12:30 PM        17    0      18      0               0     0      0      0    0     164      1    0     0      165      0        0          365             1448
+   12:45 PM        22    0      24      0               0     0      0      0    0     167      0    0     0      151      0        0          364             1450
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     56          0    116     0          0       0      0     0    0     720      0    0     0      648     0     0                      1540
+ Heavy Trucks       0          0      4                0       0      0          0      52      0          0       40     0                              96
+  Pedestrians                280                             176                         4                         68                                   528
+    Bicycles       0           0      0                0       0      0          0       2      0          0        4     0                               6
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: Thomas Jefferson St NW -- M St NW                                                                              QC JOB #: 10707252
+ CITY/STATE: Washington, DC                                                                                               DATE: Tue, Nov 27 2012
+                      0           0                           Peak-Hour: 5:30 PM -- 6:30 PM                                0.0        0.0
+
+                      0    0      0
+                                                             Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                           0.0 0.0 0.0
+
+
+       919   0                           0   813
+                                                                                                              3.8   0.0                      0.0       4.2
+             599          0.97         810
+                                                                                                                    3.8                      4.2
+       599   0                           3   769
+                                                                                                              3.8   0.0                      0.0       3.5
+
+                    109    0     167
+                                                                                                                           0.9 0.0 2.4
+
+                      0          276
+                                                                                                                           0.0        1.8
+
+
+
+                          422                                                                                               0    0    0
+
+
+
+                                                                                                                    0                          0
+
+             2                         133                                                                          16                        24
+
+                                                                                                                    0                          2
+
+                          511                                                                                               2    0    7
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+
+             NA                        NA                                                                           NA                       NA
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+ 15-Min Count      Thomas Jefferson St NW           Thomas Jefferson St NW            M St NW                    M St NW                    Total       Hourly
+    Period             (Northbound)                     (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right      U           Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        25    0      26      0            0     0      0      0    0     138      0    0     0      190      0        0          379
+    4:45 PM        20    0      22      0            0     0      0      0    0     169      0    0     0      199      0        0          410
+    5:00 PM        28    0      35      0            0     0      0      0    0     152      0    0     0      185      0        0          400
+    5:15 PM        25    0      35      0            0     0      0      0    0     151      0    0     0      194      0        0          405             1594
+    5:30 PM        30    0      41      0            0     0      0      0    0     164      0    0     0      199      0        0          434             1649
+    5:45 PM        24    0      33      0            0     0      0      0    0     144      0    0     0      193      0        2          396             1635
+    6:00 PM        36    0      55      0            0     0      0      0    0     143      0    0     0      200      0        0          434             1669
+    6:15 PM        19    0      38      0            0     0      0      0    0     148      0    0     0      218      0        1          424             1688
+
+
+
+
+ Peak 15-Min                  Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates   Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles 120          0    164     0          0       0      0     0    0     656      0    0     0      796     0     0                      1736
+ Heavy Trucks    0          0      8                0       0      0          0      12      0          0       40     0                              60
+  Pedestrians             444                             368                         0                        132                                   944
+    Bicycles     0          0      1                0       0      0          0       5      0          0       13     0                              19
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Thomas Jefferson St NW -- M St NW                                                                                 QC JOB #: 10707253
+ CITY/STATE: Washington, DC                                                                                                  DATE: Sat, Nov 03 2012
+                         0           0                           Peak-Hour: 1:00 PM -- 2:00 PM                                0.0        0.0
+
+                         0    0      0
+                                                                Peak 15-Min: 1:00 PM -- 1:15 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       794   1                              0   704
+                                                                                                                 2.8   0.0                      0.0       3.0
+             752             0.93         703
+                                                                                                                       3.1                      3.0
+       753   0                              1   863
+                                                                                                                 3.1   0.0                      0.0       3.0
+
+                       90     0     110
+                                                                                                                              1.1 0.0 2.7
+
+                         0          200
+                                                                                                                              0.0        2.0
+
+
+
+                             944                                                                                               0    0    0
+
+
+
+                                                                                                                       0                          0
+
+             23                           328                                                                          31                        23
+
+                                                                                                                       0                          0
+
+                             1171                                                                                              0    0    4
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count      Thomas Jefferson St NW              Thomas Jefferson St NW            M St NW                    M St NW                    Total       Hourly
+    Period             (Northbound)                        (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right      U              Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+   12:00 PM        21    0      25      0               0     0      0      0    0     188      0    0     0      181      0        0          415
+   12:15 PM        19    0      19      0               0     0      0      0    0     176      1    0     0      172      0        0          387
+   12:30 PM        17    0      11      0               0     0      0      0    0     180      0    0     0      170      0        0          378
+   12:45 PM        26    0      15      0               0     0      0      0    0     190      0    0     0      162      0        0          393             1573
+    1:00 PM        18    0      29      0               0     0      0      0    0     204      0    0     0      194      0        0          445             1603
+    1:15 PM        20    0      32      0               0     0      0      0    0     183      0    0     0      175      0        0          410             1626
+    1:30 PM        22    0      26      0               0     0      0      0    0     184      0    1     0      170      0        1          404             1652
+    1:45 PM        30    0      23      0               0     0      0      0    0     181      0    0     0      164      0        0          398             1657
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     72          0    116     0          0       0      0     0    0     816      0    0     0      776     0     0                      1780
+ Heavy Trucks       4          0      8                0       0      0          0      24      0          0       24     0                             60
+  Pedestrians                944                             856                         8                        260                                  2068
+    Bicycles       0           0      0                0       0      0          0       5      0          0        6     0                             11
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

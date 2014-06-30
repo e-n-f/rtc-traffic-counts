@@ -1,0 +1,318 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 11th St -- DC 295 Ramp C-1/C-2/C-4 SE                                                                                  QC JOB #: 10903141
+ CITY/STATE: Washington, DC                                                                                                       DATE: Tue, Feb 12 2013
+                    168             1326                           Peak-Hour: 7:00 AM -- 8:00 AM                                   10.1        3.7
+
+                         0   160     8
+                                                                  Peak 15-Min: 7:30 AM -- 7:45 AM
+                                                                                                                                   0.0 10.0 12.5
+
+
+       0     134                            1       4
+                                                                                                                     0.0   0.7                        0.0       0.0
+             0               0.96           0
+                                                                                                                           0.0                        0.0
+       146   12                             3   12
+                                                                                                                     2.1   16.7                       0.0       8.3
+
+                         2 1191 4
+                                                                                                                                   0.0 4.0 0.0
+
+                    177             1197
+                                                                                                                                   10.2        4.0
+
+
+
+                              0                                                                                                     0     0    0
+
+
+
+                                                                                                                           0                            0
+
+             18                             0                                                                              0                            0
+
+                                                                                                                           0                            0
+
+                              0                                                                                                     0     0    0
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+
+             NA                            NA                                                                              NA                         NA
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+ 15-Min Count                   11th St                           11th St         DC 295 Ramp C-1/C-2/C-4 SE DC 295 Ramp C-1/C-2/C-4 SE              Total       Hourly
+    Period                   (Northbound)                      (Southbound)               (Eastbound)               (Westbound)                                  Totals
+ Beginning At     Left        Thru Right        U       Left    Thru Right    U    Left Thru Right      U     Left Thru Right      U
+    7:00 AM        0         290        1       0        1       28       0   0     44      0     1     0       0     0      1     0                 366
+    7:15 AM        0         292        1       1        2       32       0   0     43      0     5     0       1     0      0     0                 377
+    7:30 AM        0         315        2       1        5       46       0   0     23      0     4     0       0     0      0     0                 396
+    7:45 AM        0         294        0       0        0       54       0   0     24      0     2     0       2     0      0     0                 376             1515
+    8:00 AM        0         262        0       0        1       66       0   0     21      0     4     0       0     0      0     0                 354             1503
+    8:15 AM        0         279        0       0        2       66       0   0     21      0     1     0       0     0      0     0                 369             1495
+    8:30 AM        0         268        0       2        4       60       0   0     19      0     2     0       0     0      1     0                 356             1455
+    8:45 AM        0         235        5       3        0       76       0   1     21      0     3     0       0     0      0     0                 344             1423
+
+
+
+
+ Peak 15-Min               Northbound                              Southbound                 Eastbound                   Westbound
+   Flowrates      Left Thru Right     U                 Left   Thru Right    U     Left   Thru Right    U     Left    Thru Right    U                        Total
+  All Vehicles     0 1260       8     4                  20    184      0     0     92      0    16     0      0        0     0     0                        1584
+ Heavy Trucks      0    36      0                         0     20      0            0      0      4           0        0     0                               60
+  Pedestrians            0                                       0                          8                           0                                      8
+    Bicycles       0     0      0                        0       0      0            0      0      0           0        0     0                                0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 2/28/2013 11:14 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 11th St -- DC 295 Ramp C-1/C-2/C-4 SE                                                                                QC JOB #: 10903142
+ CITY/STATE: Washington, DC                                                                                                     DATE: Tue, Feb 12 2013
+                    271             452                          Peak-Hour: 12:00 PM -- 1:00 PM                                  8.9        6.6
+
+                         0   268     3
+                                                                Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                                 0.0 9.0 0.0
+
+
+       0     136                           2       4
+                                                                                                                    0.0   2.9                      0.0       0.0
+             0               0.82          0
+                                                                                                                          0.0                      0.0
+       189   53                            2       5
+                                                                                                                    4.2   7.5                      0.0       0.0
+
+                         0   314     2
+                                                                                                                                 0.0 8.3 0.0
+
+                    323             316
+                                                                                                                                 8.7        8.2
+
+
+
+                              2                                                                                                   0    0    0
+
+
+
+                                                                                                                          0                          0
+
+             14                            1                                                                              0                          0
+
+                                                                                                                          0                          0
+
+                              1                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                   11th St                          11th St         DC 295 Ramp C-1/C-2/C-4 SE DC 295 Ramp C-1/C-2/C-4 SE            Total       Hourly
+    Period                   (Northbound)                     (Southbound)               (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U    Left Thru Right      U     Left Thru Right      U
+   11:00 AM        0           63       0      0        0       56       0   0      5      0    13     0       0     0      0     0               137
+   11:15 AM        0           73       0      0        0       61       0   0     14      0    12     0       0     0      0     0               160
+   11:30 AM        0           87       1      0        0       60       0   0      7      0    12     0       0     0      2     0               169
+   11:45 AM        0           79       2      0        0       65       0   1      7      0    13     0       0     0      0     0               167              633
+   12:00 PM        0           75       1      0        1       77       0   0      9      0    10     0       0     0      0     0               173              669
+   12:15 PM        0           77       0      0        0       62       0   0     13      0    15     0       0     0      1     0               168              677
+   12:30 PM        0           77       0      0        0       62       0   0     46      0    16     0       1     0      0     0               202              710
+   12:45 PM        0           85       1      0        2       67       0   0     68      0    12     0       1     0      1     0               237              780
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                    Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U      Left    Thru Right    U                      Total
+  All Vehicles     0         340      4     0           8     268      0     0   272      0    48     0       4        0     4     0                      948
+ Heavy Trucks      0          24      0                 0      20      0           4      0      0            0        0     0                             48
+  Pedestrians                  4                                8                        40                            4                                   56
+    Bicycles       0           0      0                 0       0      0            0     0      0            0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 2/28/2013 11:14 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 11th St -- DC 295 Ramp C-1/C-2/C-4 SE                                                                                QC JOB #: 10903143
+ CITY/STATE: Washington, DC                                                                                                     DATE: Tue, Feb 12 2013
+                    783             266                           Peak-Hour: 5:30 PM -- 6:30 PM                                  3.4        4.5
+
+                         0   781     2
+                                                                 Peak 15-Min: 6:15 PM -- 6:30 PM
+                                                                                                                                 0.0 3.5 0.0
+
+
+       0     13                            0       0
+                                                                                                                    0.0   7.7                      0.0       0.0
+             0               0.98          0
+                                                                                                                          0.0                      0.0
+       92    79                            0       3
+                                                                                                                    1.1   0.0                      0.0       0.0
+
+                         1   252     2
+                                                                                                                                 0.0 4.4 0.0
+
+                    861             255
+                                                                                                                                 3.1        4.3
+
+
+
+                              0                                                                                                   0    0    0
+
+
+
+                                                                                                                          0                          0
+
+             13                            0                                                                              0                          0
+
+                                                                                                                          0                          0
+
+                              0                                                                                                   0    1    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                   11th St                          11th St         DC 295 Ramp C-1/C-2/C-4 SE DC 295 Ramp C-1/C-2/C-4 SE            Total       Hourly
+    Period                   (Northbound)                     (Southbound)               (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U    Left Thru Right      U     Left Thru Right      U
+    4:30 PM        0           80       0      0        0      182       0   0      4      0    19     0       0     0      1     0               286
+    4:45 PM        0           77       0      0        0      184       0   0      6      0    19     0       0     0      2     0               288
+    5:00 PM        0           59       2      0        1      169       0   0      5      0    16     0       0     0      0     0               252
+    5:15 PM        0           55       0      0        0      190       0   0      5      1    13     0       0     0      2     0               266             1092
+    5:30 PM        0           69       0      0        0      186       0   0      2      0    23     0       0     0      0     0               280             1086
+    5:45 PM        0           58       0      0        0      195       0   1      4      0    19     0       0     0      0     0               277             1075
+    6:00 PM        0           61       1      0        0      200       0   0      3      0    19     0       0     0      0     0               284             1107
+    6:15 PM        0           64       1      1        1      200       0   0      4      0    18     0       0     0      0     0               289             1130
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                 Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U     Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     0         256      4     4           4     800      0     0     16      0    72     0      0        0     0     0                      1156
+ Heavy Trucks      0           4      0                 0      28      0            0      0      0           0        0     0                             32
+  Pedestrians                  0                                0                          8                           0                                    8
+    Bicycles       0           0      0                 0       0      0            0      0      0           0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 2/28/2013 11:14 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: 11th St -- DC 295 Ramp C-1/C-2/C-4 SE                                                                                     QC JOB #: 10903144
+ CITY/STATE: Washington, DC                                                                                                          DATE: Sat, Feb 16 2013
+                      186             278                           Peak-Hour: 12:45 PM -- 1:45 PM
+                               0.76                                                                                                   3.2        3.2
+
+                           0   185     1
+                                                                    Peak 15-Min: 1:30 PM -- 1:45 PM
+                                                                                                                                      0.0 3.2 0.0
+
+
+       1       17                            1        3
+                                                                                                                       100.0   5.9                      0.0       0.0
+        0.69   0               0.84          0   0.38
+                                                                                                                               0.0                      0.0
+       67      50                            2        0
+                                                                                                                       1.5     0.0                      0.0       0.0
+
+                           1   259     0
+                                                                                                                                     100.0 3.1 0.0
+
+                      237             260
+                               0.83                                                                                                   2.5        3.5
+
+
+
+                                0                                                                                                      0    0    0
+
+
+
+                                                                                                                               0                          0
+
+               5                             0                                                                                 0                          0
+
+                                                                                                                               0                          0
+
+                                0                                                                                                      0    0    0
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+
+               NA                           NA                                                                                 NA                       NA
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+ 15-Min Count                     11th St                           11th St         DC 295 Ramp C-1/C-2/C-4 SE DC 295 Ramp C-1/C-2/C-4 SE              Total       Hourly
+    Period                     (Northbound)                      (Southbound)               (Eastbound)               (Westbound)                                  Totals
+ Beginning At       Left        Thru Right        U       Left    Thru Right    U    Left Thru Right      U     Left Thru Right      U
+   12:00 PM          0           55       0       0        0       50       0   0      6      0    10     0       0     0      0     0                 121
+   12:15 PM          0           56       0       0        0       48       0   0      2      0     8     0       0     0      0     0                 114
+   12:30 PM          0           58       1       0        0       46       0   0      4      0    16     0       0     0      0     0                 125
+   12:45 PM          1           77       0       0        0       35       0   1      4      0    11     0       0     0      0     0                 129              489
+    1:00 PM          0           56       0       0        0       41       0   0      1      0     8     0       0     0      0     0                 106              474
+    1:15 PM          0           63       0       0        0       45       0   0      4      0    14     0       0     0      1     0                 127              487
+    1:30 PM          0           63       0       0        0       64       0   0      8      0    17     0       2     0      0     0                 154              516
+    1:45 PM          1           64       0       0        0       45       0   0      3      0    14     0       0     0      0     0                 127              514
+
+
+
+
+ Peak 15-Min                       Northbound                        Southbound                 Eastbound                   Westbound
+   Flowrates        Left       Thru Right     U           Left   Thru Right    U     Left   Thru Right    U     Left    Thru Right    U                        Total
+  All Vehicles       0         252      0     0            0     256      0     0     32      0    68     0      8        0     0     0                        616
+ Heavy Trucks        0           8      0                  0       8      0            4      0      0           0        0     0                               20
+  Pedestrians                    0                                 0                          8                           0                                      8
+    Bicycles         0           0      0                  0       0      0            0      0      0           0        0     0                                0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/5/2013 8:24 PM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

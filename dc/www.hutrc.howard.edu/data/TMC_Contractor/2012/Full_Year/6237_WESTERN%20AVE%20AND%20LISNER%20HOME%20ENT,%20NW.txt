@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Western Ave -- Lisner Home Ent NW                                                                                   QC JOB #: 10706845
+ CITY/STATE: Washington, DC                                                                                                    DATE: Thu, Feb 23 2012
+                      1269          461                            Peak-Hour: 8:00 AM -- 9:00 AM
+                             0.95                                                                                               2.7        6.1
+
+                      103 1166 0
+                                                                  Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                0.0 2.9 0.0
+
+
+       137     9                           0        1
+                                                                                                                   2.2   0.0                       0.0    100.0
+        0.79   0             0.96          0   0.75
+                                                                                                                         0.0                       0.0
+       18      9                           1        0
+                                                                                                                   0.0   0.0                     100.0      0.0
+
+                         34 452      0
+                                                                                                                                8.8 6.2 0.0
+
+                      1176          486
+                             0.96                                                                                               3.0        6.4
+
+
+
+                              6                                                                                                  0    2    0
+
+
+
+                                                                                                                         0                          0
+
+               56                         48                                                                             0                          1
+
+                                                                                                                         0                          0
+
+                              15                                                                                                 0    0    0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+               NA                         NA                                                                             NA                        NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 15-Min Count                Western Ave                        Western Ave          Lisner Home Ent NW        Lisner Home Ent NW                Total        Hourly
+    Period                   (Northbound)                      (Southbound)              (Eastbound)               (Westbound)                                Totals
+ Beginning At       Left      Thru Right        U       Left    Thru Right    U   Left Thru Right      U    Left Thru Right      U
+    7:00 AM           1        62     0         0        0      163      4    0    2       0     1     0     0       0     0     0               233
+    7:15 AM           2        97     0         0        0      219      9    0    0       0     1     0     0       0     0     0               328
+    7:30 AM           4      100      0         0        0      270      6    0    0       0     2     0     0       0     1     0               383
+    7:45 AM          13        80     1         0        0      284     21    0    2       0     2     0     0       0     1     0               404             1348
+    8:00 AM          10      117      0         0        0      290     17    0    2       0     4     0     0       0     0     0               440             1555
+    8:15 AM           4      113      0         0        0      308     32    0    1       0     4     0     1       0     0     0               463             1690
+    8:30 AM          11      109      0         0        0      315     23    0    4       0     0     0     0       0     0     0               462             1769
+    8:45 AM           9      113      0         0        0      253     31    0    2       0     1     0     0       0     0     0               409             1774
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                  Eastbound                  Westbound
+   Flowrates        Left     Thru Right     U           Left Thru Right    U      Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       16      452      0     0            0 1232     128     0      4       0    16     0     4        0     0     0                      1852
+ Heavy Trucks         4       32      0                  0    28      0            0       0      0          4        0     0                              68
+  Pedestrians                 20                               8                          72                         36                                   136
+    Bicycles         0         0      0                  0     1      0            0       0      0          0        0     0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Western Ave -- Lisner Home Ent NW                                                                                  QC JOB #: 10706846
+ CITY/STATE: Washington, DC                                                                                                   DATE: Thu, Feb 23 2012
+                      695          547                           Peak-Hour: 12:00 PM -- 1:00 PM
+                            0.95                                                                                               4.9        5.5
+
+                         50 642     3
+                                                                Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                               2.0 5.1 0.0
+
+
+       85      53                         4        5
+                                                                                                                  4.7   0.0                     25.0      20.0
+        0.87   0            0.92          0   0.50
+                                                                                                                        0.0                      0.0
+       91      38                         1        5
+                                                                                                                  2.2   5.3                      0.0       0.0
+
+                         35 490     2
+                                                                                                                               8.6 5.9 0.0
+
+                      681          527
+                            0.89                                                                                               5.1        6.1
+
+
+
+                             20                                                                                                 0    2    0
+
+
+
+                                                                                                                        0                          0
+
+               50                        38                                                                             0                          0
+
+                                                                                                                        1                          0
+
+                             12                                                                                                 0    0    0
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+
+               NA                        NA                                                                             NA                       NA
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+ 15-Min Count               Western Ave                        Western Ave          Lisner Home Ent NW        Lisner Home Ent NW                Total        Hourly
+    Period                  (Northbound)                      (Southbound)              (Eastbound)               (Westbound)                                Totals
+ Beginning At       Left     Thru Right        U       Left    Thru Right    U   Left Thru Right      U    Left Thru Right      U
+   11:00 AM           9     104      1         0        1      135     17    0     9      0     9     0     2       0     1     0               288
+   11:15 AM           9     116      0         0        2      158      9    0     5      0    10     0     1       0     1     0               311
+   11:30 AM           6     116      0         0        0      135     12    0     6      0     5     0     0       0     0     0               280
+   11:45 AM           5     111      0         0        0      147     12    0    10      0    14     0     0       0     1     0               300             1179
+   12:00 PM          12     130      1         0        2      141     12    0    16      0     9     0     1       0     1     0               325             1216
+   12:15 PM           7     144      0         0        0      167     15    0    14      0    13     0     0       0     0     0               360             1265
+   12:30 PM          10     116      1         0        0      171      8    0     9      0     9     0     0       0     3     0               327             1312
+   12:45 PM           6     100      0         0        1      163     15    0    14      0     7     0     0       0     0     0               306             1318
+
+
+
+
+ Peak 15-Min                    Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       28     576      0     0            0     668     60     0    56      0    52     0     0        0     0     0                      1440
+ Heavy Trucks         4      48      0                  0      40      0           0      0      4          0        0     0                             96
+  Pedestrians                 8                                20                        24                         20                                   72
+    Bicycles         0        0      0                  0       1      0          0       0      0          0        0     0                              1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Western Ave -- Lisner Home Ent NW                                                                                   QC JOB #: 10706847
+ CITY/STATE: Washington, DC                                                                                                    DATE: Thu, Feb 23 2012
+                      764          1028                            Peak-Hour: 5:15 PM -- 6:15 PM
+                            0.93                                                                                                3.0        2.3
+
+                         39 724     1
+                                                                  Peak 15-Min: 6:00 PM -- 6:15 PM
+                                                                                                                                0.0 3.2 0.0
+
+
+       65      77                          1        2
+                                                                                                                   3.1   0.0                      0.0       0.0
+        0.79   0            0.97           0   0.75
+                                                                                                                         0.0                      0.0
+       119     42                          1        1
+                                                                                                                   0.0   0.0                      0.0       0.0
+
+                         26 950     0
+                                                                                                                                7.7 2.5 0.0
+
+                      767          976
+                            0.95                                                                                                3.0        2.7
+
+
+
+                             13                                                                                                  0    0    0
+
+
+
+                                                                                                                         0                          0
+
+               16                         18                                                                             0                          0
+
+                                                                                                                         0                          0
+
+                             16                                                                                                  0    3    0
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+
+               NA                         NA                                                                             NA                       NA
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+ 15-Min Count               Western Ave                         Western Ave          Lisner Home Ent NW        Lisner Home Ent NW                Total       Hourly
+    Period                  (Northbound)                       (Southbound)              (Eastbound)               (Westbound)                               Totals
+ Beginning At       Left     Thru Right         U       Left    Thru Right    U   Left Thru Right      U    Left Thru Right      U
+    4:30 PM           8     234      0          0        0      167      3    0    16      0    10     0     0       0     1     0               439
+    4:45 PM           2     235      0          0        0      143     14    0    20      0    10     0     0       0     0     0               424
+    5:00 PM           5     230      0          0        0      156      7    0    32      0     7     0     0       0     0     0               437
+    5:15 PM           5     248      0          0        0      172      9    0    12      0     5     0     0       0     0     0               451             1751
+    5:30 PM           2     258      0          0        0      175      5    0    17      0    11     0     0       0     1     0               469             1781
+    5:45 PM           9     214      0          0        0      191     15    0    20      0    11     0     0       0     0     0               460             1817
+    6:00 PM          10     230      0          0        1      186     10    0    28      0    15     0     1       0     0     0               481             1861
+    6:15 PM          12     214      0          0        0      175     11    0    24      0    10     0     1       0     0     0               447             1857
+
+
+
+
+ Peak 15-Min                    Northbound                         Southbound                Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U            Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       40     920      0     0             4     744     40     0   112      0    60     0     4        0     0     0                      1924
+ Heavy Trucks         0      28      0                   0      28      0           0      0      0          0        0     0                              56
+  Pedestrians                12                                  4                        32                         60                                   108
+    Bicycles         0        1      0                   0       0      0           0      0      0          0        0     0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Western Ave -- Lisner Home Ent NW                                                                                  QC JOB #: 10706848
+ CITY/STATE: Washington, DC                                                                                                   DATE: Sat, Apr 21 2012
+                      792          606                           Peak-Hour: 12:45 PM -- 1:45 PM
+                            0.94                                                                                               2.1        2.8
+
+                         44 747     1
+                                                                 Peak 15-Min: 1:15 PM -- 1:30 PM
+                                                                                                                               0.0 2.3 0.0
+
+
+       72      49                         2        2
+                                                                                                                  4.2   0.0                      0.0       0.0
+        0.76   0            0.95          0   0.50
+                                                                                                                        0.0                      0.0
+       94      45                         0        2
+                                                                                                                  1.1   2.2                      0.0       0.0
+
+                         28 555     1
+                                                                                                                               10.7 3.1 0.0
+
+                      792          584
+                            0.94                                                                                               2.3        3.4
+
+
+
+                             12                                                                                                 0    3    0
+
+
+
+                                                                                                                        0                          0
+
+               54                        58                                                                             0                          0
+
+                                                                                                                        0                          0
+
+                             10                                                                                                 0    0    0
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+
+               NA                        NA                                                                             NA                       NA
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+ 15-Min Count               Western Ave                        Western Ave          Lisner Home Ent NW        Lisner Home Ent NW                Total       Hourly
+    Period                  (Northbound)                      (Southbound)              (Eastbound)               (Westbound)                               Totals
+ Beginning At       Left     Thru Right        U       Left    Thru Right    U   Left Thru Right      U    Left Thru Right      U
+   12:00 PM           4     128      0         0        0      194      5    0    10      0    13     0     0       0     1     0               355
+   12:15 PM           9     137      1         0        0      195     10    0    10      0     6     0     0       0     0     0               368
+   12:30 PM          11     142      0         0        0      172     14    0    10      0     9     0     0       0     0     0               358
+   12:45 PM           6     154      0         0        0      180     11    0    11      0    13     0     0       0     1     0               376             1457
+    1:00 PM           3     128      1         0        1      162     10    0    11      0     6     0     0       0     1     0               323             1425
+    1:15 PM           8     146      0         0        0      199     13    0    14      0     8     0     0       0     0     0               388             1445
+    1:30 PM          11     127      0         0        0      206     10    0    13      0    18     0     0       0     0     0               385             1472
+    1:45 PM           3     119      0         0        1      202     11    0     9      0     6     0     0       0     1     0               352             1448
+
+
+
+
+ Peak 15-Min                    Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       32     584      0     0            0     796     52     0    56      0    32     0     0        0     0     0                      1552
+ Heavy Trucks         4      24      0                  0      16      0           0      0      0          0        0     0                              44
+  Pedestrians                12                                20                        64                         76                                   172
+    Bicycles         0        0      0                  0       0      0          0       0      0          0        0     0                               0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

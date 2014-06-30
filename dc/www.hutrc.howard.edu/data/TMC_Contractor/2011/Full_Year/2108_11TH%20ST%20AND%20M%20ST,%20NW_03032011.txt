@@ -1,0 +1,74 @@
+Traffic Count Database System (TCDS)                                                                                    Page 1 of 3
+
+
+
+
+Peak Hour Data for Intersection
+      Int ID:         2
+     Road 1:          11TH STREET NW                                           Corridor:          -
+     Road 2:          M STREET NW                                             Community:          -
+
+
+                                                AM Peak Hour
+                                                 03/03/2011
+               NB                            EB             SB                                  WB
+   Start                    App                       App                       App                       App Int
+   Time Left Thru Right Ped Total Left Thru Right Ped Total Left Thru Right Ped Total Left Thru Right Ped Total Total
+ 8:00 AM 3 30 13 21 46 0 22                  2     1 24 2 70 15 14 87 0 2                         1    3   3 160
+ 8:15 AM 4 26 10 31 40 0 28                  5     0 33 13 76 13 10 102 0 9                       0    2   9 184
+ 8:30 AM 2 16      4 16 22 1 20              3     9 24 18 95 25 7 138 0 5                        1    8   6 190
+ 8:45 AM 0 18      8 30 26 5 12              4     9 21 12 66 27 23 105 0 8                       3    7 11 163
+   Total 9 90 35 98 134 6 82 14 19 102 45 307 80 54 432 0 24                                      5 20 29 697
+   PHF 0.56 0.75 0.67       0.73 0.30 0.73 0.70       0.77 0.63 0.81 0.74       0.78       0.67 0.42      0.66
+  HV % 11 1         0              0    4     7             18 14       5                   38    0
+       Cars          Trucks          Pedestrians
+
+
+
+
+http://dc.ms2soft.com/tcds/peakhour.asp?offset=&dir=&id=2&a=193&calc=intersection&... 7/21/2011
+Traffic Count Database System (TCDS)                                                                                     Page 2 of 3
+
+
+
+                                               Midday Peak Hour
+                                                  03/03/2011
+                NB                            EB             SB                                  WB
+    Start                    App                       App                       App                       App Int
+    Time Left Thru Right Ped Total Left Thru Right Ped Total Left Thru Right Ped Total Left Thru Right Ped Total Total
+ 12:15 PM 0    0    0     0   0     0 0        0    0   0     0 0       0     0   0     0 0        0    0   0     0
+ 12:30 PM 0    0    0     0   0     0 0        0    0   0     0 0       0     0   0     0 0        0    0   0     0
+ 12:45 PM 0    0    0     0   0     0 0        0    0   0     0 0       0     0   0     0 0        0    0   0     0
+  1:00 PM 0    0    0     0   0     0 0        0    0   0     0 0       0     0   0     0 0        0    0   0     0
+    Total 0    0     0    0   0     0    0     0    0   0     0    0     0    0   0     0    0     0    0   0     0
+    PHF
+   HV %
+       Cars          Trucks          Pedestrians
+
+
+
+
+http://dc.ms2soft.com/tcds/peakhour.asp?offset=&dir=&id=2&a=193&calc=intersection&... 7/21/2011
+Traffic Count Database System (TCDS)                                                                                    Page 3 of 3
+
+
+
+                                                PM Peak Hour
+                                                 03/03/2011
+               NB                            EB             SB                                  WB
+   Start                    App                       App                       App                       App Int
+   Time Left Thru Right Ped Total Left Thru Right Ped Total Left Thru Right Ped Total Left Thru Right Ped Total Total
+ 5:30 PM 9 102 10 45 121 8 25                5 24 38 8 54 10 44 72 0                        1    1 16 2 233
+ 5:45 PM 7 101 16 62 124 7 34                4 25 45 6 55 11 25 72 0                        3    3 23 6 247
+ 6:00 PM 6 90 21 45 117 5 30                 7 15 42 7 64 12 39 83 2                        1    0 29 3 245
+ 6:15 PM 6 93 17 52 116 4 37                 5 13 46 7 48              8 30 63 0            1    2 13 3 228
+   Total 28 386 64 204 478 24 126 21 77 171 28 221 41 138 290 2                             6     6 81 14 953
+   PHF 0.78 0.95 0.76       0.96 0.75 0.85 0.75       0.93 0.88 0.86 0.85       0.87 0.25 0.50 0.50       0.58
+  HV % 7 11         2             13 3        0              4    3    15              0    0    17
+       Cars          Trucks          Pedestrians
+
+
+
+
+http://dc.ms2soft.com/tcds/peakhour.asp?offset=&dir=&id=2&a=193&calc=intersection&... 7/21/2011
+

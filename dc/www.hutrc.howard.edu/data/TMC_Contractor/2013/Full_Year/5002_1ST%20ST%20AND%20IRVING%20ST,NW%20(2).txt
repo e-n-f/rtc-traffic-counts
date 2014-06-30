@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                     Method for determining peak hour: Total Entering Volume
+ LOCATION: 1st St NW -- Irving St NW                                                                                                 QC JOB #: 10695249
+ CITY/STATE: Washington, DC                                                                                                          DATE: Wed, May 01 2013
+                          0           0                             Peak-Hour: 7:45 AM -- 8:45 AM                                     0.0        0.0
+
+                          0    0      0
+                                                                   Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                      0.0 0.0 0.0
+
+
+       1333   0                               0   1821
+                                                                                                                         4.1   0.0                      0.0      4.8
+              597             0.98         1267
+                                                                                                                               7.9                      4.3
+       903    306                           554    885
+                                                                                                                         6.8   4.6                      5.8      8.8
+
+                        66     0     287
+                                                                                                                                      0.0 0.0 10.8
+
+                     859             353
+                                                                                                                                      5.4        8.8
+
+
+
+                               0                                                                                                      0     0    0
+
+
+
+                                                                                                                               0                          0
+
+              0                               0                                                                                5                          3
+
+                                                                                                                               0                          0
+
+                               13                                                                                                     0     0    0
+
+
+
+
+                              NA                                                                                                            NA
+
+
+
+
+              NA                            NA                                                                                 NA                       NA
+
+
+
+
+                              NA                                                                                                            NA
+
+
+
+ 15-Min Count                   1st St NW                         1st St NW                   Irving St NW                Irving St NW                 Total      Hourly
+    Period                    (Northbound)                      (Southbound)                  (Eastbound)                 (Westbound)                             Totals
+ Beginning At      Left        Thru Right         U      Left    Thru Right    U       Left   Thru Right     U    Left    Thru Right        U
+    7:00 AM         11           0      33        1       0        0      0    0        0       77     83    0    135     144       0       0          484
+    7:15 AM         13           0      39        0       0        0      0    0        0     103      90    0    112     236       0       1          594
+    7:30 AM         12           0      95        0       0        0      0    0        0     117      75    0    118     265       0       1          683
+    7:45 AM         20           0      87        0       0        0      0    0        0     126      62    0    131     327       0       1          754            2515
+    8:00 AM         18           0      67        0       0        0      0    0        0     152      94    0    150     304       0       0          785            2816
+    8:15 AM         20           0      72        0       0        0      0    0        0     158      83    0    136     319       0       0          788            3010
+    8:30 AM          8           0      61        0       0        0      0    0        0     161      67    0    136     317       0       0          750            3077
+    8:45 AM         14           0      57        1       0        0      0    0        0     145      72    0    140     251       0       1          681            3004
+
+
+
+
+ Peak 15-Min                      Northbound                        Southbound                    Eastbound                Westbound
+   Flowrates       Left       Thru Right     U           Left   Thru Right    U        Left   Thru Right    U     Left Thru Right    U                        Total
+  All Vehicles      80          0    288     0            0       0      0     0        0     632   332     0     544 1276     0     0                        3152
+ Heavy Trucks        0          0     40                  0       0      0              0      52    12            32   52     0                               188
+  Pedestrians                   4                                 0                             0                        0                                      4
+    Bicycles        0           0      0                  0       0      0              0       2      0            0    0     0                                2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 10:39 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 1st St NW -- Irving St NW                                                                                              QC JOB #: 10695250
+ CITY/STATE: Washington, DC                                                                                                       DATE: Wed, May 01 2013
+                         0           0                          Peak-Hour: 11:30 AM -- 12:30 PM                                    0.0        0.0
+
+                         0    0      0
+                                                               Peak 15-Min: 11:30 AM -- 11:45 AM
+                                                                                                                                   0.0 0.0 0.0
+
+
+       610   0                              0   803
+                                                                                                                      4.8   0.0                      0.0      6.6
+             463             0.90         486
+                                                                                                                            6.7                      5.6
+       645   182                          317   864
+                                                                                                                      6.4   5.5                      8.2      5.2
+
+                    125       0     396
+                                                                                                                                   1.6 0.0 3.5
+
+                    495             521
+                                                                                                                                   7.3        3.1
+
+
+
+                              0                                                                                                    0     0    0
+
+
+
+                                                                                                                            0                          0
+
+             0                              0                                                                               1                          4
+
+                                                                                                                            1                          1
+
+                              12                                                                                                   0     0    0
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+
+             NA                           NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+ 15-Min Count                  1st St NW                       1st St NW                   Irving St NW                Irving St NW                 Total      Hourly
+    Period                   (Northbound)                    (Southbound)                  (Eastbound)                 (Westbound)                             Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U       Left   Thru Right     U    Left    Thru Right        U
+   11:00 AM        16           0      86       0      0        0      0    0        0       90     47    2     80     137       0       0          458
+   11:15 AM        28           0      86       2      0        0      0    0        0       86     43    0     71     118       0       1          435
+   11:30 AM        32           0      97       0      0        0      0    0        0     119      42    0     93     165       0       1          549
+   11:45 AM        31           0      87       0      0        0      0    0        0     126      34    0     71     121       0       3          473            1915
+   12:00 PM        31           0      91       0      0        0      0    0        0     112      56    0     70       85      0       1          446            1903
+   12:15 PM        30           0     121       1      0        0      0    0        0     106      50    0     78     115       0       0          501            1969
+   12:30 PM        35           0     102       1      0        0      0    0        0     115      45    0     86     106       0       2          492            1912
+   12:45 PM        32           0      76       0      0        0      0    0        0      111     44    0     94     112       0       3          472            1911
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                    Eastbound                   Westbound
+   Flowrates   Left          Thru Right     U         Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles 128             0    388     0          0       0      0     0        0     476   168     0     372     660     0     4                     2196
+ Heavy Trucks    4             0     16                0       0      0              0      36    12            36      24     0                            128
+  Pedestrians                 12                               0                             0                           0                                   12
+    Bicycles     0             0      0                0       0      0              0       0      1            0       1     0                              2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 10:39 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: 1st St NW -- Irving St NW                                                                                                 QC JOB #: 10695251
+ CITY/STATE: Washington, DC                                                                                                          DATE: Wed, May 01 2013
+                          0           0                            Peak-Hour: 4:30 PM -- 5:30 PM                                      0.0         0.0
+
+                          0    0      0
+                                                                  Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                      0.0 0.0 0.0
+
+
+       756    0                              0    735
+                                                                                                                        1.6   0.0                        0.0      4.5
+              990             0.98         578
+                                                                                                                              4.8                        2.1
+       1084   94                           157   1603
+                                                                                                                        5.4   11.7                      13.4      4.3
+
+                     180       0     611
+                                                                                                                                      0.0 0.0 3.4
+
+                     251             791
+                                                                                                                                      12.7        2.7
+
+
+
+                               0                                                                                                       0     0    0
+
+
+
+                                                                                                                              0                            0
+
+              0                              0                                                                                3                            4
+
+                                                                                                                              0                            0
+
+                               13                                                                                                      2     0    0
+
+
+
+
+                              NA                                                                                                             NA
+
+
+
+
+              NA                           NA                                                                                 NA                         NA
+
+
+
+
+                              NA                                                                                                             NA
+
+
+
+ 15-Min Count                   1st St NW                        1st St NW                   Irving St NW                Irving St NW                   Total      Hourly
+    Period                    (Northbound)                     (Southbound)                  (Eastbound)                 (Westbound)                               Totals
+ Beginning At      Left        Thru Right        U      Left    Thru Right    U       Left   Thru Right     U    Left    Thru Right          U
+    4:30 PM         59           0     193       1       0        0      0    0        0     200      17    0     47     138       0         0          655
+    4:45 PM         48           0     141       0       0        0      0    0        0     276      27    0     35     126       0         0          653
+    5:00 PM         36           0     150       0       0        0      0    0        0     224      18    0     43     162       0         0          633
+    5:15 PM         35           0     127       1       0        0      0    0        0     290      32    0     30     152       0         2          669            2610
+    5:30 PM         41           0     114       0       0        0      0    0        0     276      24    0     39     146       0         0          640            2595
+    5:45 PM         32           0      71       0       0        0      0    0        0     279      22    0     28     145       0         1          578            2520
+    6:00 PM         31           0      78       0       0        0      0    0        0     224      31    0     28     137       0         0          529            2416
+    6:15 PM         30           0      62       0       0        0      0    0        0     236      33    0     31     146       0         0          538            2285
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound                  Eastbound                     Westbound
+   Flowrates   Left           Thru Right     U          Left   Thru Right    U        Left Thru Right    U       Left    Thru Right    U                       Total
+  All Vehicles 140              0    508     4           0       0      0     0        0 1160    128     0       120     608     0     8                       2676
+ Heavy Trucks    0              0     16                 0       0      0              0    56    16              16      20     0                              124
+  Pedestrians                  20                                0                           0                             0                                     20
+    Bicycles     1              0      0                 0       0      0              0     0      0              0       2     0                                3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 10:39 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 1st St NW -- Irving St NW                                                                                              QC JOB #: 10695252
+ CITY/STATE: Washington, DC                                                                                                       DATE: Sat, May 11 2013
+                         0           0                           Peak-Hour: 3:00 PM -- 4:00 PM                                     0.0        0.0
+
+                         0    0      0
+                                                                Peak 15-Min: 3:30 PM -- 3:45 PM
+                                                                                                                                   0.0 0.0 0.0
+
+
+       527   2                              0   572
+                                                                                                                      1.1   0.0                      0.0      1.2
+             564             0.95         480
+                                                                                                                            0.7                      1.3
+       635   69                            92   752
+                                                                                                                      0.6   0.0                      1.1      1.2
+
+                       48     0     185
+                                                                                                                                   0.0 0.0 2.7
+
+                    161             233
+                                                                                                                                   0.6        2.1
+
+
+
+                              0                                                                                                     0    0    0
+
+
+
+                                                                                                                            0                          0
+
+             0                              0                                                                               0                          1
+
+                                                                                                                            2                          0
+
+                              12                                                                                                    1    0    0
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+
+             NA                           NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+ 15-Min Count                  1st St NW                       1st St NW                   Irving St NW                Irving St NW                 Total      Hourly
+    Period                   (Northbound)                    (Southbound)                  (Eastbound)                 (Westbound)                             Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U       Left   Thru Right     U    Left    Thru Right        U
+    3:00 PM         8           0      39       0      0        0      0    0        0     140      18    1     32     122       0       1          361
+    3:15 PM         6           0      36       1      0        0      0    0        0     135      18    1     23     120       0       0          340
+    3:30 PM        19           0      63       0      0        0      0    0        0     146      20    0     14     115       0       0          377
+    3:45 PM        12           0      47       2      0        0      0    0        0     143      13    0     20     123       0       2          362            1440
+    4:00 PM        11           0      31       0      0        0      0    0        0     136      15    0     21     130       0       2          346            1425
+    4:15 PM        19           0      18       0      0        0      0    0        0     149      16    0     19     124       0       0          345            1430
+    4:30 PM        14           0      39       0      0        0      0    0        0     129       9    0     19     104       0       2          316            1369
+    4:45 PM         6           0      27       0      0        0      0    0        0     145       7    1     20       93      0       0          299            1306
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                    Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles     76          0    252     0          0       0      0     0        0     584    80     0      56     460     0     0                     1508
+ Heavy Trucks       0          0      4                0       0      0              0      12      0            0       8     0                            24
+  Pedestrians                 12                               0                             0                           0                                  12
+    Bicycles       1           0      0                0       0      0              0       0      2            0       0     0                             3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 10:39 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

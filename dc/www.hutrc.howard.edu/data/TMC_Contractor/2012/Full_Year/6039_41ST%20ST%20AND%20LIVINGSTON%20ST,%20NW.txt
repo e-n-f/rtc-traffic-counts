@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: 41st St -- Livingston St NW                                                                                             QC JOB #: 10706741
+ CITY/STATE: Washington, DC                                                                                                        DATE: Wed, Sep 05 2012
+                      168             277                          Peak-Hour: 8:00 AM -- 9:00 AM
+                               0.73                                                                                                 1.8        1.4
+
+                           7   157     4
+                                                                  Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                    14.3 1.3 0.0
+
+
+       72      0                             4     80
+                                                                                                                       2.8   0.0                      0.0       0.0
+        0.80   35              0.98         31   0.90
+                                                                                                                             2.9                      0.0
+       93      58                           45     54
+                                                                                                                       3.2   3.4                      0.0       1.9
+
+                         34 273 15
+                                                                                                                                    2.9 1.5 0.0
+
+                      260             322
+                               0.91                                                                                                 1.5        1.6
+
+
+
+                                19                                                                                                   1    2    0
+
+
+
+                                                                                                                             0                          0
+
+               20                           22                                                                               0                          2
+
+                                                                                                                             0                          1
+
+                                28                                                                                                   1    2    1
+
+
+
+
+                               NA                                                                                                         NA
+
+
+
+
+               NA                           NA                                                                               NA                       NA
+
+
+
+
+                               NA                                                                                                         NA
+
+
+
+ 15-Min Count                     41st St                         41st St                Livingston St NW              Livingston St NW              Total       Hourly
+    Period                     (Northbound)                    (Southbound)                (Eastbound)                   (Westbound)                             Totals
+ Beginning At       Left        Thru Right        U     Left    Thru Right    U   Left     Thru Right       U   Left     Thru Right       U
+    7:00 AM           6          21       1       0      0       31       2   0    3          5    12       0     9         5     0       0           95
+    7:15 AM           3          25       1       0      0       36       0   0    0          7    10       0     3         2     1       0           88
+    7:30 AM           5          53       4       0      1       57       2   0    1        13      6       0     9       11      1       0          163
+    7:45 AM           7          60       6       0      0       32       1   0    0          3     9       0     9         9     2       0          138              484
+    8:00 AM          13          71       4       0      0       41       0   0    0        12     10       0    11         7     1       0          170              559
+    8:15 AM           6          63       5       0      3       39       0   0    0          9    19       0    15         7     1       0          167              638
+    8:30 AM           8          67       4       0      0       37       3   0    0          9    20       0     9         8     2       0          167              642
+    8:45 AM           7          72       2       0      1       40       4   0    0          5     9       0    10         9     0       0          159              663
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                  Eastbound                     Westbound
+   Flowrates        Left       Thru Right     U         Left   Thru Right    U    Left     Thru Right    U      Left     Thru Right    U                     Total
+  All Vehicles       52        284     16     0          0     164      0     0    0        48    40     0       44       28     4     0                     680
+ Heavy Trucks         4          4      0                0       0      0          0         0      4             0        0     0                            12
+  Pedestrians                   16                              16                          24                            12                                  68
+    Bicycles         0           0      0                0       2      1          0         0      0            0         0     0                             3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: 41st St -- Livingston St NW                                                                                             QC JOB #: 10706742
+ CITY/STATE: Washington, DC                                                                                                        DATE: Wed, Sep 05 2012
+                      148             214                         Peak-Hour: 11:45 AM -- 12:45 PM
+                               0.93                                                                                                 0.7        1.4
+
+                           4   143     1
+                                                                 Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                                    0.0 0.7 0.0
+
+
+       51      7                             1     29
+                                                                                                                       2.0   0.0                      0.0       0.0
+        0.85   34              0.96         18   0.73
+                                                                                                                             0.0                      0.0
+       68      27                           10     52
+                                                                                                                       0.0   0.0                      0.0       1.9
+
+                         29 206 16
+                                                                                                                                    3.4 1.5 6.3
+
+                      179             251
+                               0.87                                                                                                 0.6        2.0
+
+
+
+                                10                                                                                                   0    0    0
+
+
+
+                                                                                                                             0                          0
+
+               12                            3                                                                               1                          0
+
+                                                                                                                             0                          0
+
+                                9                                                                                                    0    0    0
+
+
+
+
+                               NA                                                                                                         NA
+
+
+
+
+               NA                           NA                                                                               NA                       NA
+
+
+
+
+                               NA                                                                                                         NA
+
+
+
+ 15-Min Count                     41st St                         41st St                Livingston St NW              Livingston St NW              Total       Hourly
+    Period                     (Northbound)                    (Southbound)                (Eastbound)                   (Westbound)                             Totals
+ Beginning At       Left        Thru Right        U     Left    Thru Right    U   Left     Thru Right       U   Left     Thru Right       U
+   11:00 AM           7          24     10        0      0       38       3   0    0        11      4       0    3          8     1       0          109
+   11:15 AM           3          42       4       0      1       41       0   0    3          6     5       1    1          5     1       0          113
+   11:30 AM           1          50       3       0      1       32       2   0    1          4     4       0    4          2     2       0          106
+   11:45 AM           6          48       3       0      0       35       3   0    0        10     10       0    3          5     0       0          123              451
+   12:00 PM           6          43       3       0      0       37       1   0    2          9     6       0    2          6     0       0          115              457
+   12:15 PM          11          56       5       0      1       33       0   0    4          3     8       0    1          6     1       0          129              473
+   12:30 PM           6          59       5       0      0       38       0   0    1        12      3       0    3          1     0       1          129              496
+   12:45 PM           6          38       4       0      1       26       1   0    0        14      5       0    2          6     1       0          104              477
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                  Eastbound                     Westbound
+   Flowrates        Left       Thru Right     U         Left   Thru Right    U    Left     Thru Right    U      Left     Thru Right    U                     Total
+  All Vehicles       44        224     20     0          4     132      0     0    16       12    32     0       4        24     4     0                     516
+ Heavy Trucks         4          4      4                0       0      0           0        0      0            0         0     0                            12
+  Pedestrians                    8                               4                           0                             0                                  12
+    Bicycles         0           0      0                0       0      0          0         0      0            0         0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 41st St -- Livingston St NW                                                                                           QC JOB #: 10706743
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, Sep 05 2012
+                      171          454                          Peak-Hour: 5:30 PM -- 6:30 PM
+                            0.93                                                                                                  0.6        1.5
+
+                         11 159     1
+                                                               Peak 15-Min: 6:00 PM -- 6:15 PM
+                                                                                                                                  0.0 0.6 0.0
+
+
+       70      18                         4     45
+                                                                                                                    0.0   11.1                      0.0       0.0
+        0.82   77           0.93         24   0.75
+                                                                                                                          0.0                       0.0
+       151     56                        17    115
+                                                                                                                    1.3   0.0                       0.0       0.0
+
+                         35 432 37
+                                                                                                                                  0.0 1.2 0.0
+
+                      232          504
+                            0.94                                                                                                  0.4        1.0
+
+
+
+                             31                                                                                                    0    2    0
+
+
+
+                                                                                                                          0                           0
+
+               13                         7                                                                               1                           1
+
+                                                                                                                          1                           0
+
+                             29                                                                                                    0    1    0
+
+
+
+
+                            NA                                                                                                          NA
+
+
+
+
+               NA                        NA                                                                               NA                        NA
+
+
+
+
+                            NA                                                                                                          NA
+
+
+
+ 15-Min Count                  41st St                         41st St                Livingston St NW              Livingston St NW               Total       Hourly
+    Period                  (Northbound)                    (Southbound)                (Eastbound)                   (Westbound)                              Totals
+ Beginning At       Left     Thru Right        U     Left    Thru Right    U   Left     Thru Right       U   Left     Thru Right        U
+    4:30 PM           8       74       6       0      0       34       2   0    1        16     10       0    6          3     2        0          162
+    4:45 PM           1       92       6       0      1       28       1   0    2        21      6       0    4          1     2        0          165
+    5:00 PM           6       80       7       0      0       26       2   0    3        19     14       0    4          3     2        0          166
+    5:15 PM           7       90       7       0      0       30       0   0    3        20     11       0    3          6     3        0          180              673
+    5:30 PM           9       90     11        0      0       33       2   0    7        15     12       0    3          5     0        0          187              698
+    5:45 PM           9     116        5       0      1       39       5   0    5        19      8       0    4          4     2        0          217              750
+    6:00 PM          10     109      11        0      0       44       2   0    5        21     20       0    3          8     1        0          234              818
+    6:15 PM           7     117      10        0      0       43       2   0    1        22     16       0    7          7     1        0          233              871
+
+
+
+
+ Peak 15-Min                    Northbound                      Southbound                  Eastbound                     Westbound
+   Flowrates        Left    Thru Right     U         Left   Thru Right    U    Left     Thru Right    U      Left     Thru Right    U                      Total
+  All Vehicles       40     436     44     0          0     176      8     0    20       84    80     0       12       32     4     0                      936
+ Heavy Trucks         0       0      0                0       4      0           0        0      0             0        0     0                              4
+  Pedestrians                24                              40                          24                             0                                   88
+    Bicycles         0        0      0                0       2      0          0         0      1            0         0     0                              3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 41st St -- Livingston St NW                                                                                          QC JOB #: 10706744
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Mar 24 2012
+                      180          311                         Peak-Hour: 12:00 PM -- 1:00 PM
+                            0.80                                                                                                 0.6        0.3
+
+                         10 167     3
+                                                              Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                                 0.0 0.6 0.0
+
+
+       70      5                          5     48
+                                                                                                                    0.0   0.0                      0.0       0.0
+        0.91   50           0.93         24   0.81
+                                                                                                                          0.0                      0.0
+       87      32                        19     71
+                                                                                                                    0.0   0.0                      0.0       0.0
+
+                         36 301 18
+                                                                                                                                 0.0 0.3 0.0
+
+                      218          355
+                            0.87                                                                                                 0.5        0.3
+
+
+
+                             4                                                                                                    0    0    0
+
+
+
+                                                                                                                          1                          0
+
+               7                         22                                                                               1                          0
+
+                                                                                                                          0                          0
+
+                             21                                                                                                   0    2    0
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+
+               NA                        NA                                                                               NA                       NA
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+ 15-Min Count                  41st St                         41st St                Livingston St NW              Livingston St NW              Total       Hourly
+    Period                  (Northbound)                    (Southbound)                (Eastbound)                   (Westbound)                             Totals
+ Beginning At       Left     Thru Right        U     Left    Thru Right    U   Left     Thru Right       U   Left     Thru Right       U
+   12:00 PM           6       66       5       0      0       37       2   0    0        10      9       0    8          5     1       0          149
+   12:15 PM           5       93       4       0      2       38       3   0    4        14      6       0    4          5     2       0          180
+   12:30 PM           9       69       5       0      0       54       2   0    1        13      8       0    2          4     2       0          169
+   12:45 PM          16       73       4       0      1       38       3   0    0        13      9       0    5        10      0       0          172              670
+    1:00 PM           3       67       6       0      1       30       2   0    5          7     7       0    3          8     2       0          141              662
+    1:15 PM           5       71       5       0      0       31       0   0    2        11     10       0    2          8     0       0          145              627
+    1:30 PM          12       64       1       0      0       40       1   0    0        11      8       0    8          8     1       0          154              612
+    1:45 PM           6       56       9       0      2       43       3   0    3        14      5       0    5          4     3       0          153              593
+
+
+
+
+ Peak 15-Min                    Northbound                      Southbound                  Eastbound                     Westbound
+   Flowrates        Left    Thru Right     U         Left   Thru Right    U    Left     Thru Right    U      Left     Thru Right    U                     Total
+  All Vehicles       20     372     16     0          8     152     12     0    16       56    24     0       16       20     8     0                     720
+ Heavy Trucks         0       0      0                0       0      0           0        0      0             0        0     0                             0
+  Pedestrians                 8                               4                           8                             0                                  20
+    Bicycles         0        0      0                0       0      0          0         0      0            0         0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:05 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

@@ -1,0 +1,80 @@
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- W St NW                                                                                               QC JOB #: 10863077
+ CITY/STATE: Washington, DC                                                                                                DATE: Sat, Feb 23 2013
+                    298          187                           Peak-Hour: 3:15 PM -- 4:15 PM                                1.7        1.1
+
+                       93 194 11
+                                                              Peak 15-Min: 3:45 PM -- 4:00 PM
+                                                                                                                            0.0 2.1 9.1
+
+
+       120   0                          0       0
+                                                                                                               0.0   0.0                      0.0       0.0
+             0            0.97          0
+                                                                                                                     0.0                      0.0
+       0     0                          0   24
+                                                                                                               0.0   0.0                      0.0      12.5
+
+                       27 187 13
+                                                                                                                            0.0 1.1 15.4
+
+                    194          227
+                                                                                                                            2.1        1.8
+
+
+
+                           12                                                                                                0    0    0
+
+
+
+                                                                                                                     0                          0
+
+             18                         8                                                                            0                          0
+
+                                                                                                                     0                          0
+
+                           16                                                                                                0    1    1
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+
+             NA                        NA                                                                            NA                       NA
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+ 15-Min Count                 4th St                           4th St                  W St NW                    W St NW                    Total        Hourly
+    Period                (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left     Thru Right       U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM         3       38       6      0        0       41     16    0    0       0      0    0     0        0      0        0          104
+    3:15 PM         8       45       1      0        2       41     26    0    0       0      0    0     0        0      0        0          123
+    3:30 PM        11       53       3      0        3       45     19    0    0       0      0    0     0        0      0        0          134
+    3:45 PM         3       46       5      0        4       49     29    0    0       0      0    0     0        0      0        0          136              497
+    4:00 PM         5       43       4      0        2       59     19    0    0       0      0    0     0        0      0        0          132              525
+    4:15 PM         4       55       6      0        4       34     20    0    0       0      0    0     0        0      0        0          123              525
+    4:30 PM         5       34       2      0        3       39     20    0    0       0      0    0     0        0      0        0          103              494
+    4:45 PM         8       39       3      0        4       35     24    0    0       0      0    0     0        0      0        0          113              471
+
+
+
+
+ Peak 15-Min                  Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     12     184     20     0           16    196    116     0    0       0      0    0     0        0     0     0                      544
+ Heavy Trucks       0       4      0                  0      0      0          0       0      0          0        0     0                              4
+  Pedestrians              20                               36                        16                         24                                   96
+    Bicycles       0        0      0                 0       0      0          0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments: 3241
+Report generated on 4/1/2013 5:28 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

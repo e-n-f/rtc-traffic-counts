@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave NW -- Howard Pl NW                                                                                       QC JOB #: 10863175
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Feb 13 2013
+                    1501            432                            Peak-Hour: 8:00 AM -- 9:00 AM                                 4.1        8.6
+
+                         0 1419 82
+                                                                  Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                                 0.0 3.7 9.8
+
+
+       0     0                             0       1
+                                                                                                                    0.0   0.0                       0.0       0.0
+             0               0.92          0
+                                                                                                                          0.0                       0.0
+       0     0                             1   156
+                                                                                                                    0.0   0.0                       0.0      14.1
+
+                         0   432 74
+                                                                                                                                 0.0 8.6 18.9
+
+                    1420            506
+                                                                                                                                 3.7        10.1
+
+
+
+                              36                                                                                                  0    16    0
+
+
+
+                                                                                                                          0                           0
+
+             62                           58                                                                              0                           0
+
+                                                                                                                          0                           0
+
+                              30                                                                                                  0    2     0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                        NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count            Georgia Ave NW                       Georgia Ave NW            Howard Pl NW              Howard Pl NW                     Total        Hourly
+    Period                (Northbound)                         (Southbound)              (Eastbound)               (Westbound)                                  Totals
+ Beginning At     Left     Thru Right          U       Left     Thru Right     U   Left Thru Right     U     Left Thru Right           U
+    7:00 AM        0        95     5           0         1      194     0      0    0      0      0    0      0      0      0          0           295
+    7:15 AM        0      115      9           0         8      245     0      0    0      0      0    0      0      0      0          0           377
+    7:30 AM        0      123      9           0         8      275     0      0    0      0      0    0      0      0      0          0           415
+    7:45 AM        0      124     19           0        17      337     0      0    0      0      0    0      0      0      0          0           497             1584
+    8:00 AM        0      124     20           0        18      332     0      0    0      0      0    0      0      0      0          0           494             1783
+    8:15 AM        0        98    17           0        15      332     0      0    0      0      0    0      1      0      0          0           463             1869
+    8:30 AM        0        95    13           0        22      373     0      0    0      0      0    0      0      0      0          0           503             1957
+    8:45 AM        0      115     24           0        27      382     0      0    0      0      0    0      0      0      0          0           548             2008
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     0         460     96     0          108 1528      0     0        0       0      0    0     0        0     0     0                       2192
+ Heavy Trucks      0          40     16                 12   68      0              0       0      0          0        0     0                              136
+  Pedestrians                 16                             52                            56                         80                                    204
+    Bicycles       0           0      0                  0    4      0              0       0      0          0        0     0                               4
+   Railroad
+Stopped Buses
+ Comments: 5131
+Report generated on 4/4/2013 7:34 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave NW -- Howard Pl NW                                                                                       QC JOB #: 10863177
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Feb 13 2013
+                    708             562                           Peak-Hour: 11:30 AM -- 12:30 PM                                8.9        8.2
+
+                         0   644 64
+                                                                 Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                                 0.0 9.3 4.7
+
+
+       0     0                             0       0
+                                                                                                                    0.0   0.0                      0.0       0.0
+             0               0.93          0
+                                                                                                                          0.0                      0.0
+       0     0                             0   161
+                                                                                                                    0.0   0.0                      0.0      10.6
+
+                         0   562 97
+                                                                                                                                 0.0 8.2 14.4
+
+                    644             659
+                                                                                                                                 9.3        9.1
+
+
+
+                              32                                                                                                  0    3    0
+
+
+
+                                                                                                                          0                          0
+
+             70                           43                                                                              0                          0
+
+                                                                                                                          0                          0
+
+                              17                                                                                                  0    2    2
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count            Georgia Ave NW                       Georgia Ave NW            Howard Pl NW              Howard Pl NW                    Total        Hourly
+    Period                (Northbound)                         (Southbound)              (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left     Thru Right          U       Left     Thru Right     U   Left Thru Right     U     Left Thru Right           U
+   11:00 AM        0      119     22           0        22      150     0      0    0      0      0    0      0      0      0          0          313
+   11:15 AM        0      130     21           0        20      134     0      0    0      0      0    0      0      0      0          0          305
+   11:30 AM        0      127     24           0        19      145     0      0    0      0      0    0      0      0      0          0          315
+   11:45 AM        0      151     24           0        17      147     0      0    0      0      0    0      0      0      0          0          339             1272
+   12:00 PM        0      136     21           0        15      173     0      0    0      0      0    0      0      0      0          0          345             1304
+   12:15 PM        0      148     28           0        13      179     0      0    0      0      0    0      0      0      0          0          368             1367
+   12:30 PM        0      119     26           0        13      155     0      1    0      0      0    0      0      0      0          0          314             1366
+   12:45 PM        0      138     14           0        15      144     0      0    0      0      0    0      0      0      0          0          311             1338
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                 Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left    Thru Right    U     Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         592    112     0           52     716      0     0     0       0      0    0     0        0     0     0                      1472
+ Heavy Trucks      0          44     16                  4      68      0           0       0      0          0        0     0                             132
+  Pedestrians                 12                                56                         88                         32                                   188
+    Bicycles       0           1      0                 0        0      0           0       0      0          0        0     0                              1
+   Railroad
+Stopped Buses
+ Comments: 5131
+Report generated on 4/4/2013 7:34 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave NW -- Howard Pl NW                                                                                       QC JOB #: 10863176
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Feb 13 2013
+                    742             745                            Peak-Hour: 4:30 PM -- 5:30 PM                                 5.4        3.6
+
+                         0   662 80
+                                                                  Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                 0.0 5.1 7.5
+
+
+       0     0                             0       0
+                                                                                                                    0.0   0.0                      0.0       0.0
+             0               0.93          0
+                                                                                                                          0.0                      0.0
+       0     0                             0   193
+                                                                                                                    0.0   0.0                      0.0       9.8
+
+                         0   745 113
+                                                                                                                                 0.0 3.6 11.5
+
+                    662             858
+                                                                                                                                 5.1        4.7
+
+
+
+                              51                                                                                                  0    3    0
+
+
+
+                                                                                                                          0                          0
+
+             42                           77                                                                              0                          0
+
+                                                                                                                          0                          0
+
+                              20                                                                                                  0    6    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count            Georgia Ave NW                       Georgia Ave NW            Howard Pl NW              Howard Pl NW                    Total       Hourly
+    Period                (Northbound)                         (Southbound)              (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left     Thru Right          U       Left     Thru Right     U   Left Thru Right     U     Left Thru Right           U
+    4:30 PM        0      203     27           0        23      159     0      0    0      0      0    0      0      0      0          0          412
+    4:45 PM        0      166     28           0        10      179     0      0    0      0      0    0      0      0      0          0          383
+    5:00 PM        0      162     29           0        27      158     0      0    0      0      0    0      0      0      0          0          376
+    5:15 PM        0      214     29           0        20      166     0      0    0      0      0    0      0      0      0          0          429             1600
+    5:30 PM        0      182     21           0        13      157     0      0    0      0      0    0      0      0      0          0          373             1561
+    5:45 PM        0      185     19           0        13      175     0      0    0      0      0    0      0      0      0          0          392             1570
+    6:00 PM        0      170     17           0        10      140     0      0    0      0      0    0      0      0      0          0          337             1531
+    6:15 PM        0      160     18           0        12      149     0      0    0      0      0    0      0      0      0          0          339             1441
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                 Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left    Thru Right    U     Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         856    116     0           80     664      0     0     0       0      0    0     0        0     0     0                      1716
+ Heavy Trucks      0          28     16                 12      36      0           0       0      0          0        0     0                              92
+  Pedestrians                 12                                44                         24                         68                                   148
+    Bicycles       0           0      0                 0        0      0           0       0      0          0        0     0                               0
+   Railroad
+Stopped Buses
+ Comments: 5131
+Report generated on 4/4/2013 7:34 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave NW -- Howard Pl NW                                                                                       QC JOB #: 10863178
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Mar 02 2013
+                    778             680                            Peak-Hour: 3:30 PM -- 4:30 PM                                 1.8        1.9
+
+                         0   689 89
+                                                                  Peak 15-Min: 4:00 PM -- 4:15 PM
+                                                                                                                                 0.0 2.0 0.0
+
+
+       0     0                             0       0
+                                                                                                                    0.0   0.0                      0.0       0.0
+             0               0.92          0
+                                                                                                                          0.0                      0.0
+       0     0                             0   169
+                                                                                                                    0.0   0.0                      0.0       3.6
+
+                         1   676 84
+                                                                                                                                 0.0 1.9 7.1
+
+                    690             761
+                                                                                                                                 2.0        2.5
+
+
+
+                              7                                                                                                   0    12   0
+
+
+
+                                                                                                                          0                          0
+
+             74                           38                                                                              0                          0
+
+                                                                                                                          0                          0
+
+                              22                                                                                                  0    7    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count            Georgia Ave NW                       Georgia Ave NW            Howard Pl NW              Howard Pl NW                    Total       Hourly
+    Period                (Northbound)                         (Southbound)              (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left     Thru Right          U       Left     Thru Right     U   Left Thru Right     U     Left Thru Right           U
+    3:00 PM        0      171     14           0        33      155     0      0    0      0      0    0      0      0      0          0          373
+    3:15 PM        0      156     33           0        31      167     0      1    0      0      0    0      0      0      0          0          388
+    3:30 PM        0      174     17           0        30      157     0      0    0      0      0    0      0      0      0          0          378
+    3:45 PM        0      170     22           0        13      148     0      2    0      0      0    0      0      0      0          0          355             1494
+    4:00 PM        0      190     20           0        25      180     0      1    0      0      0    0      0      0      0          0          416             1537
+    4:15 PM        0      142     25           1        17      204     0      1    0      0      0    0      0      0      0          0          390             1539
+    4:30 PM        0      167     17           0        26      161     0      0    0      0      0    0      0      0      0          0          371             1532
+    4:45 PM        0      150     10           0        12      159     0      1    0      0      0    0      0      0      0          0          332             1509
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                 Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left    Thru Right    U     Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         760     80     0          100     720      0     4     0       0      0    0     0        0     0     0                      1664
+ Heavy Trucks      0          12      0                  0      20      0           0       0      0          0        0     0                              32
+  Pedestrians                 64                                 8                         88                         24                                   184
+    Bicycles       0           2      0                  0       5      0           0       0      0          0        0     0                               7
+   Railroad
+Stopped Buses
+ Comments: 5131
+Report generated on 4/4/2013 7:34 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

@@ -1,0 +1,408 @@
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: Rock Creek Pkwy -- S Kennedy Ctr Garage Ramp                                                                            QC JOB #: 10864001
+ CITY/STATE: Washington, DC                                                                                                        DATE: Tue, Feb 05 2013
+                      2202            0                           Peak-Hour: 8:00 AM -- 9:00 AM
+                               0.97                                                                                                 0.7        0.0
+
+                           0 2202 0
+                                                                 Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                                    0.0 0.7 0.0
+
+
+       0       0                           0        0
+                                                                                                                       0.0   0.0                      0.0      0.0
+        0.00   0               0.97        0   0.00
+                                                                                                                             0.0                      0.0
+       0       0                           0        0
+                                                                                                                       0.0   0.0                      0.0      0.0
+
+                           0    0     0
+                                                                                                                                    0.0 0.0 0.0
+
+                      2202            0
+                               0.29                                                                                                 0.7        0.0
+
+
+
+                                1                                                                                                    0    2    0
+
+
+
+                                                                                                                             0                          0
+
+               0                           0                                                                                 0                          0
+
+                                                                                                                             0                          0
+
+                                0                                                                                                    0    1    0
+
+
+
+
+                               NA                                                                                                         NA
+
+
+
+
+               NA                         NA                                                                                 NA                       NA
+
+
+
+
+                               NA                                                                                                         NA
+
+
+
+ 15-Min Count           Rock Creek Pkwy                     Rock Creek Pkwy          S Kennedy Ctr Garage Ramp S Kennedy Ctr Garage Ramp             Total      Hourly
+    Period               (Northbound)                        (Southbound)                   (Eastbound)              (Westbound)                                Totals
+ Beginning At       Left Thru Right             U       Left Thru Right       U       Left Thru Right      U    Left Thru Right      U
+    6:30 AM          0     12      1            0        0    214      0      0         0     0      0     0      0    0       0     0               227
+    6:45 AM          0      0      0            0        0    261      0      0         0     0      0     0      0    0       0     0               261
+    7:00 AM          0      2      0            0        0    332      0      0         0     0      0     0      0    0       0     0               334
+    7:15 AM          0      0      0            0        0    395      0      0         0     0      0     0      0    0       0     0               395            1217
+    7:30 AM          0      0      0            0        0    457      0      0         0     0      0     0      0    0       0     0               457            1447
+    7:45 AM          0      0      0            0        0    460      0      0         0     0      0     0      0    0       0     0               460            1646
+    8:00 AM          0      0      0            0        0    523      0      0         0     0      0     0      0    0       0     0               523            1835
+    8:15 AM          0      0      0            0        0    550      0      0         0     0      0     0      0    0       0     0               550            1990
+    8:30 AM          0      0      0            0        0    565      0      0         0     0      0     0      0    0       0     0               565            2098
+    8:45 AM          0      0      0            0        0    564      0      0         0     0      0     0      0    0       0     0               564            2202
+    9:00 AM          0      2      0            0        0    422      0      0         0     0      0     0      0    0       0     0               424            2103
+    9:15 AM          0      1      0            0        0    344      0      0         0     0      0     0      0    0       0     0               345            1898
+
+
+
+
+ Peak 15-Min                       Northbound                    Southbound                      Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U         Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles       0           0      0     0          0 2260       0     0          0       0      0    0     0        0     0     0                     2260
+ Heavy Trucks        0           0      0                0    12      0                0       0      0          0        0     0                            12
+  Pedestrians                    0                             0                               0                          0                                   0
+    Bicycles         0           0      0                0     1      0                0       0      0          0        0     0                             1
+   Railroad
+Stopped Buses
+ Comments: 1000
+Report generated on 7/15/2013 9:43 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Rock Creek Pkwy -- S Kennedy Ctr Garage Ramp                                                                              QC JOB #: 10864002
+ CITY/STATE: Washington, DC                                                                                                          DATE: Tue, Feb 05 2013
+                      957             762                          Peak-Hour: 12:00 PM -- 1:00 PM
+                               0.96                                                                                                   0.4        0.5
+
+                           0   957     0
+                                                                  Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                                      0.0 0.4 0.0
+
+
+       0       0                             0        0
+                                                                                                                         0.0   0.0                      0.0      0.0
+        0.00   0               0.97          0   0.00
+                                                                                                                               0.0                      0.0
+       0       0                             0     29
+                                                                                                                         0.0   0.0                      0.0      0.0
+
+                           0   762 29
+                                                                                                                                      0.0 0.5 0.0
+
+                      957             791
+                               0.95                                                                                                   0.4        0.5
+
+
+
+                                1                                                                                                      0    0    0
+
+
+
+                                                                                                                               0                          0
+
+               0                             0                                                                                 0                          0
+
+                                                                                                                               0                          1
+
+                                1                                                                                                      0    1    1
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+
+               NA                           NA                                                                                 NA                       NA
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+ 15-Min Count           Rock Creek Pkwy                       Rock Creek Pkwy          S Kennedy Ctr Garage Ramp S Kennedy Ctr Garage Ramp             Total      Hourly
+    Period               (Northbound)                          (Southbound)                   (Eastbound)              (Westbound)                                Totals
+ Beginning At       Left Thru Right               U       Left Thru Right       U       Left Thru Right      U    Left Thru Right      U
+   11:00 AM          0    177     11              0        0    230      0      0         0     0      0     0      0    0       0     0               418
+   11:15 AM          0    160      7              0        0    228      0      0         0     0      0     0      0    0       0     0               395
+   11:30 AM          0    179      8              0        0    219      0      0         0     0      0     0      0    0       0     0               406
+   11:45 AM          0    199    13               0        0    219      0      0         0     0      0     0      0    0       0     0               431            1650
+   12:00 PM          0    187      8              0        0    242      0      0         0     0      0     0      0    0       0     0               437            1669
+   12:15 PM          0    190      4              0        0    236      0      0         0     0      0     0      0    0       0     0               430            1704
+   12:30 PM          0    195      8              0        0    229      0      0         0     0      0     0      0    0       0     0               432            1730
+   12:45 PM          0    190      9              0        0    250      0      0         0     0      0     0      0    0       0     0               449            1748
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                      Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U           Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles       0         760     36     0            0 1000       0     0          0       0      0    0     0        0     0     0                     1796
+ Heavy Trucks        0           4      0                  0     8      0                0       0      0          0        0     0                            12
+  Pedestrians                    0                               0                               0                          0                                   0
+    Bicycles         0           0      0                  0     0      0                0       0      0          0        0     0                             0
+   Railroad
+Stopped Buses
+ Comments: 1000
+Report generated on 7/15/2013 9:43 AM                                               SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: Rock Creek Pkwy -- S Kennedy Ctr Garage Ramp                                                                            QC JOB #: 10864003
+ CITY/STATE: Washington, DC                                                                                                        DATE: Tue, Feb 05 2013
+                      717          1553                           Peak-Hour: 6:00 PM -- 7:00 PM
+                            0.52                                                                                                    0.3        0.3
+
+                       0    717     0
+                                                                 Peak 15-Min: 6:30 PM -- 6:45 PM
+                                                                                                                                    0.0 0.3 0.0
+
+
+       0       0                           0        0
+                                                                                                                       0.0   0.0                      0.0      0.0
+        0.00   0            0.82           0   0.00
+                                                                                                                             0.0                      0.0
+       0       0                           0    188
+                                                                                                                       0.0   0.0                      0.0      0.0
+
+                       0 1553 188
+                                                                                                                                    0.0 0.3 0.0
+
+                      717          1741
+                            0.91                                                                                                    0.3        0.2
+
+
+
+                             0                                                                                                       0    0    0
+
+
+
+                                                                                                                             0                          0
+
+               0                           0                                                                                 0                          0
+
+                                                                                                                             0                          0
+
+                             0                                                                                                       0    0    0
+
+
+
+
+                            NA                                                                                                            NA
+
+
+
+
+               NA                         NA                                                                                 NA                       NA
+
+
+
+
+                            NA                                                                                                            NA
+
+
+
+ 15-Min Count           Rock Creek Pkwy                     Rock Creek Pkwy          S Kennedy Ctr Garage Ramp S Kennedy Ctr Garage Ramp             Total      Hourly
+    Period               (Northbound)                        (Southbound)                   (Eastbound)              (Westbound)                                Totals
+ Beginning At       Left Thru Right             U       Left Thru Right       U       Left Thru Right      U    Left Thru Right      U
+    3:30 PM          0    259      7            0        0    389      0      0         0     0      0     0      0    0       0     0               655
+    3:45 PM          0    263      7            0        0     98      0      0         0     0      0     0      0    0       0     0               368
+    4:00 PM          0    368     11            0        0      0      0      0         0     0      0     0      0    0       0     0               379
+    4:15 PM          0    448    14             0        0      0      0      0         0     0      0     0      0    0       0     0               462            1864
+    4:30 PM          0    398      9            0        0      0      0      0         0     0      0     0      0    0       0     0               407            1616
+    4:45 PM          0    513     11            0        0      0      0      0         0     0      0     0      0    0       0     0               524            1772
+    5:00 PM          0    486     11            0        0      0      0      0         0     0      0     0      0    0       0     0               497            1890
+    5:15 PM          0    569    27             0        0      0      0      0         0     0      0     0      0    0       0     0               596            2024
+    5:30 PM          0    503    16             0        0      0      0      0         0     0      0     0      0    0       0     0               519            2136
+    5:45 PM          0    516    32             0        0      0      0      0         0     0      0     0      0    0       0     0               548            2160
+    6:00 PM          0    464    24             0        0      0      0      0         0     0      0     0      0    0       0     0               488            2151
+    6:15 PM          0    386    54             0        0     31      0      0         0     0      0     0      0    0       0     0               471            2026
+    6:30 PM          0    356    57             0        0    338      0      0         0     0      0     0      0    0       0     0               751            2258
+    6:45 PM          0    347    53             0        0    348      0      0         0     0      0     0      0    0       0     0               748            2458
+
+
+
+
+ Peak 15-Min                 Northbound                          Southbound                      Eastbound                  Westbound
+   Flowrates        Left Thru Right     U               Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles       0 1424     228     0                0 1352       0     0          0       0      0    0     0        0     0     0                     3004
+ Heavy Trucks        0     8      0                      0     4      0                0       0      0          0        0     0                            12
+  Pedestrians              0                                   0                               0                          0                                   0
+    Bicycles         0     0      0                      0     0      0                0       0      0          0        0     0                             0
+   Railroad
+Stopped Buses
+ Comments: 1000
+Report generated on 7/15/2013 9:43 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Rock Creek Pkwy -- S Kennedy Ctr Garage Ramp                                                                              QC JOB #: 10864049
+ CITY/STATE: Washington, DC                                                                                                          DATE: Tue, Feb 05 2013
+                      1122            735                           Peak-Hour: 7:00 PM -- 8:00 PM
+                               0.81                                                                                                   0.3        0.4
+
+                           0 1122 0
+                                                                   Peak 15-Min: 7:00 PM -- 7:15 PM
+                                                                                                                                      0.0 0.3 0.0
+
+
+       0       0                             0        0
+                                                                                                                         0.0   0.0                      0.0      0.0
+        0.00   0               0.86          0   0.00
+                                                                                                                               0.0                      0.0
+       0       0                             0    111
+                                                                                                                         0.0   0.0                      0.0      0.0
+
+                           0   735 111
+                                                                                                                                      0.0 0.4 0.0
+
+                      1122            846
+                               0.95                                                                                                   0.3        0.4
+
+
+
+                                0                                                                                                      0    0    0
+
+
+
+                                                                                                                               0                          0
+
+               0                             0                                                                                 0                          0
+
+                                                                                                                               0                          0
+
+                                1                                                                                                      0    0    0
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+
+               NA                           NA                                                                                 NA                       NA
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+ 15-Min Count           Rock Creek Pkwy                       Rock Creek Pkwy          S Kennedy Ctr Garage Ramp S Kennedy Ctr Garage Ramp             Total      Hourly
+    Period               (Northbound)                          (Southbound)                   (Eastbound)              (Westbound)                                Totals
+ Beginning At       Left Thru Right               U       Left Thru Right       U       Left Thru Right      U    Left Thru Right      U
+    7:00 PM          0    186    37               0        0    347      0      0         0     0      0     0      0    0       0     0               570
+    7:15 PM          0    184    36               0        0    279      0      0         0     0      0     0      0    0       0     0               499
+    7:30 PM          0    171    24               0        0    256      0      0         0     0      0     0      0    0       0     0               451
+    7:45 PM          0    194    14               0        0    240      0      0         0     0      0     0      0    0       0     0               448            1968
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                      Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U           Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles       0         744    148     0            0 1388       0     0          0       0      0    0     0        0     0     0                     2280
+ Heavy Trucks        0           0      0                  0     4      0                0       0      0          0        0     0                             4
+  Pedestrians                    0                               0                               0                          0                                   0
+    Bicycles         0           0      0                  0     0      0                0       0      0          0        0     0                             0
+   Railroad
+Stopped Buses
+ Comments: 1000
+Report generated on 7/15/2013 9:43 AM                                               SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: Rock Creek Pkwy -- South Kennedy Ctr Garage Ramp                                                                         QC JOB #: 10864092
+ CITY/STATE: Washington, DC                                                                                                         DATE: Sat, Apr 20 2013
+                      1313          1311                           Peak-Hour: 3:00 PM -- 4:00 PM
+                             0.95                                                                                                    0.4        0.8
+
+                       0 1313 0
+                                                                  Peak 15-Min: 3:15 PM -- 3:30 PM
+                                                                                                                                     0.0 0.4 0.0
+
+
+       0       0                            0        0
+                                                                                                                        0.0   0.0                     0.0      0.0
+        0.00   0             0.98           0   0.00
+                                                                                                                              0.0                     0.0
+       0       0                            0     39
+                                                                                                                        0.0   0.0                     0.0      0.0
+
+                       0 1311 39
+                                                                                                                                     0.0 0.8 0.0
+
+                      1313          1350
+                             0.97                                                                                                    0.4        0.7
+
+
+
+                              0                                                                                                       0    0    0
+
+
+
+                                                                                                                              0                        0
+
+               0                            0                                                                                 0                        0
+
+                                                                                                                              0                        0
+
+                              0                                                                                                       0    2    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+               NA                          NA                                                                                 NA                      NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count           Rock Creek Pkwy                      Rock Creek Pkwy        South Kennedy Ctr Garage Ramp
+                                                                                                              South Kennedy Ctr Garage RampTotal                Hourly
+    Period               (Northbound)                         (Southbound)                   (Eastbound)              (Westbound)                               Totals
+ Beginning At       Left Thru Right              U       Left Thru Right       U      Left Thru Right      U    Left Thru Right      U
+    3:00 PM          0    334    10              0        0    325      0      0        0      0      0    0      0     0       0    0     669
+    3:15 PM          0    322    10              0        0    345      0      0        0      0      0    0      0     0       0    0     677
+    3:30 PM          0    310      7             0        0    324      0      0        0      0      0    0      0     0       0    0     641
+    3:45 PM          0    345    12              0        0    319      0      0        0      0      0    0      0     0       0    0     676                      2663
+    4:00 PM          0    347      9             0        0    289      0      0        0      0      0    0      0     0       0    0     645                      2639
+    4:15 PM          0    329      8             0        0    306      0      0        0      0      0    0      0     0       0    0     643                      2605
+    4:30 PM          0    329      7             0        0    296      0      0        0      0      0    0      0     0       0    0     632                      2596
+    4:45 PM          0    329    16              0        0    298      0      0        0      0      0    0      0     0       0    0     643                      2563
+
+
+
+
+ Peak 15-Min                 Northbound                           Southbound                      Eastbound                  Westbound
+   Flowrates        Left Thru Right     U                Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                    Total
+  All Vehicles       0 1288      40     0                 0 1380       0     0          0       0      0    0     0        0     0     0                    2708
+ Heavy Trucks        0    24      0                       0     8      0                0       0      0          0        0     0                           32
+  Pedestrians              0                                    0                               0                          0                                  0
+    Bicycles         0     2      0                       0     0      0                0       0      0          0        0     0                            2
+   Railroad
+Stopped Buses
+ Comments: 1000
+Report generated on 7/15/2013 9:43 AM                                              SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Independence Ave SW                                                                                      QC JOB #: 10862353
+ CITY/STATE: Washington, DC                                                                                                   DATE: Wed, Dec 19 2012
+                      142            372                            Peak-Hour: 8:00 AM -- 9:00 AM
+                              0.91                                                                                             16.2        4.3
+
+                         25    75    42
+                                                                   Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                               36.0 14.7 7.1
+
+
+       1295    71                           145   1544
+                                                                                                                  4.9   5.6                       0.7       3.8
+        0.87   802            0.95         1246   0.89
+                                                                                                                        4.7                       4.3
+       995     122                          153    914
+                                                                                                                  4.6   3.3                       2.0       4.6
+
+                         24 156 69
+                                                                                                                               4.2 7.1 1.4
+
+                      349            249
+                              0.81                                                                                             5.2         5.2
+
+
+
+                               94                                                                                               1     25   0
+
+
+
+                                                                                                                        0                           0
+
+               110                          109                                                                         1                          14
+
+                                                                                                                        0                           4
+
+                               82                                                                                               0     24   1
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+
+               NA                           NA                                                                          NA                        NA
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+ 15-Min Count                     4th St                            4th St           Independence Ave SW       Independence Ave SW               Total       Hourly
+    Period                    (Northbound)                      (Southbound)              (Eastbound)              (Westbound)                               Totals
+ Beginning At       Left       Thru Right          U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+    7:00 AM          7          16       7         0       1       7       6   0     7   124     23    0      28   233    16     0               475
+    7:15 AM          7          19       7         0       3       7       3   0     6   134     26    0      53   293    23     0               581
+    7:30 AM          6          28       9         0       2      11       1   0     9   145     33    0      29   287    15     0               575
+    7:45 AM          6          30     10          0       9      16       3   0    17   127     30    0      42   290    26     0               606             2237
+    8:00 AM          7          41     15          0      10      14       6   0    13   195     38    0      49   342    42     0               772             2534
+    8:15 AM          5          37     13          0      13      18       8   0    20   169     33    0      35   293    36     0               680             2633
+    8:30 AM          6          30     18          0      10      17       7   0    21   198     22    0      38   303    39     0               709             2767
+    8:45 AM          6          48     23          0       9      26       4   0    17   240     29    0      30   308    28     1               769             2930
+
+
+
+
+ Peak 15-Min                      Northbound                        Southbound                Eastbound              Westbound
+   Flowrates        Left      Thru Right     U           Left   Thru Right    U    Left   Thru Right    U   Left Thru Right    U                         Total
+  All Vehicles       28       164     60     0            40     56     24     0    52    780   152     0   196 1368   168     0                         3088
+ Heavy Trucks         4         4      0                   4      8     12           0     52      4          0   40     0                                128
+  Pedestrians                  60                                92                        84                    108                                      344
+    Bicycles         0          6      0                  0       1      0          0       0      0          1    1     0                                 9
+   Railroad
+Stopped Buses
+ Comments: 2191
+Report generated on 1/31/2013 2:34 PM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Independence Ave SW                                                                                       QC JOB #: 10862355
+ CITY/STATE: Washington, DC                                                                                                    DATE: Wed, Dec 19 2012
+                      171            232                          Peak-Hour: 11:00 AM -- 12:00 PM
+                              0.93                                                                                              11.1        6.5
+
+                         48    76    47
+                                                                 Peak 15-Min: 11:30 AM -- 11:45 AM
+                                                                                                                                12.5 17.1 0.0
+
+
+       623     63                           50    644
+                                                                                                                   3.9   1.6                       4.0       3.3
+        0.88   666            0.93         536   0.97
+                                                                                                                         5.0                       3.0
+       790     61                           58    778
+                                                                                                                   4.8   6.6                       5.2       5.1
+
+                         38 120 64
+                                                                                                                                5.3 10.0 10.9
+
+                      194            222
+                              0.86                                                                                              10.3        9.5
+
+
+
+                              152                                                                                                1     0    2
+
+
+
+                                                                                                                         0                           1
+
+               102                          81                                                                           0                           1
+
+                                                                                                                         1                           0
+
+                              106                                                                                                0     7    1
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+
+               NA                          NA                                                                            NA                        NA
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+ 15-Min Count                     4th St                           4th St           Independence Ave SW       Independence Ave SW                 Total       Hourly
+    Period                    (Northbound)                     (Southbound)              (Eastbound)              (Westbound)                                 Totals
+ Beginning At       Left       Thru Right         U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+   11:00 AM           8         19     19         0       9      20     12    0     8   149     12    0      17   142    10     1                 426
+   11:15 AM          12         28     18         0      10      20       8   0    26   163     18    1      13   132    10     0                 459
+   11:30 AM          13         37     15         0      15      17     14    0    16   193     16    0      10   130    13     0                 489
+   11:45 AM           5         36     12         0      13      19     14    0    12   161     15    0      17   132    17     0                 453             1827
+   12:00 PM           8         22     12         0      10      18     12    0    14   138     12    1      14   134    22     0                 417             1818
+   12:15 PM          17         26     20         0      18      12       9   0     7   123     15    0      11   141    12     0                 411             1770
+   12:30 PM           5         28     17         0      15      14     11    0    13     98    15    0      18   120    19     0                 373             1654
+   12:45 PM           9         24     21         0      15      26     11    0    10   136     22    0      20   128    11     0                 433             1634
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates        Left      Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles       52       148     60     0           60     68     56     0    64    772    64     0     40     520    52     0                       1956
+ Heavy Trucks         4        20      8                  0      4      8           0     36      4           0       8     0                               92
+  Pedestrians                 140                              152                        88                         84                                    464
+    Bicycles         0          1      1                 0       0      0          0       0      0          0        1     1                                4
+   Railroad
+Stopped Buses
+ Comments: 2191
+Report generated on 1/31/2013 2:34 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Independence Ave SW                                                                                     QC JOB #: 10862354
+ CITY/STATE: Washington, DC                                                                                                  DATE: Wed, Dec 19 2012
+                      273           260                           Peak-Hour: 4:30 PM -- 5:30 PM
+                             0.89                                                                                             4.4        4.2
+
+                          73 105 95
+                                                                 Peak 15-Min: 4:30 PM -- 4:45 PM
+                                                                                                                              1.4 9.5 1.1
+
+
+       1068    46                          53   1051
+                                                                                                                4.7   13.0                      0.0       4.8
+        0.95   1079         0.96          936   0.90
+                                                                                                                      5.8                       5.1
+       1159    34                          62   1311
+                                                                                                                6.5   17.6                      3.2       4.9
+
+                          59 161 136
+                                                                                                                              1.7 3.1 0.0
+
+                      200           356
+                             0.89                                                                                             9.0        1.7
+
+
+
+                             46                                                                                                0    8    0
+
+
+
+                                                                                                                      0                           0
+
+               94                          33                                                                         6                           3
+
+                                                                                                                      1                           0
+
+                             49                                                                                                0    9    1
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+               NA                         NA                                                                          NA                        NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count                   4th St                            4th St           Independence Ave SW       Independence Ave SW               Total       Hourly
+    Period                  (Northbound)                      (Southbound)              (Eastbound)              (Westbound)                               Totals
+ Beginning At       Left     Thru Right          U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+    4:30 PM          17       37     32          0      22      23     17    0    11   282     13    0      16   260    11     0               741
+    4:45 PM          16       44     40          0      31      28     20    0     6   272      6    0      12   187    16     0               678
+    5:00 PM           9       42     37          0      19      23     20    0    17   254      7    0      17   229    13     0               687
+    5:15 PM          17       38     27          0      23      31     16    0    12   271      8    0      16   260    13     1               733             2839
+    5:30 PM          17       39     25          0      20      29     21    0     8   257      9    0      23   250      9    0               707             2805
+    5:45 PM          14       28     25          0      31      27     16    0     8   225      8    0      15   214    16     0               627             2754
+    6:00 PM          16       40     26          0      18      24     16    0     6   203      6    0      11   272    10     0               648             2715
+    6:15 PM          10       16     21          0      21      27     11    0     7   198      1    0      18   287      8    1               626             2608
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound              Eastbound                 Westbound
+   Flowrates        Left     Thru Right     U          Left   Thru Right    U    Left Thru Right    U      Left Thru Right    U                        Total
+  All Vehicles       68      148    128     0           88     92     68     0    44 1128    52     0       64 1040    44     0                        2964
+ Heavy Trucks         0        0      0                  0      8      4           4   52      8             0   68     0                               144
+  Pedestrians                 64                              136                     124                        84                                     408
+    Bicycles          0        5      1                 0       0      0           0    1      0             0    1     0                                8
+   Railroad
+Stopped Buses
+ Comments: 2191
+Report generated on 1/31/2013 2:34 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 4th St -- Independence Ave SW                                                                                       QC JOB #: 10862356
+ CITY/STATE: Washington, DC                                                                                                    DATE: Sat, Jan 05 2013
+                      212            205                           Peak-Hour: 3:00 PM -- 4:00 PM
+                              0.88                                                                                              1.9        2.0
+
+                         96    60    56
+                                                                  Peak 15-Min: 3:15 PM -- 3:30 PM
+                                                                                                                                1.0 5.0 0.0
+
+
+       776     69                           66    726
+                                                                                                                   2.6   1.4                      3.0       2.9
+        0.90   412            0.96         637   0.93
+                                                                                                                         2.2                      3.0
+       524     43                           23    496
+                                                                                                                   1.9   0.0                      0.0       1.8
+
+                         42    70    28
+                                                                                                                                0.0 1.4 0.0
+
+                      125            140
+                              0.95                                                                                              2.4        0.7
+
+
+
+                              449                                                                                                1    7    0
+
+
+
+                                                                                                                         0                          2
+
+               236                         141                                                                           3                          1
+
+                                                                                                                         0                          0
+
+                              119                                                                                                0    7    0
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+
+               NA                          NA                                                                            NA                       NA
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+ 15-Min Count                     4th St                           4th St           Independence Ave SW       Independence Ave SW                Total       Hourly
+    Period                    (Northbound)                     (Southbound)              (Eastbound)              (Westbound)                                Totals
+ Beginning At       Left       Thru Right         U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+    3:00 PM          11         15       6        0      12      11     20    0    12   108     12    0      3    174    18     0                402
+    3:15 PM           8         18       3        0      13      18     21    0    29   107     10    1      9    160    21     0                418
+    3:30 PM          11         18     10         0      17      16     23    1    15   103     13    0      5    156    16     1                405
+    3:45 PM          12         19       9        0      13      15     32    0    12     94     8    0      5    147    11     0                377             1602
+    4:00 PM          15         12       8        0       8       6     18    0    10   112     13    0      5    153    22     0                382             1582
+    4:15 PM          11         20       7        0      12       8     20    0    14     96     3    0      5    137    18     0                351             1515
+    4:30 PM           9          9     11         0       9      11     20    0     9     96     4    1      5    122    17     0                323             1433
+    4:45 PM          10         18       8        0      11      14     27    0    12   100      7    0      8    141    19     0                375             1431
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates        Left      Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       32        72     12     0           52     72     84     0   116    428    40     4     36     640    84     0                      1672
+ Heavy Trucks         0         4      0                  0      8      0           4     16      0           0      20     0                              52
+  Pedestrians                 108                              456                       204                        172                                   940
+    Bicycles         0          0      0                 0       4      0           0      0      0          0        1     0                               5
+   Railroad
+Stopped Buses
+ Comments: 2191
+Report generated on 1/31/2013 9:44 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

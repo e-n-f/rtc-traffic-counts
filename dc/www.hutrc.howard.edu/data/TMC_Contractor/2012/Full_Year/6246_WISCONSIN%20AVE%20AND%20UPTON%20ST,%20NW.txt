@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                        Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Upton St NW                                                                                  QC JOB #: 10707079
+ CITY/STATE: Washington, DC                                                                                              DATE: Thu, Mar 15 2012
+                    1755          1076                       Peak-Hour: 7:45 AM -- 8:45 AM                                3.4        5.1
+
+                     75 1680 0
+                                                            Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                          0.0 3.6 0.0
+
+
+       209   17                          30   43
+                                                                                                             1.0   5.9                      0.0       0.0
+             0             0.96          12
+                                                                                                                   0.0                      0.0
+       204   187                          1   49
+                                                                                                             1.5   1.1                      0.0       0.0
+
+                    122 1029 49
+                                                                                                                          1.6 5.2 0.0
+
+                    1868          1200
+                                                                                                                          3.3        4.7
+
+
+
+                            16                                                                                             0    5    0
+
+
+
+                                                                                                                   0                          0
+
+             112                         91                                                                        0                          0
+
+                                                                                                                   0                          0
+
+                            60                                                                                             0    4    0
+
+
+
+
+                           NA                                                                                                   NA
+
+
+
+
+             NA                          NA                                                                        NA                       NA
+
+
+
+
+                           NA                                                                                                   NA
+
+
+
+ 15-Min Count          Wisconsin Ave                    Wisconsin Ave              Upton St NW                Upton St NW                  Total       Hourly
+    Period             (Northbound)                     (Southbound)               (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right             U    Left Thru Right      U   Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM         7  122      2             0     0    220     7      0    1       0     12    0     0        0      4        0          375
+    7:15 AM        18  166      4             0     0    327    10      0    5       0     21    0     1        0      3        0          555
+    7:30 AM        21  201      7             0     0    445     2      0    3       0     47    0     0        0      8        0          734
+    7:45 AM        31  256     22             0     0    404    16      0    4       0     51    0     0        3      7        0          794             2458
+    8:00 AM        25  300     10             0     0    415    24      0    2       0     48    0     1        1     10        0          836             2919
+    8:15 AM        33  224      9             0     0    427    21      0    6       0     41    0     0        6      7        0          774             3138
+    8:30 AM        33  249      8             0     0    434    14      0    5       0     47    0     0        2      6        0          798             3202
+    8:45 AM        34  231     10             0     0    393    27      0    1       1     40    0     4        1      8        0          750             3158
+
+
+
+
+ Peak 15-Min            Northbound                          Southbound                 Eastbound                  Westbound
+   Flowrates   Left Thru Right     U               Left Thru Right    U     Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles 100 1200     40     0                0 1660      96     0     8       0   192     0     4        4    40     0                      3344
+ Heavy Trucks    0   68      0                      0    56      0           0       0      0          0        0     0                             124
+  Pedestrians        76                                  20                         76                         64                                   236
+    Bicycles     0    1      0                      0     0      0           0       0      0          0        0     0                              1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 11:54 AM                                 SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                        Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Upton St NW                                                                                  QC JOB #: 10707080
+ CITY/STATE: Washington, DC                                                                                              DATE: Thu, Mar 15 2012
+                    890          958                       Peak-Hour: 11:30 AM -- 12:30 PM                                4.4        5.4
+
+                       19 869     2
+                                                          Peak 15-Min: 12:00 PM -- 12:15 PM
+                                                                                                                          0.0 4.5 0.0
+
+
+       60    27                         22   28
+                                                                                                             3.3   0.0                      0.0       0.0
+             0            0.98           3
+                                                                                                                   0.0                      0.0
+       86    59                          3   25
+                                                                                                             1.2   1.7                      0.0       0.0
+
+                       38 909 23
+                                                                                                                          5.3 5.7 0.0
+
+                    931          970
+                                                                                                                          4.3        5.6
+
+
+
+                           43                                                                                              0    5    0
+
+
+
+                                                                                                                   0                          1
+
+             337                       129                                                                         0                          0
+
+                                                                                                                   1                          0
+
+                          115                                                                                              0    2    0
+
+
+
+
+                          NA                                                                                                    NA
+
+
+
+
+             NA                        NA                                                                          NA                       NA
+
+
+
+
+                          NA                                                                                                    NA
+
+
+
+ 15-Min Count          Wisconsin Ave                   Wisconsin Ave               Upton St NW                Upton St NW                  Total       Hourly
+    Period             (Northbound)                    (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right            U    Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        20  190      7            1     1    201     4      0     12      0     12    0     0        1      5        0          454
+   11:15 AM        14  214      7            0     0    189     3      0      3      1     11    0     1        0     11        0          454
+   11:30 AM        15  233      2            0     1    206     8      0      3      0     12    0     1        0      1        0          482
+   11:45 AM         6  219      5            0     0    220     6      0      5      0     14    0     1        0     11        0          487             1877
+   12:00 PM         6  214     10            0     1    232     3      0     10      0     21    0     1        1      4        0          503             1926
+   12:15 PM        11  243      6            0     0    211     2      0      9      0     12    0     0        2      6        0          502             1974
+   12:30 PM         9  211      6            0     0    234     5      0      6      1      5    0     1        1      1        0          480             1972
+   12:45 PM        13  221      7            0     0    187     9      0      5      0     23    0     0        0      9        0          474             1959
+
+
+
+
+ Peak 15-Min                  Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     24     856     40     0         4     928     12     0    40      0    84     0     4        4    16     0                      2012
+ Heavy Trucks       8      48      0               0      24      0           0      0      4          0        0     0                              84
+  Pedestrians             116                             44                       384                        140                                   684
+    Bicycles       0        1      0               0       1      0          0       0      1          0        0     0                               3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 11:58 AM                                 SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Upton St NW                                                                                   QC JOB #: 10707081
+ CITY/STATE: Washington, DC                                                                                               DATE: Thu, Mar 15 2012
+                    989           1551                        Peak-Hour: 5:00 PM -- 6:00 PM                                3.2        2.6
+
+                     13 976        0
+                                                             Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                           0.0 3.3 0.0
+
+
+       131   131                          28   31
+                                                                                                              0.0   0.8                      0.0       0.0
+             2             0.98            2
+                                                                                                                    0.0                      0.0
+       316   183                           1   51
+                                                                                                              0.6   0.5                      0.0       0.0
+
+                    117 1392 49
+                                                                                                                           0.0 2.9 0.0
+
+                    1161          1558
+                                                                                                                           2.8        2.6
+
+
+
+                            19                                                                                              0    10   0
+
+
+
+                                                                                                                    0                          0
+
+             228                         104                                                                        0                          0
+
+                                                                                                                    1                          0
+
+                            70                                                                                              0    15   1
+
+
+
+
+                           NA                                                                                                    NA
+
+
+
+
+             NA                          NA                                                                         NA                       NA
+
+
+
+
+                           NA                                                                                                    NA
+
+
+
+ 15-Min Count          Wisconsin Ave                     Wisconsin Ave              Upton St NW                Upton St NW                  Total       Hourly
+    Period             (Northbound)                      (Southbound)               (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right              U    Left Thru Right      U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        29  285      9              1     1    229     8      0    17      0     33    0     0        0      7        0          619
+    4:45 PM        21  278      5              1     1    246     5      0    16      0     27    0     0        1      7        0          608
+    5:00 PM        22  341     12              1     0    254     2      0    35      0     51    0     0        0      6        0          724
+    5:15 PM        24  351     11              0     0    251     1      0    42      1     51    0     0        0      8        0          740             2691
+    5:30 PM        31  349     13              0     0    225     6      0    26      1     44    0     0        1      6        0          702             2774
+    5:45 PM        39  351     13              0     0    246     4      0    28      0     37    0     1        1      8        0          728             2894
+    6:00 PM        28  346     15              0     0    241     3      0    26      1     36    0     0        0      7        0          703             2873
+    6:15 PM        19  334     12              1     0    237     8      0    19      0     33    0     0        1      4        0          668             2801
+
+
+
+
+ Peak 15-Min               Northbound                        Southbound                 Eastbound                  Westbound
+   Flowrates      Left Thru Right     U             Left Thru Right    U     Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     96 1404     44     0              0 1004       4     0    168      4   204     0     0        0    32     0                      2960
+ Heavy Trucks       0   44      0                    0    32      0            4      0      0          0        0     0                              80
+  Pedestrians           72                                 4                        216                         84                                   376
+    Bicycles        0    4      0                    0     3      0            0      0      0          0        0     0                               7
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 12:04 PM                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Upton St NW                                                                                   QC JOB #: 10707082
+ CITY/STATE: Washington, DC                                                                                               DATE: Sat, Mar 17 2012
+                    946          922                          Peak-Hour: 1:00 PM -- 2:00 PM                                2.2        2.6
+
+                       14 930     2
+                                                             Peak 15-Min: 1:30 PM -- 1:45 PM
+                                                                                                                           0.0 2.3 0.0
+
+
+       81    15                          31   35
+                                                                                                              0.0   0.0                      0.0       0.0
+             0            0.99            4
+                                                                                                                    0.0                      0.0
+       84    69                           0   75
+                                                                                                              1.2   1.4                      0.0       0.0
+
+                       63 876 73
+                                                                                                                           0.0 2.7 0.0
+
+                    999          1012
+                                                                                                                           2.2        2.4
+
+
+
+                           33                                                                                               0    3    1
+
+
+
+                                                                                                                    0                          0
+
+             141                        121                                                                         0                          0
+
+                                                                                                                    0                          0
+
+                           58                                                                                               0    9    0
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+
+             NA                         NA                                                                          NA                       NA
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+ 15-Min Count          Wisconsin Ave                    Wisconsin Ave               Upton St NW                Upton St NW                  Total       Hourly
+    Period             (Northbound)                     (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right             U    Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+   12:00 PM        16  225      9             0     0    234     6      0     10      0     10    0     0        1      4        0          515
+   12:15 PM        11  234      9             0     0    216     1      0      4      0     12    0     1        2     13        0          503
+   12:30 PM        10  231     13             0     0    241     2      0      4      0     12    0     0        1     11        0          525
+   12:45 PM        13  199     21             0     0    243     3      0      7      0     16    0     0        0      6        0          508             2051
+    1:00 PM         9  209     28             0     0    241     2      0      5      0     13    0     0        0      7        0          514             2050
+    1:15 PM        22  241     19             0     0    204     3      0      4      0     13    0     0        1      8        0          515             2062
+    1:30 PM        17  224     14             0     1    226     6      0      3      0     22    0     0        3      8        0          524             2061
+    1:45 PM        15  202     12             0     1    259     3      0      3      0     21    0     0        0      8        0          524             2077
+
+
+
+
+ Peak 15-Min                  Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     68     896     56     0          4     904     24     0    12      0    88     0     0       12    32     0                      2096
+ Heavy Trucks       0      24      0                0      36      0           0      0      0          0        0     0                              60
+  Pedestrians              60                              32                       144                        120                                   356
+    Bicycles       0        2      0                1       0      0          0       0      0          0        0     0                               3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 12:11 PM                                  SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

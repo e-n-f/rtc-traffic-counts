@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave NW -- Jenifer St NW                                                                                   QC JOB #: 10706931
+ CITY/STATE: Washington, DC                                                                                                      DATE: Thu, Mar 08 2012
+                      2091            628                         Peak-Hour: 7:30 AM -- 8:30 AM
+                               0.95                                                                                               2.4        3.0
+
+                         15 2073 3
+                                                                 Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                  0.0 2.5 0.0
+
+
+       66      8                             7     84
+                                                                                                                    1.5   12.5                      0.0       1.2
+        0.78   11              0.97         49   0.80
+                                                                                                                          0.0                       2.0
+       25      6                            28     17
+                                                                                                                    4.0   0.0                       0.0       0.0
+
+                           2   613     3
+                                                                                                                                  0.0 2.9 0.0
+
+                      2107            618
+                               0.90                                                                                               2.4        2.9
+
+
+
+                                14                                                                                                 0    7    0
+
+
+
+                                                                                                                          0                           0
+
+               26                           40                                                                            0                           0
+
+                                                                                                                          0                           0
+
+                                10                                                                                                 0    0    0
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+
+               NA                           NA                                                                            NA                        NA
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+ 15-Min Count          Connecticut Ave NW                  Connecticut Ave NW           Jenifer St NW                Jenifer St NW                 Total       Hourly
+    Period                (Northbound)                       (Southbound)                (Eastbound)                 (Westbound)                               Totals
+ Beginning At       Left Thru Right      U              Left Thru Right      U   Left    Thru Right     U    Left     Thru Right        U
+    7:00 AM          0    104      1     0               3    331      2     0    0        0       1    0     5         2       2       0          451
+    7:15 AM          0    134      0     0               1    411      1     0    0        4       1    0     1         3       1       0          557
+    7:30 AM          1    136      2     0               1    546      2     0    1        1       1    0     8         7       2       0          708
+    7:45 AM          0    144      0     0               1    490      8     0    2        4       3    0     9         8       1       0          670             2386
+    8:00 AM          1    177      1     0               1    515      2     0    3        2       1    0     6        17       0       0          726             2661
+    8:15 AM          0    156      0     0               0    522      3     0    2        4       1    0     5        17       4       0          714             2818
+    8:30 AM          1    145      0     0               0    465      4     0    1        2       3    0     9         9       6       0          645             2755
+    8:45 AM          0    158      3     0               3    444      3     0    1        2       1    0     9        18       6       0          648             2733
+
+
+
+
+ Peak 15-Min                       Northbound                    Southbound                 Eastbound                    Westbound
+   Flowrates        Left       Thru Right     U         Left Thru Right    U     Left   Thru Right    U      Left    Thru Right    U                       Total
+  All Vehicles       4         708      4     0          4 2060       8     0     12      8      4    0       24      68     0     0                       2904
+ Heavy Trucks        0           8      0                0    68      0            0      0      0             0       0     0                              76
+  Pedestrians                   16                            24                         20                           32                                    92
+    Bicycles         0           0      0                0     1      0           0       0      0            0        0     0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:09 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave NW -- Jenifer St NW                                                                                   QC JOB #: 10706932
+ CITY/STATE: Washington, DC                                                                                                      DATE: Thu, Mar 08 2012
+                      768             744                        Peak-Hour: 11:45 AM -- 12:45 PM
+                               0.94                                                                                               3.1        3.6
+
+                           3   762     3
+                                                                Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                                  0.0 3.1 0.0
+
+
+       19      4                            19     45
+                                                                                                                     0.0   0.0                      0.0       0.0
+        0.66   6               0.95         12   0.80
+                                                                                                                           0.0                      0.0
+       16      6                            14     14
+                                                                                                                     0.0   0.0                      0.0       0.0
+
+                           4   721     5
+                                                                                                                                  0.0 3.7 0.0
+
+                      782             730
+                               0.94                                                                                               3.1        3.7
+
+
+
+                                2                                                                                                  0    3    0
+
+
+
+                                                                                                                           0                          0
+
+               24                           16                                                                             0                          0
+
+                                                                                                                           0                          0
+
+                                3                                                                                                  0    1    0
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+
+               NA                           NA                                                                             NA                       NA
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+ 15-Min Count          Connecticut Ave NW                  Connecticut Ave NW            Jenifer St NW                Jenifer St NW                Total       Hourly
+    Period                (Northbound)                       (Southbound)                 (Eastbound)                 (Westbound)                              Totals
+ Beginning At       Left Thru Right      U              Left Thru Right      U    Left    Thru Right     U    Left     Thru Right       U
+   11:00 AM          2    156      1     0               0    201      2     0     0        0       2    0     0         4       3      0          371
+   11:15 AM          2    135      1     0               0    202      1     0     2        0       1    0     3         3       3      0          353
+   11:30 AM          0    166      3     0               0    181      0     1     1        5       1    0     4         0       1      0          363
+   11:45 AM          2    176      0     0               0    211      1     0     1        4       3    0     6         2       5      0          411             1498
+   12:00 PM          0    189      2     0               1    187      1     0     1        1       1    0     1         1       3      0          388             1515
+   12:15 PM          0    177      2     0               2    174      1     0     1        0       1    0     1         5       8      0          372             1534
+   12:30 PM          2    179      1     0               0    190      0     0     1        1       1    0     6         4       3      0          388             1559
+   12:45 PM          1    200      0     0               0    169      1     0     2        2       1    0     0         0       2      0          378             1526
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                Eastbound                    Westbound
+   Flowrates        Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U      Left    Thru Right    U                      Total
+  All Vehicles       8         704      0     0          0     844      4     0    4      16    12     0       24       8    20     0                      1644
+ Heavy Trucks        0          52      0                0      28      0          0       0      0             0       0     0                             80
+  Pedestrians                    8                               4                        36                           12                                   60
+    Bicycles         0           0      0                0       0      0          0       0      0            0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:09 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave NW -- Jenifer St NW                                                                                  QC JOB #: 10706933
+ CITY/STATE: Washington, DC                                                                                                     DATE: Thu, Mar 08 2012
+                      978          1696                          Peak-Hour: 5:30 PM -- 6:30 PM
+                            0.96                                                                                                 1.8        1.2
+
+                       8    961     9
+                                                                Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                 0.0 1.9 0.0
+
+
+       40      14                         24     53
+                                                                                                                   0.0   0.0                       0.0       0.0
+        0.74   23           0.98          21   0.88
+                                                                                                                         0.0                       0.0
+       42      5                           8     41
+                                                                                                                   2.4   20.0                      0.0       0.0
+
+                       10 1659 9
+                                                                                                                                 0.0 1.3 0.0
+
+                      974          1678
+                            0.93                                                                                                 2.0        1.3
+
+
+
+                             14                                                                                                   0    2    0
+
+
+
+                                                                                                                         0                           2
+
+               45                         58                                                                             1                           0
+
+                                                                                                                         0                           0
+
+                             13                                                                                                   0    6    0
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+
+               NA                         NA                                                                             NA                        NA
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+ 15-Min Count          Connecticut Ave NW                Connecticut Ave NW            Jenifer St NW                Jenifer St NW                 Total       Hourly
+    Period                (Northbound)                     (Southbound)                 (Eastbound)                 (Westbound)                               Totals
+ Beginning At       Left Thru Right      U            Left Thru Right      U    Left    Thru Right     U    Left     Thru Right        U
+    4:30 PM          0    327      3     0             4    184      2     0     1        4       1    0     4         1       4       0          535
+    4:45 PM          1    345      1     0             0    165      3     0     2        2       0    0     1         3       6       0          529
+    5:00 PM          1    387      2     0             0    198      1     0     9        7       1    0     3         4       5       0          618
+    5:15 PM          0    422      4     0             1    209      2     0     7        5       1    0     4         1       4       0          660             2342
+    5:30 PM          0    452      0     0             2    228      0     0     2        4       3    0     3         4       6       0          704             2511
+    5:45 PM          4    396      5     0             2    233      4     0     5        6       0    0     2         4       9       0          670             2652
+    6:00 PM          1    404      1     0             3    251      2     0     2        7       1    0     0         7       5       0          684             2718
+    6:15 PM          5    407      3     0             2    249      2     0     4        6       1    1     3         6       4       0          693             2751
+
+
+
+
+ Peak 15-Min                 Northbound                          Southbound                Eastbound                    Westbound
+   Flowrates        Left Thru Right     U             Left   Thru Right    U    Left   Thru Right    U      Left    Thru Right    U                       Total
+  All Vehicles       0 1808       0     0              8     912      0     0    8      16    12     0       12      16    24     0                       2816
+ Heavy Trucks        0    32      0                    0      12      0          0       0      0             0       0     0                               44
+  Pedestrians             16                                  20                        32                           80                                    148
+    Bicycles         0     0      0                    0       0      0          0       0      0            0        0     2                                2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:09 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Connecticut Ave NW -- Jenifer St NW                                                                                   QC JOB #: 10706934
+ CITY/STATE: Washington, DC                                                                                                      DATE: Sat, Apr 14 2012
+                      997             977                        Peak-Hour: 12:30 PM -- 1:30 PM
+                               0.95                                                                                               2.1        1.9
+
+                           3   991     3
+                                                                 Peak 15-Min: 1:15 PM -- 1:30 PM
+                                                                                                                                  0.0 2.1 0.0
+
+
+       26      5                            16     42
+                                                                                                                    3.8   0.0                       0.0       2.4
+        0.75   8               0.96         11   0.81
+                                                                                                                          0.0                       9.1
+       15      2                            15     21
+                                                                                                                    6.7   50.0                      0.0       0.0
+
+                         12 956 10
+                                                                                                                                  0.0 2.0 0.0
+
+                      1008            978
+                               0.97                                                                                               2.2        1.9
+
+
+
+                                9                                                                                                  0    3    0
+
+
+
+                                                                                                                          0                           0
+
+               45                           48                                                                            0                           0
+
+                                                                                                                          0                           0
+
+                                4                                                                                                  0    2    0
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+
+               NA                           NA                                                                            NA                        NA
+
+
+
+
+                               NA                                                                                                       NA
+
+
+
+ 15-Min Count          Connecticut Ave NW                  Connecticut Ave NW           Jenifer St NW                Jenifer St NW                 Total       Hourly
+    Period                (Northbound)                       (Southbound)                (Eastbound)                 (Westbound)                               Totals
+ Beginning At       Left Thru Right      U              Left Thru Right      U   Left    Thru Right     U    Left     Thru Right        U
+   12:00 PM          1    200      3     0               1    243      2     0    1        1       4    0     4         1       2       0          463
+   12:15 PM          1    224      4     0               1    267      0     0    3        1       2    0     4         1       1       0          509
+   12:30 PM          5    240      3     0               0    238      0     0    1        2       1    0     5         1       6       0          502
+   12:45 PM          2    247      3     0               1    240      2     0    1        0       1    0     2         2       5       0          506             1980
+    1:00 PM          1    223      3     0               0    250      0     0    1        2       0    0     5         6       2       0          493             2010
+    1:15 PM          4    246      1     0               2    263      1     0    2        4       0    0     3         2       3       0          531             2032
+    1:30 PM          0    236      4     1               0    248      0     0    0        1       1    0     3         0       0       0          494             2024
+    1:45 PM          0    218      3     0               3    236      0     0    2        0       1    0     0         2       2       0          467             1985
+
+
+
+
+ Peak 15-Min                       Northbound                    Southbound                 Eastbound                    Westbound
+   Flowrates        Left       Thru Right     U         Left Thru Right    U     Left   Thru Right    U      Left    Thru Right    U                       Total
+  All Vehicles       16        984      4     0          8 1052       4     0     8      16      0    0       12       8    12     0                       2124
+ Heavy Trucks         0         24      0                0    20      0           0       0      0             0       0     0                              44
+  Pedestrians                    4                            12                         24                           52                                    92
+    Bicycles         0           0      0                0     0      0           0       0      0            0        0     0                               0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:10 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

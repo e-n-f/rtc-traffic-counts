@@ -1,0 +1,318 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Western Ave -- Wisconsin Cir                                                                                           QC JOB #: 10706853
+ CITY/STATE: Washington, DC                                                                                                       DATE: Thu, Feb 23 2012
+                      1195          489                            Peak-Hour: 8:00 AM -- 9:00 AM
+                             0.96                                                                                                  3.3        6.7
+
+                      445 750        0
+                                                                  Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                   2.5 3.9 0.0
+
+
+       497     165                         4     12
+                                                                                                                    6.0    14.5                      0.0       0.0
+        0.81   0             0.95          2   0.64
+                                                                                                                           0.0                       0.0
+       203     38                          6        2
+                                                                                                                    15.3   18.4                      0.0       0.0
+
+                         49 321      2
+                                                                                                                                   38.8 2.8 0.0
+
+                      794           372
+                             0.95                                                                                                  4.5        7.5
+
+
+
+                              3                                                                                                     0    4    0
+
+
+
+                                                                                                                           0                           0
+
+               88                         39                                                                               0                           0
+
+                                                                                                                           0                           0
+
+                              17                                                                                                    0    0    0
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+
+               NA                         NA                                                                               NA                        NA
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+ 15-Min Count                Western Ave                        Western Ave              Wisconsin Cir               Wisconsin Cir                  Total       Hourly
+    Period                   (Northbound)                      (Southbound)              (Eastbound)                 (Westbound)                                Totals
+ Beginning At       Left      Thru Right        U       Left    Thru Right    U   Left   Thru Right      U   Left    Thru Right          U
+    7:00 AM           7        44     1         0        0      116     48    0    20      0      7      0    0        1      1          0          245
+    7:15 AM           6        56     0         0        0      156     62    0    33      0     11      0    2        0      3          0          329
+    7:30 AM           8        71     0         0        0      176   107     0    31      0     12      0    0        1      3          0          409
+    7:45 AM           7        69     0         0        1      176   116     0    20      0      7      0    0        0      2          0          398             1381
+    8:00 AM          10        76     0         0        0      193   106     0    52      0     11      0    3        0      4          0          455             1591
+    8:15 AM          12        86     0         0        0      193   122     0    38      0     14      0    1        1      0          0          467             1729
+    8:30 AM          13        79     2         0        0      194   112     0    36      0      6      0    1        1      0          0          444             1764
+    8:45 AM          14        80     0         0        0      170   105     0    38      0      7      1    1        0      0          0          416             1782
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                Eastbound                   Westbound
+   Flowrates        Left     Thru Right     U           Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                        Total
+  All Vehicles       48      344      0     0            0     772    488     0   152      0    56     0      4        4     0     0                        1868
+ Heavy Trucks        16       12      0                  0      32     12          24      0    12            0        0     0                               108
+  Pedestrians                 20                                 0                        68                          28                                     116
+    Bicycles         0         0      0                  0       2      0           0      0      0           0        0     0                                2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 8:08 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Potomac St -- M St & Market Pl NW                                                                                QC JOB #: 10707255
+ CITY/STATE: Washington, DC                                                                                                 DATE: Tue, May 08 2012
+                    138             0                          Peak-Hour: 11:00 AM -- 12:00 PM                               4.3        0.0
+
+                       76     3     59
+                                                              Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                             1.3 0.0 8.5
+
+
+       739   0                             0   666
+                                                                                                                5.8   0.0                      0.0       6.3
+             695             0.96        660
+                                                                                                                      6.6                      6.4
+       699   4                             6   768
+                                                                                                                6.6   0.0                      0.0       6.8
+
+                         3    0     13
+                                                                                                                             0.0 0.0 7.7
+
+                       12           16
+                                                                                                                             0.0        6.3
+
+
+
+                             320                                                                                              0    0    0
+
+
+
+                                                                                                                      0                          1
+
+             6                           228                                                                          13                        16
+
+                                                                                                                      0                          0
+
+                             323                                                                                              0    0    2
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+
+             NA                          NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+ 15-Min Count                 Potomac St                     Potomac St           M St & Market Pl NW       M St & Market Pl NW               Total       Hourly
+    Period                   (Northbound)                   (Southbound)              (Eastbound)              (Westbound)                                Totals
+ Beginning At     Left        Thru Right       U     Left    Thru Right    U   Left Thru Right       U   Left Thru Right       U
+   11:00 AM        0            0     2        0      19       2    23     0    0    164       0     0    0    160       0     0              370
+   11:15 AM        2            0     5        0      16       0    16     0    0    181       1     0    2    167       0     1              391
+   11:30 AM        0            0     2        0      12       0    21     0    0    155       2     0    1    170       0     0              363
+   11:45 AM        1            0     4        0      12       1    16     0    0    195       1     0    2    163       0     0              395             1519
+   12:00 PM        2            0     1        0      18       1    10     0    0    168       0     0    0    151       0     0              351             1500
+   12:15 PM        1            0     4        0       8       0    20     0    0    166       2     0    2    181       0     1              385             1494
+   12:30 PM        0            0     4        0      16       0    17     0    0    135       2     0    1    185       0     0              360             1491
+   12:45 PM        0            0     4        0      13       1     9     0    0    154       1     0    3    188       0     0              373             1469
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     4           0     16     0         48      4     64     0    0     780      4    0     8      652     0     0                      1580
+ Heavy Trucks      0           0      4                4      0      0          0      36      0          0       44     0                             88
+  Pedestrians                356                            356                         8                        336                                  1056
+    Bicycles       0           0      0               0       0      0          0       5      0          0        4     0                              9
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Potomac St -- M St & Market Pl NW                                                                                 QC JOB #: 10707256
+ CITY/STATE: Washington, DC                                                                                                  DATE: Tue, May 08 2012
+                    136             0                           Peak-Hour: 5:15 PM -- 6:15 PM                                 2.2        0.0
+
+                       89     2     45
+                                                               Peak 15-Min: 6:00 PM -- 6:15 PM
+                                                                                                                              0.0 0.0 6.7
+
+
+       940   0                             0   854
+                                                                                                                1.8   0.0                       0.0       2.0
+             690             0.94        850
+                                                                                                                      2.5                       2.0
+       694   4                             4   743
+                                                                                                                2.6   25.0                      0.0       2.7
+
+                         2    0     8
+                                                                                                                              0.0 0.0 0.0
+
+                       11           10
+                                                                                                                              9.1        0.0
+
+
+
+                             566                                                                                               1    2    5
+
+
+
+                                                                                                                      0                           0
+
+             16                          339                                                                          42                         49
+
+                                                                                                                      2                           1
+
+                             622                                                                                               0    0    2
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                           NA                        NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count                 Potomac St                     Potomac St           M St & Market Pl NW       M St & Market Pl NW                Total       Hourly
+    Period                   (Northbound)                   (Southbound)              (Eastbound)              (Westbound)                                 Totals
+ Beginning At     Left        Thru Right       U     Left    Thru Right    U   Left Thru Right       U   Left Thru Right       U
+    4:30 PM        0            0     1        0      11       0    27     0    0    145       1     0    2    231       0     0               418
+    4:45 PM        0            0     3        0       8       2    21     0    0    155       1     0    2    222       0     1               415
+    5:00 PM        0            0     3        0      13       0    20     0    0    154       1     0    1    227       0     0               419
+    5:15 PM        0            0     2        0       8       1    16     0    0    163       1     0    2    201       0     0               394             1646
+    5:30 PM        1            0     1        1      10       0    23     0    0    182       2     0    0    219       0     0               439             1667
+    5:45 PM        0            0     1        0      14       1    26     0    0    180       0     0    2    187       0     0               411             1663
+    6:00 PM        0            0     4        0      13       0    24     0    0    165       1     0    0    243       0     0               450             1694
+    6:15 PM        0            0     2        0       8       0    19     0    0    176       0     0    0    188       0     1               394             1694
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     0           0     16     0         52      0     96     0    0     660      4    0     0      972     0     0                       1800
+ Heavy Trucks      0           0      0                4      0      0          0      20      0          0       20     0                              44
+  Pedestrians                636                            596                         8                        388                                   1628
+    Bicycles       0           0      0               2       0      0          0      17      0          0       14     0                              33
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: Potomac St -- M St & Market Pl NW                                                                               QC JOB #: 10707257
+ CITY/STATE: Washington, DC                                                                                                DATE: Sat, Nov 03 2012
+                    124            0                           Peak-Hour: 1:00 PM -- 2:00 PM                                0.0        0.0
+
+                       68    0     56
+                                                              Peak 15-Min: 1:00 PM -- 1:15 PM
+                                                                                                                            0.0 0.0 0.0
+
+
+       867   0                            0   804
+                                                                                                               3.0   0.0                      0.0       3.1
+             738            0.96        786
+                                                                                                                     1.6                      3.2
+       739   1                           18   807
+                                                                                                               1.6   0.0                      0.0       1.6
+
+                       13    0     13
+                                                                                                                            7.7 0.0 7.7
+
+                       19          26
+                                                                                                                            0.0        7.7
+
+
+
+                            1008                                                                                             1    0    0
+
+
+
+                                                                                                                     0                          0
+
+             7                          548                                                                          33                        23
+
+                                                                                                                     0                          0
+
+                            913                                                                                              0    0    0
+
+
+
+
+                            NA                                                                                                    NA
+
+
+
+
+             NA                         NA                                                                           NA                       NA
+
+
+
+
+                            NA                                                                                                    NA
+
+
+
+ 15-Min Count                Potomac St                     Potomac St           M St & Market Pl NW       M St & Market Pl NW               Total       Hourly
+    Period                  (Northbound)                   (Southbound)              (Eastbound)              (Westbound)                                Totals
+ Beginning At     Left       Thru Right       U     Left    Thru Right    U   Left Thru Right       U   Left Thru Right       U
+   12:00 PM        2           0     4        0      13       0    22     0    0    184       2     0    3    185       0     0              415
+   12:15 PM        4           0     5        0      15       0     9     0    0    174       0     0    5    189       0     2              403
+   12:30 PM        2           0     3        0      12       0    21     0    0    176       1     0    3    164       0     0              382
+   12:45 PM        0           0     3        0      18       1    16     0    0    177       1     0    2    213       0     0              431             1631
+    1:00 PM        1           0     2        0      15       0    17     0    0    193       1     0    1    212       0     0              442             1658
+    1:15 PM        4           0     4        0      15       0    20     0    0    178       0     0    9    182       0     0              412             1667
+    1:30 PM        7           0     3        0      15       0    15     0    0    183       0     0    5    176       0     0              404             1689
+    1:45 PM        1           0     4        0      11       0    16     0    0    184       0     0    3    216       0     0              435             1693
+
+
+
+
+ Peak 15-Min                    Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left      Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     4          0      8     0         60      0     68     0    0     772      4    0     4      848     0     0                      1768
+ Heavy Trucks      0          0      0                0      0      0          0      12      0          0       48     0                             60
+  Pedestrians               952                            876                        16                        524                                  2368
+    Bicycles       0          0      0               0       0      1          0       7      0          0        6     0                             14
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:50 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

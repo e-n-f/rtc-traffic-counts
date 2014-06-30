@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: 36th Pl -- Alabama Ave                                                                                          QC JOB #: 10656068
+ CITY/STATE: Washington, DC                                                                                                DATE: Tue, Oct 11 2011
+                        17          0                           Peak-Hour: 7:15 AM -- 8:15 AM                               5.9        0.0
+
+                         7    0     10
+                                                               Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                            0.0 0.0 10.0
+
+       666   0                             0   659
+                                                                                                               5.7   0.0                       0.0      5.8
+             294             0.90        659
+                                                                                                                     7.8                       5.8
+       294   0                             0   304
+                                                                                                               7.8   0.0                       0.0      7.9
+
+                         0    0     0
+                                                                                                                            0.0 0.0 0.0
+
+                         0          0
+                                                                                                                            0.0        0.0
+
+
+
+                              6                                                                                              0    0    0
+
+
+                                                                                                                     0                          0
+
+             0                             4                                                                         0                          0
+
+                                                                                                                     0                          0
+
+
+                              0                                                                                              0    0    0
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+
+             NA                          NA                                                                          NA                        NA
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+15-Min Count                    36th Pl                        36th Pl                Alabama Ave              Alabama Ave
+   Period                    (Northbound)                   (Southbound)              (Eastbound)              (Westbound)                               Hourly
+Beginning At                                                                                                                                 Total
+                  Left        Thru Right       U     Left    Thru Right    U   Left   Thru Right    U   Left    Thru Right        U                      Totals
+   7:00 AM          0           0       0      0       0       0       1   0     0      49     0    0     0     132     0         0          182
+   7:15 AM          0           0       0      0       0       0       0   0     0      52     0    0     0     172     0         0          224
+   7:30 AM          0           0       0      0       5       0       2   0     0      74     0    0     0     177     0         0          258
+   7:45 AM          0           0       0      0       2       0       0   0     0      87     0    0     0     180     0         0          269              933
+   8:00 AM          0           0       0      0       3       0       5   0     0      81     0    0     0     130     0         0          219              970
+   8:15 AM          0           0       0      0       3       0       1   0     0      60     0    0     0     126     0         0          190              936
+   8:30 AM          0           0       0      0       8       0     10    0     0      77     0    0     0     125     0         0          220              898
+   8:45 AM          0           0       0      0       6       0     16    0     0      66     0    2     0     131     0         1          222              851
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                 Eastbound                 Westbound
+                                                                                                                                                     Total
+  Flowrates       Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U   Left    Thru Right    U
+  All Vehicles      0          0      0     0          8      0     0     0      0    348      0    0     0     720      0    0                      1076
+ Heavy Trucks       0          0      0                0      0     0            0     16      0          0      44      0                            60
+  Pedestrians                  0                              4                         0                         4                                    8
+   Bicycles         0          0      0                0      0     0            0      0      0          0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/29/2011 9:29 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 36th Pl -- Alabama Ave                                                                                         QC JOB #: 10656069
+ CITY/STATE: Washington, DC                                                                                               DATE: Tue, Oct 11 2011
+                        17          0                         Peak-Hour: 11:30 AM -- 12:30 PM                              17.6        0.0
+
+                        10    0     7
+                                                             Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                           20.0 0.0 14.3
+
+       276   0                            0   266
+                                                                                                              6.9   0.0                        0.0      6.4
+             229             0.95       266
+                                                                                                                    6.1                        6.4
+       229   0                            0   236
+                                                                                                              6.1   0.0                        0.0      6.4
+
+                         0    0     0
+                                                                                                                           0.0 0.0 0.0
+
+                         0          0
+                                                                                                                           0.0         0.0
+
+
+
+                              2                                                                                             0     0    0
+
+
+                                                                                                                    0                           0
+
+             0                            1                                                                         1                           0
+
+                                                                                                                    0                           0
+
+
+                              0                                                                                             0     0    0
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+
+             NA                         NA                                                                          NA                         NA
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+15-Min Count                    36th Pl                       36th Pl                Alabama Ave              Alabama Ave
+   Period                    (Northbound)                  (Southbound)              (Eastbound)              (Westbound)                                  Hourly
+Beginning At                                                                                                                                 Total
+                  Left        Thru Right      U     Left    Thru Right    U   Left   Thru Right    U   Left    Thru Right         U                        Totals
+  11:00 AM          0           0       0     0       2       0       3   0     0      50     0    0     0      58     0          0          113
+  11:15 AM          0           0       0     0       0       0       0   0     0      48     0    0     0      67     0          0          115
+  11:30 AM          0           0       0     0       1       0       4   0     0      59     0    0     0      67     0          0          131
+  11:45 AM          0           0       0     0       1       0       1   0     0      66     0    0     0      63     0          0          131              490
+  12:00 PM          0           0       0     0       2       0       4   0     0      49     0    0     0      60     0          0          115              492
+  12:15 PM          0           0       0     0       3       0       1   0     0      55     0    0     0      76     0          0          135              512
+  12:30 PM          0           0       0     0       3       0       1   0     0      71     0    0     0      49     0          0          124              505
+  12:45 PM          0           0       0     0       1       0       2   0     0      61     0    0     0      60     0          0          124              498
+
+
+
+
+ Peak 15-Min                     Northbound                   Southbound                 Eastbound                 Westbound
+                                                                                                                                                     Total
+  Flowrates       Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U   Left    Thru Right    U
+  All Vehicles      0          0      0     0        12      0     4     0      0    220      0    0     0     304      0    0                       540
+ Heavy Trucks       0          0      0               4      0     0            0     24      0          0      12      0                            40
+  Pedestrians                  0                             0                         0                         4                                    4
+   Bicycles         0          0      0               0      0     0            0      0      0          0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/29/2011 9:29 AM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: 36th Pl -- Alabama Ave                                                                                          QC JOB #: 10656070
+ CITY/STATE: Washington, DC                                                                                                DATE: Tue, Oct 11 2011
+                        60          0                           Peak-Hour: 5:00 PM -- 6:00 PM                               0.0        0.0
+
+                        25    0     35
+                                                               Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                            0.0 0.0 0.0
+
+       430   1                             0   404
+                                                                                                               3.0   0.0                       0.0      3.2
+             343             0.94        404
+                                                                                                                     4.7                       3.2
+       344   0                             0   378
+                                                                                                               4.7   0.0                       0.0      4.2
+
+                         0    0     0
+                                                                                                                            0.0 0.0 0.0
+
+                         0          0
+                                                                                                                            0.0        0.0
+
+
+
+                              1                                                                                              0    0    0
+
+
+                                                                                                                     0                          0
+
+             0                            15                                                                         1                          0
+
+                                                                                                                     0                          0
+
+
+                              0                                                                                              0    0    0
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+
+             NA                          NA                                                                          NA                        NA
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+15-Min Count                    36th Pl                        36th Pl                Alabama Ave              Alabama Ave
+   Period                    (Northbound)                   (Southbound)              (Eastbound)              (Westbound)                                 Hourly
+Beginning At                                                                                                                                 Total
+                  Left        Thru Right       U     Left    Thru Right    U   Left   Thru Right    U   Left    Thru Right        U                        Totals
+   4:30 PM          0           0       0      0       7       0       5   0     0      97     0    0     0      82     0         0          191
+   4:45 PM          0           0       0      0       7       0       5   0     0      80     0    0     0      82     0         0          174
+   5:00 PM          0           0       0      0      10       0       4   0     0      86     0    0     0     111     0         0          211
+   5:15 PM          0           0       0      0       2       0       5   0     0      72     0    0     0      94     0         0          173              749
+   5:30 PM          0           0       0      0      10       0       9   0     0      98     0    1     0      97     0         0          215              773
+   5:45 PM          0           0       0      0      13       0       7   0     0      87     0    0     0     102     0         0          209              808
+   6:00 PM          0           0       0      0       8       0       2   0     0      76     0    0     0      93     0         0          179              776
+   6:15 PM          0           0       0      0      15       0       3   0     0      75     0    0     0      87     0         0          180              783
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                 Eastbound                 Westbound
+                                                                                                                                                     Total
+  Flowrates       Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U   Left    Thru Right    U
+  All Vehicles      0          0      0     0         40      0    36     0      0    392      0    4     0     388      0    0                      860
+ Heavy Trucks       0          0      0                0      0     0            0     24      0          0      16      0                           40
+  Pedestrians                  0                              0                         0                        12                                  12
+   Bicycles         0          0      0                0      0     0            0      0      0          0       0      0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/29/2011 9:29 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: 36th Pl -- Alabama Ave                                                                                         QC JOB #: 10656071
+ CITY/STATE: Washington, DC                                                                                               DATE: Sat, Oct 15 2011
+                        16          0                          Peak-Hour: 12:00 PM -- 1:00 PM                              0.0        0.0
+
+                         7    0     9
+                                                              Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                           0.0 0.0 0.0
+
+       369   0                            0   362
+                                                                                                              2.2   0.0                       0.0      2.2
+             312             0.91       362
+                                                                                                                    2.6                       2.2
+       312   0                            0   321
+                                                                                                              2.6   0.0                       0.0      2.5
+
+                         0    0     0
+                                                                                                                           0.0 0.0 0.0
+
+                         0          0
+                                                                                                                           0.0        0.0
+
+
+
+                              6                                                                                             0    0    0
+
+
+                                                                                                                    0                          0
+
+             1                            3                                                                         1                          0
+
+                                                                                                                    0                          0
+
+
+                              0                                                                                             0    0    0
+
+
+
+
+                              NA                                                                                                 NA
+
+
+
+
+             NA                         NA                                                                          NA                        NA
+
+
+
+
+                              NA                                                                                                 NA
+
+
+
+15-Min Count                    36th Pl                       36th Pl                Alabama Ave              Alabama Ave
+   Period                    (Northbound)                  (Southbound)              (Eastbound)              (Westbound)                                 Hourly
+Beginning At                                                                                                                                Total
+                  Left        Thru Right      U     Left    Thru Right    U   Left   Thru Right    U   Left    Thru Right        U                        Totals
+  12:00 PM          0           0       0     0       3       0       2   0     0      71     0    0     0     101     0         0          177
+  12:15 PM          0           0       0     0       2       0       2   0     0      64     0    0     0      82     0         0          150
+  12:30 PM          0           0       0     0       3       0       3   0     0      80     0    0     0      88     0         0          174
+  12:45 PM          0           0       0     0       1       0       0   0     0      97     0    0     0      91     0         0          189              690
+   1:00 PM          0           0       0     0       0       0       1   0     0      66     0    0     0      97     0         0          164              677
+   1:15 PM          0           0       0     0       4       0       0   0     0      65     0    0     0      84     0         0          153              680
+   1:30 PM          0           0       0     0       1       0       2   0     0      66     0    0     0      83     0         0          152              658
+   1:45 PM          0           0       0     0       4       0       1   0     0      72     0    0     0     100     0         0          177              646
+
+
+
+
+ Peak 15-Min                     Northbound                   Southbound                 Eastbound                 Westbound
+                                                                                                                                                    Total
+  Flowrates       Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U   Left    Thru Right    U
+  All Vehicles      0          0      0     0         4      0     0     0      0    388      0    0     0     364      0    0                      756
+ Heavy Trucks       0          0      0               0      0     0            0      8      0          0       4      0                           12
+  Pedestrians                  0                             4                         0                         0                                   4
+   Bicycles         0          0      0               0      0     0            0      1      0          0       0      0                            1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/29/2011 9:29 AM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

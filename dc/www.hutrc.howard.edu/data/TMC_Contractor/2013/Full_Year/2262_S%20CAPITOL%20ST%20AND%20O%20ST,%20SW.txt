@@ -1,0 +1,318 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: S Capitol St -- O St SW                                                                                             QC JOB #: 10893751
+ CITY/STATE: Washington, DC                                                                                                    DATE: Tue, Feb 12 2013
+                    1398          3228                           Peak-Hour: 7:00 AM -- 8:00 AM                                  5.8        4.3
+
+                     17 1381 0
+                                                                Peak 15-Min: 7:00 AM -- 7:15 AM
+                                                                                                                                23.5 5.6 0.0
+
+
+       21    0                            0       0
+                                                                                                                  19.0   0.0                       0.0      0.0
+             0             0.97           0
+                                                                                                                         0.0                       0.0
+       0     0                            0       0
+                                                                                                                  0.0    0.0                       0.0      0.0
+
+                         5 3228 0
+                                                                                                                                0.0 4.3 0.0
+
+                    1382          3233
+                                                                                                                                5.6        4.3
+
+
+
+                            6                                                                                                    0    1    0
+
+
+
+                                                                                                                         0                          0
+
+             6                           11                                                                              0                          0
+
+                                                                                                                         0                          0
+
+                            5                                                                                                    0    0    0
+
+
+
+
+                           NA                                                                                                         NA
+
+
+
+
+             NA                          NA                                                                              NA                        NA
+
+
+
+
+                           NA                                                                                                         NA
+
+
+
+ 15-Min Count               S Capitol St                      S Capitol St                O St SW                    O St SW                     Total       Hourly
+    Period                 (Northbound)                      (Southbound)               (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left      Thru Right        U       Left    Thru Right     U   Left   Thru Right    U    Left    Thru Right         U
+    7:00 AM        0       795       0        0        0      397      5     0    0       0      0    0     0        0      0         0          1197
+    7:15 AM        3       800       0        0        0      367      9     0    0       0      0    0     0        0      0         0          1179
+    7:30 AM        1       825       0        1        0      331      0     0    0       0      0    0     0        0      0         0          1158
+    7:45 AM        0       808       0        0        0      286      3     0    0       0      0    0     0        0      0         0          1097            4631
+    8:00 AM        0       845       0        0        0      325      1     0    0       0      0    0     0        0      0         0          1171            4605
+    8:15 AM        0       808       0        2        0      285      2     0    0       0      0    0     0        0      0         0          1097            4523
+    8:30 AM        0       850       0        0        0      326      4     0    0       0      0    0     0        0      0         0          1180            4545
+    8:45 AM        1       864       0        1        0      281      4     0    0       0      0    0     0        0      0         0          1151            4599
+
+
+
+
+ Peak 15-Min               Northbound                          Southbound                   Eastbound                  Westbound
+   Flowrates      Left Thru Right     U               Left Thru Right    U       Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     0 3180       0     0                0 1588      20     0       0       0      0    0     0        0     0     0                       4788
+ Heavy Trucks      0   108      0                      0    92      8             0       0      0          0        0     0                              208
+  Pedestrians           16                                   0                            4                         16                                     36
+    Bicycles       0     0      0                      0     0      0             0       0      0          0        0     0                                0
+   Railroad
+Stopped Buses
+ Comments: 2262
+Report generated on 2/27/2013 3:42 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: S Capitol St -- O St SW                                                                                            QC JOB #: 10893752
+ CITY/STATE: Washington, DC                                                                                                   DATE: Tue, Feb 12 2013
+                    1284          1494                          Peak-Hour: 12:00 PM -- 1:00 PM                                 6.0        8.5
+
+                     20 1264 0
+                                                               Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                               5.0 6.0 0.0
+
+
+       20    0                            0       0
+                                                                                                                  5.0   0.0                      0.0       0.0
+             0             0.98           0
+                                                                                                                        0.0                      0.0
+       0     0                            0       0
+                                                                                                                  0.0   0.0                      0.0       0.0
+
+                         2 1494 0
+                                                                                                                               0.0 8.5 0.0
+
+                    1266          1496
+                                                                                                                               6.0        8.5
+
+
+
+                            4                                                                                                   0    0    0
+
+
+
+                                                                                                                        0                          0
+
+             10                          26                                                                             0                          0
+
+                                                                                                                        0                          0
+
+                            7                                                                                                   0    0    0
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+
+             NA                          NA                                                                             NA                       NA
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+ 15-Min Count               S Capitol St                      S Capitol St                O St SW                    O St SW                    Total       Hourly
+    Period                 (Northbound)                      (Southbound)               (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left      Thru Right        U       Left    Thru Right     U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        0       337       0        0        0      279      3     0    0       0      0    0     0        0      0        0          619
+   11:15 AM        0       350       0        0        0      288      8     2    0       0      0    0     0        0      0        0          648
+   11:30 AM        0       332       0        1        0      285     11     0    0       0      0    0     0        0      0        0          629
+   11:45 AM        0       340       0        0        0      298      6     0    0       0      0    0     0        0      0        0          644             2540
+   12:00 PM        0       373       0        0        0      307     11     0    0       0      0    0     0        0      0        0          691             2612
+   12:15 PM        0       388       0        1        0      302      2     0    0       0      0    0     0        0      0        0          693             2657
+   12:30 PM        0       366       0        0        0      342      3     0    0       0      0    0     0        0      0        0          711             2739
+   12:45 PM        0       367       0        1        0      313      4     0    0       0      0    0     0        0      0        0          685             2780
+
+
+
+
+ Peak 15-Min               Northbound                          Southbound                   Eastbound                  Westbound
+   Flowrates      Left Thru Right     U               Left Thru Right    U       Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0 1464       0     0                0 1368      12     0       0       0      0    0     0        0     0     0                      2844
+ Heavy Trucks      0   144      0                      0    84      0             0       0      0          0        0     0                             228
+  Pedestrians            4                                   4                            8                         40                                    56
+    Bicycles       0     0      0                      0     0      0             0       0      0          0        0     0                               0
+   Railroad
+Stopped Buses
+ Comments: 2262
+Report generated on 2/27/2013 3:42 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: S Capitol St -- O St SW                                                                                            QC JOB #: 10893753
+ CITY/STATE: Washington, DC                                                                                                   DATE: Tue, Feb 12 2013
+                    1406          1240                           Peak-Hour: 5:30 PM -- 6:30 PM                                 1.7        1.4
+
+                         4 1402 0
+                                                                Peak 15-Min: 6:15 PM -- 6:30 PM
+                                                                                                                               0.0 1.7 0.0
+
+
+       4     0                            0       0
+                                                                                                                  0.0   0.0                      0.0       0.0
+             0             0.92           0
+                                                                                                                        0.0                      0.0
+       1     1                            0       0
+                                                                                                                  0.0   0.0                      0.0       0.0
+
+                         1 1240 0
+                                                                                                                               0.0 1.4 0.0
+
+                    1404          1241
+                                                                                                                               1.7        1.4
+
+
+
+                            7                                                                                                   0    0    0
+
+
+
+                                                                                                                        0                          0
+
+             22                          20                                                                             0                          0
+
+                                                                                                                        0                          0
+
+                            2                                                                                                   0    0    0
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+
+             NA                          NA                                                                             NA                       NA
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+ 15-Min Count               S Capitol St                      S Capitol St                O St SW                    O St SW                    Total       Hourly
+    Period                 (Northbound)                      (Southbound)               (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left      Thru Right        U       Left    Thru Right     U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        0       350       0        0        0      217      3     0    0       0      0    0     0        0      0        0          570
+    4:45 PM        0       317       2        0        0      220      3     2    0       0      0    0     0        0      0        0          544
+    5:00 PM        0       378       0        1        0      260      2     0    0       0      3    0     0        0      0        0          644
+    5:15 PM        0       272       0        0        0      353      2     0    0       0      0    0     0        0      0        0          627             2385
+    5:30 PM        0       311       0        0        0      357      3     0    0       0      0    0     0        0      0        0          671             2486
+    5:45 PM        0       344       0        1        0      330      1     0    0       0      1    0     0        0      0        0          677             2619
+    6:00 PM        0       278       0        0        0      306      0     0    0       0      0    0     0        0      0        0          584             2559
+    6:15 PM        0       307       0        0        0      409      0     0    0       0      0    0     0        0      0        0          716             2648
+
+
+
+
+ Peak 15-Min               Northbound                          Southbound                   Eastbound                  Westbound
+   Flowrates      Left Thru Right     U               Left Thru Right    U       Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0 1228       0     0                0 1636       0     0       0       0      0    0     0        0     0     0                      2864
+ Heavy Trucks      0    12      0                      0    24      0             0       0      0          0        0     0                             36
+  Pedestrians            0                                   8                           20                          4                                   32
+    Bicycles       0     0      0                      0     0      0             0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments: 2262
+Report generated on 2/27/2013 3:42 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: S Capitol St -- O St SW                                                                                               QC JOB #: 10893754
+ CITY/STATE: Washington, DC                                                                                                      DATE: Sat, Feb 16 2013
+                      1107          1208                            Peak-Hour: 12:15 PM -- 1:15 PM
+                             0.92                                                                                                 0.6        1.2
+
+                       16 1090 1
+                                                                   Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                                  6.3 0.6 0.0
+
+
+       17      1                            0        0
+                                                                                                                     5.9   0.0                      0.0       0.0
+        0.42   0             0.94           0   0.00
+                                                                                                                           0.0                      0.0
+       3       2                            0        0
+                                                                                                                     0.0   0.0                      0.0       0.0
+
+                           3 1206 0
+                                                                                                                                  0.0 1.2 0.0
+
+                      1094          1209
+                             0.96                                                                                                 0.5        1.2
+
+
+
+                              4                                                                                                    0    0    0
+
+
+
+                                                                                                                           0                          0
+
+               8                            5                                                                              0                          0
+
+                                                                                                                           0                          0
+
+                              2                                                                                                    0    0    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+               NA                          NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                 S Capitol St                       S Capitol St                O St SW                    O St SW                    Total       Hourly
+    Period                   (Northbound)                       (Southbound)               (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left      Thru Right         U       Left    Thru Right     U   Left   Thru Right    U    Left    Thru Right        U
+   12:00 PM          0       268       0         0        0      224      4     0    0       0      0    0     0        0      0        0          496
+   12:15 PM          0       288       0         0        0      273      7     0    0       0      0    0     0        0      0        0          568
+   12:30 PM          0       304       0         0        0      258      4     1    1       0      0    0     0        0      0        0          568
+   12:45 PM          1       314       0         1        0      297      3     0    0       0      0    0     0        0      0        0          616             2248
+    1:00 PM          0       300       0         1        0      262      2     0    0       0      2    0     0        0      0        0          567             2319
+    1:15 PM          1       310       0         0        0      252      3     0    0       0      0    0     0        0      0        0          566             2317
+    1:30 PM          0       308       0         1        0      247      3     0    0       0      0    0     0        0      0        0          559             2308
+    1:45 PM          0       324       0         0        0      285      6     0    0       0      3    0     0        0      0        0          618             2310
+
+
+
+
+ Peak 15-Min                 Northbound                           Southbound                   Eastbound                  Westbound
+   Flowrates        Left Thru Right     U                Left Thru Right    U       Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       4 1256       0     4                 0 1188      12     0       0       0      0    0     0        0     0     0                      2464
+ Heavy Trucks        0    16      0                       0     8      0             0       0      0          0        0     0                             24
+  Pedestrians              0                                    4                           16                          4                                   24
+    Bicycles         0     0      0                       0     0      0             0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments: 2262
+Report generated on 3/3/2013 7:52 PM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

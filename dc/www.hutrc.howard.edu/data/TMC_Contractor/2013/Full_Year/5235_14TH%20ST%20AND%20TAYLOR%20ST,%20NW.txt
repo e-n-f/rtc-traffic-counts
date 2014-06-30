@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Taylor St NW                                                                                               QC JOB #: 10694968
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, Apr 24 2013
+                    504             412                         Peak-Hour: 7:45 AM -- 8:45 AM                                     4.2        6.8
+
+                         6   466 32
+                                                               Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                  0.0 4.3 3.1
+
+
+       81    5                            92   176
+                                                                                                                    0.0   20.0                      2.2      1.7
+             82              0.96         53
+                                                                                                                          0.0                       0.0
+       117   30                           31   135
+                                                                                                                    0.9   0.0                       3.2      0.7
+
+                       22 315 21
+                                                                                                                                  0.0 7.9 0.0
+
+                    527             358
+                                                                                                                                  4.0        7.0
+
+
+
+                              49                                                                                                   0    64   1
+
+
+
+                                                                                                                          0                           1
+
+             86                           76                                                                              1                           1
+
+                                                                                                                          0                           3
+
+                              24                                                                                                   0    6    1
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                           NA                                                                              NA                        NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                   14th St                        14th St                    Taylor St NW               Taylor St NW                  Total      Hourly
+    Period                   (Northbound)                   (Southbound)                  (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U     Left    Thru Right    U       Left   Thru Right     U   Left    Thru Right         U
+    7:00 AM        4           48       3      0       5      76       0   0        0       7       7    0    1        7       6        0          164
+    7:15 AM        0           50       5      0       7      83       0   0        0      12       3    0    6        3      10        0          179
+    7:30 AM        0           61       3      0       5     108       5   0        1      11       7    0    5        8      22        0          236
+    7:45 AM        3           83       5      0       4     101       3   0        0      23      11    0    6       21      18        0          278             857
+    8:00 AM        5           84       7      0      11     120       1   0        1      21       8    0    8        9      25        0          300             993
+    8:15 AM        9           74       3      0       9     124       0   0        3      20       4    0    8       13      26        0          293            1107
+    8:30 AM        5           74       6      0       8     121       2   0        1      18       7    0    9       10      23        0          284            1155
+    8:45 AM        5           58       3      0       5     128       1   0        2      25       3    0    8        6      11        0          255            1132
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     20        336     28     0         44    480      4     0        4      84    32     0     32      36   100     0                      1200
+ Heavy Trucks       0         36      0                0     24      0              0       0      0           4       0     4                              68
+  Pedestrians                 36                             72                            92                         88                                   288
+    Bicycles       0           2      0               0      13      0              0       0      0           0       0     0                              15
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/8/2013 11:04 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Taylor St NW                                                                                              QC JOB #: 10694969
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Apr 24 2013
+                    287             268                       Peak-Hour: 12:00 PM -- 1:00 PM                                     7.0        9.3
+
+                         4   252 31
+                                                             Peak 15-Min: 12:00 PM -- 12:15 PM
+                                                                                                                                 25.0 7.1 3.2
+
+
+       69    4                            14   70
+                                                                                                                   2.9   25.0                      7.1       2.9
+             52              0.91         43
+                                                                                                                         1.9                       0.0
+       91    35                           13   98
+                                                                                                                   2.2   0.0                       7.7       2.0
+
+                       22 250 15
+                                                                                                                                 4.5 9.2 0.0
+
+                    300             287
+                                                                                                                                 6.3        8.4
+
+
+
+                              18                                                                                                  0    14   0
+
+
+
+                                                                                                                         0                           0
+
+             59                           24                                                                             0                           1
+
+                                                                                                                         0                           0
+
+                              7                                                                                                   1    9    2
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                             NA                        NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                   14th St                       14th St                    Taylor St NW               Taylor St NW                  Total       Hourly
+    Period                   (Northbound)                  (Southbound)                  (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left        Thru Right       U    Left    Thru Right    U       Left   Thru Right     U   Left    Thru Right         U
+   11:00 AM        5           54       2      1      5      71       2   0        0       8       7    0    2        6       3        0          166
+   11:15 AM        4           60       3      0      3      61       3   0        0      13       8    0    1       13       1        0          170
+   11:30 AM        4           56       3      1      4      59       3   0        0      14      10    0    5       14       2        0          175
+   11:45 AM        3           45       6      1      5      54       0   0        0      11       7    0    4       13       4        0          153              664
+   12:00 PM        8           73       2      0      7      62       1   0        1      13      14    0    6       10       6        0          203              701
+   12:15 PM        7           61       3      0     10      65       0   0        2       9       4    0    4        9       4        0          178              709
+   12:30 PM        5           55       5      0      8      59       0   0        0      11       7    0    0        8       2        0          160              694
+   12:45 PM        2           61       5      0      6      66       3   0        1      19      10    0    3       16       2        0          194              735
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     32        292      8     0        28    248      4     0        4      52    56     0     24      40    24     0                       812
+ Heavy Trucks       0         36      0               4     16      0              0       4      0           4       0     4                              68
+  Pedestrians                  8                            12                            60                         24                                   104
+    Bicycles       0           4      2              0       1      0              0       0      0           0       0     0                               7
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/8/2013 11:04 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Taylor St NW                                                                                              QC JOB #: 10694970
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Apr 24 2013
+                    391             463                         Peak-Hour: 5:00 PM -- 6:00 PM                                    4.9        3.5
+
+                         3   361 27
+                                                               Peak 15-Min: 5:45 PM -- 6:00 PM
+                                                                                                                                 0.0 5.3 0.0
+
+
+       43    3                            39    89
+                                                                                                                    0.0   0.0                      0.0      0.0
+             219             0.98         26
+                                                                                                                          0.0                      0.0
+       292   70                           24   262
+                                                                                                                    0.0   0.0                      0.0      0.0
+
+                       14 420 17
+                                                                                                                                 0.0 3.8 0.0
+
+                    455             451
+                                                                                                                                 4.2        3.5
+
+
+
+                              22                                                                                                  0    16   0
+
+
+
+                                                                                                                          0                          0
+
+             73                           75                                                                              1                          0
+
+                                                                                                                          2                          0
+
+                              27                                                                                                  0    43   0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                   14th St                        14th St                    Taylor St NW               Taylor St NW                 Total      Hourly
+    Period                   (Northbound)                   (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right       U     Left    Thru Right    U       Left   Thru Right     U   Left    Thru Right        U
+    4:30 PM        6           93       3      0       5      70       0   0        1      55      19    0     2       8       7       0          269
+    4:45 PM        1         102        2      0       7      78       0   0        0      49      24    0     4       4       8       0          279
+    5:00 PM        4          111       4      0       4      83       2   0        1      54      10    0    11       7      10       0          301
+    5:15 PM        5           90       5      0      10      96       0   1        2      53      21    0     7       8       6       0          304            1153
+    5:30 PM        2          115       4      0       4      89       1   0        0      54      16    0     3       3      14       0          305            1189
+    5:45 PM        3         104        4      0       8      93       0   0        0      58      23    0     3       8       9       0          313            1223
+    6:00 PM        4         106        5      0       5      81       1   0        1      36      24    0     8       5       9       0          285            1207
+    6:15 PM        5         107        4      0      14      83       3   0        4      52      20    0     7      13       7       0          319            1222
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     12        416     16     0         32    372      0     0        0     232    92     0     12      32    36     0                     1252
+ Heavy Trucks       0         12      0                0     12      0              0       0      0           0       0     0                             24
+  Pedestrians                 16                              4                            72                         56                                  148
+    Bicycles       0          14      0               0       3      0              0       0      0           0       0     0                             17
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/8/2013 11:04 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Taylor St NW                                                                                              QC JOB #: 10694971
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, May 04 2013
+                    361             351                         Peak-Hour: 4:00 PM -- 5:00 PM                                    2.8        3.7
+
+                         3   336 22
+                                                               Peak 15-Min: 4:30 PM -- 4:45 PM
+                                                                                                                                 0.0 3.0 0.0
+
+
+       81    5                            18    74
+                                                                                                                    0.0   0.0                      0.0      0.0
+             96              0.93         44
+                                                                                                                          0.0                      0.0
+       171   70                           12   129
+                                                                                                                    0.0   0.0                      0.0      0.0
+
+                       34 327 12
+                                                                                                                                 0.0 4.0 0.0
+
+                    418             373
+                                                                                                                                 2.4        3.5
+
+
+
+                              12                                                                                                  0    24   0
+
+
+
+                                                                                                                          0                          0
+
+             62                           66                                                                              1                          2
+
+                                                                                                                          1                          0
+
+                              16                                                                                                  2    15   1
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count                   14th St                        14th St                    Taylor St NW               Taylor St NW                 Total      Hourly
+    Period                   (Northbound)                   (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right       U     Left    Thru Right    U       Left   Thru Right     U   Left    Thru Right        U
+    3:00 PM         4          82       0      0      6       84       2   0        1      15      15    0    2        7       5       0          223
+    3:15 PM         5          91       3      0      7       84       1   0        0      21      17    0    0       10       1       0          240
+    3:30 PM         5          97       1      0      5       88       2   0        0      17      14    0    3        8       7       0          247
+    3:45 PM         9          78       5      1      3       81       1   0        1      20      14    0    5       11       3       0          232             942
+    4:00 PM        11          78       3      0      5       84       0   0        0      24      13    0    5        7       5       0          235             954
+    4:15 PM        10          78       5      0      6       87       0   0        1      13      13    0    3        7       5       0          228             942
+    4:30 PM         8          82       1      0      3       89       3   0        2      28      25    0    2       15       5       0          263             958
+    4:45 PM         5          89       3      0      7       76       0   1        2      31      19    0    2       15       3       0          253             979
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     32        328      4     0         12    356     12     0        8     112   100     0     8       60    20     0                     1052
+ Heavy Trucks       0         20      0                0      8      0              0       0      0          0        0     0                             28
+  Pedestrians                  4                             20                            88                         68                                  180
+    Bicycles       0           3      1               0       6      0              0       1      1           0       0     0                             12
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/8/2013 11:04 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Q St NW                                                                                         QC JOB #: 10863894
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Mar 13 2013
+                    1074            532                         Peak-Hour: 8:00 AM -- 9:00 AM                                    3.1        8.5
+
+                         0 1025 49
+                                                               Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                 0.0 3.1 2.0
+
+
+       0     1                             0     1
+                                                                                                                    0.0   0.0                      0.0      0.0
+             175             0.96          0
+                                                                                                                          5.1                      0.0
+       355   179                           1   228
+                                                                                                                    4.8   4.5                      0.0      4.8
+
+                         1   531     4
+                                                                                                                                 0.0 8.5 25.0
+
+                    1206            536
+                                                                                                                                 3.3        8.6
+
+
+
+                             110                                                                                                  0    25   2
+
+
+
+                                                                                                                          0                          0
+
+             86                           77                                                                              8                          0
+
+                                                                                                                          3                          0
+
+                              8                                                                                                   2    7    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count         Massachusetts Ave                  Massachusetts Ave                  Q St NW                    Q St NW                    Total      Hourly
+    Period              (Northbound)                       (Southbound)                   (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left Thru Right      U             Left Thru Right      U        Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM        0     116     1      0              4    149     0      0        0      22     17    0     0        0      0        0          309
+    7:15 AM        0    125      5      0              9    205     0      0        0      22     18    0     0        0      0        0          384
+    7:30 AM        0    143      2      0             11    221     0      0        0      33     30    0     0        0      0        0          440
+    7:45 AM        0    137      1      0              8    254     0      0        1      36     33    0     0        0      0        0          470            1603
+    8:00 AM        0    132      1      0              7    265     0      0        0      40     36    0     0        0      0        0          481            1775
+    8:15 AM        0    144      0      0             12    264     0      0        0      43     49    0     0        0      0        0          512            1903
+    8:30 AM        0    128      1      1             12    259     0      0        1      32     44    0     1        0      0        0          479            1942
+    8:45 AM        0    127      2      0             18    237     0      0        0      60     50    0     0        0      0        0          494            1966
+
+
+
+
+ Peak 15-Min                     Northbound                   Southbound                      Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         576      0     0         48 1056      0     0          0     172   196     0     0        0     0     0                     2048
+ Heavy Trucks      0          40      0                0   32      0                0       4      4          0        0     0                             80
+  Pedestrians                  8                          112                              92                         76                                  288
+    Bicycles       0           2      0                0    5      0                0       1      1           0       0     0                              9
+   Railroad
+Stopped Buses
+ Comments: 1184
+Report generated on 7/9/2013 1:18 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Q St NW                                                                                         QC JOB #: 10863896
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Mar 13 2013
+                    572             405                        Peak-Hour: 11:30 AM -- 12:30 PM                                   3.7        5.9
+
+                         0   513 59
+                                                              Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                                 0.0 3.9 1.7
+
+
+       0     4                             0     0
+                                                                                                                    0.0   0.0                      0.0      0.0
+             162             0.93          0
+                                                                                                                          8.6                      0.0
+       324   158                           0   249
+                                                                                                                    7.4   6.3                      0.0      6.0
+
+                         0   401 28
+                                                                                                                                 0.0 6.0 0.0
+
+                    671             429
+                                                                                                                                 4.5        5.6
+
+
+
+                              28                                                                                                  0    3    0
+
+
+
+                                                                                                                          0                          0
+
+             54                           60                                                                              0                          0
+
+                                                                                                                          1                          0
+
+                              6                                                                                                   0    1    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count         Massachusetts Ave                  Massachusetts Ave                  Q St NW                    Q St NW                    Total      Hourly
+    Period              (Northbound)                       (Southbound)                   (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left Thru Right      U             Left Thru Right      U        Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        0     90      3      0              7    100     0      0        0      37     34    0     0        0      0        0          271
+   11:15 AM        0    108      3      0             13    118     0      0        1      28     33    0     0        0      0        0          304
+   11:30 AM        0    104      7      0             14    122     0      0        0      38     44    0     0        0      0        0          329
+   11:45 AM        0    102      7      0             12    157     0      0        1      34     42    0     0        0      0        0          355            1259
+   12:00 PM        0    101      8      0             17    131     0      0        0      40     35    0     0        0      0        0          332            1320
+   12:15 PM        0     94      6      0             16    103     0      0        3      50     37    0     0        0      0        0          309            1325
+   12:30 PM        0     96      4      0             15    113     0      0        0      47     32    0     0        0      0        0          307            1303
+   12:45 PM        0    102      8      0             15    108     0      0        0      36     42    0     0        0      0        0          311            1259
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         408     28     0         48    628      0     0        4     136   168     0     0        0     0     0                     1420
+ Heavy Trucks      0          28      0                0     20      0              0       4      8          0        0     0                             60
+  Pedestrians                 12                              8                            52                         88                                  160
+    Bicycles       0           1      0               0       1      0              0       0      0           0       0     0                              2
+   Railroad
+Stopped Buses
+ Comments: 1184
+Report generated on 7/9/2013 1:18 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Q St NW                                                                                         QC JOB #: 10863895
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Mar 13 2013
+                    639             760                         Peak-Hour: 5:00 PM -- 6:00 PM                                    3.4        5.0
+
+                         0   574 65
+                                                               Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                                 0.0 3.5 3.1
+
+
+       0     3                             0     1
+                                                                                                                    0.0   0.0                      0.0      0.0
+             249             0.97          0
+                                                                                                                          4.0                      0.0
+       425   173                           1   341
+                                                                                                                    3.8   3.5                      0.0      3.5
+
+                         0   757 27
+                                                                                                                                 0.0 5.0 0.0
+
+                    748             784
+                                                                                                                                 3.5        4.8
+
+
+
+                              83                                                                                                  0    7    1
+
+
+
+                                                                                                                          0                          0
+
+             63                           90                                                                              26                         0
+
+                                                                                                                          1                          0
+
+                              22                                                                                                  1    15   1
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count         Massachusetts Ave                  Massachusetts Ave                  Q St NW                    Q St NW                    Total      Hourly
+    Period              (Northbound)                       (Southbound)                   (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left Thru Right      U             Left Thru Right      U        Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        0    164     10      0             17    138     0      0        1      52     41    0     0        0      0        0          423
+    4:45 PM        0    168      4      0             12    125     0      0        0      56     28    0     0        0      0        0          393
+    5:00 PM        0    172      4      0             26    160     0      0        1      69     47    0     0        0      0        0          479
+    5:15 PM        0    193      9      0              9    145     0      0        2      65     52    0     1        0      0        0          476            1771
+    5:30 PM        0    198     10      0             17    146     0      0        0      54     31    0     0        0      0        0          456            1804
+    5:45 PM        0    194      4      0             13    123     0      0        0      61     43    0     0        0      0        0          438            1849
+    6:00 PM        0    179      2      0             25    155     0      0        0      62     40    0     0        0      0        0          463            1833
+    6:15 PM        0    220      6      0             15    112     0      0        2      65     30    0     0        0      0        0          450            1807
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         688     16     0        104    640      0     0        4     276   188     0     0        0     0     0                     1916
+ Heavy Trucks      0          28      0                4     24      0              0      20      4          0        0     0                             80
+  Pedestrians                 20                             52                            44                         64                                  180
+    Bicycles       0           5      0                0      2      0              0       8      0           0       0     0                             15
+   Railroad
+Stopped Buses
+ Comments: 1184
+Report generated on 7/9/2013 1:18 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Massachusetts Ave -- Q St NW                                                                                         QC JOB #: 10863897
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, Apr 20 2013
+                    520             429                         Peak-Hour: 3:15 PM -- 4:15 PM                                    1.9        1.2
+
+                         0   467 53
+                                                               Peak 15-Min: 3:45 PM -- 4:00 PM
+                                                                                                                                 0.0 1.7 3.8
+
+
+       0     5                             0     0
+                                                                                                                    0.0   0.0                      0.0      0.0
+             153             0.95          0
+                                                                                                                          1.3                      0.0
+       278   120                           0   224
+                                                                                                                    2.9   5.0                      0.0      1.8
+
+                         0   424 18
+                                                                                                                                 0.0 1.2 0.0
+
+                    587             442
+                                                                                                                                 2.4        1.1
+
+
+
+                              51                                                                                                  0    10   0
+
+
+
+                                                                                                                          0                          0
+
+             186                          73                                                                              15                         1
+
+                                                                                                                          5                          0
+
+                              15                                                                                                  0    6    0
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                        NA
+
+
+
+ 15-Min Count         Massachusetts Ave                  Massachusetts Ave                  Q St NW                    Q St NW                    Total      Hourly
+    Period              (Northbound)                       (Southbound)                   (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left Thru Right      U             Left Thru Right      U        Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM        0     113     3      0             18    103     0      0        0      27     29    0     0        0      0        0          293
+    3:15 PM        0      99     9      0             12    117     0      0        0      29     28    0     0        0      0        0          294
+    3:30 PM        0      95     4      0             11    125     0      0        3      41     32    0     0        0      0        0          311
+    3:45 PM        0     111     3      0             21    118     0      0        1      41     32    0     0        0      0        0          327            1225
+    4:00 PM        0     119     2      0              9    107     0      0        1      42     28    0     0        0      0        0          308            1240
+    4:15 PM        0      99     3      0             21    100     0      0        0      36     32    0     0        0      0        0          291            1237
+    4:30 PM        0      85     6      0             13     99     0      0        2      40     22    0     0        0      0        0          267            1193
+    4:45 PM        0    104      5      0             18    111     0      0        0      49     37    0     0        0      0        0          324            1190
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         444     12     0         84    472      0     0        4     164   128     0     0        0     0     0                     1308
+ Heavy Trucks      0           4      0                4      4      0              0       8      8          0        0     0                             28
+  Pedestrians                 12                             52                           236                         64                                  364
+    Bicycles       0           3      0               0       3      0              0       6      0           0       0     0                             12
+   Railroad
+Stopped Buses
+ Comments: 1184
+Report generated on 7/9/2013 1:18 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

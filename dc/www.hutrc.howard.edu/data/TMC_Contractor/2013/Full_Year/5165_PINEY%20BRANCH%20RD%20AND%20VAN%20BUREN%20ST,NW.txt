@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Piney Branch Rd -- Van Buren St NW                                                                                     QC JOB #: 10695819
+ CITY/STATE: Washington, DC                                                                                                       DATE: Tue, May 28 2013
+                    800          269                          Peak-Hour: 7:45 AM -- 8:45 AM                                        1.8        1.9
+
+                       40 756     4
+                                                             Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                   7.5 1.5 0.0
+
+
+       84    25                         2   71
+                                                                                                                      4.8   4.0                      0.0      1.4
+             39           0.95         34
+                                                                                                                            2.6                      2.9
+       64    0                         35   70
+                                                                                                                      3.1   0.0                      0.0      1.4
+
+                       10 242 27
+                                                                                                                                   0.0 1.7 0.0
+
+                    791          279
+                                                                                                                                   1.4        1.4
+
+
+
+                           5                                                                                                        1    21   0
+
+
+
+                                                                                                                            0                          0
+
+             11                        13                                                                                   0                          0
+
+                                                                                                                            0                          0
+
+                           1                                                                                                        0    2    0
+
+
+
+
+                           NA                                                                                                            NA
+
+
+
+
+             NA                        NA                                                                                   NA                       NA
+
+
+
+
+                           NA                                                                                                            NA
+
+
+
+ 15-Min Count            Piney Branch Rd                Piney Branch Rd                  Van Buren St NW              Van Buren St NW               Total      Hourly
+    Period                 (Northbound)                  (Southbound)                      (Eastbound)                  (Westbound)                            Totals
+ Beginning At     Left      Thru Right      U    Left     Thru Right      U       Left     Thru Right      U   Left     Thru Right       U
+    7:00 AM        0         34     4       0     0       175      3      0        4         6      0      0     2        4      0       0          232
+    7:15 AM        0         41     2       0     0       187     11      0        4         9      0      0     3        6      0       0          263
+    7:30 AM        1         40     1       1     1       192     12      0        9         5      0      0     6       13      0       0          281
+    7:45 AM        4         49     6       0     1       203     12      0        7         5      0      0     5       11      0       0          303            1079
+    8:00 AM        2         52     4       0     1       210     12      0        9        13      0      0    10        7      1       0          321            1168
+    8:15 AM        0         67     8       0     1       185      8      0        4        13      0      0    11        9      0       0          306            1211
+    8:30 AM        4         74     9       0     1       158      8      0        5         8      0      0     9        7      1       0          284            1214
+    8:45 AM        1         52     5       0     1       148      7      0        4         7      0      0     3        8      0       0          236            1147
+
+
+
+
+ Peak 15-Min                  Northbound                     Southbound                        Eastbound                    Westbound
+   Flowrates      Left    Thru Right     U       Left    Thru Right    U          Left     Thru Right    U     Left     Thru Right    U                    Total
+  All Vehicles     8      208     16     0        4      840     48     0          36       52      0    0      40       28     4     0                    1284
+ Heavy Trucks      0        4      0              0       12      0                 0        0      0            0        0     0                           16
+  Pedestrians               0                              0                                 8                           16                                 24
+    Bicycles       0        0      0              0        7      0                0         0      0           0         0     0                            7
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/9/2013 4:18 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Piney Branch Rd -- Van Buren St NW                                                                                        QC JOB #: 10695820
+ CITY/STATE: Washington, DC                                                                                                          DATE: Tue, May 28 2013
+                    282             273                        Peak-Hour: 12:00 PM -- 1:00 PM                                         2.5        2.2
+
+                       28 253        1
+                                                              Peak 15-Min: 12:00 PM -- 12:15 PM
+                                                                                                                                      3.6 2.4 0.0
+
+
+       51    30                            5   33
+                                                                                                                         3.9   0.0                      0.0       3.0
+             36              0.95         15
+                                                                                                                               8.3                      6.7
+       70    4                            13   68
+                                                                                                                         4.3   0.0                      0.0       4.4
+
+                         8   238 31
+                                                                                                                                      0.0 2.5 0.0
+
+                    270             277
+                                                                                                                                      2.2        2.2
+
+
+
+                              8                                                                                                        0    1    0
+
+
+
+                                                                                                                               0                          0
+
+             4                             5                                                                                   0                          0
+
+                                                                                                                               0                          0
+
+                              5                                                                                                        0    1    0
+
+
+
+
+                             NA                                                                                                             NA
+
+
+
+
+             NA                           NA                                                                                   NA                       NA
+
+
+
+
+                             NA                                                                                                             NA
+
+
+
+ 15-Min Count            Piney Branch Rd                   Piney Branch Rd                  Van Buren St NW              Van Buren St NW               Total       Hourly
+    Period                 (Northbound)                     (Southbound)                      (Eastbound)                  (Westbound)                             Totals
+ Beginning At     Left      Thru Right         U    Left     Thru Right      U       Left     Thru Right      U   Left     Thru Right       U
+   11:00 AM        0         61     2          0     0        68      5      1         8        8      2      0    2         2      0       0          159
+   11:15 AM        0         51     4          0     0        71     10      0         9        8      0      0    4         1      1       0          159
+   11:30 AM        3         48     5          0     0        78      8      0        10        1      0      0    2         5      1       0          161
+   11:45 AM        3         58     7          0     0        65      6      0         4        8      0      0    3         1      2       0          157              636
+   12:00 PM        2         61    15          0     0        65      6      0         3       12      0      0    2         5      3       0          174              651
+   12:15 PM        2         59     3          0     0        66      6      0         6        5      1      0    7         1      0       0          156              648
+   12:30 PM        2         60     2          0     0        69      8      0        13        7      0      0    1         3      1       0          166              653
+   12:45 PM        2         58    11          0     1        53      8      0         8       12      3      0    3         6      1       0          166              662
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                        Eastbound                    Westbound
+   Flowrates      Left       Thru Right     U       Left    Thru Right    U          Left     Thru Right    U     Left     Thru Right    U                     Total
+  All Vehicles     8         244     60     0        0      260     24     0          12       48      0    0      8        20    12     0                     696
+ Heavy Trucks      0           8      0              0        0      0                 0        4      0           0         0     0                            12
+  Pedestrians                  0                              8                                 4                            0                                  12
+    Bicycles       0           1      0              0        0      0                0         0      0           0         0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/9/2013 4:18 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                     Method for determining peak hour: Total Entering Volume
+ LOCATION: Piney Branch Rd -- Van Buren St NW                                                                                         QC JOB #: 10695821
+ CITY/STATE: Washington, DC                                                                                                           DATE: Tue, May 28 2013
+                    364             749                           Peak-Hour: 5:15 PM -- 6:15 PM                                        0.8        1.2
+
+                       34 329        1
+                                                                 Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                       2.9 0.6 0.0
+
+
+       79    42                            3   55
+                                                                                                                          2.5   2.4                      0.0      1.8
+             64              0.93         37
+                                                                                                                                0.0                      2.7
+       107   1                            15   112
+                                                                                                                          0.9   0.0                      0.0      0.9
+
+                         8   704 47
+                                                                                                                                       0.0 1.1 2.1
+
+                    345             759
+                                                                                                                                       0.6        1.2
+
+
+
+                              3                                                                                                         1    2    1
+
+
+
+                                                                                                                                4                          0
+
+             9                             9                                                                                    1                          1
+
+                                                                                                                                0                          0
+
+                              11                                                                                                        0    11   0
+
+
+
+
+                             NA                                                                                                              NA
+
+
+
+
+             NA                           NA                                                                                    NA                       NA
+
+
+
+
+                             NA                                                                                                              NA
+
+
+
+ 15-Min Count            Piney Branch Rd                    Piney Branch Rd                  Van Buren St NW              Van Buren St NW               Total      Hourly
+    Period                 (Northbound)                      (Southbound)                      (Eastbound)                  (Westbound)                            Totals
+ Beginning At     Left      Thru Right         U     Left     Thru Right      U       Left     Thru Right      U   Left     Thru Right       U
+    4:30 PM        1       192      5          0      1        73      7      0        11       18      0      0    4         9      2       0          323
+    4:45 PM        1       147      7          0      0        92     11      0        17       17      3      0    6         6      1       0          308
+    5:00 PM        2       159     14          0      5        65      8      0        16       19      1      0    1         8      0       0          298
+    5:15 PM        3       163     13          0      1        74      6      0        11       14      0      0    1         8      1       0          295            1224
+    5:30 PM        0       199     11          0      0        83      5      0        11       20      0      0    5        10      2       0          346            1247
+    5:45 PM        3       171      6          0      0        88     12      0        12       19      0      0    6        12      0       0          329            1268
+    6:00 PM        2       171     17          0      0        84     11      0         8       11      1      0    3         7      0       0          315            1285
+    6:15 PM        4       158     14          0      0        67     10      0        17       15      0      0    1         4      0       0          290            1280
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                        Eastbound                    Westbound
+   Flowrates      Left       Thru Right     U        Left    Thru Right    U          Left     Thru Right    U     Left     Thru Right    U                    Total
+  All Vehicles     0         796     44     0         0      332     20     0          44       80      0    0      20       40     8     0                    1384
+ Heavy Trucks      0          12      0               0        0      0                 4        0      0            0        4     0                           20
+  Pedestrians                  8                               8                                 8                            4                                 28
+    Bicycles       0           2      0               0        1      0                1         0      0           0         1     0                            5
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/9/2013 4:18 AM                                              SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Piney Branch Rd -- Van Buren St NW                                                                                     QC JOB #: 10695822
+ CITY/STATE: Washington, DC                                                                                                       DATE: Sat, Jun 01 2013
+                    376          488                          Peak-Hour: 3:45 PM -- 4:45 PM                                        1.9        0.6
+
+                       34 339     3
+                                                             Peak 15-Min: 3:45 PM -- 4:00 PM
+                                                                                                                                   0.0 2.1 0.0
+
+
+       70    44                         5   49
+                                                                                                                      0.0   2.3                      0.0      0.0
+             48           0.97         26
+                                                                                                                            0.0                      0.0
+       98    6                         18   81
+                                                                                                                      1.0   0.0                      0.0      0.0
+
+                       10 439 30
+                                                                                                                                   0.0 0.5 0.0
+
+                    363          479
+                                                                                                                                   1.9        0.4
+
+
+
+                           5                                                                                                        2    5    0
+
+
+
+                                                                                                                            0                          0
+
+             10                         6                                                                                   1                          1
+
+                                                                                                                            0                          1
+
+                           5                                                                                                        0    1    0
+
+
+
+
+                           NA                                                                                                            NA
+
+
+
+
+             NA                        NA                                                                                   NA                       NA
+
+
+
+
+                           NA                                                                                                            NA
+
+
+
+ 15-Min Count            Piney Branch Rd                Piney Branch Rd                  Van Buren St NW              Van Buren St NW               Total      Hourly
+    Period                 (Northbound)                  (Southbound)                      (Eastbound)                  (Westbound)                            Totals
+ Beginning At     Left      Thru Right      U    Left     Thru Right      U       Left     Thru Right      U   Left     Thru Right       U
+    3:00 PM        1         97    15       0     2        93      3      0         9        9      0      0    5         7      1       0          242
+    3:15 PM        2         96     9       0     2        81     10      0         5        7      0      0    4         6      3       0          225
+    3:30 PM        4        115     8       0     0        73      5      0         4        8      2      0    7         6      1       0          233
+    3:45 PM        3       120      8       0     1        89      8      0         9       10      0      0    4         5      2       0          259             959
+    4:00 PM        4         95     8       0     1        84     11      0         8       16      3      0    4         7      0       0          241             958
+    4:15 PM        1        112     7       0     0        83      8      0        10        8      2      0    6        10      2       0          249             982
+    4:30 PM        2        112     7       0     1        83      7      0        17       14      1      0    4         4      1       0          253            1002
+    4:45 PM        2         98    10       0     0        93      4      0         8       10      1      0    0         8      1       0          235             978
+
+
+
+
+ Peak 15-Min                  Northbound                     Southbound                        Eastbound                    Westbound
+   Flowrates      Left    Thru Right     U       Left    Thru Right    U          Left     Thru Right    U     Left     Thru Right    U                    Total
+  All Vehicles     12     480     32     0        4      356     32     0          36       40      0    0      16       20     8     0                    1036
+ Heavy Trucks       0       8      0              0        4      0                 0        0      0            0        0     0                           12
+  Pedestrians               0                             12                                 8                            8                                 28
+    Bicycles       0        0      0              0        1      0                0         0      0           0         0     0                            1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/9/2013 4:18 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

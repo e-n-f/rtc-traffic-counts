@@ -1,0 +1,414 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Vermont Ave NW-4 -- Logan Cir NW                                                                                     QC JOB #: 10863413
+ CITY/STATE: Washington, DC                                                                                                     DATE: Thu, Mar 07 2013
+                          0          15                            Peak-Hour: 8:15 AM -- 9:15 AM                                 0.0        0.0
+
+                          0    0     0
+                                                                  Peak 15-Min: 9:00 AM -- 9:15 AM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       1244   0                             15   1259
+                                                                                                                    5.9   0.0                      0.0       5.9
+              0               0.97        1244
+                                                                                                                          0.0                      5.9
+       0      0                              0      0
+                                                                                                                    0.0   0.0                      0.0       0.0
+
+                          0    0     0
+                                                                                                                                 0.0 0.0 0.0
+
+                          0          0
+                                                                                                                                 0.0        0.0
+
+
+
+                               21                                                                                                 0    0    0
+
+
+
+                                                                                                                          0                          0
+
+              0                              0                                                                            0                         65
+
+                                                                                                                          0                          0
+
+                               0                                                                                                  0    0    0
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+
+              NA                           NA                                                                             NA                       NA
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+ 15-Min Count          Vermont Ave NW-4                     Vermont Ave NW-4             Logan Cir NW               Logan Cir NW                  Total       Hourly
+    Period               (Northbound)                         (Southbound)                (Eastbound)               (Westbound)                               Totals
+ Beginning At      Left Thru Right      U               Left Thru Right      U    Left    Thru Right    U    Left    Thru Right        U
+    6:30 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      151      0        0          151
+    6:45 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      207      0        0          207
+    7:00 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      234      3        0          237
+    7:15 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      233      3        0          236              831
+    7:30 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      266      1        0          267              947
+    7:45 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      279      3        0          282             1022
+    8:00 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      279      6        0          285             1070
+    8:15 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      299      6        0          305             1139
+    8:30 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      316      3        0          319             1191
+    8:45 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      309      2        0          311             1220
+    9:00 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      320      4        0          324             1259
+    9:15 AM         0      0      0     0                0       0     0     0     0        0      0    0     0      299      1        0          300             1254
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound                Eastbound                Westbound
+   Flowrates       Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U     Left Thru Right    U                         Total
+  All Vehicles      0           0      0     0           0       0      0     0    0       0      0    0      0 1280     16     0                         1296
+ Heavy Trucks       0           0      0                 0       0      0          0       0      0           0    72     0                                72
+  Pedestrians                   0                                8                         0                        0                                       8
+    Bicycles        0           0      0                 0       0      0          0       0      0           0    10     0                                10
+   Railroad
+Stopped Buses
+ Comments: 2157d
+Report generated on 6/4/2013 2:55 PM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Vermont Ave NW-4 -- Logan Cir NW                                                                                  QC JOB #: 10863414
+ CITY/STATE: Washington, DC                                                                                                  DATE: Thu, Mar 07 2013
+                         0          13                         Peak-Hour: 12:00 PM -- 1:00 PM                                 0.0        0.0
+
+                         0    0     0
+                                                              Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       642   0                            13   655
+                                                                                                                 4.8   0.0                      0.0       4.7
+             0               0.97        642
+                                                                                                                       0.0                      4.8
+       0     0                             0     0
+                                                                                                                 0.0   0.0                      0.0       0.0
+
+                         0    0     0
+                                                                                                                              0.0 0.0 0.0
+
+                         0          0
+                                                                                                                              0.0        0.0
+
+
+
+                              15                                                                                               0    0    0
+
+
+
+                                                                                                                       0                          1
+
+             0                             0                                                                           0                         13
+
+                                                                                                                       0                          0
+
+                              0                                                                                                0    0    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count         Vermont Ave NW-4                   Vermont Ave NW-4             Logan Cir NW               Logan Cir NW                  Total       Hourly
+    Period              (Northbound)                       (Southbound)                (Eastbound)               (Westbound)                               Totals
+ Beginning At     Left Thru Right      U             Left Thru Right      U    Left    Thru Right    U    Left    Thru Right        U
+   11:00 AM        0      0      0     0              0       0     0     0     0        0      0    0     0      143      2        0          145
+   11:15 AM        0      0      0     0              0       0     0     0     0        0      0    0     0      143      8        0          151
+   11:30 AM        0      0      0     0              0       0     0     0     0        0      0    0     0      148      1        0          149
+   11:45 AM        0      0      0     0              0       0     0     0     0        0      0    0     0      160      0        0          160              605
+   12:00 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      165      3        0          168              628
+   12:15 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      149      3        0          152              629
+   12:30 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      163      3        0          166              646
+   12:45 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      165      4        0          169              655
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     0           0      0     0         0       0      0     0    0       0      0    0      0      660    16     0                      676
+ Heavy Trucks      0           0      0               0       0      0          0       0      0           0       36     0                             36
+  Pedestrians                  0                             12                         0                           0                                   12
+    Bicycles       0           0      0               0       0      0          0       0      0           0        1     0                              1
+   Railroad
+Stopped Buses
+ Comments: 2157d
+Report generated on 6/4/2013 2:55 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Vermont Ave NW-4 -- Logan Cir NW                                                                                     QC JOB #: 10863415
+ CITY/STATE: Washington, DC                                                                                                     DATE: Thu, Mar 07 2013
+                          0          51                            Peak-Hour: 5:15 PM -- 6:15 PM                                 0.0        2.0
+
+                          0    0     0
+                                                                  Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                 0.0 0.0 0.0
+
+
+       1133   0                             51   1184
+                                                                                                                    1.3   0.0                      2.0       1.4
+              0               0.92        1133
+                                                                                                                          0.0                      1.3
+       0      0                              0      0
+                                                                                                                    0.0   0.0                      0.0       0.0
+
+                          0    0     0
+                                                                                                                                 0.0 0.0 0.0
+
+                          0          0
+                                                                                                                                 0.0        0.0
+
+
+
+                               52                                                                                                 2    0    0
+
+
+
+                                                                                                                          1                         12
+
+              0                              1                                                                            0                         19
+
+                                                                                                                          0                          0
+
+                               3                                                                                                  0    0    0
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+
+              NA                           NA                                                                             NA                       NA
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+ 15-Min Count          Vermont Ave NW-4                     Vermont Ave NW-4             Logan Cir NW               Logan Cir NW                  Total       Hourly
+    Period               (Northbound)                         (Southbound)                (Eastbound)               (Westbound)                               Totals
+ Beginning At      Left Thru Right      U               Left Thru Right      U    Left    Thru Right    U    Left    Thru Right        U
+    3:30 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      197      6        0          203
+    3:45 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      171    10         0          181
+    4:00 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      205      3        0          208
+    4:15 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      220    10         0          230              822
+    4:30 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      225      6        0          231              850
+    4:45 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      239    13         0          252              921
+    5:00 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      236      9        0          245              958
+    5:15 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      289      7        0          296             1024
+    5:30 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      308    13         0          321             1114
+    5:45 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      276    17         0          293             1155
+    6:00 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      260    14         0          274             1184
+    6:15 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      261    15         0          276             1164
+    6:30 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      248    10         0          258             1101
+    6:45 PM         0      0      0     0                0       0     0     0     0        0      0    0     0      212    11         0          223             1031
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound                Eastbound                Westbound
+   Flowrates       Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U     Left Thru Right    U                         Total
+  All Vehicles      0           0      0     0           0       0      0     0    0       0      0    0      0 1232     52     0                         1284
+ Heavy Trucks       0           0      0                 0       0      0          0       0      0           0    16     0                                16
+  Pedestrians                   4                               32                         0                        0                                      36
+    Bicycles        0           0      0                 0       0      1          0       0      0           0     8     3                                12
+   Railroad
+Stopped Buses
+ Comments: 2157d
+Report generated on 6/4/2013 2:55 PM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Vermont Ave NW-4 -- Logan Cir NW                                                                                  QC JOB #: 10863433
+ CITY/STATE: Washington, DC                                                                                                  DATE: Thu, Mar 07 2013
+                         0          26                          Peak-Hour: 7:00 PM -- 8:00 PM                                 0.0        0.0
+
+                         0    0     0
+                                                               Peak 15-Min: 7:00 PM -- 7:15 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       620   0                            26   646
+                                                                                                                 0.8   0.0                      0.0       0.8
+             0               0.85        620
+                                                                                                                       0.0                      0.8
+       0     0                             0     0
+                                                                                                                 0.0   0.0                      0.0       0.0
+
+                         0    0     0
+                                                                                                                              0.0 0.0 0.0
+
+                         0          0
+                                                                                                                              0.0        0.0
+
+
+
+                              44                                                                                               0    0    0
+
+
+
+                                                                                                                       0                          3
+
+             0                             0                                                                           0                         13
+
+                                                                                                                       0                          0
+
+                              0                                                                                                0    0    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count         Vermont Ave NW-4                   Vermont Ave NW-4             Logan Cir NW               Logan Cir NW                  Total       Hourly
+    Period              (Northbound)                       (Southbound)                (Eastbound)               (Westbound)                               Totals
+ Beginning At     Left Thru Right      U             Left Thru Right      U    Left    Thru Right    U    Left    Thru Right        U
+    7:00 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      185      6        0          191
+    7:15 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      165      7        0          172
+    7:30 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      143      6        0          149
+    7:45 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      127      7        0          134              646
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     0           0      0     0         0       0      0     0    0       0      0    0      0      740    24     0                      764
+ Heavy Trucks      0           0      0               0       0      0          0       0      0           0        0     0                              0
+  Pedestrians                  0                             36                         0                           0                                   36
+    Bicycles       0           0      0               0       0      0          0       0      0           0        3     2                              5
+   Railroad
+Stopped Buses
+ Comments: 2157d
+Report generated on 6/4/2013 2:55 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Vermont Ave NW-4 -- Logan Cir NW                                                                                  QC JOB #: 10863428
+ CITY/STATE: Washington, DC                                                                                                  DATE: Sat, Mar 09 2013
+                         0          27                          Peak-Hour: 2:30 PM -- 3:30 PM                                 0.0        3.7
+
+                         0    0     0
+                                                               Peak 15-Min: 2:30 PM -- 2:45 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       815   0                            27   842
+                                                                                                                 1.6   0.0                      3.7       1.7
+             0               0.94        815
+                                                                                                                       0.0                      1.6
+       0     0                             0     0
+                                                                                                                 0.0   0.0                      0.0       0.0
+
+                         0    0     0
+                                                                                                                              0.0 0.0 0.0
+
+                         0          0
+                                                                                                                              0.0        0.0
+
+
+
+                              70                                                                                               5    0    0
+
+
+
+                                                                                                                       1                          4
+
+             0                             1                                                                           0                         31
+
+                                                                                                                       0                          0
+
+                              0                                                                                                0    0    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count         Vermont Ave NW-4                   Vermont Ave NW-4             Logan Cir NW               Logan Cir NW                  Total       Hourly
+    Period              (Northbound)                       (Southbound)                (Eastbound)               (Westbound)                               Totals
+ Beginning At     Left Thru Right      U             Left Thru Right      U    Left    Thru Right    U    Left    Thru Right        U
+    1:00 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      192      4        0          196
+    1:15 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      190      3        0          193
+    1:30 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      180    10         0          190
+    1:45 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      179      9        0          188              767
+    2:00 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      200      6        0          206              777
+    2:15 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      186      2        0          188              772
+    2:30 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      217      7        0          224              806
+    2:45 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      208      7        0          215              833
+    3:00 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      204      7        0          211              838
+    3:15 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      186      6        0          192              842
+    3:30 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      196      5        0          201              819
+    3:45 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      179      5        0          184              788
+    4:00 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      184      9        0          193              770
+    4:15 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      194    11         0          205              783
+    4:30 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      167      1        0          168              750
+    4:45 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      166      6        0          172              738
+    5:00 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      176      7        0          183              728
+    5:15 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      171      3        0          174              697
+    5:30 PM        0      0      0     0              0       0     1     0     0        0      0    0     0      184      6        0          191              720
+    5:45 PM        0      0      0     0              0       0     0     0     0        0      0    0     0      177      5        0          182              730
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles     0           0      0     0         0       0      0     0    0       0      0    0      0      868    28     0                      896
+ Heavy Trucks      0           0      0               0       0      0          0       0      0           0       12     0                             12
+  Pedestrians                  0                             24                         0                           0                                   24
+    Bicycles       0           0      0               0       0      1          1       0      0           0        8     2                             12
+   Railroad
+Stopped Buses
+ Comments: 2157a
+Report generated on 6/4/2013 2:55 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

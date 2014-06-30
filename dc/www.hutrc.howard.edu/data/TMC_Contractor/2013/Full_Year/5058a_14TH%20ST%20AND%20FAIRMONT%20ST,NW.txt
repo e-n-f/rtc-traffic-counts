@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Fairmont St NW (South)                                                                                        QC JOB #: 10694881
+ CITY/STATE: Washington, DC                                                                                                         DATE: Wed, Apr 24 2013
+                    851             403                            Peak-Hour: 8:00 AM -- 9:00 AM                                     5.3         9.9
+
+                         0   851     0
+                                                                  Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                     0.0 5.3 0.0
+
+
+       0     17                             0       0
+                                                                                                                       0.0   11.8                       0.0      0.0
+             0               0.92           0
+                                                                                                                             0.0                        0.0
+       35    18                             0       0
+                                                                                                                       8.6   5.6                        0.0      0.0
+
+                         0   386     0
+                                                                                                                                     0.0 9.8 0.0
+
+                    869             386
+                                                                                                                                     5.3         9.8
+
+
+
+                              6                                                                                                       0    211   0
+
+
+
+                                                                                                                             1                            0
+
+             174                          161                                                                                0                            0
+
+                                                                                                                             1                            0
+
+                              49                                                                                                      0    10    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                           NA                                                                                 NA                         NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count                   14th St                           14th St              Fairmont St NW (South)    Fairmont St NW (South)                Total      Hourly
+    Period                   (Northbound)                      (Southbound)                 (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right        U       Left    Thru Right    U       Left Thru Right      U    Left Thru Right      U
+    7:00 AM        0           92       0       0        0      131       0   0        3      0      5     0     0      0      0     0                 231
+    7:15 AM        0           76       0       0        0      149       0   0        3      0      2     0     0      0      0     0                 230
+    7:30 AM        0           91       0       0        0      183       0   0        3      0      3     0     0      0      0     0                 280
+    7:45 AM        0          118       0       0        0      175       0   0        6      0      2     0     0      0      0     0                 301            1042
+    8:00 AM        0           98       0       0        0      196       0   0        5      0      6     0     0      0      0     0                 305            1116
+    8:15 AM        0           94       0       0        0      238       0   0        7      0      5     0     0      0      0     0                 344            1230
+    8:30 AM        0           99       0       0        0      187       0   0        1      0      4     0     0      0      0     0                 291            1241
+    8:45 AM        0           95       0       0        0      230       0   0        4      0      3     0     0      0      0     0                 332            1272
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U           Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     0         376      0     0            0     952      0     0        28      0    20     0     0        0     0     0                       1376
+ Heavy Trucks      0          32      0                  0      64      0               4      0      0          0        0     0                              100
+  Pedestrians                 44                                 8                           200                        172                                    424
+    Bicycles       0           0      0                  0      59      0              0       0      0          0        0     0                               59
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/20/2013 5:28 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Fairmont St NW (South)                                                                                       QC JOB #: 10694882
+ CITY/STATE: Washington, DC                                                                                                        DATE: Wed, Apr 24 2013
+                    387             439                           Peak-Hour: 12:00 PM -- 1:00 PM                                    10.3        9.1
+
+                         0   386     1
+                                                                 Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                                    0.0 10.4 0.0
+
+
+       0     10                             0       0
+                                                                                                                       0.0   0.0                       0.0       0.0
+             0               0.90           0
+                                                                                                                             0.0                       0.0
+       28    18                             0       0
+                                                                                                                       0.0   0.0                       0.0       0.0
+
+                         0   428     0
+                                                                                                                                    0.0 9.3 0.0
+
+                    404             428
+                                                                                                                                    9.9         9.3
+
+
+
+                              11                                                                                                     0     27   0
+
+
+
+                                                                                                                             1                           0
+
+             143                          109                                                                                0                           0
+
+                                                                                                                             0                           0
+
+                              44                                                                                                     1     8    0
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                           NA                                                                                 NA                        NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 15-Min Count                   14th St                           14th St              Fairmont St NW (South)    Fairmont St NW (South)               Total       Hourly
+    Period                   (Northbound)                      (Southbound)                 (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right        U       Left    Thru Right    U       Left Thru Right      U    Left Thru Right      U
+   11:00 AM        0          116       0       0        0      101       0   0        3      0      0     0     0      0      0     0                220
+   11:15 AM        0           90       0       0        0       98       0   0        4      0      2     0     0      0      0     0                194
+   11:30 AM        0           95       0       0        0       92       0   0        2      0      2     0     0      0      0     0                191
+   11:45 AM        0           98       0       0        0       96       0   0        1      0      5     0     0      0      0     0                200              805
+   12:00 PM        0           95       0       0        0       94       0   0        1      0      4     0     0      0      0     0                194              779
+   12:15 PM        0         100        0       0        0       95       0   0        1      0      6     0     0      0      0     0                202              787
+   12:30 PM        0         108        0       0        0       98       0   1        4      0      3     0     0      0      0     0                214              810
+   12:45 PM        0         125        0       0        0       99       0   0        4      0      5     0     0      0      0     0                233              843
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U           Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     0         500      0     0            0     396      0     0        16      0    20     0     0        0     0     0                       932
+ Heavy Trucks      0          52      0                  0      44      0               0      0      0          0        0     0                              96
+  Pedestrians                 20                                 8                            92                         88                                   208
+    Bicycles       0           3      0                  0       8      0              0       0      0          0        0     0                              11
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/20/2013 5:28 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Fairmont St NW (South)                                                                                       QC JOB #: 10694883
+ CITY/STATE: Washington, DC                                                                                                        DATE: Wed, Apr 24 2013
+                    487             689                            Peak-Hour: 5:30 PM -- 6:30 PM                                    4.7        3.2
+
+                         0   487     0
+                                                                  Peak 15-Min: 6:00 PM -- 6:15 PM
+                                                                                                                                    0.0 4.7 0.0
+
+
+       0     23                             0       0
+                                                                                                                       0.0   0.0                      0.0      0.0
+             0               0.93           0
+                                                                                                                             0.0                      0.0
+       44    21                             0       0
+                                                                                                                       0.0   0.0                      0.0      0.0
+
+                         2   666     0
+                                                                                                                                    0.0 3.3 0.0
+
+                    510             668
+                                                                                                                                    4.5        3.3
+
+
+
+                              6                                                                                                      2    32   0
+
+
+
+                                                                                                                             5                          0
+
+             251                          195                                                                                0                          0
+
+                                                                                                                             0                          0
+
+                              41                                                                                                     0    87   0
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+
+             NA                           NA                                                                                 NA                       NA
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+ 15-Min Count                   14th St                           14th St              Fairmont St NW (South)    Fairmont St NW (South)              Total      Hourly
+    Period                   (Northbound)                      (Southbound)                 (Eastbound)               (Westbound)                               Totals
+ Beginning At     Left        Thru Right        U       Left    Thru Right    U       Left Thru Right      U    Left Thru Right      U
+    4:30 PM        0         137        0       0        0      117       0   0        2      0      7     0     0      0      0     0               263
+    4:45 PM        0         130        0       0        0      122       0   0        7      0      1     0     0      0      0     0               260
+    5:00 PM        0         164        0       0        0      117       0   1        3      0      4     0     0      0      0     0               289
+    5:15 PM        0         149        0       0        0      121       0   0        2      0      6     0     0      0      0     0               278            1090
+    5:30 PM        0         145        0       2        0      116       0   0        5      0      5     0     0      0      0     0               273            1100
+    5:45 PM        0         164        0       0        0      121       0   0        7      0      5     0     0      0      0     0               297            1137
+    6:00 PM        0         185        0       0        0      126       0   0        5      0      6     0     0      0      0     0               322            1170
+    6:15 PM        0         172        0       0        0      124       0   0        6      0      5     0     0      0      0     0               307            1199
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U           Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         740      0     0            0     504      0     0        20      0    24     0     0        0     0     0                     1288
+ Heavy Trucks      0          24      0                  0      24      0               0      0      0          0        0     0                             48
+  Pedestrians                 48                                 4                           312                        216                                  580
+    Bicycles       0          21      0                  0       7      1              2       0      0          0        0     0                             31
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/20/2013 5:28 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: 14th St -- Fairmont St NW (South)                                                                                      QC JOB #: 10694884
+ CITY/STATE: Washington, DC                                                                                                       DATE: Sat, May 11 2013
+                    528             599                           Peak-Hour: 3:00 PM -- 4:00 PM                                    3.6        3.2
+
+                         0   528     0
+                                                                 Peak 15-Min: 3:30 PM -- 3:45 PM
+                                                                                                                                   0.0 3.6 0.0
+
+
+       0     16                            0       0
+                                                                                                                      0.0   0.0                      0.0       0.0
+             0               0.97          0
+                                                                                                                            0.0                      0.0
+       30    14                            0       0
+                                                                                                                      3.3   7.1                      0.0       0.0
+
+                         0   583     0
+                                                                                                                                   0.0 3.3 0.0
+
+                    542             583
+                                                                                                                                   3.7        3.3
+
+
+
+                              4                                                                                                     0    34   0
+
+
+
+                                                                                                                            5                          0
+
+             130                          88                                                                                0                          0
+
+                                                                                                                            0                          1
+
+                              35                                                                                                    0    7    0
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+
+             NA                           NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+ 15-Min Count                   14th St                          14th St              Fairmont St NW (South)    Fairmont St NW (South)              Total       Hourly
+    Period                   (Northbound)                     (Southbound)                 (Eastbound)               (Westbound)                                Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U       Left Thru Right      U    Left Thru Right      U
+    3:00 PM        0         143        0      0        0      129       0   0        5      0      6     0     0      0      0     0               283
+    3:15 PM        0         150        0      0        0      126       0   0        1      0      3     0     0      0      0     0               280
+    3:30 PM        0         162        0      0        0      127       0   0        3      0      1     0     0      0      0     0               293
+    3:45 PM        0         128        0      0        0      146       0   0        7      0      4     0     0      0      0     0               285             1141
+    4:00 PM        0         140        0      0        0      127       0   0        6      0      4     0     0      0      0     0               277             1135
+    4:15 PM        0         131        0      0        0      130       0   0        5      0      5     0     0      0      0     0               271             1126
+    4:30 PM        0         149        0      0        0      131       0   1        4      0      5     0     0      0      0     0               290             1123
+    4:45 PM        0          119       0      0        0      119       0   0        2      0      3     0     0      0      0     0               243             1081
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         648      0     0           0     508      0     0        12      0      4    0     0        0     0     0                      1172
+ Heavy Trucks      0          16      0                 0      16      0               0      0      0          0        0     0                             32
+  Pedestrians                 12                                8                           132                         52                                  204
+    Bicycles       0           0      0                 0      13      0              1       0      0          0        0     0                             14
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/20/2013 5:28 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

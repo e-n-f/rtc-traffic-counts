@@ -1,0 +1,80 @@
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: Georgia Ave -- Princeton Pl NW                                                                                          QC JOB #: 10695550
+ CITY/STATE: Washington, DC                                                                                                        DATE: Sat, Jun 01 2013
+                    546             719                         Peak-Hour: 3:30 PM -- 4:30 PM                                       4.2        2.9
+
+                         0   531 15
+                                                               Peak 15-Min: 4:15 PM -- 4:30 PM
+                                                                                                                                    0.0 4.3 0.0
+
+
+       0     34                            14   37
+                                                                                                                       0.0   8.8                      0.0      0.0
+             23              0.96           0
+                                                                                                                             0.0                      0.0
+       137   80                            23   54
+                                                                                                                       2.2   0.0                      0.0      0.0
+
+                         1   670 17
+                                                                                                                                    0.0 2.7 0.0
+
+                    635             688
+                                                                                                                                    3.6        2.6
+
+
+
+                              25                                                                                                     0    13   0
+
+
+
+                                                                                                                             1                          0
+
+             122                          104                                                                                1                          2
+
+                                                                                                                             0                          0
+
+                              22                                                                                                     0    7    1
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+
+             NA                           NA                                                                                 NA                       NA
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+ 15-Min Count                 Georgia Ave                    Georgia Ave                  Princeton Pl NW              Princeton Pl NW               Total      Hourly
+    Period                   (Northbound)                   (Southbound)                    (Eastbound)                 (Westbound)                             Totals
+ Beginning At     Left        Thru Right        U    Left    Thru Right    U       Left     Thru Right      U   Left     Thru Right       U
+    3:00 PM        0         161       1        0     3      135      0    0         8        3     18      0     1        0      3       0          333
+    3:15 PM        0         180       2        0     4      115      0    0         6        0     17      0     6        0      6       0          336
+    3:30 PM        0         159       4        0     2      141      0    0         7        7     35      0     4        0      1       0          360
+    3:45 PM        0         172       5        0     4      123      0    0         8        5     21      0    13        0      3       0          354            1383
+    4:00 PM        0         170       3        1     6      117      0    1         6        5      9      0     2        0      6       0          326            1376
+    4:15 PM        0         169       5        0     2      150      0    0        13        6     15      0     4        0      4       0          368            1408
+    4:30 PM        0         151       7        1     2      152      0    0         9        4     19      0     1        0      5       1          352            1400
+    4:45 PM        0         162       6        0     4      109      0    0         9        5     14      0     2        0      1       0          312            1358
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                     Eastbound                    Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left    Thru Right    U      Left    Thru Right    U                     Total
+  All Vehicles     0         676     20     0         8     600      0     0        52      24    60     0       16       0    16     0                     1472
+ Heavy Trucks      0          12      0               0      20      0               0       0      0             0       0     0                             32
+  Pedestrians                 24                             20                            144                          104                                  292
+    Bicycles       0           1      0               0       4      0              1        0      0            0        0     0                              6
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 6:05 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

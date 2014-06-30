@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                        Method for determining peak hour: Total Entering Volume
+ LOCATION: New Jersey Ave -- N St NW                                                                                     QC JOB #: 10863078
+ CITY/STATE: Washington, DC                                                                                              DATE: Thu, Jan 31 2013
+                    604          730                         Peak-Hour: 7:45 AM -- 8:45 AM                                4.6        3.4
+
+                       15 530 59
+                                                            Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                          26.7 3.6 8.5
+
+
+       75    17                        38    83
+                                                                                                             8.0   0.0                      5.3       3.6
+             47           0.94         34
+                                                                                                                   0.0                      0.0
+       82    18                        11   106
+                                                                                                             1.2   5.6                      9.1       4.7
+
+                       26 675     0
+                                                                                                                          7.7 3.4 0.0
+
+                    559          701
+                                                                                                                          3.8        3.6
+
+
+
+                           71                                                                                              2    3    0
+
+
+
+                                                                                                                   0                          0
+
+             25                        33                                                                          2                          4
+
+                                                                                                                   0                          0
+
+                           28                                                                                              0    0    0
+
+
+
+
+                          NA                                                                                                    NA
+
+
+
+
+             NA                        NA                                                                          NA                       NA
+
+
+
+
+                          NA                                                                                                    NA
+
+
+
+ 15-Min Count         New Jersey Ave                  New Jersey Ave                 N St NW                    N St NW                    Total       Hourly
+    Period             (Northbound)                    (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right           U     Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM         7  118      0           0       7   104     2      0     3       5      4    1     2        7      8        0          268
+    7:15 AM         5  158      0           0       9   113     1      0     7      10      5    0     4        4     11        0          327
+    7:30 AM         7  169      1           0       4   134     3      0     2      10      3    0     0        5      7        0          345
+    7:45 AM         6  185      0           0      15   135     3      0     5      15      5    0     1        8     14        0          392             1332
+    8:00 AM         6  174      0           0      18   133     3      0     0      12      5    0     4       10      9        0          374             1438
+    8:15 AM        11  155      0           0       6   130     3      0     7       8      6    0     2        7      6        0          341             1452
+    8:30 AM         3  161      0           0      20   132     6      0     5      12      2    0     4        9      9        0          363             1470
+    8:45 AM         7  146      2           0      12   128    14      0     3       7      4    0     1        7      7        0          338             1416
+
+
+
+
+ Peak 15-Min                  Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     24     740      0     0         60    540     12     0    20     60    20     0     4       32    56     0                      1568
+ Heavy Trucks       0      24      0                4     24      4           0      0      0          0        0     4                              60
+  Pedestrians              32                             48                        16                         36                                   132
+    Bicycles       0        0      0               0       1      1          0       1      0          0        0     0                               3
+   Railroad
+Stopped Buses
+ Comments: 3253
+Report generated on 4/1/2013 5:28 AM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: New Jersey Ave -- N St NW                                                                                        QC JOB #: 10863080
+ CITY/STATE: Washington, DC                                                                                                 DATE: Thu, Jan 31 2013
+                    434             511                       Peak-Hour: 12:00 PM -- 1:00 PM                                 4.4        3.3
+
+                         8   393 33
+                                                             Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                             0.0 4.3 6.1
+
+
+       47    11                           26   53
+                                                                                                               4.3   0.0                       7.7       5.7
+             22              0.93         17
+                                                                                                                     0.0                       0.0
+       49    16                           10   55
+                                                                                                               4.1   12.5                     10.0       3.6
+
+                       22 474        0
+                                                                                                                             9.1 3.2 0.0
+
+                    419             496
+                                                                                                                             4.8        3.4
+
+
+
+                              14                                                                                              0    1    1
+
+
+
+                                                                                                                     0                           0
+
+             6                            11                                                                         2                           1
+
+                                                                                                                     0                           0
+
+                              12                                                                                              1    1    0
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+
+             NA                           NA                                                                         NA                        NA
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+ 15-Min Count         New Jersey Ave                    New Jersey Ave                 N St NW                    N St NW                     Total       Hourly
+    Period             (Northbound)                      (Southbound)                (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left Thru Right              U    Left Thru Right      U    Left   Thru Right    U    Left    Thru Right         U
+   11:00 AM        8   120      0              0      7    90     6      0     3       6      5    0     3        5      6         0          259
+   11:15 AM        4   109      1              0      6    85     3      0     1       8      4    0     4        2      9         0          236
+   11:30 AM        2   118      0              1      5    89     4      0     4       3      3    0     4        4      5         0          242
+   11:45 AM        9   110      0              1      8    92     2      0     2       6      5    0     3        5      4         0          247              984
+   12:00 PM        4   103      0              0     12    88     2      0     2       6      2    0     1        5      8         0          233              958
+   12:15 PM        6   119      0              0     10    89     1      0     2       8      4    0     2        6      5         0          252              974
+   12:30 PM        8   121      0              0      4   105     2      0     4       4      6    0     4        5      6         0          269             1001
+   12:45 PM        4   131      0              0      7   111     3      0     3       4      4    0     3        1      7         0          278             1032
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     16        524      0     0        28    444     12     0    12     16    16     0     12       4    28     0                       1112
+ Heavy Trucks       0         24      0               4     20      0           0      0      0           4       0     4                              56
+  Pedestrians                 24                             8                         0                         16                                    48
+    Bicycles       0           0      0              1       0      0          0       1      0          0        0     0                               2
+   Railroad
+Stopped Buses
+ Comments: 3253
+Report generated on 4/1/2013 5:28 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                        Method for determining peak hour: Total Entering Volume
+ LOCATION: New Jersey Ave -- N St NW                                                                                     QC JOB #: 10863079
+ CITY/STATE: Washington, DC                                                                                              DATE: Wed, Jan 30 2013
+                    587          674                         Peak-Hour: 5:00 PM -- 6:00 PM                                2.0        2.1
+
+                       20 515 52
+                                                            Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                          0.0 2.3 0.0
+
+
+       61    27                        23    49
+                                                                                                             1.6   0.0                      0.0       0.0
+             54           0.98         18
+                                                                                                                   1.9                      0.0
+       99    18                         8   106
+                                                                                                             1.0   0.0                      0.0       0.9
+
+                       22 625     0
+                                                                                                                          4.5 2.2 0.0
+
+                    541          647
+                                                                                                                          2.2        2.3
+
+
+
+                           13                                                                                              2    3    0
+
+
+
+                                                                                                                   2                          1
+
+             20                        25                                                                          5                          2
+
+                                                                                                                   0                          0
+
+                           11                                                                                              0    1    0
+
+
+
+
+                          NA                                                                                                    NA
+
+
+
+
+             NA                        NA                                                                          NA                       NA
+
+
+
+
+                          NA                                                                                                    NA
+
+
+
+ 15-Min Count         New Jersey Ave                  New Jersey Ave                 N St NW                    N St NW                    Total       Hourly
+    Period             (Northbound)                    (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right           U     Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        4   159      0           0      20   120    13      0      8     10      1    0     2        8      8        0          353
+    4:45 PM        3   157      0           0      17   123     3      0      3     18      3    0     4        3      2        0          336
+    5:00 PM        6   147      0           0       8   123     6      0      7     11      9    1     1        7      5        0          331
+    5:15 PM        8   163      0           0      11   128     6      0      3     13      6    0     4        3      9        0          354             1374
+    5:30 PM        1   155      0           0      17   133     6      0     11     12      2    0     2        6      3        0          348             1369
+    5:45 PM        7   160      0           0      16   131     2      0      5     18      1    0     1        2      6        0          349             1382
+    6:00 PM        7   153      0           0       9   110     5      0      6     13      4    0     1        3      6        0          317             1368
+    6:15 PM        7   141      0           0       9   123     6      0      3     15      8    0     6        1      5        0          324             1338
+
+
+
+
+ Peak 15-Min                  Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     32     652      0     0         44    512     24     0    12     52    24     0     16      12    36     0                      1416
+ Heavy Trucks       0      16      0                0      4      0           0      0      0           0       0     0                             20
+  Pedestrians              12                             12                        32                         36                                   92
+    Bicycles       0        0      0               0       3      2          1       2      0          0        0     0                              8
+   Railroad
+Stopped Buses
+ Comments: 3253
+Report generated on 4/1/2013 5:28 AM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                       Method for determining peak hour: Total Entering Volume
+ LOCATION: New Jersey Ave -- N St NW                                                                                    QC JOB #: 10863081
+ CITY/STATE: Washington, DC                                                                                             DATE: Sat, Feb 23 2013
+                    479          499                        Peak-Hour: 3:30 PM -- 4:30 PM                                1.5        1.4
+
+                       51 389 39
+                                                           Peak 15-Min: 4:15 PM -- 4:30 PM
+                                                                                                                         2.0 1.5 0.0
+
+
+       103   8                         23   62
+                                                                                                            1.9   0.0                      0.0       0.0
+             46           0.97         29
+                                                                                                                  2.2                      0.0
+       68    14                        10   98
+                                                                                                            1.5   0.0                      0.0       1.0
+
+                       23 468 13
+                                                                                                                         4.3 1.5 0.0
+
+                    413          504
+                                                                                                                         1.5        1.6
+
+
+
+                           16                                                                                             2    3    1
+
+
+
+                                                                                                                  2                          0
+
+             10                         7                                                                         2                          0
+
+                                                                                                                  0                          0
+
+                           13                                                                                             0    1    0
+
+
+
+
+                          NA                                                                                                   NA
+
+
+
+
+             NA                        NA                                                                         NA                       NA
+
+
+
+
+                          NA                                                                                                   NA
+
+
+
+ 15-Min Count         New Jersey Ave                 New Jersey Ave                 N St NW                    N St NW                    Total       Hourly
+    Period             (Northbound)                   (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right           U    Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM         6   93      8           0      6    94     4      0     2      16      6    0     8        7      3        0          253
+    3:15 PM         8  121      4           0     11   100     9      0     6       8      6    0     3        6      2        0          284
+    3:30 PM         2  128      1           0      8    93    15      0     2      14      4    0     3       10      1        0          281
+    3:45 PM         4  111      2           0      8   110     9      0     2       6      4    0     5        8      8        0          277             1095
+    4:00 PM         7  111      4           0      9    91    16      0     1       9      3    0     0        8      8        0          267             1109
+    4:15 PM        10  118      6           0     14    95    11      0     3      17      3    0     2        3      6        0          288             1113
+    4:30 PM         7  111      9           0      9    82     2      0     5       9      5    0     1        6      5        0          251             1083
+    4:45 PM         9   83      4           0      3    79     7      0     2       7      4    0     3        6      6        0          213             1019
+
+
+
+
+ Peak 15-Min                  Northbound                    Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U       Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     40     472     24     0        56    380     44     0    12     68    12     0     8       12    24     0                      1152
+ Heavy Trucks       0       0      0               0      4      0           0      0      0          0        0     0                              4
+  Pedestrians              24                            12                         0                         12                                   48
+    Bicycles       0        1      0              0       0      0          1       2      0          0        0     0                              4
+   Railroad
+Stopped Buses
+ Comments: 3253
+Report generated on 4/1/2013 5:28 AM                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

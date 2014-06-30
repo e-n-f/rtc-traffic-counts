@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Q St NW                                                                                          QC JOB #: 10707163
+ CITY/STATE: Washington, DC                                                                                                  DATE: Thu, Apr 12 2012
+                    660          595                           Peak-Hour: 8:00 AM -- 9:00 AM                                  6.1        7.6
+
+                      7   652     1
+                                                              Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                              0.0 6.1 0.0
+
+
+       109   96                         1       2
+                                                                                                               18.3   1.0                        0.0       0.0
+             0            0.92          0
+                                                                                                                      0.0                        0.0
+       363   267                        1       2
+                                                                                                               9.1    12.0                       0.0       0.0
+
+                    102 498       1
+                                                                                                                              19.6 8.8 0.0
+
+                    920          601
+                                                                                                                              7.8        10.6
+
+
+
+                           30                                                                                                  0    6     0
+
+
+
+                                                                                                                      0                            0
+
+             69                        81                                                                             0                            0
+
+                                                                                                                      2                            0
+
+                           1                                                                                                   3    2     0
+
+
+
+
+                          NA                                                                                                        NA
+
+
+
+
+             NA                        NA                                                                             NA                         NA
+
+
+
+
+                          NA                                                                                                        NA
+
+
+
+ 15-Min Count          Wisconsin Ave                     Wisconsin Ave                 Q St NW                    Q St NW                       Total       Hourly
+    Period             (Northbound)                      (Southbound)                (Eastbound)                (Westbound)                                 Totals
+ Beginning At     Left Thru Right           U       Left Thru Right      U    Left   Thru Right    U    Left    Thru Right          U
+    7:00 AM        11   99      0           0        1     95     1      0     23      0     13    0     0        0      1          0           244
+    7:15 AM        18  136      1           0        0    110     0      0     23      1     24    0     0        0      0          0           313
+    7:30 AM        26  138      0           0        0    125     5      0     38      0     29    0     0        0      0          0           361
+    7:45 AM        23  133      2           0        0    153     1      0     28      0     46    0     0        0      1          0           387             1305
+    8:00 AM        21  138      1           0        1    160     1      0     26      0     57    0     1        0      0          0           406             1467
+    8:15 AM        31  129      0           0        0    174     2      0     26      0     81    0     0        0      1          0           444             1598
+    8:30 AM        24  106      0           0        0    157     1      0     25      0     71    0     0        0      0          0           384             1621
+    8:45 AM        26  125      0           0        0    161     3      0     19      0     58    0     0        0      0          0           392             1626
+
+
+
+
+ Peak 15-Min                  Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates   Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                         Total
+  All Vehicles 124        516      0     0           0     696      8     0   104      0   324     0     0        0     4     0                         1776
+ Heavy Trucks   32         52      0                 0      44      0           4      0    24           0        0     0                                156
+  Pedestrians               0                               28                        64                         64                                      156
+    Bicycles     2          0      0                 0       2      0           0      0      1          0        0     0                                 5
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:53 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Q St NW                                                                                           QC JOB #: 10707164
+ CITY/STATE: Washington, DC                                                                                                   DATE: Thu, Apr 12 2012
+                    484          461                          Peak-Hour: 11:00 AM -- 12:00 PM                                  10.3        11.3
+
+                       13 468     3
+                                                             Peak 15-Min: 11:00 AM -- 11:15 AM
+                                                                                                                               7.7 10.5 0.0
+
+
+       121   39                          6       8
+                                                                                                                11.6   0.0                         0.0       0.0
+             1            1.00           1
+                                                                                                                       0.0                         0.0
+       149   109                         1       7
+                                                                                                                7.4    10.1                        0.0       0.0
+
+                    107 415       4
+                                                                                                                               12.1 12.5 0.0
+
+                    578          526
+                                                                                                                               10.4        12.4
+
+
+
+                           41                                                                                                   0     4     0
+
+
+
+                                                                                                                       0                             0
+
+             65                        136                                                                             0                             0
+
+                                                                                                                       2                             0
+
+                           0                                                                                                    2     2     0
+
+
+
+
+                          NA                                                                                                          NA
+
+
+
+
+             NA                        NA                                                                              NA                          NA
+
+
+
+
+                          NA                                                                                                          NA
+
+
+
+ 15-Min Count          Wisconsin Ave                      Wisconsin Ave                 Q St NW                    Q St NW                        Total       Hourly
+    Period             (Northbound)                       (Southbound)                (Eastbound)                (Westbound)                                  Totals
+ Beginning At     Left Thru Right            U       Left Thru Right      U    Left   Thru Right    U    Left    Thru Right           U
+   11:00 AM        22  108      1            0        1    116     6      0     10      0     27    0     1        1      0           0           293
+   11:15 AM        38   97      2            0        1    117     2      0     12      1     21    0     0        0      2           0           293
+   11:30 AM        20  105      1            0        0    121     3      0      9      0     28    0     0        0      3           0           290
+   11:45 AM        27  105      0            0        0    114     2      1      8      0     33    0     0        0      1           0           291             1167
+   12:00 PM        25  102      1            0        2     99     8      0      5      0     33    0     0        0      0           0           275             1149
+   12:15 PM        27   88      0            0        1    114     5      0      5      0     30    0     0        0      4           0           274             1130
+   12:30 PM        28   94      3            0        0    111     1      1     13      0     34    0     1        1      1           0           288             1128
+   12:45 PM        19  106      1            0        1    104     4      0     12      0     22    0     0        0      0           0           269             1106
+
+
+
+
+ Peak 15-Min                  Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                          Total
+  All Vehicles     88     432      4     0            4     464     24     0    40      0   108     0     4        4     0     0                          1172
+ Heavy Trucks       0      40      0                  0      40      0           0      0      8          0        0     0                                  88
+  Pedestrians               0                                36                        28                         84                                       148
+    Bicycles       1        1      0                  0       0      0          0       0      1          0        0     0                                   3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:53 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Q St NW                                                                                         QC JOB #: 10707165
+ CITY/STATE: Washington, DC                                                                                                 DATE: Thu, Apr 12 2012
+                    619          546                            Peak-Hour: 5:15 PM -- 6:15 PM                                4.0        4.4
+
+                    12 606        1
+                                                               Peak 15-Min: 6:00 PM -- 6:15 PM
+                                                                                                                             0.0 4.1 0.0
+
+
+       167   47                          2       5
+                                                                                                                9.0   0.0                      0.0       0.0
+             2            0.94           1
+                                                                                                                      0.0                      0.0
+       232   183                         2       3
+                                                                                                                7.8   9.8                      0.0       0.0
+
+                    154 497       0
+                                                                                                                             9.7 4.8 0.0
+
+                    791          651
+                                                                                                                             5.4        6.0
+
+
+
+                           44                                                                                                 0    10   0
+
+
+
+                                                                                                                      0                          0
+
+             137                       182                                                                            0                          0
+
+                                                                                                                      6                          0
+
+                           2                                                                                                  1    6    0
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+
+             NA                        NA                                                                             NA                       NA
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+ 15-Min Count          Wisconsin Ave                      Wisconsin Ave                 Q St NW                    Q St NW                    Total       Hourly
+    Period             (Northbound)                       (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right            U       Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        32  120      1            0        0    128     6      0     13      0     48    0     1        0      0        0          349
+    4:45 PM        34  133      3            0        0    147     9      0     18      0     42    0     0        0      0        0          386
+    5:00 PM        33  116      2            0        0    128     3      0     11      0     50    0     0        1      3        0          347
+    5:15 PM        29  114      0            0        0    148     5      0      7      1     46    0     0        0      1        0          351             1433
+    5:30 PM        36  147      0            0        1    152     1      0     15      0     36    0     0        0      1        0          389             1473
+    5:45 PM        44  102      0            0        0    151     3      0     14      0     51    0     2        0      0        0          367             1454
+    6:00 PM        45  134      0            0        0    155     3      0     11      1     50    0     0        1      0        0          400             1507
+    6:15 PM        32  122      0            0        0    134     2      0     12      0     33    0     0        0      0        0          335             1491
+
+
+
+
+ Peak 15-Min                  Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates   Left       Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles 180        536      0     0            0     620     12     0    44      4   200     0     0        4     0     0                      1600
+ Heavy Trucks   12         32      0                  0      24      0           0      0    20           0        0     0                              88
+  Pedestrians               0                                32                        96                        208                                   336
+    Bicycles     0          2      0                  0       2      0          0       0      1          0        0     0                               5
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:53 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Wisconsin Ave -- Q St NW                                                                                         QC JOB #: 10707166
+ CITY/STATE: Washington, DC                                                                                                 DATE: Sat, Apr 14 2012
+                    483          433                           Peak-Hour: 12:00 PM -- 1:00 PM                                4.6        3.5
+
+                    18 463        2
+                                                              Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                             5.6 4.5 0.0
+
+
+       127   38                          1       1
+                                                                                                                5.5   0.0                      0.0       0.0
+             1            0.93           0
+                                                                                                                      0.0                      0.0
+       163   124                         0       6
+                                                                                                                3.7   4.8                      0.0       0.0
+
+                    109 394       3
+                                                                                                                             5.5 3.8 0.0
+
+                    587          506
+                                                                                                                             4.6        4.2
+
+
+
+                           70                                                                                                 0    11   0
+
+
+
+                                                                                                                      0                          0
+
+             196                       292                                                                            0                          2
+
+                                                                                                                      5                          0
+
+                           6                                                                                                  4    20   0
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+
+             NA                        NA                                                                             NA                       NA
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+ 15-Min Count          Wisconsin Ave                      Wisconsin Ave                 Q St NW                    Q St NW                    Total       Hourly
+    Period             (Northbound)                       (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left Thru Right            U       Left Thru Right      U    Left   Thru Right    U    Left    Thru Right        U
+   12:00 PM        24  101      1            0        0    103     6      0     15      0     30    0     0        0      0        0          280
+   12:15 PM        25   96      0            0        1    117     4      0      8      1     28    0     0        0      1        0          281
+   12:30 PM        29   93      0            0        0    116     4      0      8      0     32    0     0        0      0        0          282
+   12:45 PM        31  104      2            0        1    127     4      0      7      0     34    0     0        0      0        0          310             1153
+    1:00 PM        28   97      1            0        0    107     0      0      9      0     21    0     0        0      0        0          263             1136
+    1:15 PM        28   94      2            0        1    119    10      0     15      0     21    0     0        0      0        0          290             1145
+    1:30 PM        23   99      0            0        0    125     7      0      6      1     24    0     0        0      0        0          285             1148
+    1:45 PM        27   82      1            0        0    117     3      0      7      0     23    0     0        0      0        0          260             1098
+
+
+
+
+ Peak 15-Min                  Northbound                        Southbound                Eastbound                  Westbound
+   Flowrates   Left       Thru Right     U           Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles 124        416      8     0            4     508     16     0    28      0   136     0     0        0     0     0                      1240
+ Heavy Trucks    8         12      0                  0      20      0           0      0      8          0        0     0                              48
+  Pedestrians               0                                68                       164                        336                                   568
+    Bicycles     0          6      0                  0       3      0          0       0      0          0        2     0                              11
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 12/31/2012 2:53 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

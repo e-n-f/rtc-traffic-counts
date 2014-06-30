@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: 1st St NW -- E St NW                                                                                           QC JOB #: 10862443
+ CITY/STATE: Washington, DC                                                                                               DATE: Wed, Jan 16 2013
+                    285          216                          Peak-Hour: 8:00 AM -- 9:00 AM                                7.0        3.7
+
+                    143 135       7
+                                                             Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                           8.4 5.9 0.0
+
+
+       535   64                         11   457
+                                                                                                              7.9   4.7                      9.1       7.2
+             387          0.91         375
+                                                                                                                    6.5                      7.5
+       490   39                         71   418
+                                                                                                              5.7   0.0                      5.6       6.2
+
+                       16 142 24
+                                                                                                                           12.5 2.8 4.2
+
+                    245          182
+                                                                                                                           4.9        3.8
+
+
+
+                          451                                                                                               7    5    0
+
+
+
+                                                                                                                    1                          2
+
+             24                         53                                                                          5                         34
+
+                                                                                                                    0                          0
+
+                          121                                                                                               0    2    0
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+
+             NA                        NA                                                                           NA                       NA
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+ 15-Min Count               1st St NW                       1st St NW                 E St NW                    E St NW                    Total       Hourly
+    Period                (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left     Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM        3        15       3       0      0       15      13   0     8     69      7    0     22      50      2        0          207
+    7:15 AM        4        27       6       0      0       20       9   0    16     61     16    1     20      63      3        0          246
+    7:30 AM        3        34      11       0      3       26      23   0     8     67      7    0     15      79      3        0          279
+    7:45 AM        6        17      12       0      1       35      32   0    16     77     12    0      9      88      1        0          306             1038
+    8:00 AM        4        30       6       0      0       38      25   0    17     75     10    0     29      88      1        0          323             1154
+    8:15 AM        4        28       2       0      4       26      36   0    15    107      9    1     15      99      0        0          346             1254
+    8:30 AM        3        38       6       0      1       31      40   0    16     99     12    0     15      92      3        0          356             1331
+    8:45 AM        5        46      10       0      2       40      42   0    15    106      8    0     12      96      7        0          389             1414
+
+
+
+
+ Peak 15-Min                  Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     20     184     40     0          8     160    168     0    60    424    32     0     48     384    28     0                      1556
+ Heavy Trucks       4       4      4                0       4     12           4     32      0           4      12     0                              80
+  Pedestrians             132                             368                        20                         72                                   592
+    Bicycles       0        0      0                0       1      1          0       2      0          0       11     1                              16
+   Railroad
+Stopped Buses
+ Comments: 2004
+Report generated on 3/27/2013 1:00 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: 1st St NW -- E St NW                                                                                             QC JOB #: 10862445
+ CITY/STATE: Washington, DC                                                                                                 DATE: Wed, Jan 16 2013
+                    126            133                         Peak-Hour: 11:45 AM -- 12:45 PM                               2.4        5.3
+
+                       39    79     8
+                                                              Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                             2.6 1.3 12.5
+
+
+       306   39                           14   353
+                                                                                                                8.5   5.1                      0.0       7.1
+             277            0.91         249
+                                                                                                                      6.1                      9.6
+       371   55                           90   336
+                                                                                                                6.5   9.1                      1.1       6.3
+
+                       18    80    51
+                                                                                                                             5.6 6.3 5.9
+
+                    224            149
+                                                                                                                             3.1        6.0
+
+
+
+                            137                                                                                               2    2    0
+
+
+
+                                                                                                                      0                          1
+
+             42                           63                                                                          11                         2
+
+                                                                                                                      0                          0
+
+                             62                                                                                               1    1    0
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                           NA                       NA
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+ 15-Min Count                 1st St NW                       1st St NW                 E St NW                    E St NW                    Total       Hourly
+    Period                  (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left       Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM         4         16      13       0      2       19      18   0    11     78      9    0     17      55      4        0          246
+   11:15 AM        10         17       8       0      1       16      11   0     9     56     10    0     21      71      2        0          232
+   11:30 AM         5         16       7       0      2       19      13   0     8     63      6    0     21      58      1        0          219
+   11:45 AM         4         26      12       0      1       20      10   0    11     83      9    0     24      68      5        0          273              970
+   12:00 PM         6         16      15       0      0       14      12   0    10     70     14    0     19      67      3        0          246              970
+   12:15 PM         2         19      14       0      4       21      10   0    10     58     18    0     26      53      3        0          238              976
+   12:30 PM         6         19      10       0      3       24       7   0     8     66     14    0     21      61      3        0          242              999
+   12:45 PM         5         21       5       0      1       21       8   0    10     65      5    0     21      56      3        0          221              947
+
+
+
+
+ Peak 15-Min                    Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left      Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     16       104     48     0          4      80     40     0    44    332    36     0     96     272    20     0                      1092
+ Heavy Trucks       0         8      4                4       4      0           0     28      0           0      28     0                              76
+  Pedestrians                44                             112                        20                         84                                   260
+    Bicycles       0          0      0                0       1      0          0       4      0          0        2     0                               7
+   Railroad
+Stopped Buses
+ Comments: 2004
+Report generated on 3/27/2013 1:00 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: 1st St NW -- E St NW                                                                                           QC JOB #: 10862444
+ CITY/STATE: Washington, DC                                                                                               DATE: Wed, Jan 16 2013
+                    267          200                          Peak-Hour: 4:45 PM -- 5:45 PM                                2.2        4.0
+
+                       61 188 18
+                                                             Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                           6.6 0.5 5.6
+
+
+       381   76                         24   415
+                                                                                                              4.7   7.9                      0.0       3.4
+             507          0.95         301
+                                                                                                                    4.3                      4.3
+       611   28                         90   560
+                                                                                                              4.9   7.1                      1.1       4.1
+
+                       19 100 34
+                                                                                                                           5.3 2.0 0.0
+
+                    305          153
+                                                                                                                           1.3        2.0
+
+
+
+                          236                                                                                               4    4    0
+
+
+
+                                                                                                                    2                          1
+
+             29                         51                                                                          27                         9
+
+                                                                                                                    0                          0
+
+                           83                                                                                               0    1    0
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+
+             NA                        NA                                                                           NA                       NA
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+ 15-Min Count               1st St NW                       1st St NW                 E St NW                    E St NW                    Total       Hourly
+    Period                (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left     Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM         4       13      11       0       0      59      12   0     9    126      4    0     23      70      1        0          332
+    4:45 PM         1       17       6       0       3      54      13   0    14    119      9    0     28      85      3        1          353
+    5:00 PM         4       30       8       0       3      51      13   0    21    130      6    0     21      89      5        0          381
+    5:15 PM         4       29      10       0       2      46      14   0    25    129      6    0     23      66      8        0          362             1428
+    5:30 PM        10       24      10       0      10      37      21   0    16    129      7    0     17      61      8        0          350             1446
+    5:45 PM         6       26      13       0      11      21      21   0    13    124      4    0     10      72      8        0          329             1422
+    6:00 PM         3       29       9       0      19      17      16   0    10    122      7    0     17      62      5        1          317             1358
+    6:15 PM         9       32      12       0       3      26      15   0    13     93      5    0     21      76      2        1          308             1304
+
+
+
+
+ Peak 15-Min                  Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     16     120     32     0          12    204     52     0    84    520    24     0     84     356    20     0                      1524
+ Heavy Trucks       4       0      0                 0      4      0           8     16      0           0       8     0                              40
+  Pedestrians              84                             392                        32                         48                                   556
+    Bicycles       0        0      0                0       1      0          2       7      0          0        1     0                              11
+   Railroad
+Stopped Buses
+ Comments: 2004
+Report generated on 3/27/2013 1:00 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: 1st St NW -- E St NW                                                                                             QC JOB #: 10862446
+ CITY/STATE: Washington, DC                                                                                                 DATE: Sat, Jan 05 2013
+                       73           39                          Peak-Hour: 3:00 PM -- 4:00 PM                                1.4        0.0
+
+                       10     62    1
+                                                               Peak 15-Min: 3:00 PM -- 3:15 PM
+                                                                                                                             10.0 0.0 0.0
+
+
+       156   9                             1   190
+                                                                                                                4.5   0.0                      0.0       3.2
+             149             0.91        139
+                                                                                                                      2.7                      4.3
+       172   14                           50   160
+                                                                                                                2.3   0.0                      0.0       2.5
+
+                         7    29    10
+                                                                                                                             0.0 0.0 0.0
+
+                    126             46
+                                                                                                                             0.0        0.0
+
+
+
+                              60                                                                                              2    0    0
+
+
+
+                                                                                                                      0                          0
+
+             21                           35                                                                          8                         10
+
+                                                                                                                      0                          0
+
+                              60                                                                                              1    1    0
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+
+             NA                          NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+ 15-Min Count                  1st St NW                      1st St NW                 E St NW                    E St NW                    Total       Hourly
+    Period                   (Northbound)                   (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM        1            5      3       0      1       17      2    0    4      51      4    0     16      28      0        0          132
+    3:15 PM        1            7      1       0      0       19      3    0    0      32      1    0     15      37      1        0          117
+    3:30 PM        4            8      4       0      0       14      1    0    3      33      5    0     10      39      0        0          121
+    3:45 PM        1            9      2       0      0       12      4    0    2      33      4    0      9      35      0        0          111              481
+    4:00 PM        1           13      3       0      2        8      2    0    3      41      3    0     11      32      3        0          122              471
+    4:15 PM        2            9      2       0      1       10      2    0    3      38      4    0     10      30      0        0          111              465
+    4:30 PM        0            9      7       0      0       11      4    0    2      39      1    0      7      33      0        0          113              457
+    4:45 PM        2            6      5       0      0        9      2    0    1      29      5    0      7      33      0        0           99              445
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     4          20     12     0         4      68      8     0    16    204    16     0     64     112     0     0                      528
+ Heavy Trucks      0           0      0               0       0      0           0      4      0           0       4     0                             8
+  Pedestrians                 28                             44                         4                         40                                  116
+    Bicycles       0           0      0               0       0      0          0       0      0          0        2     0                             2
+   Railroad
+Stopped Buses
+ Comments: 2154
+Report generated on 3/27/2013 1:00 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

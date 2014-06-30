@@ -1,0 +1,80 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 13th St -- Kennedy St_ NW                                                                                           QC JOB #: 10694828
+ CITY/STATE: Washington, DC                                                                                                    DATE: Sat, May 04 2013
+                    301          382                         Peak-Hour: 3:45 PM -- 4:45 PM                                      0.0        0.3
+
+                       12 273 16
+                                                            Peak 15-Min: 4:15 PM -- 4:30 PM
+                                                                                                                                0.0 0.0 0.0
+
+
+       108   8                         10   104
+                                                                                                                   5.6   0.0                      0.0      4.8
+             121          0.94         78
+                                                                                                                         3.3                      6.4
+       145   16                        16   175
+                                                                                                                   3.4   6.3                      0.0      2.9
+
+                       17 365 38
+                                                                                                                                5.9 0.3 2.6
+
+                    305          420
+                                                                                                                                0.3        0.7
+
+
+
+                           27                                                                                                    0    4    0
+
+
+
+                                                                                                                         0                          0
+
+             8                          9                                                                                1                          4
+
+                                                                                                                         0                          0
+
+                           21                                                                                                    0    1    0
+
+
+
+
+                          NA                                                                                                          NA
+
+
+
+
+             NA                        NA                                                                                NA                       NA
+
+
+
+
+                          NA                                                                                                          NA
+
+
+
+ 15-Min Count                13th St                        13th St                    Kennedy St_ NW              Kennedy St_ NW                Total      Hourly
+    Period                (Northbound)                   (Southbound)                    (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left     Thru Right       U     Left    Thru Right    U       Left     Thru Right     U   Left     Thru Right       U
+    3:00 PM        1        71       7      0      3       60       4   0        1        19     7      0    12       19     3        0          207
+    3:15 PM        5        91       8      0      5       78       1   0        3        21     3      0     8       11     3        0          237
+    3:30 PM        4        89       9      0      1       81       5   0        1        31     3      0     4       23     0        0          251
+    3:45 PM        7        83     11       0      5       60       2   0        3        35     4      0     3       22     2        0          237             932
+    4:00 PM        3        88       4      0      3       65       4   0        1        27     3      1     8       14     1        0          222             947
+    4:15 PM        4      108      10       0      6       68       5   0        1        30     4      0     2       18     3        0          259             969
+    4:30 PM        3        86     13       0      2       80       1   0        2        29     5      0     3       24     4        0          252             970
+    4:45 PM        2        92       9      0      1       68       1   0        1        28     1      0     5       18     1        0          227             960
+
+
+
+
+ Peak 15-Min                  Northbound                     Southbound                     Eastbound                   Westbound
+   Flowrates      Left    Thru Right     U        Left   Thru Right    U        Left    Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles     16     432     40     0         24    272     20     0        4      120    16     0      8       72    12     0                     1036
+ Heavy Trucks       0       0      0                0      0      0              0        8      4           0        0     0                            12
+  Pedestrians              28                             16                              0                           4                                  48
+    Bicycles       0        0      0               0       0      0              0        1      0           0        0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/20/2013 5:28 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

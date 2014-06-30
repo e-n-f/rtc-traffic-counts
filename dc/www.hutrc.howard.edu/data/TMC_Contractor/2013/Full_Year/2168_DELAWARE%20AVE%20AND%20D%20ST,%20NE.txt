@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Delaware Ave -- D St NE                                                                                          QC JOB #: 10862553
+ CITY/STATE: Washington, DC                                                                                                 DATE: Wed, Jan 23 2013
+                       10           18                          Peak-Hour: 8:00 AM -- 9:00 AM                                0.0        5.6
+
+                         6    0     4
+                                                               Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                             0.0 0.0 0.0
+
+
+       414   10                            6   412
+                                                                                                                2.9   0.0                       0.0       2.7
+             332             0.92        406
+                                                                                                                      4.8                       2.7
+       342   0                             0   338
+                                                                                                                4.7   0.0                       0.0       5.0
+
+                         2    2     2
+                                                                                                                             50.0 50.0 50.0
+
+                         0          6
+                                                                                                                             0.0        50.0
+
+
+
+                             109                                                                                              0    0     0
+
+
+
+                                                                                                                      0                           0
+
+             251                         389                                                                          1                          15
+
+                                                                                                                      0                           0
+
+                             120                                                                                              0    0     0
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+
+             NA                          NA                                                                           NA                        NA
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+ 15-Min Count                Delaware Ave                   Delaware Ave                D St NE                    D St NE                     Total       Hourly
+    Period                   (Northbound)                   (Southbound)              (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left        Thru Right       U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM        0            0     0        0      1        0     0     0    0      40      0    0     0      106      1        0           148
+    7:15 AM        1            0     0        0      0        0     0     0    1      57      0    0     0      118      0        0           177
+    7:30 AM        0            0     1        0      1        1     4     0    2      75      0    0     0      101      1        0           186
+    7:45 AM        1            0     0        0      1        0     2     0    1      67      0    0     0      100      0        0           172              683
+    8:00 AM        0            1     0        0      0        0     1     0    2      61      0    0     0       92      2        0           159              694
+    8:15 AM        1            1     0        0      1        0     0     0    2      88      0    0     0      104      0        0           197              714
+    8:30 AM        1            0     2        0      0        0     1     0    4      89      0    0     0      106      2        0           205              733
+    8:45 AM        0            0     0        0      3        0     4     0    2      94      0    0     0      104      2        0           209              770
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     0           0      0     0         12      0     16     0    8     376      0    0     0      416     8     0                        836
+ Heavy Trucks      0           0      0                0      0      0          0      16      0          0        8     0                               24
+  Pedestrians                216                            148                       372                        516                                   1252
+    Bicycles       0           0      0               0       0      0          0       0      0          0        4     0                                4
+   Railroad
+Stopped Buses
+ Comments: 2168
+Report generated on 3/18/2013 9:00 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Delaware Ave -- D St NE                                                                                          QC JOB #: 10862555
+ CITY/STATE: Washington, DC                                                                                                 DATE: Wed, Jan 23 2013
+                         7          15                         Peak-Hour: 11:45 AM -- 12:45 PM                               28.6        0.0
+
+                         1    1     5
+                                                              Peak 15-Min: 11:45 AM -- 12:00 PM
+                                                                                                                            100.0100.0 0.0
+
+
+       149   10                            3   152
+                                                                                                                6.0   0.0                        0.0       5.3
+             210             0.94        147
+                                                                                                                      8.1                        5.4
+       221   1                             2   218
+                                                                                                                7.7   0.0                        0.0       8.3
+
+                         1    2     3
+                                                                                                                             0.0 0.0 33.3
+
+                         4          6
+                                                                                                                             25.0        16.7
+
+
+
+                              52                                                                                              0     0     0
+
+
+
+                                                                                                                      0                            0
+
+             107                         141                                                                          0                            2
+
+                                                                                                                      1                            0
+
+                              56                                                                                              1     0     0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                           NA                         NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count                Delaware Ave                   Delaware Ave                D St NE                    D St NE                      Total       Hourly
+    Period                   (Northbound)                   (Southbound)              (Eastbound)                (Westbound)                                Totals
+ Beginning At     Left        Thru Right       U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right         U
+   11:00 AM        2            0     1        0      2        0     2     0    1      43      0    0     0       35      0         0            86
+   11:15 AM        1            0     1        0      0        0     2     0    1      45      0    0     0       38      0         0            88
+   11:30 AM        0            0     0        0      1        0     2     0    3      52      0    0     0       27      2         0            87
+   11:45 AM        0            0     0        0      2        0     0     0    4      60      0    0     0       36      1         0           103              364
+   12:00 PM        0            1     1        0      3        0     1     0    1      55      1    0     0       35      0         0            98              376
+   12:15 PM        1            0     0        0      0        0     0     0    3      43      0    0     0       45      0         0            92              380
+   12:30 PM        0            1     2        0      0        1     0     0    2      52      0    0     2       31      2         0            93              386
+   12:45 PM        1            0     1        0      1        0     0     0    2      44      0    1     0       29      0         0            79              362
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                        Total
+  All Vehicles     0           0      0     0         8       0      0     0    16    240      0    0     0      144     4     0                        412
+ Heavy Trucks      0           0      0               0       0      0           0     20      0          0       12     0                               32
+  Pedestrians                 44                             40                       120                        132                                    336
+    Bicycles       0           0      0               0       0      0          0       0      0          0        0     0                                0
+   Railroad
+Stopped Buses
+ Comments: 2168
+Report generated on 3/18/2013 9:00 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Delaware Ave -- D St NE                                                                                           QC JOB #: 10862554
+ CITY/STATE: Washington, DC                                                                                                  DATE: Wed, Jan 23 2013
+                       26           13                          Peak-Hour: 5:15 PM -- 6:15 PM                                 0.0        7.7
+
+                       20     0     6
+                                                               Peak 15-Min: 6:00 PM -- 6:15 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       260   9                             3   235
+                                                                                                                1.5   11.1                      0.0       1.7
+             337             0.87        231
+                                                                                                                      3.0                       1.7
+       347   1                             1   348
+                                                                                                                3.2   0.0                       0.0       3.2
+
+                         8    2     5
+                                                                                                                              0.0 0.0 20.0
+
+                         2          15
+                                                                                                                              0.0        6.7
+
+
+
+                              71                                                                                               0    1    1
+
+
+
+                                                                                                                      0                           0
+
+             116                         566                                                                          12                          0
+
+                                                                                                                      0                           0
+
+                              87                                                                                               0    1    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                           NA                        NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count                Delaware Ave                   Delaware Ave                D St NE                    D St NE                     Total       Hourly
+    Period                   (Northbound)                   (Southbound)              (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left        Thru Right       U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right         U
+    4:30 PM        2            1     1        0      0        0     1     0    2      49      0    0     0       45      1         0          102
+    4:45 PM        1            2     1        0      2        0     3     0    2      65      0    0     0       48      0         0          124
+    5:00 PM        3            0     3        0      1        0     4     0    2      80      0    0     0       53      0         0          146
+    5:15 PM        1            0     0        0      1        0     4     0    4      94      0    0     0       57      1         0          162              534
+    5:30 PM        1            1     1        0      2        0     3     0    1      77      1    1     0       62      0         0          150              582
+    5:45 PM        1            0     2        0      0        0     3     0    1      79      0    0     1       43      1         0          131              589
+    6:00 PM        5            1     2        0      3        0    10     0    2      87      0    0     0       69      1         0          180              623
+    6:15 PM        8            0     5        0      5        0     3     0    2      57      0    0     0       80      1         0          161              622
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     20          4      8     0         12      0     40     0    8     348      0    0     0      276     4     0                        720
+ Heavy Trucks       0          0      0                0      0      0          0       8      0          0        0     0                               8
+  Pedestrians                132                             96                       112                        948                                   1288
+    Bicycles       0           0      0               0       1      0          0       2      0          0        0     0                               3
+   Railroad
+Stopped Buses
+ Comments: 2168
+Report generated on 3/18/2013 9:00 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: Delaware Ave NE -- D St NE                                                                                      QC JOB #: 10862556
+ CITY/STATE: Washington, DC                                                                                                DATE: Sat, Feb 02 2013
+                       10           8                          Peak-Hour: 4:00 PM -- 5:00 PM                                10.0        0.0
+
+                         8    0     2
+                                                              Peak 15-Min: 4:45 PM -- 5:00 PM
+                                                                                                                            12.5 0.0 0.0
+
+
+       128   7                            1   118
+                                                                                                               0.8   0.0                       0.0       0.0
+             200             0.89       117
+                                                                                                                     3.5                       0.0
+       207   0                            0   204
+                                                                                                               3.4   0.0                       0.0       3.4
+
+                         3    0     2
+                                                                                                                            0.0 0.0 0.0
+
+                         0          5
+                                                                                                                            0.0         0.0
+
+
+
+                              23                                                                                             0     0    0
+
+
+
+                                                                                                                     0                           0
+
+             38                          50                                                                          1                           5
+
+                                                                                                                     0                           0
+
+                              18                                                                                             0     1    0
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+
+             NA                         NA                                                                           NA                        NA
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+ 15-Min Count         Delaware Ave NE                   Delaware Ave NE                D St NE                    D St NE                     Total       Hourly
+    Period              (Northbound)                     (Southbound)                (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left Thru Right             U     Left Thru Right       U   Left   Thru Right    U    Left    Thru Right         U
+    3:00 PM        0      0      0            0      0      0      4      0    0      57      0    0     0       40      1         0          102
+    3:15 PM        0      0      0            0      1      0      3      0    2      40      0    0     0       40      0         0           86
+    3:30 PM        0      0      0            0      1      0      0      0    1      37      0    0     0       36      0         0           75
+    3:45 PM        0      0      0            0      0      0      0      0    1      44      0    0     0       27      1         0           73              336
+    4:00 PM        1      0      0            0      2      0      5      0    1      41      0    0     0       33      0         0           83              317
+    4:15 PM        1      0      0            0      0      0      1      0    3      48      0    0     0       29      1         0           83              314
+    4:30 PM        0      0      2            0      0      0      1      0    2      52      0    0     0       22      0         0           79              318
+    4:45 PM        1      0      0            0      0      0      1      0    1      59      0    0     0       33      0         0           95              340
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     4           0      0     0        0       0      4     0    4     236      0    0     0      132     0     0                       380
+ Heavy Trucks      0           0      0              0       0      0          0       8      0          0        0     0                              8
+  Pedestrians                 24                            40                        16                         60                                   140
+    Bicycles       0           0      0              0       0      0          0       0      0          0        4     0                              4
+   Railroad
+Stopped Buses
+ Comments: 2158
+Report generated on 3/18/2013 9:00 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

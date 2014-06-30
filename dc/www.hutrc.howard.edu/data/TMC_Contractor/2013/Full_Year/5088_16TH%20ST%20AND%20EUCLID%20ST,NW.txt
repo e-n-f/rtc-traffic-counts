@@ -1,0 +1,80 @@
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 5088 16th St -- Euclid St NW                                                                                           QC JOB #: 11199986
+ CITY/STATE: Washington, DC                                                                                                       DATE: Sat, May 11 2013
+                    903             607                          Peak-Hour: 3:30 PM -- 4:30 PM                                     2.4        2.3
+
+                         0   858 45
+                                                                Peak 15-Min: 4:15 PM -- 4:30 PM
+                                                                                                                                   0.0 2.6 0.0
+
+
+       0     35                            51   161
+                                                                                                                      0.0   0.0                      3.9      1.2
+             116             0.98           0
+                                                                                                                            0.0                      0.0
+       257   106                          110   185
+                                                                                                                      0.4   0.9                      0.0      0.0
+
+                         0   520 25
+                                                                                                                                   0.0 2.3 0.0
+
+                    1074            545
+                                                                                                                                   2.1        2.2
+
+
+
+                              92                                                                                                    3    22   1
+
+
+
+                                                                                                                            1                          1
+
+             214                          154                                                                               12                         3
+
+                                                                                                                            4                          1
+
+                             149                                                                                                    0    4    0
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+
+             NA                           NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+ 15-Min Count                5088 16th St                     5088 16th St                  Euclid St NW               Euclid St NW                 Total      Hourly
+    Period                   (Northbound)                    (Southbound)                   (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right     U       Left   Thru Right     U   Left    Thru Right        U
+    3:00 PM        0         108     12         0      14     205      0     0         8     17      29    0    20       0      17       0          430
+    3:15 PM        0         122      8         0      13     215      0     0        11     26      21    0    30       0      18       0          464
+    3:30 PM        0         135      2         0      12     204      0     0         9     25      35    0    34       0      14       0          470
+    3:45 PM        0          114     5         0       9     230      0     1        11     31      34    0    25       0       7       0          467            1831
+    4:00 PM        0         133      8         0      15     202      0     0         8     34      18    0    25       0      12       0          455            1856
+    4:15 PM        0         138     10         0       8     222      0     0         7     26      19    0    26       0      18       0          474            1866
+    4:30 PM        0         125      6         0      17     203      0     0        12     31      19    0    28       0      11       0          452            1848
+    4:45 PM        0         130      2         0      13     193      0     0         8     17      22    0    23       0       8       0          416            1797
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                     Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U         Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         552     40     0          32    888      0     0         28    104    76     0    104       0    72     0                     1896
+ Heavy Trucks      0          20      0                 0     12      0                0      0      4           0       0     4                             40
+  Pedestrians                128                              24                            128                        124                                  404
+    Bicycles       0           1      0                0       6      3               0       4      1           0       3     0                             18
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:14 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 6th St NW -- Q St NW                                                                                               QC JOB #: 10863151
+ CITY/STATE: Washington, DC                                                                                                   DATE: Thu, Feb 14 2013
+                    552             261                           Peak-Hour: 7:45 AM -- 8:45 AM                                4.3        4.2
+
+                         0   532 20
+                                                                 Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                               0.0 3.9 15.0
+
+
+       0     5                             1       1
+                                                                                                                  0.0   0.0                      0.0       0.0
+             57              0.93          0
+                                                                                                                        1.8                      0.0
+       131   69                            0   84
+                                                                                                                  3.1   4.3                      0.0       4.8
+
+                         0   255     7
+                                                                                                                               0.0 4.3 0.0
+
+                    601             262
+                                                                                                                               4.0        4.2
+
+
+
+                              82                                                                                                1    11   0
+
+
+
+                                                                                                                        0                          0
+
+             30                           36                                                                            8                          0
+
+                                                                                                                        0                          0
+
+                              64                                                                                                0    0    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count                  6th St NW                        6th St NW                 Q St NW                    Q St NW                    Total       Hourly
+    Period                   (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM        0           39      0       0        2       70      0    0    2       6      8    0     0        0      0        0          127
+    7:15 AM        0           59      2       0        6       76      0    0    1      10      6    0     0        0      0        0          160
+    7:30 AM        0           63      1       0        5      105      0    0    1      15     14    0     0        0      0        0          204
+    7:45 AM        0           70      3       0        3      139      0    0    1      22     15    0     0        0      0        0          253              744
+    8:00 AM        0           72      3       0        4      122      0    0    2      10     17    0     0        0      1        0          231              848
+    8:15 AM        0           60      1       0        6      136      0    0    0       9     15    0     0        0      0        0          227              915
+    8:30 AM        0           53      0       0        7      135      0    0    2      16     22    0     0        0      0        0          235              946
+    8:45 AM        0           54      2       0        3      135      0    0    5       6     17    0     0        0      0        0          222              915
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         280     12     0           12    556      0     0    4      88    60     0     0        0     0     0                      1012
+ Heavy Trucks      0           8      0                  0     32      0          0       0      8          0        0     0                              48
+  Pedestrians                 84                               76                        40                         20                                   220
+    Bicycles       0           0      0                 0       0      0          0       2      0          0        0     0                               2
+   Railroad
+Stopped Buses
+ Comments: 3018
+Report generated on 4/4/2013 7:33 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 6th St NW -- Q St NW                                                                                               QC JOB #: 10863153
+ CITY/STATE: Washington, DC                                                                                                   DATE: Thu, Feb 14 2013
+                    242             265                          Peak-Hour: 12:00 PM -- 1:00 PM                                5.0        3.4
+
+                         0   235     7
+                                                                Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                               0.0 5.1 0.0
+
+
+       0     22                            0       0
+                                                                                                                  0.0   9.1                      0.0       0.0
+             66              0.81          0
+                                                                                                                        6.1                      0.0
+       131   43                            0   83
+                                                                                                                  6.9   7.0                      0.0       4.8
+
+                         0   243 10
+                                                                                                                               0.0 2.9 0.0
+
+                    278             253
+                                                                                                                               5.4        2.8
+
+
+
+                              15                                                                                                1    6    0
+
+
+
+                                                                                                                        0                          0
+
+             6                             6                                                                            9                          0
+
+                                                                                                                        0                          0
+
+                              5                                                                                                 0    1    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count                  6th St NW                        6th St NW                 Q St NW                    Q St NW                    Total       Hourly
+    Period                   (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        0           54      5       0        4       44      0    0    5      14     15    0     0        0      0        0          141
+   11:15 AM        0           42      2       0        0       55      0    0    4      12     14    0     0        0      0        0          129
+   11:30 AM        0           47      1       0        2       61      0    0    5       7     10    0     0        0      0        0          133
+   11:45 AM        0           46      1       0        2       66      0    0    1      13      6    0     0        0      0        0          135              538
+   12:00 PM        0           52      3       0        3       47      0    0    6      17     11    0     0        0      0        0          139              536
+   12:15 PM        0           87      3       0        2       62      0    0    8      18     13    0     0        0      0        0          193              600
+   12:30 PM        0           50      1       0        0       48      0    0    5      12     10    0     0        0      0        0          126              593
+   12:45 PM        0           54      3       0        2       78      0    0    3      19      9    0     0        0      0        0          168              626
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         348     12     0           8     248      0     0    32     72    52     0     0        0     0     0                      772
+ Heavy Trucks      0          12      0                 0       4      0           4      4      0          0        0     0                             24
+  Pedestrians                  8                               20                         0                         16                                   44
+    Bicycles       0           0      0                 0       0      0          0       0      0          0        0     0                              0
+   Railroad
+Stopped Buses
+ Comments: 3018
+Report generated on 4/4/2013 7:33 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 6th St NW -- Q St NW                                                                                               QC JOB #: 10863152
+ CITY/STATE: Washington, DC                                                                                                   DATE: Thu, Feb 14 2013
+                    481             551                           Peak-Hour: 4:45 PM -- 5:45 PM                                0.0        0.7
+
+                         0   462 19
+                                                                 Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                               0.0 0.0 0.0
+
+
+       0     20                            0       1
+                                                                                                                  0.0   5.0                      0.0       0.0
+             93              0.92          0
+                                                                                                                        3.2                      0.0
+       174   61                            1   131
+                                                                                                                  2.3   0.0                      0.0       2.3
+
+                         0   531 19
+                                                                                                                               0.0 0.6 0.0
+
+                    524             550
+                                                                                                                               0.0        0.5
+
+
+
+                              31                                                                                                0    2    0
+
+
+
+                                                                                                                        0                          0
+
+             17                            5                                                                            25                         1
+
+                                                                                                                        0                          0
+
+                              41                                                                                                0    4    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count                  6th St NW                        6th St NW                 Q St NW                    Q St NW                    Total       Hourly
+    Period                   (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        0         117       4       0        3      105      0    0    6      18     20    0     0        0      0        0          273
+    4:45 PM        0         111       5       0        6      121      0    0    7      25     16    0     0        0      0        0          291
+    5:00 PM        0         132       4       0        6      113      0    0    8      22     18    0     0        0      0        0          303
+    5:15 PM        0         146       4       0        0      134      0    0    3      26     13    0     0        0      0        0          326             1193
+    5:30 PM        0         142       6       0        7       94      0    0    2      20     14    0     1        0      0        0          286             1206
+    5:45 PM        0         128       3       0        7       87      0    0    4      24     22    0     0        0      0        0          275             1190
+    6:00 PM        0         126       6       0        8       82      0    0    4      18     13    0     1        0      0        0          258             1145
+    6:15 PM        0         138       4       0        5       96      0    0    8      24     11    0     0        0      0        0          286             1105
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         584     16     0           0     536      0     0    12    104    52     0     0        0     0     0                      1304
+ Heavy Trucks      0           0      0                 0       0      0           0      8      0          0        0     0                              8
+  Pedestrians                 36                               40                        20                          0                                   96
+    Bicycles       0           1      0                 0       1      0          0      10      0          0        0     0                             12
+   Railroad
+Stopped Buses
+ Comments: 3018
+Report generated on 4/4/2013 7:33 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: 6th St NW -- Q St NW                                                                                               QC JOB #: 10863154
+ CITY/STATE: Washington, DC                                                                                                   DATE: Sat, Feb 23 2013
+                    277             266                           Peak-Hour: 3:00 PM -- 4:00 PM                                0.4        1.5
+
+                         0   259 18
+                                                                 Peak 15-Min: 3:30 PM -- 3:45 PM
+                                                                                                                               0.0 0.4 0.0
+
+
+       0     11                            0       0
+                                                                                                                  0.0   9.1                      0.0       0.0
+             69              0.92          0
+                                                                                                                        1.4                      0.0
+       109   29                            0   100
+                                                                                                                  1.8   0.0                      0.0       2.0
+
+                         1   255 13
+                                                                                                                               0.0 1.2 7.7
+
+                    289             269
+                                                                                                                               0.3        1.5
+
+
+
+                              21                                                                                                0    2    2
+
+
+
+                                                                                                                        0                          0
+
+             13                           20                                                                            5                          0
+
+                                                                                                                        0                          0
+
+                              15                                                                                                0    2    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                            NA                       NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count                  6th St NW                        6th St NW                 Q St NW                    Q St NW                    Total       Hourly
+    Period                   (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM        0           68      5       0        9       56      0    0    3      13      7    0     0        0      0        0          161
+    3:15 PM        0           72      3       0        3       66      0    0    2      18      5    0     0        0      0        0          169
+    3:30 PM        0           66      3       1        3       72      0    0    3      20     10    0     0        0      0        0          178
+    3:45 PM        0           49      2       0        3       65      0    0    3      18      7    0     0        0      0        0          147              655
+    4:00 PM        0           57      3       1        4       55      0    0    4      13     10    0     0        0      0        0          147              641
+    4:15 PM        0           56      8       0        5       59      0    0    5      18      7    0     0        0      0        0          158              630
+    4:30 PM        0           55      4       0        5       57      0    0    2      11     10    0     0        0      0        0          144              596
+    4:45 PM        0           47      3       0        3       69      0    0    3      15      8    0     0        0      0        0          148              597
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         264     12     4           12    288      0     0    12     80    40     0     0        0     0     0                      712
+ Heavy Trucks      0           4      0                  0      0      0           4      0      0          0        0     0                             8
+  Pedestrians                 24                               32                         8                         40                                  104
+    Bicycles       0           0      0                 1       0      0          0       0      0          0        0     0                             1
+   Railroad
+Stopped Buses
+ Comments: 3018
+Report generated on 4/4/2013 7:33 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

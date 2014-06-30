@@ -1,0 +1,318 @@
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- M St SE                                                                                                  QC JOB #: 10903109
+ CITY/STATE: Washington, DC                                                                                                   DATE: Tue, Feb 12 2013
+                       39           102                          Peak-Hour: 7:00 AM -- 8:00 AM                                 5.1        8.8
+
+                       26     0     13
+                                                                Peak 15-Min: 7:00 AM -- 7:15 AM
+                                                                                                                               0.0 0.0 15.4
+
+
+       643   47                            56   674
+                                                                                                                 7.2   12.8                      5.4       7.3
+             456             0.97         616
+                                                                                                                       9.0                       7.5
+       503   0                              2   471
+                                                                                                                 9.3   0.0                       0.0       9.1
+
+                         0    0      0
+                                                                                                                               0.0 0.0 0.0
+
+                         0           0
+                                                                                                                               0.0        0.0
+
+
+
+                             473                                                                                                0    1    1
+
+
+
+                                                                                                                       0                           0
+
+             50                            45                                                                          8                           1
+
+                                                                                                                       0                           0
+
+                              69                                                                                                0    0    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                           NA                        NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+ 15-Min Count                    3rd St                          3rd St                  M St SE                    M St SE                     Total       Hourly
+    Period                   (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right         U
+    7:00 AM        0            0       0       0      4        0       2   0    13    133      0    0     0      146     14         1          313
+    7:15 AM        0            0       0       0      2        0     13    0     3    111      0    0     0      151     15         0          295
+    7:30 AM        0            0       0       0      1        0       6   0    14    114      0    1     0      154     16         0          306
+    7:45 AM        0            0       0       0      6        0       5   0    16     98      0    0     0      165     11         1          302             1216
+    8:00 AM        0            0       0       0      6        0     14    0    16     80      0    1     0      147     20         0          284             1187
+    8:15 AM        0            0       0       0      3        0       9   0    10     76      0    0     0      186     17         0          301             1193
+    8:30 AM        0            0       0       0      4        0       7   0    15     91      0    0     0      171     21         1          310             1197
+    8:45 AM        0            0       0       0      1        0       9   0    14     67      0    0     0      150     20         1          262             1157
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     0           0      0     0          16      0      8     0    52    532      0    0     0      584    56     4                       1252
+ Heavy Trucks      0           0      0                 4      0      0           4     40      0          0       40     4                               92
+  Pedestrians                 92                             428                        56                         40                                    616
+    Bicycles       0           0      0                0       0      0          0       0      0          0        0     0                                0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 2/28/2013 11:14 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- M St SE                                                                                                QC JOB #: 10903110
+ CITY/STATE: Washington, DC                                                                                                 DATE: Tue, Feb 12 2013
+                       45           89                         Peak-Hour: 12:00 PM -- 1:00 PM                                8.9        2.2
+
+                       23     0     22
+                                                              Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                             4.3 0.0 13.6
+
+
+       453   39                           52   483
+                                                                                                                6.6   5.1                      0.0       6.0
+             367             0.91        428
+                                                                                                                      9.8                      6.8
+       406   0                             3   392
+                                                                                                                9.4   0.0                      0.0       9.9
+
+                         0    0     0
+                                                                                                                             0.0 0.0 0.0
+
+                         0          0
+                                                                                                                             0.0        0.0
+
+
+
+                             367                                                                                              0    0    0
+
+
+
+                                                                                                                      0                          0
+
+             110                         102                                                                          4                          5
+
+                                                                                                                      0                          0
+
+                              50                                                                                              0    0    0
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+
+             NA                          NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                    NA
+
+
+
+ 15-Min Count                    3rd St                         3rd St                  M St SE                    M St SE                    Total       Hourly
+    Period                   (Northbound)                   (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right       U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        0            0       0      0       3       0       1   0     5     93      0    0     0       89      8        0          199
+   11:15 AM        0            0       0      0       0       0       7   0     6     91      0    0     0      104      5        0          213
+   11:30 AM        0            0       0      0       2       0       7   0     5     85      0    3     0       97     13        2          214
+   11:45 AM        0            0       0      0       1       0       5   0     4     86      0    0     0      105     22        1          224              850
+   12:00 PM        0            0       0      0       1       0       5   0     8     72      0    0     0      104      8        1          199              850
+   12:15 PM        0            0       0      0       5       0       2   0     7    100      0    0     0      108     17        1          240              877
+   12:30 PM        0            0       0      0      10       0       5   0    11     88      0    1     0      106     16        1          238              901
+   12:45 PM        0            0       0      0       6       0     11    0    11    107      0    1     0      110     11        0          257              934
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0           0      0     0         24      0     44     0    44    428      0    4     0      440    44     0                      1028
+ Heavy Trucks      0           0      0                0      0      4           0     28      0          0       20     0                              52
+  Pedestrians                 40                            308                        68                        140                                   556
+    Bicycles       0           0      0               0       0      0          0       2      0          0        1     0                               3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 2/28/2013 11:14 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- M St SE                                                                                                 QC JOB #: 10903111
+ CITY/STATE: Washington, DC                                                                                                  DATE: Tue, Feb 12 2013
+                       55           210                          Peak-Hour: 4:45 PM -- 5:45 PM                                0.0        1.0
+
+                       29     0     26
+                                                                Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       549   46                           165   684
+                                                                                                                 5.5   4.3                      0.0       4.4
+             785             0.90         519
+                                                                                                                       3.3                      5.8
+       831   0                              0   811
+                                                                                                                 3.4   0.0                      0.0       3.2
+
+                         0    0      0
+                                                                                                                              0.0 0.0 0.0
+
+                         0           0
+                                                                                                                              0.0        0.0
+
+
+
+                             410                                                                                               1    0    0
+
+
+
+                                                                                                                       0                          2
+
+             69                            40                                                                          1                         13
+
+                                                                                                                       0                          0
+
+                              16                                                                                               0    1    0
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                             NA                                                                                                     NA
+
+
+
+ 15-Min Count                    3rd St                          3rd St                  M St SE                    M St SE                    Total       Hourly
+    Period                   (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        0            0       0       0       5       0       9   0    10    161      0    0     0      151     50        0          386
+    4:45 PM        0            0       0       0       6       0       6   0     7    170      0    0     0      131     41        0          361
+    5:00 PM        0            0       0       0       5       0       2   0    18    227      0    0     0      139     46        0          437
+    5:15 PM        0            0       0       0       8       0       8   0     9    181      0    1     0      126     40        0          373             1557
+    5:30 PM        0            0       0       0       7       0     13    0    11    207      0    0     0      123     38        0          399             1570
+    5:45 PM        0            0       0       0      11       0     13    0    12    169      0    0     0      109     26        0          340             1549
+    6:00 PM        0            0       0       0       5       0       6   0     7    169      0    1     0       98     26        0          312             1424
+    6:15 PM        0            0       0       0       6       0       7   0     7    142      0    0     0       91     26        0          279             1330
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0           0      0     0          20      0      8     0    72    908      0    0     0      556   184     0                      1748
+ Heavy Trucks      0           0      0                 0      0      0           4     40      0          0       52     0                              96
+  Pedestrians                 20                             388                        52                         36                                   496
+    Bicycles       0           0      0                0       0      0          0       0      0          0        2     0                               2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 2/28/2013 11:14 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- M St SE                                                                                                   QC JOB #: 10903112
+ CITY/STATE: Washington, DC                                                                                                    DATE: Sat, Mar 09 2013
+                         27           47                          Peak-Hour: 12:45 PM -- 1:45 PM
+                               0.78                                                                                             0.0        2.1
+
+                         19     0     8
+                                                                  Peak 15-Min: 1:30 PM -- 1:45 PM
+                                                                                                                                0.0 0.0 0.0
+
+
+       363     25                           23    366
+                                                                                                                   3.0   0.0                      4.3       3.3
+        0.75   269             0.92        343   0.89
+                                                                                                                         4.1                      3.2
+       294     0                             0    277
+                                                                                                                   3.7   0.0                      0.0       4.0
+
+                           0    0     0
+                                                                                                                                0.0 0.0 0.0
+
+                           0          0
+                               0.00                                                                                             0.0        0.0
+
+
+
+                                53                                                                                               0    2    0
+
+
+
+                                                                                                                         2                          0
+
+               11                           20                                                                           2                          5
+
+                                                                                                                         0                          0
+
+                                10                                                                                               0    1    0
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+
+               NA                          NA                                                                            NA                       NA
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+ 15-Min Count                      3rd St                          3rd St                  M St SE                    M St SE                    Total       Hourly
+    Period                     (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left        Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   12:00 PM          0            0       0       0      0        0       3   0    1      62      0    0     0       71      3        0          140
+   12:15 PM          0            0       0       0      0        0       7   0    7      62      0    0     0       76      5        0          157
+   12:30 PM          0            0       0       0      0        0       6   0    2      80      0    1     0       73      3        0          165
+   12:45 PM          0            0       0       0      4        0       2   0    2      58      0    0     0       99      4        0          169              631
+    1:00 PM          0            0       0       0      4        0       5   0    7      65      0    1     0       77      5        0          164              655
+    1:15 PM          0            0       0       0      0        0       7   0    7      54      0    0     0       92      8        0          168              666
+    1:30 PM          0            0       0       0      0        0       5   0    8      92      0    0     0       75      6        0          186              687
+    1:45 PM          0            0       0       0      2        0       4   0    5      61      0    0     0       78      7        2          159              677
+
+
+
+
+ Peak 15-Min                       Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates        Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles       0           0      0     0          0       0     20     0    32    368      0    0     0      300    24     0                      744
+ Heavy Trucks        0           0      0                0       0      0           0     20      0          0        8     0                             28
+  Pedestrians                    8                              48                         8                         28                                   92
+    Bicycles         0           0      0                0       2      0          0       0      0          0        0     0                              2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/13/2013 5:36 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

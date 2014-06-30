@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- Harvard St (North)                                                                                         QC JOB #: 10695071
+ CITY/STATE: Washington, DC                                                                                                      DATE: Thu, Apr 11 2013
+                    1700          580                           Peak-Hour: 7:45 AM -- 8:45 AM                                     3.4        6.2
+
+                    126 1574 0
+                                                               Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                                  1.6 3.5 0.0
+
+
+       293   0                           0       0
+                                                                                                                     3.8   0.0                      0.0      0.0
+             0             0.99          0
+                                                                                                                           0.0                      0.0
+       0     0                           0       0
+                                                                                                                     0.0   0.0                      0.0      0.0
+
+                    167 580        0
+                                                                                                                                  5.4 6.2 0.0
+
+                    1574          747
+                                                                                                                                  3.5        6.0
+
+
+
+                            19                                                                                                     1    17   0
+
+
+
+                                                                                                                           0                          0
+
+             85                         90                                                                                 0                          0
+
+                                                                                                                           0                          0
+
+                            1                                                                                                      0    4    0
+
+
+
+
+                           NA                                                                                                           NA
+
+
+
+
+             NA                         NA                                                                                 NA                       NA
+
+
+
+
+                           NA                                                                                                           NA
+
+
+
+ 15-Min Count                 16th St                          16th St                 Harvard St (North)         Harvard St (North)               Total      Hourly
+    Period                 (Northbound)                     (Southbound)                 (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left      Thru Right       U       Left    Thru Right    U       Left Thru Right        U   Left Thru Right        U
+    7:00 AM        27        90       0      0        0      304     15    0        0      0       0      0    0      0       0      0             436
+    7:15 AM        33       117       0      0        0      322     12    0        0      0       0      0    0      0       0      0             484
+    7:30 AM        34      122        0      0        0      371     14    0        0      0       0      0    0      0       0      0             541
+    7:45 AM        33      156        0      0        0      393     33    0        0      0       0      0    0      0       0      0             615            2076
+    8:00 AM        37      139        0      0        0      407     32    0        0      0       0      0    0      0       0      0             615            2255
+    8:15 AM        51      142        0      0        0      385     23    0        0      0       0      0    0      0       0      0             601            2372
+    8:30 AM        46      143        0      0        0      389     38    0        0      0       0      0    0      0       0      0             616            2447
+    8:45 AM        35       113       0      0        0      411     27    0        0      0       0      0    0      0       0      0             586            2418
+
+
+
+
+ Peak 15-Min                   Northbound                     Southbound                      Eastbound                   Westbound
+   Flowrates   Left        Thru Right     U          Left Thru Right    U          Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles 184         572      0     0           0 1556     152     0          0       0      0    0      0        0     0     0                     2464
+ Heavy Trucks   12          28      0                 0    60      0                0       0      0           0        0     0                            100
+  Pedestrians                4                             20                             152                         144                                  320
+    Bicycles     0           0      0                 0     7      0                0       0      0            0       0     0                             7
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- Harvard St (North)                                                                                        QC JOB #: 10695072
+ CITY/STATE: Washington, DC                                                                                                     DATE: Thu, Apr 11 2013
+                    763          481                          Peak-Hour: 11:15 AM -- 12:15 PM                                    5.9        9.4
+
+                     37 725       1
+                                                             Peak 15-Min: 12:00 PM -- 12:15 PM
+                                                                                                                                 5.4 5.9 0.0
+
+
+       142   0                          0       0
+                                                                                                                    4.2   0.0                      0.0      0.0
+             0            0.92          0
+                                                                                                                          0.0                      0.0
+       0     0                          0       0
+                                                                                                                    0.0   0.0                      0.0      0.0
+
+                    105 480       0
+                                                                                                                                 3.8 9.4 0.0
+
+                    725          585
+                                                                                                                                 5.9        8.4
+
+
+
+                           9                                                                                                      3    9    0
+
+
+
+                                                                                                                          2                          0
+
+             17                        64                                                                                 0                          0
+
+                                                                                                                          0                          0
+
+                           0                                                                                                      1    5    0
+
+
+
+
+                          NA                                                                                                           NA
+
+
+
+
+             NA                        NA                                                                                 NA                       NA
+
+
+
+
+                          NA                                                                                                           NA
+
+
+
+ 15-Min Count                16th St                          16th St                 Harvard St (North)         Harvard St (North)               Total      Hourly
+    Period                (Northbound)                     (Southbound)                 (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left     Thru Right       U       Left    Thru Right    U       Left Thru Right        U   Left Thru Right        U
+   11:00 AM        25     102        0      0        0      211     11    0        0      0       0      0    0      0       0      0             349
+   11:15 AM        21     127        0      0        0      169     11    1        0      0       0      0    0      0       0      0             329
+   11:30 AM        31       98       0      0        0      184       6   0        0      0       0      0    0      0       0      0             319
+   11:45 AM        27     131        0      0        0      170       6   0        0      0       0      0    0      0       0      0             334            1331
+   12:00 PM        26     124        0      0        0      202     14    0        0      0       0      0    0      0       0      0             366            1348
+   12:15 PM        25      117       0      0        0      162       6   0        0      0       0      0    0      0       0      0             310            1329
+   12:30 PM        20      119       0      0        0      183       9   0        0      0       0      0    0      0       0      0             331            1341
+   12:45 PM        28      116       0      0        0      172       9   0        1      0       0      0    0      0       0      0             326            1333
+
+
+
+
+ Peak 15-Min                  Northbound                       Southbound                    Eastbound                   Westbound
+   Flowrates   Left       Thru Right     U          Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles 104        496      0     0           0     808     56     0        0       0      0    0      0        0     0     0                     1464
+ Heavy Trucks    0         40      0                 0      32      4              0       0      0           0        0     0                            76
+  Pedestrians               0                                0                            12                          56                                  68
+    Bicycles     1          1      0                 0       3      1              0       0      0            0       0     0                             6
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- Harvard St (North)                                                                                           QC JOB #: 10695073
+ CITY/STATE: Washington, DC                                                                                                        DATE: Thu, Apr 11 2013
+                    1041          1145                            Peak-Hour: 5:00 PM -- 6:00 PM                                     2.6        3.7
+
+                     50 991        0
+                                                                 Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                    0.0 2.7 0.0
+
+
+       244   0                             0       0
+                                                                                                                       0.4   0.0                      0.0      0.0
+             0             0.94            0
+                                                                                                                             0.0                      0.0
+       0     0                             0       0
+                                                                                                                       0.0   0.0                      0.0      0.0
+
+                    194 1145 0
+                                                                                                                                    0.5 3.7 0.0
+
+                    991           1339
+                                                                                                                                    2.7        3.2
+
+
+
+                            9                                                                                                        3    12   0
+
+
+
+                                                                                                                             0                          0
+
+             67                          124                                                                                 0                          0
+
+                                                                                                                             0                          0
+
+                            0                                                                                                       11    21   0
+
+
+
+
+                           NA                                                                                                             NA
+
+
+
+
+             NA                          NA                                                                                  NA                       NA
+
+
+
+
+                           NA                                                                                                             NA
+
+
+
+ 15-Min Count                 16th St                            16th St                 Harvard St (North)         Harvard St (North)               Total      Hourly
+    Period                 (Northbound)                       (Southbound)                 (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left      Thru Right         U       Left    Thru Right    U       Left Thru Right        U   Left Thru Right        U
+    4:30 PM        45      263        0        0        0      214       7   0        1      0       0      0    0      0       0      0             530
+    4:45 PM        28      273        0        0        0      217     14    0        0      0       0      0    0      0       0      0             532
+    5:00 PM        50      277        0        0        0      223     12    0        0      0       0      0    0      0       0      0             562
+    5:15 PM        50      289        0        0        0      256     15    0        0      0       0      0    0      0       0      0             610            2234
+    5:30 PM        52      298        0        0        0      270     13    0        0      0       0      0    0      0       0      0             633            2337
+    5:45 PM        42      281        0        0        0      242     10    0        0      0       0      0    0      0       0      0             575            2380
+    6:00 PM        38      249        0        0        0      249     13    0        0      0       0      0    0      0       0      0             549            2367
+    6:15 PM        55      238        0        0        0      236     14    0        0      0       0      0    0      0       0      0             543            2300
+
+
+
+
+ Peak 15-Min            Northbound                              Southbound                      Eastbound                   Westbound
+   Flowrates   Left Thru Right     U                   Left Thru Right    U          Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles 208 1192      0     0                    0 1080      52     0          0       0      0    0      0        0     0     0                     2532
+ Heavy Trucks    0   36      0                          0    32      0                0       0      0           0        0     0                             68
+  Pedestrians         0                                       8                              36                         164                                  208
+    Bicycles     4    4      0                          0     3      3                0       0      0            0       0     0                             14
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St -- Harvard St (North)                                                                                        QC JOB #: 10695074
+ CITY/STATE: Washington, DC                                                                                                     DATE: Sat, May 11 2013
+                    821          604                           Peak-Hour: 4:00 PM -- 5:00 PM                                     1.9        3.0
+
+                     45 776       0
+                                                              Peak 15-Min: 4:00 PM -- 4:15 PM
+                                                                                                                                 2.2 1.9 0.0
+
+
+       182   0                          0       0
+                                                                                                                    1.1   0.0                      0.0      0.0
+             0            0.98          0
+                                                                                                                          0.0                      0.0
+       0     0                          0       0
+                                                                                                                    0.0   0.0                      0.0      0.0
+
+                    137 604       0
+                                                                                                                                 0.7 3.0 0.0
+
+                    776          741
+                                                                                                                                 1.9        2.6
+
+
+
+                           4                                                                                                      4    10   0
+
+
+
+                                                                                                                          0                          0
+
+             55                        91                                                                                 0                          0
+
+                                                                                                                          0                          0
+
+                           0                                                                                                      2    9    0
+
+
+
+
+                          NA                                                                                                           NA
+
+
+
+
+             NA                        NA                                                                                 NA                       NA
+
+
+
+
+                          NA                                                                                                           NA
+
+
+
+ 15-Min Count                16th St                          16th St                 Harvard St (North)         Harvard St (North)               Total      Hourly
+    Period                (Northbound)                     (Southbound)                 (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left     Thru Right       U       Left    Thru Right    U       Left Thru Right        U   Left Thru Right        U
+    3:00 PM        32     124        0      0        0      176       8   1        0      0       0      0    0      0       0      0             341
+    3:15 PM        34     154        0      0        0      195       6   0        1      0       0      0    0      0       0      0             390
+    3:30 PM        25     150        0      0        0      194       9   0        0      0       0      0    0      0       0      0             378
+    3:45 PM        23     145        0      1        0      189     19    0        0      0       0      0    0      0       0      0             377            1486
+    4:00 PM        36     151        0      0        0      199     11    0        0      0       0      0    0      0       0      0             397            1542
+    4:15 PM        39     147        0      0        0      194       9   0        0      0       0      0    0      0       0      0             389            1541
+    4:30 PM        35     139        0      0        0      191     18    0        0      0       0      0    0      0       0      0             383            1546
+    4:45 PM        27     167        0      0        0      192       7   0        0      0       0      0    0      0       0      0             393            1562
+
+
+
+
+ Peak 15-Min                  Northbound                       Southbound                    Eastbound                   Westbound
+   Flowrates   Left       Thru Right     U          Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles 144        604      0     0           0     796     44     0        0       0      0    0      0        0     0     0                     1588
+ Heavy Trucks    4         16      0                 0      12      0              0       0      0           0        0     0                             32
+  Pedestrians               0                                0                            44                         132                                  176
+    Bicycles     1          0      0                 0       4      1              0       0      0            0       0     0                              6
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 4:12 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- Jefferson Dr SW                                                                                                QC JOB #: 10862345
+ CITY/STATE: Washington, DC                                                                                                         DATE: Wed, Dec 19 2012
+                      368             522                            Peak-Hour: 8:00 AM -- 9:00 AM
+                               0.87                                                                                                  4.3        4.8
+
+                           0   368     0
+                                                                    Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                                     0.0 4.3 0.0
+
+
+       0       51                            0        0
+                                                                                                                        0.0   0.0                      0.0       0.0
+        0.78   0               0.95          0   0.00
+                                                                                                                              0.0                      0.0
+       72      21                            0        0
+                                                                                                                        1.4   4.8                      0.0       0.0
+
+                           0   471     0
+                                                                                                                                     0.0 5.3 0.0
+
+                      389             471
+                               0.94                                                                                                  4.4        5.3
+
+
+
+                                17                                                                                                    0    12   0
+
+
+
+                                                                                                                              14                         0
+
+               69                           79                                                                                0                          0
+
+                                                                                                                              17                         0
+
+                                14                                                                                                    0    7    0
+
+
+
+
+                               NA                                                                                                          NA
+
+
+
+
+               NA                           NA                                                                                NA                       NA
+
+
+
+
+                               NA                                                                                                          NA
+
+
+
+ 15-Min Count                      3rd St                            3rd St                Jefferson Dr SW              Jefferson Dr SW               Total       Hourly
+    Period                     (Northbound)                      (Southbound)                (Eastbound)                 (Westbound)                              Totals
+ Beginning At       Left        Thru Right        U       Left    Thru Right    U   Left     Thru Right      U   Left     Thru Right       U
+    7:00 AM          0           79       0       0        0       48       0   0     8        0      3      0    0         0      0       0          138
+    7:15 AM          0           94       0       0        0       58       0   0     7        0      2      0    0         0      0       0          161
+    7:30 AM          0           75       0       0        0       65       0   0     6        0      1      0    0         0      0       0          147
+    7:45 AM          0           84       0       0        0       81       0   0    14        0      3      0    0         0      0       0          182              628
+    8:00 AM          0         125        0       0        0       83       0   0    19        0      6      0    0         0      0       0          233              723
+    8:15 AM          0         102        0       0        0       87       0   0    12        0      6      0    0         0      0       0          207              769
+    8:30 AM          0         121        0       0        0       92       0   0    13        0      5      0    0         0      0       0          231              853
+    8:45 AM          0         123        0       0        0      106       0   0     7        0      4      0    0         0      0       0          240              911
+
+
+
+
+ Peak 15-Min                       Northbound                        Southbound                 Eastbound                    Westbound
+   Flowrates        Left       Thru Right     U           Left   Thru Right    U    Left    Thru Right    U      Left    Thru Right    U                      Total
+  All Vehicles       0         492      0     0            0     424      0     0    28       0    16     0       0        0     0     0                      960
+ Heavy Trucks        0          20      0                  0      16      0           0       0      0            0        0     0                             36
+  Pedestrians                   12                                24                         72                           88                                  196
+    Bicycles         0           0      0                  0       5      0          5        0      3            0        0     0                             13
+   Railroad
+Stopped Buses
+ Comments: 2183
+Report generated on 1/31/2013 2:34 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- Jefferson Dr SW                                                                                                  QC JOB #: 10862347
+ CITY/STATE: Washington, DC                                                                                                           DATE: Wed, Dec 19 2012
+                      447             370                           Peak-Hour: 11:15 AM -- 12:15 PM
+                               0.96                                                                                                    2.0        7.6
+
+                           0   447     0
+                                                                   Peak 15-Min: 11:15 AM -- 11:30 AM
+                                                                                                                                       0.0 2.0 0.0
+
+
+       0       51                            0        0
+                                                                                                                        0.0    5.9                       0.0       0.0
+        0.87   0               0.97          0   0.00
+                                                                                                                               0.0                       0.0
+       90      39                            0        0
+                                                                                                                        10.0   15.4                      0.0       0.0
+
+                           1   319     0
+                                                                                                                                       0.0 7.8 0.0
+
+                      487             320
+                               0.96                                                                                                    3.1        7.8
+
+
+
+                               144                                                                                                      0    8    0
+
+
+
+                                                                                                                               1                           0
+
+               190                          83                                                                                 0                           0
+
+                                                                                                                               4                           0
+
+                                55                                                                                                      0    5    0
+
+
+
+
+                               NA                                                                                                            NA
+
+
+
+
+               NA                           NA                                                                                 NA                        NA
+
+
+
+
+                               NA                                                                                                            NA
+
+
+
+ 15-Min Count                      3rd St                            3rd St                Jefferson Dr SW              Jefferson Dr SW                 Total       Hourly
+    Period                     (Northbound)                      (Southbound)                (Eastbound)                 (Westbound)                                Totals
+ Beginning At       Left        Thru Right        U       Left    Thru Right    U   Left     Thru Right      U   Left     Thru Right         U
+   11:00 AM          0           71       0       0        0      106       0   0     8        0     12      0    0         0      0         0          197
+   11:15 AM          0           82       0       1        0      117       0   0     9        0     13      0    0         0      0         0          222
+   11:30 AM          0           81       0       0        0      107       0   0    14        0      7      0    0         0      0         0          209
+   11:45 AM          0           79       0       0        0      117       0   0    13        0      8      0    0         0      0         0          217              845
+   12:00 PM          0           77       0       0        0      106       0   0    15        0     11      0    0         0      0         0          209              857
+   12:15 PM          0           79       0       0        0       89       0   0    10        0      6      0    0         0      0         0          184              819
+   12:30 PM          1           51       0       0        0       96       0   0     7        0      0      0    0         0      0         0          155              765
+   12:45 PM          0           68       0       1        0      109       0   0     5        0     11      0    0         0      0         0          194              742
+
+
+
+
+ Peak 15-Min                       Northbound                        Southbound                 Eastbound                    Westbound
+   Flowrates        Left       Thru Right     U           Left   Thru Right    U    Left    Thru Right    U      Left    Thru Right    U                        Total
+  All Vehicles       0         328      0     4            0     468      0     0    36       0    52     0       0        0     0     0                        888
+ Heavy Trucks        0          28      0                  0      16      0           0       0      8            0        0     0                               52
+  Pedestrians                   44                                96                        156                           44                                    340
+    Bicycles         0           0      0                  0       4      0          0        0      0            0        0     0                                4
+   Railroad
+Stopped Buses
+ Comments: 2183
+Report generated on 1/31/2013 2:34 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- Jefferson Dr SW                                                                                                QC JOB #: 10862346
+ CITY/STATE: Washington, DC                                                                                                         DATE: Wed, Dec 19 2012
+                      829             296                            Peak-Hour: 5:15 PM -- 6:15 PM
+                               0.89                                                                                                  2.3        3.4
+
+                           0   829     0
+                                                                    Peak 15-Min: 5:45 PM -- 6:00 PM
+                                                                                                                                     0.0 2.3 0.0
+
+
+       1       32                            0        0
+                                                                                                                        0.0   6.3                      0.0       0.0
+        0.80   0               0.93          0   0.00
+                                                                                                                              0.0                      0.0
+       70      38                            0        0
+                                                                                                                        4.3   2.6                      0.0       0.0
+
+                           1   264     0
+                                                                                                                                     0.0 3.0 0.0
+
+                      867             265
+                               0.93                                                                                                  2.3        3.0
+
+
+
+                                24                                                                                                    1    6    0
+
+
+
+                                                                                                                              10                         0
+
+               109                          10                                                                                0                          0
+
+                                                                                                                              16                         0
+
+                                32                                                                                                    0    16   0
+
+
+
+
+                               NA                                                                                                          NA
+
+
+
+
+               NA                           NA                                                                                NA                       NA
+
+
+
+
+                               NA                                                                                                          NA
+
+
+
+ 15-Min Count                      3rd St                            3rd St                Jefferson Dr SW              Jefferson Dr SW               Total       Hourly
+    Period                     (Northbound)                      (Southbound)                (Eastbound)                 (Westbound)                              Totals
+ Beginning At       Left        Thru Right        U       Left    Thru Right    U   Left     Thru Right      U   Left     Thru Right       U
+    4:30 PM          0           66       0       0        0      204       0   1    10        0     10      0    0         0      0       0          291
+    4:45 PM          0           74       0       0        0      205       0   0     2        0     15      0    0         0      0       0          296
+    5:00 PM          0           65       0       0        0      196       0   0     7        0      7      0    0         0      0       0          275
+    5:15 PM          0           62       0       0        0      195       0   0    11        0     13      0    0         0      0       0          281             1143
+    5:30 PM          0           74       0       0        0      178       0   0     9        0     13      0    0         0      0       0          274             1126
+    5:45 PM          0           67       0       0        0      234       0   0     5        0      7      0    0         0      0       0          313             1143
+    6:00 PM          1           61       0       0        0      222       0   0     7        0      5      0    0         0      0       0          296             1164
+    6:15 PM          0           66       0       0        0      203       0   0     2        0      5      0    0         0      0       0          276             1159
+
+
+
+
+ Peak 15-Min                       Northbound                        Southbound                 Eastbound                    Westbound
+   Flowrates        Left       Thru Right     U           Left   Thru Right    U    Left    Thru Right    U      Left    Thru Right    U                      Total
+  All Vehicles       0         268      0     0            0     936      0     0    20       0    28     0       0        0     0     0                      1252
+ Heavy Trucks        0           0      0                  0       4      0           4       0      0            0        0     0                               8
+  Pedestrians                   20                                68                         84                            0                                   172
+    Bicycles         0           6      0                  0       0      0          2        0      7            0        0     0                              15
+   Railroad
+Stopped Buses
+ Comments: 2183
+Report generated on 1/31/2013 2:34 PM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: 3rd St -- Jefferson Dr SW                                                                                                 QC JOB #: 10862348
+ CITY/STATE: Washington, DC                                                                                                          DATE: Sat, Jan 05 2013
+                      288             286                             Peak-Hour: 3:15 PM -- 4:15 PM
+                               0.96                                                                                                   2.1        0.3
+
+                           0   288     0
+                                                                     Peak 15-Min: 3:15 PM -- 3:30 PM
+                                                                                                                                      0.0 2.1 0.0
+
+
+       0       77                             0        0
+                                                                                                                         0.0   1.3                      0.0       0.0
+        0.91   0               0.93           0   0.00
+                                                                                                                               0.0                      0.0
+       157     80                             0        0
+                                                                                                                         4.5   7.5                      0.0       0.0
+
+                           1   209     0
+                                                                                                                                      0.0 0.0 0.0
+
+                      369             210
+                               0.88                                                                                                   3.3        0.0
+
+
+
+                               147                                                                                                     0    5    0
+
+
+
+                                                                                                                               7                          0
+
+               215                          273                                                                                0                          0
+
+                                                                                                                               10                         0
+
+                               241                                                                                                     0    6    0
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+
+               NA                           NA                                                                                 NA                       NA
+
+
+
+
+                               NA                                                                                                           NA
+
+
+
+ 15-Min Count                      3rd St                             3rd St                Jefferson Dr SW              Jefferson Dr SW               Total       Hourly
+    Period                     (Northbound)                       (Southbound)                (Eastbound)                 (Westbound)                              Totals
+ Beginning At       Left        Thru Right         U       Left    Thru Right    U   Left     Thru Right      U   Left     Thru Right       U
+    3:00 PM          0           55       0        0        0       59       0   0    17        0     20      0    0         0      0       0          151
+    3:15 PM          0           63       0        0        0       73       0   0    22        0     18      0    0         0      0       0          176
+    3:30 PM          0           50       0        0        0       75       0   0    20        0     16      0    0         0      0       0          161
+    3:45 PM          0           53       0        1        0       67       0   0    23        0     20      0    0         0      0       0          164              652
+    4:00 PM          0           43       0        0        0       73       0   0    12        0     26      0    0         0      0       0          154              655
+    4:15 PM          0           41       0        0        0       70       0   1     7        0     27      0    0         0      0       0          146              625
+    4:30 PM          0           33       0        0        0       56       0   0    16        0     18      0    0         0      0       0          123              587
+    4:45 PM          0           40       0        0        0       57       0   1    13        0     14      0    0         0      0       0          125              548
+
+
+
+
+ Peak 15-Min                       Northbound                         Southbound                 Eastbound                    Westbound
+   Flowrates        Left       Thru Right     U            Left   Thru Right    U    Left    Thru Right    U      Left    Thru Right    U                      Total
+  All Vehicles       0         252      0     0             0     292      0     0    88       0    72     0       0        0     0     0                      704
+ Heavy Trucks        0           0      0                   0       4      0           0       0      4            0        0     0                              8
+  Pedestrians                  140                                140                        156                          192                                  628
+    Bicycles         0           1      0                   0       2      0          3        0      4            0        0     0                             10
+   Railroad
+Stopped Buses
+ Comments: 2183
+Report generated on 1/31/2013 9:44 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

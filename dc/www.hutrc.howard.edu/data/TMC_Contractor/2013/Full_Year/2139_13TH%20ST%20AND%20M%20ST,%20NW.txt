@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: 13th St NW -- M St NW                                                                                           QC JOB #: 10863445
+ CITY/STATE: Washington, DC                                                                                                DATE: Wed, Feb 27 2013
+                    762          266                          Peak-Hour: 8:00 AM -- 9:00 AM                                 1.7        3.4
+
+                       24 722 16
+                                                             Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                            0.0 1.8 0.0
+
+
+       112   5                          19   122
+                                                                                                              0.9   20.0                      0.0       0.8
+             11           0.89          48
+                                                                                                                    0.0                       0.0
+       28    12                         55    45
+                                                                                                              3.6   0.0                       1.8       2.2
+
+                       48 242 17
+                                                                                                                            2.1 3.3 5.9
+
+                    796          307
+                                                                                                                            1.8        3.3
+
+
+
+                           98                                                                                                2    21   0
+
+
+
+                                                                                                                    0                           0
+
+             152                       157                                                                          2                          18
+
+                                                                                                                    0                           3
+
+                          184                                                                                                1    0    0
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+
+             NA                        NA                                                                           NA                        NA
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+ 15-Min Count              13th St NW                      13th St NW                 M St NW                    M St NW                     Total       Hourly
+    Period                (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                               Totals
+ Beginning At     Left     Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right         U
+    7:00 AM         4       67      2        0      6      100      4    0    1       7      2    0     12       6      4         0          215
+    7:15 AM         4       43      3        1      7       91      6    0    0       2      0    0      3       4      1         0          165
+    7:30 AM         5       48      3        0      5      131      4    1    1       7      2    0     16       4      6         0          233
+    7:45 AM         5       64      5        0      3      137      2    0    3       3      2    0     13       6      9         0          252              865
+    8:00 AM        10       54      6        3      5      154      6    0    0       1      2    0     10       7      5         1          264              914
+    8:15 AM         9       62      4        2      3      195      4    0    2       4      4    0     16      11      8         0          324             1073
+    8:30 AM         7       74      4        0      4      209      6    0    2       2      5    0     11      15      2         0          341             1181
+    8:45 AM        14       52      3        3      4      164      8    0    1       4      1    0     17      15      4         0          290             1219
+
+
+
+
+ Peak 15-Min                  Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                       Total
+  All Vehicles     28     296     16     0          16    836     24     0    8       8    20     0     44      60     8     0                       1364
+ Heavy Trucks       0       8      0                 0      4      0          0       0      0           0       0     0                               12
+  Pedestrians             196                              96                       132                        140                                    564
+    Bicycles       0        0      0                0       4      1          0       0      0          1        8     0                               14
+   Railroad
+Stopped Buses
+ Comments: 2139
+Report generated on 6/4/2013 2:55 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                       Method for determining peak hour: Total Entering Volume
+ LOCATION: 13th St NW -- M St NW                                                                                        QC JOB #: 10863447
+ CITY/STATE: Washington, DC                                                                                             DATE: Wed, Feb 27 2013
+                    304          311                       Peak-Hour: 11:15 AM -- 12:15 PM                               3.9        5.8
+
+                       16 268 20
+                                                          Peak 15-Min: 11:15 AM -- 11:30 AM
+                                                                                                                         6.3 4.1 0.0
+
+
+       55    12                        20   55
+                                                                                                            7.3   8.3                      5.0       5.5
+             12           0.91         18
+                                                                                                                  8.3                      5.6
+       36    12                        17   56
+                                                                                                            5.6   0.0                      5.9       5.4
+
+                       21 277 25
+                                                                                                                         9.5 5.8 8.0
+
+                    296          323
+                                                                                                                         4.1        6.2
+
+
+
+                           57                                                                                             0    6    0
+
+
+
+                                                                                                                  0                          0
+
+             52                        43                                                                         2                          2
+
+                                                                                                                  0                          0
+
+                           54                                                                                             1    7    1
+
+
+
+
+                          NA                                                                                                   NA
+
+
+
+
+             NA                        NA                                                                         NA                       NA
+
+
+
+
+                          NA                                                                                                   NA
+
+
+
+ 15-Min Count              13th St NW                    13th St NW                 M St NW                    M St NW                    Total       Hourly
+    Period                (Northbound)                  (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left     Thru Right       U    Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM        2        79      3       0     8       49      3    1    4       2      4    0     3        4      8        0          170
+   11:15 AM        8        77      4       0     2       78      7    1    2       4      2    0     1        7      5        0          198
+   11:30 AM        4        73      8       0     9       60      4    1    3       0      7    0     6        6      6        0          187
+   11:45 AM        5        49      8       0     2       62      3    0    2       4      2    0     7        4      3        0          151              706
+   12:00 PM        4        78      5       0     5       68      2    0    5       4      1    0     2        1      6        1          182              718
+   12:15 PM        3        63      1       1     6       52      0    0    2       6      3    0     1        5      1        0          144              664
+   12:30 PM        1        72      1       0     3       54      2    0    7       4      3    0     1        8      7        0          163              640
+   12:45 PM        4        40      5       0     4       62      1    0    0       4      3    0     2        2      9        0          136              625
+
+
+
+
+ Peak 15-Min                  Northbound                    Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U       Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     32     308     16     0        8     312     28     4    8      16      8    0     4       28    20     0                      792
+ Heavy Trucks       8      16      0              0      16      4          0       0      0          0        4     4                             52
+  Pedestrians              44                            52                        20                         24                                  140
+    Bicycles       0        4      1              0       2      0          0       0      0          0        0     0                              7
+   Railroad
+Stopped Buses
+ Comments: 2139
+Report generated on 6/4/2013 2:55 PM                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: 13th St NW -- M St NW                                                                                          QC JOB #: 10863446
+ CITY/STATE: Washington, DC                                                                                               DATE: Wed, Feb 27 2013
+                    353          866                          Peak-Hour: 5:00 PM -- 6:00 PM                                4.2        1.7
+
+                       16 303 34
+                                                             Peak 15-Min: 5:45 PM -- 6:00 PM
+                                                                                                                           0.0 5.0 0.0
+
+
+       97    31                         23    77
+                                                                                                              1.0   0.0                      0.0       1.3
+             40           0.96          33
+                                                                                                                    2.5                      0.0
+       82    11                         21   103
+                                                                                                              1.2   0.0                      4.8       1.9
+
+                       51 812 29
+                                                                                                                           2.0 1.8 3.4
+
+                    338          892
+                                                                                                                           4.7        1.9
+
+
+
+                          104                                                                                               0    2    1
+
+
+
+                                                                                                                    0                          0
+
+             160                       236                                                                          8                         14
+
+                                                                                                                    0                          0
+
+                          164                                                                                               0    22   0
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+
+             NA                        NA                                                                           NA                       NA
+
+
+
+
+                          NA                                                                                                     NA
+
+
+
+ 15-Min Count              13th St NW                      13th St NW                 M St NW                    M St NW                    Total       Hourly
+    Period                (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left     Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    4:30 PM        11     119       4        0       7      75      7    0     5      6      3    0      9      10      3        1          260
+    4:45 PM        10     147       1        3      10      75      6    0     7     11      3    0      3       8      5        0          289
+    5:00 PM        12     218       8        1       9      64      7    0     7     12      3    0      2       3      9        0          355
+    5:15 PM        11     185       8        1      11      82      3    0     7      7      3    0      3       8      5        0          334             1238
+    5:30 PM        12     207       5        1       5      76      5    0     4      8      1    0     12      10      5        0          351             1329
+    5:45 PM        13     202       8        0       9      81      1    0    13     13      4    0      4      12      4        0          364             1404
+    6:00 PM         9     200       6        0       9      71      4    0     4      8      3    0      6       6      8        0          334             1383
+    6:15 PM        10     188       8        1       4      61      6    0     5      4      2    0      3       6      4        0          302             1351
+
+
+
+
+ Peak 15-Min                  Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     52     808     32     0          36    324      4     0    52     52    16     0     16      48    16     0                      1456
+ Heavy Trucks       0      36      0                 0     36      0           0      0      0           0       0     0                              72
+  Pedestrians             192                              76                       168                        196                                   632
+    Bicycles       0        8      0                0       1      0          0       4      0          0        5     0                              18
+   Railroad
+Stopped Buses
+ Comments: 2139
+Report generated on 6/4/2013 2:55 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                        Method for determining peak hour: Total Entering Volume
+ LOCATION: 13th St NW -- M St NW                                                                                         QC JOB #: 10863448
+ CITY/STATE: Washington, DC                                                                                              DATE: Sat, Mar 09 2013
+                    397          384                         Peak-Hour: 3:00 PM -- 4:00 PM                                1.3        1.0
+
+                       19 347 31
+                                                            Peak 15-Min: 3:30 PM -- 3:45 PM
+                                                                                                                          5.3 1.2 0.0
+
+
+       64    13                         25   72
+                                                                                                             1.6   0.0                      0.0       2.8
+             24           0.96          27
+                                                                                                                   0.0                      0.0
+       42    5                          20   79
+                                                                                                             0.0   0.0                     10.0       0.0
+
+                       19 346 23
+                                                                                                                          0.0 1.2 0.0
+
+                    372          388
+                                                                                                                          1.6        1.0
+
+
+
+                           99                                                                                              0    10   1
+
+
+
+                                                                                                                   0                          3
+
+             107                       128                                                                         0                          4
+
+                                                                                                                   0                          1
+
+                           95                                                                                              0    6    2
+
+
+
+
+                          NA                                                                                                    NA
+
+
+
+
+             NA                        NA                                                                          NA                       NA
+
+
+
+
+                          NA                                                                                                    NA
+
+
+
+ 15-Min Count              13th St NW                     13th St NW                 M St NW                    M St NW                    Total       Hourly
+    Period                (Northbound)                   (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left     Thru Right        U    Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    3:00 PM        6        86      7        0      3      94      6    0    4       3      3    0     4        7      8        0          231
+    3:15 PM        2        93      4        0      4      87      2    0    3      11      1    0     5        8      4        0          224
+    3:30 PM        4        90      4        0     12      84      6    0    5       6      0    0     6        8      7        1          233
+    3:45 PM        6        77      8        1     12      82      5    0    1       4      1    0     4        4      6        0          211              899
+    4:00 PM        0        92     11        1     11      73      4    1    2       4      2    0     7        9      8        1          226              894
+    4:15 PM        3        92      9        0      1      78      6    0    2       4      0    0     7       14      8        0          224              894
+    4:30 PM        4        75      4        0      5      72      3    0    6       3      1    0     3        7      5        0          188              849
+    4:45 PM        2        72      3        0      5      73      4    1    3       7      3    0     4        9      7        0          193              831
+
+
+
+
+ Peak 15-Min                  Northbound                     Southbound                Eastbound                  Westbound
+   Flowrates      Left    Thru Right     U        Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     16     360     16     0         48    336     24     0    20     24      0    0     24      32    28     4                      932
+ Heavy Trucks       0       4      0                0      0      4           0      0      0           0       0     0                             8
+  Pedestrians              84                             72                        96                        136                                  388
+    Bicycles       0        1      0               0       2      0          0       0      0          0        2     1                             6
+   Railroad
+Stopped Buses
+ Comments: 2139
+Report generated on 6/4/2013 2:55 PM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

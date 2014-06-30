@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St NW -- Van Buren St NW B                                                                                         QC JOB #: 10695229
+ CITY/STATE: Washington, DC                                                                                                        DATE: Wed, May 01 2013
+                    1922            849                           Peak-Hour: 7:45 AM -- 8:45 AM                                     3.9        3.7
+
+                         5 1916 1
+                                                                 Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                                    0.0 3.9 0.0
+
+
+       10    9                             0       0
+                                                                                                                      10.0   0.0                      0.0      0.0
+             0               0.94          0
+                                                                                                                             0.0                      0.0
+       11    2                             0       0
+                                                                                                                      0.0    0.0                      0.0      0.0
+
+                         5   839     0
+                                                                                                                                    20.0 3.7 0.0
+
+                    1918            844
+                                                                                                                                    3.9        3.8
+
+
+
+                              1                                                                                                      0    3    0
+
+
+
+                                                                                                                             0                          0
+
+             5                             1                                                                                 0                          0
+
+                                                                                                                             0                          0
+
+                              0                                                                                                      0    1    0
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+
+             NA                           NA                                                                                 NA                       NA
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+ 15-Min Count                 16th St NW                       16th St NW                Van Buren St NW B         Van Buren St NW B                 Total      Hourly
+    Period                   (Northbound)                     (Southbound)                  (Eastbound)              (Westbound)                                Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U       Left Thru Right       U   Left Thru Right       U
+    7:00 AM        0         135       0       0        0      475      0    0        0       0      1     0    0       0      0     0               611
+    7:15 AM        1         169       0       0        0      576      0    0        0       0      2     0    0       0      0     0               748
+    7:30 AM        0         180       0       0        0      491      0    0        2       0      2     0    0       0      0     0               675
+    7:45 AM        1         185       0       0        0      475      1    0        3       0      0     0    0       0      0     0               665            2699
+    8:00 AM        0         215       0       0        0      453      3    0        4       0      1     0    0       0      0     0               676            2764
+    8:15 AM        0         216       0       0        0      481      1    0        1       0      1     0    0       0      0     0               700            2716
+    8:30 AM        4         223       0       0        0      507      0    1        1       0      0     0    0       0      0     0               736            2777
+    8:45 AM        1         235       0       0        0      394      1    0        1       0      0     0    0       0      0     0               632            2744
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                      Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     16        892      0     0           0 2028       0     4          4       0      0    0     0        0     0     0                      2944
+ Heavy Trucks       4         28      0                 0    96      0                0       0      0          0        0     0                             128
+  Pedestrians                  0                              0                              12                          4                                    16
+    Bicycles       0           1      0                 0     0      0                0       0      0           0       0     0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 10:39 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St NW -- Van Buren St NW B                                                                                        QC JOB #: 10695230
+ CITY/STATE: Washington, DC                                                                                                       DATE: Wed, May 01 2013
+                    730             686                          Peak-Hour: 12:00 PM -- 1:00 PM                                    4.9        6.1
+
+                         4   726     0
+                                                                Peak 15-Min: 12:30 PM -- 12:45 PM
+                                                                                                                                   0.0 5.0 0.0
+
+
+       6     1                             0       0
+                                                                                                                      0.0   0.0                      0.0      0.0
+             0               0.96          0
+                                                                                                                            0.0                      0.0
+       2     1                             0       0
+                                                                                                                      0.0   0.0                      0.0      0.0
+
+                         2   685     0
+                                                                                                                                   0.0 6.1 0.0
+
+                    727             687
+                                                                                                                                   5.0        6.1
+
+
+
+                              0                                                                                                    0     1    0
+
+
+
+                                                                                                                            0                          0
+
+             3                             6                                                                                0                          0
+
+                                                                                                                            0                          0
+
+                              1                                                                                                    0     0    0
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+
+             NA                           NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                          NA
+
+
+
+ 15-Min Count                 16th St NW                       16th St NW                Van Buren St NW B         Van Buren St NW B                Total      Hourly
+    Period                   (Northbound)                     (Southbound)                  (Eastbound)              (Westbound)                               Totals
+ Beginning At     Left        Thru Right       U       Left    Thru Right    U       Left Thru Right       U   Left Thru Right       U
+   11:00 AM        0         123       0       0        0      191      2    0        0       0      0     0    0       0      0     0              316
+   11:15 AM        0         146       0       0        0      204      0    0        1       0      1     0    0       0      0     0              352
+   11:30 AM        0         181       0       0        0      184      0    0        1       0      0     0    0       0      0     0              366
+   11:45 AM        0         159       0       0        0      163      1    0        1       0      1     0    0       0      0     0              325            1359
+   12:00 PM        1         154       0       0        0      194      0    0        0       0      0     0    0       0      0     0              349            1392
+   12:15 PM        0         186       0       0        0      167      4    0        0       0      0     0    0       0      0     0              357            1397
+   12:30 PM        0         183       0       0        0      188      0    0        0       0      0     0    0       0      0     0              371            1402
+   12:45 PM        1         162       0       0        0      177      0    0        1       0      1     0    0       0      0     0              342            1419
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U        Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0         732      0     0           0     752      0     0        0       0      0    0     0        0     0     0                     1484
+ Heavy Trucks      0          28      0                 0      32      0              0       0      0          0        0     0                            60
+  Pedestrians                  4                                0                            12                          8                                  24
+    Bicycles       0           0      0                 0       0      0              0       0      0           0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 10:39 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St NW -- Van Buren St NW B                                                                                       QC JOB #: 10695231
+ CITY/STATE: Washington, DC                                                                                                      DATE: Wed, May 01 2013
+                    1146          1700                           Peak-Hour: 5:30 PM -- 6:30 PM                                    2.3        2.8
+
+                     11 1135 0
+                                                                Peak 15-Min: 6:00 PM -- 6:15 PM
+                                                                                                                                  0.0 2.3 0.0
+
+
+       12    10                           0       0
+                                                                                                                     0.0   0.0                      0.0      0.0
+             0             0.91           0
+                                                                                                                           0.0                      0.0
+       11    1                            0       0
+                                                                                                                     0.0   0.0                      0.0      0.0
+
+                         1 1690 0
+                                                                                                                                  0.0 2.8 0.0
+
+                    1136          1691
+                                                                                                                                  2.3        2.8
+
+
+
+                            0                                                                                                     0     0    0
+
+
+
+                                                                                                                           0                          0
+
+             21                          28                                                                                0                          0
+
+                                                                                                                           0                          0
+
+                            5                                                                                                     0     0    0
+
+
+
+
+                           NA                                                                                                           NA
+
+
+
+
+             NA                          NA                                                                                NA                       NA
+
+
+
+
+                           NA                                                                                                           NA
+
+
+
+ 15-Min Count               16th St NW                        16th St NW                Van Buren St NW B         Van Buren St NW B                Total      Hourly
+    Period                 (Northbound)                      (Southbound)                  (Eastbound)              (Westbound)                               Totals
+ Beginning At     Left      Thru Right        U       Left    Thru Right    U       Left Thru Right       U   Left Thru Right       U
+    4:30 PM        0       465       0        0        0      228      0    0        0       0      0     0    0       0      0     0              693
+    4:45 PM        0       366       0        0        0      235      1    0        1       0      0     0    0       0      0     0              603
+    5:00 PM        1       379       0        0        0      247      3    0        2       0      0     0    0       0      0     0              632
+    5:15 PM        0       348       0        0        0      270      3    0        1       0      1     0    0       0      0     0              623            2551
+    5:30 PM        0       325       0        0        0      265      4    0        1       0      0     0    0       0      0     0              595            2453
+    5:45 PM        0       478       0        0        0      271      1    0        5       0      0     0    0       0      0     0              755            2605
+    6:00 PM        0       476       0        0        0      303      5    0        2       0      0     0    0       0      0     0              786            2759
+    6:15 PM        1        411      0        0        0      296      1    0        2       0      1     0    0       0      0     0              712            2848
+
+
+
+
+ Peak 15-Min               Northbound                          Southbound                      Eastbound                  Westbound
+   Flowrates      Left Thru Right     U               Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0 1904       0     0                0 1212      20     0          8       0      0    0     0        0     0     0                     3144
+ Heavy Trucks      0    36      0                      0    48      0                0       0      0          0        0     0                            84
+  Pedestrians            0                                   0                              28                         32                                  60
+    Bicycles       0     0      0                      0     0      0                0       0      0           0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 10:39 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: 16th St NW -- Van Buren St NW B                                                                                         QC JOB #: 10695232
+ CITY/STATE: Washington, DC                                                                                                        DATE: Sat, May 11 2013
+                    912             1093                           Peak-Hour: 3:00 PM -- 4:00 PM                                    1.6        1.5
+
+                         9   903     0
+                                                                  Peak 15-Min: 3:30 PM -- 3:45 PM
+                                                                                                                                    0.0 1.7 0.0
+
+
+       11    7                              0       0
+                                                                                                                       0.0   0.0                      0.0      0.0
+             0               0.94           0
+                                                                                                                             0.0                      0.0
+       8     1                              0       0
+                                                                                                                       0.0   0.0                      0.0      0.0
+
+                         2 1086 0
+                                                                                                                                    0.0 1.5 0.0
+
+                    904             1088
+                                                                                                                                    1.7        1.5
+
+
+
+                              1                                                                                                      0    0    0
+
+
+
+                                                                                                                             0                          0
+
+             9                              0                                                                                0                          0
+
+                                                                                                                             0                          0
+
+                              7                                                                                                      0    0    0
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+
+             NA                            NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                           NA
+
+
+
+ 15-Min Count                 16th St NW                        16th St NW                Van Buren St NW B         Van Buren St NW B                Total      Hourly
+    Period                   (Northbound)                      (Southbound)                  (Eastbound)              (Westbound)                               Totals
+ Beginning At     Left        Thru Right        U       Left    Thru Right    U       Left Thru Right       U   Left Thru Right       U
+    3:00 PM        2         272       0        0        0      231      4    0        2       0      1     0    0       0      0     0              512
+    3:15 PM        0         260       0        0        0      216      2    0        4       0      0     0    0       0      0     0              482
+    3:30 PM        0         283       0        0        0      251      1    0        0       0      0     0    0       0      0     0              535
+    3:45 PM        0         271       0        0        0      205      2    0        1       0      0     0    0       0      0     0              479            2008
+    4:00 PM        1         251       0        0        0      227      0    0        1       0      0     0    0       0      0     0              480            1976
+    4:15 PM        1         282       0        0        0      212      1    0        1       0      0     0    0       0      0     0              497            1991
+    4:30 PM        1         281       0        0        0      245      2    0        2       0      1     0    0       0      0     0              532            1988
+    4:45 PM        1         278       0        0        0      216      1    0        2       0      1     0    0       0      0     0              499            2008
+
+
+
+
+ Peak 15-Min               Northbound                            Southbound                      Eastbound                  Westbound
+   Flowrates      Left Thru Right     U                 Left Thru Right    U          Left   Thru Right    U    Left    Thru Right    U                     Total
+  All Vehicles     0 1132       0     0                  0 1004       4     0          0       0      0    0     0        0     0     0                     2140
+ Heavy Trucks      0    16      0                        0    16      0                0       0      0          0        0     0                            32
+  Pedestrians            4                                     0                               4                          0                                   8
+    Bicycles       0     0      0                        0     0      0                0       0      0           0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 10:39 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

@@ -1,0 +1,321 @@
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 7th St -- Indiana Ave NW                                                                                              QC JOB #: 10697669
+ CITY/STATE: Washington, DC                                                                                                      DATE: Thu, Feb 09 2012
+                     313            794                            Peak-Hour: 8:00 AM -- 9:00 AM                                  6.7        7.2
+
+                         0   253 60
+                                                                  Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                                  0.0 5.9 10.0
+
+       0     0                              0       0
+                                                                                                                     0.0   0.0                       0.0      0.0
+             0               0.90           0
+                                                                                                                           0.0                       0.0
+       0     0                              0   157
+                                                                                                                     0.0   0.0                       0.0      6.4
+
+                         0   793 98
+                                                                                                                                  0.0 7.2 4.1
+
+                     253            891
+                                                                                                                                  5.9        6.8
+
+
+
+                             798                                                                                                   0    21   2
+
+
+                                                                                                                           0                          1
+
+             302                          348                                                                              2                          0
+
+                                                                                                                           0                          0
+
+
+                             212                                                                                                   0    16   1
+
+
+
+
+                              NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                               NA                        NA
+
+
+
+
+                              NA                                                                                                        NA
+
+
+
+15-Min Count                     7th St                            7th St                Indiana Ave NW              Indiana Ave NW
+   Period                    (Northbound)                      (Southbound)                (Eastbound)                 (Westbound)                             Hourly
+Beginning At                                                                                                                                       Total
+                  Left        Thru Right        U       Left    Thru Right    U   Left     Thru Right     U   Left      Thru Right      U                      Totals
+   7:00 AM          0         128      13       0        11      58       0   0     0         0     0     0     0         0     0       0          210
+   7:15 AM          0         124      18       0        12      48       0   1     0         0     0     0     0         0     0       0          203
+   7:30 AM          0         114      10       0         8      52       0   0     0         0     0     0     0         0     0       0          184
+   7:45 AM          0         149      18       0         5      57       0   0     0         0     0     0     0         0     0       0          229              826
+   8:00 AM          0         177      19       0        10      60       0   0     0         0     0     0     0         0     0       0          266              882
+   8:15 AM          0         183      27       0        10      68       0   0     0         0     0     0     0         0     0       0          288              967
+   8:30 AM          0         208      27       0        17      64       0   1     0         0     0     0     0         0     0       0          317             1100
+   8:45 AM          0         225      25       0        22      61       0   0     0         0     0     0     0         0     0       0          333             1204
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                  Eastbound                   Westbound
+                                                                                                                                                           Total
+  Flowrates       Left       Thru Right     U           Left   Thru Right    U    Left    Thru Right    U     Left    Thru Right    U
+  All Vehicles      0        900    100     0            88    244     0     0      0       0      0    0       0       0      0    0                      1332
+ Heavy Trucks       0         44      8                   8     16     0            0       0      0            0       0      0                            76
+  Pedestrians                224                               856                        320                         396                                  1796
+   Bicycles         0          8      1                   1      5     0            0       0      0            0       0      0                            15
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/28/2012 12:42 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 7th St -- Indiana Ave NW                                                                                              QC JOB #: 10697670
+ CITY/STATE: Washington, DC                                                                                                      DATE: Thu, Feb 09 2012
+                     359            583                           Peak-Hour: 11:30 AM -- 12:30 PM                                 12.5        12.9
+
+                         0   285 74
+                                                                 Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                                  0.0 15.4 1.4
+
+       0     0                              0       0
+                                                                                                                     0.0   0.0                         0.0      0.0
+             0               0.97           0
+                                                                                                                           0.0                         0.0
+       0     0                              0   144
+                                                                                                                     0.0   0.0                         0.0      2.8
+
+                         0   581 72
+                                                                                                                                  0.0 12.9 4.2
+
+                     285            653
+                                                                                                                                  15.4        11.9
+
+
+
+                             516                                                                                                   0     5     0
+
+
+                                                                                                                           0                            0
+
+             199                          374                                                                              0                            0
+
+                                                                                                                           0                            0
+
+
+                             114                                                                                                   0     1     1
+
+
+
+
+                              NA                                                                                                         NA
+
+
+
+
+             NA                           NA                                                                               NA                          NA
+
+
+
+
+                              NA                                                                                                         NA
+
+
+
+15-Min Count                     7th St                            7th St                Indiana Ave NW              Indiana Ave NW
+   Period                    (Northbound)                      (Southbound)                (Eastbound)                 (Westbound)                               Hourly
+Beginning At                                                                                                                                         Total
+                  Left        Thru Right        U       Left    Thru Right    U   Left     Thru Right     U   Left      Thru Right       U                       Totals
+  11:00 AM          0         120      22       0        17      65       0   0     0         0     0     0     0         0     0        0           224
+  11:15 AM          0         126      19       0        19      76       0   0     0         0     0     0     0         0     0        0           240
+  11:30 AM          0         135      19       0        15      74       0   1     0         0     0     0     0         0     0        0           244
+  11:45 AM          0         143      17       0        20      79       0   1     0         0     0     0     0         0     0        0           260              968
+  12:00 PM          0         144      18       0        20      65       0   0     0         0     0     0     0         0     0        0           247              991
+  12:15 PM          0         159      18       0        17      67       0   0     0         0     0     0     0         0     0        0           261             1012
+  12:30 PM          0         121      16       0        15      75       0   0     0         0     0     0     0         0     0        0           227              995
+  12:45 PM          0         123      16       0        16      73       0   0     0         0     0     0     0         0     0        0           228              963
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                  Eastbound                   Westbound
+                                                                                                                                                             Total
+  Flowrates       Left       Thru Right     U           Left   Thru Right    U    Left    Thru Right    U     Left    Thru Right    U
+  All Vehicles      0        636      72    0            68    268     0     0      0       0      0    0       0       0      0    0                        1044
+ Heavy Trucks       0         92       4                  4     36     0            0       0      0            0       0      0                              136
+  Pedestrians                124                               576                        276                         440                                    1416
+   Bicycles         0          1       0                  0      0     0            0       0      0            0       0      0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/28/2012 12:42 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 7th St -- Indiana Ave NW                                                                                              QC JOB #: 10697671
+ CITY/STATE: Washington, DC                                                                                                      DATE: Thu, Feb 09 2012
+                     443            684                            Peak-Hour: 5:00 PM -- 6:00 PM                                  4.3        4.4
+
+                         0   403 40
+                                                                  Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                  0.0 4.7 0.0
+
+       0     0                              0       0
+                                                                                                                     0.0   0.0                       0.0      0.0
+             0               0.99           0
+                                                                                                                           0.0                       0.0
+       0     0                              0   145
+                                                                                                                     0.0   0.0                       0.0      2.8
+
+                         0   683 106
+                                                                                                                                  0.0 4.4 3.8
+
+                     403            789
+                                                                                                                                  4.7        4.3
+
+
+
+                             694                                                                                                   0    8    2
+
+
+                                                                                                                           0                          0
+
+             379                          543                                                                              0                          0
+
+                                                                                                                           0                          0
+
+
+                             207                                                                                                   0    17   3
+
+
+
+
+                              NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                               NA                        NA
+
+
+
+
+                              NA                                                                                                        NA
+
+
+
+15-Min Count                     7th St                            7th St                Indiana Ave NW              Indiana Ave NW
+   Period                    (Northbound)                      (Southbound)                (Eastbound)                 (Westbound)                             Hourly
+Beginning At                                                                                                                                       Total
+                  Left        Thru Right        U       Left    Thru Right    U   Left     Thru Right     U   Left      Thru Right      U                      Totals
+   4:30 PM          0         146      19       0        15      97       0   0     0         0     0     0     0         0     0       0          277
+   4:45 PM          0         163      30       0        10      99       0   0     0         0     0     0     0         0     0       0          302
+   5:00 PM          0         164      29       0        16      99       0   0     0         0     0     0     0         0     0       0          308
+   5:15 PM          0         179      17       0        10     106       0   0     0         0     0     0     0         0     0       0          312             1199
+   5:30 PM          0         173      27       0         6     101       0   0     0         0     0     0     0         0     0       0          307             1229
+   5:45 PM          0         167      33       0         7      97       0   1     0         0     0     0     0         0     0       0          305             1232
+   6:00 PM          0         158      30       0         9     108       0   2     0         0     0     0     0         0     0       0          307             1231
+   6:15 PM          0         170      21       0        13      81       0   1     0         0     0     0     0         0     0       0          286             1205
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                  Eastbound                   Westbound
+                                                                                                                                                           Total
+  Flowrates       Left       Thru Right     U           Left   Thru Right    U    Left    Thru Right    U     Left    Thru Right    U
+  All Vehicles      0        716      68    0            40    424     0     0      0       0      0    0       0       0      0    0                      1248
+ Heavy Trucks       0         40       4                  0      8     0            0       0      0            0       0      0                            52
+  Pedestrians                212                               712                        444                         524                                  1892
+   Bicycles         0          8       0                  2      2     0            0       0      0            0       0      0                            12
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/28/2012 12:42 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: 7th St -- Indiana Ave NW                                                                                              QC JOB #: 10697672
+ CITY/STATE: Washington, DC                                                                                                      DATE: Sat, Feb 25 2012
+                     362            471                            Peak-Hour: 3:45 PM -- 4:45 PM                                  2.8        4.5
+
+                         0   328 34
+                                                                  Peak 15-Min: 4:00 PM -- 4:15 PM
+                                                                                                                                  0.0 3.0 0.0
+
+       0     0                              0       0
+                                                                                                                     0.0   0.0                       0.0      0.0
+             0               0.97           0
+                                                                                                                           0.0                       0.0
+       0     0                              0   82
+                                                                                                                     0.0   0.0                       0.0      1.2
+
+                         0   468 51
+                                                                                                                                  0.0 4.5 2.0
+
+                     328            519
+                                                                                                                                  3.0        4.2
+
+
+
+                             294                                                                                                   0    8    0
+
+
+                                                                                                                           0                          0
+
+             294                          594                                                                              0                          0
+
+                                                                                                                           0                          0
+
+
+                              88                                                                                                   0    10   0
+
+
+
+
+                              NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                               NA                        NA
+
+
+
+
+                              NA                                                                                                        NA
+
+
+
+15-Min Count                     7th St                            7th St                Indiana Ave NW              Indiana Ave NW
+   Period                    (Northbound)                      (Southbound)                (Eastbound)                 (Westbound)                             Hourly
+Beginning At                                                                                                                                       Total
+                  Left        Thru Right        U       Left    Thru Right    U   Left     Thru Right     U   Left      Thru Right      U                      Totals
+   3:00 PM          0         127      21       0        11      67       0   1     0         0     0     0     1         0     0       0          228
+   3:15 PM          0         115      13       0         4      83       0   0     0         0     0     0     0         0     0       0          215
+   3:30 PM          0         117      16       0         7      58       0   1     0         0     0     0     1         0     0       0          200
+   3:45 PM          0         115      15       0        12      79       0   1     0         0     0     0     0         0     0       0          222              865
+   4:00 PM          0         131      15       0         8      72       0   0     0         0     0     0     0         0     0       0          226              863
+   4:15 PM          0         109      13       0         6      86       0   2     0         0     0     0     0         0     0       0          216              864
+   4:30 PM          0         113       8       0         5      91       0   0     0         0     0     0     0         0     0       0          217              881
+   4:45 PM          0         130      11       0         5      70       0   0     0         0     0     0     0         0     0       0          216              875
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                  Eastbound                   Westbound
+                                                                                                                                                           Total
+  Flowrates       Left       Thru Right     U           Left   Thru Right    U    Left    Thru Right    U     Left    Thru Right    U
+  All Vehicles      0        524      60    0            32    288     0     0      0       0      0    0       0       0      0    0                       904
+ Heavy Trucks       0         40       4                  0     16     0            0       0      0            0       0      0                            60
+  Pedestrians                 24                               364                        296                         504                                  1188
+   Bicycles         0          1       0                  0      0     0            0       0      0            0       0      0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/28/2012 12:42 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

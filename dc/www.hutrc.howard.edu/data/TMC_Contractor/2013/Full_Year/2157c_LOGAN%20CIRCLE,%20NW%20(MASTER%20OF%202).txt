@@ -1,0 +1,414 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Logan Cir NW -- Rhode Island Ave NW-3                                                                              QC JOB #: 10863410
+ CITY/STATE: Washington, DC                                                                                                   DATE: Thu, Mar 07 2013
+                         0          1223                          Peak-Hour: 8:15 AM -- 9:15 AM                                0.0        7.2
+
+                         0    0      0
+                                                                 Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                               0.0 0.0 0.0
+
+
+       0     0                             869   869
+                                                                                                                  0.0   0.0                      8.1       8.1
+             0               0.95            0
+                                                                                                                        0.0                      0.0
+       0     0                               0   257
+                                                                                                                  0.0   0.0                      0.0       5.1
+
+                         0   354 257
+                                                                                                                               0.0 5.1 5.1
+
+                         0          611
+                                                                                                                               0.0        5.1
+
+
+
+                              0                                                                                                 0    0    0
+
+
+
+                                                                                                                        0                          0
+
+             0                              66                                                                          0                          0
+
+                                                                                                                        0                          0
+
+                              76                                                                                                0    12   1
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+
+             NA                            NA                                                                           NA                       NA
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+ 15-Min Count                Logan Cir NW                     Logan Cir NW        Rhode Island Ave NW-3     Rhode Island Ave NW-3               Total       Hourly
+    Period                   (Northbound)                     (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right         U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+    6:30 AM        0           31    37          0      0        0      0    0    0      0      0    0      0      0    124    0                192
+    6:45 AM        0           40    41          0      0        0      0    0    0      0      0    0      0      0    161    0                242
+    7:00 AM        0           52    60          0      0        0      0    0    0      0      0    0      0      0    183    0                295
+    7:15 AM        0           60    45          0      0        0      0    0    0      0      0    0      0      0    179    0                284             1013
+    7:30 AM        0           46    65          0      0        0      0    0    0      0      0    0      0      0    206    0                317             1138
+    7:45 AM        0           55    64          0      0        0      0    0    0      0      0    0      0      0    208    0                327             1223
+    8:00 AM        0           86    57          0      0        0      0    0    0      0      0    0      0      0    195    0                338             1266
+    8:15 AM        0           86    56          0      0        0      0    0    0      0      0    0      0      0    212    0                354             1336
+    8:30 AM        0           84    67          0      0        0      0    0    0      0      0    0      0      0    237    0                388             1407
+    8:45 AM        0           90    72          0      0        0      0    0    0      0      0    0      0      0    215    0                377             1457
+    9:00 AM        0           94    62          0      0        0      0    0    0      0      0    0      0      0    205    0                361             1480
+    9:15 AM        0           76    65          0      0        0      0    0    0      0      0    0      0      0    206    0                347             1473
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         336    268     0           0       0      0     0    0       0      0    0     0        0   948     0                      1552
+ Heavy Trucks      0          12      8                 0       0      0          0       0      0          0        0    68                              88
+  Pedestrians                 96                                0                         0                         72                                   168
+    Bicycles       0           5      1                 0       0      0          0       0      0          0        0     0                               6
+   Railroad
+Stopped Buses
+ Comments: 2157c
+Report generated on 6/4/2013 2:55 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Logan Cir NW -- Rhode Island Ave NW-3                                                                             QC JOB #: 10863411
+ CITY/STATE: Washington, DC                                                                                                  DATE: Thu, Mar 07 2013
+                         0          643                          Peak-Hour: 12:00 PM -- 1:00 PM                               0.0        5.6
+
+                         0    0      0
+                                                                Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       0     0                            356   356
+                                                                                                                 0.0   0.0                      5.1       5.1
+             0               0.93           0
+                                                                                                                       0.0                      0.0
+       0     0                              0   316
+                                                                                                                 0.0   0.0                      0.0       7.3
+
+                         0   287 316
+                                                                                                                              0.0 6.3 7.3
+
+                         0          603
+                                                                                                                              0.0        6.8
+
+
+
+                              0                                                                                                0    0    0
+
+
+
+                                                                                                                       0                          2
+
+             0                             33                                                                          1                          0
+
+                                                                                                                       0                          0
+
+                              25                                                                                               0    6    2
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+ 15-Min Count                Logan Cir NW                    Logan Cir NW        Rhode Island Ave NW-3     Rhode Island Ave NW-3               Total       Hourly
+    Period                   (Northbound)                    (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+   11:00 AM        0           69    79         0      0        0      0    0    0      0      0    0      0      0     82    0                230
+   11:15 AM        0           62    81         0      0        0      0    0    0      0      0    0      0      0     85    0                228
+   11:30 AM        0           54    86         0      0        1      0    0    0      0      0    0      0      0     87    0                228
+   11:45 AM        0           59    81         0      0        0      0    0    0      0      0    0      0      0     98    0                238              924
+   12:00 PM        0           63    69         0      0        0      0    0    0      0      0    0      0      0     95    0                227              921
+   12:15 PM        0           80    74         0      0        0      0    0    0      0      0    0      0      0     77    0                231              924
+   12:30 PM        0           70    80         0      0        0      0    0    0      0      0    0      0      0     93    0                243              939
+   12:45 PM        0           74    93         0      0        0      0    0    0      0      0    0      0      0     91    0                258              959
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         296    372     0          0       0      0     0    0       0      0    0     0        0   364     0                      1032
+ Heavy Trucks      0          24     16                0       0      0          0       0      0          0        0    16                             56
+  Pedestrians                 48                               0                         0                         48                                   96
+    Bicycles       0           1      0                0       0      0          0       1      0          0        0     0                              2
+   Railroad
+Stopped Buses
+ Comments: 2157c
+Report generated on 6/6/2013 11:57 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Logan Cir NW -- Rhode Island Ave NW-3                                                                              QC JOB #: 10863412
+ CITY/STATE: Washington, DC                                                                                                   DATE: Thu, Mar 07 2013
+                         0          1179                          Peak-Hour: 5:15 PM -- 6:15 PM                                0.0        1.4
+
+                         0    0      0
+                                                                 Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                               0.0 0.0 0.0
+
+
+       0     0                             489   489
+                                                                                                                  0.0   0.0                      2.2       2.2
+             0               0.93            0
+                                                                                                                        0.0                      0.0
+       0     0                               0   725
+                                                                                                                  0.0   0.0                      0.0       3.3
+
+                         0   690 725
+                                                                                                                               0.0 0.7 3.3
+
+                         0          1415
+                                                                                                                               0.0        2.0
+
+
+
+                              0                                                                                                 0    0    0
+
+
+
+                                                                                                                        0                          4
+
+             0                              50                                                                          0                          0
+
+                                                                                                                        0                          0
+
+                              64                                                                                                0    26   23
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+
+             NA                            NA                                                                           NA                       NA
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+ 15-Min Count                Logan Cir NW                     Logan Cir NW        Rhode Island Ave NW-3     Rhode Island Ave NW-3               Total       Hourly
+    Period                   (Northbound)                     (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right         U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+    3:30 PM        0           83   111          0      0        0      0    0    0      0      0    0      0      0    116    0                310
+    3:45 PM        0           72   123          0      0        0      0    0    0      0      0    0      0      0    104    0                299
+    4:00 PM        0           96   163          0      0        0      0    0    0      0      0    0      0      0    106    0                365
+    4:15 PM        0           95   160          0      0        0      0    0    0      0      0    0      0      0    134    0                389             1363
+    4:30 PM        0           99   139          0      0        0      0    0    0      0      0    0      0      0    124    0                362             1415
+    4:45 PM        0          121   157          0      0        0      0    0    0      0      0    0      0      0    126    0                404             1520
+    5:00 PM        0          127   166          0      0        0      0    0    0      0      0    0      0      0    113    0                406             1561
+    5:15 PM        0          182   185          0      0        0      0    0    0      0      0    0      0      0    126    0                493             1665
+    5:30 PM        0          181   199          0      0        0      0    0    0      0      0    0      0      0    131    0                511             1814
+    5:45 PM        0          159   174          0      0        0      0    0    0      0      0    0      0      0    135    0                468             1878
+    6:00 PM        0          168   167          0      0        0      0    0    0      0      0    0      0      0     97    0                432             1904
+    6:15 PM        0          189   144          0      0        0      0    0    0      0      0    0      0      0     91    0                424             1835
+    6:30 PM        0          145   149          0      0        0      0    0    0      0      0    0      0      0     95    0                389             1713
+    6:45 PM        0          129   126          0      0        0      0    0    0      0      0    0      0      0     75    0                330             1575
+
+
+
+
+ Peak 15-Min                     Northbound                       Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         724    796     0           0       0      0     0    0       0      0    0     0        0   524     0                      2044
+ Heavy Trucks      0           4     36                 0       0      0          0       0      0          0        0    12                             52
+  Pedestrians                 48                                0                         0                         48                                   96
+    Bicycles       0           8      7                 0       0      0          0       0      0          0        0     2                             17
+   Railroad
+Stopped Buses
+ Comments: 2157c
+Report generated on 6/4/2013 2:55 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Logan Cir NW -- Rhode Island Ave NW-3                                                                             QC JOB #: 10863431
+ CITY/STATE: Washington, DC                                                                                                  DATE: Thu, Mar 07 2013
+                         0          623                          Peak-Hour: 7:00 PM -- 8:00 PM                                0.0        0.8
+
+                         0    0      0
+                                                                Peak 15-Min: 7:00 PM -- 7:15 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       0     0                            256   256
+                                                                                                                 0.0   0.0                      0.8       0.8
+             0               0.87           0
+                                                                                                                       0.0                      0.0
+       0     0                              0   414
+                                                                                                                 0.0   0.0                      0.0       2.2
+
+                         0   367 414
+                                                                                                                              0.0 0.8 2.2
+
+                         0          781
+                                                                                                                              0.0        1.5
+
+
+
+                              0                                                                                                0    0    0
+
+
+
+                                                                                                                       0                          0
+
+             0                             43                                                                          0                          1
+
+                                                                                                                       0                          0
+
+                              69                                                                                               0    16   8
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+ 15-Min Count                Logan Cir NW                    Logan Cir NW        Rhode Island Ave NW-3     Rhode Island Ave NW-3               Total       Hourly
+    Period                   (Northbound)                    (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+    7:00 PM        0          111   125         0      0        0      0    0    0      0      0    0      0      0     61    0                297
+    7:15 PM        0          104   118         0      0        0      0    0    0      0      0    0      0      0     67    0                289
+    7:30 PM        0           78    99         0      0        0      0    0    0      0      0    0      0      0     67    0                244
+    7:45 PM        0           74    72         0      0        0      0    0    0      0      0    0      0      0     61    0                207             1037
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         444    500     0          0       0      0     0    0       0      0    0     0        0   244     0                      1188
+ Heavy Trucks      0           0     28                0       0      0          0       0      0          0        0     0                              28
+  Pedestrians                 80                               0                         0                         44                                   124
+    Bicycles       0           6      2                0       0      0          0       0      0          0        0     0                               8
+   Railroad
+Stopped Buses
+ Comments: 2157c
+Report generated on 6/6/2013 11:57 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Logan Cir NW -- Rhode Island Ave NW-3                                                                             QC JOB #: 10863430
+ CITY/STATE: Washington, DC                                                                                                  DATE: Sat, Mar 09 2013
+                         0          816                          Peak-Hour: 2:45 PM -- 3:45 PM                                0.0        1.5
+
+                         0    0      0
+                                                                Peak 15-Min: 3:00 PM -- 3:15 PM
+                                                                                                                              0.0 0.0 0.0
+
+
+       0     0                            433   433
+                                                                                                                 0.0   0.0                      1.6       1.6
+             0               0.96           0
+                                                                                                                       0.0                      0.0
+       0     0                              0   399
+                                                                                                                 0.0   0.0                      0.0       2.0
+
+                         0   383 399
+                                                                                                                              0.0 1.3 2.0
+
+                         0          782
+                                                                                                                              0.0        1.7
+
+
+
+                              0                                                                                                0    0    0
+
+
+
+                                                                                                                       0                          5
+
+             0                            100                                                                          4                          0
+
+                                                                                                                       0                          0
+
+                              89                                                                                               0    22   7
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+
+             NA                           NA                                                                           NA                       NA
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+ 15-Min Count                Logan Cir NW                    Logan Cir NW        Rhode Island Ave NW-3     Rhode Island Ave NW-3               Total       Hourly
+    Period                   (Northbound)                    (Southbound)            (Eastbound)               (Westbound)                                 Totals
+ Beginning At     Left        Thru Right        U     Left    Thru Right    U   Left Thru Right     U     Left Thru Right     U
+    1:00 PM        0           87    86         0      0        0      0    0    0      0      0    0      0      0    104    0                277
+    1:15 PM        0           77    76         0      0        0      0    0    0      0      0    0      0      0    115    0                268
+    1:30 PM        0           88    81         0      0        0      0    0    0      0      0    0      0      0    103    0                272
+    1:45 PM        0           90    99         0      0        0      0    0    0      0      0    0      0      0    100    0                289             1106
+    2:00 PM        0          103    65         0      0        0      0    0    0      0      0    0      0      0    105    0                273             1102
+    2:15 PM        0           83    76         0      0        0      0    0    0      0      0    0      0      0    107    0                266             1100
+    2:30 PM        0          101    76         0      0        0      0    0    0      0      0    0      0      0    119    0                296             1124
+    2:45 PM        0           95    87         0      0        0      0    0    0      0      0    0      0      0    118    0                300             1135
+    3:00 PM        0           92   106         0      0        0      0    0    0      0      0    0      0      0    118    0                316             1178
+    3:15 PM        0           93   104         0      0        0      0    0    0      0      0    0      0      0    100    0                297             1209
+    3:30 PM        0          103   102         0      0        0      0    0    0      0      0    0      0      0     97    0                302             1215
+    3:45 PM        0           92   111         0      0        0      0    0    0      0      0    0      0      0     90    0                293             1208
+    4:00 PM        0           94    91         0      0        0      0    0    0      0      0    0      0      0     99    0                284             1176
+    4:15 PM        0          108    86         0      0        0      0    0    0      0      0    0      0      0     91    0                285             1164
+    4:30 PM        0           89    91         0      0        0      0    0    0      0      0    0      0      0     78    0                258             1120
+    4:45 PM        0           89   100         0      0        0      0    0    0      0      0    0      0      0     82    0                271             1098
+    5:00 PM        0           97    83         0      0        0      0    0    0      0      0    0      0      0     87    0                267             1081
+    5:15 PM        0           73    81         0      0        0      0    0    0      0      0    0      0      0     99    0                253             1049
+    5:30 PM        0           93    90         0      0        0      0    0    0      0      0    0      0      0     94    0                277             1068
+    5:45 PM        0           84    92         0      0        0      0    0    0      0      0    0      0      0     93    0                269             1066
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles     0         368    424     0          0       0      0     0    0       0      0    0     0        0   472     0                      1264
+ Heavy Trucks      0           4      0                0       0      0          0       0      0          0        0     4                               8
+  Pedestrians                 76                               0                         0                         84                                   160
+    Bicycles       0           7      3                0       0      0          0       1      0          0        0     1                              12
+   Railroad
+Stopped Buses
+ Comments: 2157b
+Report generated on 6/4/2013 2:55 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

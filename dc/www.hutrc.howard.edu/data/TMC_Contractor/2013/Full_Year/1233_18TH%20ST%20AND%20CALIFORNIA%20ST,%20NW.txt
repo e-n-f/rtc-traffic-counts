@@ -1,0 +1,167 @@
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: 18th St -- California St NW                                                                                          QC JOB #: 10864155
+ CITY/STATE: Washington, DC                                                                                                     DATE: Wed, Mar 20 2013
+                    302          350                        Peak-Hour: 7:00 PM -- 8:00 PM                                        2.0        2.3
+
+                       34 219 49
+                                                           Peak 15-Min: 7:15 PM -- 7:30 PM
+                                                                                                                                 0.0 2.7 0.0
+
+
+       76    0                         57   78
+                                                                                                                    0.0   0.0                      0.0       1.3
+             0            0.87         14
+                                                                                                                          0.0                      0.0
+       0     0                          7   65
+                                                                                                                    0.0   0.0                     14.3       0.0
+
+                       28 293 16
+                                                                                                                                 0.0 2.7 0.0
+
+                    226          337
+                                                                                                                                 3.1        2.4
+
+
+
+                          189                                                                                                     1    13   3
+
+
+
+                                                                                                                          1                          4
+
+             33                        47                                                                                 0                          2
+
+                                                                                                                          0                          1
+
+                          206                                                                                                     2    57   3
+
+
+
+
+                          NA                                                                                                           NA
+
+
+
+
+             NA                        NA                                                                                 NA                       NA
+
+
+
+
+                          NA                                                                                                           NA
+
+
+
+ 15-Min Count                18th St                       18th St                    California St NW              California St NW              Total       Hourly
+    Period                (Northbound)                  (Southbound)                   (Eastbound)                   (Westbound)                              Totals
+ Beginning At     Left     Thru Right       U    Left    Thru Right    U       Left    Thru Right        U   Left    Thru Right        U
+    7:00 PM        8        85       3      0     16      52       7   0        0         0       0      0    2         4      19      0          196
+    7:15 PM        9        86       5      0     13      62     11    0        0         0       0      0    2         4      14      0          206
+    7:30 PM        4        55       4      0     11      51       8   0        0         0       0      0    3         2      11      0          149
+    7:45 PM        7        67       4      0      9      54       8   0        0         0       0      0    0         4      13      0          166              717
+
+
+
+
+ Peak 15-Min                  Northbound                    Southbound                     Eastbound                     Westbound
+   Flowrates      Left    Thru Right     U       Left   Thru Right    U        Left    Thru Right    U       Left    Thru Right    U                      Total
+  All Vehicles     36     344     20     0        52    248     44     0        0        0      0    0        8       16    56     0                      824
+ Heavy Trucks       0       8      0               0      8      0              0        0      0             0        0     0                             16
+  Pedestrians             228                           212                             36                            28                                  504
+    Bicycles       2       16      0              3       4      0              0        0      0             0        0     1                             26
+   Railroad
+Stopped Buses
+ Comments: 1233
+Report generated on 7/9/2013 10:50 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: 18th St -- California St NW                                                                                            QC JOB #: 10864156
+ CITY/STATE: Washington, DC                                                                                                       DATE: Sat, Apr 20 2013
+                    386          380                          Peak-Hour: 4:15 PM -- 5:15 PM                                        2.8        2.9
+
+                       38 297 51
+                                                             Peak 15-Min: 4:45 PM -- 5:00 PM
+                                                                                                                                   0.0 3.7 0.0
+
+
+       80    0                          68   102
+                                                                                                                      0.0   0.0                      1.5       1.0
+             0            0.95          25
+                                                                                                                            0.0                      0.0
+       0     0                           9    79
+                                                                                                                      0.0   0.0                      0.0       0.0
+
+                       17 312 28
+                                                                                                                                   0.0 3.2 0.0
+
+                    306          357
+                                                                                                                                   3.6        2.8
+
+
+
+                           79                                                                                                       1    33   2
+
+
+
+                                                                                                                            0                          5
+
+             265                       436                                                                                  0                          1
+
+                                                                                                                            1                          1
+
+                           31                                                                                                       1    35   0
+
+
+
+
+                          NA                                                                                                             NA
+
+
+
+
+             NA                        NA                                                                                   NA                       NA
+
+
+
+
+                          NA                                                                                                             NA
+
+
+
+ 15-Min Count                18th St                         18th St                    California St NW              California St NW              Total       Hourly
+    Period                (Northbound)                    (Southbound)                   (Eastbound)                   (Westbound)                              Totals
+ Beginning At     Left     Thru Right        U     Left    Thru Right    U       Left    Thru Right        U   Left    Thru Right        U
+    1:00 PM         2       66       3       0      12      59       6   0        0         0       0      0    2         3      22      0          175
+    1:15 PM        10       65       6       0      12      68       3   0        0         0       0      0    2         5      13      0          184
+    1:30 PM         3       49       7       0      12      65       1   0        0         0       0      0    3         9      18      1          168
+    1:45 PM         1       61       8       0      12      65     16    0        0         0       0      0    1         6      18      0          188              715
+    2:00 PM         4       64       7       0       5      75       4   0        0         0       0      0    4         5      21      0          189              729
+    2:15 PM         6       73       8       0      15      67       2   0        0         0       0      0    3         8      24      0          206              751
+    2:30 PM         6       71       3       0       7      77       1   0        0         0       0      0    5         6      13      0          189              772
+    2:45 PM         2       68       6       0      13      46       2   0        0         0       0      0    4         2      19      0          162              746
+    3:00 PM         8       69       4       0      12      59       9   0        0         0       0      0    4         6       9      0          180              737
+    3:15 PM         5       62       3       0      11      63       2   0        0         0       0      0    1         8      16      0          171              702
+    3:30 PM         5       76       1       1      11      73       7   0        0         0       0      0    1         5      18      0          198              711
+    3:45 PM         7       64       5       0      16      72       5   0        0         0       0      0    4         8      13      0          194              743
+    4:00 PM         7       62       8       1      11      80       3   0        0         0       0      0    5         6      17      0          200              763
+    4:15 PM         3       73       6       0       9      74       9   0        0         0       0      0    3         8      20      0          205              797
+    4:30 PM         4       85       4       0      14      64     13    0        0         0       0      0    2         6      18      0          210              809
+    4:45 PM         6       70       9       0      13      88       9   0        0         0       0      0    1         6      21      0          223              838
+    5:00 PM         4       84       9       0      15      71       7   0        0         0       0      0    3         5       9      0          207              845
+    5:15 PM         7       66       7       0      13      81       6   0        0         0       0      0    4         6      10      0          200              840
+    5:30 PM         3       69       7       0       8      65       4   0        0         0       0      0    5         5      16      0          182              812
+    5:45 PM         6       91       7       0      11      84       4   0        0         0       0      0    0         6      14      0          223              812
+
+
+
+
+ Peak 15-Min                  Northbound                      Southbound                     Eastbound                     Westbound
+   Flowrates      Left    Thru Right     U         Left   Thru Right    U        Left    Thru Right    U       Left    Thru Right    U                      Total
+  All Vehicles     24     280     36     0          52    352     36     0        0        0      0    0        4       24    84     0                      892
+ Heavy Trucks       0       4      0                 0     20      0              0        0      0             0        0     0                             24
+  Pedestrians              32                              88                            272                           452                                  844
+    Bicycles       1       16      0                0       9      0              0        0      0             1        0     2                             29
+   Railroad
+Stopped Buses
+ Comments: 1233
+Report generated on 7/9/2013 10:50 AM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

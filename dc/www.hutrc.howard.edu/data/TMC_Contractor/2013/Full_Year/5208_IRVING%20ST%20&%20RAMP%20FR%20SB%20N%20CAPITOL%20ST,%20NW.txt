@@ -1,0 +1,317 @@
+Type of peak hour being reported: Intersection Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Ramp Fr SB N Capitol St -- Irving St NW                                                                                  QC JOB #: 10695579
+ CITY/STATE: Washington, DC                                                                                                         DATE: Tue, May 28 2013
+                     327             0                             Peak-Hour: 7:30 AM -- 8:30 AM                                     6.1        0.0
+
+                     327       0     0
+                                                                  Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                     6.1 0.0 0.0
+
+
+       1743   0                              0   1416
+                                                                                                                        4.2   0.0                      0.0      3.7
+              779             0.95        1416
+                                                                                                                              8.0                      3.7
+       779    0                              0    808
+                                                                                                                        8.0   0.0                      0.0      7.8
+
+                          0    0     29
+                                                                                                                                     0.0 0.0 3.4
+
+                          0          29
+                                                                                                                                     0.0        3.4
+
+
+
+                               0                                                                                                      0    0    0
+
+
+
+                                                                                                                              0                          0
+
+              0                              0                                                                                7                          9
+
+                                                                                                                              0                          0
+
+                               6                                                                                                      0    0    0
+
+
+
+
+                              NA                                                                                                           NA
+
+
+
+
+              NA                           NA                                                                                 NA                       NA
+
+
+
+
+                              NA                                                                                                           NA
+
+
+
+ 15-Min Count       Ramp Fr SB N Capitol St              Ramp Fr SB N Capitol St             Irving St NW                Irving St NW                 Total      Hourly
+    Period              (Northbound)                         (Southbound)                    (Eastbound)                 (Westbound)                             Totals
+ Beginning At      Left Thru Right      U               Left Thru Right      U        Left   Thru Right     U    Left    Thru Right        U
+    7:00 AM          0    0     12       0                0     0    60       0        0     105       0    0     0      209       0       0          386
+    7:15 AM          0    0      3       0                0     0    80       0        0     102       0    0     0      250       0       0          435
+    7:30 AM          0    0      8       0                0     0    74       0        0     181       0    0     0      330       0       0          593
+    7:45 AM          0    0      5       0                0     0    98       0        0     191       0    0     0      359       0       0          653            2067
+    8:00 AM          0    0      7       0                0     0    85       0        0     201       0    0     0      375       0       0          668            2349
+    8:15 AM          0    0      9       0                0     0    70       0        0     206       0    0     0      352       0       0          637            2551
+    8:30 AM          0    0      8       0                0     0    85       0        0     158       0    0     0      303       0       0          554            2512
+    8:45 AM          0    0      8       0                0     0    76       0        0     171       0    0     0      280       0       0          535            2394
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound                    Eastbound                Westbound
+   Flowrates       Left       Thru Right     U          Left   Thru Right    U        Left   Thru Right    U     Left Thru Right    U                        Total
+  All Vehicles      0           0     28     0           0       0    340     0        0     804      0    0      0 1500      0     0                        2672
+ Heavy Trucks       0           0      4                 0       0     16              0      48      0           0    68     0                               136
+  Pedestrians                   4                                0                             0                        0                                      4
+    Bicycles        0           0      0                 0       0      0              0       2      0           0     2     0                                4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 7:28 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Ramp Fr SB N Capitol St -- Irving St NW                                                                               QC JOB #: 10695580
+ CITY/STATE: Washington, DC                                                                                                      DATE: Tue, May 28 2013
+                    134             0                          Peak-Hour: 12:00 PM -- 1:00 PM                                     9.0        0.0
+
+                    134       0     0
+                                                              Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                                  9.0 0.0 0.0
+
+
+       648   0                             0   514
+                                                                                                                     4.9   0.0                      0.0      3.9
+             723             0.95        514
+                                                                                                                           7.6                      3.9
+       723   0                             0   750
+                                                                                                                     7.6   0.0                      0.0      7.6
+
+                         0    0     27
+                                                                                                                                  0.0 0.0 7.4
+
+                         0          27
+                                                                                                                                  0.0        7.4
+
+
+
+                              0                                                                                                    0    0    0
+
+
+
+                                                                                                                           0                          0
+
+             0                             0                                                                               1                          1
+
+                                                                                                                           0                          0
+
+                              13                                                                                                   0    0    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                          NA                                                                                NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count      Ramp Fr SB N Capitol St            Ramp Fr SB N Capitol St             Irving St NW                Irving St NW                 Total      Hourly
+    Period             (Northbound)                       (Southbound)                    (Eastbound)                 (Westbound)                             Totals
+ Beginning At     Left Thru Right      U             Left Thru Right      U        Left   Thru Right     U    Left    Thru Right        U
+   11:00 AM         0    0      6       0              0     0    56       0        0     157       0    0     0      132       0       0          351
+   11:15 AM         0    0     10       0              0     0    39       0        0     144       0    0     0      127       0       0          320
+   11:30 AM         0    0      8       0              0     0    44       0        0     154       0    0     0      108       0       0          314
+   11:45 AM         0    0     10       0              0     0    43       0        0     172       0    0     0      141       0       0          366            1351
+   12:00 PM         0    0      4       0              0     0    36       0        0     172       0    0     0      140       0       0          352            1352
+   12:15 PM         0    0      6       0              0     0    34       0        0     180       0    0     0      110       0       0          330            1362
+   12:30 PM         0    0      7       0              0     0    31       0        0     181       0    0     0      130       0       0          349            1397
+   12:45 PM         0    0     10       0              0     0    33       0        0     190       0    0     0      134       0       0          367            1398
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                   Westbound
+   Flowrates      Left       Thru Right     U        Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles     0           0     40     0         0       0    132     0        0     760      0    0      0      536     0     0                     1468
+ Heavy Trucks      0           0      0               0       0     12              0      60      0           0       24     0                            96
+  Pedestrians                  0                              0                             0                           0                                   0
+    Bicycles       0           0      0               0       0      0              0       1      0            0       0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 7:28 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: Ramp Fr SB N Capitol St -- Irving St NW                                                                                 QC JOB #: 10695581
+ CITY/STATE: Washington, DC                                                                                                        DATE: Tue, May 28 2013
+                      114            0                            Peak-Hour: 4:30 PM -- 5:30 PM                                     3.5        0.0
+
+                      114      0     0
+                                                                 Peak 15-Min: 4:45 PM -- 5:00 PM
+                                                                                                                                    3.5 0.0 0.0
+
+
+       656    0                             0    542
+                                                                                                                       4.1   0.0                      0.0      4.2
+              1511            0.99        542
+                                                                                                                             4.0                      4.2
+       1511   0                             0   1579
+                                                                                                                       4.0   0.0                      0.0      4.0
+
+                          0    0     68
+                                                                                                                                    0.0 0.0 4.4
+
+                          0          68
+                                                                                                                                    0.0        4.4
+
+
+
+                               0                                                                                                     0    0    0
+
+
+
+                                                                                                                             0                          0
+
+              0                             0                                                                                2                          6
+
+                                                                                                                             0                          0
+
+                               0                                                                                                     0    0    0
+
+
+
+
+                              NA                                                                                                          NA
+
+
+
+
+              NA                          NA                                                                                 NA                       NA
+
+
+
+
+                              NA                                                                                                          NA
+
+
+
+ 15-Min Count       Ramp Fr SB N Capitol St             Ramp Fr SB N Capitol St             Irving St NW                Irving St NW                 Total      Hourly
+    Period              (Northbound)                        (Southbound)                    (Eastbound)                 (Westbound)                             Totals
+ Beginning At      Left Thru Right      U              Left Thru Right      U        Left   Thru Right     U    Left    Thru Right        U
+    4:30 PM          0    0     21       0               0     0    31       0        0     387       0    0     0      126       0       0          565
+    4:45 PM          0    0     15       0               0     0    36       0        0     376       0    0     0      140       0       0          567
+    5:00 PM          0    0     20       0               0     0    26       0        0     361       0    0     0      134       0       0          541
+    5:15 PM          0    0     12       0               0     0    21       0        0     387       0    0     0      142       0       0          562            2235
+    5:30 PM          0    0     14       0               0     0    24       0        0     332       0    0     0      159       0       0          529            2199
+    5:45 PM          0    0     14       0               0     0    32       0        0     318       0    0     0      172       0       0          536            2168
+    6:00 PM          0    0     19       0               0     0    24       0        0     317       0    0     0      214       0       0          574            2201
+    6:15 PM          0    0      7       0               0     0    27       0        0     279       0    0     0      117       0       0          430            2069
+
+
+
+
+ Peak 15-Min                      Northbound                      Southbound                  Eastbound                     Westbound
+   Flowrates       Left       Thru Right     U         Left   Thru Right    U        Left Thru Right    U       Left    Thru Right    U                     Total
+  All Vehicles      0           0     60     0          0       0    144     0        0 1504       0    0        0      560     0     0                     2268
+ Heavy Trucks       0           0      4                0       0      4              0    68      0             0       24     0                            100
+  Pedestrians                   0                               0                           0                             0                                   0
+    Bicycles         0          0      0                0       0      0              0     0      0              0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 6:05 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: Ramp Fr SB N Capitol St -- Irving St NW                                                                                 QC JOB #: 10695582
+ CITY/STATE: Washington, DC                                                                                                        DATE: Sat, Jun 01 2013
+                     152             0                            Peak-Hour: 3:00 PM -- 4:00 PM                                     0.0        0.0
+
+                     152       0     0
+                                                                 Peak 15-Min: 3:30 PM -- 3:45 PM
+                                                                                                                                    0.0 0.0 0.0
+
+
+       1162   0                             0   1010
+                                                                                                                       1.2   0.0                      0.0      1.4
+              1276            0.93       1010
+                                                                                                                             1.4                      1.4
+       1276   0                             0   1276
+                                                                                                                       1.4   0.0                      0.0      1.4
+
+                          0    0     0
+                                                                                                                                    0.0 0.0 0.0
+
+                          0          0
+                                                                                                                                    0.0        0.0
+
+
+
+                               0                                                                                                     0    0    0
+
+
+
+                                                                                                                             0                          0
+
+              0                             0                                                                                4                          2
+
+                                                                                                                             0                          0
+
+                               14                                                                                                    0    0    0
+
+
+
+
+                              NA                                                                                                          NA
+
+
+
+
+              NA                          NA                                                                                 NA                       NA
+
+
+
+
+                              NA                                                                                                          NA
+
+
+
+ 15-Min Count       Ramp Fr SB N Capitol St             Ramp Fr SB N Capitol St             Irving St NW                Irving St NW                 Total      Hourly
+    Period              (Northbound)                        (Southbound)                    (Eastbound)                 (Westbound)                             Totals
+ Beginning At      Left Thru Right      U              Left Thru Right      U        Left   Thru Right     U    Left    Thru Right        U
+    3:00 PM          0    0      0       0               0     0    38       0        0     318       0    0     0      218       0       0          574
+    3:15 PM          0    0      0       0               0     0    46       0        0     296       0    0     0      264       0       0          606
+    3:30 PM          0    0      0       0               0     0    26       0        0     358       0    0     0      272       0       0          656
+    3:45 PM          0    0      0       0               0     0    42       0        0     304       0    0     0      256       0       0          602            2438
+    4:00 PM          0    0      0       0               0     0    42       0        0     292       0    0     0      228       0       0          562            2426
+    4:15 PM          0    0      0       0               0     0    18       0        0     306       0    0     0      228       0       0          552            2372
+    4:30 PM          0    0      0       0               0     0    34       0        0     252       0    0     0      198       0       0          484            2200
+    4:45 PM          0    0      0       0               0     0    60       0        0     210       0    0     0      228       0       0          498            2096
+
+
+
+
+ Peak 15-Min                      Northbound                      Southbound                  Eastbound                  Westbound
+   Flowrates       Left       Thru Right     U         Left   Thru Right    U        Left Thru Right    U       Left Thru Right    U                        Total
+  All Vehicles      0           0      0     0          0       0    104     0        0 1432       0    0        0 1088      0     0                        2624
+ Heavy Trucks       0           0      0                0       0      0              0     8      0             0     8     0                               16
+  Pedestrians                  16                               0                           0                          0                                     16
+    Bicycles         0          0      0                0       0      0              0     0      0             0     0     0                                0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 8/14/2013 7:14 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
