@@ -58,7 +58,7 @@ while (<IN>) {
 		$lond = ($lon{$quad}{$name} - $lon) * cos($lat{$quad}{$name});
 		$d = sqrt($latd * $latd + $lond * $lond);
 		if ($d > 200 * $foot) {
-			# $dup{$name} = 1;
+			$dup{$quad}{$name} = 1;
 			next;
 		}
 	}
@@ -68,9 +68,11 @@ while (<IN>) {
 }
 close(IN);
 
-for $n (keys(%dup)) {
-	$lat{$n} = "";
-	$lon{$n} = "";
+for $quad (keys(%dup)) {
+	for $n (keys(%{$dup{$quad}})) {
+		$lat{$quad}{$n} = "";
+		$lon{$quad}{$n} = "";
+	}
 }
 
 
