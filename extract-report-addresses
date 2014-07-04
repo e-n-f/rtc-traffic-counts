@@ -91,6 +91,7 @@ sub geocode {
 	s/_//g;
 	s/\.//g;
 	s/ *\/ *Washington *DC//i;
+	s/ *\/ - *//i;
 
 	s/\bWEST\b/W/g;
 	s/\bEAST\b/E/g;
@@ -101,6 +102,7 @@ sub geocode {
 	# s/^[NSEW] //;
 	# s/\/ [NSEW] /\/ /g;
 	s/ -- / \/ /;
+	s/&/\//;
 
 	s/\bROAD\b/RD/g;
 	s/\bLANE\b/LN/g;
