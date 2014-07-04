@@ -18,7 +18,7 @@ while (<IN>) {
 }
 close(IN);
 
-open(IN, "la-intersections");
+open(IN, "dc-intersections");
 while (<IN>) {
 	chomp;
 	($name, $lat, $lon) = split(/,/);
@@ -31,8 +31,8 @@ while (<IN>) {
 	$name =~ s/\bNORTH\b/N/g;
 	$name =~ s/\bSOUTH\b/S/g;
 
-	$name =~ s/^[NSEW] //;
-	$name =~ s/\bAT [NSEW] /AT /;
+	# $name =~ s/^[NSEW] //;
+	# $name =~ s/\bAT [NSEW] /AT /;
 	$name =~ s/\bAT\b/\//;
 
  	$name =~ s/\bROAD\b/RD/g;
@@ -46,19 +46,25 @@ while (<IN>) {
 	$name =~ s/\bHIGHWAY\b/HWY/g;
 	$name =~ s/\bBLVD\b/BL/g;
 	$name =~ s/\bDRIVE\b/DR/g;
+	$name =~ s/\bCIRCLE\b/CIR/g;
 
-	if ($lat{$name} ne "") {
-		$latd = $lat{$name} - $lat;
-		$lond = ($lon{$name} - $lon) * cos($lat{$name});
+	$quad = "";
+	while ($name =~ s/\b *([NSEW][NSEW]) *\b//) {
+		$quad = $1;
+	}
+
+	if ($lat{$quad}{$name} ne "") {
+		$latd = $lat{$quad}{$name} - $lat;
+		$lond = ($lon{$quad}{$name} - $lon) * cos($lat{$quad}{$name});
 		$d = sqrt($latd * $latd + $lond * $lond);
 		if ($d > 200 * $foot) {
-			$dup{$name} = 1;
+			# $dup{$name} = 1;
 			next;
 		}
 	}
 
-	$lat{$name} = $lat;
-	$lon{$name} = $lon;
+	$lat{$quad}{$name} = $lat;
+	$lon{$quad}{$name} = $lon;
 }
 close(IN);
 
@@ -82,7 +88,9 @@ sub geocode {
 
 	tr/a-z/A-Z/;
 	s/,//g;
+	s/_//g;
 	s/\.//g;
+	s/ *\/ *Washington *DC//i;
 
 	s/\bWEST\b/W/g;
 	s/\bEAST\b/E/g;
@@ -90,8 +98,9 @@ sub geocode {
 	s/\bSOUTH\b/S/g;
 
 	s/\bAT\b/\//i;
-	s/^[NSEW] //;
-	s/\/ [NSEW] /\/ /g;
+	# s/^[NSEW] //;
+	# s/\/ [NSEW] /\/ /g;
+	s/ -- / \/ /;
 
 	s/\bROAD\b/RD/g;
 	s/\bLANE\b/LN/g;
@@ -104,6 +113,7 @@ sub geocode {
 	s/\bHIGHWAY\b/HWY/g;
 	s/\bBLVD\b/BL/g;
 	s/\bDRIVE\b/DR/g;
+	s/\bCIRCLE\b/CIR/g;
 
 	s/\bFIRST\b/1ST/g;
 	s/\bSECOND\b/2ND/g;
@@ -122,8 +132,30 @@ sub geocode {
 	s/\bFGUEROA\b/FIGUEROA/g;
 	s/\bBRAODWAY\b/BROADWAY/g;
 	s/\bCAHUENEGA\b/CAHUENGA/g;
+	s/\bPENN\b/PENNSYLVANIA/g;
+	s/\bMLK\b/MARTIN LUTHER KING/g;
+	s/\bNH BURROUGHS\b/NANNIE HELEN BURROUGHS/g;
 
-	return "$lat{$_},$lon{$_}";
+	$quad = "";
+	while (s/\b *([NSEW][NSEW]) *\b//) {
+		$quad = $1;
+	}
+
+	if ($quad eq "") {
+		for $q ("NE", "NW", "SE", "SW") {
+			if ($lat{$q}{$_} ne "") {
+				$ret = "$lat{$q}{$_},$lon{$q}{$_}";
+			}
+		}
+	} else {
+		$ret = "$lat{$quad}{$_},$lon{$quad}{$_}";
+	}
+
+	if ($ret eq "," && $_ ne "") {
+		# print "\n\nfail $quad $_\n\n";
+	}
+
+	return $ret;
 }
 
 for $file (<reports/*.html>) {
@@ -179,5 +211,9 @@ while (<>) {
 		# print "xxx-";
 	}
 
-	print "$out,$where\n";
+	if ($where eq ",") {
+		print "$out\n";
+	} else {
+		print "$out,$where\n";
+	}
 }
