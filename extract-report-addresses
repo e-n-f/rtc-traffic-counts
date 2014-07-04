@@ -194,30 +194,25 @@ for $file (<reports/*.html>) {
 while (<>) {
 	chomp;
 	($id, $name, $rest) = split(/,/, $_, 3);
+	@fields = split(/,/, $_);
 
 	# next if $seen{$name};
 	$seen{$name} = 1;
 
-	$out = $_;
-
-	if ($id =~ /^oak/ || $id =~ /^dowd/) {
-		# wrong county!
-		$where = ",";
-	} else {
-		$where = geocode($name);
-
-		if ($where eq ",") {
-			$where = geocode($name{$id});
-		}
+	$out = "";
+	for ($i = 0; $i < 5 + 12 + 8; $i++) {
+		$out .= "$fields[$i],";
 	}
+
+	$where = geocode($name);
 
 	if ($where eq ",") {
 		# print "xxx-";
 	}
 
 	if ($where eq ",") {
-		print "$out\n";
+		print "$out,\n";
 	} else {
-		print "$out,$where\n";
+		print "$out$where\n";
 	}
 }
