@@ -145,6 +145,7 @@ sub geocode {
 		$quad = $1;
 	}
 
+	$ret = "";
 	if ($quad eq "") {
 		for $q ("NE", "NW", "SE", "SW") {
 			if ($lat{$q}{$_} ne "") {
