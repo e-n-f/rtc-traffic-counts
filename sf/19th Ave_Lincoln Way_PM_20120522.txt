@@ -1,0 +1,81 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: 19th Ave -- Lincoln Way                                                                                            QC JOB #: 10764802
+ CITY/STATE: San Francisco, CA                                                                                                DATE: Tue, May 22 2012
+                     2796          2528                           Peak-Hour: 4:45 PM -- 5:45 PM                                2.2        1.9
+
+                      369 2427 0
+                                                                 Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                               1.6 2.3 0.0
+
+       1318   0                           202   1152
+                                                                                                                  2.0   0.0                       1.0      2.0
+              723           0.96          949
+                                                                                                                        2.6                       2.2
+       775    52                            1    947
+                                                                                                                  2.6   1.9                       0.0      2.2
+
+                          0 2326 224
+                                                                                                                               0.0 2.0 0.9
+
+                     2480          2550
+                                                                                                                               2.3        1.9
+
+
+
+                             38                                                                                                 1    1    0
+
+
+                                                                                                                        0                          0
+
+              85                           50                                                                           1                          0
+
+                                                                                                                        0                          0
+
+
+                             25                                                                                                 0    0    0
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+
+              NA                          NA                                                                            NA                        NA
+
+
+
+
+                             NA                                                                                                      NA
+
+
+
+15-Min Count                  19th Ave                          19th Ave                Lincoln Way                Lincoln Way
+   Period                   (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                              Hourly
+Beginning At                                                                                                                                    Total
+                   Left      Thru Right         U      Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right       U                      Totals
+   4:00 PM           0       546    64          0        0     543     86    0     0    170      8    0      1      190    57        0          1665
+   4:15 PM           0       619    45          0        0     574     75    0     0    170      8    0      1      215    41        0          1748
+   4:30 PM           0       563    68          0        0     537     75    0     1    185      6    0      0      207    58        0          1700
+   4:45 PM           0       574    60          0        0     612     86    0     0    166     13    0      0      234    50        0          1795            6908
+   5:00 PM           0       540    63          0        0     601     91    0     0    185     11    0      0      234    45        0          1770            7013
+   5:15 PM           0       633    54          0        0     623     86    0     0    196     10    0      0      238    59        0          1899            7164
+   5:30 PM           0       579    47          0        0     591    106    0     0    176     18    0      1      243    48        0          1809            7273
+   5:45 PM           0       553    36          0        0     615     97    0     0    162      8    0      0      238    53        0          1762            7240
+
+
+
+
+ Peak 15-Min                Northbound                         Southbound                   Eastbound                  Westbound
+                                                                                                                                                        Total
+  Flowrates        Left Thru Right     U               Left Thru Right    U      Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles       0 2532    216     0                 0 2492   344     0        0    784     40    0      0     952   236     0                      7596
+ Heavy Trucks        0   44      0                       0   36     8              0     24      0           0      24      0                            136
+  Pedestrians            44                                  68                          68                         40                                   220
+   Bicycles          0    0      0                       0    0     0              0      0      0           0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/1/2012 12:59 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

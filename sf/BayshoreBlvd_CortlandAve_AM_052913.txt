@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Bayshore Blvd -- Cortland Ave                                                                                     QC JOB #: 10968005
+ CITY/STATE: San Francisco, CA                                                                                               DATE: Wed, May 29 2013
+                   574          1414                        Peak-Hour: 7:45 AM -- 8:45 AM                                     12.5        5.6
+
+                   126 447       1
+                                                           Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                              7.1 14.1 0.0
+
+
+       342   246                        0   0
+                                                                                                                 8.2   3.3                       0.0      0.0
+             0           0.95           0
+                                                                                                                       0.0                       0.0
+       478   232                        0   0
+                                                                                                                 3.3   3.4                       0.0      0.0
+
+                   222 1167 0
+                                                                                                                              8.6 6.1 0.0
+
+                   685          1389
+                                                                                                                              10.4        6.5
+
+
+
+                          75                                                                                                   2     6    0
+
+
+
+                                                                                                                       8                           0
+
+             36                         2                                                                              0                           0
+
+                                                                                                                       1                           0
+
+                          30                                                                                                   0     14   0
+
+
+
+
+                         NA                                                                                                          NA
+
+
+
+
+             NA                        NA                                                                              NA                        NA
+
+
+
+
+                         NA                                                                                                          NA
+
+
+
+ 5-Min Count        Bayshore Blvd                      Bayshore Blvd                  Cortland Ave                Cortland Ave                  Total      Hourly
+     Period         (Northbound)                       (Southbound)                   (Eastbound)                 (Westbound)                              Totals
+ Beginning At Left Thru Right       U           Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U
+     7:00 AM     6    39      0     1            0       21     12     0        11      0      9      0    0        0      0    0                99
+     7:05 AM     9    57      0     1            0       23      7     0        14      0      9      0    0        0      0    0               120
+     7:10 AM    17    57      0     0            0       16      5     0        12      0     16      0    0        0      0    0               123
+     7:15 AM     5    75      0     0            0       19      5     0        24      0     12      0    0        0      0    0               140
+     7:20 AM     5    67      0     1            0       22      7     0        15      0     13      0    0        0      0    0               130
+     7:25 AM    15    79      0     2            0       21      4     0        14      0     15      0    0        0      0    0               150
+     7:30 AM    14    87      0     0            0       36      8     0        12      0     17      0    0        0      0    0               174
+     7:35 AM    15    92      0     0            0       31     13     0        15      0     12      0    0        0      0    0               178
+     7:40 AM    19    80      0     2            0       29      9     0        27      0     22      0    0        0      0    0               188
+     7:45 AM    17   120      0     1            0       41     13     0        17      0     13      0    0        0      0    0               222
+     7:50 AM    26    81      0     1            0       32     12     0        29      0     25      0    0        0      0    0               206
+     7:55 AM    29    85      0     0            0       44     10     0        24      0     25      0    0        0      0    0               217            1947
+     8:00 AM    13   104      0     0            0       44      9     0        17      0     17      0    0        0      0    0               204            2052
+     8:05 AM    14    75      0     0            0       34     13     0        29      0     21      0    0        0      0    0               186            2118
+     8:10 AM    12    95      0     1            0       34      6     1        21      0     22      0    0        0      0    0               192            2187
+     8:15 AM    20    98      0     0            0       39     11     0        20      0     27      0    0        0      0    0               215            2262
+     8:20 AM    21    88      0     0            0       39     12     0        27      0     14      0    0        0      0    0               201            2333
+     8:25 AM    19    93      0     0            0       25     10     0        13      0     14      0    0        0      0    0               174            2357
+     8:30 AM    19   120      0     2            0       41     10     0         8      0     20      0    0        0      0    0               220            2403
+     8:35 AM    14   101      0     1            0       30     12     0        21      0     13      0    0        0      0    0               192            2417
+     8:40 AM    12   107      0     0            0       44      8     0        20      0     21      0    0        0      0    0               212            2441
+     8:45 AM    15    82      0     1            0       50     22     1        25      0     10      0    0        0      0    0               206            2425
+     8:50 AM    14    87      0     0            0       32     10     0        19      0     27      0    0        0      0    0               189            2408
+     8:55 AM    21   112      0     2            0       32      8     0        22      0     17      0    0        0      0    0               214            2405
+ Peak 15-Min             Northbound                         Southbound                    Eastbound                   Westbound
+   Flowrates   Left Thru Right      U           Left    Thru Right    U       Left    Thru Right      U   Left    Thru Right    U                      Total
+  All Vehicles 288 1144       0     8            0      468    140     0      280       0    252      0    0        0      0    0                      2580
+ Heavy Trucks   28    64      0                  0       88      8              4       0     12           0        0      0                            204
+  Pedestrians         20                                 36                            32                           4                                    92
+    Bicycles     0     2      0                  0        2      0              2       0      0           0        0      0                              6
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/14/2013 4:48 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

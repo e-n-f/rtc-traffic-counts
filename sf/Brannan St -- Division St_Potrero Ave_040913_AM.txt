@@ -1,0 +1,80 @@
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: Brannan St -- Division St                                                                                       QC JOB #: 10934016
+ CITY/STATE: San Francisco, CA                                                                                             DATE: Tue, Apr 09 2013
+                    232          555                          Peak-Hour: 8:00 AM -- 9:00 AM                                 4.7        5.4
+
+                     77 146       9
+                                                             Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                            5.2 4.8 0.0
+
+
+       493   151                         0   134
+                                                                                                               7.1   2.6                      0.0       6.0
+             560          0.94         121
+                                                                                                                     2.7                      5.0
+       711   0                          13   609
+                                                                                                               2.7   0.0                     15.4       3.3
+
+                    295 404 40
+                                                                                                                            8.5 6.4 12.5
+
+                    159          739
+                                                                                                                            5.7        7.6
+
+
+
+                           21                                                                                                0    4    0
+
+
+
+                                                                                                                     8                          0
+
+             0                          27                                                                           242                        5
+
+                                                                                                                     0                          0
+
+                           7                                                                                                 0    11   10
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+
+             NA                        NA                                                                            NA                       NA
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+ 15-Min Count              Brannan St                      Brannan St                Division St                 Division St                 Total       Hourly
+    Period                (Northbound)                    (Southbound)              (Eastbound)                 (Westbound)                              Totals
+ Beginning At     Left     Thru Right        U     Left    Thru Right    U   Left   Thru Right     U    Left    Thru Right        U
+    7:00 AM        20       24     4         0      1       21    11     0    14     63       0    0     2       14       0       0          174
+    7:15 AM        38       42     5         0      3       28    14     0     9     66       0    0     4       26       0       0          235
+    7:30 AM        52       76     9         0      2       27     9     0    21     97       0    0     1       26       0       0          320
+    7:45 AM        62       75     4         0      0       24    24     0    25    118       0    0     0       26       2       0          360             1089
+    8:00 AM        76       91     9         0      4       42    11     0    24    121       0    0     5       31       0       0          414             1329
+    8:15 AM        72     107     12         0      2       33    18     0    45    152       0    0     4       33       0       0          478             1572
+    8:30 AM        74     105      6         0      0       41    20     0    39    125       0    0     3       29       0       0          442             1694
+    8:45 AM        73     101     13         0      3       30    28     0    43    162       0    0     1       28       0       0          482             1816
+
+
+
+
+ Peak 15-Min                  Northbound                      Southbound                Eastbound                   Westbound
+   Flowrates   Left       Thru Right     U         Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles 292        404     52     0          12    120    112     0   172    648      0    0      4      112     0     0                      1928
+ Heavy Trucks   32         48      0                 0      4      0           4     20      0           0        8     0                             116
+  Pedestrians               4                              12                         0                           4                                    20
+    Bicycles     0          5      1                0       2      0           4     79      0           0        2     0                              93
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/18/2013 11:42 AM                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

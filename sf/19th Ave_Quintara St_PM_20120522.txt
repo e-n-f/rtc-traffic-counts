@@ -1,0 +1,81 @@
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 19th Ave -- Quintara St                                                                                          QC JOB #: 10764806
+ CITY/STATE: San Francisco, CA                                                                                              DATE: Tue, May 22 2012
+                    2680          2559                          Peak-Hour: 5:00 PM -- 6:00 PM                                1.8        1.2
+
+                     85 2594 1
+                                                               Peak 15-Min: 5:45 PM -- 6:00 PM
+                                                                                                                             0.0 1.9 0.0
+
+       189   41                           16   150
+                                                                                                                4.8   0.0                       0.0      6.0
+             75            0.98          104
+                                                                                                                      8.0                       8.7
+       156   40                           30   126
+                                                                                                                3.8   0.0                       0.0      4.8
+
+                         0 2502 50
+                                                                                                                             0.0 1.2 0.0
+
+                    2664          2552
+                                                                                                                             1.8        1.2
+
+
+
+                            18                                                                                                0    1    0
+
+
+                                                                                                                      0                          0
+
+             21                           23                                                                          1                          1
+
+                                                                                                                      0                          0
+
+
+                            22                                                                                                0    0    0
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                           NA                        NA
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+15-Min Count                19th Ave                          19th Ave                 Quintara St                Quintara St
+   Period                 (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                              Hourly
+Beginning At                                                                                                                                  Total
+                  Left     Thru Right          U     Left    Thru Right    U   Left   Thru Right     U   Left     Thru Right       U                      Totals
+   4:00 PM          1      587    15           0       0     588    22     0    10      17     13    0    10       17      3       0          1283
+   4:15 PM          0      564     9           0       0     555    17     0    16      19     20    0     7       20      2       0          1229
+   4:30 PM          0      643    14           0       0     605    18     0     9      14      8    0     3       22      6       0          1342
+   4:45 PM          0      616     9           0       0     624    13     0    13      14     11    0     6       20      2       0          1328            5182
+   5:00 PM          0      638    14           0       0     630    17     0    14      15      9    0     6       26      2       0          1371            5270
+   5:15 PM          0      613     9           0       0     642    14     0    10      12      9    0     5       22      6       0          1342            5383
+   5:30 PM          0      640     9           0       1     653    26     0     9      24     12    0     4       25      5       0          1408            5449
+   5:45 PM          0      611    18           0       0     669    28     0     8      24     10    0    15       31      3       0          1417            5538
+
+
+
+
+ Peak 15-Min               Northbound                        Southbound                   Eastbound                  Westbound
+                                                                                                                                                      Total
+  Flowrates       Left Thru Right     U              Left Thru Right    U      Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles      0 2444      72    0                0 2676   112     0       32     96     40    0     60     124     12    0                      5668
+ Heavy Trucks       0   28       0                     0   48     0              0      8      0           0       8      0                            92
+  Pedestrians            8                                  4                          24                         12                                   48
+   Bicycles         0    0       0                     0    0     0              0      1      0           0       1      0                             2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/1/2012 12:59 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

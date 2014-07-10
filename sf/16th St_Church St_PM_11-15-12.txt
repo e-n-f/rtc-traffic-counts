@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: Church St -- 16th St                                                                                             QC JOB #: 10849314
+ CITY/STATE: San Francisco, CA                                                                                              DATE: Thu, Nov 15 2012
+                    321          312                          Peak-Hour: 4:55 PM -- 5:55 PM                                  3.1        3.8
+
+                       25 234 62
+                                                             Peak 15-Min: 5:40 PM -- 5:55 PM
+                                                                                                                             0.0 0.4 14.5
+
+
+       559   15                        115   687
+                                                                                                                1.1   0.0                      9.6       2.5
+             310          0.93         516
+                                                                                                                      1.9                      1.2
+       367   42                         56   395
+                                                                                                                1.9   2.4                      0.0       4.1
+
+                       18 182 23
+                                                                                                                             0.0 0.5 4.3
+
+                    332          223
+                                                                                                                             0.6        0.9
+
+
+
+                          183                                                                                                 0    16   5
+
+
+
+                                                                                                                      0                         13
+
+             85                        127                                                                            12                        10
+
+                                                                                                                      2                          0
+
+                          175                                                                                                 2    18   0
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+
+             NA                        NA                                                                             NA                       NA
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+ 5-Min Count                Church St                       Church St                  16th St                     16th St                    Total       Hourly
+     Period               (Northbound)                    (Southbound)               (Eastbound)                 (Westbound)                              Totals
+ Beginning At     Left     Thru Right     U        Left    Thru Right    U    Left   Thru Right      U   Left    Thru Right    U
+     4:00 PM       1        13      4     0          2      18      3     0    1      12       2     0     1      42       5   0              104
+     4:05 PM       5        24      6     0          4      17      1     0    0      35       1     0     2      30     13    0              138
+     4:10 PM       0        17      3     0          9      14      2     0    0      25       3     0     4      56       5   0              138
+     4:15 PM       3         8      1     0          2      14      2     0    4      24       2     0     4      46       9   0              119
+     4:20 PM       4        16      6     0          8      14      6     0    1      29       1     0     3      43     14    0              145
+     4:25 PM       5        24      2     0          3      18      1     0    0      41       0     0     4      28       9   0              135
+     4:30 PM       5        12      1     0          7      24      4     0    0      30       3     0     2      37       6   0              131
+     4:35 PM       2        12      2     0          8      22      1     0    0      35       1     0     1      40       6   0              130
+     4:40 PM       2        23      2     0          4      12      4     0    1      19       3     0     4      40       5   0              119
+     4:45 PM       3        15      2     0          6      24      2     0    1      30       0     0     7      54       9   0              153
+     4:50 PM       4        16      1     0          3      19      0     0    2      22       4     0     7      36       8   0              122
+     4:55 PM       3        13      3     0          5      20      5     0    0      29       1     0     4      47     10    0              140             1574
+     5:00 PM       3        13      2     0          7      20      2     0    3      25       1     0     4      41       6   0              127             1597
+     5:05 PM       0        19      1     0          4      14      1     0    1      24       2     0     4      38     12    0              120             1579
+     5:10 PM       1        25      1     0         10      20      2     0    0      25       8     0     1      44     10    0              147             1588
+     5:15 PM       1         7      2     0          5      18      1     0    3      21       3     0     3      47     11    0              122             1591
+     5:20 PM       0        12      3     0          3      22      3     0    1      20       2     0     8      38       8   0              120             1566
+     5:25 PM       0        15      2     0          4      15      3     0    1      32       4     0     2      39       1   0              118             1549
+     5:30 PM       3        19      0     0          8      20      1     0    4      24       3     0     3      48     12    0              145             1563
+     5:35 PM       3        17      2     0          2      18      1     0    0      27       8     0     7      37       8   0              130             1563
+     5:40 PM       1        20      2     0          7      23      2     0    0      28       2     0    10      42     11    0              148             1592
+     5:45 PM       2        10      2     0          3      25      1     0    1      30       5     0     6      50       6   0              141             1580
+     5:50 PM       1        12      3     0          4      19      3     0    1      25       3     0     4      45     20    0              140             1598
+     5:55 PM       3        12      0     0          3      10      3     0    1      27       1     0     9      44     10    0              123             1581
+ Peak 15-Min                   Northbound                      Southbound                Eastbound                   Westbound
+   Flowrates      Left     Thru Right     U        Left    Thru Right    U    Left   Thru Right      U   Left    Thru Right    U                      Total
+  All Vehicles     16     168      28     0         56     268     24     0    8     332     40      0    80     548    148    0                      1716
+ Heavy Trucks       0        4      0                8       0      0          0       8       0           0       4       4                            28
+  Pedestrians             208                              164                        92                         140                                   604
+    Bicycles       1         4      0               2        2      0          0       5       2          0        4       3                            23
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 11/30/2012 6:52 AM                                    SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

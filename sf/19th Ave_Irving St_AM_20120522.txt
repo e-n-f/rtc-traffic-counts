@@ -1,0 +1,81 @@
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 19th Ave -- Irving St                                                                                            QC JOB #: 10764803
+ CITY/STATE: San Francisco, CA                                                                                              DATE: Tue, May 22 2012
+                    2174          2644                          Peak-Hour: 7:30 AM -- 8:30 AM                                2.3        2.6
+
+                     147 2027 0
+                                                               Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                             2.0 2.4 0.0
+
+       235   233                         200   288
+                                                                                                                3.4   3.0                       0.5      2.1
+             145           0.97           88
+                                                                                                                      3.4                       5.7
+       441   63                            0   256
+                                                                                                                3.2   3.2                       0.0      3.9
+
+                         0 2211 111
+                                                                                                                             0.0 2.8 4.5
+
+                    2090          2322
+                                                                                                                             2.4        2.9
+
+
+
+                            81                                                                                                1    0    0
+
+
+                                                                                                                      1                          0
+
+             99                           39                                                                          17                         2
+
+                                                                                                                      0                          0
+
+
+                            85                                                                                                0    0    1
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                           NA                        NA
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+15-Min Count                 19th Ave                         19th Ave                  Irving St                  Irving St
+   Period                  (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Hourly
+Beginning At                                                                                                                                  Total
+                  Left      Thru Right         U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right       U                      Totals
+   7:00 AM          0       455     6          0       0     521    30     0    25     10      13   0      0        9      9       0          1078
+   7:15 AM          0       557    23          0       0     482    28     0    41     19      19   0      0       12     28       0          1209
+   7:30 AM          0       582    24          0       0     544    35     0    44     34      18   0      0       16     47       0          1344
+   7:45 AM          0       581    32          0       0     537    37     0    60     31      11   0      0       21     41       0          1351            4982
+   8:00 AM          0       543    36          0       0     483    30     0    63     34      21   0      0       26     48       0          1284            5188
+   8:15 AM          0       505    19          0       0     463    45     0    66     46      13   0      0       25     64       0          1246            5225
+   8:30 AM          0       515    16          0       0     507    38     0    62     51      17   0      0       18     53       0          1277            5158
+   8:45 AM          0       566    16          0       0     480    38     0    41     32      17   0      0       37     52       0          1279            5086
+
+
+
+
+ Peak 15-Min               Northbound                        Southbound                   Eastbound                  Westbound
+                                                                                                                                                      Total
+  Flowrates       Left Thru Right     U              Left Thru Right    U      Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles      0 2324    128     0                0 2148   148     0      240    124     44    0      0      84   164     0                      5404
+ Heavy Trucks       0   48      4                      0   60     0             12      0      0           0       4      4                            132
+  Pedestrians           68                                 56                          92                         40                                   256
+   Bicycles         0    0      0                      0    0     0              0      3      0           0       0      0                             3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/1/2012 12:59 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

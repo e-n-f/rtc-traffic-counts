@@ -1,0 +1,81 @@
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: 19th Ave -- Holloway Ave                                                                                         QC JOB #: 10764807
+ CITY/STATE: San Francisco, CA                                                                                              DATE: Tue, May 22 2012
+                    2704          1793                          Peak-Hour: 7:30 AM -- 8:30 AM                                2.4        4.0
+
+                     51 2653 0
+                                                               Peak 15-Min: 7:30 AM -- 7:45 AM
+                                                                                                                             2.0 2.5 0.0
+
+       154   20                           48   169
+                                                                                                                3.9   5.0                      16.7      8.3
+             99            0.99          103
+                                                                                                                      3.0                       4.9
+       149   30                           18   204
+                                                                                                                4.0   6.7                       5.6      4.9
+
+                         0 1725 105
+                                                                                                                             0.0 3.7 6.7
+
+                    2701          1830
+                                                                                                                             2.5        3.8
+
+
+
+                            342                                                                                               0    0    0
+
+
+                                                                                                                      0                          0
+
+             118                          34                                                                          1                          2
+
+                                                                                                                      0                          0
+
+
+                            35                                                                                                0    0    0
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                           NA                        NA
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+15-Min Count                 19th Ave                         19th Ave                Holloway Ave              Holloway Ave
+   Period                  (Northbound)                     (Southbound)              (Eastbound)               (Westbound)                               Hourly
+Beginning At                                                                                                                                  Total
+                  Left      Thru Right         U     Left    Thru Right    U   Left    Thru Right    U   Left    Thru Right        U                      Totals
+   7:00 AM          0       322    14          0       0     546     8     0     1       7      8    0     1       8      8        0           923
+   7:15 AM          0       432     7          0       0     673     4     0     3      10      4    0     3       7      7        0          1150
+   7:30 AM          0       457    24          0       0     666    12     0     5      26      7    0     4      16    11         0          1228
+   7:45 AM          0       463    18          0       0     631     9     0     4      29      6    0     3      35    16         0          1214            4515
+   8:00 AM          0       408    23          0       0     699    16     0     8      23    10     0     6      23      9        0          1225            4817
+   8:15 AM          0       397    40          0       0     657    14     0     3      21      7    0     5      29    12         0          1185            4852
+   8:30 AM          0       389    27          0       0     586    21     0     5      24    10     0     3      33      6        0          1104            4728
+   8:45 AM          0       380    23          0       0     549    18     0     3      28      9    0     6      41    20         0          1077            4591
+
+
+
+
+ Peak 15-Min               Northbound                        Southbound                   Eastbound                  Westbound
+                                                                                                                                                      Total
+  Flowrates       Left Thru Right     U              Left Thru Right    U      Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles      0 1828      96    0                0 2664    48     0       20    104     28    0     16      64     44    0                      4912
+ Heavy Trucks       0   52       4                     0   56     0              0      4      0           4       0     12                            132
+  Pedestrians           64                                296                         136                         32                                   528
+   Bicycles         0    0       0                     0    0     0              0      0      0           0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/1/2012 12:59 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

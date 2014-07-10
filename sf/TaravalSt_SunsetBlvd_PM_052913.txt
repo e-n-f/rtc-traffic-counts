@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Sunset Blvd -- Taraval St                                                                                            QC JOB #: 10968016
+ CITY/STATE: San Francisco, CA                                                                                                  DATE: Wed, May 29 2013
+                    1697          1842                         Peak-Hour: 5:00 PM -- 6:00 PM                                     0.8        0.5
+
+                     96 1601 0
+                                                              Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                 0.0 0.8 0.0
+
+
+       279   61                           45   275
+                                                                                                                    0.0   0.0                      0.0      0.0
+             169           0.94          183
+                                                                                                                          1.2                      0.0
+       266   36                           47   291
+                                                                                                                    0.8   0.0                      0.0      1.0
+
+                     0 1736 122
+                                                                                                                                 0.0 0.6 0.8
+
+                    1684          1858
+                                                                                                                                 0.8        0.6
+
+
+
+                           101                                                                                                   0     0    0
+
+
+
+                                                                                                                          0                          0
+
+             22                           36                                                                              2                          1
+
+                                                                                                                          0                          0
+
+                            34                                                                                                   0     0    0
+
+
+
+
+                           NA                                                                                                          NA
+
+
+
+
+             NA                          NA                                                                               NA                       NA
+
+
+
+
+                           NA                                                                                                          NA
+
+
+
+ 5-Min Count            Sunset Blvd                        Sunset Blvd                    Taraval St                  Taraval St                  Total      Hourly
+     Period            (Northbound)                       (Southbound)                   (Eastbound)                 (Westbound)                             Totals
+ Beginning At     Left Thru Right      U             Left Thru Right     U        Left   Thru Right      U   Left    Thru Right    U
+    4:00 PM        0   102       8     0              0     95     11     0        5      11     11      0    6        9      2    0              260
+    4:05 PM        0   126       9     0              0    116      7     0        4      10      3      0    3       15      0    0              293
+    4:10 PM        0    119      8     0              0    106      6     0        5      23      0      0    4       12      4    0              287
+    4:15 PM        0     96      4     0              0    108      2     0        7      11      4      0    6       24      8    0              270
+    4:20 PM        0   134      11     0              0     99      4     0        3       7      4      0    5       14      1    0              282
+    4:25 PM        0   136       9     0              0    101      8     0        4      17      3      0    5       20      3    0              306
+    4:30 PM        0   132       9     0              0     97     12     0        3      11      6      0    5       12      2    0              289
+    4:35 PM        0   128       7     0              0     91      6     0        5      16      4      0    6       13      2    0              278
+    4:40 PM        0   136       6     0              0    116      7     0        2      12      4      0    3       13      1    0              300
+    4:45 PM        0   121       6     0              0    108      5     0        1      14      3      0    5       13      0    0              276
+    4:50 PM        0   143      17     0              0    106      9     0        2      11      4      0    8       23      6    0              329
+    4:55 PM        0   128      11     0              0    111      4     0        3      17      2      0    6       20      5    0              307            3477
+    5:00 PM        0   147       8     0              0    115      6     0        2      13      1      0    1       10      4    0              307            3524
+    5:05 PM        0   127      11     0              0    128      9     0        5      13      5      0    2       18      1    0              319            3550
+    5:10 PM        0   151      14     0              0    123      9     0        7      12      2      0    7       18      3    0              346            3609
+    5:15 PM        0   130      13     0              0    149     10     0        2      20      2      0    4       13      6    0              349            3688
+    5:20 PM        0   136      11     0              0    128      8     0        5      15      2      0    4       13      1    0              323            3729
+    5:25 PM        0   152       8     0              0    126      4     0        6      13      3      0    1       14      6    0              333            3756
+    5:30 PM        0   147       5     0              0    126      9     0        5      20      9      0    3       17      2    0              343            3810
+    5:35 PM        0   172       8     0              0    157      7     0        6       9      3      0    6       25      3    0              396            3928
+    5:40 PM        0   156      13     0              0    132      7     0        5      12      2      0    3       21      4    0              355            3983
+    5:45 PM        0   126      13     0              0    145     11     0        8      11      2      0    5       12      4    0              337            4044
+    5:50 PM        0   152      11     0              0    136      6     0        3      20      2      0    4        8      3    0              345            4060
+    5:55 PM        0   140       7     0              0    136     10     0        7      11      3      0    7       14      8    0              343            4096
+ Peak 15-Min                Northbound                         Southbound                    Eastbound                   Westbound
+   Flowrates      Left Thru Right      U             Left Thru Right     U        Left   Thru Right      U   Left    Thru Right    U                     Total
+  All Vehicles     0 1900      104     0              0 1660       92     0        64    164     56      0    48     252     36    0                     4376
+ Heavy Trucks      0     12      0                    0     12      0               0      0      0            0       0      0                            24
+  Pedestrians            24                                148                            32                          72                                  276
+    Bicycles       0      0      0                    0      0      0              0       2      0           0        1      0                             3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 6/14/2013 4:48 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

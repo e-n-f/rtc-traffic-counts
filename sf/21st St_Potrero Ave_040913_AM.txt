@@ -1,0 +1,80 @@
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Potrero Ave -- 21st St                                                                                           QC JOB #: 10934009
+ CITY/STATE: San Francisco, CA                                                                                              DATE: Tue, Apr 09 2013
+                    766          1144                           Peak-Hour: 7:45 AM -- 8:45 AM                                6.9        7.0
+
+                     16 748       2
+                                                               Peak 15-Min: 8:30 AM -- 8:45 AM
+                                                                                                                             0.0 7.1 0.0
+
+
+       96    22                          0       0
+                                                                                                                6.3   9.1                      0.0       0.0
+             0            0.90           0
+                                                                                                                      0.0                      0.0
+       94    72                          0       2
+                                                                                                                4.3   2.8                      0.0       0.0
+
+                     81 1122 0
+                                                                                                                             7.4 7.0 0.0
+
+                    821          1203
+                                                                                                                             6.7        7.0
+
+
+
+                           11                                                                                                 0    11   0
+
+
+
+                                                                                                                      0                          0
+
+             43                          7                                                                            0                          1
+
+                                                                                                                      1                          0
+
+                          102                                                                                                 1    21   0
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+
+             NA                         NA                                                                            NA                       NA
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+ 15-Min Count              Potrero Ave                       Potrero Ave                21st St                    21st St                    Total       Hourly
+    Period                (Northbound)                      (Southbound)              (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left     Thru Right        U       Left    Thru Right    U   Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM        16     117       1        0        0      129      2    0    2       0       9   0     0        0       0       0          276
+    7:15 AM        25     218       0        0        0      165      2    0    2       0     10    0     0        0       0       0          422
+    7:30 AM        48     237       0        0        0      163      2    0    3       0     18    0     0        0       0       0          471
+    7:45 AM        24     259       0        0        1      160      3    0    4       0     20    0     0        0       0       0          471             1640
+    8:00 AM        16     288       0        0        0      178      9    0    5       0     13    0     0        0       0       0          509             1873
+    8:15 AM        12     283       0        1        1      184      1    0    7       0     20    0     0        0       0       0          509             1960
+    8:30 AM        28     292       0        0        0      226      3    0    6       0     19    0     0        0       0       0          574             2063
+    8:45 AM        24     236       0        0        0      166      9    0    5       0     10    0     0        0       0       0          450             2042
+
+
+
+
+ Peak 15-Min            Northbound                              Southbound                Eastbound                  Westbound
+   Flowrates   Left Thru Right     U                 Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U                      Total
+  All Vehicles 112 1168      0     0                  0     904     12     0    24      0    76     0     0        0     0     0                      2296
+ Heavy Trucks    0   72      0                        0      52      0           0      0      4          0        0     0                             128
+  Pedestrians       128                                      12                        36                          8                                   184
+    Bicycles     1    8      0                        0       3      0          0       0      1          0        1     0                              14
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/18/2013 11:42 AM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
