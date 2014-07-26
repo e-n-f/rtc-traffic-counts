@@ -197,7 +197,7 @@ while (<>) {
 				$_ = <>;
 			}
 			if (/^ +(\d+) +(\d+)\s*$/) {
-				$bwt = $1;
+				$bwr = $1;
 				$bel = $2;
 			} else {
 				print STDERR "$fname: expected bike/pedestrian wr/el, not $_";
@@ -260,6 +260,7 @@ while (<>) {
 		}
 
 		print "$fname,$name / $city,x,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bwt,$bnt,$bet,$bst,";
+		#print "$fname,$name / $city,x,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bwt ($bwr $bwl),$bnt ($bnr $bnl),$bet ($ber $bel),$bst ($bsr $bsl),";
 
 		if ($fname =~ /rtc\/([0-9]+)\//) {
 			print "$lat{$1},$lon{$1}\n";
