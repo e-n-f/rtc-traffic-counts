@@ -1,0 +1,401 @@
+#!/usr/bin/perl
+
+use strict;
+
+my %lat;
+my %lon;
+
+my $bike_minor_through = 0;
+my $bike_minor_left = 0;
+my $bike_minor_right = 0;
+
+my $bike_major_through = 0;
+my $bike_major_left = 0;
+my $bike_major_right = 0;
+
+
+open(IN, "arrIntersections.js");
+while (<IN>) {
+	if (/id:([0-9]+),lat:([0-9.-]+),lng:([0-9.-]+)/) {
+		$lat{$1} = $2;
+		$lon{$1} = $3;
+	}
+}
+
+PAGE:
+while (<>) {
+	my $fname = $ARGV;
+	if (/Type of peak hour being reported/) {
+		$_ = <>;
+		unless (/LOCATION: (.*)QC JOB/ || /INTERSECTION: (.*)QC JOB/) {
+			print STDERR "$fname: expected LOCATION, not $_";
+			next PAGE;
+		}
+		my $name = $1;
+
+		$_ = <>;
+		unless (/CITY\/STATE: (.*)DATE: (.*)/) {
+			print STDERR "$fname: expected CITY/STATE, not $_";
+			next PAGE;
+		}
+		my $city = $1;
+		my $date = $2;
+		my ($peakhour, $left);
+
+		$_ = <>;
+		if (/^( +(\d+) +(\d+) +Peak-Hour: (.*M))/) {
+			$peakhour = $4;
+			$left = length($1);
+		} elsif (/^( +(\d+) +([0-9-.]+) +(\d+) +Peak-Hour: (.*M))/) {
+			$peakhour = $5;
+			$left = length($1);
+		} else {
+			print STDERR "$fname: expected north in/out, not $_";
+			next PAGE;
+		}
+
+		$_ = <>;
+		while ($_ eq "\n" || $_ =~ /\d\.\d/) {
+			$_ = <>;
+		}
+
+		my ($nr, $nt, $nl);
+		my ($er, $et, $el);
+		my ($sr, $st, $sl);
+		my ($wr, $wt, $wl);
+
+		if (/^ +(\d+) +(\d+) +(\d+)/) {
+			$nr = $1;
+			$nt = $2;
+			$nl = $3;
+		} else {
+			print STDERR "$fname: expected north numbers, not $_";
+			next PAGE;
+		}
+
+		my $peak15;
+
+		$_ = <>;
+		while ($_ eq "\n") {
+			$_ = <>;
+		}
+		if (/Peak 15-Min: (.*M)/) {
+			$peak15 = $1;
+		} else {
+			print STDERR "$fname: expected peak 15, not $_";
+			next PAGE;
+		}
+
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/)) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+) +(\d+) +(\d+)/) {
+			$wl = $2;
+			$er = $3;
+		} else {
+			print STDERR "$fname: expected wl/er, not $_";
+			next PAGE;
+		}
+
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/)) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+\.\d+) +(\d+)/) {
+			$wt = $1;
+			$et = $3;
+		} elsif (/^ +(\d+\.\d+) +(\d+) +(\d+\.\d+) +(\d+) +(\d+\.\d+)/) {
+			$wt = $2;
+			$et = $4;
+		} else {
+			print STDERR "$fname: expected wt/et, not $_";
+			next PAGE;
+		}
+
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/)) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+) +(\d+) +(\d+)/) {
+			$wr = $2;
+			$el = $3;
+		} else {
+			print STDERR "$fname: expected wr/el, not $_";
+			next PAGE;
+		}
+
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/)) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+) +(\d+)/) {
+			$sl = $1;
+			$st = $2;
+			$sr = $3;
+		} else {
+			print STDERR "$fname: expected south numbers, not $_";
+			next PAGE;
+		}
+
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/)) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+)/) {
+			;
+		} elsif (/^ +(\d+) +([0-9-.]+) +(\d+)/) {
+			;
+		} else {
+			print STDERR "$fname: expected south in/out, not $_";
+			next PAGE;
+		}
+
+		my ($pn, $ps, $pe, $pw);
+		my ($bnr, $bnt, $bnl);
+		my ($ber, $bet, $bel);
+		my ($bsr, $bst, $bsl);
+		my ($bwr, $bwt, $bwl);
+
+		$_ = <>;
+		while (!(substr($_, 0, $left) =~ /[^ \n]/) || $_ =~ /\d\.\d/) {
+			$_ = <>;
+		}
+		if (/^ +(\d+) +(\d+) +(\d+) +(\d+)\s*$/) {
+			$pn = $1;
+			$bnr = $2;
+			$bnt = $3;
+			$bnl = $4;
+		} elsif (/^ +(\d+)\s*(NA\s*)?$/) {
+			$pn = $1;
+			$bnr = $bnt = $bnl = "";
+		} else {
+			print STDERR "$fname: expected bike/pedestrian north, not $_";
+			next PAGE;
+		}
+
+		if ($bnr ne "") {
+			$_ = <>;
+			while ($_ eq "\n") {
+				$_ = <>;
+			}
+			if (/^ +(\d+) +(\d+)\s*$/) {
+				$bwl = $1;
+				$ber = $2;
+			} else {
+				print STDERR "$fname: expected bike/pedestrian wl/er, not $_";
+				next PAGE;
+			}
+
+			$_ = <>;
+			while ($_ eq "\n") {
+				$_ = <>;
+			}
+			if (/^ +(\d+) +(\d+) +(\d+) +(\d+)\s*$/) {
+				$pw = $1;
+				$pe = $2;
+				$bwt = $3;
+				$bet = $4;
+			} else {
+				print STDERR "$fname: expected bike/pedestrian w/e, not $_";
+				next PAGE;
+			}
+
+			$_ = <>;
+			while ($_ eq "\n") {
+				$_ = <>;
+			}
+			if (/^ +(\d+) +(\d+)\s*$/) {
+				$bwr = $1;
+				$bel = $2;
+			} else {
+				print STDERR "$fname: expected bike/pedestrian wr/el, not $_";
+				next PAGE;
+			}
+
+			$_ = <>;
+			while ($_ eq "\n") {
+				$_ = <>;
+			}
+			if (/^ +(\d+) +(\d+) +(\d+) +(\d+)\s*$/) {
+				$ps = $1;
+				$bsl = $2;
+				$bst = $3;
+				$bsr = $4;
+			}
+		} else {
+			$_ = <>;
+			while ($_ eq "\n") {
+				$_ = <>;
+			}
+			if (/^ +(\d+) +(\d+)\s*(NA\s*NA\s*)?$/) {
+				$pw = $1;
+				$pe = $2;
+			} else {
+				print STDERR "$fname: expected pedestrian w/e, not $_";
+				next PAGE;
+			}
+
+			$_ = <>;
+			while ($_ eq "\n") {
+				$_ = <>;
+			}
+			if (/^ +(\d+)\s*(NA\s*)?$/) {
+				$ps = $1;
+			} else {
+				print STDERR "$fname: expected pedestrian south, not $_";
+				next PAGE;
+			}
+		}
+
+		$name =~ s/[ \n]*$//;
+		$city =~ s/[ \n]*$//;
+
+		$fname =~ s/,/ /g;
+		$name =~ s/,/ /g;
+		$city =~ s/,/ /g;
+		$date =~ s/,/ /g;
+		$peakhour =~ s/,/ /g;
+
+		if ($peakhour =~ /(\d+):(\d+) (.)M -- (\d+):(\d+) (.)M/) {
+			my ($h1, $m1, $ap1, $h2, $m2, $ap2) = ($1, $2, $3, $4, $5, $6);
+			if ($ap1 eq 'P' && $h1 != 12) {
+				$h1 += 12;
+			}
+			if ($ap2 eq 'P' && $h2 != 12) {
+				$h2 += 12;
+			}
+			$peakhour = sprintf("%02d:%02d-%02d:%02d", $h1, $m1, $h2, $m2);
+		}
+
+		#print "$fname,$name / $city,x,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bwt,$bnt,$bet,$bst,";
+		print "TURN $fname,$name / $city,x,$date,$peakhour,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bwt ($bwr $bwl),$bnt ($bnr $bnl),$bet ($ber $bel),$bst ($bsr $bsl),";
+
+		if ($nt + $st > $et + $wt) {
+			$bike_major_through += $bnt + $bst;
+			$bike_major_left += $bnl + $bsl;
+			$bike_major_right += $bnr + $bsr;
+
+			$bike_minor_through += $bwt + $bet;
+			$bike_minor_left += $bwl + $bel;
+			$bike_minor_right += $bwr + $ber;
+		} else {
+			$bike_minor_through += $bnt + $bst;
+			$bike_minor_left += $bnl + $bsl;
+			$bike_minor_right += $bnr + $bsr;
+
+			$bike_major_through += $bwt + $bet;
+			$bike_major_left += $bwl + $bel;
+			$bike_major_right += $bwr + $ber;
+		}
+
+		if ($fname =~ /rtc\/([0-9]+)\//) {
+			print "$lat{$1},$lon{$1}\n";
+		} else {
+			print ",\n";
+		}
+	} elsif (/Total Vehicle Summary/) {
+		$_ = <>;
+		while ($_ =~ /^\s/) {
+			$_ = <>;
+		}
+		my $street = $_;
+		$street =~ s/ *PHF.*//;
+		chomp($street);
+
+		$_ = <>;
+		while ($_ =~ /^\s/) {
+			$_ = <>;
+		}
+		my $date;
+		if (/([A-Z][a-z]+, [A-Z][a-z]+ \d+, \d+)/) {
+			$date = $1;
+		} elsif (/(\d+\/\d+\/\d+)/) {
+			$date = $1;
+		} else {
+			print STDERR "$fname: expected date, not $_";
+			next PAGE;
+		}
+
+		$fname =~ s/,/ /g;
+		$street =~ s/,/ /g;
+		$date =~ s/,/ /g;
+
+		my $minutes = 0;
+		my $form = 0;
+		while (<>) {
+			last if /Rolling Hour/;
+
+			if (/^\s*Total/) {
+				$minutes = 0;
+			}
+
+			if (/^\s*(\d+)-Minute Interval Summary/) {
+				$minutes = $1;
+				# print "Got minutes $minutes\n";
+			}
+
+			if (/^\s*Time/) {
+				if (/Time  *L  *T  *R  *Bikes  *L  *T  *R  *Bikes  *L  *T  *R  *Bikes  *L  *T  *R  *Bikes  *Total  *North  *South  *East  *West/) {
+					$form = 1;
+				} elsif (/Time  *L  *T  *R  *HV  *L  *T  *R  *HV  *L  *T  *R  *HV  *L  *T  *R  *HV  *Total  *North  *South  *East  *West/) {
+					$form = 2;
+				} else {
+					print STDERR "$fname: Wrong column order $_\n";
+					last;
+				}
+			}
+
+			if (/^\s*(\d+):(\d+) (.M)?/ && $minutes != 0) {
+				my ($hour, $minute, $m) = ($1, $2, $3);
+				if ($m eq 'PM' && $hour != 12) {
+					$hour += 12;
+				}
+				my $when = $hour * 60 + $minute;
+				my $time = sprintf("%02d:%02d-%02d:%02d", $when / 60, $when % 60, ($when + $minutes) / 60, ($when + $minutes) % 60);
+
+				chomp;
+				my @fields = split(/ +/);
+
+				if ($#fields == 23 && $m ne "") {
+					my ($x, $x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
+
+					if ($form != 1) {
+						$bw = $be = $bn = $bs = "";
+					}
+
+					# print "$fname,$street,x,$date,$time,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bn,$be,$bs,$bw,";
+
+					if ($fname =~ /rtc\/([0-9]+)\//) {
+						# print "$lat{$1},$lon{$1}\n";
+					} else {
+						# print ",\n";
+					}
+				} elsif ($#fields == 22 && $m eq "") {
+					my ($x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
+
+					if ($form != 1) {
+						$bw = $be = $bn = $bs = "";
+					}
+
+					# print "$fname,$street,x,$date,$time,$nr,$nt,$nl,$er,$et,$el,$sr,$st,$sl,$wr,$wt,$wl,$pn,$pe,$ps,$pw,$bn,$be,$bs,$bw,";
+
+					if ($fname =~ /rtc\/([0-9]+)\//) {
+						# print "$lat{$1},$lon{$1}\n";
+					} else {
+						# print ",\n";
+					}
+				}
+			}
+		}
+
+	}
+}
+
+if ($bike_major_through != 0) {
+	printf("major right: %f %d\n", $bike_major_right / ($bike_major_through + $bike_major_right + $bike_major_left));
+	printf("major left: %f %d\n", $bike_major_left / ($bike_major_through + $bike_major_right + $bike_major_left));
+
+	printf("minor right: %f %d\n", $bike_minor_right / ($bike_minor_through + $bike_minor_right + $bike_minor_left));
+	printf("minor left: %f %d\n", $bike_minor_left / ($bike_minor_through + $bike_minor_right + $bike_minor_left));
+}
