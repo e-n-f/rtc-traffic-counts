@@ -1,3 +1,4 @@
+-id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,N-Ped,E-Ped,S-Ped,W-Ped,N-Bike,E-Bike,S-Bike,W-Bike,lat,lon
 sanjose/Appendix B - TIA_201307031551163925.txt,Narvaez Ave -- SR 87 NB Ramps / San Jose  CA,x,4/23/2009,07:10-08:10,219,182,0,0,0,0,0,150,695,301,0,91,0,6,1,12,,,,,,
 sanjose/Appendix B - TIA_201307031551163925.txt,Narvaez Ave -- SR 87 NB Ramps / San Jose  CA,x,4/23/2009,17:00-18:00,198,116,1,0,0,0,0,185,804,812,0,279,0,0,2,3,,,,,,
 sanjose/Appendix B - TIA_201307031551163925.txt,Senter Rd -- E Capitol Expy / San Jose  CA,x,4/23/2009,07:25-08:25,244,523,344,564,1817,252,291,596,290,189,1458,376,39,144,1,66,,,,,,

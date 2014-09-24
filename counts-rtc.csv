@@ -1,3 +1,4 @@
+-id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,N-Ped,E-Ped,S-Ped,W-Ped,N-Bike,E-Bike,S-Bike,W-Bike,lat,lon
 rtc/100/0100T-200511AM.txt,NE Chkalov Dr & SE Mill Plain Blvd,x,11/8/2005,07:00-07:05,54,10,2,0,94,5,2,7,34,11,66,19,0,0,2,1,0,0,0,0,45.6209984,-122.5548172
 rtc/100/0100T-200511AM.txt,NE Chkalov Dr & SE Mill Plain Blvd,x,11/8/2005,07:05-07:10,51,7,5,1,91,7,2,9,29,11,70,24,0,0,0,0,0,0,0,0,45.6209984,-122.5548172
 rtc/100/0100T-200511AM.txt,NE Chkalov Dr & SE Mill Plain Blvd,x,11/8/2005,07:10-07:15,44,7,6,1,96,10,2,7,30,17,78,21,0,0,0,0,0,0,0,0,45.6209984,-122.5548172

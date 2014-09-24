@@ -13,6 +13,8 @@ while (<IN>) {
 	}
 }
 
+print "-id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,N-Ped,E-Ped,S-Ped,W-Ped,N-Bike,E-Bike,S-Bike,W-Bike,lat,lon\n";
+
 PAGE:
 while (<>) {
 	my $fname = $ARGV;

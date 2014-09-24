@@ -1,3 +1,4 @@
+-id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,N-Ped,E-Ped,S-Ped,W-Ped,N-Bike,E-Bike,S-Bike,W-Bike,lat,lon
 oakland/181503770-PRR-1025-Doc-2-PilotProjectTrafficStudy-TechnicalAppendix-11-4-13.txt,Broadway -- Telegraph Ave/15th St / Oakland  CA,x,Thu  Jan 24 2013,08:00-09:00,0,300,1,42,66,2,0,259,165,245,0,0,13,87,97,31,0,22,2,2,,
 oakland/181503770-PRR-1025-Doc-2-PilotProjectTrafficStudy-TechnicalAppendix-11-4-13.txt,Broadway -- Telegraph Ave/15th St / Oakland  CA,x,Thu  Jan 24 2013,16:50-17:50,0,465,0,55,146,0,0,322,224,255,0,0,0,152,125,0,0,5,2,16,,
 oakland/181503770-PRR-1025-Doc-2-PilotProjectTrafficStudy-TechnicalAppendix-11-4-13.txt,Telegraph Ave -- 16th St / Oakland  CA,x,Thu  Jan 24 2013,07:55-08:55,110,246,0,0,0,0,0,177,60,0,0,0,17,26,77,60,0,15,2,4,,

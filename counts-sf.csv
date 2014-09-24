@@ -1,3 +1,4 @@
+-id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,N-Ped,E-Ped,S-Ped,W-Ped,N-Bike,E-Bike,S-Bike,W-Bike,lat,lon
 sf/15th St_Church St_AM_11-14-12.txt,Church St -- 15th St / San Francisco  CA,x,Wed  Nov 14 2012,07:40-08:40,11,217,51,66,197,16,52,287,26,18,175,13,131,98,78,163,8,13,6,27,,
 sf/15th St_Church St_AM_11-15-12.txt,Church St -- 15th St / San Francisco  CA,x,Thu  Nov 15 2012,07:50-08:50,13,204,57,92,211,12,50,341,17,18,194,15,109,85,70,151,6,18,5,23,,
 sf/15th St_Church St_PM_11-14-12.txt,Church St -- 15th St / San Francisco  CA,x,Wed  Nov 14 2012,17:00-18:00,27,280,65,107,202,49,32,263,11,55,125,22,116,167,99,224,3,19,25,30,,
