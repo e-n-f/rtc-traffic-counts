@@ -1,0 +1,1682 @@
+Transportation Impact Analysis
+Koch Corporate Center (Building 5 and 6)                                                                                         July 2012
+
+
+
+                                                  Table of Contents
+FREQUENTLY ASKED QUESTIONS ............................................................................................. II 
+INTRODUCTION.............................................................................................................................. 1 
+  Project Description ................................................................................................................. 1 
+  Analysis Approach and Study Area ....................................................................................... 1 
+EXISTING AND BASELINE CONDITIONS ..................................................................................... 4 
+ Roadway Network .................................................................................................................. 4 
+ Traffic Volumes ...................................................................................................................... 4 
+ Traffic Operations .................................................................................................................. 6 
+ Non-Motorized Facilities ........................................................................................................ 6 
+ Traffic Safety .......................................................................................................................... 6 
+PROJECT IMPACTS ....................................................................................................................... 8 
+ Trip Generation ...................................................................................................................... 8 
+ Trip Distribution ...................................................................................................................... 8 
+ Traffic Volumes ...................................................................................................................... 8 
+ Traffic Operations ................................................................................................................ 11 
+FINDINGS AND RECOMMENDATIONS ....................................................................................... 13 
+
+
+                                                             Figures
+Figure 1.          Project Site Vicinity .............................................................................................. 2 
+Figure 2.          Site Plan .............................................................................................................. 3 
+Figure 3.          Existing and 2014 Without Project Weekday AM and PM Peak Hour Traffic
+                   Volumes ............................................................................................................... 5 
+Figure 4.          Weekday AM and PM Peak Hour Project Trip Distribution & Assignment.......... 9 
+Figure 5.          2014 With-Project Weekday AM and PM Peak Hour Volumes ......................... 10 
+
+                                                              Tables
+Table 1.           Existing and Without-Project AM and PM Peak Hour LOS Summary ................ 6 
+Table 2.           Collision Data Summary ...................................................................................... 7 
+Table 3.           Trip Generation.................................................................................................... 8 
+Table 4.           Without- and With-Project LOS Summary ......................................................... 11 
+Table 5.           Poisson Queuing Analysis at 115th Ave SW / Tualatin-Sherwood Rd
+                   (Westbound Left) ............................................................................................... 11 
+
+
+
+
+                                                                                                                                            i
+Transportation Impact Analysis
+Koch Corporate Center (Building 5 and 6)                                                   July 2012
+
+
+
+                       Frequently Asked Questions
+This section provides an executive summary of the Transportation Impact Analysis through a
+set of frequently asked questions (FAQs).
+
+
+Where is the project located?
+The site is located along the northeast quadrant of the proposed SW Blake Street / 115th
+Avenue SW intersection in Tualatin, Oregon.
+
+
+What is the project land use and trip generation?
+The project includes the construction of two light industrial buildings totaling approximately
+100,000 gsf. The project is estimated to generate 92 trips during the weekday AM peak hour
+and 97 trips during the weekday PM peak hour utilizing ITE land use 110.
+
+
+What are the existing and future without-project conditions in
+the study area?
+The study area was defined through coordination with Washington County and the City of
+Tualatin to include the intersection of 115th Avenue SW / Tualatin-Sherwood Road. During
+existing and without-project conditions the study intersections currently operate within County
+standards with V/C ratios below 0.99 during the weekday AM and PM peak hour.
+
+
+Would the project have any transportation impacts?
+With the addition of project related traffic, the intersection V/C ratio is below 0.99 for both the
+weekday AM and PM peak hour during the with-project condition. The V/C ratio increases by
+0.04 between without and with-project conditions.
+
+
+What mitigation measures are recommended?
+Specific off-site mitigation measures are not recommended nor required to reduce/offset
+potential site-generated traffic impacts.
+
+
+
+
+                                                                                                      ii
+Transportation Impact Analysis
+Koch Corporate Center (Building 5 and 6)                                               July 2012
+
+
+
+                                           Introduction
+This Transportation Impact Analysis (TIA) summarizes the potential transportation-related
+impacts associated with the proposed Koch Corporate Center (Building 5 and 6) located in
+the City of Tualatin. The analysis was conducted to evaluate the project’s impacts on
+roadways and intersections within the vicinity of the site and to recommend, if necessary,
+mitigation measures that would reduce or otherwise offset these impacts. This report has
+been prepared in coordination with both the City of Tualatin and Washington County staff.
+
+
+Project Description
+The site is located along the northeast quadrant of the proposed SW Blake Street/SW 115th
+Avenue intersection in Tualatin, Oregon. The project’s site vicinity is shown in Figure 1. The
+primary access to the project will be via the SW 115th Avenue/Tualatin-Sherwood Road
+intersection. The project includes the construction of two industrial buildings totaling
+approximately 100,000 gsf. A preliminary site plan showing the subject project and access
+points are included in Figure 2. The project is anticipated to be built and fully occupied by
+2014.
+
+
+Analysis Approach and Study Area
+This analysis was prepared through coordination with City and County staff and reviewing the
+City’s and Washington County’s road standard requirements. The study area was
+determined based on coordination with City and County staff and includes one intersection,
+SW Tualatin-Sherwood Road / SW 115th Street. Since Tualatin-Sherwood Road is
+maintained by the County, the potential “Impact Area” of the project was reviewed based on
+the projected average daily traffic (ADT). The intersection is operated by Washington County;
+therefore Washington County standards were used for analysis.
+
+Based on discussions with City and County staff, intersection operations are evaluated for the
+existing, without-project and with-project weekday AM and PM peak hour conditions. Site-
+generated impacts are determined by comparing without- and with-project traffic conditions.
+
+
+
+
+                                                                                         Page 1
+                                                                                                             NOT TO SCALE
+
+
+
+
+Site Plan                                                                                                    FIGURE
+Koch Corporate Building 5 and 6
+M:\11\11221 Koch Corporate Center Bldg 5 and 6\Graphics\subdivision\Graphic 4 <FIG_2> pauls 05/03/12 09:47
+                                                                                                                  2
+Transportation Impact Analysis
+Koch Corporate Center (Building 5 and 6)                                                July 2012
+
+
+
+                 Existing and Baseline Conditions
+This section describes both existing conditions and 2014 without-project conditions within the
+identified study area. Study area characteristics are provided for the roadway network,
+planned improvements, existing and forecasted without-project volumes, traffic operations,
+and non-motorized facilities.
+
+
+Roadway Network
+The primary roadways within the vicinity of the site include the following:
+
+SW Tualatin-Sherwood Road is a two-lane major arterial with a posted speed limit of 45
+miles per hour (mph). Traffic signals exist at major intersections near the site including SW
+115th Street / SW Tualatin-Sherwood Road and SW Avery Road / Tualatin-Sherwood Road.
+Bike lanes are provided near the project site. Sidewalks are provided where development
+has occurred.
+
+SW 115th Avenue is a two-lane local commercial industrial roadway with a posted speed
+limit of 25 mph. Sidewalks are located where development has occurred.
+
+
+Planned Improvements
+The City of Tualatin Transportation System Plan (June 2001) and the Washington County
+2020 Transportation Plan (October 2002) were reviewed to identify any planned
+improvements within the 2014 horizon year. One improvement identified within the Tualatin
+Transportation System Plan is within the study area. This improvement includes the
+extension of SW 115th Avenue south to McCamant Road. This improvement is not
+scheduled to be completed within the study period and therefore was not included in the
+analysis.
+
+
+Traffic Volumes
+Weekday AM and PM peak hour traffic volumes at the study intersection were collected in
+March 2012. The existing weekday AM and PM peak hour traffic volumes are illustrated in
+Figure 3. The detailed traffic count worksheets are provided in Appendix A.
+
+Consistent with other studies in the area, an annual growth rate of 3 percent was utilized for
+estimating future without-project traffic volumes. In addition to an annual growth rate, five
+pipeline projects were included in the 2014 without-project weekday AM and PM peak hour
+traffic volumes. The pipeline projects include: 115th Commerce Park, Pacific Coast Fruit,
+Powin Phase 2, Tualatin Business Park (92 percent occupied), and Itel Corporate Center.
+Figure 3 illustrates the resulting 2014 without-project weekday AM and PM peak hour traffic
+volumes.
+
+
+
+
+                                                                                          Page 4
+Transportation Impact Analysis
+Koch Corporate Center (Building 5 and 6)                                                                       July 2012
+
+
+
+
+Traffic Operations
+A level of service (LOS) analysis was conducted for the study area intersections for the
+weekday AM and PM peak hour. The signalized intersections were analyzed using Synchro
+7.0. This software program provides an analysis based on methodologies presented in the
+Highway Capacity Manual (HCM) (Transportation Research Board, 2000 Edition).
+
+LOS values range from LOS A, which indicates good operating conditions with little or no
+delay, to LOS F, which indicates extreme congestion and long vehicle delays. LOS is
+measured in terms of total average intersection delay for signalized and all-way stop-
+controlled intersections. A more detailed explanation of LOS criteria is provided in
+Appendix B.
+
+Existing and without-project (2014) LOS results are summarized in Table 1 and LOS
+worksheets are provided in Appendix C. The signal timing splits and offsets were optimized
+during the without-project weekday AM and PM peak hour.
+
+The study intersection is under Washington County jurisdiction. Washington County has
+identified their LOS standard as a volume-to-capacity ratio equal to or less than 0.99 for the
+overall intersection. Since the Tualatin-Sherwood Road is a County facility, the Washington
+County standard is being considered. Based on discussions with County staff, the use of the
+peak hour volumes with the peak hour factor satisfies the first and second hour operational
+standards defined by the County.
+
+Table 1.          Existing and Without-Project AM and PM Peak Hour LOS Summary
+                                                                      2012 Existing           2014 Without-Project
+                                                                  1              2       3
+Intersection                                                LOS          Delay        V/C    LOS     Delay      V/C
+Weekday AM Peak Hour
+SW Tualatin-Sherwood Rd / 115th Ave SW                       E            58.5        0.79    F       81.4      0.94
+Weekday PM Peak Hour
+SW Tualatin-Sherwood Rd / 115th Ave SW                       C            33.7        0.70   D        43.9      0.76
+1.   Level of Service
+2.   Average vehicle delay in seconds per vehicle.
+3.   Volume-to-capacity ratio at signalized intersections
+
+
+As shown in Table 1, the study intersection operates below a V/C of 0.99 for both the
+weekday AM and PM peak hour during existing and without-project conditions.
+
+
+Non-Motorized Facilities
+Non-motorized facilities exist within the study area in the form of sidewalks and bike lanes.
+Bike lanes are provided along SW Tualatin-Sherwood Road.
+
+
+Traffic Safety
+Collision data was reviewed and summarized at 115th Avenue SW / Tualatin-Sherwood
+Road. This includes data between 2008 and 2011 and is shown in Table 2. Accident data
+received from the State is shown in Appendix D.
+
+
+
+
+                                                                                                                 Page 6
+Transportation Impact Analysis
+Koch Corporate Center (Building 5 and 6)                                                          July 2012
+
+
+Table 2.     Collision Data Summary
+                                                                                           Collisions/
+                                                                                                   1
+           Location                2008            2009          2010   Total Collisions     Year
+115th Ave SW / Tualatin-
+                                     3               6            1           10              3.33
+Sherwood Rd
+1. Collisions per year based on average between 2008 and 2011.
+
+
+As shown in Table 2, collisions at the intersection of 115th Avenue SW / Tualatin-Sherwood
+Road total approximately three per year. The most frequent collision type was rear end
+collisions.
+
+Per Washington County requirements, a benefit-cost analysis was completed to determine if
+a capacity improvement is necessary based on the collision history at the intersection. A
+benefit to cost analysis of the collisions compared to a potential capacity improvement was
+completed using guidelines within the Determining Traffic Safety Improvements Under The
+Traffic Impact Fee Ordinance (July 1986). As discussed in this document, if the benefit-cost
+ratio is less than 1.0, no improvements are required to offset the impacts of collisions.
+
+The capacity improvement considered for 115th Avenue SW / Tualatin-Sherwood Road was
+an additional westbound left. The benefit to cost ratio was calculated using the following
+formula:
+
+B/C = (Annual Benefits)*(Series Present Worth Factor (20 yrs @ 10%) / Estimated Improvement Cost
+
+Annual Benefit = $21,773 (Collisions included 4 Property Damage Only and 6 injury)
+Improvement Cost = Approximately $200,000
+Present Worth Factor = 8.5136
+
+B/C = 0.93
+
+Based on the Benefit-cost ratio of less than 1.0, no improvement is triggered through a review
+of the safety analysis.
+
+
+
+
+                                                                                                     Page 7
+Transportation Impact Analysis
+Koch Corporate Center (Building 5 and 6)                                                                   July 2012
+
+
+
+                                             Project Impacts
+This section of the report documents the site-generated impacts of the proposed project on
+the surrounding roadway network, including impacts to traffic volumes and intersection
+operations. Project-generated weekday AM and PM peak hour traffic volumes are estimated,
+distributed, and assigned to the surrounding roadway network. Future with-project traffic
+volumes are projected and intersection peak hour operations are evaluated. 2014 without-
+and with-project conditions are compared in order to identify transportation impacts
+associated with the project.
+
+
+Trip Generation
+The following trip generation estimates were developed using rates identified in the ITE Trip
+Generation Manual, 8th Edition. The trip generation rates used for the proposed site are
+based on ITE Land Use #110 (General Light Industrial). Trip generation estimates for the
+weekday AM and PM peak hour and average daily conditions are noted in Table 3.
+
+Table 3.          Trip Generation
+                                                                                           Project Trips
+                                                                               1
+Land Use                                                         Size   Rate       Total        In          Out
+Light Industrial (LU # 110)                               100,000 gsf
+Weekday AM Peak Hour                                                    0.92        92          81           11
+Weekday PM Peak Hour                                                    0.97        97          12           85
+Weekday Daily                                                           6.97       698         349          349
+1.   Trips rates from ITE Trip Generation Manual, 8th Edition.
+
+
+As shown in Table 3, based on ITE rates the weekday AM and PM peak hour trip generation
+totals 92 and 97 net new trips, respectively.
+
+
+Trip Distribution
+A review of the existing turning movement counts at the SW 115th Avenue/SW Tualatin-
+Sherwood Road intersection and anticipated travel patterns to/from the site were used to
+generate the distribution of project trips within the study area. In general, 35 percent of the
+trips are oriented to/from the west and 65 percent of the trips are oriented to/from the east.
+Figure 4 illustrates the trip distribution and assignment of project trips within the study area.
+
+
+Traffic Volumes
+Year 2014 with-project traffic volumes were estimated by adding site-generated traffic
+volumes and year 2014 without-project traffic volumes. The resulting weekday AM and PM
+peak hour 2014 with-project traffic volumes are illustrated in Figure 5.
+
+
+
+
+                                                                                                             Page 8
+Transportation Impact Analysis
+Koch Corporate Center (Building 5 and 6)                                                                                 July 2012
+
+
+
+
+Traffic Operations
+The with-project analysis reflects the project impacts of adding additional project related trips
+to the study intersections. The results of the LOS analysis are summarized in Table 4. The
+results of the 2014 without-project analyses have also been included as a comparison. The
+signal timing was optimized during the with-project weekday AM and PM peak hour. Levels of
+service worksheets for 2014 with-project traffic conditions are included in Appendix C of this
+report.
+
+Table 4.          Without- and With-Project LOS Summary
+                                                           2014 Without-Project                      2014 With-Project
+                                                       1                2            3
+Intersection                                    LOS             Delay             V/C        LOS           Delay          V/C
+Weekday AM Peak Hour
+SW Tualatin-Sherwood Rd / 115th
+                                                   F             81.4             0.94         D           37.3          0.97
+Ave SW
+Weekday PM Peak Hour
+SW Tualatin-Sherwood Rd / 115th
+                                                  D              43.9             0.76         D           42.3          0.80
+Ave SW
+1.   Level of Service
+2.   Average vehicle delay in seconds per vehicle.
+3.   Volume-to-capacity ratio at signalized intersections
+
+
+As shown in Table 4, intersection V/C ratio is below 0.99 for both the weekday AM and PM
+peak hour during the with-project condition. The V/C ratio increases by 0.03 and 0.04between
+without- and with-project conditions for the weekday AM and PM peak hours, respectively.
+
+
+Queuing Analysis
+A queuing analysis focusing on the westbound left-turn lane was performed at the 115th
+Avenue SW / Tualatin-Sherwood Road intersection for the weekday AM and PM peak hour
+with-project conditions using Poisson queuing methodology. Since the V/C ratio for the
+westbound left-turn lane is less than 1.0, the use of the Poisson methodology is appropriate
+and meets Washington County standards. An average vehicle length of 25 feet was assumed
+in the calculations. This vehicle length is representative of the mix of cars and trucks
+anticipated during the weekday AM and PM peak hours.
+
+The existing turn pocket length for the westbound left-turning movements is approximately
+290 feet. Table 5 shows the results of the queuing analysis for the westbound-left turning
+movement at 115th Avenue SW / Tualatin-Sherwood Road. Detailed worksheets are shown
+in Appendix E.
+
+Table 5. Poisson Queuing Analysis at 115th Ave SW / Tualatin-Sherwood Rd (Westbound Left)
+                                              Approach            Length of Red          Average Arrival      95th Percentile
+                                                                                                                           1
+                                               Volume             Interval (sec)              Rate             Queue (feet)
+AM Peak Hour                                      143                       137              5.442                 250’
+PM Peak Hour                                       43                       126              1.505                 110’
+1.   Queues rounded to five feet.
+
+
+
+
+                                                                                                                          Page 11
+Transportation Impact Analysis
+Koch Corporate Center (Building 5 and 6)                                             July 2012
+
+
+As shown in Table 5, the queues during both the weekday AM and PM peak hour are 110
+feet and 250 feet, respectively, and are anticipated to be accommodated within the existing
+turn pocket length.
+
+
+
+
+                                                                                      Page 12
+Transportation Impact Analysis
+Koch Corporate Center (Building 5 and 6)                                                 July 2012
+
+
+
+                  Findings and Recommendations
+This transportation impact study summarizes the project traffic impacts of the proposed Koch
+Corporate Center development. The following outlines the general findings of the study.
+
+          The project includes the construction of two industrial buildings totaling
+           approximately 100,000 gsf.
+          The project is estimated to generate 92 weekday AM peak hour trips and 97
+           weekday PM peak hour trips.
+          The study intersection is anticipated to operate equal to or below a V/C ratio of
+           0.99, within Washington County standards for both the weekday AM and PM peak
+           hour.
+          Specific off-site mitigation measures are not required to reduce/offset the potential
+           site-generated traffic impacts as all locations comply with local agency
+           requirements.
+
+
+
+
+                                                                                          Page 13
+Appendix A:   Traffic Counts
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: SW 115th Ave -- Tualatin Sherwood Rd                                                                               QC JOB #: 10726203
+ CITY/STATE: Tualatin, OR                                                                                                     DATE: Wed, Mar 21 2012
+                          3          8                            Peak-Hour: 7:10 AM -- 8:10 AM                                33.3        12.5
+
+                          3     0    0
+                                                                 Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                               33.3 0.0 0.0
+
+       646    4                             4    690
+                                                                                                                11.5   25.0                         0.0     11.3
+              1147            0.93        628
+                                                                                                                       5.2                         10.5
+       1180   29                           58   1180
+                                                                                                                5.4    10.3                        20.7      5.9
+
+                         15     0    33
+                                                                                                                               46.7 0.0 30.3
+
+                         87          48
+                                                                                                                               17.2        35.4
+
+
+
+                                0                                                                                               0     0     0
+
+
+                                                                                                                       0                             0
+
+              0                             0                                                                          0                             0
+
+                                                                                                                       0                             0
+
+
+                                0                                                                                               0     0     0
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+
+              NA                          NA                                                                           NA                           NA
+
+
+
+
+                               NA                                                                                                     NA
+
+
+
+ 5-Min Count                  SW 115th Ave                    SW 115th Ave        Tualatin Sherwood Rd      Tualatin Sherwood Rd
+     Period                   (Northbound)                    (Southbound)             (Eastbound)              (Westbound)                                   Hourly
+Beginning At                                                                                                                                      Total
+                   Left        Thru Right     U        Left    Thru Right    U   Left Thru Right      U   Left Thru Right       U                             Totals
+     7:00 AM         0           0       3    0          0       0     0     0     0    83       3    0    10     64       0    0                 163
+     7:05 AM         1           0       0    0          0       0     0     0     0    77       5    0     3     51       1    0                 138
+     7:10 AM         1           0       2    0          0       0     0     0     0    82       4    0     9     55       0    0                 153
+     7:15 AM         1           0       6    0          0       0     0     0     1   101       3    0     5     54       0    0                 171
+     7:20 AM         2           0       2    0          0       0     0     0     0   108       2    0     1     54       1    0                 170
+     7:25 AM         0           0       6    0          0       0     0     0     0    94       1    0     3     47       0    0                 151
+     7:30 AM         2           0       2    0          0       0     1     0     1    93       3    0     3     34       0    0                 139
+     7:35 AM         3           0       2    0          0       0     0     0     0    91       3    0     3     59       1    0                 162
+     7:40 AM         4           0       4    0          0       0     0     0     1    83       2    0    11     45       0    0                 150
+     7:45 AM         1           0       2    0          0       0     0     0     1   111       1    0     3     60       1    0                 180
+     7:50 AM         0           0       2    0          0       0     0     0     0   102       1    0     8     60       0    0                 173
+     7:55 AM         1           0       0    0          0       0     1     0     0    97       4    0     5     58       0    0                 166             1916
+     8:00 AM         0           0       3    0          0       0     0     0     0    82       2    0     6     53       1    0                 147             1900
+     8:05 AM         0           0       2    0          0       0     1     0     0   103       3    0     1     49       0    0                 159             1921
+     8:10 AM         3           0       5    0          0       0     0     0     0    83       1    0     2     41       1    0                 136             1904
+     8:15 AM         0           0       1    0          0       0     0     0     0    79       1    0     1     57       0    0                 139             1872
+     8:20 AM         1           0       4    0          0       0     0     0     0    58       1    0     4     60       0    0                 128             1830
+     8:25 AM         1           0       0    0          0       0     0     0     0    65       3    0     2     60       0    0                 131             1810
+     8:30 AM         0           0       3    0          0       0     0     0     0    64       8    0     2     38       0    0                 115             1786
+     8:35 AM         2           0       1    0          0       0     0     0     0    71       2    0     4     81       2    0                 163             1787
+     8:40 AM         3           0       6    0          1       0     0     0     0    72       2    0     7     44       1    0                 136             1773
+     8:45 AM         0           0       3    0          0       0     0     0     1    73       7    0     3     54       0    0                 141             1734
+     8:50 AM         0           0       8    0          0       0     0     0     0    64       3    0     3     46       1    0                 125             1686
+     8:55 AM         1           0       2    0          0       0     0     0     0    77       4    0     1     69       2    0                 156             1676
+ Peak 15-Min                       Northbound                     Southbound                Eastbound                 Westbound
+                                                                                                                                                          Total
+  Flowrates        Left        Thru Right     U        Left    Thru Right    U   Left Thru Right      U   Left Thru Right       U
+  All Vehicles       8           0      16    0          0       0     4     0     4 1240       24    0    64    712       4    0                         2076
+ Heavy Trucks        0           0       8               0       0     4           4    56       4         16     76       0                               168
+  Pedestrians                    0                               0                        0                         0                                       0
+   Bicycles          0           0       0               0       0     0           0      0      0          0       0      0                                0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/21/2012 4:25 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: SW 115th Ave -- Tualatin Sherwood Rd                                                                              QC JOB #: 10726204
+ CITY/STATE: Tualatin, OR                                                                                                    DATE: Tue, Mar 20 2012
+                          9           5                            Peak-Hour: 4:35 PM -- 5:35 PM                              0.0        0.0
+
+                          2     0     7
+                                                                  Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                              0.0 0.0 0.0
+
+       967    2                              3    976
+                                                                                                                 3.1   0.0                       0.0      3.3
+              990             0.90         941
+                                                                                                                       2.8                       3.2
+       1031   39                            32   1085
+                                                                                                                 2.9   5.1                       6.3      2.8
+
+                         24     0    88
+                                                                                                                              0.0 0.0 2.3
+
+                         71          112
+                                                                                                                              5.6        1.8
+
+
+
+                                0                                                                                              0    0    0
+
+
+                                                                                                                       0                          0
+
+              0                              0                                                                         0                          0
+
+                                                                                                                       0                          0
+
+
+                                0                                                                                              0    0    0
+
+
+
+
+                               NA                                                                                                   NA
+
+
+
+
+              NA                           NA                                                                          NA                        NA
+
+
+
+
+                               NA                                                                                                   NA
+
+
+
+ 5-Min Count                  SW 115th Ave                     SW 115th Ave        Tualatin Sherwood Rd      Tualatin Sherwood Rd
+     Period                   (Northbound)                     (Southbound)             (Eastbound)              (Westbound)                               Hourly
+Beginning At                                                                                                                                   Total
+                   Left        Thru Right     U         Left    Thru Right    U   Left Thru Right      U   Left Thru Right       U                         Totals
+     4:00 PM         2           0      10    0           0       0     1     0     0    75       5    0     3     76       0    0             172
+     4:05 PM         2           0      21    0           3       0     1     0     0    77       2    0     2     63       0    0             171
+     4:10 PM         2           0      11    0           0       0     0     0     0    90       5    0     4     92       0    0             204
+     4:15 PM         4           0       7    0           1       0     0     0     0    62       2    0     3     87       0    0             166
+     4:20 PM         0           0       5    0           0       0     0     0     0    63       1    0     2     81       0    0             152
+     4:25 PM         0           0       3    0           0       0     0     0     0    81       3    0     7     71       0    0             165
+     4:30 PM         1           0       7    0           0       0     0     0     0    66       3    0     8     72       0    0             157
+     4:35 PM         4           0       9    0           0       0     0     0     0    86       7    0     2     75       1    0             184
+     4:40 PM         3           0       5    0           0       0     0     0     0    76       2    0     2     76       0    0             164
+     4:45 PM         3           0       6    0           0       0     0     0     1    72       3    0     3     77       0    0             165
+     4:50 PM         2           0       4    0           0       0     0     0     0    67       2    0     1     74       0    0             150
+     4:55 PM         0           0       4    0           1       0     0     0     0    87       2    0     1     89       1    0             185             2035
+     5:00 PM         1           0      14    0           2       0     0     0     0    83       6    0     3     57       0    0             166             2029
+     5:05 PM         1           0      10    0           0       0     0     0     1    99       2    0     2     80       0    0             195             2053
+     5:10 PM         4           0       5    0           0       0     1     0     0   105       2    0     4     90       0    0             211             2060
+     5:15 PM         1           0      10    0           1       0     0     0     0    85       2    0     4     83       0    0             186             2080
+     5:20 PM         4           0       6    0           2       0     0     0     0    88       5    0     6     82       1    0             194             2122
+     5:25 PM         0           0       1    0           0       0     0     0     0    68       5    0     2     72       0    0             148             2105
+     5:30 PM         1           0      14    0           1       0     1     0     0    74       1    0     2     86       0    0             180             2128
+     5:35 PM         2           0      15    0           1       0     0     0     0    72       1    0     2     62       0    0             155             2099
+     5:40 PM         1           0       5    0           0       0     0     0     0    67       2    0     1    107       0    0             183             2118
+     5:45 PM         6           0       3    0           1       0     0     0     0    68       5    0     1     77       0    0             161             2114
+     5:50 PM         1           0       5    0           0       0     2     0     0    65       4    0     2     72       0    0             151             2115
+     5:55 PM         4           0       4    0           2       0     0     0     0    62       2    0     2     63       0    0             139             2069
+ Peak 15-Min                       Northbound                      Southbound                Eastbound                 Westbound
+                                                                                                                                                       Total
+  Flowrates        Left        Thru Right     U         Left    Thru Right    U   Left Thru Right      U   Left Thru Right       U
+  All Vehicles      24           0    100     0           4       0     4     0     4 1156       24    0    40 1012         0    0                     2368
+ Heavy Trucks        0           0       8                0       0     0           0    12       0          4     40       0                           64
+  Pedestrians                    0                                0                        0                         0                                   0
+   Bicycles          0           0       0                0       0     0           0      0      0          0       0      0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 3/21/2012 4:25 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Appendix B:   LOS Criteria
+                                          Highway Capacity Manual, 2000
+
+Signalized intersection level of service (LOS) is defined in terms of the average total vehicle
+delay of all movements through an intersection. Vehicle delay is a method of quantifying several
+intangible factors, including driver discomfort, frustration, and lost travel time. Specifically, LOS
+criteria are stated in terms of average delay per vehicle during a specified time period (for
+example, the PM peak hour). Vehicle delay is a complex measure based on many variables,
+including signal phasing (i.e., progression of movements through the intersection), signal cycle
+length, and traffic volumes with respect to intersection capacity. Table 1 shows LOS criteria for
+signalized intersections, as described in the Highway Capacity Manual (Transportation Research
+Board, Special Report 209, 2000).
+
+Table 1.        Level of Service Criteria for Signalized Intersections
+                     Average Control Delay            General Description
+Level of Service           (sec/veh)                  (Signalized Intersections)
+        A                       ≤10                   Free Flow
+        B                     >10 - 20                Stable Flow (slight delays)
+        C                     >20 - 35                Stable flow (acceptable delays)
+        D                                             Approaching unstable flow (tolerable delay, occasionally wait through
+                              >35 - 55
+                                                      more than one signal cycle before proceeding)
+        E                     >55 - 80                Unstable flow (intolerable delay)
+        F                       >80                   Forced flow (jammed)
+Source: Highway Capacity Manual, Transportation Research Board, Special Report 209, 2000.
+
+
+
+
+Unsignalized intersection LOS criteria can be further reduced into two intersection types: all-
+way stop-controlled and two-way stop-controlled. All-way, stop-controlled intersection LOS is
+expressed in terms of the average vehicle delay of all of the movements, much like that of a
+signalized intersection. Two-way, stop-controlled intersection LOS is defined in terms of the
+average vehicle delay of an individual movement(s). This is because the performance of a two-
+way, stop-controlled intersection is more closely reflected in terms of its individual movements,
+rather than its performance overall. For this reason, LOS for a two-way, stop-controlled
+intersection is defined in terms of its individual movements. With this in mind, total average
+vehicle delay (i.e., average delay of all movements) for a two-way, stop-controlled intersection
+should be viewed with discretion. Table 2 shows LOS criteria for unsignalized intersections (both
+all-way and two-way, stop-controlled).
+
+                Table 2.        Level of Service Criteria for Unsignalized Intersections
+                             Level of Service                        Average Control Delay (sec/veh)
+                                      A                                              0 - 10
+                                      B                                             >10 - 15
+                                      C                                             >15 - 25
+                                      D                                             >25 - 35
+                                      E                                             >35 - 50
+                                      F                                               >50
+                Source: Highway Capacity Manual, Transportation Research Board, Special Report 209, 2000.
+Appendix C:   LOS Worksheets
+HCM Signalized Intersection Capacity Analysis
+1: SW Tualatin Sherwood Road & SW 115th Avenue                                                                             5/14/2012
+
+
+
+Movement                            EBL      EBT     EBR     WBL     WBT     WBR         NBL    NBT     NBR     SBL    SBT     SBR
+Lane Configurations
+Volume (vph)                            5   1145       30       60    630        5         15       1     35       1       1      5
+Ideal Flow (vphpl)                  1900    1900    1900     1900    1900     1900      1900    1900    1900   1900    1900    1900
+Total Lost time (s)                   7.0     4.0     4.0      7.0     4.0                4.0     7.2            7.0     7.0
+Lane Util. Factor                   1.00    1.00     1.00    1.00    1.00                1.00   1.00            1.00    1.00
+Frt                                  1.00    1.00    0.85     1.00    1.00               1.00    0.85           1.00    0.88
+Flt Protected                       0.95    1.00     1.00    0.95    1.00                0.95    1.00           0.95    1.00
+Satd. Flow (prot)                   1719    1810    1538     1626    1710               1337    1202           1357    1250
+Flt Permitted                       0.95    1.00     1.00    0.95    1.00                0.75    1.00           0.73    1.00
+Satd. Flow (perm)                   1719    1810    1538     1626    1710               1061    1202           1045    1250
+Peak-hour factor, PHF                0.93    0.93    0.93     0.93    0.93    0.93       0.93    0.93   0.93    0.93    0.93   0.93
+Adj. Flow (vph)                         5   1231       32       65    677        5         16       1     38       1       1      5
+RTOR Reduction (vph)                    0       0       9        0       0       0          0      31      0       0       4      0
+Lane Group Flow (vph)                   5   1231       23       65    682        0         16       8      0       1       2      0
+Heavy Vehicles (%)                    5%      5%      5%     11%     11%      11%        35%    35%     35%     33%    33%     33%
+Turn Type                            Prot           Perm      Prot                      Perm                   Perm
+Protected Phases                        5      2                 1      6                          8                      4
+Permitted Phases                                        2                                   8                     4
+Actuated Green, G (s)                0.8     79.8    79.8     10.6    89.6               23.0   23.0           23.2    23.2
+Effective Green, g (s)               0.8     82.2    82.2     10.6    92.0               26.2   23.0           23.2    23.2
+Actuated g/C Ratio                  0.01     0.61    0.61     0.08    0.69               0.20   0.17           0.17    0.17
+Clearance Time (s)                   7.0      6.4     6.4      7.0     6.4                7.2    7.2            7.0      7.0
+Vehicle Extension (s)                2.4      3.1     3.1      2.4     3.1                2.4    2.4            2.4     2.4
+Lane Grp Cap (vph)                    10    1110      943      129   1174                 207    206            181     216
+v/s Ratio Prot                      0.00    c0.68            c0.04   c0.40                      0.01                   0.00
+v/s Ratio Perm                                       0.02                               c0.02                  0.00
+v/c Ratio                           0.50     1.11    0.02     0.50    0.58               0.08   0.04           0.01    0.01
+Uniform Delay, d1                   66.4     25.9    10.2     59.2    10.9               44.0   46.3           45.9    45.9
+Progression Factor                  1.00     1.00    1.00     0.94    0.60               1.00   1.00           1.00    1.00
+Incremental Delay, d2               23.5     62.1     0.0      1.8     1.9                0.7    0.3            0.0     0.0
+Delay (s)                           89.9     88.0    10.2     57.7     8.4               44.8   46.6           45.9    45.9
+Level of Service                       F        F       B        E       A                  D      D              D       D
+Approach Delay (s)                           86.0                     12.7                      46.1                   45.9
+Approach LOS                                    F                        B                         D                      D
+Intersection Summary
+HCM Average Control Delay                             58.5       HCM Level of Service                     E
+HCM Volume to Capacity ratio                          0.79
+Actuated Cycle Length (s)                            134.0       Sum of lost time (s)                    8.0
+Intersection Capacity Utilization                   77.1%        ICU Level of Service                     D
+Analysis Period (min)                                   15
+c Critical Lane Group
+
+
+
+
+5:00 pm 5/15/2007 Weekday AM Peak Hour - Existing                                                                 Synchro 7 - Report
+                                                                                                                              Page 1
+HCM Signalized Intersection Capacity Analysis
+1: SW Tualatin Sherwood Road & SW 115th Avenue                                                                             5/14/2012
+
+
+
+Movement                            EBL      EBT     EBR     WBL     WBT     WBR         NBL    NBT     NBR     SBL    SBT     SBR
+Lane Configurations
+Volume (vph)                           15   1255       60       90    695       15         25       1     45       5       1      5
+Ideal Flow (vphpl)                  1900    1900    1900     1900    1900     1900      1900    1900    1900   1900    1900    1900
+Total Lost time (s)                   7.0     4.0     4.0      7.0     4.0                4.0     7.2            7.0     7.0
+Lane Util. Factor                   1.00    1.00     1.00    1.00    1.00                1.00   1.00            1.00    1.00
+Frt                                  1.00    1.00    0.85     1.00    1.00               1.00    0.85           1.00    0.88
+Flt Protected                       0.95    1.00     1.00    0.95    1.00                0.95    1.00           0.95    1.00
+Satd. Flow (prot)                   1719    1810    1538     1626    1706               1337    1201           1357    1250
+Flt Permitted                       0.95    1.00     1.00    0.95    1.00                0.75    1.00           0.73    1.00
+Satd. Flow (perm)                   1719    1810    1538     1626    1706               1061    1201           1036    1250
+Peak-hour factor, PHF                0.93    0.93    0.93     0.93    0.93    0.93       0.93    0.93   0.93    0.93    0.93   0.93
+Adj. Flow (vph)                        16   1349       65       97    747       16         27       1     48       5       1      5
+RTOR Reduction (vph)                    0       0      15        0       1       0          0      40      0       0       4      0
+Lane Group Flow (vph)                  16   1349       50       97    762        0         27       9      0       5       2      0
+Heavy Vehicles (%)                    5%      5%      5%     11%     11%      11%        35%    35%     35%     33%    33%     33%
+Turn Type                            Prot           Perm      Prot                      Perm                   Perm
+Protected Phases                        5      2                 1      6                          8                      4
+Permitted Phases                                        2                                   8                     4
+Actuated Green, G (s)                2.2     80.2    80.2     10.2   88.2                23.0   23.0           23.2    23.2
+Effective Green, g (s)               2.2     82.6    82.6     10.2   90.6                26.2   23.0           23.2    23.2
+Actuated g/C Ratio                  0.02     0.62    0.62     0.08   0.68                0.20   0.17           0.17    0.17
+Clearance Time (s)                   7.0      6.4     6.4      7.0    6.4                 7.2    7.2            7.0      7.0
+Vehicle Extension (s)                2.4      3.1     3.1      2.4    3.1                 2.4    2.4            2.4     2.4
+Lane Grp Cap (vph)                    28    1116      948      124   1153                 207    206            179     216
+v/s Ratio Prot                      0.01    c0.75            c0.06   0.45                       0.01                   0.00
+v/s Ratio Perm                                       0.03                               c0.03                  0.00
+v/c Ratio                           0.57     1.21    0.05     0.78   0.66                0.13   0.04           0.03    0.01
+Uniform Delay, d1                   65.4     25.7    10.2     60.8   12.7                44.5   46.3           46.0    45.9
+Progression Factor                  1.00     1.00    1.00     0.91   0.55                1.00   1.00           1.00    1.00
+Incremental Delay, d2               20.1    102.5     0.1     21.2    2.4                 1.3    0.4            0.0     0.0
+Delay (s)                           85.5    128.2    10.3     76.5    9.4                45.8   46.7           46.1    45.9
+Level of Service                       F        F       B        E      A                   D      D              D       D
+Approach Delay (s)                          122.4                    16.9                       46.4                   46.0
+Approach LOS                                    F                       B                          D                      D
+Intersection Summary
+HCM Average Control Delay                             81.4       HCM Level of Service                     F
+HCM Volume to Capacity ratio                          0.94
+Actuated Cycle Length (s)                            134.0       Sum of lost time (s)                   15.0
+Intersection Capacity Utilization                   92.2%        ICU Level of Service                      F
+Analysis Period (min)                                   15
+c Critical Lane Group
+
+
+
+
+5:00 pm 5/15/2007 Weekday AM Peak Hour - Baseline                                                                 Synchro 7 - Report
+                                                                                                                              Page 1
+HCM Signalized Intersection Capacity Analysis
+1: SW Tualatin Sherwood Road & SW 115th Avenue                                                                             5/14/2012
+
+
+
+Movement                            EBL      EBT     EBR     WBL     WBT     WBR         NBL    NBT     NBR     SBL    SBT     SBR
+Lane Configurations
+Volume (vph)                            5    990       40       30    940        5         25       1     90       5       1      5
+Ideal Flow (vphpl)                  1900    1900    1900     1900    1900     1900      1900    1900    1900   1900    1900    1900
+Total Lost time (s)                   7.0     4.0     4.0      7.0     4.0                4.0     7.2            7.0     7.0
+Lane Util. Factor                   1.00    1.00     1.00    1.00    1.00                1.00   1.00            1.00    1.00
+Frt                                  1.00    1.00    0.85     1.00    1.00               1.00    0.85           1.00    0.87
+Flt Protected                       0.95    1.00     1.00    0.95    1.00                0.95    1.00           0.95    1.00
+Satd. Flow (prot)                   1752    1845    1568     1752    1843               1770    1586           1805    1656
+Flt Permitted                       0.95    1.00     1.00    0.95    1.00                0.75    1.00           0.69    1.00
+Satd. Flow (perm)                   1752    1845    1568     1752    1843               1403    1586           1314    1656
+Peak-hour factor, PHF                0.90    0.90    0.90     0.90    0.90    0.90       0.90    0.90   0.90    0.90    0.90    0.90
+Adj. Flow (vph)                         6   1100       44       33   1044        6         28       1    100       6       1       6
+RTOR Reduction (vph)                    0       0      13        0       0       0          0      81      0       0       5       0
+Lane Group Flow (vph)                   6   1100       31       33   1050        0         28      20      0       6       2       0
+Heavy Vehicles (%)                    3%      3%      3%       3%      3%      3%         2%      2%     2%      0%      0%      0%
+Turn Type                            Prot           Perm      Prot                      Perm                   Perm
+Protected Phases                        5      2                 1      6                          8                      4
+Permitted Phases                                        2                                   8                     4
+Actuated Green, G (s)                0.8     80.2    80.2      7.4    86.8               25.8   25.8           26.0    26.0
+Effective Green, g (s)               0.8     82.6    82.6      7.4    89.2               29.0   25.8           26.0    26.0
+Actuated g/C Ratio                  0.01     0.62    0.62     0.06    0.67               0.22   0.19           0.19    0.19
+Clearance Time (s)                   7.0      6.4     6.4      7.0     6.4                7.2    7.2            7.0     7.0
+Vehicle Extension (s)                2.4      3.1     3.1      2.4     3.1                2.4    2.4            2.4     2.4
+Lane Grp Cap (vph)                    10    1137      967       97   1227                 304    305            255     321
+v/s Ratio Prot                      0.00    c0.60            c0.02   c0.57                      0.01                   0.00
+v/s Ratio Perm                                       0.02                               c0.02                  0.00
+v/c Ratio                        0.60        0.97    0.03     0.34    0.86               0.09   0.07           0.02    0.01
+Uniform Delay, d1                66.4        24.4    10.1     60.9    17.4               42.0   44.2           43.7    43.6
+Progression Factor               1.00        1.00    1.00     0.93    0.87               1.00   1.00           1.00    1.00
+Incremental Delay, d2            59.2        19.9     0.1      1.0     5.7                0.6    0.4            0.0     0.0
+Delay (s)                       125.7        44.4    10.1     57.4    20.9               42.6   44.7           43.7    43.6
+Level of Service                    F           D       B        E       C                  D      D              D       D
+Approach Delay (s)                           43.5                     22.0                      44.2                   43.7
+Approach LOS                                    D                        C                         D                      D
+Intersection Summary
+HCM Average Control Delay                             33.7       HCM Level of Service                     C
+HCM Volume to Capacity ratio                          0.70
+Actuated Cycle Length (s)                            134.0       Sum of lost time (s)                    8.0
+Intersection Capacity Utilization                   69.5%        ICU Level of Service                     C
+Analysis Period (min)                                   15
+c Critical Lane Group
+
+
+
+
+5:00 pm 5/15/2007 Weekday PM Peak Hour - Existing                                                                 Synchro 7 - Report
+                                                                                                                              Page 1
+HCM Signalized Intersection Capacity Analysis
+1: SW Tualatin Sherwood Road & SW 115th Avenue                                                                             5/14/2012
+
+
+
+Movement                            EBL      EBT     EBR     WBL     WBT     WBR         NBL    NBT     NBR     SBL    SBT     SBR
+Lane Configurations
+Volume (vph)                           10   1075       45       35   1040       10         40       1    110      10       1     10
+Ideal Flow (vphpl)                  1900    1900    1900     1900    1900     1900      1900    1900    1900   1900    1900    1900
+Total Lost time (s)                   7.0     4.0     4.0      7.0     4.0                4.0     7.2            7.0     7.0
+Lane Util. Factor                   1.00    1.00     1.00    1.00    1.00                1.00   1.00            1.00    1.00
+Frt                                  1.00    1.00    0.85     1.00    1.00               1.00    0.85           1.00    0.86
+Flt Protected                       0.95    1.00     1.00    0.95    1.00                0.95    1.00           0.95    1.00
+Satd. Flow (prot)                   1752    1845    1568     1752    1842               1770    1586           1805    1639
+Flt Permitted                       0.95    1.00     1.00    0.95    1.00                0.75    1.00           0.66    1.00
+Satd. Flow (perm)                   1752    1845    1568     1752    1842               1397    1586           1249    1639
+Peak-hour factor, PHF                0.90    0.90    0.90     0.90    0.90    0.90       0.90    0.90   0.90    0.90    0.90    0.90
+Adj. Flow (vph)                        11   1194       50       39   1156       11         44       1    122      11       1      11
+RTOR Reduction (vph)                    0       0      14        0       0       0          0      99      0       0       9       0
+Lane Group Flow (vph)                  11   1194       36       39   1167        0         44      24      0      11       3       0
+Heavy Vehicles (%)                    3%      3%      3%       3%      3%      3%         2%      2%     2%      0%      0%      0%
+Turn Type                            Prot           Perm      Prot                      Perm                   Perm
+Protected Phases                        5      2                 1      6                          8                      4
+Permitted Phases                                        2                                   8                     4
+Actuated Green, G (s)                1.6     82.2    82.2      6.0    86.6               25.2   25.2           25.4    25.4
+Effective Green, g (s)               1.6     84.6    84.6      6.0    89.0               28.4   25.2           25.4    25.4
+Actuated g/C Ratio                  0.01     0.63    0.63     0.04    0.66               0.21   0.19           0.19    0.19
+Clearance Time (s)                   7.0      6.4     6.4      7.0     6.4                7.2    7.2            7.0     7.0
+Vehicle Extension (s)                2.4      3.1     3.1      2.4     3.1                2.4    2.4            2.4     2.4
+Lane Grp Cap (vph)                    21    1165      990       78   1223                 296    298            237     311
+v/s Ratio Prot                      0.01    c0.65            c0.02   c0.63                      0.02                   0.00
+v/s Ratio Perm                                       0.02                               c0.03                  0.01
+v/c Ratio                           0.52     1.02    0.04     0.50    0.95               0.15   0.08           0.05    0.01
+Uniform Delay, d1                   65.8     24.7     9.3     62.5    20.6               43.0   44.8           44.4    44.1
+Progression Factor                  1.00     1.00    1.00     0.93    0.90               1.00   1.00           1.00    1.00
+Incremental Delay, d2               15.5     32.9     0.1      2.0    11.8                1.1    0.5            0.1     0.0
+Delay (s)                           81.4     57.6     9.4     60.5    30.3               44.0   45.4           44.5    44.1
+Level of Service                       F        E       A        E       C                  D      D              D       D
+Approach Delay (s)                           55.9                     31.3                      45.0                   44.3
+Approach LOS                                    E                        C                         D                      D
+Intersection Summary
+HCM Average Control Delay                             43.9       HCM Level of Service                     D
+HCM Volume to Capacity ratio                          0.76
+Actuated Cycle Length (s)                            134.0       Sum of lost time (s)                    8.0
+Intersection Capacity Utilization                   74.8%        ICU Level of Service                     D
+Analysis Period (min)                                   15
+c Critical Lane Group
+
+
+
+
+5:00 pm 5/15/2007 Weekday PM Peak Hour - Baseline                                                                 Synchro 7 - Report
+                                                                                                                              Page 1
+HCM Signalized Intersection Capacity Analysis
+1: SW Tualatin Sherwood Road & SW 115th Avenue                                                                             7/17/2012
+
+
+
+Movement                            EBL      EBT     EBR     WBL     WBT     WBR         NBL    NBT     NBR     SBL    SBT     SBR
+Lane Configurations
+Volume (vph)                           15   1255       88     143     695       15         29       1     52       5       1      5
+Ideal Flow (vphpl)                  1900    1900    1900     1900    1900     1900      1900    1900    1900   1900    1900    1900
+Total Lost time (s)                   7.0     4.0     4.0      7.0     4.0                4.0     7.2            7.0     7.0
+Lane Util. Factor                   1.00    1.00     1.00    1.00    1.00                1.00   1.00            1.00    1.00
+Frt                                  1.00    1.00    0.85     1.00    1.00               1.00    0.85           1.00    0.88
+Flt Protected                       0.95    1.00     1.00    0.95    1.00                0.95    1.00           0.95    1.00
+Satd. Flow (prot)                   1719    1810    1538     1626    1706               1337    1200           1357    1250
+Flt Permitted                       0.95    1.00     1.00    0.95    1.00                0.75    1.00           0.72    1.00
+Satd. Flow (perm)                   1719    1810    1538     1626    1706               1061    1200           1028    1250
+Peak-hour factor, PHF                0.93    0.93    0.93     0.93    0.93    0.93       0.93    0.93   0.93    0.93    0.93   0.93
+Adj. Flow (vph)                        16   1349       95     154     747       16         31       1     56       5       1      5
+RTOR Reduction (vph)                    0       0      22        0       0       0          0      54      0       0       5      0
+Lane Group Flow (vph)                  16   1349       73     154     763        0         31       3      0       5       1      0
+Heavy Vehicles (%)                    5%      5%      5%     11%     11%      11%        35%    35%     35%     33%    33%     33%
+Turn Type                            Prot           Perm      Prot                      Perm                   Perm
+Protected Phases                        5      2                 1      6                          8                      4
+Permitted Phases                                        2                                   8                     4
+Actuated Green, G (s)                1.8    109.0   109.0     14.6   121.8                5.8    5.8            6.0     6.0
+Effective Green, g (s)               1.8    111.4   111.4     14.6   124.2                9.0    5.8            6.0     6.0
+Actuated g/C Ratio                  0.01     0.74    0.74     0.10    0.83               0.06   0.04           0.04    0.04
+Clearance Time (s)                   7.0      6.4     6.4      7.0     6.4                7.2    7.2            7.0     7.0
+Vehicle Extension (s)                2.4      3.1     3.1      2.4     3.1                2.4    2.4            2.4     2.4
+Lane Grp Cap (vph)                    21     1344    1142      158    1413                 64     46             41      50
+v/s Ratio Prot                      0.01    c0.75            c0.09    0.45                      0.00                   0.00
+v/s Ratio Perm                                       0.05                               c0.03                  0.00
+v/c Ratio                        0.76        1.00    0.06     0.97    0.54               0.48   0.07           0.12    0.02
+Uniform Delay, d1                73.9        19.3     5.2     67.5     4.0               68.3   69.5           69.5    69.2
+Progression Factor               1.00        1.00    1.00     0.96    0.56               1.00   1.00           1.00    1.00
+Incremental Delay, d2            88.5        25.4     0.1     55.2     1.2               23.9    2.9            0.9     0.1
+Delay (s)                       162.3        44.7     5.3    119.7     3.4               92.2   72.4           70.3    69.3
+Level of Service                    F           D       A        F       A                  F      E              E       E
+Approach Delay (s)                           43.5                     22.9                      79.4                   69.8
+Approach LOS                                    D                        C                         E                      E
+Intersection Summary
+HCM Average Control Delay                             37.3       HCM Level of Service                     D
+HCM Volume to Capacity ratio                          0.97
+Actuated Cycle Length (s)                            150.0       Sum of lost time (s)                   15.0
+Intersection Capacity Utilization                   97.4%        ICU Level of Service                      F
+Analysis Period (min)                                   15
+c Critical Lane Group
+
+
+
+
+5:00 pm 5/15/2007 Weekday AM Peak Hour - With-Project                                                             Synchro 7 - Report
+                                                                                                                              Page 1
+HCM Signalized Intersection Capacity Analysis
+1: SW Tualatin Sherwood Road & SW 115th Avenue                                                                             5/14/2012
+
+
+
+Movement                            EBL      EBT     EBR     WBL     WBT     WBR         NBL    NBT     NBR     SBL    SBT     SBR
+Lane Configurations
+Volume (vph)                           10   1075       49       43   1040       10         70       1    165      10       1     10
+Ideal Flow (vphpl)                  1900    1900    1900     1900    1900     1900      1900    1900    1900   1900    1900    1900
+Total Lost time (s)                   7.0     4.0     4.0      7.0     4.0                4.0     7.2            7.0     7.0
+Lane Util. Factor                   1.00    1.00     1.00    1.00    1.00                1.00   1.00            1.00    1.00
+Frt                                  1.00    1.00    0.85     1.00    1.00               1.00    0.85           1.00    0.86
+Flt Protected                       0.95    1.00     1.00    0.95    1.00                0.95    1.00           0.95    1.00
+Satd. Flow (prot)                   1752    1845    1568     1752    1842               1770    1585           1805    1639
+Flt Permitted                       0.95    1.00     1.00    0.95    1.00                0.75    1.00           0.49    1.00
+Satd. Flow (perm)                   1752    1845    1568     1752    1842               1397    1585             933   1639
+Peak-hour factor, PHF                0.90    0.90    0.90     0.90    0.90    0.90       0.90    0.90   0.90    0.90    0.90    0.90
+Adj. Flow (vph)                        11   1194       54       48   1156       11         78       1    183      11       1      11
+RTOR Reduction (vph)                    0       0      15        0       0       0          0     119      0       0       9       0
+Lane Group Flow (vph)                  11   1194       39       48   1167        0         78      65      0      11       3       0
+Heavy Vehicles (%)                    3%      3%      3%       3%      3%      3%         2%      2%     2%      0%      0%      0%
+Turn Type                            Prot           Perm      Prot                      Perm                   Perm
+Protected Phases                        5      2                 1      6                          8                      4
+Permitted Phases                                        2                                   8                     4
+Actuated Green, G (s)                1.6     82.2    82.2      8.2    88.8               23.0   23.0           23.2    23.2
+Effective Green, g (s)               1.6     84.6    84.6      8.2    91.2               26.2   23.0           23.2    23.2
+Actuated g/C Ratio                  0.01     0.63    0.63     0.06    0.68               0.20   0.17           0.17    0.17
+Clearance Time (s)                   7.0      6.4     6.4      7.0     6.4                7.2    7.2            7.0     7.0
+Vehicle Extension (s)                2.4      3.1     3.1      2.4     3.1                2.4    2.4            2.4     2.4
+Lane Grp Cap (vph)                    21    1165      990     107    1254                273    272            162     284
+v/s Ratio Prot                      0.01    c0.65            c0.03   c0.63                      0.04                   0.00
+v/s Ratio Perm                                       0.03                               c0.06                  0.01
+v/c Ratio                           0.52     1.02    0.04     0.45    0.93               0.29   0.24           0.07    0.01
+Uniform Delay, d1                   65.8     24.7     9.3     60.7    18.6               45.9   47.9           46.4    45.9
+Progression Factor                  1.00     1.00    1.00     0.92    0.89               1.00   1.00           1.00    1.00
+Incremental Delay, d2               15.5     32.9     0.1      1.2     8.9                2.6    2.1            0.1     0.0
+Delay (s)                           81.4     57.6     9.4     57.1    25.5               48.5   50.0           46.5    45.9
+Level of Service                       F        E       A        E       C                  D      D              D       D
+Approach Delay (s)                           55.7                     26.7                      49.6                   46.2
+Approach LOS                                    E                        C                         D                      D
+Intersection Summary
+HCM Average Control Delay                             42.3       HCM Level of Service                     D
+HCM Volume to Capacity ratio                          0.80
+Actuated Cycle Length (s)                            134.0       Sum of lost time (s)                    8.0
+Intersection Capacity Utilization                   76.5%        ICU Level of Service                     D
+Analysis Period (min)                                   15
+c Critical Lane Group
+
+
+
+
+5:00 pm 5/15/2007 Weekday PM Peak Hour - With-Project                                                             Synchro 7 - Report
+                                                                                                                              Page 1
+Appendix D:   Collision Data
+CDS150 05/11/2010                                OREGON DEPARTMENT OF TRANSPORTATION - TRANSPORTATION DEVELOPMENT DIVISION                                                            PAGE: 1
+                                                      TRANSPORTATION DATA SECTION - CRASH ANALYSIS AND REPORTING UNIT
+                                                                CRASH SUMMARIES BY YEAR BY COLLISION TYPE
+                                                                    SW Tualatin-Sherwood Road & SW 115th Avenue plus 200 feet
+                                                                            January 1, 2006 through December 31, 2008
+                                              NON- PROPERTY                                                                                                                        INTER-
+                                     FATAL   FATAL   DAMAGE                    TOTAL PEOPLE           PEOPLE                   DRY        WET                             INTER- SECTION OFF-
+  COLLISION TYPE                   CRASHES CRASHES      ONLY                 CRASHES  KILLED          INJURED     TRUCKS       SURF       SURF        DAY      DARK      SECTION RELATED ROAD
+YEAR: 2008
+  BACKING                                    0            1             0             1           0           1          1          0          1         1           0           1    0         0
+  REAR-END                                   0            0             2             2           0           0          0          2          0         2           0           0    2         0
+2008 TOTAL                                   0            1             2             3           0           1          1          2          1         3           0           1    2         0
+YEAR: 2007
+  REAR-END                                   0            2             1             3           0           2          0          2          0         2           1           1    2         0
+2007 TOTAL                                   0            2             1             3           0           2          0          2          0         2           1           1    2         0
+YEAR: 2006
+  REAR-END                                   0            1             2             3           0           1          0          3          0         3           0           1    2         0
+2006 TOTAL                                   0            1             2             3           0           1          0          3          0         3           0           1    2         0
+
+  FINAL TOTAL                                0            4             5             9           0           4          1          7          1         8           1           3    6         0
+
+Note: Legislative changes to DMV's vehicle crash reporting requirements, effective 01/01/2004, may result in fewer property damage only crashes being eligible for inclusion in the
+Statewide Crash Data File.
+CDS380      5/11/2010                                                          OREGON DEPARTMENT OF TRANSPORTATION - TRANSPORTATION DEVELOPMENT DIVISION                                                             PAGE: 1
+                                                                                      TRANSPORTATION DATA SECTION - CRASH ANALYSIS AND REPORTING UNIT
+                                                                                                     URBAN NON-SYSTEM CRASH LISTING
+CITY OF TUALATIN,        WASHINGTON COUNTY                                               SW Tualatin-Sherwood Road & SW 115th Avenue plus 200 feet
+                                                                                                  January 1, 2006 through December 31, 2008
+         S   D
+         P   R   S   W                                                            INT-TYP                                             SPCL USE
+         E A U   C   O   DATE         CLASS   CITY STREET            RD CHAR     (MEDIAN) INT-REL OFF-RD WTHR       CRASH TYP         TRLR QTY     MOVE                     A   S
+SER#     E L G   H   R   DAY          DIST    FIRST STREET           DIRECT         LEGS  TRAF-   RNDBT  SURF       COLL TYP          OWNER        FROM        PRTC INJ     G   E LICNS   PED
+INVEST     C     L   K   TIME         FROM    SECOND STREET          LOCTN       (#LANES) CONTL   DRVWY  LIGHT      SVRTY       V#    VEH TYPE     TO       P# TYPE SVRTY   E   X RES     LOC ERROR     ACTN EVENT     CAUSE
+
+02367    N N N           04/29/2007   16      SW TUALATIN-SHERWOOD   INTER        3-LEG      N            N   CLR   S-1STOP     01    UNKN     9   STRGHT                                                              07
+NONE                     Sun           0      SW 115TH AVE           UN                      TRF SIGNAL   N   DRY   REAR              UNKN         UN UN                                                 000           00
+                         3P                                          06              0                    N   DAY   INJ              UNKNOWN                01 DRVR NONE    00 U UNK          026        000           07
+                                                                                                                                                                                 UNK
+                                                                                                                                02    NONE    0    STOP
+                                                                                                                                      PRVTE        UN UN                                                 011           00
+                                                                                                                                     PSNGR CAR              01 DRVR INJC    53 F OTH-Y        000        000           00
+                                                                                                                                                                                 N-RES
+83745    N N N           09/09/2006   16      SW TUALATIN-SHERWOOD   STRGHT                  Y            N   CLR   S-1STOP     01    NONE    0    STRGHT                                                              27
+NONE                     Sat           50     SW 115TH AVE           NE           (NONE)     UNKNOWN      N   DRY   REAR              PRVTE        NE SW                                                 000           00
+                         2P                                          06                                   N   DAY   PDO              PSNGR CAR              01 DRVR NONE    36 M OR-Y         016,026    038           27
+                                                                                   (02)                                                                                          OR>25
+                                                                                                                                02    NONE    0    STOP
+                                                                                                                                      PRVTE        NE SW                                                 011           00
+                                                                                                                                     PSNGR CAR              01 DRVR NONE    21 M OR-Y         000        000           00
+                                                                                                                                                                                 OR<25
+00815    N N N N N       02/07/2008   16      SW TUALATIN-SHERWOOD   INTER        3-LEG      N            N   CLD   O-1STOP     01    NONE     0   BACK                                                                10
+CITY                     Thu           0      SW 115TH AVE           S                       TRF SIGNAL   N   WET   BACK              PRVTE        N   S                                                 000           00
+                         3P                                          06              0                    N   DAY   INJ              TRUCK                  01 DRVR NONE    42 M OR-Y         011        000           10
+                                                                                                                                                                                 OR<25
+                                                                                                                                02    NONE    0    STOP
+                                                                                                                                      PRVTE        S   N                                                 011           00
+                                                                                                                                     PSNGR CAR              01 DRVR INJC    36 F OR-Y         000        000           00
+                                                                                                                                                                                 OR<25
+04499    N N N           08/02/2006   16      SW TUALATIN-SHERWOOD   INTER        3-LEG      N            N   CLR   S-1STOP     01    NONE    0    STRGHT                                                              07
+NONE                     Wed           0      SW 115TH AVE           SW                      TRF SIGNAL   N   DRY   REAR              PRVTE        SW NE                                                 001           00
+                         4P                                          06              0                    N   DAY   PDO              PSNGR CAR              01 DRVR NONE    28 F OR-Y         026        000           07
+                                                                                                                                                                                 OR<25
+                                                                                                                                02    NONE    0    STOP
+                                                                                                                                      PRVTE        SW NE                                                 011           00
+                                                                                                                                     PSNGR CAR              01 DRVR NONE    41 M OR-Y         000        000           00
+                                                                                                                                                                                 OR<25
+04645    N N N           08/28/2008   16      SW TUALATIN-SHERWOOD   STRGHT                  Y            N   CLR   S-1STOP     01    NONE    0    STRGHT                                                              07
+NONE                     Thu           60     SW 115TH AVE           SW           (NONE)     UNKNOWN      N   DRY   REAR              PRVTE        SW NE                                                 000           00
+                         9A                                          08                                   N   DAY   PDO              PSNGR CAR              01 DRVR NONE    42 F OR-Y         026        000           07
+                                                                                   (02)                                                                                          OR<25
+                                                                                                                                02    NONE    0    STOP
+                                                                                                                                      PRVTE        SW NE                                                 011           00
+                                                                                                                                     PSNGR CAR              01 DRVR NONE    45 M OR-Y         000        000           00
+                                                                                                                                                                                 OR<25
+04287  N N N             08/14/2008   16      SW TUALATIN-SHERWOOD   STRGHT                  Y            N   CLR   S-1STOP     01    NONE    0    STRGHT                                                      013     07
+NO RPT                   Thu           75     SW 115TH AVE           SW           (NONE)     UNKNOWN      N   DRY   REAR              PRVTE        SW NE                                                 000           00
+                         4P                                          08                                   N   DAY   PDO              PSNGR CAR              01 DRVR NONE    37 F OR-Y         026        000           07
+                                                                                   (02)                                                                                          OR>25
+CDS380      5/11/2010                                                          OREGON DEPARTMENT OF TRANSPORTATION - TRANSPORTATION DEVELOPMENT DIVISION                                                        PAGE: 2
+                                                                                      TRANSPORTATION DATA SECTION - CRASH ANALYSIS AND REPORTING UNIT
+                                                                                                     URBAN NON-SYSTEM CRASH LISTING
+CITY OF TUALATIN,        WASHINGTON COUNTY                                            SW Tualatin-Sherwood Road & SW 115th Avenue plus 200 feet
+                                                                                               January 1, 2006 through December 31, 2008
+         S   D
+         P   R   S   W                                                            INT-TYP                                           SPCL USE
+         E A U   C   O   DATE         CLASS   CITY STREET            RD CHAR     (MEDIAN) INT-REL OFF-RD WTHR     CRASH TYP         TRLR QTY    MOVE                     A   S
+SER#     E L G   H   R   DAY          DIST    FIRST STREET           DIRECT         LEGS  TRAF-   RNDBT  SURF     COLL TYP          OWNER       FROM        PRTC INJ     G   E LICNS   PED
+INVEST     C     L   K   TIME         FROM    SECOND STREET          LOCTN       (#LANES) CONTL   DRVWY  LIGHT    SVRTY       V#    VEH TYPE    TO       P# TYPE SVRTY   E   X RES     LOC ERROR   ACTN EVENT     CAUSE
+
+                                                                                                                              02    NONE    0   STOP
+                                                                                                                                    PRVTE       SW NE                                               011 013       00
+                                                                                                                                   PSNGR CAR             01 DRVR NONE    45 M OR-Y         000      000           00
+                                                                                                                                                                              OR<25
+                                                                                                                              03    NONE    0   STOP
+                                                                                                                                    PRVTE       SW NE                                               022           00
+                                                                                                                                   PSNGR CAR             01 DRVR NONE    54 M OR-Y         000      000           00
+                                                                                                                                                                              OR<25
+04372    N N N           07/31/2007   16      SW TUALATIN-SHERWOOD   STRGHT                Y           N   CLR    S-1STOP     01    NONE    0   STRGHT                                                            07
+NONE                     Tue           200    SW 115TH AVE           SW           (NONE)   UNKNOWN     N   DRY    REAR              PRVTE       SW NE                                               000           00
+                         6A                                          08                                N   DAY    INJ              PSNGR CAR             01 DRVR NONE    36 M OR-Y         026      000           07
+                                                                                   (02)                                                                                       OR<25
+                                                                                                                              02    NONE    0   STOP
+                                                                                                                                    PRVTE       SW NE                                               011           00
+                                                                                                                                   PSNGR CAR             01 DRVR INJC    55 M OR-Y         000      000           00
+                                                                                                                                                                              OR<25
+07009    N N N           11/20/2006   16      SW TUALATIN-SHERWOOD   STRGHT                Y           N   CLR    S-1STOP     01    NONE    0   STRGHT                                                    013     10
+NONE                     Mon           35     SW 115TH AVE           W            (NONE)   UNKNOWN     N   DRY    REAR              PRVTE       W   E                                               000           00
+                         1P                                          06                                N   DAY    INJ              PSNGR CAR             01 DRVR NONE    53 M OR-Y         026      088           10
+                                                                                   (02)                                                                                       OR<25
+                                                                                                                              02    NONE    0   STOP
+                                                                                                                                    PRVTE       W   E                                               011 013       00
+                                                                                                                                   PSNGR CAR             01 DRVR INJC    39 M OR-Y         000      000           00
+                                                                                                                                                                              OR<25
+                                                                                                                              03    NONE    0   STOP
+                                                                                                                                    PRVTE       W   E                                               022           00
+                                                                                                                                   PSNGR CAR             01 DRVR NONE    45 M OR-Y         000      000           00
+                                                                                                                                                                              OR<25
+00748    N N N           02/02/2007   16      SW TUALATIN-SHERWOOD   STRGHT                Y           N   UNK    S-1STOP     01    NONE    9   STRGHT                                                    013     07
+NONE                     Fri           100    SW 115TH AVE           W            (NONE)   UNKNOWN     N   UNK    REAR              PRVTE       W   E                                               000           00
+                         4P                                          08                                N   DUSK   PDO              PSNGR CAR             01 DRVR NONE    00 M OR-Y         026      000           07
+                                                                                   (02)                                                                                       OR<25
+                                                                                                                              02    NONE    0   STOP
+                                                                                                                                    PRVTE       W   E                                               011 013       00
+                                                                                                                                   PSNGR CAR             01 DRVR NONE    44 M OR-Y         000      000           00
+                                                                                                                                                                              OR<25
+                                                                                                                              03    UNKN    9   STOP
+                                                                                                                                    UNKN        W   E                                               022           00
+                                                                                                                                   PSNGR CAR             01 DRVR NONE    00 U UNK          000      000           00
+                                                                                                                                                                              UNK
+          ACTION CODE TRANSLATION LIST
+
+ACTION   SHORT
+ CODE    DESCRIPTION    LONG DESCRIPTION
+ 000     NONE           NO ACTION OR NON-WARRANTED
+ 001     SKIDDED        SKIDDED
+ 002     ON/OFF V       GETTING ON OR OFF STOPPED OR PARKED VEHICLE
+ 003     LOAD OVR       OVERHANGING LOAD STRUCK ANOTHER VEHICLE, ETC.
+ 006     SLOW DN        SLOWED DOWN
+ 007     AVOIDING       AVOIDING MANEUVER
+ 008     PAR PARK       PARALLEL PARKING
+ 009     ANG PARK       ANGLE PARKING
+ 010     INTERFERE      PASSENGER INTERFERING WITH DRIVER
+ 011     STOPPED        STOPPED IN TRAFFIC NOT WAITING TO MAKE A LEFT TURN
+ 012     STP/L TRN      STOPPED BECAUSE OF LEFT TURN SIGNAL OR WAITING, ETC.
+ 013     STP TURN       STOPPED WHILE EXECUTING A TURN
+ 015     GO A/STOP      PROCEED AFTER STOPPING FOR A STOP SIGN/FLASHING RED.
+ 016     TRN A/RED      TURNED ON RED AFTER STOPPING
+ 017     LOSTCTRL       LOST CONTROL OF VEHICLE
+ 018     EXIT DWY       ENTERING STREET OR HIGHWAY FROM ALLEY OR DRIVEWAY
+ 019     ENTR DWY       ENTERING ALLEY OR DRIVEWAY FROM STREET OR HIGHWAY
+ 020     STR ENTR       BEFORE ENTERING ROADWAY, STRUCK PEDESTRIAN, ETC. ON SIDEWALK OR SHOULDER
+ 021     NO DRVR        CAR RAN AWAY - NO DRIVER
+ 022     PREV COL       STRUCK, OR WAS STRUCK BY, VEHICLE OR PEDESTRIAN IN PRIOR COLLISION BEFORE ACC. STABILIZED
+ 023     STALLED        VEHICLE STALLED
+ 024     DRVR DEAD      DEAD BY UNASSOCIATED CAUSE
+ 025     FATIGUE        FATIGUED, SLEEPY, ASLEEP
+ 026     SUN            DRIVER BLINDED BY SUN
+ 027     HDLGHTS        DRIVER BLINDED BY HEADLIGHTS
+ 028     ILLNESS        PHYSICALLY ILL
+ 029     THRU MED       VEHICLE CROSSED, PLUNGED OVER, OR THROUGH MEDIAN BARRIER
+ 030     PURSUIT        PURSUING OR ATTEMPTING TO STOP ANOTHER VEHICLE
+ 031     PASSING        PASSING SITUATION
+ 032     PRKOFFRD       VEHICLE PARKED BEYOND CURB OR SHOULDER
+ 033     CROS MED       VEHICLE CROSSED EARTH OR GRASS MEDIAN
+ 034     X N/SGNL       CROSSING AT INTERSECTION - NO TRAFFIC SIGNAL PRESENT
+ 035     X W/ SGNL      CROSSING AT INTERSECTION - TRAFFIC SIGNAL PRESENT
+ 036     DIAGONAL       CROSSING AT INTERSECTION - DIAGONALLY
+ 037     BTWN INT       CROSSING BETWEEN INTERSECTIONS
+ 038     DISTRACT       DRIVER'S ATTENTION DISTRACTED
+ 039     W/TRAF-S       WALKING, RUNNING, RIDING, ETC., ON SHOULDER WITH TRAFFIC
+ 040     A/TRAF-S       WALKING, RUNNING, RIDING, ETC., ON SHOULDER FACING TRAFFIC
+ 041     W/TRAF-P       WALKING, RUNNING, RIDING, ETC., ON PAVEMENT WITH TRAFFIC
+ 042     A/TRAF-P       WALKING, RUNNING, RIDING, ETC., ON PAVEMENT FACING TRAFFIC
+ 043     PLAYINRD       PLAYING IN STREET OR ROAD
+ 044     PUSH MV        PUSHING OR WORKING ON VEHICLE IN ROAD OR ON SHOULDER
+ 045     WORK ON        WORKING IN ROADWAY OR ALONG SHOULDER
+ 050     LAY ON RD      STANDING OR LYING IN ROADWAY
+ 051     ENT OFFRD      ENTERING / STARTING IN TRAFFIC LANE FROM OFF-ROAD
+ 088     OTHER          OTHER ACTION
+ 099     UNK            UNKNOWN ACTION
+           CAUSE CODE TRANSLATION LIST                                             COLLISION TYPE CODE TRANSLATION LIST
+CAUSE   SHORT                                                              COLL    SHORT
+ CODE   DESCRIPTION    LONG DESCRIPTION                                     CODE   DESCRIPTION      LONG DESCRIPTION
+ 00     NO CODE        NO CAUSE ASSOCIATED AT THIS LEVEL                     &     OTH              MISCELLANEOUS
+ 01     TOO-FAST       TOO FAST FOR CONDITIONS (NOT EXCEED POSTED SPEED)     -     BACK             BACKING
+ 02     NO-YIELD       DID NOT YIELD RIGHT-OF-WAY                            0     PED              PEDESTRIAN
+ 03     PAS-STOP       PASSED STOP SIGN OR RED FLASHER                       1     ANGL             ANGLE
+ 04     DIS--RAG       DISREGARDED R-A-G TRAFFIC SIGNAL.                     2     HEAD             HEAD-ON
+ 05     LEFT-CTR       DROVE LEFT OF CENTER ON TWO-WAY ROAD                  3     REAR             REAR-END
+ 06     IMP-OVER       IMPROPER OVERTAKING                                   4     SS-M             SIDESWIPE - MEETING
+ 07     TOO-CLOS       FOLLOWED TOO CLOSELY                                  5     SS-O             SIDESWIPE - OVERTAKING
+ 08     IMP-TURN       MADE IMPROPER TURN                                    6     TURN             TURNING MOVEMENT
+ 09     DRINKING       ALCOHOL OR DRUG INVOLVED                              7     PARK             PARKING MANEUVER
+ 10     OTHR-IMP       OTHER IMPROPER DRIVING                                8     NCOL             NON-COLLISION
+ 11     MECH-DEF       MECHANICAL DEFECT                                     9     FIX              FIXED OBJECT OR OTHER OBJECT
+ 12     OTHER          OTHER (NOT IMPROPER DRIVING)
+ 13     IMP LN C       IMPROPER CHANGE OF TRAFFIC LANES
+ 14     DIS TCD        DISREGARDED OTHER TRAFFIC CONTROL DEVICE
+ 15     WRNG WAY       WRONG WAY ON ONE-WAY ROADWAY
+ 16     FATIGUE        DRIVER DROWSY/FATIGUED/SLEEPY
+ 18     IN RDWY        NON-MOTORIST ILLEGALLY IN ROADWAY
+ 19     NT VISBL       NON-MOTORIST CLOTHING NOT VISIBLE
+ 20     IMP PKNG       VEHICLE IMPROPERLY PARKED
+ 21     DEF STER       DEFECTIVE STEERING MECHANISM
+                                                                                          CRASH TYPE CODE TRANSLATION LIST
+ 22     DEF BRKE       INADEQUATE OR NO BRAKES
+ 24     LOADSHFT       VEHICLE LOST LOAD OR LOAD SHIFTED                   CRASH   SHORT
+ 25     TIREFAIL       TIRE FAILURE                                        TYPE    DESCRIPTION        LONG DESCRIPTION
+ 26     PHANTOM        PHANTOM / NON-CONTACT VEHICLE
+                                                                             &     OVERTURN           OVERTURNED
+ 27     INATTENT       INATTENTION
+                                                                             0     NON-COLL           OTHER NON-COLLISION
+ 30     SPEED          DRIVING IN EXCESS OF POSTED SPEED
+                                                                             1     OTH RDWY           MOTOR VEHICLE ON OTHER ROADWAY
+ 31     RACING         SPEED RACING (PER PAR)
+                                                                             2     PRKD MV            PARKED MOTOR VEHICLE
+ 32     CARELESS       CARELESS DRIVING (CITATION ISSUED)
+                                                                             3     PED                PEDESTRIAN
+ 33     RECKLESS       RECKLESS DRIVING (CITATION ISSUED)
+                                                                             4     TRAIN              RAILWAY TRAIN
+ 34     AGGRESV        AGGRESSIVE DRIVING (PER PAR)
+                                                                             6     BIKE               PEDALCYCLIST
+ 35     RD RAGE        ROAD RAGE (PER PAR)
+                                                                             7     ANIMAL             ANIMAL
+                                                                             8     FIX OBJ            FIXED OBJECT
+                                                                             9     OTH OBJ            OTHER OBJECT
+                                                                             A     ANGL-STP           ENTERING AT ANGLE - ONE VEHICLE STOPPED
+                                                                             B     ANGL-OTH           ENTERING AT ANGLE - ALL OTHERS
+                                                                             C     S-STRGHT           FROM SAME DIRECTION - BOTH GOING STRAIGHT
+                                                                             D     S-1TURN            FROM SAME DIRECTION - ONE TURN, ONE STRAIGHT
+                                                                             E     S-1STOP            FROM SAME DIRECTION - ONE STOPPED
+                                                                             F     S-OTHER            FROM SAME DIRECTION-ALL OTHERS, INCLUDING PARKING
+                                                                             G     O-STRGHT           FROM OPPOSITE DIRECTION - BOTH GOING STRAIGHT
+                                                                             H     O-1TURN            FROM OPPOSITE DIRECTION - ONE TURN, ONE STRAIGHT
+                                                                             I     O-1STOP            FROM OPPOSITE DIRECTION - ONE STOPPED
+                                                                             J     O-OTHER            FROM OPPOSITE DIRECTION-ALL OTHERS INCL. PARKING
+        DRIVER LICENSE CODE TRANSLATION LIST                                                   DRIVER RESIDENCE CODE TRANSLATION LIST
+
+ LIC     SHORT                                                                          RES      SHORT
+ CODE    DESC         LONG DESCRIPTION                                                  CODE     DESC     LONG DESCRIPTION
+
+  0      NONE         NOT LICENSED (HAD NEVER BEEN LICENSED)                              1      OR<25    OREGON RESIDENT WITHIN 25 MILE OF HOME
+  1      OR-Y         VALID OREGON LICENSE                                                2      OR>25    OREGON RESIDENT 25 OR MORE MILES FROM HOME
+                                                                                          3      OR-?     OREGON RESIDENT - UNKNOWN DISTANCE FROM HOME
+  2      OTH-Y        VALID LICENSE, OTHER STATE OR COUNTRY                               4      N-RES    NON-RESIDENT
+  3      SUSP         SUSPENDED/REVOKED                                                   9      UNK      UNKNOWN IF OREGON RESIDENT
+
+
+
+
+             ERROR CODE TRANSLATION LIST
+
+ERROR   SHORT
+ CODE   DESCRIPTION      FULL DESCRIPTION
+ 000    NONE             NO ERROR
+ 001    WIDE TRN         WIDE TURN
+ 002    CUT CORN         CUT CORNER ON TURN
+ 003    FAIL TRN         FAILED TO OBEY MANDATORY TRAFFIC TURN SIGNAL, SIGN OR LANE MARKINGS
+ 004    L IN TRF         LEFT TURN IN FRONT OF ONCOMING TRAFFIC
+ 005    L PROHIB         LEFT TURN WHERE PROHIBITED
+ 006    FRM WRNG         TURNED FROM WRONG LANE
+ 007    TO WRONG         TURNED INTO WRONG LANE
+ 008    ILLEG U          U-TURNED ILLEGALLY
+ 009    IMP STOP         IMPROPERLY STOPPED IN TRAFFIC LANE
+ 010    IMP SIG          IMPROPER SIGNAL OR FAILURE TO SIGNAL
+ 011    IMP BACK         BACKING IMPROPERLY (NOT PARKING)
+ 012    IMP PARK         IMPROPERLY PARKED
+ 013    UNPARK           IMPROPER START LEAVING PARKED POSITION
+ 014    IMP STRT         IMPROPER START FROM STOPPED POSITION
+ 015    IMP LGHT         IMPROPER OR NO LIGHTS (VEHICLE IN TRAFFIC)
+ 016    INATTENT         FAILED TO DIM LIGHTS (UNTIL 4/1/97) / INATTENTION (AFTER 4/1/97)
+ 017    UNSF VEH         DRIVING UNSAFE VEHICLE (NO OTHER ERROR APPARENT)
+ 018    OTH PARK         ENTERING, EXITING PARKED POSITION WITH INSUFFICIENT CLEARANCE OR OTHER IMPROPER PARKING MANEUVER
+ 019    DIS DRIV         DISREGARDED OTHER DRIVER'S SIGNAL
+ 020    DIS SGNL         DISREGARDED TRAFFIC SIGNAL
+ 021    RAN STOP         DISREGARDED STOP SIGN OR FLASHING RED
+ 022    DIS SIGN         DISREGARDED WARNING SIGN, FLARES OR FLASHING AMBER
+ 023    DIS OFCR         DISREGARDED POLICE OFFICER OR FLAGMAN
+ 024    DIS EMER         DISREGARDED SIREN OR WARNING OF EMERGENCY VEHICLE
+ 025    DIS RR           DISREGARDED RR SIGNAL, RR SIGN, OR RR FLAGMAN
+ 026    REAR-END         FAILED TO AVOID STOPPED OR PARKED VEHICLE AHEAD OTHER THAN SCHOOL BUS
+ 027    BIKE ROW         DID NOT HAVE RIGHT-OF-WAY OVER PEDALCYCLIST
+ 028    NO ROW           DID NOT HAVE RIGHT-OF-WAY
+ 029    PED ROW          FAILED TO YIELD RIGHT-OF-WAY TO PEDESTRIAN
+ 030    PAS CURV         PASSING ON A CURVE
+ 031    PAS WRNG         PASSING ON THE WRONG SIDE
+ 032    PAS TANG         PASSING ON STRAIGHT ROAD UNDER UNSAFE CONDITIONS
+ 033    PAS X-WK         PASSED VEHICLE STOPPED AT CROSSWALK FOR PEDESTRIAN
+ 034    PAS INTR         PASSING AT INTERSECTION
+ 035    PAS HILL         PASSING ON CREST OF HILL
+ 036    N/PAS ZN         PASSING IN "NO PASSING" ZONE
+ 037    PAS TRAF         PASSING IN FRONT OF ONCOMING TRAFFIC
+ 038    CUT-IN           CUTTING IN (TWO LANES - TWO WAY ONLY)
+ 039    WRNGSIDE         DRIVING ON WRONG SIDE OF THE ROAD
+ 040    THRU MED         DRIVING THROUGH SAFETY ZONE OR OVER ISLAND
+ 041    F/ST BUS         FAILED TO STOP FOR SCHOOL BUS
+            ERROR CODE TRANSLATION LIST
+
+ERROR   SHORT
+ CODE   DESCRIPTION   FULL DESCRIPTION
+ 042    F/SLO MV      FAILED TO DECREASE SPEED FOR SLOWER MOVING VEHICLE
+ 043    TO CLOSE      FOLLOWING TOO CLOSELY (MUST BE ON OFFICER'S REPORT)
+ 044    STRDL LN      STRADDLING OR DRIVING ON WRONG LANES
+ 045    IMP CHG       IMPROPER CHANGE OF TRAFFIC LANES
+ 046    WRNG WAY      WRONG WAY ON ONE-WAY ROADWAY (VEHICLE IS DELIBERATELY TRAVELING ON WRONG SIDE)
+ 047    BASCRULE      DRIVING TOO FAST FOR CONDITIONS (NOT EXCEEDING POSTED SPEED)
+ 048    OPN DOOR      OPENED DOOR INTO ADJACENT TRAFFIC LANE
+ 049    IMPEDING      IMPEDING TRAFFIC
+ 050    SPEED         DRIVING IN EXCESS OF POSTED SPEED
+ 051    RECKLESS      RECKLESS DRIVING (PER PAR)
+ 052    CARELESS      CARELESS DRIVING (PER PAR)
+ 053    RACING        SPEED RACING (PER PAR)
+ 054    X N/SGNL      CROSSING AT INTERSECTION – NO TRAFFIC SIGNAL PRESENT
+ 055    X W/SGNL      CROSSING AT INTERSECTION – TRAFFIC SIGNAL PRESENT
+ 056    DIAGONAL      CROSSING AT INTERSECTION - DIAGONALLY
+ 057    BTWN INT      CROSSING BETWEEN INTERSECTIONS
+ 059    W/TRAF-S      WALKING, RUNNING, RIDING, ETC., ON SHOULDER WITH TRAFFIC
+ 060    A/TRAF-S      WALKING, RUNNING, RIDING, ETC., ON SHOULDER FACING TRAFFIC
+ 061    W/TRAF-P      WALKING, RUNNING, RIDING, ETC., ON PAVEMENT WITH TRAFFIC
+ 062    A/TRAF-P      WALKING, RUNNING, RIDING, ETC., ON PAVEMENT FACING TRAFFIC
+ 063    PLAYINRD      PLAYING IN STREET OR ROAD
+ 064    PUSH MV       PUSHING OR WORKING ON VEHICLE IN ROAD OR ON SHOULDER
+ 065    WK IN RD      WORKING IN ROADWAY OR ALONG SHOULDER
+ 070    LAYON RD      STANDING OR LYING IN ROADWAY
+ 073    DIS POL       DISREGARDING POLICE (ELUDING)
+ 080    FAIL LN       FAILED TO MAINTAIN LANE
+ 081    OFF RD        RAN OFF ROAD
+ 082    NO CLEAR      DRIVER MISJUDGED CLEARANCE
+ 083    OVRSTEER      OVER CORRECTING
+ 084    NOT USED      CODE NOT IN USE
+ 085    OVRLOAD       OVERLOADING OR IMPROPER LOADING OF VEHICLE WITH CARGO OR PASSENGERS
+ 097    UNA DIS TC    UNABLE TO DETERMINE WHICH DRIVER DISREGARDED TRAFFIC CONTROL DEVICE
+             EVENT CODE TRANSLATION LIST
+
+EVENT   SHORT
+ CODE   DESCRIPTION     LONG DESCRIPTION
+
+ 001    FEL/JUMP        OCCUPANT FELL, JUMPED OR WAS EJECTED FROM MOVING VEHICLE
+ 002    INTERFER        PASSENGER INTERFERED WITH DRIVER
+ 003    BUG INTF        ANIMAL OR INSECT IN VEHICLE INTERFERED WITH DRIVER
+ 004    PED INV         PEDESTRIAN INVOLVED (NON-PEDESTRIAN ACCIDENT)
+ 005    SUB-PED         “SUB-PED”: PEDESTRIAN INJURED SUBSEQUENT TO COLLISION, ETC.
+ 006    BIKE INV        TRICYCLE-BICYCLE INVOLVED
+ 007    HITCHIKR        HITCHHIKER (SOLICITING A RIDE)
+ 008    PSNGR TOW       PASSENGER BEING TOWED OR PUSHED ON CONVEYANCE
+ 009    ON/OFF V        GETTING ON OR OFF STOPPED OR PARKED VEHICLE (OCCUPANTS ONLY)
+ 010    SUB OTRN        OVERTURNED AFTER FIRST HARMFUL EVENT
+ 011    MV PUSHD        VEHICLE BEING PUSHED
+ 012    MV TOWED        VEHICLE TOWED OR HAD BEEN TOWING ANOTHER VEHICLE
+ 013    FORCED          VEHICLE FORCED BY IMPACT INTO ANOTHER VEHICLE, PEDALCYCLIST OR PEDESTRIAN
+ 014    SET MOTN        VEHICLE SET IN MOTION BY NON-DRIVER (CHILD RELEASED BRAKES, ETC.)
+ 015    RR ROW          AT OR ON RAILROAD RIGHT-OF-WAY (NOT LIGHT RAIL)
+ 016    LT RL ROW       AT OR ON LIGHT-RAIL RIGHT-OF-WAY
+ 017    RR HIT V        TRAIN STRUCK VEHICLE
+ 018    V HIT RR        VEHICLE STRUCK TRAIN
+ 019    HIT RR CAR      VEHICLE STRUCK RAILROAD CAR ON ROADWAY
+ 020    JACKNIFE        JACKKNIFE; TRAILER OR TOWED VEHICLE STRUCK TOWING VEHICLE
+ 021    TRL OTRN        TRAILER OR TOWED VEHICLE OVERTURNED
+ 022    CN BROKE        TRAILER CONNECTION BROKE
+ 023    DETACH TRL      DETACHED TRAILING OBJECT STRUCK OTHER VEHICLE, NON-MOTORIST, OR OBJECT
+ 024    V DOOR OPN      VEHICLE DOOR OPENED INTO ADJACENT TRAFFIC LANE
+ 025    WHEELOFF        WHEEL CAME OFF
+ 026    HOOD UP         HOOD FLEW UP
+ 028    LOAD SHIFT      LOST LOAD, LOAD MOVED OR SHIFTED
+ 029    TIREFAIL        TIRE FAILURE
+ 030    PET             PET: CAT, DOG AND SIMILAR
+ 031    LVSTOCK         STOCK: COW, CALF, BULL, STEER, SHEEP, ETC.
+ 032    HORSE           HORSE, MULE, OR DONKEY
+ 033    HRSE&RID        HORSE AND RIDER
+ 034    GAME            WILD ANIMAL, GAME (INCLUDES BIRDS; NOT DEER OR ELK)
+ 035    DEER ELK        DEER OR ELK, WAPITI
+ 036    ANML VEH        ANIMAL-DRAWN VEHICLE
+ 037    CULVERT         CULVERT, OPEN LOW OR HIGH MANHOLE
+ 038    ATENUATN        IMPACT ATTENUATOR
+ 039    PK METER        PARKING METER
+ 040    CURB            CURB (ALSO NARROW SIDEWALKS ON BRIDGES)
+ 041    JIGGLE          JIGGLE BARS OR TRAFFIC SNAKE FOR CHANNELIZATION
+ 042    GDRL END        LEADING EDGE OF GUARDRAIL
+ 043    GARDRAIL        GUARD RAIL (NOT METAL MEDIAN BARRIER)
+ 044    BARRIER         MEDIAN BARRIER (RAISED OR METAL)
+ 045    WALL            RETAINING WALL OR TUNNEL WALL
+ 046    BR RAIL         BRIDGE RAILING (ON BRIDGE AND APPROACH)
+ 047    BR ABUT         BRIDGE ABUTMENT (APPROACH ENDS)
+ 048    BR COLMN        BRIDGE PILLAR OR COLUMN (EVEN THOUGH STRUCK PROTECTIVE GUARD RAIL FIRST)
+ 049    BR GIRDR        BRIDGE GIRDER (HORIZONTAL STRUCTURE OVERHEAD)
+ 050    ISLAND          TRAFFIC RAISED ISLAND
+ 051    GORE            GORE
+ 052    POLE UNK        POLE – TYPE UNKNOWN
+ 053    POLE UTL        POLE – POWER OR TELEPHONE
+ 054    ST LIGHT        POLE – STREET LIGHT ONLY
+ 055    TRF SGNL        POLE – TRAFFIC SIGNAL AND PED SIGNAL ONLY
+ 056    SGN BRDG        POLE – SIGN BRIDGE
+ 057    STOPSIGN        STOP OR YIELD SIGN
+ 058    OTH SIGN        OTHER SIGN, INCLUDING STREET SIGNS
+ 059    HYDRANT         HYDRANT
+             EVENT CODE TRANSLATION LIST
+
+EVENT   SHORT
+ CODE   DESCRIPTION     LONG DESCRIPTION
+
+ 060    MARKER          DELINEATOR OR MARKER (REFLECTOR POSTS)
+ 061    MAILBOX         MAILBOX
+ 062    TREE            TREE, STUMP OR SHRUBS
+ 063    VEG OHED        TREE BRANCH OR OTHER VEGETATION OVERHEAD, ETC.
+ 064    WIRE/CBL        WIRE OR CABLE ACROSS OR OVER THE ROAD
+ 065    TEMP SGN        TEMPORARY SIGN OR BARRICADE IN ROAD, ETC.
+ 066    PERM SGN        PERMANENT SIGN OR BARRICADE IN/OFF ROAD
+ 067    SLIDE           SLIDES, ROCKS OFF OR ON ROAD, FALLING ROCKS
+ 068    FRGN OBJ        FOREIGN OBSTRUCTION/DEBRIS IN ROAD (NOT GRAVEL)
+ 069    EQP WORK        EQUIPMENT WORKING IN/OFF ROAD
+ 070    OTH EQP         OTHER EQUIPMENT IN OR OFF ROAD (INCLUDES PARKED TRAILER, BOAT)
+ 071    MAIN EQP        WRECKER, STREET SWEEPER, SNOW PLOW OR SANDING EQUIPMENT
+ 072    OTHER WALL      ROCK, BRICK OR OTHER SOLID WALL
+ 073    IRRGL PVMT      SPEED BUMP, OTHER BUMP, POTHOLE OR PAVEMENT IRREGULARITY (PER PAR)
+ 075    CAVE IN         BRIDGE OR ROAD CAVE IN
+ 076    HI WATER        HIGH WATER
+ 077    SNO BANK        SNOW BANK
+ 078    HOLE            CHUCKHOLE IN ROAD, LOW OR HIGH SHOULDER AT PAVEMENT EDGE
+ 079    DITCH           CUT SLOPE OR DITCH EMBANKMENT
+ 080    OBJ F MV        STRUCK BY ROCK OR OTHER OBJECT SET IN MOTION BY OTHER VEHICLE (INCL. LOST LOADS)
+ 081    FLY-OBJ         STRUCK BY OTHER MOVING OR FLYING OBJECT
+ 082    VEH HID         VEHICLE OBSCURED VIEW
+ 083    VEG HID         VEGETATION OBSCURED VIEW
+ 084    BLDG HID        VIEW OBSCURED BY FENCE, SIGN, PHONE BOOTH, ETC.
+ 085    WIND GUST       WIND GUST
+ 086    IMMERSED        VEHICLE IMMERSED IN BODY OF WATER
+ 087    FIRE/EXP        FIRE OR EXPLOSION
+ 088    FENC/BLD        FENCE OR BUILDING, ETC.
+ 089    OTH ACDT        ACCIDENT RELATED TO ANOTHER SEPARATE ACCIDENT
+ 090    TO 1 SIDE       TWO-WAY TRAFFIC ON DIVIDED ROADWAY ALL ROUTED TO ONE SIDE
+ 092    PHANTOM         OTHER (PHANTOM) NON-CONTACT VEHICLE (ON PAR OR REPORT)
+ 093    CELL-POL        CELL PHONE (ON PAR OR DRIVER IN USE)
+ 094    VIOL GDL        TEENAGE DRIVER IN VIOLATION OF GRADUATED LICENSE PGM
+ 095    GUY WIRE        GUY WIRE
+ 096    BERM            BERM (EARTHEN OR GRAVEL MOUND)
+ 097    GRAVEL          GRAVEL IN ROADWAY
+ 098    ABR EDGE        ABRUPT EDGE
+ 099    CELL-WTN        CELL PHONE USE WITNESSED BY OTHER PARTICIPANT
+ 100    UNK FIXD        UNKNOWN TYPE OF FIXED OBJECT
+ 101    OTHER OBJ       OTHER OR UNKNOWN OBJECT, NOT FIXED
+ 104    OUTSIDE V       PASSENGER RIDING ON VEHICLE EXTERIOR
+ 105    PEDAL PSGR      PASSENGER RIDING ON PEDALCYCLE
+ 106    MAN WHLCHR      PEDESTRIAN IN NON-MOTORIZED WHEELCHAIR
+ 107    MTR WHLCHR      PEDESTRIAN IN MOTORIZED WHEELCHAIR
+ 110    N-MTR           NON-MOTORIST STRUCK VEHICLE
+ 111    S CAR VS V      STREET CAR/TROLLEY (ON RAILS AND/OR OVERHEAD WIRE SYSTEM) STRUCK VEHICLE
+ 112    V VS S CAR      VEHICLE STRUCK STREET CAR/TROLLEY (ON RAILS AND/OR OVERHEAD WIRE SYSTEM)
+ 113    S CAR ROW       AT OR ON STREET CAR/TROLLEY RIGHT-OF-WAY
+ 114    RR EQUIP        VEHICLE STRUCK RAILROAD EQUIPMENT (NOT TRAIN) ON TRACKS
+ 120    WIRE BAR        WIRE OR CABLE MEDIAN BARRIER
+ 124    SLIPPERY        SLIDING OR SWERVING DUE TO WET, ICY, SLIPPERY OR LOOSE SURFACE
+ 125    SHLDR           SHOULDER GAVE WAY
+        FUNCTIONAL CLASSIFICATION TRANSLATION LIST                      HIGHWAY COMPONENT TRANSLATION LIST
+
+FUNC
+          DESCRIPTION                                              CODE      DESCRIPTION
+CLASS
+ 01       RURAL PRINCIPAL ARTERIAL     - INTERSTATE                 0        MAINLINE STATE HIGHWAY
+ 02       RURAL PRINCIPAL ARTERIAL     - OTHER                      1        COUPLET
+ 06       RURAL MINOR ARTERIAL                                      3        FRONTAGE ROAD
+                                                                    6        CONNECTION
+ 07       RURAL MAJOR COLLECTOR                                     8        HIGHWAY - OTHER
+ 08       RURAL MINOR COLLECTOR
+ 09       RURAL LOCAL
+ 11       URBAN PRINCIPAL ARTERIAL     - INTERSTATE
+ 12       URBAN PRINCIPAL ARTERIAL     - OTHER FREEWAYS AND EXP
+ 14       URBAN PRINCIPAL ARTERIAL     - OTHER
+ 16       URBAN MINOR ARTERIAL
+ 17       URBAN COLLECTOR
+ 19       URBAN LOCAL
+ 78       UNKNOWN RURAL SYSTEM
+ 79       UNKNOWN RURAL NON-SYSTEM
+ 98       UNKNOWN URBAN SYSTEM
+ 99       UNKNOWN URBAN NON-SYSTEM
+
+
+
+
+        INJURY SEVERITY CODE TRANSLATION LIST                               LIGHT CONDITION CODE TRANSLATION LIST
+
+          SHORT                                                              SHORT
+CODE      DESC    LONG DESCRIPTION                                 CODE      DESC    LONG DESCRIPTION
+ 1        KILL    FATAL INJURY                                      0        UNK     UNKNOWN
+ 2        INJA    INCAPACITATING INJURY - BLEEDING, BROKEN BONES    1        DAY     DAYLIGHT
+ 3        INJB    NON-INCAPACITATING INJURY                         2        DLIT    DARKNESS - WITH STREET LIGHTS
+ 4        INJC    POSSIBLE INJURY - COMPLAINT OF PAIN               3        DARK    DARKNESS - NO STREET LIGHTS
+ 5        PRI     DIED PRIOR TO CRASH                               4        DAWN    DAWN (TWILIGHT)
+ 7        NO<5    NO INJURY - 0 TO 4 YEARS OF AGE                   5        DUSK    DUSK (TWILIGHT)
+
+
+
+
+          MEDIAN TYPE CODE TRANSLATION LIST                                    MILEAGE TYPE CODE TRANSLATION LIST
+
+          SHORT
+CODE      DESC      LONG DESCRIPTION                                CODE        LONG DESCRIPTION
+ 0        NONE      NO MEDIAN                                           0       REGULAR MILEAGE
+ 1        RSDMD     SOLID MEDIAN BARRIER                                T       TEMPORARY
+ 2        DIVMD     EARTH, GRASS OR PAVED MEDIAN                        Y       SPUR
+                                                                        Z       OVERLAPPING
+         MOVEMENT TYPE CODE TRANSLATION LIST                        PARTICIPANT TYPE CODE TRANSLATION LIST
+          SHORT                                                        SHORT
+CODE      DESC       LONG DESCRIPTION                        CODE      DESC         LONG DESCRIPTION
+ 0        UNK        UNKNOWN                                  0        OCC          UNKNOWN OCCUPANT TYPE
+ 1        STRGHT     STRAIGHT AHEAD                           1        DRVR         DRIVER
+ 2        TURN-R     TURNING RIGHT                            2        PSNG         PASSENGER
+                                                              3        PED          PEDESTRIAN
+ 3        TURN-L     TURNING LEFT
+                                                              4        CONV         PEDESTRIAN USING A PEDESTRIAN CONVEYANCE
+ 4        U-TURN     MAKING A U-TURN
+                                                              5        PTOW         PEDESTRIAN TOWING OR TRAILERING AN OBJECT, ETC
+ 5        BACK       BACKING                                  6        BIKE         PEDALCYCLIST
+ 6        STOP       STOPPED IN TRAFFIC                       7        BTOW         PEDALCYCLIST TOWING OR TRAILERING AN OBJECT, ETC
+ 7        PRKD-P     PARKED - PROPERLY                        8        PRKD         OCCUPANT OF A PARKED MOTOR VEHICLE
+ 8        PRKD-I     PARKED - IMPROPERLY                      9        UNK          UNKNOWN TYPE OF NON-MOTORIST
+
+
+
+
+       PEDESTRIAN LOCATION CODE TRANSLATION LIST                    TRAFFIC CONTROL DEVICE CODE TRANSLATION LIST
+
+CODE     LONG DESCRIPTION                                    CODE      SHORT DESC      LONG DESCRIPTION
+00       AT INTERSECTION - NOT IN ROADWAY                    000       NONE            NO CONTROL
+01       AT INTERSECTION - INSIDE CROSSWALK                  001       TRF SIGNAL      TRAFFIC SIGNALS
+02       AT INTERSECTION - IN ROADWAY, OUTSIDE CROSSWALK     002       FLASHBCN-R      FLASHING BEACON - RED (STOP)
+03       AT INTERSECTION - IN ROADWAY, XWALK AVAIL UNKNWN    003       FLASHBCN-A      FLASHING BEACON - AMBER (SLOW)
+04       NOT AT INTERSECTION - IN ROADWAY                    004       STOP SIGN       STOP SIGN
+05       NOT AT INTERSECTION - ON SHOULDER                   005       SLOW SIGN       SLOW SIGN
+06       NOT AT INTERSECTION - ON MEDIAN                     006       REG-SIGN        REGULATORY SIGN
+07       NOT AT INTERSECTION - WITHIN TRAFFIC RIGHT-OF-WAY   007       YIELD           YIELD SIGN
+08       NOT AT INTERSECTION - IN BIKE PATH                  008       WARNING         WARNING SIGN
+09       NOT-AT INTERSECTION - ON SIDEWALK                   009       CURVE           CURVE SIGN
+10       OUTSIDE TRAFFICWAY BOUNDARIES                       010       SCHL X-ING      SCHOOL CROSSING SIGN OR SPECIAL SIGNAL
+15       NOT AT INTERSECTION - INSIDE MID-BLOCK CROSSWALK
+                                                             011       OFCR/FLAG       POLICE OFFICER, FLAGMAN - SCHOOL PATROL
+18       OTHER, NOT IN ROADWAY
+                                                             012       BRDG-GATE       BRIDGE GATE - BARRIER
+99       UNKNOWN LOCATION
+                                                             013       TEMP-BARR       TEMPORARY BARRIER
+                                                             014       NO-PASS-ZN      NO PASSING ZONE
+                                                             015       ONE-WAY         ONE-WAY STREET
+                                                             016       CHANNEL         CHANNELIZATION
+                                                             017       MEDIAN BAR      MEDIAN BARRIER
+                                                             018       PILOT CAR       PILOT CAR
+        ROAD CHARACTER CODE TRANSLATION LIST                 019       SP PED SIG      SPECIAL PEDESTRIAN SIGNAL
+                                                             020       X-BUCK          CROSSBUCK
+         SHORT                                               021       THR-GN-SIG      THROUGH GREEN ARROW OR SIGNAL
+CODE     DESC         LONG DESCRIPTION                       022       L-GRN-SIG       LEFT TURN GREEN ARROW, LANE MARKINGS, OR SIGNAL
+ 0       UNK          UNKNOWN                                023       R-GRN-SIG       RIGHT TURN GREEN ARROW, LANE MARKINGS, OR SIGNAL
+ 1       INTER        INTERSECTION                           024       WIGWAG          WIGWAG OR FLASHING LIGHTS W/O DROP-ARM GATE
+                                                             025       X-BUCK WRN      CROSSBUCK AND ADVANCE WARNING
+ 2       ALLEY        DRIVEWAY OR ALLEY
+                                                             026       WW W/ GATE      FLASHING LIGHTS WITH DROP-ARM GATES
+ 3       STRGHT       STRAIGHT ROADWAY                       027       OVRHD SGNL      SUPPLEMENTAL OVERHEAD SIGNAL (RR XING ONLY)
+ 4       TRANS        TRANSITION                             028       SP RR STOP      SPECIAL RR STOP SIGN
+ 5       CURVE        CURVE (HORIZONTAL CURVE)               029       ILUM GRD X      ILLUMINATED GRADE CROSSING
+ 6       OPENAC       OPEN ACCESS OR TURNOUT                 037       RAMP METER      METERED RAMPS
+ 7       GRADE        GRADE (VERTICAL CURVE)                 038       RUMBLE STR      RUMBLE STRIP
+ 8       BRIDGE       BRIDGE STRUCTURE                       090       L-TURN REF      LEFT TURN REFUGE (WHEN REFUGE IS INVOLVED)
+ 9       TUNNEL       TUNNEL                                 091       R-TURN ALL      RIGHT TURN AT ALL TIMES SIGN, ETC.
+                                                             092       EMR SGN/FL      EMERGENCY SIGNS OR FLARES
+                                                             093       ACCEL LANE      ACCELERATION OR DECELERATION LANES
+                                                             094       R-TURN PRO      RIGHT TURN PROHIBITED ON RED AFTER STOPPING
+                                                                       095       BUS STPSGN     BUS STOP SIGN AND RED LIGHTS
+                                                                       099       UNKNOWN        UNKNOWN OR NOT DEFINITE
+
+
+       VEHICLE TYPE CODE TRANSLATION LIST                                     WEATHER CONDITION CODE TRANSLATION LIST
+
+
+CODE   SHORT DESC   LONG DESCRIPTION                                   CODE    SHORT DESC     LONG DESCRIPTION
+                                                                        0      UNK            UNKNOWN
+01     PSNGR CAR    PASSENGER CAR, PICKUP, ETC.
+                                                                        1      CLR            CLEAR
+02     BOBTAIL      TRUCK TRACTOR WITH NO TRAILERS (BOBTAIL)
+                                                                        2      CLD            CLOUDY
+03     FARM TRCTR   FARM TRACTOR OR SELF-PROPELLED FARM EQUIPMENT
+                                                                        3      RAIN           RAIN
+04     SEMI TOW     TRUCK TRACTOR WITH TRAILER/MOBILE HOME IN TOW
+                                                                        4      SLT            SLEET
+05     TRUCK        TRUCK WITH NON-DETACHABLE BED, PANEL, ETC.
+                                                                        5      FOG            FOG
+06     MOPED        MOPED, MINIBIKE, MOTOR SCOOTER, OR MOTOR BICYCLE
+                                                                        6      SNOW           SNOW
+07     SCHL BUS     SCHOOL BUS (INCLUDES VAN)
+                                                                        7      DUST           DUST
+08     OTH BUS      OTHER BUS
+                                                                        8      SMOK           SMOKE
+09     MTRCYCLE     MOTORCYCLE
+                                                                        9      ASH            ASH
+10     OTHER        OTHER: FORKLIFT, BACKHOE, ETC.
+11     MOTRHOME     MOTORHOME
+12     TROLLEY      MOTORIZED STREET CAR/TROLLEY (NO RAILS/WIRES)
+13     ATV          ATV
+14     MTRSCTR      MOTORIZED SCOOTER
+15     SNOWMOBILE   SNOWMOBILE
+99     UNKNOWN      UNKNOWN VEHICLE TYPE
+Appendix E:   Queuing Analysis
+                                QUEUE LENGTH PROBABILITIES   - AM Peak Hour
+
+
+Approach volume (vph):               143                                      Average arrival rate =      5.441944
+Length of red interval (sec):        137
+Number of turning lanes:               1
+
+                               Prob. of      Queue
+  Number of vehicles arriving  Arrivals     Length                                               Prob. of
+  during the red interval (N)    >= N        (ft)                             Factorial          N Arrivals
+------------------------------ --------    --------                            --------           --------
+               0                  1.000           0                                  1           0.004331
+               1                  0.996          25                                  1           0.023569
+               2                  0.972          50                                  2           0.064132
+               3                  0.908          75                                  6           0.116333
+               4                  0.792         100 50th Percentile                 24            0.15827
+               5                  0.633         125     144.4 feet                 120           0.172259
+               6                  0.461         150                                720           0.156238
+               7                  0.305         175                               5040           0.121462
+               8                  0.183         200 95th Percentile              40320           0.082624
+               9                  0.101         225     250.8 feet              362880           0.049959
+              10                  0.051         250                            3628800           0.027188
+              11                  0.024         275                           39916800            0.01345
+              12                  0.010         300                           4.79E+08             0.0061
+              13                  0.004         325                           6.23E+09           0.002553
+              14                  0.002         350                           8.72E+10           0.000993
+              15                  0.001         375                           1.31E+12            0.00036
+              16                  0.000         400                           2.09E+13           0.000122
+              17                  0.000         425                           3.56E+14           3.92E-05
+              18                  0.000         450                            6.4E+15           1.19E-05
+              19                  0.000         475                           1.22E+17           3.39E-06
+              20                  0.000         500                           2.43E+18           9.24E-07
+              21                  0.000         525                           5.11E+19           2.39E-07
+              22                  0.000         550                           1.12E+21           5.92E-08
+              23                  0.000         575                           2.59E+22            1.4E-08
+              24                  0.000         600                            6.2E+23           3.18E-09
+              25                  0.000         625                           1.55E+25           6.92E-10
+              26                  0.000         650                           4.03E+26           1.45E-10
+              27                  0.000         675                           1.09E+28           2.92E-11
+              28                  0.000         700                           3.05E+29           5.67E-12
+              29                  0.000         725                           8.84E+30           1.06E-12
+              30                  0.000         750                           2.65E+32           1.93E-13
+                                QUEUE LENGTH PROBABILITIES   - PM Peak Hour
+
+
+Approach volume (vph):                43                                      Average arrival rate =          1.505
+Length of red interval (sec):        126
+Number of turning lanes:               1
+
+                               Prob. of      Queue
+  Number of vehicles arriving  Arrivals     Length                                               Prob. of
+  during the red interval (N)    >= N        (ft)                             Factorial          N Arrivals
+------------------------------ --------    --------                            --------           --------
+               0                  1.000            0                                 1           0.222017
+               1                  0.778          25                                  1           0.334136
+               2                  0.444          50                                  2           0.251437
+               3                  0.192          75                                  6           0.126138
+               4                  0.066         100 50th Percentile                 24           0.047459
+               5                  0.019         125      45.8 feet                 120           0.014285
+               6                  0.005         150                                720           0.003583
+               7                  0.001         175                               5040            0.00077
+               8                  0.000         200 95th Percentile              40320           0.000145
+               9                  0.000         225     108.6 feet              362880           2.42E-05
+              10                  0.000         250                            3628800           3.65E-06
+              11                  0.000         275                           39916800           4.99E-07
+              12                  0.000         300                           4.79E+08           6.26E-08
+              13                  0.000         325                           6.23E+09           7.25E-09
+              14                  0.000         350                           8.72E+10           7.79E-10
+              15                  0.000         375                           1.31E+12           7.82E-11
+              16                  0.000         400                           2.09E+13           7.35E-12
+              17                  0.000         425                           3.56E+14           6.51E-13
+              18                  0.000         450                            6.4E+15           5.44E-14
+              19                  0.000         475                           1.22E+17           4.31E-15
+              20                  0.000         500                           2.43E+18           3.24E-16
+              21                  0.000         525                           5.11E+19           2.32E-17
+              22                  0.000         550                           1.12E+21           1.59E-18
+              23                  0.000         575                           2.59E+22           1.04E-19
+              24                  0.000         600                            6.2E+23           6.52E-21
+              25                  0.000         625                           1.55E+25           3.93E-22
+              26                  0.000         650                           4.03E+26           2.27E-23
+              27                  0.000         675                           1.09E+28           1.27E-24
+              28                  0.000         700                           3.05E+29           6.81E-26
+              29                  0.000         725                           8.84E+30           3.54E-27
+              30                  0.000         750                           2.65E+32           1.77E-28
+

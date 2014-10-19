@@ -1,0 +1,2930 @@
+TRAFFIC IMPACT ANALYSIS
+
+Carolina Flats at Estes
+  Chapel Hill, North Carolina
+
+
+
+
+      DRAFT REPORT
+
+
+           Prepared for:
+ The Town of Chapel Hill, NC
+
+
+           Prepared by:
+
+
+
+
+           June 2012
+                                                                                                                       Traffic Impact Analysis
+                                                                                                                       Carolina Flats at Estes
+                                                                                                                    Chapel Hill, North Carolina
+
+
+TABLE OF CONTENTS ................................................................................................................... PAGE
+
+1.0       Introduction ..........................................................................................................................1
+   1.1        Project Overview ......................................................................................................................... 1
+   1.2        Site Location and Study Area ....................................................................................................... 1
+   1.3        Existing and Proposed Uses in Site Vicinity ................................................................................. 1
+   1.4        Existing and Committed Surface Transportation Network ......................................................... 4
+
+2.0       2012 Existing Conditions ........................................................................................................7
+   2.1        Arterial Capacity Analysis ............................................................................................................ 7
+   2.2        Peak Hour Intersection Capacity Analysis ................................................................................... 8
+
+3.0       Future Traffic Conditions without Proposed Development .................................................... 12
+   3.1        Background Traffic ..................................................................................................................... 13
+
+4.0       Proposed Project Traffic ....................................................................................................... 16
+   4.1        Adjustments to Trip Generation Rates ...................................................................................... 16
+
+5.0       Future Traffic Forecasts with the Proposed Development ..................................................... 23
+
+6.0       Project Impacts .................................................................................................................... 25
+   6.1        Arterial Capacity Analysis .......................................................................................................... 26
+   6.2        Access Analysis .......................................................................................................................... 27
+   6.3        Signal Warrant Analysis ............................................................................................................. 27
+   6.4        Signal Phasing Analysis .............................................................................................................. 34
+   6.5        Crash Analysis ............................................................................................................................ 34
+   6.6        Progression Analysis .................................................................................................................. 36
+   6.7        Peak Hour Intersection Capacity Analysis ................................................................................. 36
+   6.8        Turn Lane Storage Requirements .............................................................................................. 40
+   6.9        Sight Distance Analysis .............................................................................................................. 40
+   6.10       Appropriateness of Acceleration or Deceleration Lanes ........................................................... 40
+   6.11       Pedestrian and Bicycle Analysis ................................................................................................. 40
+   6.12       Public Transportation Analysis .................................................................................................. 41
+   6.13       Special Analysis/Issues .............................................................................................................. 41
+
+7.0       Mitigation Measures/ Recommendations ............................................................................. 42
+   7.1        Planned Improvements ............................................................................................................. 42
+   7.2        Background Committed Improvements .................................................................................... 42
+   7.3        Applicant Committed Improvements ........................................................................................ 42
+   7.4        Recommended Improvements .................................................................................................. 42
+
+8.0       TECHNICAL APPENDIX .......................................................................................................... 43
+
+
+
+
+                                                                            i
+                                                                                                                                           Traffic Impact Analysis
+                                                                                                                                           Carolina Flats at Estes
+                                                                                                                                        Chapel Hill, North Carolina
+
+
+LIST OF TABLES ........................................................................................................................... PAGE
+Table 1: Arterial Capacity Analysis 2012 Existing Conditions.......................................................................................7
+Table 2: Intersection Capacity Analysis - 2012 Existing Traffic Conditions .................................................................11
+Table 3: Trip Generation Results of Background Project Traffic .................................................................................14
+Table 4: Site Trip Generation Rates Shortbread Lofts .................................................................................................17
+Table 5: Site Trip Generation Volumes Shortbread Lofts ............................................................................................17
+Table 6: Intersection Level of Service Criteria .............................................................................................................25
+Table 7: Arterial Capacity Analysis 2015 No Build Conditions ...................................................................................26
+Table 8: Arterial Capacity Analysis 2015 Build Conditions .........................................................................................26
+Table 9: Number of Crashes by Type April 1, 2009 – March 31, 2012 ........................................................................35
+Table 10: Intersection Capacity Analysis - 2015 No Build Conditions .........................................................................37
+Table 11: Intersection Capacity Analysis - 2015 Build Conditions ...............................................................................39
+
+
+LIST OF FIGURES.......................................................................................................................... PAGE
+Figure 1. Project Site Plan ............................................................................................................................................2
+Figure 2. Project Location Map ....................................................................................................................................3
+Figure 3. 2012 Existing Traffic Conditions ..................................................................................................................10
+Figure 4. 2015 No Build Traffic Conditions .................................................................................................................15
+Figure 5. 2015 Site Traffic Distribution – Student Apartment Units ..........................................................................18
+Figure 6. 2015 Site Traffic Distribution – Hotel ..........................................................................................................19
+Figure 7. 2015 Site Traffic Assignment – Student Apartment Units ...........................................................................20
+Figure 8. 2015 Site Traffic Assignment – Hotel ..........................................................................................................21
+Figure 9. 2015 Site Traffic Assignment – Student Housing + Hotel Distributions.......................................................22
+Figure 10. 2015 Build Conditions ...............................................................................................................................24
+Figure 11. 2015 No Build Conditions Signal Warrant Analysis – Martin Luther King, Jr. Boulevard at Shadowood
+Drive.............................................................................................................................................................................28
+Figure 12. 2015 No Build Conditions Signal Warrant Analysis – Estes Drive at Somerset Drive ................................29
+Figure 13. 2015 Build Conditions Signal Warrant Analysis – Martin Luther King, Jr. Boulevard at Shadowood Drive
+.....................................................................................................................................................................................30
+Figure 14. 2015 Build Conditions Signal Warrant Analysis – Estes Drive at Somerset Drive......................................31
+Figure 15. 2015 Build Conditions Signal Warrant Analysis – Martin Luther King, Jr. Boulevard at Driveway #2 ......32
+Figure 16. 2015 Build Conditions Signal Warrant Analysis – Estes Drive at Driveway #1 ..........................................33
+
+
+
+
+                                                                                          ii
+                                                                                  Traffic Impact Analysis
+                                                                                  Carolina Flats at Estes
+                                                                               Chapel Hill, North Carolina
+
+
+
+1.0   INTRODUCTION
+
+
+The subject development is the Carolina Flats at Estes and is proposed to be located in the northeast
+quadrant of the intersection of Estes Drive and Martin Luther King, Jr. Boulevard in Chapel Hill, North
+Carolina. This report presents the traffic operations impacts of this new development on the study area
+roads.
+
+The proposed development would include approximately 189 student apartment units as well as a 145
+room hotel. This development would have access through two driveways as described below:
+
+        Driveway #1 with full ingress/egress on Estes Drive east of Martin Luther King, Jr. Boulevard
+        Driveway #2 with right-in, right-out ingress/egress on Martin Luther King, Jr. Boulevard, north of
+        Estes Drive
+
+The proposed development would be built by 2014 and the build analysis year for this report is 2015,
+one year after the construction is complete. Figure 1 shows the site plan of the proposed development.
+
+1.1   Project Overview
+
+The plan proposes to build approximately 189 units of student units as well as a 145 room hotel, which
+is expected to be completed by 2014. The site is located in the Town of Chapel Hill’s Single Family (R-1)
+zoning district, as shown on Figure 2. The proposed zoning is Multi-Family (MU-V).
+
+1.2   Site Location and Study Area
+
+To determine the traffic impacts of the proposed site development on nearby roadways, traffic flow
+conditions were analyzed at the following seven intersections:
+
+        Martin Luther King, Jr. Boulevard/Piney Mountain Road/Municipal Drive (existing four-leg
+        signalized intersection)
+        Martin Luther King, Jr. Boulevard/Shadowood Drive (existing three-leg unsignalized intersection)
+        Martin Luther King, Jr. Boulevard/Driveway #2 (proposed three-leg unsignalized intersection)
+        Martin Luther King, Jr. Boulevard/Estes Drive (existing four-leg signalized intersection)
+        Estes Drive/Driveway #1 (proposed three-leg unsignalized intersection)
+        Estes Drive/Somerset Drive (existing three-leg unsignalized intersection)
+        Estes Drive/Caswell Road/Clayton Road (existing four-leg signalized intersection)
+
+1.3   Existing and Proposed Uses in Site Vicinity
+
+The project site is surrounded by residential zoning to the east and north and Institutional zoning to the
+west and south. The proposed development would be located on currently undeveloped land (currently
+used as a certified tree farm) and compose approximately 189 student apartment units and a 145 room
+hotel.
+
+
+
+                                                    1
+                                                          R
+                                                         SUMMER
+
+
+
+
+                                               RD
+                               FOREST
+               ASHLEY
+
+
+
+
+               86                                                                                                 LEGEND
+                                                                                                                 Zoning
+                                                                                                                        NC
+                                                    RD                                                                  OI-2
+                                MO         UNTAIN
+                   RD     PINEY
+                                                                                                                        OI-3
+          P   AL
+       CI
+                                          DR
+
+
+
+
+     NI                                                                                                                 R-1
+                                                               R
+
+
+MU
+                                      OD
+
+
+
+
+                                                               ET D
+
+
+
+
+                                                                                                                        R-2
+                                 WO
+
+
+
+
+                                                          ER S
+
+
+
+
+                                                                                                                        R-3
+                               DO
+
+
+
+
+                                     ^
+                             A
+
+
+
+
+                                                                                                                        R-4
+                                                         SOM
+                          SH
+
+
+
+
+                                                                                                     RD
+                                                                                                                        R-5
+
+
+
+
+                                                                                                    N
+                                                                                                TO
+                               Carolina Flats                                                                           R-5-C
+
+
+
+                                                                                               AY
+                                                                      ESTES DR
+
+
+                                                                                             CL
+                                                                                                                        Streets
+                                                                                        RD
+                                                                                        L
+                               MLK Jr
+
+
+
+
+                                                                                      EL
+                                                                                  SW
+
+
+
+
+                                                                                                        D
+                                                                                                    XR
+                                                                                 CA
+
+
+
+
+                        T DR
+       AIRPOR
+                                                                                                   A
+                                      B
+
+
+
+
+                                                                                                LIF
+                                  LVD
+
+
+
+
+                                                                                              HA
+
+
+
+
+                                                                                                            E       £
+                                                                                                D
+
+
+
+
+                                                                                                            1 inch = 1,000 feet
+
+
+                        Carolina Flats Development                                            PROJECT LOCATION MAP
+
+
+                         Traffic Impact Analysis                                                            Figure 2
+                                                                                  Traffic Impact Analysis
+                                                                                  Carolina Flats at Estes
+                                                                               Chapel Hill, North Carolina
+1.4   Existing and Committed Surface Transportation Network
+
+The transportation network serving the project site and the surrounding area includes Martin Luther
+King, Jr. Boulevard, Estes Drive, Piney Mountain Road, Shadowood Drive, Somerset Drive, and Clayton
+Road/Caswell Road.
+
+Figure 3 shows the current lane configuration and traffic-control (traffic signal or stop sign) at the
+existing intersections analyzed for this study.
+
+Martin Luther King, Jr. Boulevard is a five lane, two-way, north-south major arterial street with two
+lanes in each direction and a two-way left-turn lane. This roadway connects the Town of Chapel Hill to I-
+40 to the north of the site. This roadway has a posted speed limit of 35 miles per hour (mph). Martin
+Luther King, Jr. Boulevard is one of the major connectors in Chapel Hill with residential and commercial
+land uses along this roadway. Martin Luther King, Jr. Boulevard is also designated as NC Highway 86
+through the study area.
+
+At its intersection with Piney Mountain Road/Municipal Drive, the northbound and southbound
+approaches of Martin Luther King, Jr. Boulevard have one exclusive left-turn lane, one through lane and
+one through lane with shared right-turning movements. The westbound approach of Piney Mountain
+Road has two exclusive left-turn lanes and one through lane with shared right-turning movements. The
+eastbound approach of Municipal Road has one exclusive left-turn lane and one through lane with
+shared right-turning movements. This intersection is controlled by an actuated traffic signal.
+
+The intersection of Martin Luther King, Jr. Boulevard/Shadowood Road is limited to right-in/right-out
+movements only. The northbound and southbound approaches of Martin Luther King, Jr. Boulevard
+have two lanes in each direction with a center turn lane. The northbound approach has right-in access
+into Shadowood Road. The westbound approach of Shadowood Road has one lane right-out access to
+Martin Luther King, Jr. Boulevard.
+
+At its intersection with Estes Drive, the northbound and southbound approaches of Martin Luther King,
+Jr. Boulevard have one exclusive left-turn lane, one through lane and one through lane with shared
+right-turning movements. The eastbound and westbound approaches of Estes Drive have an exclusive
+left-turn lane, one through lane and one exclusive right-turn lane. This intersection is controlled by an
+actuated traffic signal.
+
+Estes Road is a two-lane, two-way, east-west arterial street connecting US 15/501 to Greensboro Street.
+This roadway has a posted speed limit of 35 mph. Horace Williams Airport is located along Estes Drive
+just west of its intersection with Martin Luther King, Jr. Boulevard. Other land uses along Estes Drive
+include suburban residential zoning and middle and elementary schools.
+
+The intersection of Martin Luther King, Jr. Boulevard and Estes Drive is described above.
+
+At its intersection with Somerset Drive, the eastbound and westbound approaches of Estes Drive have
+one through lane with shared left and right-turning movements respectively. The southbound approach
+of Somerset Drive has one with shared left and right-turning movement lane. This intersection is
+controlled by a stop sign along Somerset Drive.
+
+
+
+
+                                                    4
+                                                                                   Traffic Impact Analysis
+                                                                                   Carolina Flats at Estes
+                                                                                Chapel Hill, North Carolina
+
+At its intersection with Caswell Road/Clayton Road, the eastbound and westbound approaches of Estes
+Drive have one exclusive left-turn lane and one through lane with shared right-turning movements. The
+southbound approach of Clayton Road has one exclusive left-turn lane and one through lane with
+shared right-turning movements. The northbound approach of Caswell Road has one through lane with
+shared left and right-turning movements. This intersection is controlled by a traffic signal.
+
+Piney Mountain Road is a two-lane, two-way, east-west residential arterial street, which provides access
+to suburban homes. The posted speed limit on Piney Mountain Road is 35 mph. Piney Mountain Road
+becomes Municipal Drive west of the intersection at Martin Luther King, Jr. Boulevard. The speed limit
+on this side is 25 mph and currently serves light industrial facilities. The intersection of Piney Mountain
+Road and Martin Luther King, Jr. Boulevard will also serve as one of the main entrances to the future
+Carolina North development.
+
+The intersection of Martin Luther King, Jr. Boulevard and Piney Mountain Road is described on page
+four.
+
+Shadowood Road is a two-lane, two-way, east-west residential street providing access/egress to the
+Shadowood Apartment complex. The speed limit in the development is 10 mph. The intersection of
+Martin Luther King, Jr. Boulevard and Shadowood Road is described above.
+
+Somerset Drive is a two-lane, two-way, north-south residential street. It provides access/egress to
+suburban housing to the north.
+
+The intersection of Estes Drive and Somerset Drive is described on page four.
+
+Caswell Road/Clayton Road is a two-lane, two-way, north-south residential local street, which provides
+access/egress to Estes Drive suburban housing. The speed limit along either roadway is 25 mph. Estes
+Hills Elementary School, located along Estes Drive uses the intersection of Estes Drive and Caswell
+Road/Clayton Road as its main entrance. The intersection of Estes Drive and Caswell Road/Clayton Road
+is described above.
+
+Sidewalks
+
+Martin Luther King, Jr. Boulevard and Estes Drive have sidewalks on one side of the roadway in the
+vicinity of the proposed site. Estes Drive has sidewalks on the south side of the roadway (opposite the
+project site) and Martin Luther King, Jr. Boulevard has a sidewalk on the east side (adjacent to the
+project site).
+
+Piney Mountain Road has sidewalks on both sides of the roadway to the east of Martin Luther King, Jr.
+Boulevard, however, there are no sidewalks to the west. The west section is a part of the Carolina North
+development which will be completed at a later date.
+
+At the intersection of Estes Drive and Caswell Road/Clayton Road, sidewalks are located along Estes
+Drive to the west. Sidewalks are also located along Clayton Road to the north. On Estes Drive to the
+east, sidewalks are located on the north side only. On Caswell Road there are no sidewalks.
+
+
+
+
+                                                    5
+                                                                                   Traffic Impact Analysis
+                                                                                   Carolina Flats at Estes
+                                                                                Chapel Hill, North Carolina
+
+Bicycle Lanes
+
+There are no striped bicycle lanes along any of the roadways in the study area. However, Martin Luther
+King, Jr. Boulevard does support bicyclists and is shown to have “Share the Road” signs as depicted
+below.
+
+Bus Routes
+
+Chapel Hill Transit operates the following bus routes through the study area:
+
+        Routes A, G, NS, and T along Martin Luther King, Jr. Boulevard, and Estes Drive.
+
+In the vicinity of the proposed development, a bus stop is located on Estes Drive just west of its
+intersection with Martin Luther King, Jr. Boulevard for route G. On Martin Luther King, Jr. Boulevard, the
+closest stop is located just north of Shadowood Road for routes A, NS and T.
+
+The Triangle Transit Authority does have routes serving this area but does not operate any stops in the
+vicinity of the project site.
+
+
+
+
+                       Looking northbound along Martin Luther King, Jr. Boulevard
+                                            at Estes Drive
+
+
+
+
+                                                    6
+                                                                                         Traffic Impact Analysis
+                                                                                         Carolina Flats at Estes
+                                                                                      Chapel Hill, North Carolina
+   2.0   2012 EXISTING CONDITIONS
+
+
+   The Existing Conditions capacity analysis included peak hour arterial capacity analysis and peak hour
+   intersection capacity analysis.
+
+   2.1   Arterial Capacity Analysis
+
+   Arterial capacity analyses were performed for the following two segments:
+
+                Martin Luther King, Jr. Boulevard between Timber Hollow Court and Airport Drive
+                Estes Drive between Airport Drive and Halifax Road
+
+   The 2012 Existing Conditions arterial capacity analysis on Martin Luther King, Jr. Boulevard and Estes
+   Drive was performed using the peak hour traffic volumes per direction obtained from the traffic counts
+   performed for this study. Using these traffic volumes and capacity thresholds for the respective
+   roadway type obtained from Chapel Hill Guidelines for Traffic Impact Analysis, Volume-to-Capacity ratios
+   were calculated for the study area roads.
+
+   The 2012 arterial capacity analysis indicates that the traffic demand along Martin Luther King, Jr.
+   Boulevard and Estes Drive approach or exceed the roadway capacity limits (volume-to-capacity ratio of
+   greater than 0.9) during at least one peak hour of the day, indicating a need for additional roadway
+   improvements.
+
+   Table 1 shows the results of the arterial capacity analysis for the 2012 Existing Conditions.
+
+                                       Table 1: Arterial Capacity Analysis
+                                            2012 Existing Conditions
+
+                                   No. of                           Traffic Volume         Volume-to-Capacity Ratio
+                   Direction of     Lanes      Threshold
+  Segment
+                      Travel        each       Capacity*     AM        Mid-day    PM       AM       Mid-day      PM
+                                  direction                  Peak       Peak     Peak      Peak      Peak       Peak
+
+Martin Luther      Northbound         2          1,600        834        782     1,526      0.52      0.49      0.95
+  King, Jr.
+ Boulevard         Southbound         2          1,600       1,420       769     1,127      0.89      0.48      0.70
+
+                   Eastbound          1           550         759        519         681    1.38      0.94      1.24
+ Estes Drive
+                   Westbound          1           550         601        606         890    1.09      1.10      1.62
+
+   *Source: Guidelines for Traffic Impact Analysis, Town of Chapel Hill, October 2001.
+
+
+
+
+                                                         7
+                                                                                 Traffic Impact Analysis
+                                                                                 Carolina Flats at Estes
+                                                                              Chapel Hill, North Carolina
+2.2   Peak Hour Intersection Capacity Analysis
+
+Peak hour intersection capacity analyses were performed for the following intersections:
+            Martin Luther King, Jr. Boulevard at Piney Mountain Road/Municipal Drive
+            Martin Luther King, Jr. Boulevard at Shadowood Road
+            Martin Luther King, Jr. Boulevard at Estes Drive
+            Estes Drive at Somerset Drive
+            Estes Drive at Caswell Road/Clayton Road
+
+As the highest traffic demand on area roads usually occurs during AM and PM peak hours with an
+additional peak hour due to lunch-time traffic volumes, traffic counts were analyzed for the following
+time periods: between 7:00 and 9:00 AM, 11:30 AM and 1:30 PM, and 4:00 and 6:00 PM. Traffic counts
+were conducted on Tuesday, April 24, 2012 at these study intersections. The peak hour is defined as the
+highest four continuous 15-minute traffic count intervals. Based on the traffic counts collected for the
+above five intersections, the peak hours for the analysis are as follows:
+
+            AM Peak Hour: 7:45 AM – 8:45 AM;
+            Mid-day Peak Hour: 12:15 PM – 1:15 PM;
+            PM Peak Hour: 4:45 PM – 5:45 PM.
+
+Figure 3 shows the 2012 intersection turning-movement counts for the weekday AM, Mid-day, and PM
+peak hours.
+
+Martin Luther King, Jr. Boulevard and Piney Mountain Road/Municipal Road: The signalized
+intersection capacity analysis at Martin Luther King, Jr. Boulevard and Piney Mountain Road/Municipal
+Road, indicates that this intersection on the whole operates Level of Service B or better, very good rate
+of traffic flow, during the peak hours. The northbound and southbound approaches function without
+any delay at Level of Service A during the peak hours. The eastbound approach of Municipal Road and
+westbound approach of Piney Mountain Road exceed capacity limits (Level of Service F) during the peak
+hours. However, the volume-to-capacity ratio for the two approaches is less than 0.7, indicating a good
+rate of traffic flow. The poor Level of Service is a result of longer cycle length, which is required to
+maintain progression along Martin Luther King, Jr. Boulevard.
+
+Martin Luther King, Jr. Boulevard and Shadowood Drive: At the intersection of Martin Luther King, Jr.
+Boulevard and Shadowood Drive, the unsignalized intersection capacity analysis indicates the
+westbound stop controlled left operates at Level of Service B or better, a very good rate of flow.
+
+Martin Luther King, Jr. Boulevard and Estes Drive: The signalized intersection capacity analysis at
+Martin Luther King, Jr. Boulevard and Estes Drive indicates that this intersection on the whole operates
+at Level of Service D or better, an acceptable rate of flow during the peak hours. The northbound and
+southbound approaches function at Level of Service D or better, an acceptable rate of flow, during the
+peak hours with one exception. The exception is traffic demand along the southbound approach, flows
+at a Level of Service E, (approaching roadway capacity limits) during PM Peak Hour. The eastbound and
+westbound approaches of Estes Drive either approach or exceed the roadway capacity limits (Level of
+Service E or F) during the peak hours.
+
+
+
+
+                                                   8
+                                                                               Traffic Impact Analysis
+                                                                               Carolina Flats at Estes
+                                                                            Chapel Hill, North Carolina
+
+Estes Drive and Somerset Road: At the intersection of Estes Drive and Somerset Road, the unsignalized
+intersection capacity analysis indicates all stop controlled movements operate at Level of Service D or
+better, an acceptable rate of flow during the peak hours.
+
+Estes Drive and Caswell Road/Clayton Road: The signalized intersection capacity analysis at Estes Drive
+and Caswell Road/Clayton Road indicates that all approaches operate at Level of Service C or better, a
+good rate of flow during the peak hours.
+
+Table 2 summarizes the intersection capacity analyses for the 2012 Existing Conditions. Figure 3
+presents the results of the 2012 Existing Conditions analysis graphically.
+
+
+
+
+                                                  9
+                                                                                       Traffic Impact Analysis
+                                                                                       Carolina Flats at Estes
+                                                                                    Chapel Hill, North Carolina
+
+                    Table 2: Intersection Capacity Analysis - 2012 Existing Traffic Conditions
+                                                             Level of Service         Volume-to-Capacity
+                                                                                            Ratio
+     Intersection               Traffic Movement                  Mid-                      Mid-
+                                                        AM                   PM     AM               PM
+                                                                  day                        day
+                                                        Peak                Peak    Peak            Peak
+                                                                  Peak                      Peak
+                              Overall Intersection       B         B            B   N/A     N/A      N/A
+                                                  L      F         F            F    .05     .08     .13
+                               Eastbound
+   Martin Luther                                 TR      F          F           F    .25      .28       .23
+      King, Jr.                                   L      F          F           F    .68      .42       .62
+                               Westbound
+   Boulevard at                                  TR      F          F           F    .40      .49       .47
+  Piney Mountain                                  L      A          A           A    .12      .03       .04
+       Road                   Northbound
+                                                 TR      A          A           A    .32      .29       .58
+                                                  L      A          A           A    .04      .06       .21
+                            Southbound
+                                                 TR      A          A           A    .46      .25       .37
+   Martin Luther
+   King, Jr. Blvd at            Westbound          R     B          A           A    .02      .01       .02
+   Shadowood Dr
+                                Overall Intersection     D          D           D   N/A       N/A      N/A
+                                                    L    E          E           F   .82       .79      .91
+                                Eastbound          T     F          F           E    .88      .79       .60
+                                                   R     D          D           D    .23      .06       .15
+    Martin Luther
+                                                    L    F          E           D    .96      .77       .62
+      King, Jr.
+    Boulevard at                Westbound           T    E          F           F    .58      .85       .98
+     Estes Drive                                   R     E          E           E    .57      .72       .86
+                                                    L    B          B           C    .17      .07       .31
+                                Northbound
+                                                   TR    C          C           D    .27      .29       .76
+                                                    L    C          B           E    .51      .39       .91
+                                Southbound
+                                                   TR    D          B           C    .65      .30       .57
+ Estes Drive at                 Eastbound          TL    A          A           A    .01      .01       .02
+ Somerset Drive                 Southbound         LR    C          C           D    .09      .03       .08
+                                Overall Intersection     A          A           A   N/A       N/A      N/A
+                                                    L    A          A           A    .42      .12       .31
+                                Eastbound
+                                                   TR    A          A           A    .32      .34       .43
+ Estes Drive at
+ Caswell                                            L    A          A           A    .29      .01       .02
+                                Westbound
+ Road/Clayton                                      TR    A          A           A    .29      .40       .59
+ Road                           Northbound        LTR    C          C           C    .14      .07       .10
+                                                   L     C          C           C    .20      .09       .22
+                                Southbound
+                                                   TR    B          B           B    .53      .41       .41
+Table 2: N/A - Not Applicable
+
+
+
+                                                        11
+                                                                                  Traffic Impact Analysis
+                                                                                  Carolina Flats at Estes
+                                                                               Chapel Hill, North Carolina
+3.0   FUTURE TRAFFIC CONDITIONS WITHOUT PROPOSED DEVELOPMENT
+
+
+Future traffic flow conditions without the proposed Carolina Flats at Estes are analyzed to provide a
+benchmark from which the effects of the proposed project’s impacts can be measured. This scenario is
+called the No Build Conditions. The future analysis year is projected to be 2015: one year after Carolina
+Flats at Estes is expected to be completed and fully occupied.
+
+The No Build Conditions traffic projections include traffic generated by all other development projects in
+the area that are already approved but not yet built. The Town of Chapel Hill identified the following
+developments to be included in this analysis:
+
+         Shortbread Loft development
+         UNC-Chapel Hill Main Campus Development Plan
+         Orange United Methodist Church Expansion
+         Carolina North Development
+         Parking Lot #5
+
+The Shortbread Lofts Developments is located on Rosemary Street between Roberson Street and
+Church Street in Chapel Hill. This development would replace the existing 3,550 square feet of office
+space and 22 apartment units with 5,545 square feet of retail space, 104 apartments and a private
+parking lot with 48 spaces.
+
+The UNC-Chapel Hill Main Campus Development Plan will add approximately 7.9 million gross square
+feet (GSF) of new development to the campus, including parking decks and infrastructure. The net
+increase in new occupied floor area is approximately 5.6 million square feet, or an estimated 49 percent
+increase over pre-2001 occupied floor area. As with the previous update, the growth projections used to
+estimate employee and student growth have been extended through 2015. Employee growth is
+anticipated to be 31 percent (4,497 additional employees) and student growth is anticipated to be 18
+percent (4,575 additional students) over the life of the Development Plan.
+
+The Orange United Methodist Church is located at the intersection of Martin Luther King, Jr. Boulevard
+(NC 86) and Homestead Road in Chapel Hill, North Carolina. The expansion will include adding 660 seats
+to the existing sanctuary, 34 students to the existing daycare and a Family Life Center. Access will be
+through one full access driveway and one exit driveway on Martin Luther King, Jr. Boulevard.
+
+The Carolina North Development is a new expansion project located in the northwest quadrant of the
+intersection of Martin Luther King, Jr. Boulevard at Estes Drive. The development consists of 260,000
+square feet of research facilities. Access to the site will be primarily through the intersection of Piney
+Mountain Road at Martin Luther King, Jr. Boulevard.
+
+The Parking Lot #5 is located on the southeast corner of the intersection of Rosemary Street with
+Church Street. The Parking Lot #5 will replace 165 parking spaces with 396 parking spaces serving 151
+residential dwelling units and 24,621 square feet of retail space, as well as continuing to provide public
+parking.
+
+
+
+
+                                                   12
+                                                                                             Traffic Impact Analysis
+                                                                                             Carolina Flats at Estes
+                                                                                          Chapel Hill, North Carolina
+
+
+3.1     Background Traffic
+
+The No Build or background traffic assignment is a two-step process. First, the 2012 existing traffic on
+area roads was increased by a growth rate of 1.50 percent per year for three years to obtain future
+background traffic volumes1. Second, traffic generated by other development projects that have not yet
+been completed was added to the background traffic. Traffic for the approved development projects is
+estimated as follows.
+
+Trip Generation: The AM, Mid-day, and PM Peak Hour trips generated by all developments included in
+the analysis were obtained from their respective Traffic Impact Analysis Reports (TIAs). The trips
+generated by each of these developments are shown in Table 3.
+
+Trip Distribution: The traffic distribution for the development projects was obtained from the respective
+TIAs.
+
+Modal Split: Although there are bus routes on Martin Luther King, Jr. Boulevard and Estes Drive, this
+study conservatively assumes that all background site travel is via auto. Any transit travel generated by
+other development projects would decrease the number of auto trips and improve the traffic conditions
+projected by this study.
+
+Trip Assignment: Off-site traffic is assigned to area roads using the trip distribution described in the
+traffic studies cited above. The trip assignments traffic diagrams for all the above mentioned
+developments are included in the technical appendix - Trip Assignment for Other Developments.
+
+
+Figure 4 illustrates the No Build Conditions.
+
+
+
+
+1
+    The background traffic growth rate was obtained from the Town of Chapel Hill Traffic Engineering Office.
+
+
+                                                           13
+                                                                                                       	
+
+                                                                                                       	
+			
+                                                                                                    
+
+                          	 Trip Generation Results of Background Project Traffic
+                                                  !                     &'             '+!             '
+                                                   "$%                     ()"$%            ()"$%             ()"$%
+                         
+
+
+
+
+                                                                 <))
+
+
+
+
+                                                                                        <))
+
+
+
+
+                                                                                                                <))
+
+
+
+
+                                                                                                                                       <))
+  
+
+
+
+
+
+                                                 ;)
+
+
+
+
+                                                                             ;)
+
+
+
+
+                                                                                                     ;)
+
+
+
+
+                                                                                                                            ;)
+                           
+    
+                        
+
+
+
+
+ 	
+   5,545 sq.ft retail space,
+                     104 apartments, 48                                                                         
+  
+         space parking lot
+ 	!"
+  $	"	%&        <&	=&	
+
+
+       <       <           >               ?@        ?@               
+'+	
+ Q	X"
+
+                    660 sanctuary seats, 34
+$
+"&%=                                                              >                           >        
+                    student day care center
+    YZ	&"
+ 	"	    <&[\\&	=
+                                                ?@         ?@                   >                                 
+  '             	="""&
+  +	]"X^      >+	]"X	=&        ?@          ?@             >                                              
+             
+             
+             
+
+
+
+
+                                                            14
+                                                                                    Traffic Impact Analysis
+                                                                                    Carolina Flats at Estes
+                                                                                 Chapel Hill, North Carolina
+
+4.0   PROPOSED PROJECT TRAFFIC
+
+
+The proposed development is located in the northeast quadrant of the Martin Luther King, Jr. Boulevard
+and Estes Drive intersection in Chapel Hill, North Carolina. The proposed development would include
+approximately 189 student apartment units and a 145 room hotel with a completion date of 2014. The
+proposed development would not replace any current development.
+
+Site Access: There are two driveways for the proposed development as described below:
+
+        Driveway #1 with full access/egress on Estes Drive east of Martin Luther King, Jr. Boulevard
+        Driveway #2 with right in/right out access/egress on Martin Luther King, Jr. Boulevard north of
+        Estes Drive
+
+Trip Generation: The trips generated by Carolina Flats at Estes were calculated using the trip generation
+rates for Apartments (Code 220) and for Hotel (310) from the ITE Trip Generation Manual 8th Edition
+(ITE, Washington, D.C., 2008). The proposed development would generate 2,068 vehicle trips per day.
+Of these trips, 123 vehicle trips would occur in the AM peak hour, 146 vehicle trips during the Mid-day
+peak hour, and 182 trips during the PM peak hour.
+
+Table 4 shows the trip rates and Table 5 shows the number of trips generated by the proposed Carolina
+Flats at Estes.
+
+4.1   Adjustments to Trip Generation Rates
+
+Pass-by Trips: There is no adjustment for pass-by trips for the proposed site.
+
+Internal Capture: There is no adjustment for internal capture for the proposed site.
+
+Modal Split: The apartment component of this development is proposed to comprise of student housing
+and majority of the students are expected to utilize the transit services for their commute to and from
+the university. Trip reduction factors for Daily, AM and PM Peak Hour trips were determined for the
+apartment units based on similar student apartment developments in the nearby area. Trip reduction
+factors for Daily, AM, Mid-Day and PM Peak Hours were determined as 10%, 50%, 50%, and 20%
+respectively. Additional description of the procedure and calculations of the traffic reductions factors
+are included in Appendix B. No trip reduction factors were applied to the traffic generated by the hotel.
+
+Trip Generation Budget: As the proposed development will be completed in a single phase, no trip
+generation budget is used.
+
+Trip Distribution: The new site traffic volumes were distributed to area roads based on current travel
+patterns developed from the traffic counts in the study area. Figures 5 and 6 show the site traffic
+distribution for the student apartments and hotel respectively.
+
+Trip Assignment: The new site traffic volumes were assigned to area roads using the trip distributions.
+Figures 7 and 8 illustrate the site traffic assignment for the apartments and hotels respectively. Figure 9
+illustrates the total site traffic assignment (apartment + hotel) from the proposed Carolina Flats at Estes
+development.
+
+
+
+                                                    16
+                                                                                                        Traffic Impact Analysis
+                                                                                                        Carolina Flats at Estes
+                                                                                                     Chapel Hill, North Carolina
+
+
+                                  Table 4: Site Trip Generation Rates
+                                             Shortbread Lofts
+
+                                                                                 AM Peak               Mid-day              PM Peak
+                                                 Weekday
+                                                                                  Hour                Peak Hour              Hour
+                                                  (vph)
+                                                                                  (vph)                 (vph)                (vph)
+           Land Use             Size
+
+
+
+
+                                                                   Outbound
+
+
+
+
+                                                                                          Outbound
+
+
+
+
+                                                                                                                Outbound
+
+
+
+
+                                                                                                                                     Outbound
+                                              Inbound
+
+
+
+
+                                                                                Inbound
+
+
+
+
+                                                                                                      Inbound
+
+
+
+
+                                                                                                                           Inbound
+Student Apartment Units       189 units      3.03                 3.03          .05       .21         .16       .16        .33       .18
+
+Hotel                         145 rooms      3.19                 3.19          .28       .17         .30       .30        .31       .28
+
+                    Total                    6.22                 6.22          .33       .38         .46       .46        .64       .46
+
+
+
+                                Table 5: Site Trip Generation Volumes
+                                             Shortbread Lofts
+
+
+                                                                                AM Peak                Mid day              PM Peak
+                                                        Weekday
+                                                                                 Hour                 Peak Hour              Hour
+                                                         (vph)
+                                                                                 (vph)                  (vph)                (vph)
+            Land Use               Size
+                                                                     Outbound
+
+
+
+
+                                                                                          Outbound
+
+
+
+
+                                                                                                                Outbound
+
+
+
+
+                                                                                                                                     Outbound
+                                                        Inbound
+
+
+
+
+                                                                                Inbound
+
+
+
+
+                                                                                                      Inbound
+
+
+
+
+                                                                                                                           Inbound
+Student Apartment Units          189 units       572              572           10        39          30        30         63        34
+
+Hotel                           145 rooms        462              462           40        25          43        43         45        40
+                      Total                   1,034               1,034         59        64          73        73         108       74
+
+
+
+
+                                                           17
+                                                                            Traffic Impact Analysis
+                                                                            Carolina Flats at Estes
+                                                                         Chapel Hill, North Carolina
+5.0   FUTURE TRAFFIC FORECASTS WITH THE PROPOSED DEVELOPMENT
+
+
+To obtain future traffic volumes with the proposed Carolina Flats at Estes development, new traffic
+demand generated by the development is added to the No Build Conditions. Figure 10 illustrates the
+total traffic volumes with the proposed development for the 2015 Build Conditions.
+
+
+
+
+                                                23
+                                                                                    Traffic Impact Analysis
+                                                                                    Carolina Flats at Estes
+                                                                                 Chapel Hill, North Carolina
+6.0     PROJECT IMPACTS
+
+
+Traffic flow through an intersection is affected by the volume of traffic, by the intersection geometry
+and by the traffic control device. These intersection-specific characteristics are used to define two
+measures of congestion: the average vehicle delay time and the Level of Service. Six Levels of Service --
+from A to F -- are related to vehicle delay, with Level of Service A representing no congestion, Level of
+Service E representing long delays, and Level of Service F representing excessive delays with vehicles
+having to wait several signal cycles to clear an intersection. Table 6 summarizes the Level of Service
+criteria.
+
+                              Table 6: Intersection Level of Service Criteria
+  Mean Delay Time per Vehicle           LOS by Volume-to-Capacity
+           (seconds)                               Ratio                             Description
+  With Signal    Without Signal         v/c <= 1.0       v/c > 1.0
+      Less than 10     Less than 10         A                 F                    Little or no delay
+        10 to 20         10 to 15           B                 F                   Short traffic delays
+        20 to 35         15 to 25           C                 F                 Average traffic delays
+        35 to 55         25 to 35           D                 F            Longer but acceptable delays
+        55 to 80         35 to 50            E                F                 Very long traffic delays
+  More than 80        More than 50           F                F           Unacceptably long traffic delays
+        Source: HCM 2010: Highway Capacity Manual, Volume 3: Interrupted Flow, Exhibit 18-4 and 19-1,
+          Transportation Research Board of the National Academies, Washington, D.C., 2010.
+
+At intersections with signals, the Volume-to-Capacity ratio is one of the parameters used in calculating
+Level of Service, and while Level of Service is related to capacity, the relationship is not a simple one.
+Signal cycle lengths, the quality of vehicle progression through adjacent intersections with signals and
+green signal time can affect the Levels of Service without varying the Volume-to-Capacity ratio. It is
+possible therefore, to have an intersection operating with a Volume-to-Capacity ratio of 1.0 (at
+capacity), while maintaining relatively low average delay times because of efficient intersection
+operating conditions (i.e. orderly progression, short cycle length, etc.). Similarly, poor operating
+conditions could result in Level of Service F (i.e. long delays to traffic) with Volume-to-Capacity ratios
+considerably below 1.0. Therefore, the designation of Level of Service F does not automatically imply
+that the intersection, approach, or lane group is overloaded, nor does a Level of Service in the A to E
+range automatically imply that the intersection is operating efficiently.
+
+At intersections without signals, Level of Service is evaluated for left-turning traffic volumes on the main
+road and for all traffic volumes on the minor road. It should be noted that the unsignalized intersection
+capacity analysis is extremely conservative. That is, if traffic demand on an approach is predicted to
+flow at Level of Service F (over capacity), then the intersection should be monitored to determine if a
+traffic signal or other intersection improvements are needed. In some cases, gaps in the traffic flow
+created by upstream and downstream signals will enable traffic demand at nearby unsignalized
+intersections to flow with little or no delay. This may not be reflected in the technical analysis.
+
+
+
+                                                    25
+                                                                                    Traffic Impact Analysis
+                                                                                    Carolina Flats at Estes
+                                                                                 Chapel Hill, North Carolina
+
+  The following factors have been used in the intersection capacity analyses:
+              Ideal saturation flow rate is 1,900 passenger cars per hour per lane (PCPH).
+              Peak hour factor of 0.90.
+
+  6.1   Arterial Capacity Analysis
+
+  The 2015 No Build and Build Conditions arterial capacity analysis indicates that the traffic demand along
+  Martin Luther King, Jr. Boulevard and Estes Drive would continue to exceed the roadway capacity limits
+  (Volume-to-Capacity ratios greater than 1.0) during at least one peak hour of the day, indicating a need
+  for additional roadway improvements.
+
+  This indicates that the traffic generated by the proposed Carolina Flats at Estes development would add
+  minimal impact on the surrounding area roads. Tables 7 and 8 show the results of the peak hour arterial
+  capacity analysis for the 2015 No Build and Build Conditions respectively.
+                                     Table 7: Arterial Capacity Analysis
+                                         2015 No Build Conditions
+
+                                                                                         Volume-to-Capacity
+                                                                Traffic Volume
+                                                                                               Ratio
+                  Direction of     No. of     Threshold
+  Segment                                                             Mid-                        Mid-
+                     Travel        Lanes      Capacity*      AM                 PM      AM                  PM
+                                                                      day                         day
+                                                             Peak              Peak     Peak               Peak
+                                                                      Peak                        Peak
+Martin Luther    Northbound                     1,600       1,043      958     1,642    0.65      0.59     1.02
+  King, Jr.                          2
+ Boulevard       Southbound                     1,600       1,597      911     1,362    0.99      0.57     0.85
+                  Eastbound                      550         806       576       762    1.47      1.05     1.39
+ Estes Drive                         1
+                  Westbound                        550       686        679     953     1.25      1.23     1.73
+  *Source: Guidelines for Traffic Impact Analysis, Town of Chapel Hill, October 2001.
+                                     Table 8: Arterial Capacity Analysis
+                                           2015 Build Conditions
+
+                                                                                         Volume-to-Capacity
+                                                                Traffic Volume
+                                                                                               Ratio
+                  Direction of     No. of     Threshold
+  Segment                                                             Mid-                        Mid-
+                     Travel        Lanes      Capacity*      AM                 PM      AM                  PM
+                                                                      day                         day
+                                                             Peak              Peak     Peak               Peak
+                                                                      Peak                        Peak
+Martin Luther    Northbound                     1,600       1,075     1,008    1,697    0.67      0.63     1.06
+  King, Jr.                          2
+ Boulevard       Southbound                     1,600       1,614      931     1,383    1.01      0.58     0.86
+                  Eastbound                      550         808       616       796    1.47      1.12     1.40
+ Estes Drive                         1
+                  Westbound                        550       690        721     985     1.25      1.31     1.79
+  *Source: Guidelines for Traffic Impact Analysis, Town of Chapel Hill, October 2001.
+
+
+
+
+                                                     26
+                                                                                 Traffic Impact Analysis
+                                                                                 Carolina Flats at Estes
+                                                                              Chapel Hill, North Carolina
+6.2   Access Analysis
+
+The proposed Carolina Flats at Estes would have two driveways as described below:
+
+        Driveway #1 with full access/egress on Estes Drive east of Martin Luther King, Jr. Boulevard
+        Driveway #2 with right in/right out access/egress on Martin Luther King, Jr. Boulevard north of
+        Estes Drive
+
+No additional access would be required for the proposed development.
+
+
+6.3   Signal Warrant Analysis
+
+Signal warrant analyses were performed for the following unsignalized intersections for the 2015 No
+Build and Build Conditions:
+        Martin Luther King, Jr. Boulevard at Shadowood Drive
+        Martin Luther King, Jr. Boulevard at Driveway #2 (Build Only)
+        Estes Drive at Driveway #1 (Build Only)
+        Estes Drive at Somerset Road
+
+Of the nine signal warrants described in the Manual on Uniform Traffic Control Devices (MUTCD) 2009
+edition, the required data was available to analyze the following three warrants: Warrant 2 - Four-Hour
+Vehicular Volume; Warrant 3 - Peak Hour Vehicular Volume; and Warrant 7 - Crash Experience. The
+following is a brief description of each of these warrants.
+
+Warrant 2 – Four-Hour Vehicular Volume: According to the MUTCD, the need for a traffic signal under
+the Four-Hour Vehicular Volume Warrant shall be considered if, during any four hours of an average
+day, the plotted points representing the vehicles per hour on the major street (total of both approaches)
+and corresponding vehicles per hour on the higher-volume minor-street approach (one-direction only)
+fall above the applicable curve representing the warrant threshold.
+
+Warrant 3 - Peak Hour: According to the MUTCD, the need for a traffic signal under the Peak Hour
+Warrant shall be considered if, for any one peak hour of an average day, the plotted points representing
+the vehicles per hour on the major street (total of both approaches) and the corresponding vehicles per
+hour on the higher-volume minor-street approach (one-direction only) fall above the applicable curve
+representing the warrant threshold.
+
+Warrant 7 – Crash Experience: According to the MUTCD, the need for a traffic signal under the Crash
+Experience Warrant shall be considered if five or more reported crashes, of types susceptible to
+correction by a traffic signal, have occurred within a 12-month period. Each crash must have involved
+personal injury or property damage apparently exceeding the applicable requirements for a reported
+crash.
+
+
+
+
+                                                   27
+                                                                                                 Traffic Impact Analysis
+                                                                                                 Carolina Flats at Estes
+                                                                                              Chapel Hill, North Carolina
+
+Martin Luther King, Jr. Boulevard at Shadowood Drive - 2015 No Build Conditions:
+
+Warrant 2 – Four-Hour Vehicular Volume: As shown in Figure 11, none of the points corresponding to
+the six, one hour counts available for this intersection fall above the four-hour vehicular volume curve.
+Based on this information, the conditions for Warrant 2 are not met for this intersection.
+
+Warrant 3 – Peak Hour: As shown in Figure 11, no peak hour counts for this intersection fall above the
+peak-hour vehicular volume curve. Based on this information, the conditions for Warrant 3 are not met
+for this intersection.
+
+Warrant 7 – Crash Experience: The NCDOT crash records show that there was an average of one crash
+per year at this intersection for the period from April 1, 2009 to March 31, 2012. Based on this
+information, the conditions for Warrant 7 are not met for this intersection.
+
+ Figure 11. 2015 No Build Conditions Signal Warrant Analysis – Martin Luther King, Jr. Boulevard at
+                                        Shadowood Drive
+
+                           700
+                                                                        Warrant 2 - Four-Hour Vehicular Volume
+                           600
+                                                                        Warrant 3 - Peak-Hour Vehicular Volume
+                           500
+   Shadowood Drive - VPH
+
+
+
+
+                                                                        Actual Hourly Count
+
+                           400
+
+
+                           300
+
+
+                           200
+
+
+                           100
+
+
+                             0
+                                 200   400      600      800     1000     1200     1400       1600      1800      2000
+                                       Martin Luther King, Jr. Boulevard - Total of Both Approaches - VPH
+
+
+
+
+                                                                  28
+                                                                                             Traffic Impact Analysis
+                                                                                             Carolina Flats at Estes
+                                                                                          Chapel Hill, North Carolina
+
+Estes Drive at Somerset Drive - 2015 No Build Conditions:
+
+Warrant 2 – Four-Hour Vehicular Volume: As shown in Figure 12, none of the points corresponding to
+the six, one hour counts available for this intersection fall above the four-hour vehicular volume curve.
+Based on this information, the conditions for Warrant 2 are not met for this intersection.
+
+Warrant 3 – Peak Hour: As shown in Figure 12, no peak hour counts for this intersection fall above the
+peak-hour vehicular volume curve. Based on this information, the conditions for Warrant 3 are not met
+for this intersection.
+
+Warrant 7 – Crash Experience: The NCDOT crash records show that there were less than two crashes
+per year at this intersection for the period from April 1, 2009 to March 31, 2012. Based on this
+information, the conditions for Warrant 7 are not met for this intersection.
+
+                Figure 12. 2015 No Build Conditions Signal Warrant Analysis – Estes Drive at Somerset Drive
+
+                          700
+                                                                    Warrant 2 - Four-Hour Vehicular Volume
+                          600
+                                                                    Warrant 3 - Peak-Hour Vehicular Volume
+
+                          500
+                                                                    Actual Hourly Count
+   Somerset Drive - VPH
+
+
+
+
+                          400
+
+
+                          300
+
+
+                          200
+
+
+                          100
+
+
+                            0
+                                200   400   600     800      1000     1200     1400       1600      1800      2000
+
+                                            Estes Drive - Total of Both Approaches - VPH
+
+
+
+
+                                                              29
+                                                                                                      Traffic Impact Analysis
+                                                                                                      Carolina Flats at Estes
+                                                                                                   Chapel Hill, North Carolina
+
+Martin Luther King, Jr. Boulevard at Shadowood Road - 2015 Build Conditions:
+
+Warrant 2 – Four-Hour Vehicular Volume: As shown in Figure 13, none of the points corresponding to
+the six, one hour counts available for this intersection fall above the four-hour vehicular volume curve.
+Based on this information, the conditions for Warrant 2 are not met for this intersection.
+
+Warrant 3 – Peak Hour: As shown in Figure 13, no peak hour counts for this intersection fall above the
+peak-hour vehicular volume curve. Based on this information, the conditions for Warrant 3 are not met
+for this intersection.
+
+   Figure 13. 2015 Build Conditions Signal Warrant Analysis – Martin Luther King, Jr. Boulevard at
+                                         Shadowood Drive
+
+                            700
+                                                                             Warrant 2 - Four-Hour Vehicular Volume
+                            600
+                                                                             Warrant 3 - Peak-Hour Vehicular Volume
+                            500
+    Shadowood Drive - VPH
+
+
+
+
+                                                                             Actual Hourly Count
+
+                            400
+
+
+                            300
+
+
+                            200
+
+
+                            100
+
+
+                              0
+                                  200      400      600      800     1000     1200      1400       1600      1800      2000
+                                        Martin Luther King, Jr. Boulevard - Total of Both Approaches - VPH
+
+
+
+
+                                                                      30
+                                                                                                    Traffic Impact Analysis
+                                                                                                    Carolina Flats at Estes
+                                                                                                 Chapel Hill, North Carolina
+
+Estes Drive at Somerset Drive - 2015 Build Conditions:
+
+Warrant 2 – Four-Hour Vehicular Volume: As shown in Figure 14, none of the points corresponding to
+the six, one hour counts available for this intersection fall above the four-hour vehicular volume curve.
+Based on this information, the conditions for Warrant 2 are not met for this intersection.
+
+Warrant 3 – Peak Hour: As shown in Figure 14, no peak hour counts for this intersection fall above the
+peak-hour vehicular volume curve. Based on this information, the conditions for Warrant 3 are not met
+for this intersection.
+
+                          Figure 14. 2015 Build Conditions Signal Warrant Analysis – Estes Drive at Somerset Drive
+
+                           700
+                                                                           Warrant 2 - Four-Hour Vehicular Volume
+                           600
+                                                                           Warrant 3 - Peak-Hour Vehicular Volume
+
+                           500
+                                                                           Actual Hourly Count
+   Somerset Drive - VPH
+
+
+
+
+                           400
+
+
+                           300
+
+
+                           200
+
+
+                           100
+
+
+                             0
+                                 200    400      600       800     1000      1200     1400       1600      1800      2000
+
+                                                 Estes Drive - Total of Both Approaches - VPH
+
+
+
+
+                                                                    31
+                                                                                              Traffic Impact Analysis
+                                                                                              Carolina Flats at Estes
+                                                                                           Chapel Hill, North Carolina
+
+Martin Luther King, Jr. Boulevard at Driveway # 2 - 2015 Build Conditions:
+
+Warrant 2 – Four-Hour Vehicular Volume: As shown in Figure 15, none of the points corresponding to
+the six, one hour counts available for this intersection fall above the four-hour vehicular volume curve.
+Based on this information, the conditions for Warrant 2 are not met for this intersection.
+
+Warrant 3 – Peak Hour: As shown in Figure 15, no peak hour counts for this intersection fall above the
+peak-hour vehicular volume curve. Based on this information, the conditions for Warrant 3 are not met
+for this intersection.
+
+
+   Figure 15. 2015 Build Conditions Signal Warrant Analysis – Martin Luther King, Jr. Boulevard at
+                                            Driveway #2
+
+                        700
+                                                                     Warrant 2 - Four-Hour Vehicular Volume
+                        600
+                                                                     Warrant 3 - Peak-Hour Vehicular Volume
+                        500
+                                                                     Actual Hourly Count
+    Driveway #2 - VPH
+
+
+
+
+                        400
+
+
+                        300
+
+
+                        200
+
+
+                        100
+
+
+                          0
+                              200   400     600      800     1000     1200      1400       1600      1800      2000
+                                    Martin Luther King, Jr. Boulevard - Total of Both Approaches - VPH
+
+
+
+
+                                                              32
+                                                                                                Traffic Impact Analysis
+                                                                                                Carolina Flats at Estes
+                                                                                             Chapel Hill, North Carolina
+
+Estes Drive at Driveway # 1 - 2015 Build Conditions:
+
+Warrant 2 – Four-Hour Vehicular Volume: As shown in Figure 16, none of the points corresponding to
+the six, one hour counts available for this intersection fall above the four-hour vehicular volume curve.
+Based on this information, the conditions for Warrant 2 are not met for this intersection.
+
+Warrant 3 – Peak Hour: As shown in Figure 16, no peak hour counts for this intersection fall above the
+peak-hour vehicular volume curve. Based on this information, the conditions for Warrant 3 are not met
+for this intersection.
+
+
+
+                       Figure 16. 2015 Build Conditions Signal Warrant Analysis – Estes Drive at Driveway #1
+
+                       700
+                                                                       Warrant 2 - Four-Hour Vehicular Volume
+                       600
+                                                                       Warrant 3 - Peak-Hour Vehicular Volume
+
+                       500
+                                                                       Actual Hourly Count
+   Driveway #1 - VPH
+
+
+
+
+                       400
+
+
+                       300
+
+
+                       200
+
+
+                       100
+
+
+                         0
+                             200   400       600      800      1000     1200      1400       1600      1800      2000
+
+                                         Estes Drive - Total of Both Approaches - VPH
+
+
+
+
+In summary, traffic demand at none of the four unsignalized study intersections would not warrant
+traffic signals under the 2015 No Build or the 2015 Build Conditions. As the traffic demand in the area
+increases and/or new development projects occur in the area, these intersections should be monitored
+to determine a need for traffic signals in the future.
+
+
+
+
+                                                                33
+                                                                                     Traffic Impact Analysis
+                                                                                     Carolina Flats at Estes
+                                                                                  Chapel Hill, North Carolina
+6.4   Signal Phasing Analysis
+
+The signalized intersection of Martin Luther King, Jr. Boulevard/Estes Drive has multi-phase signal
+controllers that can accommodate variations in traffic flow.
+
+6.5   Crash Analysis
+
+Crash data were obtained from the NCDOT for the 36-month period (3 years) from April 1, 2009 to
+March 31, 2012 for the locations most likely to be impacted by the proposed development. The
+following roadway segments were included in the crash analysis:
+
+        Martin Luther King, Jr. Boulevard from Ashley Forest Road to Airport Drive
+        Estes Drive from Halifax Road to Airport Drive
+
+The following intersections were included in the crash analysis:
+
+        Martin Luther King, Jr. Boulevard and Piney Mountain Road/Municipal Drive
+        Martin Luther King, Jr. Boulevard and Shadowood Drive
+        Martin Luther King, Jr. Boulevard and Estes Drive
+        Estes Drive and Somerset Drive
+        Estes Drive and Caswell Road/Clayton Road
+
+On Martin Luther King, Jr. Boulevard between Ashley Forest Road and Airport Drive, 84 crashes were
+reported during the three-year study period resulting in a crash rate of 342 crashes per 100 million
+vehicle miles travelled (MVMT). Of these, 53 were rear-end crashes, 15 were turning, and five were
+angle roadway crashes. The possible causes of these crashes might be attributed to congestion along
+the corridor and signalized intersections. Also, the angle/left/right-turning crashes are likely the result of
+impatient drivers who misjudge the speed of oncoming traffic.
+
+During the three-year period, 63 crashes were reported on Estes Drive between Airport Drive and
+Halifax Road resulting in a crash rate of 340 crashes per 100 MVMT. Of these, 34 were rear-end crashes
+and 16 were angle/left-turning crashes. As with the Martin Luther King, Jr. Boulevard segment, possible
+causes of these crashes might be attributed to congestion along the corridor and signalized
+intersections. The angle/left/right-turning crashes are likely the result of impatient drivers who
+misjudge the speed of oncoming traffic.
+
+During the three-year period, 15 crashes were reported at the intersection of Martin Luther King, Jr.
+Boulevard at Piney Mountain Drive. Of these, 10 were rear-end crashes, with the rest being dispersed
+between angle, left-turn and sideswipe type crashes. The possible causes of the high number of rear-
+end crashes might be attributed to congestion along the corridor and signalized intersection.
+
+At the intersection of Martin Luther King, Jr. Boulevard at Shadowood Drive, 3 crashes were reported.
+Of these, two were rear-end crashes and one was a left-turning crash.
+
+During the three-year period, 34 crashes were reported at the intersection of Martin Luther King, Jr.
+Boulevard at Estes Drive. Of these, 17 were rear-end crashes, with the rest being dispersed between
+angle, left-turn (same and different roadways), right-turn and sideswipe type crashes. The possible
+
+
+
+                                                     34
+                                                                                  Traffic Impact Analysis
+                                                                                  Carolina Flats at Estes
+                                                                               Chapel Hill, North Carolina
+
+causes of the high number of rear-end crashes might be attributed to congestion along the corridor and
+signalized intersection.
+
+During the three-year period, four crashes were reported at the intersection of Estes Drive at Somerset
+Drive. All of these were rear-end crashes.
+
+During the three-year period, eight crashes were reported at the intersection of Estes Drive and Caswell
+Road/Clayton Road. Of these, five were rear-end crashes, two were angle, and one was ran off road
+crash.
+
+The state-wide average crash rate for a roadway similar to Martin Luther King, Jr. Boulevard is 258
+crashes per 100 MVMT and 228 crashes per 100 MVMT along Estes Drive. This indicates that Martin
+Luther King, Jr. Boulevard has about 30% more crashes than the state-wide average. Similarly, Estes
+Drive has about 50% more crashes than the state-wide average. The high crash rate could be attributed
+to congestion present along Martin Luther King, Jr. Boulevard and Estes Drive. It should also be noted
+that crash rate calculations for smaller sections, generally, result in skewed results as is in this case.
+
+The new traffic demand generated by the proposed project would have little impact on safety
+conditions in the study area. Table 9 presents the number of crashes by type in the study area.
+
+                                  Table 9: Number of Crashes by Type
+                                     April 1, 2009 – March 31, 2012
+
+                                               Crash    Rear-
+              Location                 TOTAL                           Left-turn     Angle     Other*
+                                                Rate     end
+                                          Roadway Segments
+    NC 86 (Martin Luther King, Jr.
+    Blvd) from Ashley Forest Road        84        342         53         15           5         11
+            to Airport Drive
+   Estes Drive from Halifax Road to
+                                         63        340         34         11           5         13
+             Airport Drive
+                                               Intersections
+    NC 86 (Martin Luther King, Jr.
+                                         15         47         10          3           1          1
+   Blvd) and Piney Mountain Road
+    NC 86 (Martin Luther King, Jr.
+                                         3           9         2           1           0          0
+     Blvd) and Shadowood Drive
+    NC 86 (Martin Luther King, Jr.
+                                         34         78         17          7           4          6
+   Blvd) and SR 1780 (Estes Drive)
+
+   Estes Drive and Somerset Drive        4          23         4           0           0          0
+
+       Estes Drive and Clayton
+                                         8          22         5           0           2          1
+         Road/Caswell Road
+*Other crashes include crashes caused by backing up, head-on, fixed object, other collision, parked
+motor vehicle, pedestrian, ran off road, or unknown. Source: Collision Data, North Carolina Department
+of Transportation from April 1, 2009 – March 31, 2012
+
+
+                                                    35
+                                                                                 Traffic Impact Analysis
+                                                                                 Carolina Flats at Estes
+                                                                              Chapel Hill, North Carolina
+6.6   Progression Analysis
+
+Since the two signalized study intersections (Piney Mountain and Estes Drive along Martin Luther King,
+Jr. Drive) are part of the signal system and the proposed development does not add significant number
+of vehicles to these intersections during the peak hour, no progression analysis was conducted as part of
+this study.
+
+6.7   Peak Hour Intersection Capacity Analysis
+
+A comparison of the 2015 traffic flow conditions without the proposed project (the No Build Conditions)
+to the 2015 traffic flow conditions with the proposed project in place (the Build Conditions) determines
+the impacts of the proposed project on the surrounding roadway network.
+
+
+2015 No Build Conditions:
+
+Martin Luther King, Jr. Boulevard and Piney Mountain Road/Municipal Road: The signalized
+intersection capacity analysis at Martin Luther King, Jr. Boulevard and Piney Mountain Road/Municipal
+Road indicates that this intersection on the whole would function at Level of Service C or better, a good
+rate of flow, during the peak hours. The northbound and southbound approaches would function at
+Level of Service D or better, an acceptable rate of flow. The eastbound approach of Municipal Road and
+westbound approach of Piney Mountain Road would continue to exceed roadway capacity limits (LOS F)
+during the peak hours.
+
+Martin Luther King, Jr. Boulevard and Shadowood Drive: At the intersection of Martin Luther King, Jr.
+Boulevard and Shadowood Drive, the unsignalized intersection capacity analysis indicates that the
+westbound stop controlled right-turn movement would operate at a Level of Service B or better, a very
+good rate of flow during the peak hours.
+
+Martin Luther King, Jr. Boulevard and Estes Drive: The signalized intersection capacity analysis at
+Martin Luther King, Jr. Boulevard and Estes Drive indicates that this intersection on the whole would
+approach its roadway capacity limits (Level of Service E) during the peak hours. Martin Luther King, Jr.
+Boulevard northbound and southbound approaches would function at Level of Service D or better, an
+acceptable rate of flow, during the peak hours with one exception. The exception is the southbound left-
+turn movement which would flow at Level of Service F( exceeding its roadway capacity limits) during PM
+peak Hour. The eastbound and westbound approaches of Estes Drive would also approach or exceed its
+roadway capacity limits (Level of Service E or F) during the peak hours.
+
+Estes Drive and Somerset Road: At the intersection of Estes Drive and Somerset Road, the unsignalized
+intersection capacity analysis indicates the southbound stop controlled movements would approach
+roadway capacity limits (LOS E) during at least one peak hour.
+
+Estes Drive and Caswell Road/Clayton Road: The signalized intersection capacity analysis at Estes Drive
+and Caswell Road/Clayton Road indicates that all approaches at this intersection would function at a
+Level of Service C or better, a good rate of flow during the peak hours.
+
+The intersection capacity analyses for the 2015 No Build Conditions are summarized in Table 10.
+
+
+
+
+                                                   36
+                                                                                        Traffic Impact Analysis
+                                                                                        Carolina Flats at Estes
+                                                                                     Chapel Hill, North Carolina
+
+                       Table 10: Intersection Capacity Analysis - 2015 No Build Conditions
+                                                              Level of Service         Volume-to-Capacity
+                                                                                             Ratio
+     Intersection                Traffic Movement                  Mid-                      Mid-
+                                                         AM                   PM     AM               PM
+                                                                   day                        day
+                                                         Peak                Peak    Peak            Peak
+                                                                   Peak                      Peak
+                              Overall Intersection        B         C            C   N/A     N/A      N/A
+                                                  L       F         E            E    .18     .27     .29
+                               Eastbound
+   Martin Luther                                 TR       F         F            F    .59     .68     .76
+      King, Jr.                                   L       F         F            F    .69     .42     .64
+                               Westbound
+   Boulevard at                                  TR       F         F            F    .43     .52     .48
+  Piney Mountain                                  L       D         B            B    .88     .32     .29
+       Road                   Northbound
+                                                 TR       A         B            C    .36     .37     .77
+                                                  L       A         A            D    .06     .09     .55
+                            Southbound
+                                                 TR       A         A            B    .56     .34     .50
+ Martin Luther
+ King, Jr. Blvd at               Westbound          R     B          B           B    .02      .01       .02
+ Shadowood Dr
+                                 Overall Intersection     E          D           E   N/A       N/A      N/A
+                                                     L    F          F           F   .95       .92      .97
+                                 Eastbound          T     F          F           E    .90      .80       .61
+                                                     R    D          D           D   .24       .06      .15
+    Martin Luther                                    L    F          F           D   1.01      .97      .65
+      King, Jr.
+                                 Westbound           T    F          F           F   .61       .85      1.01
+    Boulevard at
+     Estes Drive                                     R    E          E           F   .74       .82      .93
+                                                     L    B          B           C   .22       .09      .43
+                                 Northbound
+                                                    TR    C          C           D   .34       .36      .90
+                                                     L    C          C           F   .61       .52      1.33
+                                 Southbound
+                                                    TR    D          C           D   .74       .36      .68
+ Estes Drive at                   Eastbound         TL    A          A           A   .01       .01      .02
+ Somerset Drive                  Southbound         LR    C          C           E   .10       .03      .09
+                                 Overall Intersection     A          A           A   N/A       N/A      N/A
+                                                    L     A          A           A    .29      .14       .42
+                                 Eastbound
+                                                    TR    A          A           A    .54      .38       .52
+ Estes Drive at
+ Caswell                                            L     A          A           A    .01      .01       .02
+                                 Westbound
+ Road/Clayton                                       TR    A          A           A    .45      .46       .69
+ Road
+                                 Northbound        LTR    C          C           C    .14      .07       .09
+                                                    L     C          C           C    .21      .10       .21
+                                 Southbound
+                                                    TR    B          B           B    .54      .42       .54
+Table 10: N/A - Not Applicable
+
+
+
+
+                                                         37
+                                                                                 Traffic Impact Analysis
+                                                                                 Carolina Flats at Estes
+                                                                              Chapel Hill, North Carolina
+
+2015 Build Conditions:
+
+Martin Luther King, Jr. Boulevard and Piney Mountain Road/Municipal Road: The signalized
+intersection capacity analysis at Martin Luther King, Jr. Boulevard and Piney Mountain Road/Municipal
+Road indicates that this intersection on the whole would continue to operate at a Level of Service C or
+better, a good rate of flow, during the peak hours. The northbound and southbound approaches would
+function at Level of Service D or better, an acceptable rate of flow with one exception. The exception is
+northbound left-turn movement, which would flow at Level of Service E (approaching its roadway
+capacity limits) during AM Peak Hour. This change in Level of Service would result in increase of an
+average delay of approximately seven seconds per vehicle to 153 vehicles in the AM Peak Hour. The
+eastbound approach of Municipal Road and westbound approach of Piney Mountain Road would
+continue to exceed its roadway capacity limits (LOS F) during the peak hours.
+
+Martin Luther King, Jr. Boulevard and Shadowood Drive: At the intersection of Martin Luther King, Jr.
+Boulevard and Shadowood Drive, the unsignalized intersection capacity analysis indicates that the
+westbound stop controlled right-turn movement would operate at Level of Service B or better, a very
+good rate of flow during the peak hours.
+
+Martin Luther King, Jr. Boulevard and Driveway #2: At the intersection of Martin Luther King, Jr.
+Boulevard and Shadowood Drive, the unsignalized intersection capacity analysis indicates that the
+westbound stop controlled right-turn movement would operate at Level of Service B or better, a very
+good rate of flow during the peak hours.
+
+Martin Luther King, Jr. Boulevard and Estes Drive: The signalized intersection capacity analysis at
+Martin Luther King, Jr. Boulevard and Estes Drive indicates that this intersection on the whole would
+approach roadway capacity limits (Level of Service E) during the peak hours. Martin Luther King, Jr.
+Boulevard northbound and southbound approaches would function at a Level of Service D or better, an
+acceptable rate of flow, during the peak hours with one exception. The exception is southbound left-
+turn movement, which would flow at Level of Service F (exceeding its roadway capacity limits) during
+PM Peak Hour. The eastbound and westbound approaches of Estes Drive would approach or exceed its
+roadway capacity limits (LOS E or F) during the peak hours.
+
+Estes Drive and Driveway #1: At the intersection of Estes Drive and Driveway #1, the unsignalized
+intersection capacity analysis indicates southbound stop controlled movements would operate at Level
+of Service D or better, an acceptable rate of flow during the peak hours.
+
+Estes Drive and Somerset Road: At the intersection of Estes Drive and Somerset Road, the unsignalized
+intersection capacity analysis indicates that the southbound stop controlled movements would
+approach its roadway capacity limits (Level of Service E) during at least one peak hour.
+
+Estes Drive and Caswell Road/Clayton Road: The signalized intersection capacity analysis at Estes Drive
+and Caswell Road/Clayton Road indicates that all approaches of this intersection would operate at Level
+of Service C or better, a good rate of flow during the peak hours.
+
+In summary, the 2015 Build Conditions traffic flow would be similar to the 2015 No Build Conditions
+indicating that the traffic generated by the proposed Carolina Flats at Estes development would have
+
+
+
+
+                                                   38
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: MLK Jr Blvd -- Piney Mountain Rd                                                                                    QC JOB #: 10744801
+ CITY/STATE: Chapel Hill, NC                                                                                                   DATE: Tue, Apr 24 2012
+                    1263          764                          Peak-Hour: 7:45 AM -- 8:45 AM                                    3.5        6.4
+                         6 1238 19
+                                                              Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                0.0 3.5 5.3
+
+       36    2                          42    198
+                                                                                                                 25.0   0.0                        4.8      3.5
+             1             0.96          0
+                                                                                                                        0.0                        0.0
+       13    10                         156   104
+                                                                                                                 23.1   30.0                       3.2      6.7
+
+                        30 720 84
+                                                                                                                                30.0 6.5 7.1
+                    1404          834
+                                                                                                                                3.6        7.4
+
+
+
+                            1                                                                                                    0    6    0
+
+
+                                                                                                                        0                           0
+
+             0                           3                                                                              0                           0
+
+                                                                                                                        0                           0
+
+
+                            0                                                                                                    0    1    0
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+
+             NA                         NA                                                                              NA                         NA
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+15-Min Count               MLK Jr Blvd                      MLK Jr Blvd           Piney Mountain Rd           Piney Mountain Rd
+   Period                 (Northbound)                     (Southbound)              (Eastbound)                 (Westbound)                                 Hourly
+Beginning At                                                                                                                                     Total
+                  Left     Thru Right         U     Left    Thru Right    U   Left Thru Right         U   Left Thru Right             U                      Totals
+   7:00 AM          4      109      4         0       3     155      3    0     1      0      0       0    23      0      5           0          307
+   7:15 AM          2      121     10         0       0     226      2    0     0      0      2       0    23      0     12           0          398
+   7:30 AM          2      135     14         0       1     307      2    0     0      0      4       0    41      0     15           0          521
+   7:45 AM          6      184     26         0       3     321      0    0     0      0      1       0    33      0     10           0          584             1810
+   8:00 AM         10      170     17         0       5     327      1    0     0      0      4       0    55      0     11           0          600             2103
+   8:15 AM          8      171     16         0       7     289      2    0     2      0      2       0    36      0     16           0          549             2254
+   8:30 AM          6      195     25         0       4     301      3    0     0      1      3       0    32      0      5           0          575             2308
+   8:45 AM          2      184     14         0       8     292      0    0     2      0      4       0    19      1      7           0          533             2257
+
+
+
+
+ Peak 15-Min                   Northbound                   Southbound                   Eastbound                    Westbound
+                                                                                                                                                         Total
+  Flowrates       Left     Thru Right     U         Left Thru Right    U      Left   Thru Right    U      Left    Thru Right    U
+  All Vehicles     40      680      68    0          20 1308     4     0        0      0     16    0      220       0     44    0                        2400
+ Heavy Trucks      12       60       8                0   44     0              0      0      4             8       0      0                              136
+  Pedestrians                0                             4                           0                            0                                      4
+   Bicycles         0        0       0                0    1     0              0      0      0             0       0      0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: MLK Jr Blvd -- Piney Mountain Rd                                                                                     QC JOB #: 10744803
+ CITY/STATE: Chapel Hill, NC                                                                                                    DATE: Tue, Apr 24 2012
+                     721            738                         Peak-Hour: 12:30 PM -- 1:30 PM                                   4.6        5.8
+                         6   684 31
+                                                               Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                                 0.0 4.5 6.5
+
+       26    5                            31   105
+                                                                                                                  34.6   40.0                       3.2      1.9
+             1               0.97          1
+                                                                                                                         0.0                        0.0
+       21    15                           73   105
+                                                                                                                  38.1   40.0                       1.4      5.7
+
+                        19 702 73
+                                                                                                                                 47.4 5.7 5.5
+                     772            794
+                                                                                                                                 4.9        6.7
+
+
+
+                              0                                                                                                   0    1    0
+
+
+                                                                                                                         0                           0
+
+             0                             0                                                                             0                           0
+
+                                                                                                                         0                           0
+
+
+                              0                                                                                                   0    0    0
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                         NA
+
+
+
+
+                              NA                                                                                                       NA
+
+
+
+15-Min Count                  MLK Jr Blvd                    MLK Jr Blvd           Piney Mountain Rd           Piney Mountain Rd
+   Period                    (Northbound)                   (Southbound)              (Eastbound)                 (Westbound)                                 Hourly
+Beginning At                                                                                                                                      Total
+                  Left        Thru Right       U     Left    Thru Right    U   Left Thru Right         U   Left Thru Right             U                      Totals
+  11:30 AM          3         164      9       0       6     157      1    0     2      0      7       0    20      0      6           0          375
+  11:45 AM          2         179     13       0       2     153      0    0     2      2      4       0    23      0      7           0          387
+  12:00 PM          4         184     19       0       6     168      1    0     2      0      4       0    10      0     16           0          414
+  12:15 PM          1         178     10       0       8     180      1    0     1      0      1       0    15      0      9           0          404             1580
+  12:30 PM          6         153     18       0       7     165      2    0     0      0      3       0    18      0      7           0          379             1584
+  12:45 PM          3         187     17       0       6     176      2    0     2      0      6       0    14      0     11           0          424             1621
+   1:00 PM          8         172     20       0       9     178      0    0     1      0      3       0    23      0     10           0          424             1631
+   1:15 PM          2         190     18       0       9     165      2    0     2      1      3       0    18      1      3           0          414             1641
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                 Eastbound                    Westbound
+                                                                                                                                                          Total
+  Flowrates       Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U      Left    Thru Right    U
+  All Vehicles     12        748      68    0         24    704     8     0      8      0     24    0       56       0     44    0                        1696
+ Heavy Trucks       8         28       0               0     40     0            4      0      4             0       0      0                              84
+  Pedestrians                  0                              0                         0                            0                                      0
+   Bicycles         0          0       0               0      1     0            0      0      0             0       0      0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: MLK Jr Blvd -- Piney Mountain Rd                                                                                    QC JOB #: 10744802
+ CITY/STATE: Chapel Hill, NC                                                                                                   DATE: Tue, Apr 24 2012
+                    1043          1398                          Peak-Hour: 4:45 PM -- 5:45 PM                                   2.5        2.4
+                         6 1000 37
+                                                               Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                                33.3 2.3 2.7
+
+       23    8                           38    164
+                                                                                                                  13.0   0.0                       7.9      3.0
+             3             0.96           4
+                                                                                                                         0.0                       0.0
+       26    15                          122   165
+                                                                                                                  3.8    6.7                       1.6      1.8
+
+                     13 1352 125
+                                                                                                                                7.7 2.3 1.6
+                    1137          1490
+                                                                                                                                2.3        2.3
+
+
+
+                            1                                                                                                    0    2    0
+
+
+                                                                                                                         0                          0
+
+             0                            6                                                                              0                          0
+
+                                                                                                                         0                          0
+
+
+                            0                                                                                                    0    2    0
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+
+             NA                          NA                                                                              NA                        NA
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+15-Min Count               MLK Jr Blvd                       MLK Jr Blvd           Piney Mountain Rd           Piney Mountain Rd
+   Period                 (Northbound)                      (Southbound)              (Eastbound)                 (Westbound)                                Hourly
+Beginning At                                                                                                                                     Total
+                  Left     Thru Right          U     Left    Thru Right    U   Left Thru Right         U   Left Thru Right            U                      Totals
+   4:00 PM          7      249     29          0       6     192      0    0     1      0      4       0    15      0      9          0          512
+   4:15 PM          5      257     20          0      13     174      0    0     0      0      1       0    22      0      9          0          501
+   4:30 PM          2      307     21          0       7     166      1    0     0      0      0       0    30      0      6          0          540
+   4:45 PM          3      340     36          0       9     236      0    0     5      1      0       0    29      0      8          0          667             2220
+   5:00 PM          2      382     30          0       7     239      3    0     1      0      3       0    27      1     12          0          707             2415
+   5:15 PM          3      349     32          0      10     248      1    0     2      1      5       0    26      2      8          0          687             2601
+   5:30 PM          5      281     27          0      11     277      2    0     0      1      7       0    40      1     10          0          662             2723
+   5:45 PM          7      288     31          0      15     246      1    0     4      2      3       0    40      0     15          0          652             2708
+
+
+
+
+ Peak 15-Min               Northbound                          Southbound                 Eastbound                    Westbound
+                                                                                                                                                         Total
+  Flowrates       Left Thru Right     U              Left   Thru Right    U    Left   Thru Right    U      Left    Thru Right    U
+  All Vehicles      8 1528    120     0               28    956    12     0      4      0     12    0      108       4     48    0                       2828
+ Heavy Trucks       0   36      0                      0     16     4            0      0      0             0       0      4                             60
+  Pedestrians            0                                    0                         0                            4                                     4
+   Bicycles         0    0      0                      0      0     0            0      0      0             0       0      0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                          Method for determining peak hour: Total Entering Volume
+ LOCATION: MLK Jr Blvd -- Shadowood Dr                                                                                     QC JOB #: 10744804
+ CITY/STATE: Chapel Hill, NC                                                                                               DATE: Tue, Apr 24 2012
+                    1411            835                        Peak-Hour: 7:45 AM -- 8:45 AM                                4.0        7.9
+                         0 1411 0
+                                                              Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                            0.0 4.0 0.0
+
+       0     0                             9   12
+                                                                                                               0.0   0.0                       0.0      0.0
+             0               0.93          0
+                                                                                                                     0.0                       0.0
+       0     0                             3   12
+                                                                                                               0.0   0.0                       0.0      0.0
+
+                         0   826 12
+                                                                                                                            0.0 8.0 0.0
+                    1414            838
+                                                                                                                            4.0        7.9
+
+
+
+                              0                                                                                              0    4    0
+
+
+                                                                                                                     0                          0
+
+             0                             4                                                                         0                          0
+
+                                                                                                                     0                          0
+
+
+                              0                                                                                              0    1    0
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+
+             NA                           NA                                                                         NA                        NA
+
+
+
+
+                              NA                                                                                                  NA
+
+
+
+15-Min Count                  MLK Jr Blvd                   MLK Jr Blvd            Shadowood Dr             Shadowood Dr
+   Period                    (Northbound)                  (Southbound)             (Eastbound)              (Westbound)                                 Hourly
+Beginning At                                                                                                                                 Total
+                  Left        Thru Right       U    Left    Thru Right    U   Left Thru Right     U    Left Thru Right            U                      Totals
+   7:00 AM          0         118      1       0      0     181      0    0     0     0      0    0      2     0     3            0          305
+   7:15 AM          0         128      2       0      2     252      0    0     0     0      0    0      0     0     3            0          387
+   7:30 AM          0         157      2       0      1     353      0    0     0     0      0    0      1     0     1            0          515
+   7:45 AM          0         210      1       0      0     342      0    0     0     0      0    0      0     0     2            0          555             1762
+   8:00 AM          0         199      3       0      0     399      0    0     0     0      0    0      2     0     2            0          605             2062
+   8:15 AM          0         197      3       0      0     339      0    0     0     0      0    0      0     0     2            0          541             2216
+   8:30 AM          0         220      5       0      0     331      0    0     0     0      0    0      1     0     3            0          560             2261
+   8:45 AM          0         195      0       0      1     314      0    0     0     0      0    0      2     0     5            0          517             2223
+
+
+
+
+ Peak 15-Min                     Northbound                 Southbound                   Eastbound                  Westbound
+                                                                                                                                                     Total
+  Flowrates       Left       Thru Right     U       Left Thru Right    U      Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles      0        796      12    0         0 1596     0     0        0      0      0    0      8       0      8    0                      2420
+ Heavy Trucks       0         80       0              0   80     0              0      0      0           0       0      0                            160
+  Pedestrians                  0                           0                           0                          4                                    4
+   Bicycles         0          0       0              0    0     0              0      0      0           0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: MLK Jr Blvd -- Shadowood Dr                                                                                        QC JOB #: 10744806
+ CITY/STATE: Chapel Hill, NC                                                                                                  DATE: Tue, Apr 24 2012
+                     778            793                          Peak-Hour: 12:30 PM -- 1:30 PM                                5.1        6.4
+                         0   776     2
+                                                                 Peak 15-Min: 1:00 PM -- 1:15 PM
+                                                                                                                               0.0 5.2 0.0
+
+       0     0                             3       3
+                                                                                                                  0.0   0.0                       0.0      0.0
+             0               0.97          0
+                                                                                                                        0.0                       0.0
+       0     0                             0   15
+                                                                                                                  0.0   0.0                       0.0      0.0
+
+                         0   790 13
+                                                                                                                               0.0 6.5 0.0
+                     776            803
+                                                                                                                               5.2        6.4
+
+
+
+                              0                                                                                                 0    1    0
+
+
+                                                                                                                        0                          0
+
+             0                            11                                                                            0                          0
+
+                                                                                                                        0                          0
+
+
+                              0                                                                                                 0    1    0
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+
+             NA                           NA                                                                            NA                        NA
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+15-Min Count                  MLK Jr Blvd                      MLK Jr Blvd            Shadowood Dr             Shadowood Dr
+   Period                    (Northbound)                     (Southbound)             (Eastbound)              (Westbound)                                 Hourly
+Beginning At                                                                                                                                    Total
+                  Left        Thru Right       U       Left    Thru Right    U   Left Thru Right     U    Left Thru Right            U                      Totals
+  11:30 AM          0         179      4       0         0     180      0    0     0     0      0    0      1     0     0            0          364
+  11:45 AM          0         189      3       0         1     181      0    0     0     0      0    0      1     0     2            0          377
+  12:00 PM          0         209      4       0         0     177      0    0     0     0      0    0      0     0     0            0          390
+  12:15 PM          0         196      4       0         0     194      0    0     0     0      0    0      0     0     0            0          394             1525
+  12:30 PM          0         177      5       0         0     191      0    0     0     0      0    0      0     0     1            0          374             1535
+  12:45 PM          0         210      4       0         0     192      0    0     0     0      0    0      0     0     0            0          406             1564
+   1:00 PM          0         199      4       0         0     205      0    0     0     0      0    0      0     0     0            0          408             1582
+   1:15 PM          0         204      0       0         2     188      0    0     0     0      0    0      0     0     2            0          396             1584
+
+
+
+
+ Peak 15-Min                     Northbound                      Southbound                 Eastbound                  Westbound
+                                                                                                                                                        Total
+  Flowrates       Left       Thru Right     U          Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles      0        796      16    0            0    820     0     0      0      0      0    0      0       0      0    0                      1632
+ Heavy Trucks       0         60       0                 0     44     0            0      0      0           0       0      0                            104
+  Pedestrians                  0                                0                         0                          8                                    8
+   Bicycles         0          1       0                 0      0     0            0      0      0           0       0      0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                         Method for determining peak hour: Total Entering Volume
+ LOCATION: MLK Jr Blvd -- Shadowood Dr                                                                                    QC JOB #: 10744805
+ CITY/STATE: Chapel Hill, NC                                                                                              DATE: Tue, Apr 24 2012
+                    1120          1494                        Peak-Hour: 4:45 PM -- 5:45 PM                                2.4        2.5
+                         0 1118 2
+                                                             Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                           0.0 2.4 0.0
+
+       0     0                           10   13
+                                                                                                              0.0   0.0                       0.0      0.0
+             0             0.95           0
+                                                                                                                    0.0                       0.0
+       0     0                            3   41
+                                                                                                              0.0   0.0                       0.0      0.0
+
+                         0 1484 39
+                                                                                                                           0.0 2.6 0.0
+                    1121          1523
+                                                                                                                           2.4        2.5
+
+
+
+                            0                                                                                               0    3    0
+
+
+                                                                                                                    0                          0
+
+             0                           13                                                                         0                          0
+
+                                                                                                                    0                          0
+
+
+                            0                                                                                               0    4    1
+
+
+
+
+                            NA                                                                                                   NA
+
+
+
+
+             NA                          NA                                                                         NA                        NA
+
+
+
+
+                            NA                                                                                                   NA
+
+
+
+15-Min Count               MLK Jr Blvd                     MLK Jr Blvd            Shadowood Dr             Shadowood Dr
+   Period                 (Northbound)                    (Southbound)             (Eastbound)              (Westbound)                                 Hourly
+Beginning At                                                                                                                                Total
+                  Left     Thru Right         U    Left    Thru Right    U   Left Thru Right     U    Left Thru Right            U                      Totals
+   4:00 PM          0      288      5         0      0     213      0    0     0     0      0    0      2     0     0            0          508
+   4:15 PM          0      278      2         0      0     199      0    0     0     0      0    0      0     0     1            0          480
+   4:30 PM          0      336      9         0      0     194      0    0     0     0      0    0      1     0     2            0          542
+   4:45 PM          0      373      5         0      0     260      0    0     0     0      0    0      0     0     3            0          641             2171
+   5:00 PM          0      413     10         0      1     269      0    0     0     0      0    0      1     0     2            0          696             2359
+   5:15 PM          0      381     11         0      0     284      0    0     0     0      0    0      2     0     0            0          678             2557
+   5:30 PM          0      317     13         0      1     305      0    0     0     0      0    0      0     0     5            0          641             2656
+   5:45 PM          0      322      8         0      1     297      0    0     0     0      0    0      5     0     2            0          635             2650
+
+
+
+
+ Peak 15-Min               Northbound                      Southbound                   Eastbound                  Westbound
+                                                                                                                                                    Total
+  Flowrates       Left Thru Right     U            Left Thru Right    U      Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles      0 1652      40    0              4 1076     0     0        0      0      0    0      4       0      8    0                      2784
+ Heavy Trucks       0   44       0                   0   16     0              0      0      0           0       0      0                            60
+  Pedestrians            0                                0                           0                          8                                    8
+   Bicycles         0    1       1                   0    1     0              0      0      0           0       0      0                             3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                     SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: MLK Jr Blvd -- Estes Dr                                                                                         QC JOB #: 10744807
+ CITY/STATE: Chapel Hill, NC                                                                                               DATE: Tue, Apr 24 2012
+                    1420          834                          Peak-Hour: 7:45 AM -- 8:45 AM                                3.7        7.0
+                     182 970 268
+                                                              Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                            7.7 3.4 1.9
+
+       359   268                        199   526
+                                                                                                               6.1   4.1                       5.0      4.4
+             294           0.96         144
+                                                                                                                     2.4                       4.9
+       641   79                         183   647
+                                                                                                               3.1   2.5                       3.3      2.6
+
+                        33 367 85
+                                                                                                                            3.0 10.1 5.9
+                    1232          485
+                                                                                                                            3.3        8.9
+
+
+
+                            0                                                                                                0    3    0
+
+
+                                                                                                                     0                          0
+
+             1                           5                                                                           1                          0
+
+                                                                                                                     0                          0
+
+
+                            0                                                                                                0    1    0
+
+
+
+
+                           NA                                                                                                     NA
+
+
+
+
+             NA                         NA                                                                           NA                        NA
+
+
+
+
+                           NA                                                                                                     NA
+
+
+
+15-Min Count               MLK Jr Blvd                      MLK Jr Blvd                Estes Dr                   Estes Dr
+   Period                 (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Hourly
+Beginning At                                                                                                                                 Total
+                  Left     Thru Right         U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right       U                      Totals
+   7:00 AM          5       67     13         0      36     111     24    0    31     32      6    0     11       20    16        0          372
+   7:15 AM          3       62     24         0      52     175     24    0    41     48     16    0     25       27    23        0          520
+   7:30 AM          7       76     30         0      94     227     34    0    47     63     13    0     44       28    44        0          707
+   7:45 AM         11       92     20         0      59     242     50    0    67     87     25    0     46       42    57        0          798             2397
+   8:00 AM          6       72     19         0      78     267     48    0    71     72     20    0     48       39    57        0          797             2822
+   8:15 AM         10       93     22         0      71     224     44    0    64     68     22    0     55       33    38        0          744             3046
+   8:30 AM          6      110     24         0      60     237     40    0    66     67     12    0     34       30    47        0          733             3072
+   8:45 AM          3       88     28         0      76     198     36    0    51     88     17    0     29       26    49        0          689             2963
+
+
+
+
+ Peak 15-Min                   Northbound                     Southbound                 Eastbound                  Westbound
+                                                                                                                                                     Total
+  Flowrates       Left     Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles     44      368      80    0         236    968   200     0    268    348    100    0    184     168   228     0                      3192
+ Heavy Trucks       4       28       8               16     28     8            8     12      4           4       0      8                            128
+  Pedestrians                0                               0                         0                          0                                    0
+   Bicycles         0        1       0                0      2     0            0      0      0           0       0      0                             3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: MLK Jr Blvd -- Estes Dr                                                                                         QC JOB #: 10744809
+ CITY/STATE: Chapel Hill, NC                                                                                               DATE: Tue, Apr 24 2012
+                     769          782                          Peak-Hour: 12:15 PM -- 1:15 PM                               4.7        7.3
+                     167 408 194
+                                                              Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                            6.6 5.4 1.5
+
+       417   143                        222   598
+                                                                                                               4.1   9.1                       3.6      2.5
+             187           0.98         215
+                                                                                                                     4.8                       1.9
+       348   18                         161   509
+                                                                                                               6.6   5.6                       1.9      3.3
+
+                        35 417 128
+                                                                                                                            5.7 8.6 3.9
+                     587          580
+                                                                                                                            4.4        7.4
+
+
+
+                            0                                                                                                0    0    1
+
+
+                                                                                                                     0                          1
+
+             0                           6                                                                           0                          0
+
+                                                                                                                     0                          0
+
+
+                            1                                                                                                0    1    0
+
+
+
+
+                            NA                                                                                                    NA
+
+
+
+
+             NA                         NA                                                                           NA                        NA
+
+
+
+
+                            NA                                                                                                    NA
+
+
+
+15-Min Count                MLK Jr Blvd                     MLK Jr Blvd                Estes Dr                   Estes Dr
+   Period                  (Northbound)                    (Southbound)              (Eastbound)                (Westbound)                              Hourly
+Beginning At                                                                                                                                 Total
+                  Left      Thru Right        U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right       U                      Totals
+  11:30 AM          4        90     36        0      47      98     31    0    32     47      8    0     21       36    56        0          506
+  11:45 AM          6        91     42        0      45      97     34    0    44     47      7    0     37       51    57        0          558
+  12:00 PM          9       123     39        0      53      99     32    0    37     38      4    0     19       44    50        0          547
+  12:15 PM         11        99     32        0      41     100     43    0    28     57      4    0     42       64    62        0          583             2194
+  12:30 PM          9        99     35        0      54      96     44    0    33     41      2    0     37       42    47        0          539             2227
+  12:45 PM          6       102     28        0      53      98     41    0    44     43      5    0     44       58    66        0          588             2257
+   1:00 PM          9       117     33        0      46     114     39    0    38     46      7    0     38       51    47        0          585             2295
+   1:15 PM          4       105     28        0      47     108     32    0    42     38      6    0     23       59    56        0          548             2260
+
+
+
+
+ Peak 15-Min                   Northbound                     Southbound                 Eastbound                  Westbound
+                                                                                                                                                     Total
+  Flowrates       Left     Thru Right     U         Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles     24      408    112     0         212    392   164     0    176    172     20    0    176     232   264     0                      2352
+ Heavy Trucks       0       12      8                 4     28    16            8     12      0           4       4     12                            108
+  Pedestrians                4                               0                         0                          0                                    4
+   Bicycles         0        0      0                 1      0     0            0      0      0           0       0      1                             2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: MLK Jr Blvd -- Estes Dr                                                                                          QC JOB #: 10744808
+ CITY/STATE: Chapel Hill, NC                                                                                                DATE: Tue, Apr 24 2012
+                    1127          1526                          Peak-Hour: 4:45 PM -- 5:45 PM                                2.6        2.3
+                     236 665 226
+                                                               Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                             2.5 3.3 0.4
+
+       638   227                         365   870
+                                                                                                                2.4   1.3                       1.4      1.5
+             228           0.94          322
+                                                                                                                      0.9                       1.9
+       513   58                          183   646
+                                                                                                                1.0   0.0                       1.1      0.8
+
+                     80 934 192
+                                                                                                                             3.8 2.9 1.0
+                     906          1206
+                                                                                                                             2.6        2.7
+
+
+
+                            0                                                                                                 0    1    0
+
+
+                                                                                                                      1                          0
+
+             1                            6                                                                           1                          5
+
+                                                                                                                      0                          0
+
+
+                            1                                                                                                 0    5    1
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                           NA                        NA
+
+
+
+
+                            NA                                                                                                     NA
+
+
+
+15-Min Count                MLK Jr Blvd                      MLK Jr Blvd                Estes Dr                   Estes Dr
+   Period                  (Northbound)                     (Southbound)              (Eastbound)                (Westbound)                              Hourly
+Beginning At                                                                                                                                  Total
+                  Left      Thru Right         U     Left    Thru Right    U   Left   Thru Right    U    Left     Thru Right       U                      Totals
+   4:00 PM         14       200     41         0      62     108     48    0    34     65     13    0     35       62    68        0          750
+   4:15 PM         11       157     33         0      51     101     44    0    41     58      9    0     30       74    65        0          674
+   4:30 PM         10       234     45         0      44     108     40    0    61     60      7    0     26       78    54        0          767
+   4:45 PM         14       234     34         0      63     160     40    0    55     52     16    0     48       77    85        0          878             3069
+   5:00 PM         26       256     66         0      42     165     62    0    64     65     14    0     41       86   106        0          993             3312
+   5:15 PM         18       237     53         0      59     160     59    0    53     53     15    0     44       82    94        0          927             3565
+   5:30 PM         22       207     39         0      62     180     75    0    55     58     13    0     50       77    80        0          918             3716
+   5:45 PM         21       161     37         0      56     158     73    0    55     39      9    0     41       83    95        0          828             3666
+
+
+
+
+ Peak 15-Min            Northbound                             Southbound                 Eastbound                  Westbound
+                                                                                                                                                      Total
+  Flowrates    Left Thru Right     U                 Left   Thru Right    U    Left   Thru Right    U    Left    Thru Right    U
+  All Vehicles 104 1024    264     0                 168    660   248     0    256    260     56    0    164     344   424     0                      3972
+ Heavy Trucks    0   36      0                         0     12     4            4      4      0           0       0      4                            64
+  Pedestrians         0                                       0                         0                          8                                    8
+   Bicycles      0    2      1                         0      1     0            1      0      0           0       0      0                             5
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Somerset Dr -- Estes Dr                                                                                           QC JOB #: 10744810
+ CITY/STATE: Chapel Hill, NC                                                                                                 DATE: Tue, Apr 24 2012
+                        26          14                          Peak-Hour: 7:30 AM -- 8:30 AM                                 0.0        0.0
+                        11    0     15
+                                                               Peak 15-Min: 7:45 AM -- 8:00 AM
+                                                                                                                              0.0 0.0 0.0
+
+       533   4                           10    533
+                                                                                                                 5.8   0.0                       0.0      5.8
+             683             0.95        522
+                                                                                                                       3.7                       5.9
+       687   0                             1   699
+                                                                                                                 3.6   0.0                       0.0      3.6
+
+                         0    0     0
+                                                                                                                              0.0 0.0 0.0
+                         0          0
+                                                                                                                              0.0        0.0
+
+
+
+                              0                                                                                                0    0    0
+
+
+                                                                                                                       0                          0
+
+             1                            0                                                                            1                          0
+
+                                                                                                                       0                          0
+
+
+                              3                                                                                                0    0    0
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+
+             NA                          NA                                                                            NA                        NA
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+15-Min Count                  Somerset Dr                    Somerset Dr                Estes Dr                    Estes Dr
+   Period                    (Northbound)                   (Southbound)              (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                   Total
+                  Left        Thru Right       U     Left    Thru Right    U   Left   Thru Right    U    Left      Thru Right       U                      Totals
+   7:00 AM          0           0      0       0       2       0      0    0     1     76      0    0      0        45     1        0          125
+   7:15 AM          0           0      0       0       0       0      0    0     0    113      0    0      0        80     0        0          193
+   7:30 AM          0           0      0       0       7       0      2    0     0    182      0    0      0       115     3        0          309
+   7:45 AM          0           0      0       0       4       0      2    0     0    180      0    0      0       137     5        0          328              955
+   8:00 AM          0           0      0       0       2       0      1    0     0    159      0    0      0       153     0        1          316             1146
+   8:15 AM          0           0      0       0       2       0      6    0     4    162      0    0      0       117     2        0          293             1246
+   8:30 AM          0           0      0       0       2       0      3    0     2    152      0    0      0       106     4        0          269             1206
+   8:45 AM          0           0      0       0       5       0      2    0     2    178      0    0      0        97     1        0          285             1163
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                 Eastbound                   Westbound
+                                                                                                                                                       Total
+  Flowrates       Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles      0          0      0     0         16      0     8     0      0    720      0    0       0     548     20    0                      1312
+ Heavy Trucks       0          0      0                0      0     0            0     32      0            0      12      0                            44
+  Pedestrians                 12                              0                         0                           0                                   12
+   Bicycles         0          0      0                0      0     0            0      0      0            0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Somerset Dr -- Estes Dr                                                                                           QC JOB #: 10744812
+ CITY/STATE: Chapel Hill, NC                                                                                                 DATE: Tue, Apr 24 2012
+                         7          14                          Peak-Hour: 12:15 PM -- 1:15 PM                                14.3        14.3
+                         4    0     3
+                                                               Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                              25.0 0.0 0.0
+
+       604   8                            6    606
+                                                                                                                 2.8   0.0                        33.3      3.0
+             509             0.92        600
+                                                                                                                       3.3                         2.7
+       517   0                             0   512
+                                                                                                                 3.3   0.0                         0.0      3.3
+
+                         0    0     0
+                                                                                                                              0.0 0.0 0.0
+                         0          0
+                                                                                                                              0.0         0.0
+
+
+
+                              0                                                                                                0     0     0
+
+
+                                                                                                                       0                            0
+
+             1                             0                                                                           2                            1
+
+                                                                                                                       0                            0
+
+
+                              7                                                                                                0     0     0
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+
+             NA                          NA                                                                            NA                          NA
+
+
+
+
+                              NA                                                                                                     NA
+
+
+
+15-Min Count                  Somerset Dr                    Somerset Dr                Estes Dr                    Estes Dr
+   Period                    (Northbound)                   (Southbound)              (Eastbound)                 (Westbound)                                Hourly
+Beginning At                                                                                                                                     Total
+                  Left        Thru Right       U     Left    Thru Right    U   Left   Thru Right    U    Left      Thru Right        U                       Totals
+  11:30 AM          0           0      0       0       3       0      3    0     2    138      0    0      0       120     2         0           268
+  11:45 AM          0           0      0       0       2       0      0    0     1    135      0    0      0       136     2         0           276
+  12:00 PM          0           0      0       0       2       0      1    0     1    128      0    0      0       127     3         0           262
+  12:15 PM          0           0      0       0       2       0      2    0     2    123      0    0      0       156     0         0           285             1091
+  12:30 PM          0           0      0       0       1       0      1    0     0    130      0    0      0       130     4         0           266             1089
+  12:45 PM          0           0      0       0       0       0      0    0     6    129      0    0      0       171     0         0           306             1119
+   1:00 PM          0           0      0       0       0       0      1    0     0    127      0    0      0       143     2         0           273             1130
+   1:15 PM          0           0      0       0       3       0      4    0     2    118      0    0      0       140     2         0           269             1114
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                 Eastbound                   Westbound
+                                                                                                                                                         Total
+  Flowrates       Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles      0          0      0     0          0      0     0     0     24    516      0    0       0     684      0    0                        1224
+ Heavy Trucks       0          0      0                0      0     0            0     20      0            0      16      0                              36
+  Pedestrians                  0                              0                         0                           0                                      0
+   Bicycles         0          0      0                0      0     0            0      1      0            0       1      0                               2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Somerset Dr -- Estes Dr                                                                                           QC JOB #: 10744811
+ CITY/STATE: Chapel Hill, NC                                                                                                 DATE: Tue, Apr 24 2012
+                        11          22                          Peak-Hour: 4:45 PM -- 5:45 PM                                 0.0        4.5
+                         6    0     5
+                                                               Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                              0.0 0.0 0.0
+
+       874   11                           11   879
+                                                                                                                 1.5   0.0                       9.1      1.6
+             643             0.97        868
+                                                                                                                       0.8                       1.5
+       654   0                             0   648
+                                                                                                                 0.8   0.0                       0.0      0.8
+
+                         0    0     0
+                                                                                                                              0.0 0.0 0.0
+                         0          0
+                                                                                                                              0.0        0.0
+
+
+
+                              0                                                                                                0    0    0
+
+
+                                                                                                                       0                          0
+
+             0                            0                                                                            2                          4
+
+                                                                                                                       0                          0
+
+
+                              0                                                                                                0    0    0
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+
+             NA                          NA                                                                            NA                        NA
+
+
+
+
+                              NA                                                                                                    NA
+
+
+
+15-Min Count                  Somerset Dr                    Somerset Dr                Estes Dr                    Estes Dr
+   Period                    (Northbound)                   (Southbound)              (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                   Total
+                  Left        Thru Right       U     Left    Thru Right    U   Left   Thru Right    U    Left      Thru Right       U                      Totals
+   4:00 PM          0           0      0       0       1       0      1    0     0    161      0    1      0       164     4        0          332
+   4:15 PM          0           0      0       0       0       0      4    0     1    153      0    0      0       175     0        0          333
+   4:30 PM          0           0      0       0       1       0      4    0     0    145      0    0      0       170     1        0          321
+   4:45 PM          0           0      0       0       4       0      1    0     6    150      0    0      0       201     3        0          365             1351
+   5:00 PM          0           0      0       0       1       0      0    0     4    166      0    0      0       221     0        0          392             1411
+   5:15 PM          0           0      0       0       0       0      2    0     0    177      0    0      0       215     4        0          398             1476
+   5:30 PM          0           0      0       0       0       0      3    0     1    150      0    0      0       231     4        0          389             1544
+   5:45 PM          0           0      0       0       3       0      3    0     3    140      0    0      0       204     2        0          355             1534
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                 Eastbound                   Westbound
+                                                                                                                                                       Total
+  Flowrates       Left       Thru Right     U        Left   Thru Right    U    Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles      0          0      0     0          0      0     8     0      0    708      0    0       0     860     16    0                      1592
+ Heavy Trucks       0          0      0                0      0     0            0      4      0            0       8      4                            16
+  Pedestrians                  0                              0                         0                           0                                    0
+   Bicycles         0          0      0                0      0     0            0      0      0            0       0      0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Caswell Dr E -- Estes Dr                                                                                             QC JOB #: 10744813
+ CITY/STATE: Chapel Hill , NC                                                                                                   DATE: Tue, Apr 24 2012
+                     203            234                          Peak-Hour: 7:30 AM -- 8:30 AM                                   3.4         4.7
+                     165      2     36
+                                                                Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                                 4.2 0.0 0.0
+
+       595   187                          39    461
+                                                                                                                   4.7   4.8                         5.1      5.0
+             611             0.90         422
+                                                                                                                         3.4                         5.0
+       805   7                              0   656
+                                                                                                                   3.9   14.3                        0.0      3.2
+
+                         8    8     9
+                                                                                                                                 0.0 0.0 0.0
+                         9          25
+                                                                                                                                 11.1        0.0
+
+
+
+                              8                                                                                                   0     0    0
+
+
+                                                                                                                         0                            0
+
+             31                             0                                                                            0                            1
+
+                                                                                                                         0                            0
+
+
+                              0                                                                                                   0     0    0
+
+
+
+
+                              NA                                                                                                        NA
+
+
+
+
+             NA                           NA                                                                             NA                          NA
+
+
+
+
+                              NA                                                                                                        NA
+
+
+
+15-Min Count                 Caswell Dr E                     Caswell Dr E                Estes Dr                    Estes Dr
+   Period                    (Northbound)                    (Southbound)               (Eastbound)                 (Westbound)                                Hourly
+Beginning At                                                                                                                                       Total
+                  Left        Thru Right        U     Left    Thru Right     U   Left   Thru Right    U    Left      Thru Right         U                      Totals
+   7:00 AM          0           0     1         0       5       0      9     0    14     65      0    0      0        42     6          0          142
+   7:15 AM          1           4     1         0      11       2      9     0    31     77      0    0      0        68    23          0          227
+   7:30 AM          1           5     1         0      14       0     38     0    72    131      2    0      0        73    19          0          356
+   7:45 AM          1           2     3         0      12       0     51     0    41    160      3    0      0       111     7          0          391             1116
+   8:00 AM          2           0     2         0       6       1     52     0    42    153      1    0      0       150     8          0          417             1391
+   8:15 AM          4           1     3         0       4       1     24     0    32    167      1    0      0        88     5          0          330             1494
+   8:30 AM          1           3     1         0       4       0     17     0    19    140      0    0      3       100     3          0          291             1429
+   8:45 AM          0           3     2         0       6       2     22     0    23    157      0    0      0        77     4          0          296             1334
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                  Eastbound                   Westbound
+                                                                                                                                                           Total
+  Flowrates       Left       Thru Right     U         Left   Thru Right    U     Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles      8          0      8     0          24      4   208     0     168    612      4    0       0     600     32    0                        1668
+ Heavy Trucks       0          0      0                 0      0    12             4     20      4            0      36      0                              76
+  Pedestrians                  0                               8                         32                           0                                     40
+   Bicycles         0          0      0                 0      0     0             0      0      0            0       0      0                               0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Caswell Dr E -- Estes Dr                                                                                           QC JOB #: 10744815
+ CITY/STATE: Chapel Hill , NC                                                                                                 DATE: Tue, Apr 24 2012
+                     104            97                          Peak-Hour: 12:15 PM -- 1:15 PM                                 4.8         5.2
+                        90    2     12
+                                                               Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                               4.4 0.0 8.3
+
+       595   70                          26    531
+                                                                                                                  3.4   5.7                        3.8      3.4
+             448             0.97        501
+                                                                                                                        3.1                        3.2
+       519   1                             4   465
+                                                                                                                  3.5   0.0                       25.0      3.2
+
+                         4    1     5
+                                                                                                                               0.0 0.0 0.0
+                         7          10
+                                                                                                                               14.3        0.0
+
+
+
+                              1                                                                                                 0     0    0
+
+
+                                                                                                                        0                           0
+
+             3                             2                                                                            1                           1
+
+                                                                                                                        0                           0
+
+
+                              2                                                                                                 0     0    0
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+
+             NA                          NA                                                                             NA                         NA
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+15-Min Count                 Caswell Dr E                    Caswell Dr E                Estes Dr                    Estes Dr
+   Period                    (Northbound)                   (Southbound)               (Eastbound)                 (Westbound)                               Hourly
+Beginning At                                                                                                                                     Total
+                  Left        Thru Right       U     Left    Thru Right     U   Left   Thru Right    U    Left      Thru Right        U                      Totals
+  11:30 AM          0           0     0        0       8       0     21     0    15    126      2    0      1       106     8         0          287
+  11:45 AM          1           1     2        0       5       0     21     0    27    119      0    0      1       108     8         0          293
+  12:00 PM          1           1     3        0       4       1     18     0    16    119      0    0      1       108     6         0          278
+  12:15 PM          0           0     0        0       1       0     23     0    19    112      1    0      1       129    12         0          298             1156
+  12:30 PM          3           1     3        0       2       1     18     0    11    118      0    0      1       114     8         0          280             1149
+  12:45 PM          1           0     1        0       7       1     25     0    20    106      0    0      0       136     4         0          301             1157
+   1:00 PM          0           0     1        0       2       0     24     0    20    112      0    0      2       122     2         0          285             1164
+   1:15 PM          1           1     0        0       6       1     17     0    17    104      0    0      2       124     8         0          281             1147
+
+
+
+
+ Peak 15-Min                     Northbound                    Southbound                  Eastbound                   Westbound
+                                                                                                                                                         Total
+  Flowrates       Left       Thru Right     U        Left   Thru Right    U     Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles      4          0      4     0         28      4   100     0      80    424      0    0       0     544     16    0                       1204
+ Heavy Trucks       0          0      0                4      0     0             4     16      0            0      20      0                             44
+  Pedestrians                  0                              0                          0                           0                                     0
+   Bicycles         0          0      0                0      0     0             0      1      0            0       1      0                              2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                        SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: Caswell Dr E -- Estes Dr                                                                                            QC JOB #: 10744814
+ CITY/STATE: Chapel Hill , NC                                                                                                  DATE: Tue, Apr 24 2012
+                     181            169                          Peak-Hour: 5:00 PM -- 6:00 PM                                  1.7        1.2
+                     148      6     27
+                                                                Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                2.0 0.0 0.0
+
+       923   124                          40    817
+                                                                                                                   1.3   0.8                       2.5      1.2
+             567             0.97         763
+                                                                                                                         0.7                       1.2
+       696   5                            14    595
+                                                                                                                   0.7   0.0                       0.0      0.7
+
+                        12    5     1
+                                                                                                                                0.0 0.0 0.0
+                        25          18
+                                                                                                                                0.0        0.0
+
+
+
+                              6                                                                                                  0    0    0
+
+
+                                                                                                                         1                          1
+
+             5                             3                                                                             1                          0
+
+                                                                                                                         0                          0
+
+
+                              1                                                                                                  0    0    1
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+
+             NA                           NA                                                                             NA                        NA
+
+
+
+
+                              NA                                                                                                      NA
+
+
+
+15-Min Count                 Caswell Dr E                     Caswell Dr E                Estes Dr                    Estes Dr
+   Period                    (Northbound)                    (Southbound)               (Eastbound)                 (Westbound)                              Hourly
+Beginning At                                                                                                                                     Total
+                  Left        Thru Right        U     Left    Thru Right     U   Left   Thru Right    U    Left      Thru Right       U                      Totals
+   4:00 PM          0           0     1         0       7       1     33     0    22    132      0    0      0       143     6        0          345
+   4:15 PM          1           1     0         0       8       2     30     0    25    136      0    0      1       142     9        0          355
+   4:30 PM          2           0     1         0       6       3     36     0    24    130      1    0      2       171    12        0          388
+   4:45 PM          1           0     2         0      13       0     23     0    26    133      0    0      0       161     7        0          366             1454
+   5:00 PM          3           0     0         0       5       0     31     0    29    143      2    0      2       187    10        0          412             1521
+   5:15 PM          1           2     0         0       4       0     47     0    32    151      1    0      3       185     6        0          432             1598
+   5:30 PM          3           2     0         0       6       2     40     0    27    135      2    0      3       208    14        0          442             1652
+   5:45 PM          5           1     1         0      12       4     30     0    36    138      0    0      6       183    10        0          426             1712
+
+
+
+
+ Peak 15-Min                     Northbound                     Southbound                  Eastbound                   Westbound
+                                                                                                                                                         Total
+  Flowrates       Left       Thru Right     U         Left   Thru Right    U     Left   Thru Right    U     Left    Thru Right    U
+  All Vehicles     12          8      0     0          24      8   160     0     108    540      8    0      12     832     56    0                      1768
+ Heavy Trucks       0          0      0                 0      0     0             0      4      0            0      12      0                            16
+  Pedestrians                  0                              16                         12                           4                                   32
+   Bicycles         0          0      0                 0      0     0             1      0      0            0       0      0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/2/2012 3:27 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
