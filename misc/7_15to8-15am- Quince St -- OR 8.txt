@@ -1,0 +1,92 @@
+Type of peak hour being reported: User-Defined                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Quince St -- OR 8                                                                                                     QC JOB #: 12486206
+ CITY/STATE: Forest Grove, OR                                                                                                    DATE: Wed, Apr 30 2014
+                    416          477                            Peak-Hour: 7:15 AM -- 8:15 AM                                     8.9        11.3
+
+                       63 164 189
+                                                               Peak 15-Min: 7:15 AM -- 7:30 AM
+                                                                                                                                  15.9 13.4 2.6
+
+
+       536   114                       106   722
+                                                                                                                     6.7   8.8                       5.7      5.7
+             648          0.88         440
+                                                                                                                           4.0                       5.0
+       805   43                        176   1152
+                                                                                                                     4.8   7.0                       7.4      5.2
+
+                       33 257 315
+                                                                                                                                  12.1 14.8 9.2
+
+                    383          605
+                                                                                                                                  9.9        11.7
+
+
+
+                           0                                                                                                       0    0     0
+
+
+
+                                                                                                                           0                           0
+
+             5                           4                                                                                 0                           5
+
+                                                                                                                           0                           0
+
+                           2                                                                                                       0    0     0
+
+
+
+
+                          NA                                                                                                            NA
+
+
+
+
+             NA                        NA                                                                                  NA                        NA
+
+
+
+
+                          NA                                                                                                            NA
+
+
+
+ 15-Min Count               Quince St                        Quince St                       OR 8                        OR 8                       Total      Hourly
+     Period               (Northbound)                     (Southbound)                   (Eastbound)                 (Westbound)                              Totals
+ Beginning At     Left     Thru Right     U         Left    Thru Right    U        Left   Thru Right      U   Left    Thru Right    U
+     6:00 AM        0       58     67     0          24      22      8     0        23     98      8      0    58      38     11    0               415
+     6:15 AM        5       71     64     0          19      33      8     0        25    102     10      0    85      71      9    0               502
+     6:30 AM        7       76     69     0          23      22     14     0        31    123      8      0    45     115     35    0               568
+     6:45 AM       11       57    103     0          35      46     20     0        46    139      8      0    46     101     38    0               650            2135
+     7:00 AM        7       63     70     0          40      28     12     0        29    139      6      0    40      78     19    0               531            2251
+     7:15 AM        4       79     80     0          44      66     15     0        39    218     14      0    53      80     29    0               721            2470
+     7:30 AM       12       51     87     0          45      40     13     0        27    154     10      0    34     114     24    0               611            2513
+     7:45 AM        8       67     71     0          50      37     18     0        25    149      6      0    57     139     29    0               656            2519
+     8:00 AM        9       60     77     0          50      21     17     0        23    127     13      0    32     107     24    0               560            2548
+     8:15 AM       11       51     57     0          46      37     19     0        29    179     17      0    20     154     28    0               648            2475
+     8:30 AM       10       41     72     0          45      26     37     0        25    177      4      0    23     168     38    0               666            2530
+     8:45 AM       17       40     46     0          24      29     31     0        20    164      8      0    31     184     40    0               634            2508
+     9:00 AM        5       32     38     0          27      36     20     0        38    157      6      0    37     173     37    0               606            2554
+     9:15 AM        7       38     39     0          47      51     27     0        28    141     14      0    34     141     46    0               613            2519
+     9:30 AM        8       30     48     0          45      35     24     0        35    175     10      0    44     150     45    0               649            2502
+     9:45 AM       14       32     59     0          34      29     19     0        28    162     13      0    38     152     36    0               616            2484
+   10:00 AM         8       35     56     0          27      29     16     0        23    143     10      0    42     150     27    0               566            2444
+   10:15 AM        12       39     46     0          28      29     15     0        33    159      9      0    43     154     34    0               601            2432
+   10:30 AM        12       33     36     0          28      28     25     0        24    144     10      0    35     139     30    0               544            2327
+   10:45 AM        11       31     39     0          31      28     21     0        21    138      9      0    50     122     19    0               520            2231
+   11:00 AM        10       29     36     0          26      16     11     0        27    146      4      0    49     146     21    0               521            2186
+   11:15 AM        16       35     43     0          23      32     24     0        15    155     10      0    47     136     33    0               569            2154
+   11:30 AM        17       39     46     0          31      36     29     0        25    177     15      0    43     192     36    0               686            2296
+   11:45 AM        19       26     53     0          27      27     21     0        25    183     17      0    42     157     31    0               628            2404
+ Peak 15-Min                   Northbound                       Southbound                    Eastbound                   Westbound
+   Flowrates      Left     Thru Right     U         Left    Thru Right    U       Left    Thru Right      U   Left    Thru Right    U                      Total
+  All Vehicles     16     316     320     0         176     264     60     0      156     872     56      0   212     320   116     0                      2884
+ Heavy Trucks       0       56     24                12      40      4              4      16      4           24      20      4                            208
+  Pedestrians                0                                0                             0                           0                                    0
+    Bicycles       0         0      0                 0       0      0              0       0      0            0       2      0                             2
+   Railroad
+Stopped Buses
+ Comments: vehicle classification turning movement counts including bike/ped. DVD's for AM/PM peaks only
+Report generated on 9/30/2014 6:29 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
