@@ -2,7 +2,7 @@
 
 $max = 50;
 
-for $file (<misc/*.txt>, <portland/*.txt>) {
+for $file (<misc/*.txt>, <portland/*.txt>, <corvallis/*.txt>) {
 	$out = "$file.tmp";
 	print STDERR "$file $out\n";
 
