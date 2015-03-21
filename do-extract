@@ -7,6 +7,6 @@
 ./extract eugene/*.txt > counts-eugene.csv
 
 find rtc -name '*.txt' -print0 | xargs -0 ./extract > counts-rtc.csv
-find portland -name '*.txt' -print0 | xargs -0 ./extract > counts-portland.csv
+find portland -name '*.txt' -print0 | xargs -0 ./extract | (cd ../kc-traffic-counts; ./geocode-portland) > counts-portland.csv
 find sf -name '*.txt' -print0 | xargs -0 ./extract | LC_ALL=C sort > counts-sf.csv
 find dc -name '*.txt' -print0 | xargs -0 ./extract | LC_ALL=C sort | ./extract-report-addresses > counts-dc.csv
