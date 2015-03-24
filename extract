@@ -15,6 +15,8 @@ while (<IN>) {
 
 print "-id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,N-Ped,E-Ped,S-Ped,W-Ped,N-Bike,E-Bike,S-Bike,W-Bike,lat,lon\n";
 
+my @cols;
+
 PAGE:
 while (<>) {
 	my $fname = $ARGV;
@@ -320,10 +322,20 @@ while (<>) {
 					$form = 1;
 				} elsif (/Time  *L  *T  *R  *HV  *L  *T  *R  *HV  *L  *T  *R  *HV  *L  *T  *R  *HV  *Total  *North  *South  *East  *West/) {
 					$form = 2;
+				} elsif (/Time .*Bikes.*Bikes.*Bikes.*Bikes.*Total  *North  *South  *East  *West/) {
+					$form = 3;
+					chomp;
+					s/^ *//;
+					s/ *$//;
+					@cols = split(/ +/);
 				} else {
 					print STDERR "$fname: Wrong column order $_\n";
 					last;
 				}
+			}
+
+			if (/Peak Hour Summary/) {
+				$form = 0;
 			}
 
 			if (/^\s*(\d+):(\d+) (.M)?/ && $minutes != 0) {
@@ -337,7 +349,39 @@ while (<>) {
 				chomp;
 				my @fields = split(/ +/);
 
-				if ($#fields == 23 && $m ne "") {
+				if ($form == 3 && $#fields == $#cols + 2) {
+					my %val = ();
+					if ($m ne "") {
+						my @dirs = ( "Northbound", "Southbound", "Eastbound", "Westbound", "Pedestrians" );
+						my $dir = 0;
+
+						shift @fields;  # time
+						shift @fields;  # a/pm
+
+						for (my $i = 0; $i <= $#fields; $i++) {
+							$val{$dirs[$dir]}{$cols[$i]} = $fields[$i];
+
+							if ($cols[$i] eq "Bikes") {
+								$dir++;
+							}
+						}
+					}
+					print "$fname,$street,partial,$date,$time";
+
+					for my $dir ("Southbound", "Westbound", "Northbound", "Eastbound") {
+						for my $turn ("R", "T", "L") {
+							print ",$val{$dir}{$turn}";
+						}
+					}
+					for my $dir ("North", "East", "South", "West") {
+						print ",$val{'Pedestrians'}{$dir}";
+					}
+					for my $dir ("Southbound", "Westbound", "Northbound", "Eastbound") {
+						print ",$val{$dir}{'Bikes'}";
+					}
+
+					print "\n";
+				} elsif ($#fields == 23 && $m ne "") {
 					my ($x, $x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
 
 					if ($form != 1) {
