@@ -381,7 +381,7 @@ while (<>) {
 					}
 
 					print "\n";
-				} elsif ($#fields == 23 && $m ne "") {
+				} elsif ($#fields == 23 && $m ne "" && $form > 0) {
 					my ($x, $x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
 
 					if ($form != 1) {
@@ -395,7 +395,7 @@ while (<>) {
 					} else {
 						print ",\n";
 					}
-				} elsif ($#fields == 22 && $m eq "") {
+				} elsif ($#fields == 22 && $m eq "" && $form > 0) {
 					my ($x, $x, $sl, $st, $sr, $bs, $nl, $nt, $nr, $bn, $wl, $wt, $wr, $bw, $el, $et, $er, $be, $total, $pn, $ps, $pe, $pw) = @fields;
 
 					if ($form != 1) {
