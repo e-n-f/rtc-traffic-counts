@@ -1,0 +1,2850 @@
+1609 E. FRANKLIN STREET HOTEL
+
+
+    TRAFFIC IMPACT STUDY
+
+
+
+
+           Prepared for:
+
+      The Town of Chapel Hill
+     Public Works Department
+    Traffic Engineering Division
+
+
+
+
+           Prepared by:
+     HNTB North Carolina, PC
+       343 East Six Forks Road
+              Suite 200
+         Raleigh, NC 27609
+
+      NCBELS License #: C-1554
+
+
+            January 2015
+                                                                         Town of Chapel Hill: Traffic Impact Study
+                                        1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+                                                     Table of Contents
+
+LIST OF FIGURES .......................................................................................................... ii
+LIST OF TABLES/APPENDICES .................................................................................. ii
+
+I. Existing Conditions.........................................................................................1
+          A. Project Overview ............................................................................................... 1
+          B. Site Location and Study Area ........................................................................... 1
+          C. Site Description ................................................................................................ 2
+          D. Existing and Proposed Uses in Vicinity of Site ................................................. 2
+          E. Existing and Committed Surface Transportation Network ................................ 2
+          F. Existing Traffic Conditions ................................................................................ 5
+
+II. 2017 Build-Out Year + 1 Conditions .............................................................6
+          A. Future Ambient Area-Wide Traffic Growth Estimation ...................................... 6
+          B. Approved Background Development Traffic Estimation ................................... 6
+          C. Proposed Project Traffic ................................................................................... 6
+                 i.) Trip Generation ..................................................................................... 6
+                 ii.) Adjustments to Trip Generation Rates ................................................. 7
+                 iii.) Trip Distribution .................................................................................... 8
+                 iv.) Trip Assignment ................................................................................... 8
+          D. Future Traffic Forecasts with the Proposed Development................................ 8
+
+III. Impact Analyses ............................................................................................8
+          A. Peak Hour Intersection Level-of-Service Analysis ........................................... 8
+                 i.) Methodology .......................................................................................... 8
+                 ii.) 2014 Existing Conditions Results ....................................................... 10
+                 iii.) 2017 No-Build Scenario (Condition 2) Results .................................. 11
+                 iv.) 2017 Build Scenario (Condition 3) Results ........................................ 12
+                 v.) 2017 Mitigation Scenario (Condition 4) Results ................................. 14
+          B. Access Analysis .............................................................................................. 14
+          C. Signal Warrant Analysis ................................................................................. 16
+          D. Sight Distance Analysis .................................................................................. 16
+          E. Crash Analysis ................................................................................................ 16
+          F. Other Transportation-Related Analyses .......................................................... 17
+          G. Special Analysis/Issues Related to the Project .............................................. 17
+
+IV. Mitigation Measures/Recommendations ..................................................17
+          A. Planned Improvements ................................................................................... 17
+          B. Background Committed Improvements .......................................................... 17
+          C. Applicant Committed Improvements ............................................................... 18
+          D. Necessary Improvements ............................................................................... 19
+
+
+
+
+January 2015                                                        i
+                                                                     Town of Chapel Hill: Traffic Impact Study
+                                      1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+List of Figures
+Figure
+  1) Project Study Area
+  2) Site Plan
+  3) 2014 Existing Intersection Laneage
+  4) 2014 Existing Pedestrian/Bicycle Facilities
+  5) 2014 Existing Transit Routes/Stops
+  6) 2014 Existing Peak Hour Traffic Volumes AM-Noon-PM Peak
+  7) 2017 Peak Hour Traffic Without Site AM-Noon-PM Peak
+  8) Site Trip Distribution Percentages
+  9) 2017 Peak Hour Site Traffic Assignment AM-Noon-PM Peak
+  10) 2017 Peak Hour Traffic With Site Volumes AM-Noon-PM Peak
+  11) 2017 Recommended Improvements
+List of Tables
+Table                                                                                                                        Page
+ 1) Existing Study Area Roadways ......................................................................................... 3
+ 2) Existing Study Area Intersection Details ........................................................................... 4
+ 3) Current Study Area Weekday Transit Service .................................................................. 5
+ 4) Traffic Count Information................................................................................................... 6
+ 5) Weekday Daily and Peak Hour Vehicle Trip Generation Summary .................................. 7
+ 6) Level of Service (LOS) Characteristics ............................................................................. 9
+ 7) Capacity Analysis Results - Condition 1 – 2014 Existing Traffic ..................................... 11
+ 8) Capacity Analysis Results - Condition 2 – 2017 Traffic Without Site .............................. 12
+ 9) Capacity Analysis Results - Condition 3 – 2017 Traffic With Site ................................... 13
+ 10) Capacity Analysis Results - Condition 4 – 2017 Traffic With Mitigation ......................... 15
+ 11) Study Area Crash Rate Comparison – E. Franklin Street Corridor ................................ 16
+ 12) Study Area Intersection Crash Summary ....................................................................... 17
+ 13) Other Transportation-Related Analyses ......................................................................... 18
+Appendices
+
+A.    Figures
+B.    Traffic Count Data
+C.    SYNCHRO Signalized Analysis Output
+D.    Highway Capacity Software Analysis Output
+E.    Crash Data
+
+
+
+
+January 2015                                                    ii
+                                                     Town of Chapel Hill: Traffic Impact Study
+                             1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+I. EXISTING CONDITIONS
+
+A. Project Overview
+
+A new mixed-use development, known for this study as the 1609 E. Franklin Street Hotel,
+located along E. Franklin Street near its intersection with Elliott Road is being proposed in
+Chapel Hill. The project proposes to construct a 106 room hotel and 28 apartments on two
+existing parcels on the west side of E. Franklin Street. Figure 1 (found in Appendix A) shows
+the general location of the site. The project is anticipated to be fully complete by late 2016.
+This report analyzes the complete build-out scenario for the year 2017 (one year after
+anticipated completion), the no-build scenario for 2017, as well as 2014 existing year traffic
+conditions.
+
+The proposed site concept plan shows two full movement access driveways along E. Franklin
+Street. No other vehicular access connections are proposed. Figure 2 displays the preliminary
+concept plan of the 1609 E. Franklin Street Hotel and nearby land uses and roadways. The
+project is expected to provide 123 parking spaces on a surface parking lot.
+
+B. Site Location and Study Area
+
+This report analyzes and presents the transportation impacts that the 1609 E. Franklin Street
+Hotel will have on the following intersections in the project study area:
+
+      East Franklin Street and Eastgate Shopping Center Access Driveway
+      East Franklin Street and Elliott Road
+      East Franklin Street and Proposed Site Driveways
+      East Franklin Street and Estes Drive
+
+The impacts of the proposed site at the study area intersections will be evaluated during the
+AM, noon, and PM peak hours of an average weekday. The following study is based on
+background traffic for the existing year, 2014, the year following the estimated site build out year
+of 2016, as well as the estimated site-generated traffic produced by the hotel development.
+
+There are no Town-approved future developments in the immediate project study area that were
+considered to be constructed by 2017, though there are multiple locations located beyond the
+study area that may generate additional background traffic. To account for this, an area-wide
+ambient future traffic growth percentage of 1.4 percent per year was applied to the existing
+volumes, based on historical average annual daily traffic (AADT) growth rate data provided by
+the Town of Chapel Hill and NCDOT, and consistent with recent study area traffic impact
+studies.
+
+
+
+
+January 2015                                     1
+                                                     Town of Chapel Hill: Traffic Impact Study
+                             1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+C. Site Description                                         1609 E. Franklin Street Hotel Site
+                                                                     (looking north)
+The 1609 E. Franklin Street Hotel site currently
+contains two wooded land parcels with several
+small residential structures. It borders a private
+residence and the Chapel Hill Fire Station #3 to
+the north and by the Artgarden Montessori
+Children’s House to the south. It is located
+immediately adjacent to the Chapel Hill Health
+and Rehabilitation Center across E. Franklin
+Street.   Additional    residential  subdivisions,
+commercial and institutional development are
+present along E. Franklin Street in the project
+study area.                                                                 Image from Google Earth, 2014
+
+
+All vehicular access will utilize E. Franklin Street via two proposed full access site driveways.
+The proposed site plan, shown in Figure 2, indicates all parking will be accommodated on-site,
+through the use of surface parking facilities. No other specific transportation improvements are
+shown on the concept plans.
+
+D. Existing and Proposed Uses in Vicinity of Site
+
+The land uses and development in the study area along E. Franklin Street are primarily
+commercial, with institutional and residential development nearby. The Existing Land Use Plan
+shown in the 2020 Town of Chapel Hill Comprehensive Plan and adopted June 25, 2012,
+indicates that the proposed site is designated as “institutional”. The Future Land Use Plan, that
+is also a part of the Town Comprehensive Plan, indicates that the parcel would be designated
+as “High Density Residential, 8-15 units/acre”. The parcel is currently zoned “NC” – delineating
+it as “neighborhood commercial”.
+
+E. Existing and Committed Surface Transportation Network
+
+Roadways
+The 1609 E. Franklin Street Hotel project study area features several major arterial roadways
+serving areas throughout the Town of Chapel Hill and points beyond, as well as some smaller
+collector and local access streets. Table 1, on the following page, summarizes pertinent
+information on the study area roadway facilities.
+
+AADT data was taken from 2011 AADT mapping produced by the NCDOT Traffic Survey Unit.
+Figure 3 shows the existing lane configuration, traffic control, and speed limits for these study
+area roadways.
+
+
+
+
+January 2015                                    2
+                                                            Town of Chapel Hill: Traffic Impact Study
+                                 1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+                               Table 1. Existing Study Area Roadways
+
+
+
+
+                                                                                                             On-Street
+                                                                                                  Sidewalk
+
+
+                                                                                                              Parking
+                                                                                          Speed
+                                                                                  AADT
+
+
+                                                                                          Limit
+                                                                                  2011
+                                 Functional                 Study Area
+Road Name
+                                   Class*                  Cross-Section
+
+
+                               Other Principal
+East Franklin Street                               5 lane undivided with TWLTL   22,000   35      Y            N
+                                  Arterial
+                                                     2 lane undivided / 5 lane
+Estes Drive                     Minor Arterial                                   15,000   35      Y            N
+                                                      undivided with TWLTL
+                                                     2 lane undivided / 3 lane
+Elliott Road                        Local                                        7,400    25      Y            N
+                                                      undivided with TWLTL
+Eastgate Driveway                   Local                  2 lane undivided       N/A     25      Y            N
+TWLTL – Two-Way Left-turn Lane
+* - As defined on the NCDOT Urban Functional Classification Map (2014).
+https://ncdot.maps.arcgis.com/home/webmap/viewer.html
+
+Detailed descriptions of several of the major study area roadways are as follows:
+
+   E. Franklin Street is a major arterial in the study area, serving areas from the US 15-501
+    corridor to downtown Chapel Hill. In the study area vicinity, E. Franklin Street is a five lane
+    undivided cross-section with continuous center left-turn lane. There are multiple driveway
+    access points along the roadway and several major street intersections. No on-street
+    parking is permitted along E. Franklin Street in the project study area. Several bus stops
+    are located along the facility. The posted speed limit is 35 mph in the study area.
+
+   Estes Drive is a minor east-west arterial that connects residential and commercial areas of
+    north/central Chapel Hill. In the study area, Estes Drive is an undivided facility with a five-
+    lane cross section east of E. Franklin Street that features a continuous center left-turn lane
+    with a 35 mph speed limit. It transitions to a two-lane undivided facility west of E. Franklin
+    Street. Several bus stops are located along the facility.
+
+   Elliot Road is a local/collector street that provides access to residential neighborhoods west
+    of E. Franklin Street and commercial shopping centers and development to the east. The
+    section west of E. Franklin Street is a two-lane facility and widens to a three-lane cross-
+    section with continuous left-turn lanes east of E. Franklin Street. The posted speed limit is
+    25 mph in the study area. On-street parking is not permitted.
+
+   Eastgate Shopping Center Driveway is a local access street that provides access to the
+    Eastgate shopping center and connectivity to Ephesus Church Road east of the study area.
+    It is a two-lane facility with a posted speed limit of 25 mph in the study area. On-street
+    parking is not permitted.
+
+Intersections
+Table 2 summarizes all three existing study area intersections, traffic control features, and
+pedestrian amenities at each. Laneage details and intersection turn bay lengths are also
+detailed on Figure 3.
+
+
+
+
+January 2015                                           3
+                                                            Town of Chapel Hill: Traffic Impact Study
+                                  1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+                          Table 2. Existing Study Area Intersection Details
+
+                                               Traffic       Signal     Signal         Cross       Ped
+ Intersection
+                                               Control       Phases    Operation       walk      Signals
+  East Franklin Street and
+                                                  Sig           2      Coordinated       Yes     Yes (2)
+  Eastgate Shopping Center Driveway
+  East Franklin Street and Elliott Road           Sig           8      Coordinated       Yes     Yes (4)
+  East Franklin Street and Estes Drive            Sig           8      Coordinated       Yes     Yes (4)
+Sig – Signalized, Unsig – Unsignalized    Ped Signals (Number of Approaches Featuring Signals)
+
+The project study area along E. Franklin Street features a mixture of signalized intersections at
+major intersections and unsignalized intersections at minor local access street and private
+driveway connections. The corridor features coordinated signal operation for weekday peak
+hours, with current information from the Town of Chapel delineating the signals into two control
+zones.
+
+Bicycle Routes and Sidewalks
+Specific bicycle facilities are not present in the immediate study area. Pedestrian sidewalk
+exists along both sides of E. Franklin Street through the study area. Additional connectivity
+exists along the Estes Drive and Elliott Road corridors. Sidewalk is also present on one side of
+Eastgate Shopping Center Driveway. Crosswalks and pedestrian signals are present in several
+quadrants at the three signalized study area intersections. Mid-block unsignalized crosswalks
+are also present across E. Franklin Street (near the proposed site) and at the Eastgate
+Shopping Center in the study area. The Lower Booker Creek Trail greenway currently connects
+to E. Franklin Street in the project study area. Figure 4 displays a schematic of existing
+pedestrian facilities in the project study area.
+
+Transit Routes
+Current Chapel Hill Transit (CHT) Routes CL, D, F, and DX serve the project study area along
+E. Franklin Street, Estes Drive and Elliott Road with weekday bus service. Several bus stops,
+with a range of amenities (shelters, benches), are present in the study area. Table 3 details the
+four current CHT routes serving the study area. Most buses run on 15, 30, or hour headways
+during weekday peak service periods.
+
+Triangle Transit provides regional bus service to the immediate study area via the 400 and 405
+Routes that run along E. Franklin Street and US 15-501 between Chapel Hill and Durham.
+Service for these routes occurs at 30 minute headways during peak weekday periods.
+
+Figure 5 displays transit routes and bus stops that currently exist in the project study area.
+Transit trips generated by the 1609 E. Franklin Street Hotel site are discussed in the following
+sections of this report, as the proximity and frequency of transit service directly within the
+existing/proposed site may account for a measurable portion of site trips.
+
+
+
+
+January 2015                                            4
+                                                           Town of Chapel Hill: Traffic Impact Study
+                                1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+                     Table 3. Current Study Area Weekday Transit Service
+
+         Headways (minutes)
+ Route    AM      PM       Off     Study Area Stops                Destinations
+         Peak Peak        Peak
+ Chapel Hill Transit
+                                                                      Colony Lake Residential
+                                    Village Plaza
+  CL       50       70    N/A                                         Downtown Chapel Hill
+                                    Eastgate Shopping Center
+                                                                      UNC Campus/Hospitals Area
+                                                                      UNC Campus/Hospitals Area
+                    20-   40-       Village Plaza
+   D       20                                                         Culbreth Road
+                    30    50        Eastgate Shopping Center
+                                                                      Eastowne
+                                                                      Ephesus Church Road
+                          50-       Village Plaza
+   F       20       30                                                Downtown Chapel Hill
+                          60        University Mall
+                                                                      Carrboro
+                                    Timberlyne Shopping Ctr          UNC Campus/UNC Hospitals
+  DX       45       50    N/A       Westminster Circle               Downtown Chapel Hill
+                                    NC 86 Corridor                   E. Chapel Hill HS/Cedar Falls Pk
+ Triangle Transit
+                                                                      Downtown Durham
+  400      30       30     60       E. Franklin Street Corridor      New Hope Commons
+                                                                      Downtown Chapel Hill/UNC Campus
+                                                                      Downtown Durham
+  405      30       30    N/A       E. Franklin Street Corridor
+                                                                      Downtown Chapel Hill/UNC Campus
+
+Recommended/Committed Surface Transportation Improvement Projects
+There are no committed/programmed NCDOT State Transportation Improvement Program
+(STIP) projects, Town of Chapel Hill transportation improvement projects, or private
+development-related projects to improve roadway facilities in the study area that are expected to
+be complete by 2017.
+
+F. Existing Traffic Conditions
+
+Figure 6 shows the existing AM, noon, and PM peak hour traffic volumes for the study area
+intersections. The turning movement counts used to determine these volumes were conducted
+in April 2014 for two study area intersections during the weekday periods 7:00 - 9:00 AM, 11:30
+AM – 1:30 PM, and 4:00 – 6:00 PM. For the intersection of E. Franklin Street and Estes Drive,
+previous count data from April 2013 was taken from the Glen Lennox Redevelopment Traffic
+Impact Study. All turning movement count output is found in Appendix B.
+
+Traffic count information shows traffic flows on E. Franklin Street were heavy during the AM and
+PM peak count periods, with southbound flows into downtown Chapel Hill heaviest in the AM
+peak and northbound return flows heaviest in the PM peak. Traffic on Estes Drive was moderate
+to heavy during the peak commuting periods. Traffic flows were light to moderate on the
+remaining study area roadways that function as collector or local access streets.
+
+Table 4 provides a detailed listing of each intersection count, peak hour, and count date.
+
+
+
+
+January 2015                                           5
+                                                    Town of Chapel Hill: Traffic Impact Study
+                            1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+                              Table 4. Traffic Count Information
+
+                                                Period                                   Count
+ Traffic Count Location                                            Peak Hour
+                                               Counted                                   Date
+                                               AM Peak           8:00 – 9:00 AM
+ East Franklin Street and
+                                              Noon Peak         12:15 – 1:15 PM          4/1/14
+ Eastgate Shopping Center Driveway
+                                               PM Peak           4:45 – 5:45 PM
+                                               AM Peak           8:00 – 9:00 AM
+ East Franklin Street and Elliott Road        Noon Peak         12:15 – 1:15 PM          4/1/14
+                                               PM Peak           4:45 – 5:45 PM
+                                               AM Peak           7:45 – 8:45 AM
+ East Franklin Street and Estes Drive         Noon Peak         12:00 – 1:00 PM          4/24/13
+                                               PM Peak           5:00 – 6:00 PM
+
+
+II. 2017 BUILD-OUT YEAR+1 CONDITIONS
+
+A. Future Ambient Area-Wide Traffic Growth Estimation
+
+Based on information on average daily traffic collected by the Town of Chapel Hill and the
+NCDOT, a yearly ambient traffic growth rate of 1.4 percent per year was used for the short-term
+2017 design year capacity analyses. This rate is based on previous and anticipated growth
+trends for this area from Town and NCDOT average daily traffic information from the period
+1990-2012, and matches detailed long-range growth estimates made for the Glen Lennox
+Redevelopment Traffic Impact Study, prepared by HNTB in October 2013.
+
+B. Approved Background Development Traffic Estimation
+
+Per information from Town of Chapel Hill staff and information from the Town’s Planning
+Department Development Activity Map (current as of April 2014), no Town-approved
+developments that are either currently under construction or are expected to be built out and
+fully operational by the 2017 design analysis year exist within the specific project study area.
+Multiple developments are planned or ongoing around the Town as of the time of this study, but
+their effects are captured within the ambient area-wide growth estimates as described
+previously.
+
+Figure 7 shows the estimated 2017 Build-out Year+1 peak hour background traffic volume
+projections.
+
+C. Proposed Project Traffic
+
+   i. Trip Generation
+
+   Projected trips for the proposed development were generated based on the ITE Trip
+   Generation Manual (Institute of Transportation Engineers, 9th Edition, 2013. Standard ITE
+   generation information was used for this study. No adjustments to trip generation rates (due
+   to internal trips, pass-by trips, transit trips, pedestrian/bicycle trips) were made, as raw ITE
+   data was used to make a conservative estimate of vehicular trips. Trip generation
+   methodologies for estimated trips generated by the proposed hotel use NCDOT
+   recommended “average rates” as the generating statistic, along with number of hotel rooms
+
+January 2015                                    6
+                                                           Town of Chapel Hill: Traffic Impact Study
+                                 1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+     as the generating variable. The apartment component uses “equation-based” generation
+     rates.
+
+     Table 5 shows the number of vehicular trips generated by existing 1609 E. Franklin Street
+     Hotel during the weekday AM, noon, and PM peak hours of adjacent streets, based on the
+     generation methodologies and comparisons described above.               A peak hour truck
+     percentage of two percent was estimated for all site-generated traffic.
+
+          Table 5. Weekday Daily and Peak Hour Vehicle Trip Generation Summary
+
+                        Hotel – 106 Rooms         Apartments – 28 Units        Total Development
+ Time Period
+                         Enter         Exit         Enter            Exit    Enter    Exit    Total
+ Daily                    433          433           147             147      580     580     1,160
+ AM Peak Hour              33           23             3             14       36       37      73
+ Noon Peak Hour*           33*          27*          12*             13*      45*     40*      85*
+ PM Peak Hour              33           31            21             12       54       43      97
+* - No ITE Data Available, Assumed Average of AM/PM Peak Hour Data
+
+     ii.) Adjustments to Trip Generation Rates
+
+     Raw ITE trip generation estimates for daily and peak hour trips have the potential to be
+     adjusted for the following factors to reduce raw trip generation estimates to actual estimated
+     vehicular trips produced by the 1609 E. Franklin Street Hotel development.
+
+     a.) Internal Capture
+     The land uses proposed for 1609 E. Franklin Street Hotel development would not exhibit the
+     potential for internally-captured trips for any on-site uses. No additional modifications or
+     reductions were made to trip generation results to account for internal capture.
+
+     b.) Modal Split
+     The study area is well served by several CHT and Triangle Transit fixed bus routes with
+     frequent existing service and also has facilities for pedestrians and bicyclists with good
+     connectivity to trip attractions in downtown Chapel Hill, the UNC Main Campus and the US
+     15-501 commercial corridor between Chapel Hill and Durham. Though it is highly likely that
+     a portion of all site trips will utilize a mode other than single-occupant vehicles, to be
+     conservative no quantitative estimate was made to reduce trip generation data for transit,
+     walk trips or bicycle trips.
+
+     c.) Pass-by Trips
+     No pass-by trips were accounted for in this study, since the proposed 1609 E. Franklin
+     Street Hotel is not a typical pass-by trip generator.
+
+     d.) Trip Generation Budget
+     Current information from the Applicant about the 1609 E. Franklin Street Hotel indicates that
+     the project will be built out in one phase. No adjustments or recommendations for a trip
+     generation budget are made for this study if the development is ultimately built to 106 guest
+     rooms and 28 apartments (the trip generating variable used here).
+
+
+
+ January 2015                                         7
+                                                     Town of Chapel Hill: Traffic Impact Study
+                             1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+   iii.) Trip Distribution
+
+   Trip distribution for site-related traffic was based existing daily and peak hour traffic patterns
+   to determine the directional peak hour characteristics of traffic to and from the site from the
+   major study area thoroughfares.
+
+   No local trips to/from lower volume collector and residential streets were estimated, though
+   the possibility exists a small portion of trip-making may occur to/from these local streets.
+   Basic distribution estimates for the proposed hotel utilized existing peak hour turning
+   movement counts and overall daily traffic volumes along the higher volume arterial and
+   collector streets to estimate a basic distribution of trips that would be consistent for all three
+   peak analysis hours. It was also assumed that site driveway trips would enter/exit at equal
+   proportions. Figure 8 presents the projected trip distribution traffic percentages for the
+   proposed site in 2017.
+
+   iv.) Trip Assignment
+
+   Figure 9 shows the corresponding site traffic volumes distributed on the 2017 study area
+   network. Total volumes into and out of the site correspond to total external vehicular trips
+   generated, based on the trip generation methodology developed previously. It was
+   assumed that the proposed site access points along E. Franklin Street would be allowed full
+   access for future traffic assignment.
+
+D. Future Traffic Forecasts with the Proposed Development
+
+Figure 10 displays the 2017 Build-out+1 year projected study area traffic volumes with site
+traffic added. These traffic volumes represent the aggregate traffic growth over existing traffic
+volumes for ambient traffic growth and estimated site traffic assignments for the 1609 E.
+Franklin Street Hotel.
+
+
+III. IMPACT ANALYSES
+
+A. Peak Hour Intersection Level of Service Analysis
+
+   i.) Methodology
+
+   Evaluation of traffic operations on suburban arterials is most effective through the
+   determination of level of service (LOS) criteria. The concept of level of service correlates
+   qualitative aspects of traffic flow to quantitative terms. This enables transportation
+   professionals to take the qualitative issues, such as congestion and substandard
+   geometrics, and translate them into measurable quantities, such as operating speeds and
+   vehicular delays. The 2010 Highway Capacity Manual (HCM 2010) characterizes level of
+   service by letter designations A through F. Level of service A represents ideal low-volume
+   traffic operations, and level of service F represents over-saturated high-volume traffic
+   operations. Level of service is measured differently for various roadway facilities, but in
+   general, level of service letter designations are described by the following in Table 6.
+
+
+
+
+January 2015                                     8
+                                                      Town of Chapel Hill: Traffic Impact Study
+                              1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+                        Table 6. Level of Service (LOS) Characteristics
+
+ Level of Service Description                                             Per Vehicle   Per Vehicle
+                                                                           Delay at         Delay
+                                                                            Signal      at Stop Sign
+ LOS A
+  Free flow
+  Freedom to select desired speed and to maneuver is extremely high      < 10.0 sec     < 10.0 sec
+  General level of comfort and convenience for motorists is excellent
+ LOS B
+  Stable flow
+  Other vehicles in the traffic stream become noticeable                 10.0 – 20.0   10.0 – 15.0
+  Reduction in freedom to maneuver from LOS A                               sec            sec
+ LOS C
+  Stable flow
+  Maneuverability and operating speed are significantly affected by      20.0 – 35.0   15.0 – 25.0
+    other vehicles                                                           sec            sec
+  General level of comfort and convenience declines noticeably
+ LOS D
+  High density but stable flow
+  Speed/freedom to maneuver are very restricted                          35.0 – 55.0   25.0 – 35.0
+  General level of comfort / convenience is poor                            sec            sec
+  Small increases in traffic will generally cause operational problems
+ LOS E
+  Unstable flow
+  Speed reduced to lower but relatively uniform value                    55.0 – 80.0   35.0 – 50.0
+  Volumes at or near capacity level                                         sec            sec
+  Comfort and convenience are extremely poor
+  Small flow increases or minor traffic stream disturbances will cause
+    breakdowns
+ LOS F
+  Forced or breakdown flow
+  Volumes exceed roadway capacity                                        > 80.0 sec     > 50.0 sec
+  Formation of unstable queues
+  Stoppages for long periods of time because of traffic congestion
+
+   The Synchro Professional Version 7 operations analysis software was used to analyze peak
+   hour conditions at signalized intersections. The Highway Capacity Software (HCS+ Version
+   6.0) was used to analyze peak hour conditions at unsignalized intersections. The minimum
+   acceptable peak hour intersection level of service established for this project is LOS D for
+   signalized intersections or LOS E for critical movements at unsignalized intersections, or no
+   increase in delay for signalized intersections operating below LOS D or unsignalized
+   intersection critical movements operating below LOS E without the inclusion of site traffic.
+   The following four conditions were evaluated:
+
+   Condition 1 - Existing Traffic
+   Condition 2 - 2017 Traffic without Site Traffic
+   Condition 3 - 2017 Traffic with Site Traffic Volumes Added
+   Condition 4 - 2017 Traffic with Site Traffic and Improvements
+
+
+
+
+January 2015                                      9
+                                                      Town of Chapel Hill: Traffic Impact Study
+                             1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+   The results of this analysis are based on the procedures presented in the HCM 2010 and
+   performed with the corresponding capacity analysis software described previously. The
+   methodology of evaluating each condition for signalized intersections is presented below:
+
+      Condition 1 – Use current Town of Chapel Hill data for the cycle length, splits and
+       offsets of individual signalized intersections and report LOS and delay values from
+       Synchro.
+
+      Conditions 2 and 3 – Reoptimize the cycle lengths and splits of individual intersections
+       in Synchro, if existing timing data does not provide adequate overall intersection LOS.
+       Adjust cycle lengths, splits, and offsets, if necessary, if the signal is currently operating in
+       a coordinated system. The optimized signal timing information will be held constant for
+       both Conditions, to provide a means to compare effects of the proposed site traffic.
+
+      Condition 4 – Optimize coordinated traffic signals for effects of recommended
+       mitigation strategies that change existing/committed changes to lane geometrics.
+       Evaluate the potential for different signal phasing schemes (left-turn lag phases, for
+       example).     Retain existing split minimums and any pedestrian timing values.
+       Recommendations, if warranted, will be made to obtain at least LOS D for the
+       intersection as a whole.
+
+   The net effect of this process is that direct comparisons, by movement, of delay and LOS
+   between each of the three conditions are impossible because splits and cycle lengths can
+   and do change between conditions. The pertinent statistic of this analysis is the overall
+   intersection level of service and delay. Improvements to deficient intersections in Condition
+   3 were made by first attempting to adjust signal operations via changes in cycle lengths,
+   splits and/or with acceptable adjustments to signal phasing. If that did not produce
+   satisfactory results for all intersections, geometric improvements to improve intersection
+   capacity were considered for the deficient intersections. Appendix C contains the Synchro
+   output for all four conditions (where applicable).
+
+   The proposed site driveway unsignalized intersections were analyzed directly in HCS. Their
+   results were evaluated on a per-movement basis, since HCS does not produce an overall
+   intersection level of service for unsignalized intersections. Thus, intersections with deficient
+   (LOS F) movements in Condition 2 would need to be evaluated for improvements in
+   Condition 3. This methodology differs from signalized intersections, where one or more
+   movements at an intersection may be deficient in Condition 2, but as long as the overall
+   intersection level of service does not fall below LOS D, no intersection improvements are
+   deemed necessary. Appendix D contains the HCS output for all unsignalized intersections
+   under study.
+
+   ii.) 2014 Existing Conditions Results
+
+   Table 7 presents the results for the existing year traffic conditions as compiled from field
+   data. The table lists LOS and delay values for those movements that are in existence at this
+   time. It also only lists data for individual movements encountering delay at the stop-
+   controlled intersections (which do not have an overall intersection delay value produced by
+   HCS).
+
+
+
+
+January 2015                                     10
+                                                                       Town of Chapel Hill: Traffic Impact Study
+                                       1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+     Currently, all study area signalized intersections operate at acceptable levels of service for
+     all of the analyzed 2014 peak hours, with the exception of E. Franklin Street and Estes
+     Drive. Based on existing peak hour traffic volumes, this intersection is over capacity in the
+     noon and PM peak hours and nearly so in the AM peak hour. The combination of eight-
+     phase traffic signal operations, with “protected only” left-turn signal operation at all
+     approaches, and high volume turning movements cause excessive delay for multiple
+     movements, with significant traffic queues.
+
+                   Table 7. Capacity Analysis Results for Study Area Intersections
+                                 Condition 1 – 2014 Existing Traffic
+
+                                                                                                    Average Vehicular Delay
+                                                                                LOS                    (seconds/vehicle)
+Intersections
+                                                                      AM       Noon        PM        AM      Noon      PM
+E. Franklin Street and Eastgate Shopping Ctr Drivewy                   A        B           B        7.5     13.2     11.9
+
+WB LT                                                                   E         E         E         58.9         56.3        56.5
+WB RT                                                                   D         D         D         49.2         45.8        45.8
+NB THRT                                                                 A         A         A         2.0          4.3         5.1
+SB LT                                                                   A         A         B         3.8          8.4         12.1
+SB THRT                                                                 A         A         A         4.1          6.7         7.2
+
+E. Franklin Street and Elliott Road                                     C         C         C         21.7         31.0        31.8
+
+EB LT                                                                   D         C         C         39.8         32.7        34.3
+EB THRT                                                                 E         D         E         65.6         53.6        58.9
+WB LT                                                                   D         D         D         41.4         37.2        39.3
+WB THRT                                                                 E         E         E         68.1         67.2        67.0
+NB LT                                                                   E         E         E         59.2         63.4        65.4
+NB THRT                                                                 B         C         C         14.3         26.2        29.6
+SB LT                                                                   A         B         C         7.5          14.7        31.3
+SB THRT                                                                 B         B         B         12.0         18.1        18.6
+
+E. Franklin Street and Estes Drive                                      D         E         E         51.0         55.5        65.9
+
+EB LT                                                                   E         E         F         61.8         79.9        85.0
+EB THRT                                                                 D         E         E         45.9         67.4        75.1
+WB LT                                                                   E         E         E         70.5         55.8        63.9
+WB TH                                                                   E         E         F         68.3         74.1        89.5
+WB RT                                                                   B         D         D         19.3         39.5        39.5
+NB LT                                                                   E         E         F         67.5         73.0        96.5
+NB THRT                                                                 D         D         E         40.7         47.6        58.9
+SB LT                                                                   E         E         F         68.9         78.8        82.1
+SB THRT                                                                 D         D         E         47.6         39.8        56.5
+
+N/A => Not Applicable, i.e. movement is non-existent or overall intersection values are not reported for unsignalized intersections
+BOLD/ITALICS – Movement or overall intersection is over Town TIS Guidelines threshold capacity
+
+
+     iii.) 2017 No-Build Scenario (Condition 2) Results
+
+     Table 8 presents the results for the 2017 Build-out+1 analysis year estimated traffic
+     conditions without the impacts of site-related traffic. This analysis includes the application of
+     the 1.4 percent per year ambient growth factor to existing traffic volumes. No additional
+     traffic related to future background site development projects was included in this analysis.
+     A summary of operations is given after the tabular information.
+
+January 2015                                                     11
+                                                                       Town of Chapel Hill: Traffic Impact Study
+                                       1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+                   Table 8. Capacity Analysis Results for Study Area Intersections
+                               Condition 2 – 2017 Traffic Without Site
+
+                                                                                                    Average Vehicular Delay
+                                                                                LOS                    (seconds/vehicle)
+Intersections
+                                                                      AM       Noon        PM        AM      Noon      PM
+E. Franklin Street and Eastgate Shopping Ctr Drivewy                   A        B           B        7.6     13.6     12.4
+
+WB LT                                                                   E         E         E         58.9         56.0        56.3
+WB RT                                                                   D         D         D         48.8         45.3        45.4
+NB THRT                                                                 A         A         A         2.1          4.8         5.8
+SB LT                                                                   A         A         B         3.9          9.1         14.3
+SB THRT                                                                 A         A         A         4.3          7.1         7.6
+
+E. Franklin Street and Elliott Road                                     C         C         C         22.0         31.7        33.6
+
+EB LT                                                                   D         C         C         39.6         32.4        34.2
+EB THRT                                                                 E         D         E         65.1         53.4        58.8
+WB LT                                                                   D         D         D         40.8         36.9        39.1
+WB THRT                                                                 E         E         E         68.3         66.4        66.8
+NB LT                                                                   E         E         E         59.3         63.7        66.7
+NB THRT                                                                 B         C         C         14.9         27.8        32.2
+SB LT                                                                   A         B         D         7.9          17.0        42.4
+SB THRT                                                                 B         B         B         12.5         18.8        19.4
+
+E. Franklin Street and Estes Drive                                      D         E         E         53.1         57.0        72.0
+
+EB LT                                                                   E         F         F         67.4         82.1        86.7
+EB THRT                                                                 D         E         E         47.9         66.9        75.7
+WB LT                                                                   E         E         E         70.4         56.3        64.5
+WB TH                                                                   E         E         F         68.0         74.8        93.6
+WB RT                                                                   B         D         D         19.0         39.1        39.4
+NB LT                                                                   E         E         F         67.7         73.1        99.4
+NB THRT                                                                 D         D         E         41.6         50.6        69.1
+SB LT                                                                   E         E         F         69.5         79.3        82.8
+SB THRT                                                                 D         D         E         50.3         41.7        65.9
+
+N/A => Not Applicable, i.e. movement is non-existent or overall intersection values are not reported for unsignalized intersections
+BOLD/ITALICS – Movement or overall intersection is over Town TIS Guidelines threshold capacity
+
+
+     During Condition 2 - 2017 Without Site Traffic, all study area intersections are expected to
+     still operate at acceptable levels of service for all analyzed peak hours, again with the
+     exception of the high volume E. Franklin Street/Estes Drive intersection. For the Condition 2
+     analysis, existing 2014 signal timings and system operations were held constant to examine
+     the effects of potential background traffic growth. There are no committed NCDOT, Town, or
+     private development background improvement projects in the project study area that are
+     expected to be complete by 2017.
+
+     iv.) 2017 Build Scenario (Condition 3) Results
+
+     Table 9 presents results for 2017 Build-out+1 year estimated traffic conditions, including
+     impacts of site-related traffic. In general, the addition of site-related traffic will marginally
+     increase delays at intersections and is not expected to cause additional intersections or
+
+
+
+January 2015                                                     12
+                                                                       Town of Chapel Hill: Traffic Impact Study
+                                       1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+     critical intersection stop-controlled movements to drop to deficient levels in the 2017
+     analysis year.
+
+                   Table 9. Capacity Analysis Results for Study Area Intersections
+                                Condition 3 – 2017 Traffic With Site
+
+                                                                                                    Average Vehicular Delay
+                                                                                LOS                    (seconds/vehicle)
+Intersections
+                                                                      AM       Noon        PM        AM      Noon      PM
+E. Franklin Street and Eastgate Shopping Ctr Drivewy                   A        B           B        7.6     13.6     12.6
+
+WB LT                                                                   E         E         E         58.9         55.9        56.2
+WB RT                                                                   D         D         D         48.6         45.1        45.2
+NB THRT                                                                 A         A         A         2.1          5.0         6.2
+SB LT                                                                   A         A         B         4.0          9.4         15.0
+SB THRT                                                                 A         A         A         4.4          7.2         7.8
+
+E. Franklin Street and Elliott Road                                     C         C         C         22.1         31.9        34.0
+
+EB LT                                                                   D         C         C         39.7         32.5        34.2
+EB THRT                                                                 E         D         E         66.7         54.3        60.0
+WB LT                                                                   D         D         D         41.4         37.4        39.7
+WB THRT                                                                 E         E         E         68.1         66.4        66.8
+NB LT                                                                   E         E         E         59.3         63.7        66.7
+NB THRT                                                                 B         C         C         15.0         28.1        32.9
+SB LT                                                                   A         B         D         7.9          18.3        44.6
+SB THRT                                                                 B         B         B         12.6         18.9        19.6
+
+E. Franklin Street and Estes Drive                                      D         E         E         53.7         57.3        74.6
+
+EB LT                                                                   E         F         F         69.0         76.1        87.6
+EB THRT                                                                 D         E         E         47.9         66.9        75.7
+WB LT                                                                   E         E         E         70.4         58.6        64.3
+WB TH                                                                   E         E         F         68.0         74.8        94.8
+WB RT                                                                   B         D         D         19.1         39.2        39.5
+NB LT                                                                   E         E         F         67.7         73.1        99.4
+NB THRT                                                                 D         D         E         42.0         49.5        74.4
+SB LT                                                                   E         E         F         70.2         79.7        83.4
+SB THRT                                                                 D         D         E         51.4         40.8        69.4
+
+E. Franklin Street and Site Driveway #1                               N/A        N/A       N/A        N/A          N/A         N/A
+
+EB LTRT                                                                 C         C         C         17.0         17.3        21.7
+NB LT                                                                   B         B         B         10.5         10.4        11.6
+
+E. Franklin Street and Site Driveway #2                               N/A        N/A       N/A        N/A          N/A         N/A
+
+EB LTRT                                                                 C         C         C         16.7         17.3        22.0
+NB LT                                                                   B         B         B         10.5         10.3        11.6
+
+N/A => Not Applicable, i.e. movement is non-existent or overall intersection values are not reported for unsignalized intersections
+BOLD/ITALICS – Movement or overall intersection is over Town TIS Guidelines threshold capacity
+
+
+     Site-related traffic marginally increases overall signalized intersection delay at all three
+     signalized study area intersections, with all signal timings and operational characteristics
+
+
+January 2015                                                     13
+                                                     Town of Chapel Hill: Traffic Impact Study
+                             1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+   held constant from 2017 Condition 2 – No-Build inputs. Unsignalized capacity analyses at
+   the two proposed site driveways indicates that acceptable operations at each driveway will
+   occur in all three peak hours in the 2017 Build scenario. The intersection of E. Franklin
+   Street and Estes Drive is still expected to operate over capacity in the noon and PM peak
+   hours and will be analyzed for mitigation options in Section III.A.v. below.
+
+   v.) 2017 Mitigation Scenario (Condition 4) Results
+
+   Table 10, on the following page, presents results for 2017 Build-out+1 year estimated traffic
+   conditions, including impacts of site-related traffic and mitigation necessary to meet Town of
+   Chapel Hill Guidelines and proposed recommendations from this study.
+
+   The E. Franklin Street and Estes Drive intersection was investigated for operational
+   improvements to mitigate existing deficiencies and provide improvements that would allow it
+   to at least operate at 2017 predicted levels without the inclusion of site traffic. Current signal
+   timings and operations along the E. Franklin Street corridor were reoptimized and
+   coordination between the three project study signalized intersections was implemented.
+   Results indicate that these adjustments may marginally improve operations at E. Franklin
+   Street/Estes Drive to levels that are slightly better than 2017 Condition 2 – No-Build
+   scenarios. No further geometric improvements to this intersection were tested, though it is
+   likely that to completely resolve existing operational deficiencies would include the need to
+   add capacity at one or several approaches.
+
+   In addition to improvements at E. Franklin Street and Estes Drive, an additional
+   improvement tested in Condition 4 was to combine the two proposed site driveway into a
+   single access point with separate exiting left-turn and right-turn lanes. This improvement,
+   studied for safety reasons and not strictly operational issues would still allow adequate
+   operations for site traffic entering and exiting the site in 2017. Additional recommended
+   details for intersection improvements are contained in Section IV.D.
+
+B. Access Analysis
+
+Vehicular site access is to be accommodated by two full movement access driveways
+connecting to E. Franklin Street about 450 feet to the south/west of its signalized intersection
+with the Elliott Road. Design details related to driveway throat lengths are shown on the
+concept plan and assume an approximate 25 foot driveway throat at each driveway. A two-way
+internal driveway circulation system to all surface parking areas is also shown on the plans.
+
+Driveway distances along E. Franklin Street from the signalized intersections at Estes Drive and
+Elliott Road are approximately 2,000 feet and 450 feet, respectively, and are acceptable, based
+on recommendations of 100 foot minimum corner clearance as set forth in the 2003 NCDOT
+Policy on Street and Driveway Access to North Carolina Highways and the 250 foot minimum
+along arterial streets specified in the 2005 Town of Chapel Hill Design Manual
+
+The proposed spacing between the proposed driveways (140 feet) and between the proposed
+driveways and adjacent existing driveways (approximately 50-75 feet) is less than the
+recommended 750 foot spacing along arterial roadways found in Table 4-A-1 in the Town
+Design Manual.
+
+Access for pedestrians and bicyclists is adequate in the project study area. Sidewalk is present
+on both sides of E. Franklin Street adjacent to the site and exists along the major street
+
+
+January 2015                                    14
+                                                                       Town of Chapel Hill: Traffic Impact Study
+                                       1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+connections along E. Franklin Street. Crosswalk and pedestrian signals exist across the three
+major signalized study area intersections near the 1609 E. Franklin Street Hotel site. No specific
+bicycle amenities are present along E. Franklin Street, but no restrictions to bicycle usage are
+present either.
+
+                  Table 10. Capacity Analysis Results for Study Area Intersections
+                          Condition 4 – 2017 Traffic With Site & Mitigation
+
+                                                                                                    Average Vehicular Delay
+                                                                                LOS                    (seconds/vehicle)
+Intersections
+                                                                      AM       Noon        PM         AM      Noon     PM
+E. Franklin Street and Eastgate Shopping Ctr Drivewy                   A        B           B         8.3      15.4    13.4
+
+WB LT                                                                   E         E         E          64.9         67.0       73.6
+WB RT                                                                   D         D         E          53.3         53.8       58.9
+NB THRT                                                                 A         A         A          2.9          5.1        3.9
+SB LT                                                                   A         A         B          3.9          9.0        13.2
+SB THRT                                                                 A         A         A          4.3          7.2        7.6
+
+E. Franklin Street and Elliott Road                                     C         C         C          22.4         30.2       29.0
+
+EB LT                                                                   D         D         D          46.4         43.2       54.1
+EB THRT                                                                 E         E         E          67.6         60.2       70.1
+WB LT                                                                   D         D         E          49.5         49.7       64.5
+WB THRT                                                                 E         E         F          74.2         74.6       84.9
+NB LT                                                                   D         F         F          46.0         83.5       99.1
+NB THRT                                                                 B         B         B          14.7         19.8       14.9
+SB LT                                                                   A         B         C          7.1          16.4       28.6
+SB THRT                                                                 B         B         B          11.2         14.4       15.4
+
+E. Franklin Street and Estes Drive                                      D         E         E          50.6         56.2       69.0
+
+EB LT                                                                   E         F         F          73.5         80.7        95.0
+EB THRT                                                                 D         E         E          45.7         70.4        74.7
+WB LT                                                                   F         E         E          87.8         56.3        66.8
+WB TH                                                                   E         F         F          72.7         82.5        95.3
+WB RT                                                                   C         D         D          20.1         43.8        43.9
+NB LT                                                                   E         E         F          70.3         75.7        99.4
+NB THRT                                                                 D         D         E          40.2         47.9        57.4
+SB LT                                                                   F         F         F          91.1         87.9       101.8
+SB THRT                                                                 D         C         E          35.3         34.3        60.1
+
+E. Franklin Street and Combined Site Driveway                         N/A        N/A       N/A         N/A           N/A        N/A
+
+EB LT                                                                   C         C         D          22.2         23.6       32.4
+EB RT                                                                   B         B         B          11.7         11.6       12.7
+NB LT                                                                   B         B         B          10.6         10.5       11.8
+
+N/A => Not Applicable, i.e. movement is non-existent or overall intersection values are not reported for unsignalized intersections
+BOLD/ITALICS – Movement or overall intersection is over Town TIS Guidelines threshold capacity
+
+
+
+
+January 2015                                                     15
+                                                       Town of Chapel Hill: Traffic Impact Study
+                               1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+C. Signal Warrant Analysis
+
+Based on projected 2017 traffic volumes and current/proposed access plans, no unsignalized
+study area intersections would warrant the installation of a traffic signal, based on the
+methodology found in the 2009 Manual on Uniform Traffic Control Devices (MUTCD).
+
+D. Sight Distance Analysis
+
+In general, sight distance issues entering/exiting the existing 1609 E. Franklin Street Hotel
+driveway would be minimal, considering the fact that E. Franklin Street has no horizontal
+curvature in the vicinity of proposed access locations and vertical curvature at these locations is
+minimal, giving exiting traffic adequate sight distance in both directions.
+
+E. Crash Analysis
+
+Data from the NCDOT Traffic Safety Unit was requested and was provided for the period
+3/1/2009 to 2/28/2014 for the segment of E. Franklin Street from Estes Drive to the Eastgate
+Shopping Center access driveway. Additionally, information was provided for crashes at all
+major study area intersections for this time period. Raw crash data is located in Appendix E.
+
+   E. Franklin Street Corridor
+   There were 160 crashes reported along the E. Franklin Street study area corridor between
+   Estes Drive and Eastgate Shopping Center over the five year period. In this 0.68 mile
+   segment, crash types were primarily rear-end crashes, with several other crash types
+   occurring. 88 of the 160 crashes were rear-end type crashes. The next highest crash types
+   included 18 angle crashes, 22 left-turn crashes, and 13 sideswipe crashes.
+
+   Table 11 presents a comparison between the E. Franklin Street study area crash rates and
+   the latest North Carolina statewide rates for the period 2009-2011 (compiled by NCDOT
+   Traffic Safety Unit). Overall, the number of crashes along E. Franklin Street in the project
+   study area are much higher than statewide averages for similar facilities (four-lane undivided
+   with continuous center turn lane) in every reported category. The crash severity for fatal
+   crashes is lower than statewide averages, but higher for injury crashes.
+
+        Table 11. Study Area Crash Rate Comparison – E. Franklin Street Corridor
+
+                                             Crashes Per 100 Million Vehicle Miles
+                                       East Franklin Street       NC Statewide Average*
+       Statistic
+                                     Estes Drive to Eastgate            4-Lane with
+                                        Shopping Center          Continuous Left-Turn Lane
+
+       Total Crash Rate                      622.50                        389.82
+
+       Fatal Crash Rate                       0.00                          0.90
+       Non-Fatal (Injury)
+                                             151.73                        116.61
+       Crash Rate
+       Night Crash Rate                      143.95                         76.07
+
+       Wet Crash Rate                        147.81                         65.90
+      * - Data for Urban Secondary Routes
+
+
+January 2015                                      16
+                                                   Town of Chapel Hill: Traffic Impact Study
+                            1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+   Study Area Intersections
+   In addition to the crash comparison for the project study corridor, individual intersection
+   crash data for the five year period was provided and results are shown in Table 12.
+
+   Crash rate information taken from the crash reports indicates that the E. Franklin Street
+   intersections with Estes Drive and Elliot Road have similar crash rates and represent a
+   significant number of crashes when compared to overall corridor data.
+
+                    Table 12. Study Area Intersection Crash Summary
+
+                                                 Number of        Crashes Per 100 Million
+  Intersection
+                                                Total Crashes        Vehicles Entered
+  East Franklin Street and
+                                                      17                    42.13
+  Eastgate Shopping Center Driveway
+  East Franklin Street and Elliott Road               45                    95.52
+  East Franklin Street and Estes Drive                59                    93.66
+
+Though no specific intersection crash data is available for the Chapel Hill Health and
+Rehabilitation Center driveway that is located directly opposite the proposed hotel site, study
+corridor crash data indicated that 4 crashes in 5 years occur in the vicinity of this opposing
+driveway.
+
+F. Other Transportation-Related Analyses
+
+Other transportation-related analyses relevant to the 2001 Town of Chapel Hill Guidelines for
+the preparation of Traffic Impact Studies were completed as appropriate. The topics listed in
+Table 13 are germane to the scope of this study.
+
+G. Special Analysis/Issues Related to Project
+
+Based on discussions with Town of Chapel Hill staff, there are no special issues or analyses
+beyond the ones already discussed for this proposed site.
+
+
+IV. MITIGATION MEASURES/RECOMMENDATIONS
+
+A. Planned Improvements
+
+There are no Town of Chapel Hill or North Carolina Department of Transportation improvement
+projects for study area roadway facilities within the analysis year time frame of 2014-2017.
+
+B. Background Committed Improvements
+
+There are no specific geometric or operational improvements to study area roadway
+intersections or facilities related to background private development projects that are expected
+to be completed between 2014 and 2017. To make an comparative assessment of changes in
+traffic operations between the 2014 existing year, 2017 No-Build Scenario and 2017 Build
+Scenario, it is not assumed that signal timing reoptimization would occur for the E. Franklin
+Street corridor by the year 2017.
+
+
+January 2015                                  17
+                                                        Town of Chapel Hill: Traffic Impact Study
+                              1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+                        Table 13. Other Transportation-Related Analyses
+
+ Analysis               Comment
+ Long-Range             Due to the fact that the proposed site will add less than 1,000 daily trips to the
+ Planning Level Daily   study area network, no long-range daily v/c analysis was conducted for this
+ Volume-Capacity        study.
+ Analysis
+ Turn Lane Storage      Storage bay lengths at study area intersections were analyzed using Synchro
+ Requirements           and HCS 95th percentile (max) queue length estimates for the 2017 Build
+                        Scenario. The E. Franklin Street/Estes Drive intersection eastbound approach
+                        has existing and projected queues that exceed its current storage bays that
+                        may need additional geometric improvement in the future.
+
+                        Left-turn bays at Elliot Road and the Eastgate Shopping Center may not provide
+                        adequate storage during peak hour conditions, based on existing storage
+                        distances and projected queue lengths. However, options to extend these
+                        storage distances are limited by the presence of nearby existing full access
+                        driveways.
+
+                        No other recommendations for improvements to storage bays are expected,
+                        based on the analysis results.
+
+ Appropriateness of     The site concept plan shows no specifics related to acceleration/deceleration
+ Acceleration/          lanes. Based on existing cross-section details, corridor speeds on E. Franklin
+ Deceleration Lanes     Street and capacity analysis results, no specific acceleration or deceleration
+                        lanes are recommended at proposed site access points. No other specific
+                        acceleration/deceleration lane issues were analyzed in the project study area.
+ Pedestrian and         Existing pedestrian and bicycle access and connectivity is adequate along the
+ Bicycle Analysis       E. Franklin Street corridor adjacent to the site. Sidewalk exists along major
+                        connecting streets along the corridor and pedestrian crossings and signals are
+                        present at signalized intersection. An additional mid-block crosswalk exists 750
+                        feet to the south of the proposed site along E. Franklin Street. No delineated
+                        bicycle lanes or wide outside lanes are present in the project study area. The
+                        Lower Booker Creek Trail Greenway terminates along E. Franklin Street just
+                        north of the Eastgate Shopping Center Driveway intersection, providing
+                        additional bicycle and pedestrian connectivity to the area.
+
+ Public                 Public transportation service to the study area, and to the proposed site, is
+ Transportation         excellent with multiple bus stops and multiple local and regional bus routes on
+ Analysis               E. Franklin Street proximate to the site.
+
+
+C. Applicant Committed Improvements
+
+Based on the preliminary site concept plans and supporting development information provided,
+there are no specific external transportation-related improvements proposed adjacent to the
+1609 E. Franklin Street Hotel.
+
+
+
+
+January 2015                                       18
+                                                     Town of Chapel Hill: Traffic Impact Study
+                             1609 E. Franklin Street Hotel – Proposed Commercial Development
+
+
+D. Necessary Improvements
+
+Based on traffic capacity analyses for the 2017 design year, and analyses of existing study area
+turning bay storage lengths and site access, the following improvements are recommended as
+being necessary for adequate transportation network operations (see Figure 11).
+
+   1) Retime the E. Franklin Street and Estes Drive intersection to optimize overall capacity
+      given the existing intersection geometrics and progression along E. Franklin Street.
+      Also, retime the upstream signals at Elliot Drive and the Eastgate Shopping Center
+      access driveway to promote coordinated traffic operations along E. Franklin Street.
+      Current information from the Town of Chapel Hill suggests that the Estes Drive corridor
+      may not be coordinated with the E. Franklin Street intersections at Elliot Drive and the
+      Eastgate Shopping Center. Bringing those two intersections into coordination with the
+      Estes Drive corridor may marginally improve operations at the critical E. Franklin
+      Street/Estes Drive intersection. If additional measures are required to improve traffic
+      operations at this intersection, geometric improvements may likely be needed. Since the
+      recommended signal timing improvements allow the intersection to operate slightly
+      better than the 2017 No-Build operations analysis results, and thus meet Town
+      requirements for mitigation, no additional geometric improvements were tested.
+
+       The proposed signal timing improvements are recommended in order to mitigate impacts
+       from the 1609 E. Franklin Street Hotel site and improve conditions to at least 2017 No-
+       Build levels.
+
+   2) Due to the fact that the proposed site access driveways do not meet Town design
+      standards for adequate driveway separation, and the fact that their proposed locations
+      do not align with the existing Chapel Hill Health and Rehabilitation Center driveway on
+      the opposite side of E. Franklin Street, it is recommended that the Applicant consider
+      revising the site plan for a single full movement access driveway that would be located
+      immediately opposite the Chapel Hill Health and Rehabilitation driveway.             This
+      improvement would reduce the number of vehicular conflict points in this vicinity and
+      improve safety along the E. Franklin Street corridor, which has a history of high numbers
+      of vehicle crashes due to a continuous center left-turn lane and multiple driveway access
+      points.
+
+       Capacity analysis results indicate that a single full movement access driveway, with
+       separate left-turn and right-turn lanes, will still provide adequate traffic operations in the
+       2017 analysis year and not cause undesirable on-site vehicular queues.
+
+       This improvement is recommended specifically for the 1609 E. Franklin Street Hotel
+       project.
+
+
+
+
+January 2015                                    19
+Appendix A – Figures
+                                      LEGEND
+
+                                = Existing Building Footprint
+                                = Existing Study Area Intersection
+                                = Proposed Site Driveway
+
+                                = Proposed Site Parcel
+
+
+
+
+1609 E. Franklin Street Hotel                 DATE: January 2015
+     Traffic Impact Study
+
+ PROJECT STUDY AREA MAP                          FIGURE 1
+LEGEND
+
+    = PROPOSED
+    SITE ACCESS
+
+
+
+
+                          1609 E. Franklin Street Hotel   DATE: January 2015
+                   NOT         Traffic Impact Study
+                   TO
+              N
+
+
+
+
+                  SCALE
+                                   SITE PLAN                FIGURE 2
+                                                                                       NOT
+                                 E. Franklin Street
+                                                                               N       TO
+                                                                                      SCALE
+
+
+
+
+                                        200'
+                                                     150'                     Eastgate
+               Commercial                                                     Shopping
+                Driveway                                                       Center
+                                                                              Driveway
+
+
+
+
+                                               CTL
+                                       450'
+                                                     100'
+
+Elliott Road                                                                 Elliott Road
+                                 75'
+
+                                               CTL
+
+
+                                                                     LEGEND
+                        Site
+                     Driveway                                Geometric, Speed Limits and
+                                                              Traffic Control As Shown
+                         #1
+          SITE                                                XXX’ = Storage Bay Length
+                        Site                                 CTL = Continuous Turn Lane
+                     Driveway
+                         #2
+                                       CTL
+
+
+
+
+                                                      DROP
+
+                                                      CTL
+
+Estes Drive                                                                 Estes Drive
+                                200'
+                                               CTL
+
+
+
+
+                                 E. Franklin Street
+
+                            1609 E. Franklin Street Hotel                 DATE: January 2015
+                                 Traffic Impact Study
+
+                        EXISTING LANEAGE AND GEOMETRICS                      FIGURE 3
+                                                                                   NOT
+                                 E. Franklin Street
+                                                                            N      TO
+                                                                                  SCALE
+
+
+
+
+                                                                         Eastgate
+               Commercial                                                Shopping
+                Driveway                                                  Center
+                                                                         Driveway
+
+
+
+
+Elliott Road                                                             Elliott Road
+
+
+
+
+                                                            LEGEND
+                        Site
+                     Driveway                                Greenway
+                         #1                                  Sidewalks
+          SITE                                               Crosswalks with
+                        Site                                 pedestrian signal heads
+                     Driveway                                Unsignalized
+                         #2                                  Crosswalks
+
+
+
+
+Estes Drive                                                              Estes Drive
+
+
+
+
+                                 E. Franklin Street
+
+                            1609 E. Franklin Street Hotel            DATE: January 2015
+                                 Traffic Impact Study
+
+                    STUDY AREA PEDESTRIAN AND BICYCLE FACILITIES         FIGURE 4
+                                                                                   NOT
+                                 E. Franklin Street
+                                                                            N      TO
+                                                                                  SCALE
+
+
+
+
+                                                                           Eastgate
+               Commercial                                                  Shopping
+                Driveway                                                    Center
+                                                                           Driveway
+
+
+
+
+Elliott Road                                                              Elliott Road
+
+
+
+
+                                                            LEGEND
+                        Site
+                     Driveway                                = BUS STOP
+                         #1
+          SITE                                               = F ROUTE
+                        Site                                 = D ROUTE
+                     Driveway
+                         #2                                  = CL ROUTE
+
+                                                             = DX ROUTE
+
+
+
+
+Estes Drive                                                               Estes Drive
+
+
+
+
+                                 E. Franklin Street
+
+                            1609 E. Franklin Street Hotel            DATE: January 2015
+                                 Traffic Impact Study
+
+                            CHAPEL HILL TRANSIT ROUTES                    FIGURE 5
+                                                                                                 NOT
+         LEGEND                           E. Franklin Street                                     TO
+                                                                                          N
+                                            879             646                                 SCALE
+ XXX = AM Peak Hour Volume                 <690>          <896>
+                                           (945)          (1145)
+<XXX> = Noon Peak Hour Volume
+                                         846 33
+ (XXX) = PM Peak Hour Volume                                                  127
+                                        <641> <49>
+                                                                             <335>
+                                        (888) (57)          34 <114> (99)    (306)       Eastgate
+                                                            93 <221> (207)
+                                                                                         Shopping
+                                                                                          Center
+                                                                              140        Driveway
+                                                        612 107
+                                                                             <276>
+                                                       <782> <227>
+                                                                             (268)
+                                                       (1046) (211)
+
+
+                                    50 762       67
+                     113                                                      171
+                                   <69> <614> <108>        51 <154> (123)
+                    <197>                                                    <432>
+                                   (109) (813) (109)       38 <83> (99)
+                    (265)                                                    (406)
+                                                           82 <195> (184)
+ Elliott Road                                                                           Elliott Road
+                                    80 <81> (84)
+                     171            57 <70> (84)                              211
+                                                        25 588      87
+                    <189>           34 <38> (40)                             <387>
+                                                       <45> <732> <209>
+                    (208)                                                    (437)
+                                                       (57) (986) (244)
+
+
+
+                               Site
+                            Driveway
+                                #1
+             SITE
+                               Site
+                            Driveway
+                                #2
+
+                                   237 571      72
+                     505                                                      435
+                                  <234> <444> <126>        81 <222> (214)
+                    <548>                                                    <673>
+                                  (385) (625) (110)        220 <268> (368)
+                    (824)                                                    (779)
+                                                           134 <183> (197)
+ Estes Drive                                                                           Estes Drive
+                                 356 <288> (340)
+                     751         338 <249> (315)                               498
+                                                        48 399     88         <533>
+                    <565>           57 <29> (55)       <46> <549> <158>       (599)
+                    (710)
+                                                       (71) (772) (174)
+
+
+                                            762             535
+                                           <656>          <753>
+                                           (877)          (1017)
+
+                                           E. Franklin Street
+
+                                  1609 E. Franklin Street Hotel                       DATE: January 2015
+                                           Traffic Impact Study
+
+                            2014 EXISTING PEAK HOUR TRAFFIC VOLUMES                     FIGURE 6
+                                                                                                  NOT
+          LEGEND                           E. Franklin Street                                     TO
+                                                                                           N
+                                             916             673                                 SCALE
+  XXX = AM Peak Hour Volume                 <719>          <934>
+                                            (985)          (1193)
+<XXX> = Noon Peak Hour Volume
+                                          882 34
+ (XXX) = PM Peak Hour Volume                                                   132
+                                         <668> <51>
+                                                                              <349>
+                                         (925) (59)          35 <119> (103)   (319)       Eastgate
+                                                             97 <230> (216)
+                                                                                          Shopping
+    2017 Traffic Volumes =
+2014 Existing Traffic Volumes +                                                            Center
+  1.4%/Year Ambient Growth                                                     146        Driveway
+                                                         638 111
+            Factor                                                            <288>
+                                                        <815> <237>
+                                                                              (279)
+                                                        (1090) (220)
+
+
+                                     52 794       70
+                      118                                                      178
+                                    <72> <640> <113>        53 <160> (128)
+                     <205>                                                    <450>
+                                    (114) (847) (114)       40 <86> (103)
+                     (276)                                                    (423)
+                                                            85 <203> (192)
+ Elliott Road                                                                            Elliott Road
+                                     83 <84> (88)
+                      178            59 <73> (88)                              220
+                                                         26 613       91
+                     <197>           35 <40> (42)                             <403>
+                                                        <47> <763> <218>
+                     (217)                                                    (455)
+                                                        (59) (1027) (254)
+
+
+
+                                Site
+                             Driveway
+                                 #1
+              SITE
+                                Site
+                             Driveway
+                                 #2
+
+                                     247 595      75
+                      526                                                      453
+                                    <244> <463> <131>       84 <231> (223)
+                     <571>                                                    <701>
+                                    (401) (651) (115)       229 <279> (383)
+                     (859)                                                    (812)
+                                                            140 <191> (205)
+  Estes Drive                                                                           Estes Drive
+                                  371 <300> (354)
+                      783         352 <259> (328)                               519
+                                                         50 416     92         <555>
+                     <590>           59 <30> (57)       <48> <572> <165>       (624)
+                     (740)
+                                                        (74) (804) (181)
+
+
+                                             794             557
+                                            <684>          <785>
+                                            (914)          (1060)
+
+                                            E. Franklin Street
+
+                                    1609 E. Franklin Street Hotel                      DATE: January 2015
+                                            Traffic Impact Study
+
+                             2017 PEAK HOUR TRAFFIC VOLUMES WITHOUT SITE                 FIGURE 7
+                                                                                                  NOT
+                                              E. Franklin Street                                  TO
+              LEGEND                                                                       N
+                                                35%          35%                                 SCALE
+                                               <35%>        <35%>
+   XX%/XX% = AM Peak Hour Enter/Exit           (35%)        (35%)
+<XX%>/<XX%> = Noon Peak Hour Enter/Exit       35%
+                                                                                5%
+                                             <35%>
+ (XX%)/(XX%) = PM Peak Hour Enter/Exit                                         <5%>
+                                             (35%)
+                                                                               (5%)       Eastgate
+                                                              5% <5%> (5%)
+                                                                                          Shopping
+                                                                                           Center
+                                                                                5%        Driveway
+                                                           35% 5%
+                                                                               <5%>
+                                                          <35%> <5%>
+                                                                               (5%)
+                                                          (35%) (5%)
+                                             40%
+                                                                                10%
+                                            <40%>
+                                                                               <10%>
+                                            (40%)
+                                                                               (10%)
+                                                             10% <10%> (10%)
+
+  Elliott Road                                                                           Elliott Road
+
+                                                                                10%
+                                                              40% 10%
+                                                                               <10%>
+                                                             <40%><10%>
+                                                                               (10%)
+                                                             (40%) (10%)
+                                             25% 25%
+                        50%                 <25%><25%>
+                       <50%>                (25%) (25%)
+                       (50%)
+              Site
+           Driveway
+               #1        50%
+                                   25% <25%> (25%)         25% 25%
+                        <50%>      25% <25%> (25%)        <25%><25%>
+                        (50%)                             (25%) (25%)
+                                             25% 25%
+ SITE                   50%                 <25%><25%>
+                       <50%>                (25%) (25%)
+                       (50%)
+              Site
+           Driveway
+               #2        50%       25% <25%> (25%)
+                                                           25% 25%
+                        <50%>      25% <25%> (25%)
+                                                          <25%><25%>
+                        (50%)                             (25%) (25%)
+                                     10% 30%      10%
+                      10%                                                       10%
+                                    <10%> <30%> <10%>
+                     <10%>                                   10% <10%> (10%)   <10%>
+                                    (10%) (30%) (10%)
+                     (10%)                                                     (10%)
+
+  Estes Drive                                                                           Estes Drive
+                                  10% <10%> (10%)
+                       10%                                                      10%
+                      <10%>                                   30%              <10%>
+                                                             <30%>             (10%)
+                      (10%)
+                                                             (30%)
+                                               30%           30%
+                                              <30%>         <30%>
+                                              (30%)         (30%)
+                                              E. Franklin Street
+
+                                         1609 E. Franklin Street Hotel                 DATE: January 2015
+                                              Traffic Impact Study
+
+                           PEAK HOUR SITE TRIP DISTRIBUTION PERCENTAGES                  FIGURE 8
+                                                                                          NOT
+                                             E. Franklin Street                           TO
+             LEGEND                                                                N
+                                                13           13                          SCALE
+                                               <16>         <14>
+   XX/XX = AM Peak Hour Enter/Exit             (19)         (15)
+<XX>/<XX> = Noon Peak Hour Enter/Exit        13
+                                                                          2
+                                            <16>
+ (XX)/(XX) = PM Peak Hour Enter/Exit                                     <2>
+                                            (19)
+                                                                         (3)      Eastgate
+                                                             2 <2> (3)
+                                                                                  Shopping
+                                                                                   Center
+                                                                          2       Driveway
+                                                          13   2
+                                                                         <2>
+                                                         <14> <2>
+                                                                         (2)
+                                                         (15) (2)
+                                             14
+                                                                          4
+                                            <18>
+                                                                         <4>
+                                            (22)
+                                                                         (5)
+                                                             4 <4> (5)
+
+Elliott Road                                                                     Elliott Road
+
+                                                                          4
+                                                             15   4
+                                                                         <4>
+                                                            <16> <4>
+                                                                         (4)
+                                                            (17) (4)
+                                              9    9
+                        18                   <12> <11>
+                       <23>                  (14) (13)
+                       (27)
+            Site
+         Driveway
+             #1          19             10 <10> (11)
+                                                           9    9
+                        <20>             9 <10> (11)      <11> <10>
+                        (22)                              (13) (11)
+SITE                    18
+                                              9    9
+                                             <11> <10>
+                       <22>                  (13) (11)
+             Site      (27)
+
+          Driveway
+              #2         18              9 <10> (11)
+                                                          9    9
+                        <20>             9 <10> (10)
+                                                         <11> <11>
+                        (21)                             (14) (13)
+                                          4 11 4
+                       4                 <4> <12> <4>                     4
+                      <4>                (4) (13) (4)        4 <5> (5)   <5>
+                      (4)                                                (5)
+
+ Estes Drive                                                                    Estes Drive
+                       4                  4 <5> (5)
+                                                                          4
+                      <5>                                     11         <4>
+                      (5)                                    <14>        (4)
+                                                             (16)
+                                                11          11
+                                               <12>        <14>
+                                               (13)        (16)
+                                             E. Franklin Street
+
+                                       1609 E. Franklin Street Hotel           DATE: January 2015
+                                             Traffic Impact Study
+
+                                   PEAK HOUR SITE TRIP ASSIGNMENT                FIGURE 9
+                                                                                                  NOT
+         LEGEND                            E. Franklin Street                                     TO
+                                                                                           N
+                                             929              686                                SCALE
+ XXX = AM Peak Hour Volume                  <735>           <948>
+                                            (1004)          (1208)
+<XXX> = Noon Peak Hour Volume
+                                          894 34                                134
+ (XXX) = PM Peak Hour Volume             <684> <51>                            <352>
+                                                              35 <119> (103)   (321)
+                                         (944) (59)
+                                                              99 <233> (218)              Eastgate
+                                                                                          Shopping
+   2017 Traffic Volumes =                                                                  Center
+  2017 Without Site Traffic                                                               Driveway
+                                                          651 113               147
+    Volumes + Site Trip
+                                                         <829> <239>           <290>
+        Assignment                                                             (281)
+                                                         (1105) (222)
+                                     52 808       70
+                     118                                                        182
+                                    <72> <658> <113>         53 <160> (128)
+                    <205>                                                      <455>
+                                    (114) (869) (114)        40 <86> (103)
+                    (276)                                                      (428)
+                                                             89 <208> (197)
+ Elliott Road                                                                            Elliott Road
+                                     83 <84> (88)
+                     178             59 <73> (88)                               223
+                                                          26 627       94
+                    <197>            35 <40> (42)                              <407>
+                                                         <47> <779> <221>
+                    (217)                                                      (461)
+                                                         (59) (1045) (259)
+                                            9    924
+                        18                 <12> <894>
+                       <23>                (14) (1094)
+                       (27)
+             Site
+          Driveway
+              #1        19            10 <10> (11)
+                                                          9    739
+                       <20>            9 <10> (11)
+                                                         <11> <1037>
+                       (22)                              (13) (1352)
+SITE                    18
+                                            9    924
+                                           <11> <893>
+                       <22>                (13) (1091)
+             Site      (27)
+
+          Driveway
+              #2        18             9 <10> (11)
+                                                          9    738
+                       <20>            9 <10> (10)       <11> <1039>
+                       (21)                              (14) (1355)
+                                    251 606      79
+                     530                                                        457
+                                   <248> <475> <135>         88 <236> (228)
+                    <575>                                                      <706>
+                                   (405) (664) (119)         229 <279> (383)
+                    (863)                                                      (817)
+                                                             140 <191> (205)
+ Estes Drive                                                                            Estes Drive
+                                  375 <305> (360)
+                      786         352 <259> (328)                               523
+                                                          50 427     92
+                     <594>           59 <30> (57)        <48> <586> <165>      <559>
+                     (745)                               (74) (821) (181)      (628)
+
+                                             805              568
+                                            <696>           <798>
+                                            (927)           (1076)
+                                            E. Franklin Street
+
+                                   1609 E. Franklin Street Hotel                       DATE: January 2015
+                                            Traffic Impact Study
+
+                             2017 PEAK HOUR TRAFFIC VOLUMES WITH SITE                    FIGURE 10
+                                                                                                     NOT
+                                        E. Franklin Street
+         LEGEND                                                                              N       TO
+                                                                                                    SCALE
+    = NECESSARY GEOMETRIC
+    IMPROVEMENT
+                                                                    Retime Signal &
+    = NECESSARY SIGNAL TIMING
+
+
+
+
+                                               200'
+    IMPROVEMENT                                                    Coordinate Corridor
+
+                                                            150'                            Eastgate
+               Commercial                                                                   Shopping
+                Driveway                                                                     Center
+                                                                                            Driveway
+
+
+
+
+                                                      CTL
+                                                                    Retime Signal &
+
+
+
+
+                                              450'
+                                                                   Coordinate Corridor
+
+                                                            100'
+
+Elliott Road                                                                               Elliott Road
+                                        75'
+
+                                                      CTL
+
+
+
+
+               Consolidate Access to
+                  One Driveway
+
+
+                                                                                   Chapel Hill
+                  Site
+   SITE        Driveway
+                                                                                 Rehabilitation &
+                                  25' Min                                        Health Driveway
+                                              CTL
+
+
+
+
+                                                             DROP
+
+                                                             CTL
+
+Estes Drive                                                                               Estes Drive
+                                       200'
+                                                      CTL
+
+
+
+
+                           Retime
+                           Signal &
+                          Coordinate
+                           Corridor
+
+                                        E. Franklin Street
+
+                                1609 E. Franklin Street Hotel                            DATE: January 2015
+                                        Traffic Impact Study
+
+                        COMMITTED AND RECOMMENDED IMPROVEMENTS                             FIGURE 11
+Appendix B – Traffic Count Data
+Type of peak hour being reported: Intersection Peak                                              Method for determining peak hour: Total Entering Volume
+ LOCATION: E Franklin St -- S Estes Dr                                                                                         QC JOB #: 10941401
+ CITY/STATE: Chapel Hill, NC                                                                                                   DATE: Wed, Apr 24 2013
+                      880          836                            Peak-Hour: 7:45 AM -- 8:45 AM
+                            0.93                                                                                                5.7        4.2
+
+                      237 571 72
+                                                                 Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                6.8 5.3 5.6
+
+
+       505     356                        81    435
+                                                                                                                   6.3   2.0                      2.5       5.5
+        0.92   338          0.98         220   0.93
+                                                                                                                         3.6                      6.8
+       751     57                        134    498
+                                                                                                                   2.9   5.3                      5.2       3.8
+
+                         48 399 88
+                                                                                                                                2.1 6.5 3.4
+
+                      762          535
+                            0.94                                                                                                5.2        5.6
+
+
+
+                             3                                                                                                   0    0    0
+
+
+
+                                                                                                                         0                          0
+
+               7                           4                                                                             0                          1
+
+                                                                                                                         0                          0
+
+                             4                                                                                                   0    0    0
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+
+               NA                        NA                                                                              NA                       NA
+
+
+
+
+                            NA                                                                                                        NA
+
+
+
+ 15-Min Count               E Franklin St                     E Franklin St               S Estes Dr                 S Estes Dr                  Total       Hourly
+    Period                  (Northbound)                     (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left     Thru Right         U     Left    Thru Right      U   Left   Thru Right    U    Left    Thru Right        U
+    7:00 AM           3       36      6         0       8      40      31     0    28     34      8    0      7      31      6        0          238
+    7:15 AM           5       39     12         0      17      80      29     0    40     58      7    0      9      28      9        0          333
+    7:30 AM           6       65     28         0      15     122      46     0    64     53      9    0     20      26     21        0          475
+    7:45 AM          13       98     10         0      13     157      55     0    93     88     14    0     26      65     23        0          655             1701
+    8:00 AM          15       97     26         0      17     135      65     0    89     85     17    0     33      63     21        0          663             2126
+    8:15 AM          11       92     28         0      24     143      70     0    97     93     13    0     35      44     14        0          664             2457
+    8:30 AM           9     112      24         0      18     136      47     0    77     72     13    0     40      48     23        0          619             2601
+    8:45 AM          14     102      33         0      21     131      52     0    66     78     15    0     27      44     31        0          614             2560
+
+
+
+
+ Peak 15-Min                    Northbound                       Southbound                  Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U          Left   Thru Right    U      Left   Thru Right    U   Left     Thru Right    U                      Total
+  All Vehicles       44     368    112     0           96    572    280     0     388    372    52     0   140      176    56     0                      2656
+ Heavy Trucks         0      32      0                  8     16     24             4     12      0         16        4     4                             120
+  Pedestrians                 4                                0                           0                          4                                    8
+    Bicycles         0        0      0                 0       0      0             0      0      0          0        1     0                              1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/11/2013 4:10 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: E Franklin St -- S Estes Dr                                                                                           QC JOB #: 10941402
+ CITY/STATE: Chapel Hill, NC                                                                                                     DATE: Wed, Apr 24 2013
+                      1120          1326                            Peak-Hour: 5:00 PM -- 6:00 PM
+                             0.94                                                                                                 1.8        1.3
+
+                      385 625 110
+                                                                   Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                                  0.8 2.4 1.8
+
+
+       824     340                         214    779
+                                                                                                                     0.8   0.6                      0.9       1.4
+        0.97   315           0.97          368   0.97
+                                                                                                                           1.0                      1.1
+       710     55                          197    599
+                                                                                                                     0.7   0.0                      2.5       1.7
+
+                         71 772 174
+                                                                                                                                  0.0 1.7 2.9
+
+                      877           1017
+                             0.93                                                                                                 2.3        1.8
+
+
+
+                              5                                                                                                    1    1    1
+
+
+
+                                                                                                                           0                          1
+
+               14                           13                                                                             2                          2
+
+                                                                                                                           0                          2
+
+                              9                                                                                                    0    7    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+               NA                          NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 15-Min Count                E Franklin St                      E Franklin St               S Estes Dr                 S Estes Dr                  Total       Hourly
+    Period                   (Northbound)                      (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left      Thru Right          U     Left    Thru Right      U   Left   Thru Right    U    Left    Thru Right        U
+    4:00 PM          10      140      44          0      41     127      74     0    74     73      9    0     39      98     68        0          797
+    4:15 PM          11      163      53          0      32     113      89     0    69     71      6    0     29      89     61        0          786
+    4:30 PM          12      166      30          0      37     136      71     0    79     77     13    0     44      91     57        0          813
+    4:45 PM          15      159      35          0      28     121      91     0    74     94     18    0     41     105     57        0          838             3234
+    5:00 PM          23      179      36          0      30     160      98     0    90     80     13    0     46      94     61        0          910             3347
+    5:15 PM          17      216      41          0      32     167      98     0    81     77     14    0     43      94     51        0          931             3492
+    5:30 PM          14      203      38          0      22     159      91     0    89     76     15    0     60      91     47        0          905             3584
+    5:45 PM          17      174      59          0      26     139      98     0    80     82     13    0     48      89     55        0          880             3626
+
+
+
+
+ Peak 15-Min                     Northbound                        Southbound                  Eastbound                  Westbound
+   Flowrates        Left     Thru Right     U           Left   Thru Right    U      Left   Thru Right    U   Left     Thru Right    U                      Total
+  All Vehicles       68      864    164     0           128    668    392     0     324    308    56     0   172      376   204     0                      3724
+ Heavy Trucks         0        8      8                   0     24      0             0      0      0          0        0     0                             40
+  Pedestrians                  4                                 8                           4                         12                                   28
+    Bicycles         0         0      0                   0      1      1             0      1      0          1        0     0                              4
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/11/2013 4:10 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: E Franklin St -- S Estes Dr                                                                                          QC JOB #: 10941403
+ CITY/STATE: Chapel Hill, NC                                                                                                    DATE: Wed, Apr 24 2013
+                      804          1060                          Peak-Hour: 12:00 PM -- 1:00 PM
+                            0.93                                                                                                 3.4        3.2
+
+                      234 444 126
+                                                                Peak 15-Min: 12:15 PM -- 12:30 PM
+                                                                                                                                 2.1 3.6 4.8
+
+
+       548     288                        222    673
+                                                                                                                    3.5   1.7                      3.2       4.5
+        0.88   249          0.98          268   0.90
+                                                                                                                          4.4                      4.9
+       566     29                         183    532
+                                                                                                                    2.8   0.0                      5.5       4.9
+
+                         46 549 158
+                                                                                                                                 2.2 4.0 5.7
+
+                      656          753
+                            0.96                                                                                                 4.0        4.2
+
+
+
+                             8                                                                                                    0    1    0
+
+
+
+                                                                                                                          0                          2
+
+               5                           10                                                                             0                          0
+
+                                                                                                                          0                          1
+
+                             3                                                                                                    0    1    1
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+
+               NA                         NA                                                                              NA                       NA
+
+
+
+
+                            NA                                                                                                         NA
+
+
+
+ 15-Min Count               E Franklin St                      E Franklin St               S Estes Dr                 S Estes Dr                  Total       Hourly
+    Period                  (Northbound)                      (Southbound)                (Eastbound)                (Westbound)                              Totals
+ Beginning At       Left     Thru Right          U     Left    Thru Right      U   Left   Thru Right    U    Left    Thru Right        U
+   11:00 AM           6       84     26          0      33      72      47     0    66     74      8    0     44      58     60        0          578
+   11:15 AM          10     110      31          0      25      91      53     0    61     59      5    0     25      42     45        0          557
+   11:30 AM          13     105      37          0      21      99      53     0    75     56      8    0     23      54     59        0          603
+   11:45 AM          11       97     59          0      15     112      68     0    87     77     10    0     27      64     52        0          679             2417
+   12:00 PM          15     130      46          0      29     102      50     1    80     60      9    0     40      73     54        0          689             2528
+   12:15 PM          11     149      37          0      36     126      40     0    74     62      9    0     45      61     60        0          710             2681
+   12:30 PM           8     143      37          0      25     103      76     0    75     67      4    0     42      62     49        0          691             2769
+   12:45 PM          12     127      38          0      35     113      68     0    59     60      7    0     56      72     59        0          706             2796
+
+
+
+
+ Peak 15-Min                    Northbound                        Southbound                  Eastbound                  Westbound
+   Flowrates        Left    Thru Right     U           Left   Thru Right    U      Left   Thru Right    U   Left     Thru Right    U                      Total
+  All Vehicles       44     596    148     0           144    504    160     0     296    248    36     0   180      244   240     0                      2840
+ Heavy Trucks         0      28      4                   4     24      4             4      4      0         32        4     8                             116
+  Pedestrians                 0                                 4                           0                         12                                    16
+    Bicycles         0        0      0                   0      0      0             0      0      0          1        0     0                               1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/11/2013 4:10 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Ephesus Church Rd -- E Franklin St                                                                                    QC JOB #: 12465401
+ CITY/STATE: Chapel Hill, NC                                                                                                     DATE: Tue, Apr 01 2014
+                      0            0                            Peak-Hour: 8:00 AM -- 9:00 AM
+                           0.00                                                                                                   0.0        0.0
+
+                      0     0      0
+                                                               Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                                  0.0 0.0 0.0
+
+
+       939    0                           0    879
+                                                                                                                     4.2   0.0                      0.0      4.0
+       0.89   612          0.96         846   0.90
+                                                                                                                           2.8                      4.0
+       719    107                        33    646
+                                                                                                                     2.8   2.8                      3.0      2.6
+
+                      93    0     34
+                                                                                                                                  5.4 0.0 0.0
+
+                     140          127
+                           0.81                                                                                                   2.9        3.9
+
+
+
+                            9                                                                                                      0    0    0
+
+
+
+                                                                                                                           0                          0
+
+              0                          21                                                                                0                          3
+
+                                                                                                                           0                          0
+
+                            4                                                                                                      0    0    0
+
+
+
+
+                           NA                                                                                                           NA
+
+
+
+
+              NA                        NA                                                                                 NA                       NA
+
+
+
+
+                           NA                                                                                                           NA
+
+
+
+ 15-Min Count          Ephesus Church Rd                Ephesus Church Rd                 E Franklin St               E Franklin St                Total      Hourly
+    Period               (Northbound)                     (Southbound)                    (Eastbound)                 (Westbound)                             Totals
+ Beginning At      Left Thru Right      U            Left Thru Right     U         Left   Thru Right      U   Left    Thru Right        U
+    7:00 AM          6      0     5     0             0      0     0     0          0      93       8     0     5      85       0       0          202
+    7:15 AM          9      0     4     0             0      0     0     0          0      91      12     0     5     117       0       0          238
+    7:30 AM         19      0     5     0             0      0     0     0          0     122      12     0     8     161       0       0          327
+    7:45 AM         24      0     6     0             0      0     0     0          0     163      22     0     7     204       0       0          426            1193
+    8:00 AM         19      0     8     0             0      0     0     0          0     178      25     0     5     189       0       0          424            1415
+    8:15 AM         21      0     4     0             0      0     0     0          0     129      24     0    12     232       0       0          422            1599
+    8:30 AM         28      0     8     0             0      0     0     0          0     156      24     0     8     207       0       0          431            1703
+    8:45 AM         25      0    14     0             0      0     0     0          0     149      34     0     8     218       0       0          448            1725
+
+
+
+
+ Peak 15-Min                   Northbound                       Southbound                    Eastbound                   Westbound
+   Flowrates   Left        Thru Right     U          Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles 100           0     56     0           0       0      0     0        0     596   136     0      32     872     0     0                     1792
+ Heavy Trucks    0           0      0                 0       0      0              0       4      4            4      44     0                            56
+  Pedestrians                0                               12                             0                          20                                  32
+    Bicycles     0           0      0                 0       0      0              0       0      0            0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/4/2014 7:49 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Ephesus Church Rd -- E Franklin St                                                                                    QC JOB #: 12465402
+ CITY/STATE: Chapel Hill, NC                                                                                                     DATE: Tue, Apr 01 2014
+                      0            0                            Peak-Hour: 4:45 PM -- 5:45 PM
+                           0.00                                                                                                   0.0        0.0
+
+                      0     0      0
+                                                               Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                                  0.0 0.0 0.0
+
+
+       1095   0                           0    945
+                                                                                                                     1.6   0.0                      0.0      1.7
+       0.89   1046         0.94         888   0.92
+                                                                                                                           1.8                      1.8
+       1257   211                        57   1145
+                                                                                                                     1.6   0.5                      0.0      1.7
+
+                     207    0     99
+                                                                                                                                  0.5 0.0 0.0
+
+                     268          306
+                           0.89                                                                                                   0.4        0.3
+
+
+
+                            41                                                                                                     0    0    0
+
+
+
+                                                                                                                           0                          0
+
+              0                          41                                                                                3                          0
+
+                                                                                                                           1                          0
+
+                            20                                                                                                     0    0    0
+
+
+
+
+                           NA                                                                                                           NA
+
+
+
+
+              NA                        NA                                                                                 NA                       NA
+
+
+
+
+                           NA                                                                                                           NA
+
+
+
+ 15-Min Count          Ephesus Church Rd                Ephesus Church Rd                 E Franklin St               E Franklin St                Total      Hourly
+    Period               (Northbound)                     (Southbound)                    (Eastbound)                 (Westbound)                             Totals
+ Beginning At      Left Thru Right      U            Left Thru Right     U         Left   Thru Right      U   Left    Thru Right        U
+    4:00 PM         38      0    25     0             0      0     0     0          0     224      64     0    17     174       0       0          542
+    4:15 PM         51      0    26     0             0      0     0     0          0     204      43     0     6     202       0       0          532
+    4:30 PM         44      0    20     0             0      0     0     0          0     234      53     0    14     180       0       0          545
+    4:45 PM         58      0    25     0             0      0     0     0          0     243      51     0    16     206       0       0          599            2218
+    5:00 PM         53      0    22     0             0      0     0     0          0     291      62     0     8     228       0       0          664            2340
+    5:15 PM         37      0    25     0             0      0     0     0          0     273      55     0    20     237       0       0          647            2455
+    5:30 PM         59      0    27     0             0      0     0     0          0     239      43     0    13     217       0       0          598            2508
+    5:45 PM         60      0    22     0             0      0     0     0          0     200      61     0    10     211       0       0          564            2473
+
+
+
+
+ Peak 15-Min                   Northbound                       Southbound                  Eastbound                     Westbound
+   Flowrates   Left        Thru Right     U          Left   Thru Right    U        Left Thru Right    U       Left    Thru Right    U                     Total
+  All Vehicles 212           0     88     0           0       0      0     0        0 1164    248     0        32     912     0     0                     2656
+ Heavy Trucks    0           0      0                 0       0      0              0    24      0              0      16     0                             40
+  Pedestrians               20                               52                           0                            52                                  124
+    Bicycles     0           0      0                 0       0      0              0     2      0              0       0     0                              2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/4/2014 7:49 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Ephesus Church Rd -- E Franklin St                                                                                    QC JOB #: 12465403
+ CITY/STATE: Chapel Hill, NC                                                                                                     DATE: Tue, Apr 01 2014
+                      0            0                           Peak-Hour: 12:15 PM -- 1:15 PM
+                           0.00                                                                                                   0.0        0.0
+
+                      0     0      0
+                                                              Peak 15-Min: 12:45 PM -- 1:00 PM
+                                                                                                                                  0.0 0.0 0.0
+
+
+       862    0                           0    690
+                                                                                                                     1.6   0.0                      0.0      2.2
+       0.93   782          0.96         641   0.91
+                                                                                                                           2.9                      2.0
+       1009   227                        49    896
+                                                                                                                     2.6   1.3                      4.1      2.6
+
+                     221    0     114
+                                                                                                                                  0.5 0.0 0.0
+
+                     276          335
+                           0.91                                                                                                   1.8        0.3
+
+
+
+                            10                                                                                                     0    0    0
+
+
+
+                                                                                                                           0                          0
+
+              0                          21                                                                                0                          4
+
+                                                                                                                           0                          0
+
+                            4                                                                                                      0    0    0
+
+
+
+
+                           NA                                                                                                           NA
+
+
+
+
+              NA                        NA                                                                                 NA                       NA
+
+
+
+
+                           NA                                                                                                           NA
+
+
+
+ 15-Min Count          Ephesus Church Rd                Ephesus Church Rd                 E Franklin St               E Franklin St                Total      Hourly
+    Period               (Northbound)                     (Southbound)                    (Eastbound)                 (Westbound)                             Totals
+ Beginning At      Left Thru Right      U            Left Thru Right     U         Left   Thru Right      U   Left    Thru Right        U
+   11:30 AM         51      0    15     0             0      0     0     0          0     161      50     0     9     150       0       0          436
+   11:45 AM         44      0    17     0             0      0     0     0          0     156      60     0    13     191       0       0          481
+   12:00 PM         42      0    20     0             0      0     0     0          0     171      60     0    15     184       0       0          492
+   12:15 PM         43      0    28     0             0      0     0     0          0     190      63     0    10     167       0       0          501            1910
+   12:30 PM         60      0    30     0             0      0     0     0          0     173      55     0    15     148       0       0          481            1955
+   12:45 PM         62      0    30     0             0      0     0     0          0     207      46     0    17     169       0       0          531            2005
+    1:00 PM         56      0    26     0             0      0     0     0          0     212      63     0     7     157       0       0          521            2034
+    1:15 PM         36      0    25     0             0      0     0     0          0     199      65     0     8     160       0       0          493            2026
+
+
+
+
+ Peak 15-Min                   Northbound                       Southbound                    Eastbound                   Westbound
+   Flowrates   Left        Thru Right     U          Left   Thru Right    U        Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles 248           0    120     0           0       0      0     0        0     828   184     0      68     676     0     0                     2124
+ Heavy Trucks    0           0      0                 0       0      0              0      16      8            0      12     0                            36
+  Pedestrians                0                               20                             0                          20                                  40
+    Bicycles     0           0      0                 0       0      0              0       0      0            0       0     0                             0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/4/2014 7:49 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                     Method for determining peak hour: Total Entering Volume
+ LOCATION: S Elliott Rd -- E Franklin St                                                                                              QC JOB #: 12465404
+ CITY/STATE: Chapel Hill, NC                                                                                                          DATE: Tue, Apr 01 2014
+                      171            113                            Peak-Hour: 8:00 AM -- 9:00 AM
+                              0.83                                                                                                     0.6        7.1
+
+                         34    57    80
+                                                                   Peak 15-Min: 8:45 AM -- 9:00 AM
+                                                                                                                                       2.9 0.0 0.0
+
+
+       878     25                           50    879
+                                                                                                                         4.2   12.0                      6.0      4.2
+        0.92   588            0.94         762   0.90
+                                                                                                                               2.9                       4.5
+       700     87                           67    719
+                                                                                                                         3.6   5.7                       0.0      2.8
+
+                         82    38    51
+                                                                                                                                       2.4 5.3 5.9
+
+                       211           171
+                              0.75                                                                                                     2.4        4.1
+
+
+
+                               5                                                                                                        0    0    0
+
+
+
+                                                                                                                               0                           0
+
+               7                             2                                                                                 0                           3
+
+                                                                                                                               0                           0
+
+                               4                                                                                                        0    0    0
+
+
+
+
+                              NA                                                                                                             NA
+
+
+
+
+               NA                          NA                                                                                  NA                        NA
+
+
+
+
+                              NA                                                                                                             NA
+
+
+
+ 15-Min Count                  S Elliott Rd                     S Elliott Rd                  E Franklin St               E Franklin St                 Total      Hourly
+    Period                    (Northbound)                     (Southbound)                   (Eastbound)                 (Westbound)                              Totals
+ Beginning At       Left       Thru Right         U     Left    Thru Right     U       Left   Thru Right      U   Left    Thru Right         U
+    7:00 AM           6          7       7        0      10       9       6    0        1      79      11     0     4      81       3        0          224
+    7:15 AM           7          5       8        0      12       6       5    0        1      81       9     0    14      93       6        0          247
+    7:30 AM          11          4       7        0      18      12      13    0        5     114      10     0     8     154      10        0          366
+    7:45 AM          11         10       7        0      30      18       8    0        2     145      17     0     8     184       8        0          448            1285
+    8:00 AM          16          3      10        0      26      15       7    0        6     165      19     0     9     165      14        0          455            1516
+    8:15 AM          17          6       8        0      13      17       8    0        5     127      17     0    18     218       9        0          463            1732
+    8:30 AM          27         13      14        0      21      12       9    0        6     148      27     0    20     182      14        0          493            1859
+    8:45 AM          22         16      19        0      20      13      10    0        8     148      24     0    20     197      13        0          510            1921
+
+
+
+
+ Peak 15-Min                      Northbound                       Southbound                     Eastbound                   Westbound
+   Flowrates        Left      Thru Right     U          Left   Thru Right    U         Left   Thru Right    U     Left    Thru Right    U                      Total
+  All Vehicles       88        64     76     0           80     52     40     0         32    592    96     0      80     788    52     0                      2040
+ Heavy Trucks         0         4      4                  0      0      0                8      4      8            0      36     4                             68
+  Pedestrians                   8                                8                              8                           0                                   24
+    Bicycles         0          0      0                 0       0      0               0       0      0            0       0     0                              0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/4/2014 7:49 AM                                               SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: S Elliott Rd -- E Franklin St                                                                                          QC JOB #: 12465405
+ CITY/STATE: Chapel Hill, NC                                                                                                      DATE: Tue, Apr 01 2014
+                     208          265                           Peak-Hour: 4:45 PM -- 5:45 PM
+                           0.93                                                                                                    2.4        0.8
+
+                      40    84    84
+                                                               Peak 15-Min: 5:00 PM -- 5:15 PM
+                                                                                                                                   2.5 1.2 3.6
+
+
+       1037   57                        109   1031
+                                                                                                                      2.0   1.8                      0.0      1.8
+       0.90   986          0.93         813   0.96
+                                                                                                                            1.6                      2.3
+       1287   244                       109   1193
+                                                                                                                      1.6   1.6                      0.0      1.7
+
+                     184 99 123
+                                                                                                                                   0.5 1.0 0.8
+
+                     437          406
+                           0.93                                                                                                    1.1        0.7
+
+
+
+                            12                                                                                                      0    1    0
+
+
+
+                                                                                                                            0                          0
+
+              15                          6                                                                                 3                          0
+
+                                                                                                                            1                          0
+
+                            9                                                                                                       1    0    0
+
+
+
+
+                           NA                                                                                                            NA
+
+
+
+
+              NA                        NA                                                                                  NA                       NA
+
+
+
+
+                           NA                                                                                                            NA
+
+
+
+ 15-Min Count               S Elliott Rd                     S Elliott Rd                  E Franklin St               E Franklin St                Total      Hourly
+    Period                 (Northbound)                     (Southbound)                   (Eastbound)                 (Westbound)                             Totals
+ Beginning At      Left     Thru Right         U     Left    Thru Right     U       Left   Thru Right      U   Left    Thru Right        U
+    4:00 PM         40       21      45        0      21      19       4    0        13    190      48     0    22     156      12       0          591
+    4:15 PM         43       14      28        0      14      15      12    0        22    195      50     0    29     173      30       0          625
+    4:30 PM         37       19      33        0      25      11      11    0        12    218      60     0    27     173      21       0          647
+    4:45 PM         43       33      31        0      18      21      14    0        15    241      53     0    30     184      25       0          708            2571
+    5:00 PM         50       24      25        0      20      27       9    0        14    281      70     0    27     207      34       0          788            2768
+    5:15 PM         46       28      36        0      19      22       8    0        21    258      69     0    26     205      20       0          758            2901
+    5:30 PM         45       14      31        0      27      14       9    0         7    206      52     0    26     217      30       0          678            2932
+    5:45 PM         49       23      36        0      23      16      10    0        17    184      46     0    28     203      22       0          657            2881
+
+
+
+
+ Peak 15-Min                   Northbound                       Southbound                   Eastbound                     Westbound
+   Flowrates   Left        Thru Right     U          Left   Thru Right    U         Left Thru Right    U       Left    Thru Right    U                     Total
+  All Vehicles 200          96    100     0           80    108     36     0         56 1124   280     0       108     828   136     0                     3152
+ Heavy Trucks    0           0      0                  4      4      0                0    8      4              0      16     0                            36
+  Pedestrians               12                                8                            8                             0                                  28
+    Bicycles     0           0      0                 0       0      0                0    2      1              0       0     0                             3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/4/2014 7:49 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: S Elliott Rd -- E Franklin St                                                                                          QC JOB #: 12465406
+ CITY/STATE: Chapel Hill, NC                                                                                                      DATE: Tue, Apr 01 2014
+                     189          197                          Peak-Hour: 12:15 PM -- 1:15 PM
+                           0.92                                                                                                    3.2        2.0
+
+                      38    70    81
+                                                               Peak 15-Min: 1:00 PM -- 1:15 PM
+                                                                                                                                   2.6 4.3 2.5
+
+
+       847    45                         69    791
+                                                                                                                      2.6   2.2                      1.4      2.5
+       0.90   732          0.91         614   0.97
+                                                                                                                            2.9                      2.9
+       986    209                       108    967
+                                                                                                                      2.7   2.4                      0.9      2.8
+
+                     195 83 154
+                                                                                                                                   1.5 2.4 2.6
+
+                     387          432
+                           0.86                                                                                                    2.3        2.1
+
+
+
+                            9                                                                                                       0    0    0
+
+
+
+                                                                                                                            0                          0
+
+              11                          4                                                                                 0                          4
+
+                                                                                                                            1                          0
+
+                            8                                                                                                       0    0    0
+
+
+
+
+                           NA                                                                                                            NA
+
+
+
+
+              NA                        NA                                                                                  NA                       NA
+
+
+
+
+                           NA                                                                                                            NA
+
+
+
+ 15-Min Count               S Elliott Rd                     S Elliott Rd                  E Franklin St               E Franklin St                Total      Hourly
+    Period                 (Northbound)                     (Southbound)                   (Eastbound)                 (Westbound)                             Totals
+ Beginning At      Left     Thru Right         U     Left    Thru Right     U       Left   Thru Right      U   Left    Thru Right        U
+   11:30 AM         35       16      32        0      17      20       6    0         9    156      53     0    22     128      23       0          517
+   11:45 AM         33       19      23        0      22      13       9    0         6    148      61     0    28     159      18       0          539
+   12:00 PM         38       14      30        0      23      19      10    0        12    182      59     0    28     166      12       0          593
+   12:15 PM         47       19      43        0      26      16      12    0        10    157      66     0    22     154      19       0          591            2240
+   12:30 PM         47       17      28        0      17      20      11    0        13    184      47     0    30     148      16       0          578            2301
+   12:45 PM         48       18      40        0      20      16       8    0        11    168      53     0    23     146      21       0          572            2334
+    1:00 PM         53       29      43        0      18      18       7    0        11    223      43     0    33     166      13       0          657            2398
+    1:15 PM         37       19      30        0      24       8       5    0        13    190      46     0    21     156      19       0          568            2375
+
+
+
+
+ Peak 15-Min                   Northbound                       Southbound                     Eastbound                   Westbound
+   Flowrates   Left        Thru Right     U          Left   Thru Right    U         Left   Thru Right    U     Left    Thru Right    U                     Total
+  All Vehicles 212         116    172     0           72     72     28     0         44    892   172     0     132     664    52     0                     2628
+ Heavy Trucks    8           4      8                  4      0      0                0     24      4            4      16     0                            72
+  Pedestrians                0                                4                              4                           4                                  12
+    Bicycles     0           0      0                 0       0      0               0       0      1            0       0     0                             1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 4/4/2014 7:49 AM                                            SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Appendix C – SYNCHRO Signalized Analysis Output
+Lanes, Volumes, Timings                                                                2014 Existing AM Peak
+1: Eastgate Shopping Ctr & E. Franklin Street                                                           4/15/2014
+
+
+
+Lane Group                      WBL      WBR          NET    NER      SWL      SWT
+Lane Configurations
+Volume (vph)                       93      34      612        107       33      846
+Ideal Flow (vphpl)              1900     1900     1900       1900     1900     1900
+Grade (%)                         2%               -1%                          1%
+Storage Length (ft)               150       0                   0      200
+Storage Lanes                       1       1                   0        1
+Taper Length (ft)                  25      25                  25       25
+Lane Util. Factor                1.00    1.00      0.95      0.95     1.00     0.95
+Ped Bike Factor                          0.95      0.99               1.00
+Frt                                     0.850     0.978
+Flt Protected                  0.950                                 0.950
+Satd. Flow (prot)               1718     1537     3428          0     1727     3454
+Flt Permitted                  0.950                                 0.337
+Satd. Flow (perm)               1718     1467     3428          0      611     3454
+Right Turn on Red                          No                  No
+Satd. Flow (RTOR)
+Link Speed (mph)                   25                35                          35
+Link Distance (ft)               360              1030                          641
+Travel Time (s)                   9.8              20.1                        12.5
+Confl. Peds. (#/hr)                         21                  4        4
+Peak Hour Factor                0.81      0.81        0.89   0.89     0.90     0.90
+Heavy Vehicles (%)               4%        4%          3%     3%       4%       4%
+Adj. Flow (vph)                  115        42         688    120       37      940
+Shared Lane Traffic (%)
+Lane Group Flow (vph)            115       42         808       0      37       940
+Turn Type                                Perm                        Perm
+Protected Phases                    8                   2                         6
+Permitted Phases                             8                           6
+Detector Phase                      8        8          2                6        6
+Switch Phase
+Minimum Initial (s)              7.0       7.0     10.0                10.0     10.0
+Minimum Split (s)               29.0      29.0     24.0                17.0     17.0
+Total Split (s)                 50.0      50.0     70.0        0.0     70.0     70.0
+Total Split (%)               41.7%     41.7%    58.3%       0.0%    58.3%    58.3%
+Maximum Green (s)               43.9      43.9     64.2                63.9     63.9
+Yellow Time (s)                  3.0       3.0      3.9                 3.8      3.8
+All-Red Time (s)                 3.1       3.1      1.9                 2.3      2.3
+Lost Time Adjust (s)            -1.1      -1.1     -0.8       0.0      -1.1     -1.1
+Total Lost Time (s)              5.0       5.0      5.0       4.0       5.0      5.0
+Lead/Lag
+Lead-Lag Optimize?
+Vehicle Extension (s)            3.0       3.0   3.0                    3.0   3.0
+Recall Mode                    None      None C-Max                  C-Max C-Max
+Walk Time (s)                    7.0       7.0   7.0
+Flash Dont Walk (s)             15.0      15.0  10.0
+Pedestrian Calls (#/hr)            0         0     0
+Act Effct Green (s)             14.6      14.6  95.4                  95.4     95.4
+Actuated g/C Ratio              0.12      0.12  0.80                  0.80     0.80
+v/c Ratio                       0.55      0.24  0.30                  0.08     0.34
+
+Town of Chapel Hill - 1609 E. Franklin St Hotel TIS                                             Synchro 7 - Report
+HNTB North Carolina, PC                                                                                     Page 1
+Lanes, Volumes, Timings                                                                2014 Existing AM Peak
+1: Eastgate Shopping Ctr & E. Franklin Street                                                           4/15/2014
+
+
+
+Lane Group                      WBL      WBR          NET    NER     SWL    SWT
+Control Delay                   58.9     49.2          2.0            3.8     4.1
+Queue Delay                       0.0     0.0          0.0            0.0     0.0
+Total Delay                     58.9     49.2          2.0            3.8     4.1
+LOS                                 E      D             A              A       A
+Approach Delay                  56.3                   2.0                    4.1
+Approach LOS                        E                    A                      A
+Queue Length 50th (ft)             85       30          36             5       87
+Queue Length 95th (ft)           125        56          48            16     140
+Internal Link Dist (ft)          280                  950                    561
+Turn Bay Length (ft)             150                                  200
+Base Capacity (vph)              644       550    2726                486   2747
+Starvation Cap Reductn              0        0        0                 0       0
+Spillback Cap Reductn               0        0        0                 0       0
+Storage Cap Reductn                 0        0        0                 0       0
+Reduced v/c Ratio               0.18      0.08     0.30              0.08    0.34
+Intersection Summary
+Area Type:                   Other
+Cycle Length: 120
+Actuated Cycle Length: 120
+Offset: 8 (7%), Referenced to phase 2:NET and 6:SWTL, Start of Green
+Natural Cycle: 55
+Control Type: Actuated-Coordinated
+Maximum v/c Ratio: 0.55
+Intersection Signal Delay: 7.5                                Intersection LOS: A
+Intersection Capacity Utilization 47.9%                       ICU Level of Service A
+Analysis Period (min) 15
+
+Splits and Phases:   1: Eastgate Shopping Ctr & E. Franklin Street
+
+
+
+
+Town of Chapel Hill - 1609 E. Franklin St Hotel TIS                                             Synchro 7 - Report
+HNTB North Carolina, PC                                                                                     Page 2
+Lanes, Volumes, Timings                                                                                  2014 Existing AM Peak
+2: Elliott Road & E. Franklin Street                                                                                         4/15/2014
+
+
+
+Lane Group                       SEL      SET         SER     NWL      NWT      NWR      NEL      NET     NER     SWL    SWT      SWR
+Lane Configurations
+Volume (vph)                      80        57      34          82       38       51       25     588      87       67    762       50
+Ideal Flow (vphpl)              1900     1900     1900        1900     1900     1900     1900    1900    1900     1900   1900     1900
+Grade (%)                                 -1%                           1%                        -2%                     2%
+Storage Length (ft)               75                     0     100                 0     1000                0     450               0
+Storage Lanes                      1                     0       1                 0         1               0       1               0
+Taper Length (ft)                 25                    25      25                25        25              25      25              25
+Lane Util. Factor               1.00     1.00         1.00    1.00     1.00     1.00      1.00    0.95    0.95    1.00    0.95    0.95
+Ped Bike Factor                 1.00     0.99                 0.99     0.99               0.99    1.00            1.00    1.00
+Frt                                     0.944                         0.914                      0.981                   0.991
+Flt Protected                  0.950                         0.950                      0.950                    0.950
+Satd. Flow (prot)               1778     1753           0     1727     1647        0     1753    3423       0     1718   3397        0
+Flt Permitted                  0.589                         0.534                      0.950                    0.323
+Satd. Flow (perm)               1100     1753           0      964     1647        0     1743    3423       0      582   3397        0
+Right Turn on Red                                      No                         No                       No                       No
+Satd. Flow (RTOR)
+Link Speed (mph)                            25                            25                        35                      35
+Link Distance (ft)                         382                           817                     1876                    1030
+Travel Time (s)                           10.4                          22.3                      36.5                    20.1
+Confl. Peds. (#/hr)                2                     7       7                 2        5                4       4               5
+Peak Hour Factor                0.83      0.83        0.83    0.75      0.75    0.75     0.92     0.92    0.92    0.90    0.90    0.90
+Heavy Vehicles (%)               2%        2%          2%      4%        4%      4%       4%       4%      4%      4%      4%      4%
+Adj. Flow (vph)                   96        69          41     109        51      68       27      639      95      74     847      56
+Shared Lane Traffic (%)
+Lane Group Flow (vph)            96       110           0      109      119        0      27      734       0       74     903       0
+Turn Type                     pm+pt                          pm+pt                       Prot                    pm+pt
+Protected Phases                  7          4                   3         8                5       2                1       6
+Permitted Phases                  4                              8                                                   6
+Detector Phase                    7          4                   3         8                5       2                1       6
+Switch Phase
+Minimum Initial (s)              7.0        7.0                 7.0       7.0              7.0  10.0                7.0  10.0
+Minimum Split (s)               13.0      32.0                 13.0     32.0              13.0  24.0               13.0  24.0
+Total Split (s)                 20.0      23.0      0.0        28.0     31.0      0.0     16.0  54.0       0.0     15.0  53.0       0.0
+Total Split (%)               16.7%     19.2%     0.0%       23.3%    25.8%     0.0%    13.3% 45.0%      0.0%    12.5% 44.2%      0.0%
+Maximum Green (s)               14.1      17.1                 22.2     25.1              10.6  48.7                9.7  47.7
+Yellow Time (s)                  3.0        3.2                 3.0       3.2              3.0    4.0               3.0    4.0
+All-Red Time (s)                 2.9        2.7                 2.8       2.7              2.4    1.3               2.3    1.3
+Lost Time Adjust (s)            -0.9      -0.9        -0.9     -0.8     -0.9     -0.9     -0.4  -0.3       0.0     -0.3  -0.3       0.0
+Total Lost Time (s)              5.0        5.0        3.1      5.0       5.0     3.1      5.0    5.0      4.0      5.0    5.0      4.0
+Lead/Lag                       Lead        Lag                Lead       Lag             Lead    Lag              Lead    Lag
+Lead-Lag Optimize?              Yes       Yes                  Yes      Yes               Yes   Yes                Yes   Yes
+Vehicle Extension (s)            1.0        1.0                 1.0       1.0              1.0    3.0               1.0    3.0
+Recall Mode                    None      None                 None     None              None C-Max               None C-Max
+Walk Time (s)                               7.0                           7.0                     7.0                      7.0
+Flash Dont Walk (s)                       19.0                          19.0                      8.0                      8.0
+Pedestrian Calls (#/hr)                       0                             0                       0                        0
+Act Effct Green (s)             22.2      12.3                23.9      13.1               7.5  72.0               78.8  74.4
+Actuated g/C Ratio              0.18      0.10                0.20      0.11              0.06  0.60               0.66  0.62
+v/c Ratio                       0.37      0.61                0.42      0.66              0.25  0.36               0.16  0.43
+
+Town of Chapel Hill - 1609 E. Franklin St Hotel TIS                                                                  Synchro 7 - Report
+HNTB North Carolina, PC                                                                                                          Page 3
+Lanes, Volumes, Timings                                                                                2014 Existing AM Peak
+2: Elliott Road & E. Franklin Street                                                                                     4/15/2014
+
+
+
+Lane Group                      SEL       SET         SER   NWL    NWT     NWR        NEL     NET       NER   SWL    SWT      SWR
+Control Delay                   39.8      65.6              41.1   68.1               59.2     14.3            7.5   12.0
+Queue Delay                      0.0        0.0              0.0     0.0               0.0       0.0           0.0     0.0
+Total Delay                     39.8      65.6              41.1   68.1               59.2     14.3            7.5   12.0
+LOS                               D           E               D        E                 E         B             A       B
+Approach Delay                            53.6                     55.2                        15.9                  11.7
+Approach LOS                                  D                        E                           B                     B
+Queue Length 50th (ft)            61         83              70       90                20      150            15     156
+Queue Length 95th (ft)            90       126               90     120                 51      230            37     231
+Internal Link Dist (ft)                    302                      737                       1796                    950
+Turn Bay Length (ft)              75                         100                      1000                     450
+Base Capacity (vph)              329       263               375    357                 161   2055             485   2106
+Starvation Cap Reductn             0         0                 0      0                   0       0              0       0
+Spillback Cap Reductn              0         0                 0      0                   0       0              0       0
+Storage Cap Reductn                0         0                 0      0                   0       0              0       0
+Reduced v/c Ratio               0.29      0.42              0.29   0.33                0.17    0.36           0.15    0.43
+Intersection Summary
+Area Type:                   Other
+Cycle Length: 120
+Actuated Cycle Length: 120
+Offset: 112 (93%), Referenced to phase 2:NET and 6:SWTL, Start of Green
+Natural Cycle: 85
+Control Type: Actuated-Coordinated
+Maximum v/c Ratio: 0.66
+Intersection Signal Delay: 21.7                              Intersection LOS: C
+Intersection Capacity Utilization 54.3%                      ICU Level of Service A
+Analysis Period (min) 15
+
+Splits and Phases:   2: Elliott Road & E. Franklin Street
+
+
+
+
+Town of Chapel Hill - 1609 E. Franklin St Hotel TIS                                                              Synchro 7 - Report
+HNTB North Carolina, PC                                                                                                      Page 4
+Lanes, Volumes, Timings                                                                                    2014 Existing AM Peak
+3: Estes Drive & E. Franklin Street                                                                                               4/15/2014
+
+
+
+Lane Group                       EBL      EBT         EBR     WBL      WBT      WBR      NBL       NBT      NBR     SBL       SBT     SBR
+Lane Configurations
+Volume (vph)                      356     338        57         134     220       81        48     399        88       72     571       237
+Ideal Flow (vphpl)              1900     1900     1900        1900     1900    1900      1900     1900     1900     1900     1900     1900
+Storage Length (ft)               200                 0           0                0         0                 0        0                 0
+Storage Lanes                       1                 0           1                1         1                 0        1                 0
+Taper Length (ft)                  25                25          25               25        25                25       25                25
+Lane Util. Factor                1.00    1.00      1.00        1.00    1.00     1.00      1.00    0.95      0.95     1.00    0.95      0.95
+Ped Bike Factor                  1.00    1.00                  1.00             0.98      0.99    1.00               1.00    0.99
+Frt                                     0.978                                  0.850             0.973                      0.956
+Flt Protected                  0.950                         0.950                      0.950                      0.950
+Satd. Flow (prot)               1577     1800           0     1719     1810     1538     1703     3304        0     1703     3210        0
+Flt Permitted                  0.950                         0.950                      0.950                      0.950
+Satd. Flow (perm)               1572     1800           0     1714     1810     1513     1688     3304        0     1699     3210        0
+Right Turn on Red                                      No                         No                         No                         No
+Satd. Flow (RTOR)
+Link Speed (mph)                            35                           35                          35                         35
+Link Distance (ft)                         798                          732                         716                        679
+Travel Time (s)                           15.5                         14.3                        13.9                       13.2
+Confl. Peds. (#/hr)                3                     4       4                 3        7                  4       4                  7
+Peak Hour Factor                0.92      0.92        0.92    0.93     0.93     0.93     0.94      0.94     0.94    0.93      0.93     0.93
+Heavy Vehicles (%)               3%        3%          3%      5%       5%       5%       6%        6%       6%      6%        6%       6%
+Parking (#/hr)                     0
+Adj. Flow (vph)                  387      367          62      144      237       87       51      424       94       77      614      255
+Shared Lane Traffic (%)
+Lane Group Flow (vph)            387      429           0      144      237    87          51      518        0       77      869        0
+Turn Type                        Prot                          Prot         pm+ov         Prot                       Prot
+Protected Phases                    7        4                    3       8     1            5        2                 1        6
+Permitted Phases                                                                8
+Detector Phase                      7        4                   3        8     1           5         2                1         6
+Switch Phase
+Minimum Initial (s)               7.0       7.0                 7.0      7.0      7.0      7.0     10.0               7.0     10.0
+Minimum Split (s)               15.0      35.0                 15.0     31.0     15.0     15.0     37.0              15.0     24.0
+Total Split (s)                 35.0      35.0      0.0        35.0     35.0     20.0     20.0     40.0      0.0     20.0     40.0      0.0
+Total Split (%)               26.9%     26.9%     0.0%       26.9%    26.9%    15.4%    15.4%    30.8%     0.0%    15.4%    30.8%     0.0%
+Maximum Green (s)               29.1      29.1                 29.4     29.4     14.1     13.8     34.3              14.1     34.6
+Yellow Time (s)                   3.0       3.9                 3.0      3.6      3.0      3.0       3.7              3.0       3.9
+All-Red Time (s)                  2.9       2.0                 2.6      2.0      2.9      3.2       2.0              2.9       1.5
+Lost Time Adjust (s)            -0.9      -0.9         0.0     -0.6     -0.6     -0.9     -1.2     -0.7      0.0     -0.9     -0.4      0.0
+Total Lost Time (s)               5.0       5.0        4.0      5.0      5.0      5.0      5.0       5.0     4.0      5.0       5.0     4.0
+Lead/Lag                         Lag       Lag                Lead     Lead     Lead     Lead       Lag             Lead       Lag
+Lead-Lag Optimize?
+Vehicle Extension (s)            2.0       2.0                2.0       2.0     2.0       1.0   3.0                  2.0   3.0
+Recall Mode                    None      None                None     None     None     None C-Max                 None C-Max
+Walk Time (s)                              7.0                          7.0                     7.0                        7.0
+Flash Dont Walk (s)                       22.0                         18.0                    24.0                        9.0
+Pedestrian Calls (#/hr)                      0                            0                       0                          0
+Act Effct Green (s)             37.8      43.8                15.9     21.9     33.2      9.4  39.0                 11.3  43.5
+Actuated g/C Ratio              0.29      0.34                0.12     0.17     0.26     0.07  0.30                 0.09  0.33
+v/c Ratio                       0.84      0.71                0.69     0.78     0.22     0.41  0.52                 0.52  0.81
+
+Town of Chapel Hill - 1609 E. Franklin St Hotel TIS                                                                    Synchro 7 - Report
+HNTB North Carolina, PC                                                                                                            Page 5
