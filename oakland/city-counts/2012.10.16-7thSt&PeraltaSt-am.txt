@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Peralta St -- 7th St                                                                                                 QC JOB #: 10833203
+ CITY/STATE: Oakland, CA                                                                                                        DATE: Tue, Oct 16 2012
+                       28           25                          Peak-Hour: 7:20 AM -- 8:20 AM                                    10.7        8.0
+
+                         5    5     18
+                                                               Peak 15-Min: 7:40 AM -- 7:55 AM
+                                                                                                                                 20.0 0.0 11.1
+
+
+       201   4                            17   210
+                                                                                                                  12.9   0.0                       11.8      12.9
+             185             0.85        181
+                                                                                                                         11.4                      13.8
+       209   20                           12   209
+                                                                                                                  10.5   5.0                        0.0      11.5
+
+                       14     6     4
+                                                                                                                                 0.0 0.0 25.0
+
+                       36           24
+                                                                                                                                 2.8         4.2
+
+
+
+                              29                                                                                                  0     0    4
+
+
+
+                                                                                                                         0                            2
+
+             15                           18                                                                             9                            4
+
+                                                                                                                         1                            0
+
+                              31                                                                                                  0     0    0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                          NA                                                                              NA                         NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 5-Min Count                   Peralta St                     Peralta St                  7th St                      7th St                       Total        Hourly
+     Period                  (Northbound)                   (Southbound)               (Eastbound)                 (Westbound)                                  Totals
+ Beginning At     Left        Thru Right     U       Left    Thru Right    U    Left   Thru Right      U   Left    Thru Right    U
+     6:45 AM       1            1       0    0        2        0       0    0    0       8       1     0    0       23       1   0                  37
+     6:50 AM       1            0       0    0        1        0       0    0    1       4       0     1    2       17       1   0                  28
+     6:55 AM       0            0       1    0        0        0       1    0    0       9       1     0    0       14       0   0                  26
+     7:00 AM       1            1       0    0        0        0       0    0    0      17       1     0    0        9       0   1                  30
+     7:05 AM       0            0       2    0        1        1       0    0    0      18       0     0    0       16       0   0                  38
+     7:10 AM       3            0       0    0        1        0       1    0    0       6       0     0    1        8       0   0                  20
+     7:15 AM       1            0       0    0        0        1       0    0    0      20       1     0    1        7       2   0                  33
+     7:20 AM       2            0       0    1        0        0       0    0    0      20       0     1    0       12       2   0                  38
+     7:25 AM       0            1       0    0        0        0       1    0    1      11       3     0    1       19       1   0                  38
+     7:30 AM       2            0       0    0        1        1       0    0    0      13       1     0    1       16       0   1                  36
+     7:35 AM       1            0       1    0        2        1       0    0    0      17       2     0    1        7       0   0                  32
+     7:40 AM       2            0       0    0        5        0       0    0    0      22       1     0    0       23       1   0                  54              410
+     7:45 AM       1            0       1    0        2        0       0    0    0      17       1     0    1       14       1   0                  38              411
+     7:50 AM       0            2       2    0        2        1       0    0    1      12       1     0    1       22       3   0                  47              430
+     7:55 AM       1            0       0    0        0        0       0    0    0      15       1     0    2       12       1   0                  32              436
+     8:00 AM       1            0       0    0        2        0       2    0    0      15       5     0    1       11       2   0                  39              445
+     8:05 AM       0            0       0    0        1        1       0    0    0      15       2     1    1       14       2   1                  38              445
+     8:10 AM       2            3       0    0        0        1       1    0    0      18       2     0    1       12       1   0                  41              466
+     8:15 AM       1            0       0    0        3        0       1    0    0      10       1     0    0       19       3   0                  38              471
+     8:20 AM       1            0       0    0        3        0       0    0    0       9       1     0    2       10       0   0                  26              459
+     8:25 AM       1            3       0    0        3        1       2    0    1      10       1     0    0       13       2   0                  37              458
+     8:30 AM       2            2       0    0        2        1       1    0    0      10       1     0    0       14       1   0                  34              456
+     8:35 AM       0            2       0    0        5        1       0    0    0      17       2     0    1       18       1   0                  47              471
+     8:40 AM       2            0       1    0        2        1       1    0    0      13       2     0    2       11       0   0                  35              452
+ Peak 15-Min                      Northbound                     Southbound                Eastbound                   Westbound
+   Flowrates      Left        Thru Right     U       Left    Thru Right    U    Left   Thru Right      U   Left    Thru Right    U                         Total
+  All Vehicles     12           8     12     0        36       4       0    0    4     204     12      0    8      236     20    0                         556
+ Heavy Trucks       0           0       4              0       0       0         0      24       4          0       24       4                              60
+  Pedestrians                  28                             40                        36                          28                                     132
+    Bicycles       0            0       0             0        0       0         0       1       0          0        0       2                               3
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 10/30/2012 3:38 PM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

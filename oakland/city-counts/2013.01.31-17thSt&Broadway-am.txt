@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Broadway -- 17th St                                                                                                  QC JOB #: 10880903
+ CITY/STATE: Oakland, CA                                                                                                        DATE: Thu, Jan 24 2013
+                    350             294                          Peak-Hour: 8:00 AM -- 9:00 AM                                   13.4        17.0
+
+                         0   277 73
+                                                                Peak 15-Min: 8:25 AM -- 8:40 AM
+                                                                                                                                 0.0 16.2 2.7
+
+
+       0     53                             0     0
+                                                                                                                   0.0   3.8                         0.0       0.0
+             586             0.92           0
+                                                                                                                         0.7                         0.0
+       656   17                             0   708
+                                                                                                                   1.4   17.6                        0.0       1.1
+
+                         0   241 49
+                                                                                                                                 0.0 19.9 4.1
+
+                    294             290
+                                                                                                                                 16.3        17.2
+
+
+
+                              34                                                                                                  0     21    0
+
+
+
+                                                                                                                         2                             0
+
+             70                           152                                                                            8                             1
+
+                                                                                                                         0                             0
+
+                              58                                                                                                  0     1     0
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+
+             NA                           NA                                                                             NA                          NA
+
+
+
+
+                             NA                                                                                                         NA
+
+
+
+ 5-Min Count                   Broadway                        Broadway                   17th St                     17th St                       Total       Hourly
+     Period                  (Northbound)                    (Southbound)               (Eastbound)                 (Westbound)                                 Totals
+ Beginning At     Left        Thru Right     U        Left    Thru Right    U    Left   Thru Right      U   Left    Thru Right    U
+     7:00 AM       0            8      4     0         0        6      0     0     1     17       0     0    0        0       0   0                  36
+     7:05 AM       0           16      1     0         2        8      0     0     1     22       3     0    0        0       0   0                  53
+     7:10 AM       0           13      2     0         3       14      0     0     0     12       0     0    0        0       0   0                  44
+     7:15 AM       0           13      2     0         3       13      0     0     0     21       1     0    0        0       0   0                  53
+     7:20 AM       0           12      4     0         3       20      0     0     1     16       1     0    0        0       0   0                  57
+     7:25 AM       0           10      1     0         2       10      0     0     1     15       0     0    0        0       0   0                  39
+     7:30 AM       0           21      2     0         1       16      0     0     2     38       0     0    0        0       0   0                  80
+     7:35 AM       0           13      5     0         2       17      0     0     3     32       0     0    1        0       0   0                  73
+     7:40 AM       0           12      1     0         0       17      0     0     7     27       2     0    0        0       0   0                  66
+     7:45 AM       0           16      2     0         4       28      0     0     5     40       1     0    0        0       0   0                  96
+     7:50 AM       0           19      4     0         3       19      0     0     4     35       4     0    0        0       0   0                  88
+     7:55 AM       0           18      2     0         3       26      0     0     4     39       3     0    0        0       0   0                  95              780
+     8:00 AM       0           25      5     0         4       17      0     0     4     29       1     0    0        0       0   0                  85              829
+     8:05 AM       0           20      2     0         6       29      0     0     4     40       0     0    0        0       0   0                 101              877
+     8:10 AM       0           19      3     0         3       21      0     0     3     50       0     0    0        0       0   0                  99              932
+     8:15 AM       0           18      3     0         7       21      0     0     3     53       2     0    0        0       0   0                 107              986
+     8:20 AM       0           20      1     0         7       21      0     0     2     51       1     0    0        0       0   0                 103             1032
+     8:25 AM       0           24      6     0         8       26      0     0     3     43       4     0    0        0       0   0                 114             1107
+     8:30 AM       0           12     10     0         6       24      0     0     9     56       0     0    0        0       0   0                 117             1144
+     8:35 AM       0           22      3     0         7       24      0     0     4     56       4     0    0        0       0   0                 120             1191
+     8:40 AM       0           21      3     0         4       22      0     0     3     56       0     0    0        0       0   0                 109             1234
+     8:45 AM       0           22      5     0         4       25      0     0     4     43       3     0    0        0       0   0                 106             1244
+     8:50 AM       0           19      5     0         8       26      0     0     4     54       1     0    0        0       0   0                 117             1273
+     8:55 AM       0           19      3     0         9       21      0     0    10     55       1     0    0        0       0   0                 118             1296
+ Peak 15-Min                      Northbound                      Southbound                Eastbound                   Westbound
+   Flowrates      Left        Thru Right     U        Left    Thru Right    U    Left   Thru Right      U   Left    Thru Right    U                         Total
+  All Vehicles     0         232      76     0         84     296      0     0    64    620     32      0    0        0       0   0                         1404
+ Heavy Trucks      0           64      0                0      32      0           0      8       8          0        0       0                              112
+  Pedestrians                  72                              20                        64                         164                                      320
+    Bicycles       0            1      0               0       10      0          1       2       0          0        1       0                               15
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 1/31/2013 10:09 AM                                       SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

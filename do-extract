@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ./extract corvallis/*.txt > counts-corvallis.csv
-./extract oakland/*.txt > counts-oakland.csv
+./extract oakland/*.txt oakland/*/*.txt > counts-oakland.csv
 ./extract misc/*.txt > counts-misc.csv
 ./extract sanjose/*.txt > counts-sanjose.csv
 ./extract eugene/*.txt > counts-eugene.csv
