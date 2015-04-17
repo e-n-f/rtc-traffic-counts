@@ -1,179 +1,179 @@
 -id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,N-Ped,E-Ped,S-Ped,W-Ped,N-Bike,E-Bike,S-Bike,W-Bike,lat,lon
-sf/15th St_Church St_AM_11-14-12.txt,Church St -- 15th St / San Francisco  CA,x,Wed  Nov 14 2012,07:40-08:40,11,217,51,66,197,16,52,287,26,18,175,13,131,98,78,163,11,13,9,27,,
-sf/15th St_Church St_AM_11-15-12.txt,Church St -- 15th St / San Francisco  CA,x,Thu  Nov 15 2012,07:50-08:50,13,204,57,92,211,12,50,341,17,18,194,15,109,85,70,151,6,19,9,24,,
-sf/15th St_Church St_PM_11-14-12.txt,Church St -- 15th St / San Francisco  CA,x,Wed  Nov 14 2012,17:00-18:00,27,280,65,107,202,49,32,263,11,55,125,22,116,167,99,224,6,21,44,30,,
-sf/15th St_Church St_PM_11-15-12.txt,Church St -- 15th St / San Francisco  CA,x,Thu  Nov 15 2012,17:00-18:00,16,244,63,119,214,34,30,237,19,28,113,16,135,152,86,242,4,28,37,37,,
-sf/16th St_Church St_AM_11-14-12.txt,Church St -- 16th St / San Francisco  CA,x,Wed  Nov 14 2012,07:40-08:40,20,173,58,70,391,46,48,278,24,47,417,22,133,169,193,152,19,10,9,13,,
-sf/16th St_Church St_AM_11-15-12.txt,Church St -- 16th St / San Francisco  CA,x,Thu  Nov 15 2012,07:35-08:35,13,172,66,90,421,44,43,298,36,42,417,12,156,149,202,94,23,19,14,18,,
-sf/16th St_Church St_PM_11-14-12.txt,Church St -- 16th St / San Francisco  CA,x,Wed  Nov 14 2012,16:55-17:55,32,282,60,103,540,64,36,193,34,45,385,14,113,110,156,110,17,21,30,23,,
-sf/16th St_Church St_PM_11-15-12.txt,Church St -- 16th St / San Francisco  CA,x,Thu  Nov 15 2012,16:55-17:55,25,234,62,115,516,56,23,182,18,42,310,15,183,127,175,85,14,21,23,20,,
-sf/17th St_Potrero Ave_040913_AM.txt,Potrero Ave -- 17th St / San Francisco  CA,x,Tue  Apr 16 2013,08:00-09:00,45,463,60,62,247,51,68,713,46,41,235,21,39,26,36,49,142,9,8,57,,
-sf/17th St_Potrero Ave_040913_PM.txt,Potrero Ave -- 17th St / San Francisco  CA,x,Tue  Apr 16 2013,16:30-17:30,79,1009,61,44,286,83,61,999,65,52,185,29,41,41,44,82,17,26,68,7,,
-sf/17th_Church St_11-15-12_AM.txt,Church St -- 17th St / San Francisco  CA,x,Thu  Nov 15 2012,07:35-08:35,32,140,53,89,175,16,66,287,58,26,255,39,100,141,69,69,48,14,42,7,,
-sf/17th_Church St_11-15-12_PM.txt,Church St -- 17th St / San Francisco  CA,x,Thu  Nov 15 2012,17:00-18:00,22,226,56,55,222,27,22,169,21,15,139,12,78,109,85,133,35,9,76,5,,
-sf/19th Ave_Holloway Ave_AM_20120522.txt,19th Ave -- Holloway Ave / San Francisco  CA,x,Tue  May 22 2012,07:30-08:30,51,2653,0,48,103,18,105,1725,0,30,99,20,342,34,35,118,1,0,2,0,,
-sf/19th Ave_Holloway Ave_PM_20120522.txt,19th Ave -- Holloway Ave / San Francisco  CA,x,Tue  May 22 2012,16:45-17:45,63,2566,0,36,117,23,76,1939,0,60,109,45,305,14,49,129,7,1,3,0,,
-sf/19th Ave_Irving St_AM_20120522.txt,19th Ave -- Irving St / San Francisco  CA,x,Tue  May 22 2012,07:30-08:30,147,2027,0,200,88,0,111,2211,0,63,145,233,81,39,85,99,18,1,2,1,,
-sf/19th Ave_Irving St_PM_20120522.txt,19th Ave -- Irving St / San Francisco  CA,x,Tue  May 22 2012,16:45-17:45,183,2265,0,112,251,7,119,2407,0,86,139,113,168,61,181,106,5,1,13,0,,
-sf/19th Ave_Lincoln Way_AM_20120522.txt,19th Ave -- Lincoln Way / San Francisco  CA,x,Tue  May 22 2012,07:45-08:45,269,2115,0,314,541,0,262,2144,0,18,979,0,70,51,14,51,1,2,2,2,,
-sf/19th Ave_Lincoln Way_PM_20120522.txt,19th Ave -- Lincoln Way / San Francisco  CA,x,Tue  May 22 2012,16:45-17:45,369,2427,0,202,949,1,224,2326,0,52,723,0,38,50,25,85,1,2,0,0,,
-sf/19th Ave_Quintara St_AM_20120522.txt,19th Ave -- Quintara St / San Francisco  CA,x,Tue  May 22 2012,07:30-08:30,47,2239,0,10,144,26,58,2283,0,71,93,66,12,17,198,29,0,0,5,0,,
-sf/19th Ave_Quintara St_PM_20120522.txt,19th Ave -- Quintara St / San Francisco  CA,x,Tue  May 22 2012,17:00-18:00,85,2594,1,16,104,30,50,2502,0,40,75,41,18,23,22,21,1,1,1,0,,
-sf/19th Ave_Taraval_AM_052913.txt,19th St -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,07:35-08:35,57,2412,0,49,240,6,106,2292,0,64,242,1,98,30,40,91,0,0,1,0,,
-sf/19th Ave_Taraval_PM_052913.txt,19th St -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,16:05-17:05,102,2388,0,53,282,6,96,2352,0,84,204,8,152,74,86,63,1,1,3,0,,
-sf/21st St_Potrero Ave_040913_AM.txt,Potrero Ave -- 21st St / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,16,748,2,0,0,0,0,1122,81,72,0,22,11,7,102,43,1,11,1,22,,
-sf/21st St_Potrero Ave_040913_PM.txt,Potrero Ave -- 21st St / San Francisco  CA,x,Tue  Apr 09 2013,16:15-17:15,39,1262,0,0,0,0,0,762,113,52,0,24,41,80,42,35,3,20,2,27,,
-sf/22nd St (North)_Potrero Ave_040913_AM.txt,Potrero Ave -- 22nd St (North) / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,0,723,97,44,0,46,160,1167,0,0,0,0,38,85,35,35,0,11,4,45,,
-sf/22nd St (North)__Potrero Ave_040913_PM.txt,Potrero Ave -- 22nd St (North) / San Francisco  CA,x,Tue  Apr 09 2013,16:00-17:00,0,1242,77,58,0,81,107,858,0,0,0,0,33,86,23,22,0,10,10,15,,
-sf/22nd St (South) Potrero Ave_040913_PM.txt,Potrero Ave -- 22nd St (South) / San Francisco  CA,x,Tue  Apr 09 2013,16:00-17:00,48,1230,0,0,0,0,0,926,9,74,0,42,27,45,20,48,7,26,0,16,,
-sf/22nd St (South)_Potrero Ave_040913_AM.txt,Potrero Ave -- 22nd St (South) / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,21,729,0,0,0,0,0,1279,6,104,0,82,34,106,18,30,11,8,0,17,,
-sf/23rd St_Potrero Ave_040913_AM.txt,Potrero Ave -- 23rd St / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,19,671,141,156,15,93,89,1111,0,40,16,42,2,81,114,48,15,8,15,20,,
-sf/23rd St_Potrero Ave_040913_PM.txt,Potrero Ave -- 23rd St / San Francisco  CA,x,Tue  Apr 09 2013,16:00-17:00,30,1184,91,196,24,93,86,708,0,52,46,24,1,75,86,51,5,18,12,10,,
-sf/24th St_Potrero Ave_040913_AM.txt,Potrero Ave -- 24th St / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,36,725,37,59,70,39,96,1089,127,83,161,26,291,76,93,120,8,9,10,10,,
-sf/24th St_Potrero Ave_040913_PM.txt,Potrero Ave -- 24th St / San Francisco  CA,x,Tue  Apr 09 2013,16:15-17:15,50,1295,14,68,81,71,34,638,140,113,119,23,292,50,155,126,6,14,8,1,,
-sf/25th Ave_Crossover Dr_Fulton St_AM_20120522.txt,25th Ave/Crossover Dr -- Fulton St / San Francisco  CA,x,Tue  May 22 2012,07:45-08:45,40,618,0,40,479,0,147,648,0,120,934,0,25,26,23,33,4,5,1,4,,
-sf/25th Ave_Crossover Dr_Fulton St_PM_20120522.txt,25th Ave/Crossover Dr -- Fulton St / San Francisco  CA,x,Tue  May 22 2012,17:00-18:00,43,620,0,36,831,0,148,635,3,109,484,0,28,17,33,50,3,3,3,13,,
-sf/25th St (North)_Potrero Ave_040913_AM.txt,Potrero Ave -- 25th St (North) / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,0,840,16,16,0,188,224,1302,3,4,0,0,36,18,118,25,1,11,7,12,,
-sf/25th St (North)_Potrero Ave_040913_PM.txt,Potrero Ave -- 25th St (North) / San Francisco  CA,x,Tue  Apr 09 2013,16:00-17:00,0,1455,8,16,0,262,87,845,2,0,0,0,26,43,64,77,0,12,2,8,,
-sf/25th St (South)_Potrero Ave_040913_AM.txt,Potrero Ave -- 25th St (South) / San Francisco  CA,x,Tue  Apr 09 2013,07:30-08:30,63,0,0,0,0,0,0,0,5,230,0,2,0,25,1,33,6,6,0,0,,
-sf/25th St (South)_Potrero Ave_040913_PM.txt,Potrero Ave -- 25th St (South) / San Francisco  CA,x,Tue  Apr 09 2013,16:30-17:30,76,0,0,0,0,0,0,0,2,252,0,0,1,66,11,52,0,3,0,0,,
-sf/BayshoreBlvd_CortlandAve_AM_052913.txt,Bayshore Blvd -- Cortland Ave / San Francisco  CA,x,Wed  May 29 2013,07:45-08:45,126,447,1,0,0,0,0,1167,222,232,0,246,75,2,30,36,9,8,0,14,,
-sf/BayshoreBlvd_CortlandAve_PM_052913.txt,Bayshore Blvd -- Cortland Ave / San Francisco  CA,x,Wed  May 29 2013,17:00-18:00,177,949,2,0,0,0,0,945,253,181,0,140,50,0,23,79,2,11,2,8,,
-sf/BayshoreBlvd_IndustrialSt_AM_052913.txt,Bayshore Blvd -- Industrial St / San Francisco  CA,x,Wed  May 29 2013,07:40-08:40,288,253,128,117,496,51,162,743,223,44,619,556,11,31,6,9,6,11,1,7,,
-sf/BayshoreBlvd_IndustrialSt_PM_052913.txt,Bayshore Blvd -- Industrial St / San Francisco  CA,x,Wed  May 29 2013,16:45-17:45,468,488,84,78,716,80,66,500,207,34,337,653,5,19,2,6,0,3,4,2,,
-sf/BayshoreBlvd_OakdaleAve_AM_060413.txt,Bayshore Blvd -- Oakdale Ave / San Francisco  CA,x,Tue  Jun 04 2013,07:40-08:40,0,372,417,252,0,172,125,1064,0,0,0,0,35,25,1,0,0,1,3,7,,
-sf/BayshoreBlvd_OakdaleAve_PM_060413.txt,Bayshore Blvd -- Oakdale Ave / San Francisco  CA,x,Tue  Jun 04 2013,16:50-17:50,0,825,452,204,1,283,108,732,0,0,0,0,22,25,1,0,0,4,4,10,,
-sf/BayshoreBlvd_SilverAve_AM_060413.txt,Bayshore Blvd -- Silver Ave / San Francisco  CA,x,Tue  Jun 04 2013,07:35-08:35,38,224,23,34,191,22,73,789,215,172,228,128,31,32,90,3,5,4,0,8,,
-sf/BayshoreBlvd_SilverAve_PM_060413.txt,Bayshore Blvd -- Silver Ave / San Francisco  CA,x,Tue  Jun 04 2013,16:50-17:50,124,423,32,53,181,24,85,463,246,220,285,82,31,45,84,0,0,1,4,4,,
-sf/Brannan St -- Division St_Potrero Ave_040913_AM.txt,Brannan St -- Division St / San Francisco  CA,x,Tue  Apr 09 2013,08:00-09:00,77,146,9,0,121,13,40,404,295,0,560,151,21,27,7,0,250,4,5,21,,
-sf/Brannan St -- Division St_Potrero Ave_040913_PM.txt,Brannan St -- Division St / San Francisco  CA,x,Tue  Apr 09 2013,16:45-17:45,213,241,12,7,270,11,55,318,287,0,460,155,31,34,25,0,42,28,105,4,,
-sf/HaightSt_MasonicAve_AM_052913.txt,Masonic Ave -- Haight St / San Francisco  CA,x,Wed  May 29 2013,07:55-08:55,89,337,42,47,159,18,90,619,6,32,153,45,106,88,110,72,27,0,4,28,,
-sf/HaightSt_MasonicAve_PM_052913.txt,Masonic Ave -- Haight St / San Francisco  CA,x,Wed  May 29 2013,16:55-17:55,91,629,25,49,188,35,32,351,5,16,135,49,376,176,411,233,23,2,12,5,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,0,60,111,0,0,0,24,38,0,28,1761,60,12,22,20,9,4,7,0,3,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,0,25,51,0,0,0,42,54,0,9,1137,33,12,12,29,20,2,2,0,7,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,51,0,0,82,932,0,2,0,0,0,2045,0,139,0,56,0,1,0,1,0,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,61,0,0,154,1858,0,0,0,0,0,1293,0,122,0,45,0,0,0,1,0,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Post St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,46,30,51,54,53,12,60,27,15,38,297,27,45,20,42,30,32,8,10,1,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Post St / San Francisco  CA,x,Wed  May 15 2013,16:15-17:15,16,37,18,30,107,13,126,39,21,25,134,13,28,18,38,31,2,0,9,1,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,9,56,31,19,55,18,47,43,15,44,106,12,55,57,51,16,1,10,0,3,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,16:00-17:00,13,30,15,44,145,30,36,43,5,10,65,4,41,65,33,13,0,1,8,3,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Bryant St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,39,99,48,133,458,27,67,325,29,41,563,68,116,159,129,66,25,1,8,28,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Bryant St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,61,200,68,182,736,71,93,336,50,30,431,69,236,170,138,93,8,14,34,10,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,0,421,101,0,0,0,131,397,1,63,1704,99,31,109,44,102,4,0,0,2,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,0,491,72,0,0,0,103,452,2,50,1116,64,53,159,78,139,1,1,0,5,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,105,430,0,88,907,1,95,619,101,63,1946,0,192,163,127,432,2,1,2,10,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,95,639,1,82,1722,1,72,479,83,80,1194,0,214,147,114,472,0,4,1,5,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Pine St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,43,436,0,86,890,87,0,486,25,0,0,0,45,56,29,87,1,0,1,1,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Pine St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,87,473,0,101,1540,97,0,486,41,0,0,0,37,106,63,153,1,3,4,6,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Post St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,39,427,33,24,73,30,83,560,44,84,284,25,124,245,110,254,43,1,15,12,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Post St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,20,587,31,26,76,33,71,495,22,105,180,28,82,170,100,252,9,6,11,7,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,48,417,10,30,74,32,58,475,75,34,54,10,158,287,261,231,3,0,1,2,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,16:15-17:15,37,519,14,50,117,55,51,456,34,57,85,23,182,270,217,280,0,3,5,6,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 14th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,0,178,12,37,0,45,38,608,0,66,223,359,36,48,70,67,268,12,2,107,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 14th St / San Francisco  CA,x,Wed  May 15 2013,16:30-17:30,0,369,6,74,0,78,37,537,0,118,202,262,91,87,114,117,42,52,5,18,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 15th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,67,211,8,21,102,21,28,607,35,15,22,21,55,68,34,47,7,19,11,102,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 15th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,104,493,7,41,225,34,17,528,55,17,6,10,53,97,42,96,3,82,39,17,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,25,193,35,53,357,19,57,554,43,38,548,66,159,65,215,61,22,14,10,75,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,56,445,41,80,699,47,35,453,31,43,365,65,250,96,198,86,12,67,31,15,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- Division St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,39,126,14,36,601,1,121,798,103,71,758,189,16,39,30,41,15,12,1,207,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- Division St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,104,285,41,29,1158,0,165,562,127,97,545,127,43,120,84,76,9,66,25,8,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- 14th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,48,390,12,11,10,2,6,224,22,149,23,89,5,21,36,39,149,37,0,158,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- 14th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,101,652,57,78,22,37,25,249,29,145,39,63,24,51,102,74,30,166,8,38,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- 15th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,75,361,13,9,7,7,12,255,88,29,5,15,32,12,1,39,6,60,0,190,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- 15th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,159,684,12,11,13,4,6,260,83,23,1,16,27,29,6,44,3,204,2,48,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- Division St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,146,371,61,60,522,25,118,123,81,57,1187,33,51,47,74,55,70,24,19,187,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- Division St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,248,590,27,20,784,117,88,185,130,116,608,0,48,83,93,59,11,99,42,34,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Mission St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,36,234,2,62,342,5,78,441,0,37,479,5,367,583,566,392,26,13,5,15,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Mission St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,48,381,1,50,616,9,91,354,1,53,341,2,634,939,1181,820,19,9,14,19,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,0,35,39,0,0,0,19,44,1,25,1836,53,20,39,25,12,5,1,0,1,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,0,32,30,0,0,0,31,39,0,17,1244,45,21,27,37,32,5,0,0,3,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Post St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,22,0,30,35,74,1,0,0,0,0,387,33,34,21,40,14,52,5,16,0,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Post St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,31,0,23,21,113,0,0,0,0,0,286,23,33,24,54,14,18,3,18,0,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,24,32,11,27,89,5,34,20,15,16,72,11,46,39,66,18,11,2,3,1,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,16:00-17:00,34,27,13,32,163,13,6,24,7,17,94,14,56,43,65,24,1,2,11,1,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 14th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,1,340,41,0,0,0,82,654,1,79,542,68,77,66,89,29,281,3,0,16,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 14th St / San Francisco  CA,x,Wed  May 15 2013,16:00-17:00,0,778,124,0,0,0,61,575,0,116,381,65,83,94,157,36,39,10,0,6,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 15th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,47,354,9,46,129,30,44,708,82,1,0,0,107,50,74,38,1,3,12,17,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 15th St / San Francisco  CA,x,Wed  May 15 2013,16:30-17:30,95,779,7,54,328,18,34,584,77,0,0,0,94,86,88,52,0,15,50,6,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 16th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,40,250,105,73,312,22,114,737,57,46,463,26,246,77,270,126,16,2,7,7,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 16th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,42,677,90,120,657,12,62,521,45,67,326,15,408,120,259,129,19,7,38,3,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,0,177,89,0,0,0,43,169,0,63,1784,56,18,16,30,44,6,5,0,6,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,0,240,81,0,0,0,57,151,0,55,1170,29,23,30,31,40,2,6,1,10,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,42,164,43,101,971,0,70,236,55,39,2007,0,53,61,58,59,1,4,0,4,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,58,249,51,61,1721,0,56,162,35,43,1210,0,73,102,64,57,1,8,1,6,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Post St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,29,197,26,15,55,16,73,213,47,50,321,17,45,40,53,88,42,5,14,23,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Post St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,14,250,26,24,98,37,53,171,23,53,219,9,44,56,40,72,13,18,18,9,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,33,175,26,28,81,24,20,177,39,48,59,21,71,23,67,96,5,7,1,13,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,16:15-17:15,40,200,21,33,146,23,20,171,33,61,71,19,49,42,45,78,3,4,13,3,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,South Van Ness Ave -- Division St / San Francisco  CA,x,Tue  May 21 2013,08:00-09:00,46,1053,147,200,376,82,105,615,1,1067,783,0,18,30,33,1,6,0,1,7,,
-sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,South Van Ness Ave -- Division St / San Francisco  CA,x,Tue  May 21 2013,16:45-17:45,43,1386,17,331,875,173,83,508,0,617,681,0,86,102,79,57,0,0,0,9,,
-sf/Sunset_Taraval_AM_052913.txt,Sunset Blvd -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,07:35-08:35,62,1760,0,34,166,51,72,1915,0,63,161,106,24,25,24,6,0,0,0,0,,
-sf/Sunset_Taraval_PM_052913.txt,Sunset Blvd -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,17:00-18:00,96,1601,0,45,183,47,122,1736,0,36,169,61,101,36,34,22,2,0,1,0,,
-sf/TaravalSt_19thSt_AM_052913.txt,19th St -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,07:35-08:35,57,2412,0,49,240,6,106,2292,0,64,242,1,98,30,40,91,0,0,1,0,,
-sf/TaravalSt_19thSt_PM_052913.txt,19th St -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,16:05-17:05,102,2388,0,53,282,6,96,2352,0,84,204,8,152,74,86,63,1,1,3,0,,
-sf/TaravalSt_SunsetBlvd_AM_052913.txt,Sunset Blvd -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,07:35-08:35,62,1760,0,34,166,51,72,1915,0,63,161,106,24,25,24,6,0,0,0,0,,
-sf/TaravalSt_SunsetBlvd_PM_052913.txt,Sunset Blvd -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,17:00-18:00,96,1601,0,45,183,47,122,1736,0,36,169,61,101,36,34,22,2,0,1,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,07:50-08:50,61,150,153,83,670,3,30,342,18,9,1025,76,26,48,15,33,1,33,1,25,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,16:50-17:50,154,316,206,76,917,14,23,145,20,14,760,56,17,50,20,14,0,18,0,28,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,07:40-08:40,61,136,156,91,656,6,39,362,9,13,1025,95,33,56,18,27,1,29,0,38,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,16:50-17:50,164,270,186,97,887,15,22,168,20,23,723,52,23,36,15,29,0,35,1,38,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:55-08:55,40,273,107,87,997,0,59,383,43,39,2229,2,61,313,67,29,1,24,2,32,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,16:55-17:55,91,434,110,136,1943,1,68,297,45,63,1431,1,151,252,123,74,8,36,3,20,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Geary Blvd / San Francisco  CA,x,Thu  Sep 15 2011,07:45-08:45,46,248,116,78,985,0,79,378,27,46,1788,0,96,269,64,44,2,34,13,32,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Geary Blvd / San Francisco  CA,x,Thu  Sep 15 2011,16:55-17:55,58,422,127,131,1967,0,75,299,53,83,1483,5,170,183,153,109,1,37,1,25,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Turk Blvd / San Francisco  CA,x,Mon  Sep 12 2011,07:45-08:45,11,232,76,53,273,70,124,447,21,32,499,42,26,67,56,23,3,52,0,37,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:50-08:50,19,272,69,60,250,54,112,439,17,19,423,45,24,69,55,35,2,24,1,43,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,16:55-17:55,22,471,52,71,478,189,32,269,16,31,179,33,17,64,55,41,4,42,3,29,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Turk Blvd / San Francisco  CA,x,Thu  Sep 15 2011,17:00-18:00,41,477,55,89,492,194,38,257,21,42,188,30,27,58,50,57,1,41,6,32,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Chabot Ter -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:40-08:40,0,0,0,0,504,11,10,0,23,12,533,1,32,32,23,109,0,0,0,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Chabot Ter -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,16:55-17:55,0,0,0,0,817,7,8,0,10,15,270,0,45,27,13,120,2,0,1,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Chabot Terr -- Turk Blvd / San Francisco  CA,x,Thu  Sep 15 2011,07:40-08:40,0,0,0,0,503,10,10,0,21,19,599,1,66,41,34,129,1,0,0,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Chabot Terr -- Turk Blvd / San Francisco  CA,x,Thu  Sep 15 2011,17:00-18:00,0,0,0,0,888,14,8,0,20,15,277,0,56,30,41,178,1,0,0,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fell St / San Francisco  CA,x,Thu  Sep 08 2011,07:55-08:55,401,498,0,203,1237,121,0,1535,75,0,0,0,18,48,403,55,0,2,1,1,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fell St / San Francisco  CA,x,Thu  Sep 08 2011,16:45-17:45,714,931,0,136,1883,219,0,878,4,0,0,0,21,48,381,59,0,0,0,1,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fell St / San Francisco  CA,x,Thu  Sep 15 2011,07:50-08:50,417,460,0,233,1261,158,1,1483,61,0,0,0,29,43,429,0,0,1,0,1,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fell St / San Francisco  CA,x,Thu  Sep 15 2011,17:00-18:00,703,940,0,151,1962,205,0,889,1,0,0,0,38,82,426,78,0,0,1,1,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,07:55-08:55,71,872,2,26,209,21,45,1719,3,28,436,105,44,140,103,72,8,3,0,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,17:00-18:00,142,1688,4,37,324,40,50,958,3,42,292,68,165,201,135,115,0,2,0,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,07:50-08:50,86,856,4,43,232,17,54,1779,1,28,383,111,72,114,83,77,7,2,0,5,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,16:55-17:55,134,1657,8,60,360,40,78,1011,1,37,289,68,140,131,118,114,4,4,3,4,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:50-08:50,164,766,1,17,78,154,452,1335,71,43,237,194,83,56,64,41,1,2,2,5,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,17:00-18:00,206,1270,0,24,150,399,202,782,83,138,140,141,173,5,71,79,3,2,7,2,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Geary Blvd / San Francisco  CA,x,Tue  Sep 13 2011,07:55-08:55,159,716,0,16,72,139,485,1325,89,3,153,179,73,56,65,58,0,1,0,2,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Geary Blvd / San Francisco  CA,x,Tue  Sep 13 2011,17:00-18:00,261,1214,0,24,152,379,208,763,94,9,119,162,247,123,102,137,0,2,8,5,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Golden Gate Ave / San Francisco  CA,x,10/14/2010,07:40-08:40,49,827,2,92,78,39,87,1676,1,38,152,10,64,73,40,43,15,3,0,2,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Golden Gate Ave / San Francisco  CA,x,10/14/2010,17:00-18:00,39,1712,23,39,62,35,61,1007,4,52,130,23,32,89,66,64,5,11,4,3,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Golden Gate Ave / San Francisco  CA,x,10/19/2010,07:40-08:40,43,924,5,81,86,44,91,1714,3,39,152,11,66,78,34,36,13,6,3,4,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Golden Gate Ave / San Francisco  CA,x,10/19/2010,17:00-18:00,37,1787,10,47,74,33,31,1054,6,60,116,18,34,104,62,64,10,10,3,3,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Turk Blvd / San Francisco  CA,x,10/14/2010,07:40-08:40,94,777,0,100,525,82,92,1695,1,28,407,100,62,70,25,71,1,4,0,3,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Turk Blvd / San Francisco  CA,x,10/14/2010,17:00-18:00,123,1557,1,68,720,182,47,1053,3,36,207,66,73,94,32,73,5,7,6,7,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Turk Blvd / San Francisco  CA,x,10/19/2010,07:40-08:40,112,844,0,78,468,98,98,1719,4,23,406,113,59,86,22,50,2,4,3,7,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Turk Blvd / San Francisco  CA,x,10/20/2010,17:00-18:00,138,1599,1,69,665,201,51,1017,1,54,188,67,67,75,28,101,2,12,2,7,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Golden Gate Ave / San Francisco  CA,x,10/14/2010,07:40-08:40,0,171,113,70,0,45,131,151,1,0,0,0,36,60,92,122,0,13,2,4,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Golden Gate Ave / San Francisco  CA,x,10/14/2010,16:25-17:25,0,226,80,88,0,71,78,142,2,0,2,0,74,130,141,219,2,6,6,5,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Golden Gate Ave / San Francisco  CA,x,10/19/2010,07:45-08:45,0,138,111,76,0,43,113,164,1,0,0,0,58,65,79,139,0,11,3,5,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Golden Gate Ave / San Francisco  CA,x,10/19/2010,16:25-17:25,0,250,91,89,0,71,79,147,2,0,0,0,89,128,151,223,0,3,2,2,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Turk Blvd / San Francisco  CA,x,10/14/2010,07:40-08:40,26,139,45,62,402,43,27,144,32,96,488,43,17,12,25,42,6,0,0,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Turk Blvd / San Francisco  CA,x,10/14/2010,17:00-18:00,33,189,43,65,735,41,30,132,56,79,235,24,54,79,54,88,4,3,2,5,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Turk Blvd / San Francisco  CA,x,10/19/2010,07:45-08:45,29,118,46,71,433,31,23,155,44,91,490,63,37,16,17,54,12,0,1,2,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Turk Blvd / San Francisco  CA,x,10/19/2010,17:00-18:00,70,210,47,89,838,38,38,122,52,91,249,20,65,61,57,79,4,1,1,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker St -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:45-08:45,33,125,80,40,1016,0,39,152,46,40,2333,0,55,32,43,24,2,2,0,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker St -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,16:55-17:55,54,244,57,46,2002,0,55,98,50,37,1450,0,43,35,86,41,8,1,6,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker St -- Geary Blvd / San Francisco  CA,x,Wed  Sep 14 2011,07:50-08:50,29,113,76,46,954,0,53,166,42,13,1878,0,17,29,13,18,6,3,1,2,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Parker St -- Geary Blvd / San Francisco  CA,x,Wed  Sep 14 2011,16:55-17:55,57,228,58,40,1963,0,52,115,55,41,1354,0,0,0,0,0,5,4,6,1,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,07:45-08:45,8,322,39,16,290,8,48,392,454,570,587,2,28,34,59,37,1,5,1,2,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,17:00-18:00,22,484,21,30,462,6,38,406,524,612,379,1,49,86,77,48,0,3,0,3,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,07:50-08:50,10,291,42,25,290,10,57,378,462,677,519,1,57,37,47,44,0,2,0,1,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,16:45-17:45,8,475,18,38,460,6,43,407,527,584,389,0,55,62,73,64,1,1,0,1,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- John F Kennedy Dr / San Francisco  CA,x,Thu  Sep 08 2011,16:50-17:50,250,782,266,2,2227,7,36,649,0,89,1490,0,96,186,57,72,1,0,94,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- John F Kennedy Dr / San Francisco  CA,x,Tue  Sep 13 2011,07:50-08:50,89,708,300,3,1246,0,22,790,0,31,2173,1,66,23,36,64,7,3,1,3,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- John F Kennedy Dr / San Francisco  CA,x,Tue  Sep 13 2011,17:00-18:00,267,760,280,4,2271,2,26,615,0,99,1430,0,110,195,32,105,6,0,82,2,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:45-08:45,6,204,44,32,326,56,55,307,28,37,557,30,17,27,57,25,7,2,0,3,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,16:55-17:55,21,386,31,32,683,80,45,342,37,52,239,9,32,30,73,40,6,3,2,3,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Turk Blvd / San Francisco  CA,x,Thu  Sep 15 2011,07:35-08:35,35,327,41,41,378,60,81,364,29,39,208,15,64,2,43,33,1,1,2,3,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan Street -- Turk Blvd / San Francisco  CA,x,Thu  Sep 15 2011,17:00-18:00,30,367,47,43,710,91,40,298,38,47,212,15,39,31,62,43,2,2,6,1,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyon St -- John F Kennedy Dr / San Francisco  CA,x,Thu  Sep 08 2011,07:50-08:50,115,628,293,1,1216,0,20,773,0,44,2130,0,82,98,41,101,178,3,5,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Tamalpais Ter -- Turk Blvd / San Francisco  CA,x,10/14/2010,07:40-08:40,2,0,1,3,567,14,6,0,6,17,523,5,84,73,49,27,6,0,3,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Tamalpais Ter -- Turk Blvd / San Francisco  CA,x,10/14/2010,16:50-17:50,4,2,0,1,836,14,7,1,6,12,305,6,56,21,26,18,7,0,6,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Tamalpais Ter -- Turk Blvd / San Francisco  CA,x,10/19/2010,07:35-08:35,1,0,0,1,547,14,5,8,8,17,518,1,111,56,37,25,3,0,0,0,,
-sf/USF_IMP_Traffic_appendix_01112012.txt,Tamalpais Ter -- Turk Blvd / San Francisco  CA,x,10/19/2010,16:55-17:55,2,1,4,0,949,12,8,1,6,15,310,1,88,28,34,19,4,0,3,0,,
+sf/15th St_Church St_AM_11-14-12.txt,Church St -- 15th St / San Francisco  CA,x,Wed  Nov 14 2012,07:40-08:40,11,217,51,66,197,16,52,287,26,18,175,13,131,98,78,163,11,13,9,27,37.766130,-122.428819
+sf/15th St_Church St_AM_11-15-12.txt,Church St -- 15th St / San Francisco  CA,x,Thu  Nov 15 2012,07:50-08:50,13,204,57,92,211,12,50,341,17,18,194,15,109,85,70,151,6,19,9,24,37.766130,-122.428819
+sf/15th St_Church St_PM_11-14-12.txt,Church St -- 15th St / San Francisco  CA,x,Wed  Nov 14 2012,17:00-18:00,27,280,65,107,202,49,32,263,11,55,125,22,116,167,99,224,6,21,44,30,37.766130,-122.428819
+sf/15th St_Church St_PM_11-15-12.txt,Church St -- 15th St / San Francisco  CA,x,Thu  Nov 15 2012,17:00-18:00,16,244,63,119,214,34,30,237,19,28,113,16,135,152,86,242,4,28,37,37,37.766130,-122.428819
+sf/16th St_Church St_AM_11-14-12.txt,Church St -- 16th St / San Francisco  CA,x,Wed  Nov 14 2012,07:40-08:40,20,173,58,70,391,46,48,278,24,47,417,22,133,169,193,152,19,10,9,13,37.764508,-122.428665
+sf/16th St_Church St_AM_11-15-12.txt,Church St -- 16th St / San Francisco  CA,x,Thu  Nov 15 2012,07:35-08:35,13,172,66,90,421,44,43,298,36,42,417,12,156,149,202,94,23,19,14,18,37.764508,-122.428665
+sf/16th St_Church St_PM_11-14-12.txt,Church St -- 16th St / San Francisco  CA,x,Wed  Nov 14 2012,16:55-17:55,32,282,60,103,540,64,36,193,34,45,385,14,113,110,156,110,17,21,30,23,37.764508,-122.428665
+sf/16th St_Church St_PM_11-15-12.txt,Church St -- 16th St / San Francisco  CA,x,Thu  Nov 15 2012,16:55-17:55,25,234,62,115,516,56,23,182,18,42,310,15,183,127,175,85,14,21,23,20,37.764508,-122.428665
+sf/17th St_Potrero Ave_040913_AM.txt,Potrero Ave -- 17th St / San Francisco  CA,x,Tue  Apr 16 2013,08:00-09:00,45,463,60,62,247,51,68,713,46,41,235,21,39,26,36,49,142,9,8,57,37.764488,-122.407420
+sf/17th St_Potrero Ave_040913_PM.txt,Potrero Ave -- 17th St / San Francisco  CA,x,Tue  Apr 16 2013,16:30-17:30,79,1009,61,44,286,83,61,999,65,52,185,29,41,41,44,82,17,26,68,7,37.764488,-122.407420
+sf/17th_Church St_11-15-12_AM.txt,Church St -- 17th St / San Francisco  CA,x,Thu  Nov 15 2012,07:35-08:35,32,140,53,89,175,16,66,287,58,26,255,39,100,141,69,69,48,14,42,7,37.762890,-122.428509
+sf/17th_Church St_11-15-12_PM.txt,Church St -- 17th St / San Francisco  CA,x,Thu  Nov 15 2012,17:00-18:00,22,226,56,55,222,27,22,169,21,15,139,12,78,109,85,133,35,9,76,5,37.762890,-122.428509
+sf/19th Ave_Holloway Ave_AM_20120522.txt,19th Ave -- Holloway Ave / San Francisco  CA,x,Tue  May 22 2012,07:30-08:30,51,2653,0,48,103,18,105,1725,0,30,99,20,342,34,35,118,1,0,2,0,37.721057,-122.475222
+sf/19th Ave_Holloway Ave_PM_20120522.txt,19th Ave -- Holloway Ave / San Francisco  CA,x,Tue  May 22 2012,16:45-17:45,63,2566,0,36,117,23,76,1939,0,60,109,45,305,14,49,129,7,1,3,0,37.721057,-122.475222
+sf/19th Ave_Irving St_AM_20120522.txt,19th Ave -- Irving St / San Francisco  CA,x,Tue  May 22 2012,07:30-08:30,147,2027,0,200,88,0,111,2211,0,63,145,233,81,39,85,99,18,1,2,1,37.763559,-122.477174
+sf/19th Ave_Irving St_PM_20120522.txt,19th Ave -- Irving St / San Francisco  CA,x,Tue  May 22 2012,16:45-17:45,183,2265,0,112,251,7,119,2407,0,86,139,113,168,61,181,106,5,1,13,0,37.763559,-122.477174
+sf/19th Ave_Lincoln Way_AM_20120522.txt,19th Ave -- Lincoln Way / San Francisco  CA,x,Tue  May 22 2012,07:45-08:45,269,2115,0,314,541,0,262,2144,0,18,979,0,70,51,14,51,1,2,2,2,37.765448,-122.477308
+sf/19th Ave_Lincoln Way_PM_20120522.txt,19th Ave -- Lincoln Way / San Francisco  CA,x,Tue  May 22 2012,16:45-17:45,369,2427,0,202,949,1,224,2326,0,52,723,0,38,50,25,85,1,2,0,0,37.765448,-122.477308
+sf/19th Ave_Quintara St_AM_20120522.txt,19th Ave -- Quintara St / San Francisco  CA,x,Tue  May 22 2012,07:30-08:30,47,2239,0,10,144,26,58,2283,0,71,93,66,12,17,198,29,0,0,5,0,37.748648,-122.476033
+sf/19th Ave_Quintara St_PM_20120522.txt,19th Ave -- Quintara St / San Francisco  CA,x,Tue  May 22 2012,17:00-18:00,85,2594,1,16,104,30,50,2502,0,40,75,41,18,23,22,21,1,1,1,0,37.748648,-122.476033
+sf/19th Ave_Taraval_AM_052913.txt,19th St -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,07:35-08:35,57,2412,0,49,240,6,106,2292,0,64,242,1,98,30,40,91,0,0,1,0,37.743052,-122.475644
+sf/19th Ave_Taraval_PM_052913.txt,19th St -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,16:05-17:05,102,2388,0,53,282,6,96,2352,0,84,204,8,152,74,86,63,1,1,3,0,37.743052,-122.475644
+sf/21st St_Potrero Ave_040913_AM.txt,Potrero Ave -- 21st St / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,16,748,2,0,0,0,0,1122,81,72,0,22,11,7,102,43,1,11,1,22,37.757762,-122.406800
+sf/21st St_Potrero Ave_040913_PM.txt,Potrero Ave -- 21st St / San Francisco  CA,x,Tue  Apr 09 2013,16:15-17:15,39,1262,0,0,0,0,0,762,113,52,0,24,41,80,42,35,3,20,2,27,37.757762,-122.406800
+sf/22nd St (North)_Potrero Ave_040913_AM.txt,Potrero Ave -- 22nd St (North) / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,0,723,97,44,0,46,160,1167,0,0,0,0,38,85,35,35,0,11,4,45,37.75687,-122.40674
+sf/22nd St (North)__Potrero Ave_040913_PM.txt,Potrero Ave -- 22nd St (North) / San Francisco  CA,x,Tue  Apr 09 2013,16:00-17:00,0,1242,77,58,0,81,107,858,0,0,0,0,33,86,23,22,0,10,10,15,37.75687,-122.40674
+sf/22nd St (South) Potrero Ave_040913_PM.txt,Potrero Ave -- 22nd St (South) / San Francisco  CA,x,Tue  Apr 09 2013,16:00-17:00,48,1230,0,0,0,0,0,926,9,74,0,42,27,45,20,48,7,26,0,16,37.75617,-122.40669
+sf/22nd St (South)_Potrero Ave_040913_AM.txt,Potrero Ave -- 22nd St (South) / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,21,729,0,0,0,0,0,1279,6,104,0,82,34,106,18,30,11,8,0,17,37.75617,-122.40669
+sf/23rd St_Potrero Ave_040913_AM.txt,Potrero Ave -- 23rd St / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,19,671,141,156,15,93,89,1111,0,40,16,42,2,81,114,48,15,8,15,20,37.754277,-122.406453
+sf/23rd St_Potrero Ave_040913_PM.txt,Potrero Ave -- 23rd St / San Francisco  CA,x,Tue  Apr 09 2013,16:00-17:00,30,1184,91,196,24,93,86,708,0,52,46,24,1,75,86,51,5,18,12,10,37.754277,-122.406453
+sf/24th St_Potrero Ave_040913_AM.txt,Potrero Ave -- 24th St / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,36,725,37,59,70,39,96,1089,127,83,161,26,291,76,93,120,8,9,10,10,37.753004,-122.406336
+sf/24th St_Potrero Ave_040913_PM.txt,Potrero Ave -- 24th St / San Francisco  CA,x,Tue  Apr 09 2013,16:15-17:15,50,1295,14,68,81,71,34,638,140,113,119,23,292,50,155,126,6,14,8,1,37.753004,-122.406336
+sf/25th Ave_Crossover Dr_Fulton St_AM_20120522.txt,25th Ave/Crossover Dr -- Fulton St / San Francisco  CA,x,Tue  May 22 2012,07:45-08:45,40,618,0,40,479,0,147,648,0,120,934,0,25,26,23,33,4,5,1,4,37.772569,-122.484194
+sf/25th Ave_Crossover Dr_Fulton St_PM_20120522.txt,25th Ave/Crossover Dr -- Fulton St / San Francisco  CA,x,Tue  May 22 2012,17:00-18:00,43,620,0,36,831,0,148,635,3,109,484,0,28,17,33,50,3,3,3,13,37.772569,-122.484194
+sf/25th St (North)_Potrero Ave_040913_AM.txt,Potrero Ave -- 25th St (North) / San Francisco  CA,x,Tue  Apr 09 2013,07:45-08:45,0,840,16,16,0,188,224,1302,3,4,0,0,36,18,118,25,1,11,7,12,37.75173,-122.40626
+sf/25th St (North)_Potrero Ave_040913_PM.txt,Potrero Ave -- 25th St (North) / San Francisco  CA,x,Tue  Apr 09 2013,16:00-17:00,0,1455,8,16,0,262,87,845,2,0,0,0,26,43,64,77,0,12,2,8,37.75173,-122.40626
+sf/25th St (South)_Potrero Ave_040913_AM.txt,Potrero Ave -- 25th St (South) / San Francisco  CA,x,Tue  Apr 09 2013,07:30-08:30,63,0,0,0,0,0,0,0,5,230,0,2,0,25,1,33,6,6,0,0,37.75136,-122.40622
+sf/25th St (South)_Potrero Ave_040913_PM.txt,Potrero Ave -- 25th St (South) / San Francisco  CA,x,Tue  Apr 09 2013,16:30-17:30,76,0,0,0,0,0,0,0,2,252,0,0,1,66,11,52,0,3,0,0,37.75136,-122.40622
+sf/BayshoreBlvd_CortlandAve_AM_052913.txt,Bayshore Blvd -- Cortland Ave / San Francisco  CA,x,Wed  May 29 2013,07:45-08:45,126,447,1,0,0,0,0,1167,222,232,0,246,75,2,30,36,9,8,0,14,37.73958,-122.40699
+sf/BayshoreBlvd_CortlandAve_PM_052913.txt,Bayshore Blvd -- Cortland Ave / San Francisco  CA,x,Wed  May 29 2013,17:00-18:00,177,949,2,0,0,0,0,945,253,181,0,140,50,0,23,79,2,11,2,8,37.73958,-122.40699
+sf/BayshoreBlvd_IndustrialSt_AM_052913.txt,Bayshore Blvd -- Industrial St / San Francisco  CA,x,Wed  May 29 2013,07:40-08:40,288,253,128,117,496,51,162,743,223,44,619,556,11,31,6,9,6,11,1,7,37.73800,-122.40697
+sf/BayshoreBlvd_IndustrialSt_PM_052913.txt,Bayshore Blvd -- Industrial St / San Francisco  CA,x,Wed  May 29 2013,16:45-17:45,468,488,84,78,716,80,66,500,207,34,337,653,5,19,2,6,0,3,4,2,37.73800,-122.40697
+sf/BayshoreBlvd_OakdaleAve_AM_060413.txt,Bayshore Blvd -- Oakdale Ave / San Francisco  CA,x,Tue  Jun 04 2013,07:40-08:40,0,372,417,252,0,172,125,1064,0,0,0,0,35,25,1,0,0,1,3,7,37.74308,-122.40528
+sf/BayshoreBlvd_OakdaleAve_PM_060413.txt,Bayshore Blvd -- Oakdale Ave / San Francisco  CA,x,Tue  Jun 04 2013,16:50-17:50,0,825,452,204,1,283,108,732,0,0,0,0,22,25,1,0,0,4,4,10,37.74308,-122.40528
+sf/BayshoreBlvd_SilverAve_AM_060413.txt,Bayshore Blvd -- Silver Ave / San Francisco  CA,x,Tue  Jun 04 2013,07:35-08:35,38,224,23,34,191,22,73,789,215,172,228,128,31,32,90,3,5,4,0,8,37.73298,-122.40466
+sf/BayshoreBlvd_SilverAve_PM_060413.txt,Bayshore Blvd -- Silver Ave / San Francisco  CA,x,Tue  Jun 04 2013,16:50-17:50,124,423,32,53,181,24,85,463,246,220,285,82,31,45,84,0,0,1,4,4,37.73298,-122.40466
+sf/Brannan St -- Division St_Potrero Ave_040913_AM.txt,Brannan St -- Division St / San Francisco  CA,x,Tue  Apr 09 2013,08:00-09:00,77,146,9,0,121,13,40,404,295,0,560,151,21,27,7,0,250,4,5,21,37.769244,-122.408007
+sf/Brannan St -- Division St_Potrero Ave_040913_PM.txt,Brannan St -- Division St / San Francisco  CA,x,Tue  Apr 09 2013,16:45-17:45,213,241,12,7,270,11,55,318,287,0,460,155,31,34,25,0,42,28,105,4,37.769244,-122.408007
+sf/HaightSt_MasonicAve_AM_052913.txt,Masonic Ave -- Haight St / San Francisco  CA,x,Wed  May 29 2013,07:55-08:55,89,337,42,47,159,18,90,619,6,32,153,45,106,88,110,72,27,0,4,28,37.770210,-122.445345
+sf/HaightSt_MasonicAve_PM_052913.txt,Masonic Ave -- Haight St / San Francisco  CA,x,Wed  May 29 2013,16:55-17:55,91,629,25,49,188,35,32,351,5,16,135,49,376,176,411,233,23,2,12,5,37.770210,-122.445345
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,0,60,111,0,0,0,24,38,0,28,1761,60,12,22,20,9,4,7,0,3,37.785968,-122.441726
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,0,25,51,0,0,0,42,54,0,9,1137,33,12,12,29,20,2,2,0,7,37.785968,-122.441726
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,51,0,0,82,932,0,2,0,0,0,2045,0,139,0,56,0,1,0,1,0,37.783030,-122.441130
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,61,0,0,154,1858,0,0,0,0,0,1293,0,122,0,45,0,0,0,1,0,37.783030,-122.441130
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Post St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,46,30,51,54,53,12,60,27,15,38,297,27,45,20,42,30,32,8,10,1,37.784107,-122.441349
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Post St / San Francisco  CA,x,Wed  May 15 2013,16:15-17:15,16,37,18,30,107,13,126,39,21,25,134,13,28,18,38,31,2,0,9,1,37.784107,-122.441349
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,9,56,31,19,55,18,47,43,15,44,106,12,55,57,51,16,1,10,0,3,37.785036,-122.441537
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Broderick St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,16:00-17:00,13,30,15,44,145,30,36,43,5,10,65,4,41,65,33,13,0,1,8,3,37.785036,-122.441537
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Bryant St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,39,99,48,133,458,27,67,325,29,41,563,68,116,159,129,66,25,1,8,28,37.765606,-122.410487
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Bryant St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,61,200,68,182,736,71,93,336,50,30,431,69,236,170,138,93,8,14,34,10,37.765606,-122.410487
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,0,421,101,0,0,0,131,397,1,63,1704,99,31,109,44,102,4,0,0,2,37.786180,-122.440061
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,0,491,72,0,0,0,103,452,2,50,1116,64,53,159,78,139,1,1,0,5,37.786180,-122.440061
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,105,430,0,88,907,1,95,619,101,63,1946,0,192,163,127,432,2,1,2,10,37.783308,-122.439480
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,95,639,1,82,1722,1,72,479,83,80,1194,0,214,147,114,472,0,4,1,5,37.783308,-122.439480
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Pine St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,43,436,0,86,890,87,0,486,25,0,0,0,45,56,29,87,1,0,1,1,37.787112,-122.440250
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Pine St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,87,473,0,101,1540,97,0,486,41,0,0,0,37,106,63,153,1,3,4,6,37.787112,-122.440250
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Post St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,39,427,33,24,73,30,83,560,44,84,284,25,124,245,110,254,43,1,15,12,37.784319,-122.439685
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Post St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,20,587,31,26,76,33,71,495,22,105,180,28,82,170,100,252,9,6,11,7,37.784319,-122.439685
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,48,417,10,30,74,32,58,475,75,34,54,10,158,287,261,231,3,0,1,2,37.785248,-122.439873
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Divisadero St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,16:15-17:15,37,519,14,50,117,55,51,456,34,57,85,23,182,270,217,280,0,3,5,6,37.785248,-122.439873
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 14th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,0,178,12,37,0,45,38,608,0,66,223,359,36,48,70,67,268,12,2,107,37.768537,-122.415614
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 14th St / San Francisco  CA,x,Wed  May 15 2013,16:30-17:30,0,369,6,74,0,78,37,537,0,118,202,262,91,87,114,117,42,52,5,18,37.768537,-122.415614
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 15th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,67,211,8,21,102,21,28,607,35,15,22,21,55,68,34,47,7,19,11,102,37.766937,-122.415462
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 15th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,104,493,7,41,225,34,17,528,55,17,6,10,53,97,42,96,3,82,39,17,37.766937,-122.415462
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,25,193,35,53,357,19,57,554,43,38,548,66,159,65,215,61,22,14,10,75,37.765315,-122.415308
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,56,445,41,80,699,47,35,453,31,43,365,65,250,96,198,86,12,67,31,15,37.765315,-122.415308
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- Division St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,39,126,14,36,601,1,121,798,103,71,758,189,16,39,30,41,15,12,1,207,37.76957,-122.41562
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Folsom St -- Division St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,104,285,41,29,1158,0,165,562,127,97,545,127,43,120,84,76,9,66,25,8,37.76957,-122.41562
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- 14th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,48,390,12,11,10,2,6,224,22,149,23,89,5,21,36,39,149,37,0,158,37.768671,-122.413396
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- 14th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,101,652,57,78,22,37,25,249,29,145,39,63,24,51,102,74,30,166,8,38,37.768671,-122.413396
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- 15th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,75,361,13,9,7,7,12,255,88,29,5,15,32,12,1,39,6,60,0,190,37.766725,-122.413227
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- 15th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,159,684,12,11,13,4,6,260,83,23,1,16,27,29,6,44,3,204,2,48,37.766725,-122.413227
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- Division St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,146,371,61,60,522,25,118,123,81,57,1187,33,51,47,74,55,70,24,19,187,37.76952,-122.41341
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Harrison St -- Division St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,248,590,27,20,784,117,88,185,130,116,608,0,48,83,93,59,11,99,42,34,37.76952,-122.41341
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Mission St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,36,234,2,62,342,5,78,441,0,37,479,5,367,583,566,392,26,13,5,15,37.765051,-122.419669
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Mission St -- 16th St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,48,381,1,50,616,9,91,354,1,53,341,2,634,939,1181,820,19,9,14,19,37.765051,-122.419669
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,0,35,39,0,0,0,19,44,1,25,1836,53,20,39,25,12,5,1,0,1,37.786601,-122.436747
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,0,32,30,0,0,0,31,39,0,17,1244,45,21,27,37,32,5,0,0,3,37.786601,-122.436747
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Post St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,22,0,30,35,74,1,0,0,0,0,387,33,34,21,40,14,52,5,16,0,37.784736,-122.436368
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Post St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,31,0,23,21,113,0,0,0,0,0,286,23,33,24,54,14,18,3,18,0,37.784736,-122.436368
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,24,32,11,27,89,5,34,20,15,16,72,11,46,39,66,18,11,2,3,1,37.785668,-122.436557
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Pierce St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,16:00-17:00,34,27,13,32,163,13,6,24,7,17,94,14,56,43,65,24,1,2,11,1,37.785668,-122.436557
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 14th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,1,340,41,0,0,0,82,654,1,79,542,68,77,66,89,29,281,3,0,16,37.768405,-122.417802
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 14th St / San Francisco  CA,x,Wed  May 15 2013,16:00-17:00,0,778,124,0,0,0,61,575,0,116,381,65,83,94,157,36,39,10,0,6,37.768405,-122.417802
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 15th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,47,354,9,46,129,30,44,708,82,1,0,0,107,50,74,38,1,3,12,17,37.766805,-122.417645
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 15th St / San Francisco  CA,x,Wed  May 15 2013,16:30-17:30,95,779,7,54,328,18,34,584,77,0,0,0,94,86,88,52,0,15,50,6,37.766805,-122.417645
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 16th St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,40,250,105,73,312,22,114,737,57,46,463,26,246,77,270,126,16,2,7,7,37.765183,-122.417487
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,S Van Ness Ave -- 16th St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,42,677,90,120,657,12,62,521,45,67,326,15,408,120,259,129,19,7,38,3,37.765183,-122.417487
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,0,177,89,0,0,0,43,169,0,63,1784,56,18,16,30,44,6,5,0,6,37.786392,-122.438394
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Bush St / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,0,240,81,0,0,0,57,151,0,55,1170,29,23,30,31,40,2,6,1,10,37.786392,-122.438394
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,07:45-08:45,42,164,43,101,971,0,70,236,55,39,2007,0,53,61,58,59,1,4,0,4,37.783718,-122.437848
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Geary Blvd / San Francisco  CA,x,Wed  May 15 2013,17:00-18:00,58,249,51,61,1721,0,56,162,35,43,1210,0,73,102,64,57,1,8,1,6,37.783718,-122.437848
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Post St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,29,197,26,15,55,16,73,213,47,50,321,17,45,40,53,88,42,5,14,23,37.784531,-122.438020
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Post St / San Francisco  CA,x,Wed  May 15 2013,16:45-17:45,14,250,26,24,98,37,53,171,23,53,219,9,44,56,40,72,13,18,18,9,37.784531,-122.438020
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,08:00-09:00,33,175,26,28,81,24,20,177,39,48,59,21,71,23,67,96,5,7,1,13,37.785459,-122.438206
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,Scott St -- Sutter St / San Francisco  CA,x,Wed  May 15 2013,16:15-17:15,40,200,21,33,146,23,20,171,33,61,71,19,49,42,45,78,3,4,13,3,37.785459,-122.438206
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,South Van Ness Ave -- Division St / San Francisco  CA,x,Tue  May 21 2013,08:00-09:00,46,1053,147,200,376,82,105,615,1,1067,783,0,18,30,33,1,6,0,1,7,37.76983,-122.41781
+sf/InfoMemoAttachmentCAppendixG4-MBSUCSFLRDP.txt,South Van Ness Ave -- Division St / San Francisco  CA,x,Tue  May 21 2013,16:45-17:45,43,1386,17,331,875,173,83,508,0,617,681,0,86,102,79,57,0,0,0,9,37.76983,-122.41781
+sf/Sunset_Taraval_AM_052913.txt,Sunset Blvd -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,07:35-08:35,62,1760,0,34,166,51,72,1915,0,63,161,106,24,25,24,6,0,0,0,0,37.742225,-122.494443
+sf/Sunset_Taraval_PM_052913.txt,Sunset Blvd -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,17:00-18:00,96,1601,0,45,183,47,122,1736,0,36,169,61,101,36,34,22,2,0,1,0,37.742225,-122.494443
+sf/TaravalSt_19thSt_AM_052913.txt,19th St -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,07:35-08:35,57,2412,0,49,240,6,106,2292,0,64,242,1,98,30,40,91,0,0,1,0,37.743052,-122.475644
+sf/TaravalSt_19thSt_PM_052913.txt,19th St -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,16:05-17:05,102,2388,0,53,282,6,96,2352,0,84,204,8,152,74,86,63,1,1,3,0,37.743052,-122.475644
+sf/TaravalSt_SunsetBlvd_AM_052913.txt,Sunset Blvd -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,07:35-08:35,62,1760,0,34,166,51,72,1915,0,63,161,106,24,25,24,6,0,0,0,0,37.742225,-122.494443
+sf/TaravalSt_SunsetBlvd_PM_052913.txt,Sunset Blvd -- Taraval St / San Francisco  CA,x,Wed  May 29 2013,17:00-18:00,96,1601,0,45,183,47,122,1736,0,36,169,61,101,36,34,22,2,0,1,0,37.742225,-122.494443
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,07:50-08:50,61,150,153,83,670,3,30,342,18,9,1025,76,26,48,15,33,1,33,1,25,37.774309,-122.458371
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,16:50-17:50,154,316,206,76,917,14,23,145,20,14,760,56,17,50,20,14,0,18,0,28,37.774309,-122.458371
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,07:40-08:40,61,136,156,91,656,6,39,362,9,13,1025,95,33,56,18,27,1,29,0,38,37.774309,-122.458371
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,16:50-17:50,164,270,186,97,887,15,22,168,20,23,723,52,23,36,15,29,0,35,1,38,37.774309,-122.458371
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:55-08:55,40,273,107,87,997,0,59,383,43,39,2229,2,61,313,67,29,1,24,2,32,37.781257,-122.458859
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,16:55-17:55,91,434,110,136,1943,1,68,297,45,63,1431,1,151,252,123,74,8,36,3,20,37.781257,-122.458859
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Geary Blvd / San Francisco  CA,x,Thu  Sep 15 2011,07:45-08:45,46,248,116,78,985,0,79,378,27,46,1788,0,96,269,64,44,2,34,13,32,37.781257,-122.458859
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Geary Blvd / San Francisco  CA,x,Thu  Sep 15 2011,16:55-17:55,58,422,127,131,1967,0,75,299,53,83,1483,5,170,183,153,109,1,37,1,25,37.781257,-122.458859
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Turk Blvd / San Francisco  CA,x,Mon  Sep 12 2011,07:45-08:45,11,232,76,53,273,70,124,447,21,32,499,42,26,67,56,23,3,52,0,37,37.777254,-122.458581
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:50-08:50,19,272,69,60,250,54,112,439,17,19,423,45,24,69,55,35,2,24,1,43,37.777254,-122.458581
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,16:55-17:55,22,471,52,71,478,189,32,269,16,31,179,33,17,64,55,41,4,42,3,29,37.777254,-122.458581
+sf/USF_IMP_Traffic_appendix_01112012.txt,Arguello Blvd -- Turk Blvd / San Francisco  CA,x,Thu  Sep 15 2011,17:00-18:00,41,477,55,89,492,194,38,257,21,42,188,30,27,58,50,57,1,41,6,32,37.777254,-122.458581
+sf/USF_IMP_Traffic_appendix_01112012.txt,Chabot Ter -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:40-08:40,0,0,0,0,504,11,10,0,23,12,533,1,32,32,23,109,0,0,0,0,37.778052,-122.451543
+sf/USF_IMP_Traffic_appendix_01112012.txt,Chabot Ter -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,16:55-17:55,0,0,0,0,817,7,8,0,10,15,270,0,45,27,13,120,2,0,1,0,37.778052,-122.451543
+sf/USF_IMP_Traffic_appendix_01112012.txt,Chabot Terr -- Turk Blvd / San Francisco  CA,x,Thu  Sep 15 2011,07:40-08:40,0,0,0,0,503,10,10,0,21,19,599,1,66,41,34,129,1,0,0,0,37.778052,-122.451543
+sf/USF_IMP_Traffic_appendix_01112012.txt,Chabot Terr -- Turk Blvd / San Francisco  CA,x,Thu  Sep 15 2011,17:00-18:00,0,0,0,0,888,14,8,0,20,15,277,0,56,30,41,178,1,0,0,0,37.778052,-122.451543
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fell St / San Francisco  CA,x,Thu  Sep 08 2011,07:55-08:55,401,498,0,203,1237,121,0,1535,75,0,0,0,18,48,403,55,0,2,1,1,37.772995,-122.445902
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fell St / San Francisco  CA,x,Thu  Sep 08 2011,16:45-17:45,714,931,0,136,1883,219,0,878,4,0,0,0,21,48,381,59,0,0,0,1,37.772995,-122.445902
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fell St / San Francisco  CA,x,Thu  Sep 15 2011,07:50-08:50,417,460,0,233,1261,158,1,1483,61,0,0,0,29,43,429,0,0,1,0,1,37.772995,-122.445902
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fell St / San Francisco  CA,x,Thu  Sep 15 2011,17:00-18:00,703,940,0,151,1962,205,0,889,1,0,0,0,38,82,426,78,0,0,1,1,37.772995,-122.445902
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,07:55-08:55,71,872,2,26,209,21,45,1719,3,28,436,105,44,140,103,72,8,3,0,0,37.775802,-122.446471
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,17:00-18:00,142,1688,4,37,324,40,50,958,3,42,292,68,165,201,135,115,0,2,0,0,37.775802,-122.446471
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,07:50-08:50,86,856,4,43,232,17,54,1779,1,28,383,111,72,114,83,77,7,2,0,5,37.775802,-122.446471
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,16:55-17:55,134,1657,8,60,360,40,78,1011,1,37,289,68,140,131,118,114,4,4,3,4,37.775802,-122.446471
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:50-08:50,164,766,1,17,78,154,452,1335,71,43,237,194,83,56,64,41,1,2,2,5,37.782434,-122.447285
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,17:00-18:00,206,1270,0,24,150,399,202,782,83,138,140,141,173,5,71,79,3,2,7,2,37.782434,-122.447285
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Geary Blvd / San Francisco  CA,x,Tue  Sep 13 2011,07:55-08:55,159,716,0,16,72,139,485,1325,89,3,153,179,73,56,65,58,0,1,0,2,37.782434,-122.447285
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Geary Blvd / San Francisco  CA,x,Tue  Sep 13 2011,17:00-18:00,261,1214,0,24,152,379,208,763,94,9,119,162,247,123,102,137,0,2,8,5,37.782434,-122.447285
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Golden Gate Ave / San Francisco  CA,x,10/14/2010,07:40-08:40,49,827,2,92,78,39,87,1676,1,38,152,10,64,73,40,43,15,3,0,2,37.777669,-122.446846
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Golden Gate Ave / San Francisco  CA,x,10/14/2010,17:00-18:00,39,1712,23,39,62,35,61,1007,4,52,130,23,32,89,66,64,5,11,4,3,37.777669,-122.446846
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Golden Gate Ave / San Francisco  CA,x,10/19/2010,07:40-08:40,43,924,5,81,86,44,91,1714,3,39,152,11,66,78,34,36,13,6,3,4,37.777669,-122.446846
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Golden Gate Ave / San Francisco  CA,x,10/19/2010,17:00-18:00,37,1787,10,47,74,33,31,1054,6,60,116,18,34,104,62,64,10,10,3,3,37.777669,-122.446846
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Turk Blvd / San Francisco  CA,x,10/14/2010,07:40-08:40,94,777,0,100,525,82,92,1695,1,28,407,100,62,70,25,71,1,4,0,3,37.778622,-122.447040
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Turk Blvd / San Francisco  CA,x,10/14/2010,17:00-18:00,123,1557,1,68,720,182,47,1053,3,36,207,66,73,94,32,73,5,7,6,7,37.778622,-122.447040
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Turk Blvd / San Francisco  CA,x,10/19/2010,07:40-08:40,112,844,0,78,468,98,98,1719,4,23,406,113,59,86,22,50,2,4,3,7,37.778622,-122.447040
+sf/USF_IMP_Traffic_appendix_01112012.txt,Masonic Ave -- Turk Blvd / San Francisco  CA,x,10/20/2010,17:00-18:00,138,1599,1,69,665,201,51,1017,1,54,188,67,67,75,28,101,2,12,2,7,37.778622,-122.447040
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Golden Gate Ave / San Francisco  CA,x,10/14/2010,07:40-08:40,0,171,113,70,0,45,131,151,1,0,0,0,36,60,92,122,0,13,2,4,37.776853,-122.453188
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Golden Gate Ave / San Francisco  CA,x,10/14/2010,16:25-17:25,0,226,80,88,0,71,78,142,2,0,2,0,74,130,141,219,2,6,6,5,37.776853,-122.453188
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Golden Gate Ave / San Francisco  CA,x,10/19/2010,07:45-08:45,0,138,111,76,0,43,113,164,1,0,0,0,58,65,79,139,0,11,3,5,37.776853,-122.453188
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Golden Gate Ave / San Francisco  CA,x,10/19/2010,16:25-17:25,0,250,91,89,0,71,79,147,2,0,0,0,89,128,151,223,0,3,2,2,37.776853,-122.453188
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Turk Blvd / San Francisco  CA,x,10/14/2010,07:40-08:40,26,139,45,62,402,43,27,144,32,96,488,43,17,12,25,42,6,0,0,0,37.777827,-122.453385
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Turk Blvd / San Francisco  CA,x,10/14/2010,17:00-18:00,33,189,43,65,735,41,30,132,56,79,235,24,54,79,54,88,4,3,2,5,37.777827,-122.453385
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Turk Blvd / San Francisco  CA,x,10/19/2010,07:45-08:45,29,118,46,71,433,31,23,155,44,91,490,63,37,16,17,54,12,0,1,2,37.777827,-122.453385
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker Ave -- Turk Blvd / San Francisco  CA,x,10/19/2010,17:00-18:00,70,210,47,89,838,38,38,122,52,91,249,20,65,61,57,79,4,1,1,0,37.777827,-122.453385
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker St -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:45-08:45,33,125,80,40,1016,0,39,152,46,40,2333,0,55,32,43,24,2,2,0,0,37.781599,-122.454176
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker St -- Geary Blvd / San Francisco  CA,x,Thu  Sep 08 2011,16:55-17:55,54,244,57,46,2002,0,55,98,50,37,1450,0,43,35,86,41,8,1,6,0,37.781599,-122.454176
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker St -- Geary Blvd / San Francisco  CA,x,Wed  Sep 14 2011,07:50-08:50,29,113,76,46,954,0,53,166,42,13,1878,0,17,29,13,18,6,3,1,2,37.781599,-122.454176
+sf/USF_IMP_Traffic_appendix_01112012.txt,Parker St -- Geary Blvd / San Francisco  CA,x,Wed  Sep 14 2011,16:55-17:55,57,228,58,40,1963,0,52,115,55,41,1354,0,0,0,0,0,5,4,6,1,37.781599,-122.454176
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,07:45-08:45,8,322,39,16,290,8,48,392,454,570,587,2,28,34,59,37,1,5,1,2,37.774755,-122.454683
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Fulton St / San Francisco  CA,x,Thu  Sep 08 2011,17:00-18:00,22,484,21,30,462,6,38,406,524,612,379,1,49,86,77,48,0,3,0,3,37.774755,-122.454683
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,07:50-08:50,10,291,42,25,290,10,57,378,462,677,519,1,57,37,47,44,0,2,0,1,37.774755,-122.454683
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Fulton St / San Francisco  CA,x,Wed  Sep 14 2011,16:45-17:45,8,475,18,38,460,6,43,407,527,584,389,0,55,62,73,64,1,1,0,1,37.774755,-122.454683
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- John F Kennedy Dr / San Francisco  CA,x,Thu  Sep 08 2011,16:50-17:50,250,782,266,2,2227,7,36,649,0,89,1490,0,96,186,57,72,1,0,94,0,37.77146,-122.45403
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- John F Kennedy Dr / San Francisco  CA,x,Tue  Sep 13 2011,07:50-08:50,89,708,300,3,1246,0,22,790,0,31,2173,1,66,23,36,64,7,3,1,3,37.77146,-122.45403
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- John F Kennedy Dr / San Francisco  CA,x,Tue  Sep 13 2011,17:00-18:00,267,760,280,4,2271,2,26,615,0,99,1430,0,110,195,32,105,6,0,82,2,37.77146,-122.45403
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,07:45-08:45,6,204,44,32,326,56,55,307,28,37,557,30,17,27,57,25,7,2,0,3,37.777599,-122.455217
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Turk Blvd / San Francisco  CA,x,Thu  Sep 08 2011,16:55-17:55,21,386,31,32,683,80,45,342,37,52,239,9,32,30,73,40,6,3,2,3,37.777599,-122.455217
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan St -- Turk Blvd / San Francisco  CA,x,Thu  Sep 15 2011,07:35-08:35,35,327,41,41,378,60,81,364,29,39,208,15,64,2,43,33,1,1,2,3,37.777599,-122.455217
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyan Street -- Turk Blvd / San Francisco  CA,x,Thu  Sep 15 2011,17:00-18:00,30,367,47,43,710,91,40,298,38,47,212,15,39,31,62,43,2,2,6,1,37.777599,-122.455217
+sf/USF_IMP_Traffic_appendix_01112012.txt,Stanyon St -- John F Kennedy Dr / San Francisco  CA,x,Thu  Sep 08 2011,07:50-08:50,115,628,293,1,1216,0,20,773,0,44,2130,0,82,98,41,101,178,3,5,0,37.77146,-122.45403
+sf/USF_IMP_Traffic_appendix_01112012.txt,Tamalpais Ter -- Turk Blvd / San Francisco  CA,x,10/14/2010,07:40-08:40,2,0,1,3,567,14,6,0,6,17,523,5,84,73,49,27,6,0,3,0,37.778389,-122.448879
+sf/USF_IMP_Traffic_appendix_01112012.txt,Tamalpais Ter -- Turk Blvd / San Francisco  CA,x,10/14/2010,16:50-17:50,4,2,0,1,836,14,7,1,6,12,305,6,56,21,26,18,7,0,6,0,37.778389,-122.448879
+sf/USF_IMP_Traffic_appendix_01112012.txt,Tamalpais Ter -- Turk Blvd / San Francisco  CA,x,10/19/2010,07:35-08:35,1,0,0,1,547,14,5,8,8,17,518,1,111,56,37,25,3,0,0,0,37.778389,-122.448879
+sf/USF_IMP_Traffic_appendix_01112012.txt,Tamalpais Ter -- Turk Blvd / San Francisco  CA,x,10/19/2010,16:55-17:55,2,1,4,0,949,12,8,1,6,15,310,1,88,28,34,19,4,0,3,0,37.778389,-122.448879
