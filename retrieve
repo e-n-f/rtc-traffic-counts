@@ -2,7 +2,9 @@
 
 system "curl --compress -O http://www.rtc.wa.gov/data/traffic/code/arrIntersections.js";
 
-open(IN, "arrIntersections.js");
+chdir "rtc";
+
+open(IN, "../arrIntersections.js");
 while (<IN>) {
 	if (/id:([0-9]+)/) {
 		$ids{$1} = 1;
@@ -22,6 +24,7 @@ for $id (keys(%ids)) {
 		if (/\/([^\/']*\.PDF)/) {
 			$pdf = $1;
 			print "$pdf\n";
+			next if -f "$id/$pdf";
 			system "curl --compress -o '$id/$pdf' 'http://www.rtc.wa.gov/data/traffic/scans/$pdf'";
 		}
 	}
