@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                             Method for determining peak hour: Total Entering Volume
+ LOCATION: Grand Ave -- Sunnyslope Ave                                                                                      QC JOB #: 13350905
+ CITY/STATE: Oakland, CA                                                                                                    DATE: Tue, Apr 28 2015
+                    476          492                          Peak-Hour: 8:00 AM -- 9:00 AM                                  2.7        4.3
+
+                       17 457     2
+                                                             Peak 15-Min: 8:00 AM -- 8:15 AM
+                                                                                                                             0.0 2.8 0.0
+
+
+       29    17                         1     2
+                                                                                                               3.4   5.9                       0.0      0.0
+             0            0.94          0
+                                                                                                                     0.0                       0.0
+       35    18                         1     5
+                                                                                                               8.6   11.1                      0.0      0.0
+
+                       12 474     3
+                                                                                                                             8.3 4.2 0.0
+
+                    476          489
+                                                                                                                             3.2        4.3
+
+
+
+                           5                                                                                                  0    17   0
+
+
+
+                                                                                                                     1                           0
+
+             18                        42                                                                            0                           0
+
+                                                                                                                     2                           0
+
+                           0                                                                                                  0    12   0
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+
+             NA                        NA                                                                            NA                        NA
+
+
+
+
+                          NA                                                                                                       NA
+
+
+
+ 5-Min Count                Grand Ave                      Grand Ave                 Sunnyslope Ave            Sunnyslope Ave                 Total      Hourly
+     Period               (Northbound)                   (Southbound)                 (Eastbound)               (Westbound)                              Totals
+ Beginning At     Left     Thru Right     U       Left    Thru Right    U        Left Thru Right      U    Left Thru Right    U
+     7:00 AM       0        11      0     0        0       12      0     0         0    0      0      0     0     0     0     0                23
+     7:05 AM       0        18      0     0        0       12      0     0         0    0      0      0     0     0     0     0                30
+     7:10 AM       1        11      1     0        0       10      0     0         0    0      0      0     0     0     0     0                23
+     7:15 AM       0        15      0     0        0       12      0     0         0    0      0      0     0     0     0     0                27
+     7:20 AM       0        21      0     0        0       15      0     0         0    0      0      0     0     0     0     0                36
+     7:25 AM       0        20      0     0        0       11      0     0         0    0      3      0     0     0     0     0                34
+     7:30 AM       0        22      0     0        0       18      0     0         1    0      2      0     0     0     0     0                43
+     7:35 AM       0        30      0     0        0       19      1     0         2    0      1      0     0     0     0     0                53
+     7:40 AM       0        29      0     0        0       27      0     0         0    0      3      0     0     0     0     0                59
+     7:45 AM       0        23      0     0        0       20      1     0         1    0      1      0     0     0     0     0                46
+     7:50 AM       0        39      0     0        0       26      1     0         3    0      2      0     0     0     0     0                71
+     7:55 AM       3        37      1     0        0       30      1     0         2    0      2      0     0     0     0     0                76             521
+     8:00 AM       0        48      0     0        1       45      2     0         2    0      1      0     0     0     0     0                99             597
+     8:05 AM       1        49      1     0        0       35      0     0         2    0      1      0     0     0     0     0                89             656
+     8:10 AM       0        42      0     0        0       34      1     0         1    0      0      0     0     0     0     0                78             711
+     8:15 AM       0        48      0     0        0       28      3     0         2    0      0      0     0     0     0     0                81             765
+     8:20 AM       0        36      0     0        0       37      0     0         1    0      1      0     0     0     0     0                75             804
+     8:25 AM       3        33      0     0        0       49      2     0         0    0      5      0     0     0     0     0                92             862
+     8:30 AM       1        44      0     0        0       35      1     0         1    0      1      0     0     0     1     0                84             903
+     8:35 AM       3        36      0     0        0       48      1     0         1    0      0      0     0     0     0     0                89             939
+     8:40 AM       1        25      0     0        0       44      0     0         1    0      2      0     1     0     0     0                74             954
+     8:45 AM       0        38      1     0        0       33      3     0         2    0      3      0     0     0     0     0                80             988
+     8:50 AM       2        38      1     0        1       33      4     0         0    0      0      0     0     0     0     0                79             996
+     8:55 AM       1        37      0     0        0       36      0     0         4    0      4      0     0     0     0     0                82            1002
+ Peak 15-Min                   Northbound                     Southbound                  Eastbound                 Westbound
+   Flowrates      Left     Thru Right     U       Left    Thru Right    U        Left Thru Right      U    Left Thru Right    U                      Total
+  All Vehicles     4      556       4     0        4      456     12     0        20    0      8      0     0     0     0     0                      1064
+ Heavy Trucks      4        32      0              0       20      0               4    0      4            0     0     0                             64
+  Pedestrians                0                              4                          20                        52                                   76
+    Bicycles       0         3      0              0        3      0               0    0      1            0     0     0                              7
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/4/2015 9:25 PM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

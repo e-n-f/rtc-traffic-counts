@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Grand Ave -- Boulevard Way                                                                                          QC JOB #: 13350903
+ CITY/STATE: Oakland, CA                                                                                                       DATE: Thu, Apr 23 2015
+                    515             587                           Peak-Hour: 8:00 AM -- 9:00 AM                                 2.3        2.2
+
+                         0   462 53
+                                                                 Peak 15-Min: 8:15 AM -- 8:30 AM
+                                                                                                                                0.0 2.6 0.0
+
+
+       0     0                            109   180
+                                                                                                                   0.0   0.0                      0.0      0.0
+             0               0.88           0
+                                                                                                                         0.0                      0.0
+       0     0                             71    87
+                                                                                                                   0.0   0.0                      0.0      0.0
+
+                         0   477 35
+                                                                                                                                0.0 2.7 0.0
+
+                    533             512
+                                                                                                                                2.3        2.5
+
+
+
+                              0                                                                                                  0    22   0
+
+
+
+                                                                                                                         0                          3
+
+             32                            18                                                                            0                          0
+
+                                                                                                                         0                          2
+
+                              0                                                                                                  0    14   0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                           NA                                                                             NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 5-Min Count                   Grand Ave                       Grand Ave                  Boulevard Way             Boulevard Way                Total      Hourly
+     Period                  (Northbound)                    (Southbound)                  (Eastbound)               (Westbound)                            Totals
+ Beginning At     Left        Thru Right     U        Left    Thru Right    U        Left Thru Right       U   Left Thru Right     U
+     7:00 AM       0           10      1     0         0       12      0     0        0      0      0      0     0     0      2    0              25
+     7:05 AM       0           17      2     0         1       15      0     0        0      0      0      0     2     0      2    0              39
+     7:10 AM       0           20      0     0         0       14      0     0        0      0      0      0     3     0      4    0              41
+     7:15 AM       0           12      1     0         1       15      0     0        0      0      0      0     3     0      3    0              35
+     7:20 AM       0           19      0     0         0       10      0     0        0      0      0      0     4     0      3    0              36
+     7:25 AM       0           26      1     0         2       10      0     0        0      0      0      0     3     0      2    0              44
+     7:30 AM       0           19      2     0         0        9      0     0        0      0      0      0     4     0      5    0              39
+     7:35 AM       0           34      2     0         2       14      0     0        0      0      0      0     6     0      4    0              62
+     7:40 AM       0           18      3     0         3       26      0     0        0      0      0      0     6     0      4    0              60
+     7:45 AM       0           35      2     0         0       29      0     0        0      0      0      0     4     0      6    0              76
+     7:50 AM       0           39      0     0         3       16      0     0        0      0      0      0     3     0      7    0              68
+     7:55 AM       0           30      0     0         2       32      0     0        0      0      0      0     0     0      5    0              69             594
+     8:00 AM       0           45      1     0         3       32      0     0        0      0      0      0     8     0      6    0              95             664
+     8:05 AM       0           37      2     0         5       39      0     0        0      0      0      0     4     0      9    0              96             721
+     8:10 AM       0           43      3     0         5       31      0     0        0      0      0      0     4     0      8    0              94             774
+     8:15 AM       0           47      0     0         3       41      0     0        0      0      0      0     8     0     18    0             117             856
+     8:20 AM       0           46      5     0         9       28      0     0        0      0      0      0     9     0     13    0             110             930
+     8:25 AM       0           47      3     0         4       41      0     0        0      0      0      0     5     0     15    0             115            1001
+     8:30 AM       0           39      3     0         3       41      0     1        0      0      0      0     2     0      6    0              95            1057
+     8:35 AM       0           25      2     0         6       56      0     0        0      0      0      0     5     0     11    0             105            1100
+     8:40 AM       0           38      2     0         0       36      0     0        0      0      0      0     2     0      4    0              82            1122
+     8:45 AM       0           34      2     0         4       46      0     0        0      0      0      0    12     0      7    0             105            1151
+     8:50 AM       0           37      7     0         5       37      0     0        0      0      0      0     5     0      6    0              97            1180
+     8:55 AM       0           39      5     0         5       34      0     0        0      0      0      0     7     0      6    0              96            1207
+ Peak 15-Min                      Northbound                      Southbound                   Eastbound                 Westbound
+   Flowrates      Left        Thru Right     U        Left    Thru Right    U        Left Thru Right       U   Left Thru Right     U                    Total
+  All Vehicles     0         560      32     0         64     440      0     0        0      0      0      0    88     0   184     0                    1368
+ Heavy Trucks      0            4      0                0      12      0              0      0      0            0     0      0                          16
+  Pedestrians                   0                               0                           20                        12                                 32
+    Bicycles       0            4      0               0        1      0              0      0      0            0     0      1                           6
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/4/2015 9:25 PM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+

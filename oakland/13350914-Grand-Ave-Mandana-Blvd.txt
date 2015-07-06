@@ -1,0 +1,92 @@
+Type of peak hour being reported: Intersection Peak                                                  Method for determining peak hour: Total Entering Volume
+ LOCATION: Grand Ave -- Mandana Blvd                                                                                                QC JOB #: 13350914
+ CITY/STATE: Oakland, CA                                                                                                            DATE: Tue, Apr 28 2015
+                    798             637                          Peak-Hour: 5:00 PM -- 6:00 PM                                       2.0        2.0
+
+                         0   547 251
+                                                                Peak 15-Min: 5:35 PM -- 5:50 PM
+                                                                                                                                     0.0 2.7 0.4
+
+
+       0     0                            154   349
+                                                                                                                        0.0   0.0                      0.0      2.9
+             0               0.96           0
+                                                                                                                              0.0                      0.0
+       0     0                            195   469
+                                                                                                                        0.0   0.0                      5.1      0.2
+
+                         0   481 220
+                                                                                                                                     0.0 2.7 0.0
+
+                    742             701
+                                                                                                                                     3.4        1.9
+
+
+
+                              33                                                                                                      0    21   0
+
+
+
+                                                                                                                              0                          1
+
+             134                           52                                                                                 0                          0
+
+                                                                                                                              0                          2
+
+                              1                                                                                                       0    23   1
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+
+             NA                           NA                                                                                  NA                       NA
+
+
+
+
+                             NA                                                                                                            NA
+
+
+
+ 5-Min Count                   Grand Ave                       Grand Ave                    Mandana Blvd                Mandana Blvd                  Total      Hourly
+     Period                  (Northbound)                    (Southbound)                    (Eastbound)                (Westbound)                              Totals
+ Beginning At     Left        Thru Right     U        Left    Thru Right    U        Left    Thru Right      U   Left    Thru Right    U
+    4:00 PM        0           43     12     0         20      33      0     0        0        0      0      0    10       0     6     0              124
+    4:05 PM        0           33     10     1         10      38      0     0        0        0      0      0    11       0     9     0              112
+    4:10 PM        0           32      7     0         12      40      0     0        0        0      0      0    13       0    11     0              115
+    4:15 PM        0           31     10     0         22      47      0     1        0        0      0      0     9       0    11     0              131
+    4:20 PM        0           32     15     0         16      45      0     2        0        0      0      0    11       0     6     0              127
+    4:25 PM        0           38     24     1         18      39      0     0        0        0      0      0    11       0    12     0              143
+    4:30 PM        0           36      7     0         19      48      0     0        0        0      0      0    18       0     7     0              135
+    4:35 PM        0           38     15     0         16      48      0     0        0        0      0      0    22       0    16     0              155
+    4:40 PM        0           36     16     0         20      47      0     0        0        0      0      0    12       0     8     0              139
+    4:45 PM        0           41     13     0         21      44      0     0        0        0      0      0    10       0    14     0              143
+    4:50 PM        0           37     16     0         17      50      0     1        0        0      0      0    12       0    11     0              144
+    4:55 PM        0           42     20     0         15      42      0     0        0        0      0      0    11       0    12     0              142            1610
+    5:00 PM        0           29     15     0         16      47      0     0        0        0      0      0    12       0    16     0              135            1621
+    5:05 PM        0           47     19     0         21      51      0     1        0        0      0      0    17       0    11     0              167            1676
+    5:10 PM        0           27     18     0         25      53      0     0        0        0      0      0    20       0    10     0              153            1714
+    5:15 PM        0           46     19     0         19      39      0     0        0        0      0      0    17       0    12     0              152            1735
+    5:20 PM        0           42     15     0         24      56      0     0        0        0      0      0    17       0    11     0              165            1773
+    5:25 PM        0           54     21     0         19      34      0     0        0        0      0      0    16       0    12     0              156            1786
+    5:30 PM        0           34     21     0         21      36      0     0        0        0      0      0    17       0    14     0              143            1794
+    5:35 PM        0           30     22     0         31      41      0     0        0        0      0      0    17       0    10     0              151            1790
+    5:40 PM        0           42     19     0         22      63      0     0        0        0      0      0    11       0    16     0              173            1824
+    5:45 PM        0           48     18     0         15      45      0     0        0        0      0      0    22       0    11     0              159            1840
+    5:50 PM        0           44     16     0         17      45      0     1        0        0      0      0    11       0    15     0              149            1845
+    5:55 PM        0           38     17     0         19      37      0     0        0        0      0      0    18       0    16     0              145            1848
+ Peak 15-Min                      Northbound                      Southbound                     Eastbound                   Westbound
+   Flowrates      Left        Thru Right     U        Left    Thru Right    U        Left    Thru Right      U   Left    Thru Right    U                     Total
+  All Vehicles     0         480     236     0        272     596      0     0        0        0      0      0   200       0   148     0                     1932
+ Heavy Trucks      0           12      0                0       8      0              0        0      0            4       0     0                             24
+  Pedestrians                   0                              36                           164                           40                                  240
+    Bicycles       0            5      0                0       4      0              0        0      0            0       0     0                              9
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 5/4/2015 9:25 PM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+
