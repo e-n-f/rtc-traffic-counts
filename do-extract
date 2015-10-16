@@ -2,9 +2,9 @@
 
 ./extract corvallis/*.txt > counts-corvallis.csv
 ./extract oakland/*.txt oakland/*/*.txt | ./geocode > counts-oakland.csv
-./extract misc/*.txt > counts-misc.csv
+./extract misc/*.txt | ./geocode > counts-misc.csv
 ./extract sanjose/*.txt > counts-sanjose.csv
-./extract eugene/*.txt > counts-eugene.csv
+./extract eugene/*.txt | ./geocode > counts-eugene.csv
 
 find rtc -name '*.txt' -print0 | xargs -0 ./extract > counts-rtc.csv
 find portland -name '*.txt' -print0 | xargs -0 ./extract | (cd ../kc-traffic-counts; ./geocode-portland) > counts-portland.csv
