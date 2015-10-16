@@ -837,28 +837,28 @@ misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Brighton Park
 misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / Frankfort  KY,x,Wed  Nov 06 2013,07:15-08:15,18,1091,55,69,7,75,113,1132,25,79,7,23,0,1,0,0,0,0,0,0
 misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / Frankfort  KY,x,Wed  Nov 06 2013,12:00-13:00,20,1029,107,76,6,101,121,1014,47,69,5,23,0,0,1,2,0,0,0,1
 misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / Frankfort  KY,x,Wed  Nov 06 2013,16:30-17:30,25,1428,63,41,8,50,73,1241,69,71,6,13,0,2,3,1,0,0,0,0
-misc/Appendix H - Traffic Study_R.txt,4th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,07:15-08:15,0,47,51,33,0,25,2,35,0,0,0,0,12,50,8,10,0,1,0,1
-misc/Appendix H - Traffic Study_R.txt,4th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,200,29,73,0,174,6,20,0,0,0,0,17,41,12,16,0,3,1,3
-misc/Appendix H - Traffic Study_R.txt,5th St -- N St / Sacramento  CA,x,Tue  Apr 08 2014,08:00-09:00,0,0,0,0,0,0,405,662,0,0,406,36,72,52,70,108,13,0,0,12
-misc/Appendix H - Traffic Study_R.txt,5th St -- N St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,0,0,0,0,0,144,613,0,0,346,62,86,98,126,103,12,0,0,11
-misc/Appendix H - Traffic Study_R.txt,5th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,0,0,0,0,0,0,1059,149,0,0,16,14,22,72,60,1,0,0,20
-misc/Appendix H - Traffic Study_R.txt,5th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,0,0,0,0,0,0,692,67,0,0,62,18,41,53,87,6,2,0,9
-misc/Appendix H - Traffic Study_R.txt,6th St -- P St / Sacramento  CA,x,Tue  Apr 08 2014,07:30-08:30,0,0,0,1,621,8,0,0,26,0,0,0,29,25,27,5,0,3,6,7
-misc/Appendix H - Traffic Study_R.txt,6th St -- P St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,0,0,1,1507,21,0,0,68,0,0,0,33,35,28,0,0,0,5,0
-misc/Appendix H - Traffic Study_R.txt,6th St -- Q St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,7,5,0,0,0,17,13,0,121,1687,7,15,10,25,11,0,2,0,3
-misc/Appendix H - Traffic Study_R.txt,6th St -- Q St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,18,6,0,0,0,40,58,0,43,623,13,16,18,30,8,5,3,0,4
-misc/Appendix H - Traffic Study_R.txt,6th St -- R St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,18,90,11,11,34,14,4,28,10,7,14,2,17,5,16,13,12,4,8,7
-misc/Appendix H - Traffic Study_R.txt,6th St -- R St / Sacramento  CA,x,Tue  Apr 08 2014,16:45-17:45,10,60,2,13,40,3,3,58,12,19,15,4,12,8,28,9,10,4,21,6
-misc/Appendix H - Traffic Study_R.txt,7th St -- N St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,264,72,0,0,0,0,0,0,128,369,0,85,92,89,81,12,1,0,0
-misc/Appendix H - Traffic Study_R.txt,7th St -- N St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,488,115,0,0,0,0,0,0,181,449,0,92,77,86,105,22,13,0,0
-misc/Appendix H - Traffic Study_R.txt,7th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,359,14,0,0,0,0,0,0,0,0,0,173,74,6,7,0,8,0,0
-misc/Appendix H - Traffic Study_R.txt,7th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,16:45-17:45,0,658,18,0,0,0,0,0,0,0,0,0,155,55,10,0,0,17,2,1
-misc/Appendix H - Traffic Study_R.txt,7th St -- Q St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,188,86,0,0,0,0,0,0,171,1503,0,19,57,33,27,1,2,1,0
-misc/Appendix H - Traffic Study_R.txt,7th St -- Q St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,353,177,0,0,0,0,0,0,25,643,0,26,43,43,27,5,22,0,0
-misc/Appendix H - Traffic Study_R.txt,7th St -- R St / Sacramento  CA,x,Tue  Apr 08 2014,07:30-08:30,40,122,73,0,17,5,0,0,0,5,22,0,22,16,6,26,11,2,7,1
-misc/Appendix H - Traffic Study_R.txt,7th St -- R St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,21,384,22,0,35,10,0,0,0,5,22,0,17,16,10,21,11,22,19,2
-misc/Appendix H - Traffic Study_R.txt,8th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,0,0,0,0,0,40,326,0,0,8,8,174,111,116,118,6,0,0,23
-misc/Appendix H - Traffic Study_R.txt,8th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,0,0,0,0,0,28,325,0,0,9,8,166,106,72,193,3,2,0,9
+misc/Appendix H - Traffic Study_R.txt,4th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,07:15-08:15,0,47,51,33,0,25,2,35,0,0,0,0,12,50,8,10,0,1,0,1,38.576868,-121.50379
+misc/Appendix H - Traffic Study_R.txt,4th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,200,29,73,0,174,6,20,0,0,0,0,17,41,12,16,0,3,1,3,38.576868,-121.50379
+misc/Appendix H - Traffic Study_R.txt,5th St -- N St / Sacramento  CA,x,Tue  Apr 08 2014,08:00-09:00,0,0,0,0,0,0,405,662,0,0,406,36,72,52,70,108,13,0,0,12,38.577613,-121.502075
+misc/Appendix H - Traffic Study_R.txt,5th St -- N St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,0,0,0,0,0,144,613,0,0,346,62,86,98,126,103,12,0,0,11,38.577613,-121.502075
+misc/Appendix H - Traffic Study_R.txt,5th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,0,0,0,0,0,0,1059,149,0,0,16,14,22,72,60,1,0,0,20,38.5764992,-121.5025122
+misc/Appendix H - Traffic Study_R.txt,5th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,0,0,0,0,0,0,692,67,0,0,62,18,41,53,87,6,2,0,9,38.5764992,-121.5025122
+misc/Appendix H - Traffic Study_R.txt,6th St -- P St / Sacramento  CA,x,Tue  Apr 08 2014,07:30-08:30,0,0,0,1,621,8,0,0,26,0,0,0,29,25,27,5,0,3,6,7,38.5750851,-121.5016481
+misc/Appendix H - Traffic Study_R.txt,6th St -- P St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,0,0,1,1507,21,0,0,68,0,0,0,33,35,28,0,0,0,5,0,38.5750851,-121.5016481
+misc/Appendix H - Traffic Study_R.txt,6th St -- Q St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,7,5,0,0,0,17,13,0,121,1687,7,15,10,25,11,0,2,0,3,38.5739843,-121.5021366
+misc/Appendix H - Traffic Study_R.txt,6th St -- Q St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,18,6,0,0,0,40,58,0,43,623,13,16,18,30,8,5,3,0,4,38.5739843,-121.5021366
+misc/Appendix H - Traffic Study_R.txt,6th St -- R St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,18,90,11,11,34,14,4,28,10,7,14,2,17,5,16,13,12,4,8,7,38.572922,-121.5025849
+misc/Appendix H - Traffic Study_R.txt,6th St -- R St / Sacramento  CA,x,Tue  Apr 08 2014,16:45-17:45,10,60,2,13,40,3,3,58,12,19,15,4,12,8,28,9,10,4,21,6,38.572922,-121.5025849
+misc/Appendix H - Traffic Study_R.txt,7th St -- N St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,264,72,0,0,0,0,0,0,128,369,0,85,92,89,81,12,1,0,0,38.5769351,-121.499423
+misc/Appendix H - Traffic Study_R.txt,7th St -- N St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,488,115,0,0,0,0,0,0,181,449,0,92,77,86,105,22,13,0,0,38.5769351,-121.499423
+misc/Appendix H - Traffic Study_R.txt,7th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,359,14,0,0,0,0,0,0,0,0,0,173,74,6,7,0,8,0,0,38.5758187,-121.4998747
+misc/Appendix H - Traffic Study_R.txt,7th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,16:45-17:45,0,658,18,0,0,0,0,0,0,0,0,0,155,55,10,0,0,17,2,1,38.5758187,-121.4998747
+misc/Appendix H - Traffic Study_R.txt,7th St -- Q St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,188,86,0,0,0,0,0,0,171,1503,0,19,57,33,27,1,2,1,0,38.573635,-121.5008236
+misc/Appendix H - Traffic Study_R.txt,7th St -- Q St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,353,177,0,0,0,0,0,0,25,643,0,26,43,43,27,5,22,0,0,38.573635,-121.5008236
+misc/Appendix H - Traffic Study_R.txt,7th St -- R St / Sacramento  CA,x,Tue  Apr 08 2014,07:30-08:30,40,122,73,0,17,5,0,0,0,5,22,0,22,16,6,26,11,2,7,1,38.5725628,-121.5013242
+misc/Appendix H - Traffic Study_R.txt,7th St -- R St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,21,384,22,0,35,10,0,0,0,5,22,0,17,16,10,21,11,22,19,2,38.5725628,-121.5013242
+misc/Appendix H - Traffic Study_R.txt,8th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,07:45-08:45,0,0,0,0,0,0,40,326,0,0,8,8,174,111,116,118,6,0,0,23,38.5754354,-121.4985677
+misc/Appendix H - Traffic Study_R.txt,8th St -- O St / Sacramento  CA,x,Tue  Apr 08 2014,16:30-17:30,0,0,0,0,0,0,28,325,0,0,9,8,166,106,72,193,3,2,0,9,38.5754354,-121.4985677
 misc/Appendix J Traffic.txt,Loveridge Rd -- E Leland Rd / Pittsburg  CA,x,Thu  Sep 29 2011,07:10-08:10,144,346,294,191,658,157,105,533,198,156,224,260,11,5,10,10,3,0,2,2
 misc/Appendix J Traffic.txt,Loveridge Rd -- E Leland Rd / Pittsburg  CA,x,Thu  Sep 29 2011,16:45-17:45,127,376,264,194,327,200,155,439,148,216,1132,455,17,6,19,11,1,1,1,0
 misc/Appendix J Traffic.txt,Loveridge Rd -- SR 4 EB Ramps / Pittsburg  CA,x,Thu  Sep 29 2011,07:25-08:25,142,433,1,0,0,0,231,646,0,451,3,272,0,0,0,0,0,0,0,1
@@ -2261,52 +2261,52 @@ misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Append
 misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,E Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,0,0,0,3,55,0,0,0,0,0,137,4,8,1,1,0,2,0,1,0
 misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,W Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:00-17:00,0,0,0,4,69,0,0,0,0,0,62,3,21,2,6,2,4,0,4,0
 misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,W Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,0,0,0,16,54,0,0,0,0,0,112,23,16,0,3,7,6,0,9,0
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,16:25-17:25,0,27,2,10,0,29,9,55,0,0,0,0,0,1,0,0,0,2,1,1
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,07:10-08:10,0,38,16,11,0,26,34,12,0,0,0,0,1,8,0,1,0,0,0,0
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,6,347,0,0,0,0,0,333,48,42,0,1,0,0,0,7,1,6,0,5
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,2,307,0,0,0,0,0,348,24,58,0,6,0,1,0,7,0,7,0,6
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,3,12,17,12,18,25,20,15,2,3,11,0,5,1,2,2,1,0,1,2
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:05-08:05,0,18,7,2,5,8,24,8,0,0,18,1,5,4,1,6,1,2,0,0
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,16:00-17:00,10,16,2,2,20,2,1,29,20,10,24,6,5,1,2,2,2,2,1,2
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,07:35-08:35,11,20,2,0,10,1,1,13,9,29,23,2,2,3,4,10,0,0,1,1
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,16:55-17:55,7,2,2,9,601,22,43,11,20,21,585,13,23,0,11,0,12,1,17,1
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,13,7,7,4,604,25,27,10,18,16,512,31,9,0,4,0,14,0,22,0
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,17:00-18:00,27,4,16,26,605,10,6,3,3,11,600,25,20,2,8,0,16,1,18,0
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,31,6,9,10,613,7,10,0,3,6,544,34,12,1,6,1,15,0,27,0
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,4,401,0,0,0,0,0,398,73,122,0,6,1,1,0,7,1,7,0,7
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,11,362,0,0,0,0,0,357,138,75,0,4,0,0,0,5,1,5,0,3
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:35-17:35,25,103,54,13,40,28,13,40,15,21,38,14,11,13,5,18,5,2,5,1
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,5,46,18,105,42,18,12,74,14,24,47,58,9,6,1,6,3,0,4,0
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,0,0,0,0,59,11,16,0,11,3,50,0,6,1,10,2,7,0,5,3
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,0,0,0,0,40,14,42,0,5,7,91,0,10,3,2,0,6,0,7,1
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,2,37,19,17,39,14,5,42,1,0,26,0,3,5,3,2,6,2,6,0
-misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,2,28,26,16,21,8,21,28,0,4,48,3,4,6,0,1,5,1,5,1
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,16:25-17:25,0,27,2,10,0,29,9,55,0,0,0,0,0,1,0,0,0,2,1,1,38.5713229,-121.4411244
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,07:10-08:10,0,38,16,11,0,26,34,12,0,0,0,0,1,8,0,1,0,0,0,0,38.5713229,-121.4411244
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,6,347,0,0,0,0,0,333,48,42,0,1,0,0,0,7,1,6,0,5,38.5736739,-121.4339923
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,2,307,0,0,0,0,0,348,24,58,0,6,0,1,0,7,0,7,0,6,38.5736739,-121.4339923
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,3,12,17,12,18,25,20,15,2,3,11,0,5,1,2,2,1,0,1,2,38.5734343,-121.4378373
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:05-08:05,0,18,7,2,5,8,24,8,0,0,18,1,5,4,1,6,1,2,0,0,38.5734343,-121.4378373
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,16:00-17:00,10,16,2,2,20,2,1,29,20,10,24,6,5,1,2,2,2,2,1,2,38.5737722,-121.4420571
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,07:35-08:35,11,20,2,0,10,1,1,13,9,29,23,2,2,3,4,10,0,0,1,1,38.5737722,-121.4420571
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,16:55-17:55,7,2,2,9,601,22,43,11,20,21,585,13,23,0,11,0,12,1,17,1,38.5690625,-121.4406914
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,13,7,7,4,604,25,27,10,18,16,512,31,9,0,4,0,14,0,22,0,38.5690625,-121.4406914
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,17:00-18:00,27,4,16,26,605,10,6,3,3,11,600,25,20,2,8,0,16,1,18,0,38.5693613,-121.4416791
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,31,6,9,10,613,7,10,0,3,6,544,34,12,1,6,1,15,0,27,0,38.5693613,-121.4416791
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,4,401,0,0,0,0,0,398,73,122,0,6,1,1,0,7,1,7,0,7,38.5706716,-121.433229
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,11,362,0,0,0,0,0,357,138,75,0,4,0,0,0,5,1,5,0,3,38.5706716,-121.433229
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:35-17:35,25,103,54,13,40,28,13,40,15,21,38,14,11,13,5,18,5,2,5,1,38.5703308,-121.4373625
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,5,46,18,105,42,18,12,74,14,24,47,58,9,6,1,6,3,0,4,0,38.5703308,-121.4373625
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,0,0,0,0,59,11,16,0,11,3,50,0,6,1,10,2,7,0,5,3,38.5706945,-121.4402101
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,0,0,0,0,40,14,42,0,5,7,91,0,10,3,2,0,6,0,7,1,38.5706945,-121.4402101
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,2,37,19,17,39,14,5,42,1,0,26,0,3,5,3,2,6,2,6,0,38.5708408,-121.4411823
+misc/Item_02_-_Sutter_Park_Neighborhood_Project_-_Attachment_13_DRAFT_EIR_Appendices_PDF-5530_KB.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,2,28,26,16,21,8,21,28,0,4,48,3,4,6,0,1,5,1,5,1,38.5708408,-121.4411823
 misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Middle Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:00-17:00,22,0,20,9,65,1,0,0,0,0,55,13,4,0,2,0,3,1,2,0
 misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Middle Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:35-08:35,27,0,25,9,48,0,0,0,0,0,113,22,10,0,7,1,3,1,1,0
 misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,E Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:30-17:30,0,0,0,0,78,0,0,0,0,0,78,0,23,0,0,0,4,0,5,0
 misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,E Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,0,0,0,3,55,0,0,0,0,0,137,4,8,1,1,0,2,0,1,0
 misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,W Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:00-17:00,0,0,0,4,69,0,0,0,0,0,62,3,21,2,6,2,4,0,4,0
 misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,W Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,0,0,0,16,54,0,0,0,0,0,112,23,16,0,3,7,6,0,9,0
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,16:25-17:25,0,27,2,10,0,29,9,55,0,0,0,0,0,1,0,0,0,2,1,1
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,07:10-08:10,0,38,16,11,0,26,34,12,0,0,0,0,1,8,0,1,0,0,0,0
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,6,347,0,0,0,0,0,333,48,42,0,1,0,0,0,7,1,6,0,5
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,2,307,0,0,0,0,0,348,24,58,0,6,0,1,0,7,0,7,0,6
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,3,12,17,12,18,25,20,15,2,3,11,0,5,1,2,2,1,0,1,2
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:05-08:05,0,18,7,2,5,8,24,8,0,0,18,1,5,4,1,6,1,2,0,0
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,16:00-17:00,10,16,2,2,20,2,1,29,20,10,24,6,5,1,2,2,2,2,1,2
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,07:35-08:35,11,20,2,0,10,1,1,13,9,29,23,2,2,3,4,10,0,0,1,1
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,16:55-17:55,7,2,2,9,601,22,43,11,20,21,585,13,23,0,11,0,12,1,17,1
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,13,7,7,4,604,25,27,10,18,16,512,31,9,0,4,0,14,0,22,0
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,17:00-18:00,27,4,16,26,605,10,6,3,3,11,600,25,20,2,8,0,16,1,18,0
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,31,6,9,10,613,7,10,0,3,6,544,34,12,1,6,1,15,0,27,0
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,4,401,0,0,0,0,0,398,73,122,0,6,1,1,0,7,1,7,0,7
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,11,362,0,0,0,0,0,357,138,75,0,4,0,0,0,5,1,5,0,3
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:35-17:35,25,103,54,13,40,28,13,40,15,21,38,14,11,13,5,18,5,2,5,1
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,5,46,18,105,42,18,12,74,14,24,47,58,9,6,1,6,3,0,4,0
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,0,0,0,0,59,11,16,0,11,3,50,0,6,1,10,2,7,0,5,3
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,0,0,0,0,40,14,42,0,5,7,91,0,10,3,2,0,6,0,7,1
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,2,37,19,17,39,14,5,42,1,0,26,0,3,5,3,2,6,2,6,0
-misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,2,28,26,16,21,8,21,28,0,4,48,3,4,6,0,1,5,1,5,1
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,16:25-17:25,0,27,2,10,0,29,9,55,0,0,0,0,0,1,0,0,0,2,1,1,38.5713229,-121.4411244
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,07:10-08:10,0,38,16,11,0,26,34,12,0,0,0,0,1,8,0,1,0,0,0,0,38.5713229,-121.4411244
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,6,347,0,0,0,0,0,333,48,42,0,1,0,0,0,7,1,6,0,5,38.5736739,-121.4339923
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,2,307,0,0,0,0,0,348,24,58,0,6,0,1,0,7,0,7,0,6,38.5736739,-121.4339923
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,3,12,17,12,18,25,20,15,2,3,11,0,5,1,2,2,1,0,1,2,38.5734343,-121.4378373
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:05-08:05,0,18,7,2,5,8,24,8,0,0,18,1,5,4,1,6,1,2,0,0,38.5734343,-121.4378373
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,16:00-17:00,10,16,2,2,20,2,1,29,20,10,24,6,5,1,2,2,2,2,1,2,38.5737722,-121.4420571
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,07:35-08:35,11,20,2,0,10,1,1,13,9,29,23,2,2,3,4,10,0,0,1,1,38.5737722,-121.4420571
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,16:55-17:55,7,2,2,9,601,22,43,11,20,21,585,13,23,0,11,0,12,1,17,1,38.5690625,-121.4406914
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,13,7,7,4,604,25,27,10,18,16,512,31,9,0,4,0,14,0,22,0,38.5690625,-121.4406914
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,17:00-18:00,27,4,16,26,605,10,6,3,3,11,600,25,20,2,8,0,16,1,18,0,38.5693613,-121.4416791
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,31,6,9,10,613,7,10,0,3,6,544,34,12,1,6,1,15,0,27,0,38.5693613,-121.4416791
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,4,401,0,0,0,0,0,398,73,122,0,6,1,1,0,7,1,7,0,7,38.5706716,-121.433229
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,11,362,0,0,0,0,0,357,138,75,0,4,0,0,0,5,1,5,0,3,38.5706716,-121.433229
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:35-17:35,25,103,54,13,40,28,13,40,15,21,38,14,11,13,5,18,5,2,5,1,38.5703308,-121.4373625
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,5,46,18,105,42,18,12,74,14,24,47,58,9,6,1,6,3,0,4,0,38.5703308,-121.4373625
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,0,0,0,0,59,11,16,0,11,3,50,0,6,1,10,2,7,0,5,3,38.5706945,-121.4402101
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,0,0,0,0,40,14,42,0,5,7,91,0,10,3,2,0,6,0,7,1,38.5706945,-121.4402101
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,2,37,19,17,39,14,5,42,1,0,26,0,3,5,3,2,6,2,6,0,38.5708408,-121.4411823
+misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,2,28,26,16,21,8,21,28,0,4,48,3,4,6,0,1,5,1,5,1,38.5708408,-121.4411823
 misc/Jim_Wilson_Road_TIS-2-11-14.txt,Charlotte Hwy -- Jim Wilson Rd / Fort Mill  SC,x,Tue  Dec 17 2013,07:15-08:15,54,419,144,302,20,39,21,882,20,8,7,18,0,0,0,0,0,0,0,0
 misc/Jim_Wilson_Road_TIS-2-11-14.txt,Charlotte Hwy -- Jim Wilson Rd / Fort Mill  SC,x,Tue  Dec 17 2013,16:45-17:45,59,1001,317,150,29,65,40,535,38,67,66,79,0,0,0,0,0,0,0,0
 misc/KarukCasino-AppendixF_TransportationImpactAnalysis.txt,S Main St -- E Oberlin Rd / Yreka  CA,x,Tue  Jun 04 2013,16:30-17:30,25,453,211,184,29,46,58,363,12,67,72,29,0,0,2,3,0,1,0,0
@@ -3555,26 +3555,26 @@ misc/Sutter Draft EIR Appendices.txt,E Hospital Dwy -- F St / Sacramento  CA,x,T
 misc/Sutter Draft EIR Appendices.txt,E Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,0,0,0,3,55,0,0,0,0,0,137,4,8,1,1,0,2,0,1,0
 misc/Sutter Draft EIR Appendices.txt,W Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:00-17:00,0,0,0,4,69,0,0,0,0,0,62,3,21,2,6,2,4,0,4,0
 misc/Sutter Draft EIR Appendices.txt,W Hospital Dwy -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,0,0,0,16,54,0,0,0,0,0,112,23,16,0,3,7,6,0,9,0
-misc/Sutter Draft EIR Appendices.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,16:25-17:25,0,27,2,10,0,29,9,55,0,0,0,0,0,1,0,0,0,2,1,1
-misc/Sutter Draft EIR Appendices.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,07:10-08:10,0,38,16,11,0,26,34,12,0,0,0,0,1,8,0,1,0,0,0,0
-misc/Sutter Draft EIR Appendices.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,6,347,0,0,0,0,0,333,48,42,0,1,0,0,0,7,1,6,0,5
-misc/Sutter Draft EIR Appendices.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,2,307,0,0,0,0,0,348,24,58,0,6,0,1,0,7,0,7,0,6
-misc/Sutter Draft EIR Appendices.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,3,12,17,12,18,25,20,15,2,3,11,0,5,1,2,2,1,0,1,2
-misc/Sutter Draft EIR Appendices.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:05-08:05,0,18,7,2,5,8,24,8,0,0,18,1,5,4,1,6,1,2,0,0
-misc/Sutter Draft EIR Appendices.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,16:00-17:00,10,16,2,2,20,2,1,29,20,10,24,6,5,1,2,2,2,2,1,2
-misc/Sutter Draft EIR Appendices.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,07:35-08:35,11,20,2,0,10,1,1,13,9,29,23,2,2,3,4,10,0,0,1,1
-misc/Sutter Draft EIR Appendices.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,16:55-17:55,7,2,2,9,601,22,43,11,20,21,585,13,23,0,11,0,12,1,17,1
-misc/Sutter Draft EIR Appendices.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,13,7,7,4,604,25,27,10,18,16,512,31,9,0,4,0,14,0,22,0
-misc/Sutter Draft EIR Appendices.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,17:00-18:00,27,4,16,26,605,10,6,3,3,11,600,25,20,2,8,0,16,1,18,0
-misc/Sutter Draft EIR Appendices.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,31,6,9,10,613,7,10,0,3,6,544,34,12,1,6,1,15,0,27,0
-misc/Sutter Draft EIR Appendices.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,4,401,0,0,0,0,0,398,73,122,0,6,1,1,0,7,1,7,0,7
-misc/Sutter Draft EIR Appendices.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,11,362,0,0,0,0,0,357,138,75,0,4,0,0,0,5,1,5,0,3
-misc/Sutter Draft EIR Appendices.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:35-17:35,25,103,54,13,40,28,13,40,15,21,38,14,11,13,5,18,5,2,5,1
-misc/Sutter Draft EIR Appendices.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,5,46,18,105,42,18,12,74,14,24,47,58,9,6,1,6,3,0,4,0
-misc/Sutter Draft EIR Appendices.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,0,0,0,0,59,11,16,0,11,3,50,0,6,1,10,2,7,0,5,3
-misc/Sutter Draft EIR Appendices.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,0,0,0,0,40,14,42,0,5,7,91,0,10,3,2,0,6,0,7,1
-misc/Sutter Draft EIR Appendices.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,2,37,19,17,39,14,5,42,1,0,26,0,3,5,3,2,6,2,6,0
-misc/Sutter Draft EIR Appendices.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,2,28,26,16,21,8,21,28,0,4,48,3,4,6,0,1,5,1,5,1
+misc/Sutter Draft EIR Appendices.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,16:25-17:25,0,27,2,10,0,29,9,55,0,0,0,0,0,1,0,0,0,2,1,1,38.5713229,-121.4411244
+misc/Sutter Draft EIR Appendices.txt,Coloma Way/50th St -- E St / Sacramento  CA,x,Tue  Nov 06 2012,07:10-08:10,0,38,16,11,0,26,34,12,0,0,0,0,1,8,0,1,0,0,0,0,38.5713229,-121.4411244
+misc/Sutter Draft EIR Appendices.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,6,347,0,0,0,0,0,333,48,42,0,1,0,0,0,7,1,6,0,5,38.5736739,-121.4339923
+misc/Sutter Draft EIR Appendices.txt,Elvas Ave -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,2,307,0,0,0,0,0,348,24,58,0,6,0,1,0,7,0,7,0,6,38.5736739,-121.4339923
+misc/Sutter Draft EIR Appendices.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,3,12,17,12,18,25,20,15,2,3,11,0,5,1,2,2,1,0,1,2,38.5734343,-121.4378373
+misc/Sutter Draft EIR Appendices.txt,51st St -- C St / Sacramento  CA,x,Tue  Nov 06 2012,07:05-08:05,0,18,7,2,5,8,24,8,0,0,18,1,5,4,1,6,1,2,0,0,38.5734343,-121.4378373
+misc/Sutter Draft EIR Appendices.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,16:00-17:00,10,16,2,2,20,2,1,29,20,10,24,6,5,1,2,2,2,2,1,2,38.5737722,-121.4420571
+misc/Sutter Draft EIR Appendices.txt,Coloma Way -- D St / Sacramento  CA,x,Tue  Nov 06 2012,07:35-08:35,11,20,2,0,10,1,1,13,9,29,23,2,2,3,4,10,0,0,1,1,38.5737722,-121.4420571
+misc/Sutter Draft EIR Appendices.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,16:55-17:55,7,2,2,9,601,22,43,11,20,21,585,13,23,0,11,0,12,1,17,1,38.5690625,-121.4406914
+misc/Sutter Draft EIR Appendices.txt,51st St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,13,7,7,4,604,25,27,10,18,16,512,31,9,0,4,0,14,0,22,0,38.5690625,-121.4406914
+misc/Sutter Draft EIR Appendices.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,17:00-18:00,27,4,16,26,605,10,6,3,3,11,600,25,20,2,8,0,16,1,18,0,38.5693613,-121.4416791
+misc/Sutter Draft EIR Appendices.txt,50th St -- H St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,31,6,9,10,613,7,10,0,3,6,544,34,12,1,6,1,15,0,27,0,38.5693613,-121.4416791
+misc/Sutter Draft EIR Appendices.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:45-17:45,4,401,0,0,0,0,0,398,73,122,0,6,1,1,0,7,1,7,0,7,38.5706716,-121.433229
+misc/Sutter Draft EIR Appendices.txt,Elvas Ave -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:30-08:30,11,362,0,0,0,0,0,357,138,75,0,4,0,0,0,5,1,5,0,3,38.5706716,-121.433229
+misc/Sutter Draft EIR Appendices.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:35-17:35,25,103,54,13,40,28,13,40,15,21,38,14,11,13,5,18,5,2,5,1,38.5703308,-121.4373625
+misc/Sutter Draft EIR Appendices.txt,53rd St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,5,46,18,105,42,18,12,74,14,24,47,58,9,6,1,6,3,0,4,0,38.5703308,-121.4373625
+misc/Sutter Draft EIR Appendices.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,0,0,0,0,59,11,16,0,11,3,50,0,6,1,10,2,7,0,5,3,38.5706945,-121.4402101
+misc/Sutter Draft EIR Appendices.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,0,0,0,0,40,14,42,0,5,7,91,0,10,3,2,0,6,0,7,1,38.5706945,-121.4402101
+misc/Sutter Draft EIR Appendices.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,2,37,19,17,39,14,5,42,1,0,26,0,3,5,3,2,6,2,6,0,38.5708408,-121.4411823
+misc/Sutter Draft EIR Appendices.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,2,28,26,16,21,8,21,28,0,4,48,3,4,6,0,1,5,1,5,1,38.5708408,-121.4411823
 misc/SutterStreetBikePath_ProjectPlanning_Appendix.txt,El Dorado St -- Ingram St / Stockton  CA,x,12/10/2009,07:15-08:15,8,1155,1,67,0,7,6,966,1,3,0,4,0,8,0,2,0,0,0,0
 misc/SutterStreetBikePath_ProjectPlanning_Appendix.txt,El Dorado St -- Ingram St / Stockton  CA,x,12/9/2009,16:35-17:35,10,927,3,28,1,4,8,1602,2,3,0,5,0,13,0,2,0,0,0,0
 misc/SutterStreetBikePath_ProjectPlanning_Appendix.txt,Sutter St -- Essex St / Stockton  CA,x,12/10/2009,07:15-08:15,2,117,2,6,24,15,8,75,25,27,13,1,0,2,0,0,0,0,0,0
