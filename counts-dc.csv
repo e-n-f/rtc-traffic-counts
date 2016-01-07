@@ -244,6 +244,22 @@ dc/EASTERN%20AVE. %20DIX%20ST. %26%2063RD%20ST. NE.txt,63rd St NE/MLK Jr Hwy -- 
 dc/EASTERN%20AVE. %20DIX%20ST. %26%2063RD%20ST. NE.txt,63rd St NE/MLK Jr Hwy -- Eastern Ave/Dix St / Washington  DC,x,Tue  Sep 27 2011,11:40-12:40,150,181,14,1,1,1,15,235,201,225,44,165,6,6,5,10,0,0,0,0,,
 dc/EASTERN%20AVE. %20DIX%20ST. %26%2063RD%20ST. NE.txt,63rd St NE/MLK Jr Hwy -- Eastern Ave/Dix St / Washington  DC,x,Tue  Sep 27 2011,17:05-18:05,189,330,28,0,0,1,29,536,234,271,99,305,6,14,9,15,0,1,0,0,,
 dc/EASTERN%20AVE. %20DIX%20ST. %26%2063RD%20ST. NE.txt,63rd St NE/MLK Jr Hwy -- Eastern Ave/Dix St / Washington  DC,x,Tue  Sep 27 2011,19:00-20:00,167,226,21,1,1,1,11,309,228,215,60,171,10,9,20,14,0,0,0,0,,
+dc/Exhibit L.txt,Blair Rd NW -- Piney Branch Rd NW / Washington  DC,x,Wed  Sep 11 2013,07:45-08:45,21,346,9,28,586,141,49,352,2,3,232,86,7,59,7,8,5,2,24,0,38.976528,-77.020544
+dc/Exhibit L.txt,Blair Rd NW -- Piney Branch Rd NW / Washington  DC,x,Wed  Sep 11 2013,17:15-18:15,18,392,16,40,290,107,104,336,5,8,717,110,8,43,3,2,25,2,0,6,38.976528,-77.020544
+dc/Exhibit L.txt,Bus Entry -- Eastern Ave NW / Washinton  DC,x,Wed  Sep 11 2013,08:00-09:00,1,0,0,0,344,1,6,0,9,3,159,0,5,1,3,2,11,0,5,2,,
+dc/Exhibit L.txt,Bus Entry -- Eastern Ave NW / Washinton  DC,x,Wed  Sep 11 2013,17:30-18:30,1,0,0,0,297,0,7,0,11,3,265,0,2,0,5,1,5,0,8,12,,
+dc/Exhibit L.txt,Bus Exit -- Carroll St NW / Washington   DC,x,Wed  Sep 11 2013,07:45-08:45,10,0,12,27,514,3,0,0,0,0,207,10,496,3,265,286,4,1,8,1,,
+dc/Exhibit L.txt,Bus Exit -- Carroll St NW / Washington   DC,x,Wed  Sep 11 2013,17:45-18:45,7,0,18,34,291,3,0,0,0,0,352,16,290,8,212,277,7,7,2,0,,
+dc/Exhibit L.txt,Cedar St NW -- Carroll St NW / Washington  DC,x,Wed  Sep 11 2013,08:00-09:00,66,0,116,265,466,0,0,2,0,0,192,40,56,26,269,12,1,4,20,0,38.974838,-77.017524
+dc/Exhibit L.txt,Cedar St NW -- Carroll St NW / Washington  DC,x,Wed  Sep 11 2013,18:00-19:00,59,0,217,141,246,0,0,0,0,0,287,87,90,59,258,29,12,6,6,0,38.974838,-77.017524
+dc/Exhibit L.txt,Cedar St NW -- Eastern Ave NW / Washington  DC,x,Tue  Sep 17 2013,07:30-08:30,48,6,0,0,0,0,0,14,273,181,0,3,29,12,2,102,5,12,0,2,38.976169,-77.015724
+dc/Exhibit L.txt,Cedar St NW -- Eastern Ave NW / Washington  DC,x,Tue  Sep 17 2013,17:30-18:30,38,0,0,0,0,0,0,25,223,301,0,0,0,47,0,30,11,3,3,13,38.976169,-77.015724
+dc/Exhibit L.txt,Holly Ave NW -- Eastern Ave NW / Takoma Park  DC,x,Wed  Sep 11 2013,07:45-08:45,47,0,11,13,342,0,0,0,1,0,188,17,23,45,91,0,10,5,7,0,,
+dc/Exhibit L.txt,Holly Ave NW -- Eastern Ave NW / Takoma Park  DC,x,Wed  Sep 11 2013,17:30-18:30,22,0,16,30,305,0,0,0,0,0,279,39,24,13,59,4,6,5,12,0,,
+dc/Exhibit L.txt,Kiss & Ride Dwy -- Eastern Ave NW / Washington   DC,x,Wed  Sep 11 2013,07:45-08:45,0,0,0,0,302,34,19,0,48,46,152,0,6,0,42,0,11,0,6,1,,
+dc/Exhibit L.txt,Kiss & Ride Dwy -- Eastern Ave NW / Washington   DC,x,Wed  Sep 11 2013,17:30-18:30,0,0,0,0,260,46,33,0,80,61,233,0,4,1,26,16,6,0,13,0,,
+dc/Exhibit L.txt,Piney Branch Rd NW -- Eastern Ave NW / Washington  DC,x,Wed  Sep 11 2013,07:45-08:45,5,555,51,57,286,58,15,198,81,124,157,13,18,0,49,23,19,10,11,1,38.978355,-77.018569
+dc/Exhibit L.txt,Piney Branch Rd NW -- Eastern Ave NW / Washington  DC,x,Wed  Sep 11 2013,17:30-18:30,7,285,81,86,217,21,32,627,162,119,210,7,31,0,37,10,4,0,12,21,38.978355,-77.018569
 dc/FIRTH%20STERLING%20AVE%20AND%20HOWARD%20RD %20S.txt,Howard Rd -- Firth Sterling Ave / Washington  DC,x,Sat  Oct 22 2011,12:30-13:30,43,112,160,0,0,0,265,60,72,94,718,10,0,1,0,20,0,0,0,1,38.863022,-76.996012
 dc/FIRTH%20STERLING%20AVE%20AND%20HOWARD%20RD %20S.txt,Howard Rd -- Firth Sterling Ave / Washington  DC,x,Wed  Oct 26 2011,07:30-08:30,91,179,280,0,0,0,464,146,100,105,1139,72,0,0,1,126,1,0,0,0,38.863022,-76.996012
 dc/FIRTH%20STERLING%20AVE%20AND%20HOWARD%20RD %20S.txt,Howard Rd -- Firth Sterling Ave / Washington  DC,x,Wed  Oct 26 2011,12:00-13:00,25,129,120,0,0,0,250,47,76,121,624,10,0,0,0,13,0,0,0,2,38.863022,-76.996012
