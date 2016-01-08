@@ -4831,63 +4831,63 @@ misc/pfr_issued_decision.txt,SW 124th Ave -- SW Myslony St / Tualatin  OR,x,Tue 
 misc/pfr_issued_decision.txt,SW 124th Ave -- SW Tualatin Sherwood Rd / Tualatin  OR,x,Tue  Dec 10 2013,16:15-17:15,119,0,178,101,841,0,0,0,0,0,811,65,0,0,0,0,0,0,0,0
 misc/pfr_issued_decision.txt,SW 118th Ave -- SW Herman Rd / Tualatin  OR,x,Tue  Dec 10 2013,16:15-17:15,6,5,28,12,423,11,30,7,7,5,306,4,1,0,0,0,0,0,0,0
 misc/pfr_issued_decision.txt,SW 112th Ave/SW Avery St -- SW Tualatin Sherwood Rd / Tualatin  OR,x,Tue  Dec 10 2013,16:15-17:15,25,9,26,8,679,2,14,2,233,329,711,11,1,0,0,0,0,0,0,0
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Dixon Landing Rd / Milpitas  CA,x,Thu  Jun 07 2012,08:00-09:00,0,0,0,0,75,996,50,0,1,1,49,0,0,0,0,0,1,0,10,1
-misc/plan_eir_PacificMall_b.txt,California Cir -- I-880 NB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,07:30-08:30,42,190,0,0,0,0,0,227,62,213,0,391,0,0,3,0,2,1,0,0
-misc/plan_eir_PacificMall_b.txt,N Milpitas Blvd -- Dixon Landing Rd / Milpitas  CA,x,Tue  Jun 05 2012,07:40-08:40,1246,234,148,124,400,58,64,186,553,203,344,243,22,7,28,7,1,6,1,3
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (N) / Milpitas  CA,x,Thu  Jun 07 2012,08:00-09:00,0,764,66,31,0,15,77,317,0,0,0,0,0,2,0,0,0,1,0,2
-misc/plan_eir_PacificMall_b.txt,Mall Access Dwy -- Ranch Dr / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,12,82,2,1,3,38,19,126,48,72,4,3,1,8,0,1,0,0,0,0
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (S) / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,1,749,12,26,8,224,268,524,106,14,1,2,2,3,0,1,2,0,0,0
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 WB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,410,550,0,424,522,732,0,496,79,0,0,0,1,1,0,1,0,5,0,0
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 EB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,0,1208,58,0,0,0,84,273,0,676,4,299,0,3,2,3,0,3,0,0
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Dixon Landing Rd / Milpitas  CA,x,Thu  Jun 07 2012,08:00-09:00,0,0,0,0,75,996,50,0,1,1,49,0,0,0,0,0,1,0,10,1,37.4552532,-121.9269142
+misc/plan_eir_PacificMall_b.txt,California Cir -- I-880 NB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,07:30-08:30,42,190,0,0,0,0,0,227,62,213,0,391,0,0,3,0,2,1,0,0,37.4544194,-121.9211974
+misc/plan_eir_PacificMall_b.txt,N Milpitas Blvd -- Dixon Landing Rd / Milpitas  CA,x,Tue  Jun 05 2012,07:40-08:40,1246,234,148,124,400,58,64,186,553,203,344,243,22,7,28,7,1,6,1,3,37.4574755,-121.9114829
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (N) / Milpitas  CA,x,Thu  Jun 07 2012,08:00-09:00,0,764,66,31,0,15,77,317,0,0,0,0,0,2,0,0,0,1,0,2,37.4326382,-121.9219855
+misc/plan_eir_PacificMall_b.txt,Mall Access Dwy -- Ranch Dr / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,12,82,2,1,3,38,19,126,48,72,4,3,1,8,0,1,0,0,0,0,37.4266298,-121.9219647
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (S) / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,1,749,12,26,8,224,268,524,106,14,1,2,2,3,0,1,2,0,0,0,37.4262796,-121.9240544
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 WB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,410,550,0,424,522,732,0,496,79,0,0,0,1,1,0,1,0,5,0,0,37.4228722,-121.9229694
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 EB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,0,1208,58,0,0,0,84,273,0,676,4,299,0,3,2,3,0,3,0,0,37.4241261,-121.923488
 misc/plan_eir_PacificMall_b.txt,I-880 SB Ramps -- SR 237 / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,288,0,195,691,2682,0,0,0,0,0,726,0,2,0,3,0,1,0,1,0
 misc/plan_eir_PacificMall_b.txt,I-880 NB Ramps -- SR 237 / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,0,0,0,232,2910,0,303,0,440,40,903,0,2,3,2,0,1,0,2,0
-misc/plan_eir_PacificMall_b.txt,S Abel St -- W Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,07:40-08:40,528,326,108,42,2168,180,217,163,21,11,829,87,3,0,1,4,0,10,1,1
-misc/plan_eir_PacificMall_b.txt,S Milpitas Blvd -- E Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,375,241,151,186,1938,159,49,94,248,366,617,165,4,3,2,3,0,0,0,0
-misc/plan_eir_PacificMall_b.txt,Hillview Dr -- E Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,07:35-08:35,143,127,150,351,2217,230,56,62,36,64,589,73,6,0,6,6,0,1,3,0
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Bellew Dr/Technology Dr / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,438,1108,356,102,29,133,64,230,207,21,8,31,6,5,3,2,0,0,0,2
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Alder Dr / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,0,842,137,506,0,24,24,260,0,0,0,0,0,7,0,0,0,0,1,1
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Tasman Dr / Milpitas  CA,x,Thu  Jun 07 2012,08:00-09:00,487,209,30,87,1771,141,29,197,99,63,142,169,0,0,1,1,9,0,5,0
-misc/plan_eir_PacificMall_b.txt,Alder Dr -- Tasman Dr / Milpitas  CA,x,Thu  Jun 07 2012,08:00-09:00,9,13,61,647,2066,334,50,6,39,18,136,24,25,3,3,33,1,0,11,0
+misc/plan_eir_PacificMall_b.txt,S Abel St -- W Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,07:40-08:40,528,326,108,42,2168,180,217,163,21,11,829,87,3,0,1,4,0,10,1,1,37.4302451,-121.9089225
+misc/plan_eir_PacificMall_b.txt,S Milpitas Blvd -- E Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,375,241,151,186,1938,159,49,94,248,366,617,165,4,3,2,3,0,0,0,0,37.4322761,-121.8995564
+misc/plan_eir_PacificMall_b.txt,Hillview Dr -- E Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,07:35-08:35,143,127,150,351,2217,230,56,62,36,64,589,73,6,0,6,6,0,1,3,0,37.4335712,-121.8933559
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Bellew Dr/Technology Dr / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,438,1108,356,102,29,133,64,230,207,21,8,31,6,5,3,2,0,0,0,2,37.420912,-121.9219776
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Alder Dr / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,0,842,137,506,0,24,24,260,0,0,0,0,0,7,0,0,0,0,1,1,37.4157084,-121.9210269
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Tasman Dr / Milpitas  CA,x,Thu  Jun 07 2012,08:00-09:00,487,209,30,87,1771,141,29,197,99,63,142,169,0,0,1,1,9,0,5,0,37.4112058,-121.921271
+misc/plan_eir_PacificMall_b.txt,Alder Dr -- Tasman Dr / Milpitas  CA,x,Thu  Jun 07 2012,08:00-09:00,9,13,61,647,2066,334,50,6,39,18,136,24,25,3,3,33,1,0,11,0,37.4138896,-121.9167637
 misc/plan_eir_PacificMall_b.txt,I-880 SB Ramps -- Tasman Dr / Milpitas  CA,x,Tue  Jun 12 2012,08:00-09:00,903,7,117,0,2299,246,0,0,0,84,168,0,7,0,2,0,4,0,28,0
-misc/plan_eir_PacificMall_b.txt,Thompson St/I-880 NB Ramps -- Great Mall Pkwy / Milpitas  CA,x,Thu  Jun 07 2012,08:00-09:00,162,27,23,37,1542,189,53,52,733,28,198,31,4,0,4,0,1,2,9,0
-misc/plan_eir_PacificMall_b.txt,Abel St -- Great Mall Pkwy / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,378,332,83,79,1377,33,58,234,190,54,168,41,8,1,0,8,0,2,9,1
-misc/plan_eir_PacificMall_b.txt,S Main St -- Great Mall Pkwy / Milpitas  CA,x,Tue  Jun 12 2012,07:55-08:55,132,199,98,139,1252,50,68,105,8,4,258,45,10,2,5,15,2,1,12,0
+misc/plan_eir_PacificMall_b.txt,Thompson St/I-880 NB Ramps -- Great Mall Pkwy / Milpitas  CA,x,Thu  Jun 07 2012,08:00-09:00,162,27,23,37,1542,189,53,52,733,28,198,31,4,0,4,0,1,2,9,0,37.4158219,-121.9108986
+misc/plan_eir_PacificMall_b.txt,Abel St -- Great Mall Pkwy / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,378,332,83,79,1377,33,58,234,190,54,168,41,8,1,0,8,0,2,9,1,37.4155887,-121.9049134
+misc/plan_eir_PacificMall_b.txt,S Main St -- Great Mall Pkwy / Milpitas  CA,x,Tue  Jun 12 2012,07:55-08:55,132,199,98,139,1252,50,68,105,8,4,258,45,10,2,5,15,2,1,12,0,37.414197,-121.9018364
 misc/plan_eir_PacificMall_b.txt,N Capitol Ave -- Cropley Dr/Trade Zone Blvd / San Jose  CA,x,Tue  Jun 05 2012,07:35-08:35,14,202,32,233,546,265,149,830,746,137,128,29,38,8,14,25,0,0,1,4,37.4033145,-121.8821251
 misc/plan_eir_PacificMall_b.txt,Trimble Rd -- Montague Expwy / San Jose  CA,x,Tue  Jun 05 2012,07:55-08:55,4,2,9,40,2694,1156,465,40,75,28,985,26,0,0,0,0,3,0,1,2,37.393463,-121.9193583
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Barber Ln / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,3,157,7,42,3,87,182,748,27,0,0,1,2,0,0,1,0,1,0,3
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd/O'Toole Ave -- Montague Expwy / Milpitas  CA,x,Wed  Jun 06 2012,07:50-08:50,128,60,70,632,3890,250,102,106,46,68,1162,277,1,2,5,3,2,0,0,2
-misc/plan_eir_PacificMall_b.txt,Zanker Rd -- Holger Way / Milpitas  CA,x,Tue  Jun 05 2012,07:55-08:55,275,722,2,8,2,6,14,713,376,24,0,30,0,2,0,1,0,1,0,2
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (N) / Milpitas  CA,x,Thu  Jun 07 2012,12:25-13:25,0,244,129,199,0,204,97,257,1,0,0,0,4,8,2,2,0,0,0,0
-misc/plan_eir_PacificMall_b.txt,Mall Access Dwy -- Ranch Dr / Milpitas  CA,x,Tue  Jun 05 2012,12:15-13:15,31,586,15,29,23,251,212,632,250,286,20,18,7,7,3,3,0,0,1,1
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (S) / Milpitas  CA,x,Tue  Jun 05 2012,12:10-13:10,3,437,46,70,39,1086,1279,387,82,110,35,2,5,8,18,12,0,0,0,0
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 WB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,12:20-13:20,520,1219,0,607,13,467,0,1016,379,0,0,0,2,5,0,9,0,1,0,5
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 EB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,12:20-13:20,0,1298,384,0,0,0,373,985,0,416,11,411,0,5,0,10,1,2,0,4
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Dixon Landing Rd / Milpitas  CA,x,Thu  Jun 07 2012,16:55-17:55,0,0,0,0,14,151,1309,0,3,4,62,0,0,0,4,0,0,0,1,7
-misc/plan_eir_PacificMall_b.txt,California Cir -- I-880 NB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,328,343,9,0,0,0,0,390,39,140,0,677,0,0,1,0,0,1,0,0
-misc/plan_eir_PacificMall_b.txt,N Milpitas Blvd -- Dixon Landing Rd / Milpitas  CA,x,Tue  Jun 12 2012,17:00-18:00,342,288,184,104,122,48,58,571,334,357,272,841,12,12,22,22,2,0,0,4
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (N) / Milpitas  CA,x,Thu  Jun 07 2012,16:50-17:50,0,329,88,156,0,138,52,1038,1,0,0,0,0,3,0,0,0,2,2,1
-misc/plan_eir_PacificMall_b.txt,Mall Access Dwy -- Ranch Dr / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,10,355,8,16,13,103,151,432,89,108,11,4,5,2,2,1,0,0,0,0
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (S) / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,5,516,28,29,1,629,800,927,25,364,40,35,0,4,1,1,3,0,3,2
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 WB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,16:50-17:50,470,1071,0,372,6,186,0,1322,488,0,0,0,0,12,0,9,0,1,0,2
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 EB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,16:55-17:55,0,776,492,0,0,0,555,1318,0,207,24,523,0,3,8,8,0,2,0,1
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Barber Ln / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,3,157,7,42,3,87,182,748,27,0,0,1,2,0,0,1,0,1,0,3,37.4010287,-121.9144303
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd/O'Toole Ave -- Montague Expwy / Milpitas  CA,x,Wed  Jun 06 2012,07:50-08:50,128,60,70,632,3890,250,102,106,46,68,1162,277,1,2,5,3,2,0,0,2,37.3980693,-121.9128902
+misc/plan_eir_PacificMall_b.txt,Zanker Rd -- Holger Way / Milpitas  CA,x,Tue  Jun 05 2012,07:55-08:55,275,722,2,8,2,6,14,713,376,24,0,30,0,2,0,1,0,1,0,2,37.4181647,-121.939102337.4266298
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (N) / Milpitas  CA,x,Thu  Jun 07 2012,12:25-13:25,0,244,129,199,0,204,97,257,1,0,0,0,4,8,2,2,0,0,0,0,37.4326382,-121.9219855
+misc/plan_eir_PacificMall_b.txt,Mall Access Dwy -- Ranch Dr / Milpitas  CA,x,Tue  Jun 05 2012,12:15-13:15,31,586,15,29,23,251,212,632,250,286,20,18,7,7,3,3,0,0,1,1,37.4266298,-121.9219647
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (S) / Milpitas  CA,x,Tue  Jun 05 2012,12:10-13:10,3,437,46,70,39,1086,1279,387,82,110,35,2,5,8,18,12,0,0,0,0,37.4262796,-121.9240544
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 WB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,12:20-13:20,520,1219,0,607,13,467,0,1016,379,0,0,0,2,5,0,9,0,1,0,5,37.4228722,-121.9229694
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 EB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,12:20-13:20,0,1298,384,0,0,0,373,985,0,416,11,411,0,5,0,10,1,2,0,4,37.4241261,-121.923488
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Dixon Landing Rd / Milpitas  CA,x,Thu  Jun 07 2012,16:55-17:55,0,0,0,0,14,151,1309,0,3,4,62,0,0,0,4,0,0,0,1,7,37.4552532,-121.9269142
+misc/plan_eir_PacificMall_b.txt,California Cir -- I-880 NB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,328,343,9,0,0,0,0,390,39,140,0,677,0,0,1,0,0,1,0,0,37.4544194,-121.9211974
+misc/plan_eir_PacificMall_b.txt,N Milpitas Blvd -- Dixon Landing Rd / Milpitas  CA,x,Tue  Jun 12 2012,17:00-18:00,342,288,184,104,122,48,58,571,334,357,272,841,12,12,22,22,2,0,0,4,37.4574755,-121.9114829
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (N) / Milpitas  CA,x,Thu  Jun 07 2012,16:50-17:50,0,329,88,156,0,138,52,1038,1,0,0,0,0,3,0,0,0,2,2,1,37.4326382,-121.9219855
+misc/plan_eir_PacificMall_b.txt,Mall Access Dwy -- Ranch Dr / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,10,355,8,16,13,103,151,432,89,108,11,4,5,2,2,1,0,0,0,0,37.4266298,-121.9219647
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (S) / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,5,516,28,29,1,629,800,927,25,364,40,35,0,4,1,1,3,0,3,2,37.4262796,-121.9240544
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 WB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,16:50-17:50,470,1071,0,372,6,186,0,1322,488,0,0,0,0,12,0,9,0,1,0,2,37.4228722,-121.9229694
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- SR 237 EB Ramps / Milpitas  CA,x,Tue  Jun 05 2012,16:55-17:55,0,776,492,0,0,0,555,1318,0,207,24,523,0,3,8,8,0,2,0,1,37.4241261,-121.923488
 misc/plan_eir_PacificMall_b.txt,I-880 SB Ramps -- SR 237 / Milpitas  CA,x,Tue  Jun 05 2012,16:55-17:55,122,0,333,237,1322,0,0,0,0,0,3040,0,0,0,6,0,4,0,3,0
 misc/plan_eir_PacificMall_b.txt,I-880 NB Ramps -- SR 237 / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,0,0,0,333,1333,0,504,0,232,248,3042,0,1,3,10,0,1,0,0,3
-misc/plan_eir_PacificMall_b.txt,S Abel St -- W Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,179,164,143,124,1033,187,532,403,67,16,2327,342,2,2,6,4,1,2,0,4
-misc/plan_eir_PacificMall_b.txt,S Milpitas Blvd -- E Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,16:55-17:55,251,188,241,217,930,72,142,307,394,399,2089,424,8,3,1,1,2,2,1,0
-misc/plan_eir_PacificMall_b.txt,Hillview Dr -- E Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,89,77,221,220,1039,182,310,81,114,59,2206,146,16,0,5,8,2,0,2,0
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Bellew Dr/Technology Dr / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,30,637,316,552,10,93,100,920,5,157,36,418,11,7,3,0,1,2,1,1
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Alder Dr / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,0,587,526,231,0,74,35,783,0,0,0,0,0,11,0,0,0,4,0,0
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Tasman Dr / Milpitas  CA,x,Thu  Jun 07 2012,17:00-18:00,346,386,167,25,329,96,152,219,107,121,1457,465,4,3,1,1,11,6,3,1
-misc/plan_eir_PacificMall_b.txt,Alder Dr -- Tasman Dr / Milpitas  CA,x,Thu  Jun 07 2012,17:00-18:00,62,54,618,165,290,72,309,14,38,86,1659,31,29,7,4,104,13,3,3,2
+misc/plan_eir_PacificMall_b.txt,S Abel St -- W Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,179,164,143,124,1033,187,532,403,67,16,2327,342,2,2,6,4,1,2,0,4,37.4302451,-121.9089225
+misc/plan_eir_PacificMall_b.txt,S Milpitas Blvd -- E Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,16:55-17:55,251,188,241,217,930,72,142,307,394,399,2089,424,8,3,1,1,2,2,1,0,37.4322761,-121.8995564
+misc/plan_eir_PacificMall_b.txt,Hillview Dr -- E Calaveras Blvd / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,89,77,221,220,1039,182,310,81,114,59,2206,146,16,0,5,8,2,0,2,0,37.4335712,-121.8933559
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Bellew Dr/Technology Dr / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,30,637,316,552,10,93,100,920,5,157,36,418,11,7,3,0,1,2,1,1,37.420912,-121.9219776
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Alder Dr / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,0,587,526,231,0,74,35,783,0,0,0,0,0,11,0,0,0,4,0,0,37.4157084,-121.9210269
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Tasman Dr / Milpitas  CA,x,Thu  Jun 07 2012,17:00-18:00,346,386,167,25,329,96,152,219,107,121,1457,465,4,3,1,1,11,6,3,1,37.4112058,-121.921271
+misc/plan_eir_PacificMall_b.txt,Alder Dr -- Tasman Dr / Milpitas  CA,x,Thu  Jun 07 2012,17:00-18:00,62,54,618,165,290,72,309,14,38,86,1659,31,29,7,4,104,13,3,3,2,37.4138896,-121.9167637
 misc/plan_eir_PacificMall_b.txt,I-880 SB Ramps -- Tasman Dr / Milpitas  CA,x,Tue  Jun 12 2012,17:00-18:00,68,2,435,0,428,127,0,0,0,663,1982,0,6,0,3,0,19,0,5,0
-misc/plan_eir_PacificMall_b.txt,Thompson St/I-880 NB Ramps -- Great Mall Pkwy / Milpitas  CA,x,Thu  Jun 07 2012,17:00-18:00,63,24,42,42,393,165,281,63,100,330,2093,92,3,0,3,0,18,0,3,0
-misc/plan_eir_PacificMall_b.txt,Abel St -- Great Mall Pkwy / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,73,268,124,101,468,42,37,389,67,423,1452,427,6,0,0,4,5,4,1,1
-misc/plan_eir_PacificMall_b.txt,S Main St -- Great Mall Pkwy / Milpitas  CA,x,Tue  Jun 12 2012,17:00-18:00,121,127,235,197,500,59,45,198,2,14,1344,227,6,1,2,0,15,1,1,0
+misc/plan_eir_PacificMall_b.txt,Thompson St/I-880 NB Ramps -- Great Mall Pkwy / Milpitas  CA,x,Thu  Jun 07 2012,17:00-18:00,63,24,42,42,393,165,281,63,100,330,2093,92,3,0,3,0,18,0,3,0,37.4158219,-121.9108986
+misc/plan_eir_PacificMall_b.txt,Abel St -- Great Mall Pkwy / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,73,268,124,101,468,42,37,389,67,423,1452,427,6,0,0,4,5,4,1,1,37.4155887,-121.9049134
+misc/plan_eir_PacificMall_b.txt,S Main St -- Great Mall Pkwy / Milpitas  CA,x,Tue  Jun 12 2012,17:00-18:00,121,127,235,197,500,59,45,198,2,14,1344,227,6,1,2,0,15,1,1,0,37.414197,-121.9018364
 misc/plan_eir_PacificMall_b.txt,N Capitol Ave -- Cropley Dr/Trade Zone Blvd / San Jose  CA,x,Tue  Jun 05 2012,17:00-18:00,32,1345,202,68,162,222,176,372,198,658,537,46,10,12,15,6,1,6,1,2,37.4033145,-121.8821251
 misc/plan_eir_PacificMall_b.txt,Trimble Rd -- Montague Expwy / San Jose  CA,x,Tue  Jun 05 2012,17:00-18:00,15,68,117,9,1271,777,933,9,39,47,2588,7,0,0,0,3,0,0,1,0,37.393463,-121.9193583
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Barber Ln / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,5,1189,28,9,1,356,102,222,10,15,7,4,1,2,0,0,0,3,1,0
-misc/plan_eir_PacificMall_b.txt,McCarthy Blvd/O'Toole Ave -- Montague Expwy / Milpitas  CA,x,Wed  Jun 06 2012,17:00-18:00,566,375,542,110,1426,208,278,57,38,80,3361,158,3,0,1,3,7,3,0,4
-misc/plan_eir_PacificMall_b.txt,Zanker Rd -- Holger Way / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,146,495,6,4,0,2,8,950,72,318,1,472,0,0,1,1,3,1,3,4
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Barber Ln / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,5,1189,28,9,1,356,102,222,10,15,7,4,1,2,0,0,0,3,1,0,37.4010287,-121.9144303
+misc/plan_eir_PacificMall_b.txt,McCarthy Blvd/O'Toole Ave -- Montague Expwy / Milpitas  CA,x,Wed  Jun 06 2012,17:00-18:00,566,375,542,110,1426,208,278,57,38,80,3361,158,3,0,1,3,7,3,0,4,37.3980693,-121.9128902
+misc/plan_eir_PacificMall_b.txt,Zanker Rd -- Holger Way / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,146,495,6,4,0,2,8,950,72,318,1,472,0,0,1,1,3,1,3,4,37.4181647,-121.939102337.4266298
 misc/s048264.txt,15th Ave S -- Beacon Ave S / Seattle  WA,x,11/16/2010,16:45-17:45,2,435,255,231,198,1,4,196,114,180,318,1,27,47,52,7,0,7,4,1
 misc/s048264.txt,Beacon Ave S -- S Lander St / Seattle  WA,x,11/16/2010,17:00-18:00,63,509,17,36,34,22,11,357,16,35,13,19,0,47,160,12,0,2,1,2
 misc/s048264.txt,Beacon Ave S -- S McClellan St / Seattle  WA,x,11/16/2010,16:50-17:50,23,409,130,74,115,22,3,295,27,49,48,11,17,65,11,33,0,6,1,2
