@@ -4958,7 +4958,7 @@ misc/plan_eir_PacificMall_b.txt,N Capitol Ave -- Cropley Dr/Trade Zone Blvd / Sa
 misc/plan_eir_PacificMall_b.txt,Trimble Rd -- Montague Expwy / San Jose  CA,x,Tue  Jun 05 2012,07:55-08:55,4,2,9,40,2694,1156,465,40,75,28,985,26,0,0,0,0,3,0,1,2,37.393463,-121.9193583
 misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Barber Ln / Milpitas  CA,x,Tue  Jun 05 2012,08:00-09:00,3,157,7,42,3,87,182,748,27,0,0,1,2,0,0,1,0,1,0,3,37.4010287,-121.9144303
 misc/plan_eir_PacificMall_b.txt,McCarthy Blvd/O'Toole Ave -- Montague Expwy / Milpitas  CA,x,Wed  Jun 06 2012,07:50-08:50,128,60,70,632,3890,250,102,106,46,68,1162,277,1,2,5,3,2,0,0,2,37.3980693,-121.9128902
-misc/plan_eir_PacificMall_b.txt,Zanker Rd -- Holger Way / Milpitas  CA,x,Tue  Jun 05 2012,07:55-08:55,275,722,2,8,2,6,14,713,376,24,0,30,0,2,0,1,0,1,0,2,37.4181647,-121.939102337.4266298
+misc/plan_eir_PacificMall_b.txt,Zanker Rd -- Holger Way / Milpitas  CA,x,Tue  Jun 05 2012,07:55-08:55,275,722,2,8,2,6,14,713,376,24,0,30,0,2,0,1,0,1,0,2,37.4181969,-121.9390781
 misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (N) / Milpitas  CA,x,Thu  Jun 07 2012,12:25-13:25,0,244,129,199,0,204,97,257,1,0,0,0,4,8,2,2,0,0,0,0,37.4326382,-121.9219855
 misc/plan_eir_PacificMall_b.txt,Mall Access Dwy -- Ranch Dr / Milpitas  CA,x,Tue  Jun 05 2012,12:15-13:15,31,586,15,29,23,251,212,632,250,286,20,18,7,7,3,3,0,0,1,1,37.4266298,-121.9219647
 misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Ranch Dr (S) / Milpitas  CA,x,Tue  Jun 05 2012,12:10-13:10,3,437,46,70,39,1086,1279,387,82,110,35,2,5,8,18,12,0,0,0,0,37.4262796,-121.9240544
@@ -4989,7 +4989,7 @@ misc/plan_eir_PacificMall_b.txt,N Capitol Ave -- Cropley Dr/Trade Zone Blvd / Sa
 misc/plan_eir_PacificMall_b.txt,Trimble Rd -- Montague Expwy / San Jose  CA,x,Tue  Jun 05 2012,17:00-18:00,15,68,117,9,1271,777,933,9,39,47,2588,7,0,0,0,3,0,0,1,0,37.393463,-121.9193583
 misc/plan_eir_PacificMall_b.txt,McCarthy Blvd -- Barber Ln / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,5,1189,28,9,1,356,102,222,10,15,7,4,1,2,0,0,0,3,1,0,37.4010287,-121.9144303
 misc/plan_eir_PacificMall_b.txt,McCarthy Blvd/O'Toole Ave -- Montague Expwy / Milpitas  CA,x,Wed  Jun 06 2012,17:00-18:00,566,375,542,110,1426,208,278,57,38,80,3361,158,3,0,1,3,7,3,0,4,37.3980693,-121.9128902
-misc/plan_eir_PacificMall_b.txt,Zanker Rd -- Holger Way / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,146,495,6,4,0,2,8,950,72,318,1,472,0,0,1,1,3,1,3,4,37.4181647,-121.939102337.4266298
+misc/plan_eir_PacificMall_b.txt,Zanker Rd -- Holger Way / Milpitas  CA,x,Tue  Jun 05 2012,17:00-18:00,146,495,6,4,0,2,8,950,72,318,1,472,0,0,1,1,3,1,3,4,37.4181969,-121.9390781
 misc/s048264.txt,15th Ave S -- Beacon Ave S / Seattle  WA,x,11/16/2010,16:45-17:45,2,435,255,231,198,1,4,196,114,180,318,1,27,47,52,7,0,7,4,1
 misc/s048264.txt,Beacon Ave S -- S Lander St / Seattle  WA,x,11/16/2010,17:00-18:00,63,509,17,36,34,22,11,357,16,35,13,19,0,47,160,12,0,2,1,2
 misc/s048264.txt,Beacon Ave S -- S McClellan St / Seattle  WA,x,11/16/2010,16:50-17:50,23,409,130,74,115,22,3,295,27,49,48,11,17,65,11,33,0,6,1,2
