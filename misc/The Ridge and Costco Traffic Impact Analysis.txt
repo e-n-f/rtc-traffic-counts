@@ -1,0 +1,2158 @@
+The Ridge and Costco
+Transportation Impact Analysis
+
+Elk Grove, California
+
+
+
+
+Prepared For:
+Costco Wholesale, Inc.
+
+
+
+Prepared By:
+Kittelson & Associates, Inc.
+
+
+
+Project No. 19097
+
+
+February 2016
+The Ridge and Costco Transportation Impact Analysis                                       February 2016 
+                                                                                                        
+
+
+
+                                     ENGINEER’S CERTIFICATION 
+
+
+                                 This traffic analysis was prepared and reviewed by 
+                                                        Franklin Cai 
+                                Registered Traffic Engineer in the State of California 
+                                            A Senior Engineer with the firm of 
+                                                Kittelson & Associates, Inc. 
+
+
+
+
+                                                                                             
+                                       
+The Ridge and Costco Transportation Impact Analysis                                                                                                                                 February 2016
+Table of Contents
+
+
+
+TABLE OF CONTENTS
+Executive Summary ................................................................................................................................ 2
+
+   Analysis Purpose.......................................................................................................................................................................... 2
+
+   Analysis Findings.......................................................................................................................................................................... 2
+Existing Transportation Conditions ........................................................................................................ 8
+Future Traffic Conditions ..................................................................................................................... 11
+Proposed Development Plan ............................................................................................................... 15
+
+   Project Background ................................................................................................................................................................... 15
+
+   Proposed Development Plan ..................................................................................................................................................... 15
+
+   Trip Generation ......................................................................................................................................................................... 15
+
+   Trip Distribution ........................................................................................................................................................................ 19
+
+   Operational Analysis .................................................................................................................................................................. 21
+
+   Queuing Analysis ....................................................................................................................................................................... 22
+Transportation Needs .......................................................................................................................... 24
+
+   Elk Grove Boulevard Multi-Use Pathway Design ....................................................................................................................... 31
+
+   Internal Site Circulation ............................................................................................................................................................. 33
+Findings and Recommendations .......................................................................................................... 41
+Appendices                 ..................................................................................................................................... 42
+
+   Appendix A Manual Turning Movement Counts
+
+   Appendix B Travel Demand Model Outputs and Land Use Assumptions
+
+   Appendix C Dignity Health Elk Grove Medical Campus
+
+   Appendix D Trip Generation Assumptions and Methods
+
+   Appendix E Cordon Area Trip Assignment, Weekday PM Peak Hour
+
+   Appendix F Synchro Analysis Worksheet
+
+
+
+
+                                                                                                     ii                                                            Kittelson & Associates, Inc.
+        Section 1
+Executive Summary
+The Ridge and Costco Transportation Impact Analysis                                                  February 2016
+Executive Summary
+
+
+
+
+EXECUTIVE SUMMARY
+
+ANALYSIS PURPOSE
+The purpose of this Transportation Impact Analysis is to address site access, circulation, trail
+considerations, and connections planned as part of the proposed Elk Grove Costco and the overall
+Laguna Ridge site. Based on direction and objectives relayed by City staff, this assessment takes a
+conservative approach to trip generation to help ensure that site access locations are appropriately
+designed and managed to avoid impacts to the public roadway system. This report addresses the
+adequacy of the site access locations to serve the overall site, including recommendations on lane
+configurations, access restrictions, traffic control, and queue storage lengths. This report also addresses
+internal circulation needs and provides recommendations to help provide a more efficient,
+interconnected, and accessible site layout.
+
+
+ANALYSIS FINDINGS
+Key findings of this analysis are as follows:
+
+         The proposed development is planned to contain approximately 400,000 square-feet of total
+          building area with full buildout.
+         The site will be developed in phases as tenants are identified. Costco and the fuel center will be
+          constructed as part of the initial site development.
+         The overall site is expected to generate approximately 2,641 trips at the driveways (1,599 net
+          new regional trips) with full site build-out.
+         A new traffic signal will be installed at the intersection of Elk Grove Boulevard/Ginther Drive.
+          Additional access will be provided to the overall center from Bruceville Road, Civic Center Drive,
+          and through right-in, right-out (RIRO) connections to Elk Grove Boulevard.
+         All of the study intersections will operate acceptably with full build-out in the year 2035 during
+          the critical weekday p.m. peak hour.
+         95th percentile queues during the weekday p.m. peak hour will extend beyond the available
+          storage in locations along the site frontage.
+         The Elk Grove Boulevard frontage will require modifications within the striped shoulder area.
+          This space will be needed for right-turn deceleration lanes to separate through and turning
+          traffic.
+         The new site access points along Elk Grove Boulevard will create conflicts with the Elk Grove
+          Boulevard multi-use pathway that will require mitigating treatments.
+
+
+
+
+                                                        2                                Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                 February 2016
+Executive Summary
+
+
+Recommendations of this analysis are provided below:
+
+         The new signal at the Elk Grove Boulevard/Ginther Drive intersection should be designed to
+          maintain right-in, right-out access (with signalization) from the neighborhood to the north. Full
+          access should be provided from the retail center. The configuration of this signal will best
+          accommodate signal progression, maintain the existing travel patterns through the
+          neighborhood, avoid widening adjacent to residences, and provide direct pedestrian
+          connectivity between the neighborhood, retail center, and Elk Grove Boulevard multi-use trail
+          system.
+         Frontage improvements along Elk Grove Boulevard will be required to prevent use of the
+          striped area as an acceleration lane.
+         Left-turn bay extensions will be required along Elk Grove Boulevard to support the new traffic
+          signal at Ginther Drive and to provide more storage to accommodate the development.
+         The conceptual design of the Civic Center Drive/Babylon Drive – shared access should be
+          modified to increase the available storage while maintaining the same movement restrictions.
+          Development of the design will require coordination and approval from Dignity Health and the
+          City of Elk Grove.
+         A raised median should be installed along Civic Center Drive to restrict the westernmost access
+          to right-in, right-out access only.
+         New crossings of the Elk Grove Boulevard multi-use pathway should adhere to the treatment
+          options identified within this report to provide clear sight lines and improve visibility between
+          motorists and pedestrians. The proposed crossings prioritize pedestrian/cyclist use of the
+          pathway while providing measures to increase yielding and reduce the potential for conflicts.
+         Pedestrian connectivity should be reviewed as part of individual tenant plans for the site to
+          ensure direct connections are provided between buildings and to the public sidewalks and Elk
+          Grove Boulevard multiuse pathway.
+
+Additional details of the study methodology, findings, and recommendations are provided within this
+report.
+
+
+
+
+                                                        3                               Kittelson & Associates, Inc.
+ Section 1
+Introduction
+The Ridge and Costco Transportation Impact Analysis                                                          February 2016 
+Introduction 
+
+
+
+
+INTRODUCTION 
+PROJECT DESCRIPTION 
+The Ridge and Costco include two separate projects encompassing 41 acres of the Town Center area of 
+the Laguna Ridge Specific Plan. The site is located south of Elk Grove Boulevard, east of Bruceville Road, 
+north  of  Civic  Center  Drive,  and  is  bordered  to  the  east  by  the  approved  Dignity  Health  Elk  Grove 
+Medical Campus. 
+
+The project will be developed in phases, with the first phase containing only the Costco and fuel center. 
+Primary  access  to  the  initial  phase  will  be  provided  via  a  new  traffic  signal  on  Elk  Grove  Boulevard 
+aligned with Ginther Drive. In addition, a right‐in, right‐out access onto Elk Grove Boulevard will also be 
+provided along with two connections to Civic Center Drive. Costco is expected to be fully built‐out and 
+occupied by 2017. 
+
+Future  development  phases  will  complete  the  connection  of  the  site  to  Bruceville  Road,  and  are 
+expected  to  be  completed  as  building  tenants  are  identified.  It  is  expected  that  the  site  will  be 
+developed over the next three to five years. 
+
+
+SCOPE OF THE REPORT 
+This  analysis  determines  the  transportation‐related  impacts  associated  with  the  proposed  The  Ridge 
+and Costco development, and was prepared based on scoping direction from City of Elk Grove staff. As 
+the overall site was previously assessed through the Laguna Ridge Specific Plan, this effort is focused on 
+analysis of the site access intersections to ensure appropriate sizing, queue storage bays, intersection 
+control, and safety. The operational analyses were performed at these nearby intersections (referred to 
+as study intersections), as illustrated in Figure 1: 
+
+      1. Bruceville Rd/Elk Grove Blvd 
+      2. Elk Grove Blvd/Northwest RIRO Access 
+      3. Elk Grove Blvd/Ginther Dr (RIRO) ‐ Main Access (Full Access) 
+      4. Elk Grove Blvd/East Retail RIRO Access 
+      5. Wymark Dr/Elk Grove Blvd 
+      6. Wymark Dr/Civic Center Dr 
+      7. Civic Center Dr/Babylon Dr – Shared Full Access 
+      8. Civic Center Dr/Costco Loading Access 
+      9. Civic Center Dr/West Access 
+      10. Bruceville Rd/Civic Center Dr 
+      11. Bruceville Rd/Main LIRIRO Access 
+      12. Bruceville Rd/North RIRO Access 
+                                 
+
+
+
+
+                                                            2                                   Kittelson & Associates, Inc. 
+     The Ridge and d Costco Transporrtation Impact Ana
+                                                     alysis                                                    FFebruary 2016 
+     Introduction 
+
+
+
+
+Fiigure 1. Site V
+                Vicinity Map. Aerial Sourcee: maps.googlle.com. 
+
+     This  repo
+              ort  summarizzes  these  an
+                                        nalyses,  findiings,  and  prrovides  recom
+                                                                                  mmendation ns  to  ensure  that  the 
+     transporttation system
+                          m can continu ue to operate safely and  efficiently w  with the prop
+                                                                                             posed build‐oout of The 
+     Ridge, Coostco, and the
+                           e Costco fueling center. 
+
+
+
+
+                                                                   3                              Kittelson & Asssociates, Inc. 
+                       Section 2
+Existing Transportation Conditions
+The Ridge and Costco Transportation Impact Analysis                                                February 2016
+Existing Transportation Conditions
+
+
+
+
+EXISTING TRANSPORTATION CONDITIONS
+To understand the existing operational characteristics of the transportation system surrounding the Elk
+Grove site, the area was visited and inventoried in September 2015 and January 2016. Traffic counts
+were collected throughout the study area in September 2015 to understand the number and patterns
+of vehicles, pedestrians, cyclists, and trucks throughout the study area. Traffic count worksheets are
+provided within the appendices.
+
+Elk Grove Boulevard is an east-west roadway connecting I-5 to the west and Grant Line Road to the
+east, with SR 99 intersecting in between. Elk Grove Boulevard is six lanes from I-5 to East Stockton
+Boulevard, four lanes as it extends east to Elk Grove-Florin Road, and it becomes two lanes as it extends
+further east to Grant Line Road. Elk Grove Boulevard is built to its general plan designation between I-5
+and Waterman Road.
+
+Civic Center Drive is a two-lane commercial street with a center turn lane between Bruceville Road and
+Laguna Spring Drive. Civic Center Drive is built to its general plan designation.
+
+Bruceville Road is a north-south arterial traversing from Valley Hi Drive near the Kaiser-Permanente
+complex in unincorporated Sacramento County to south of Kammerer Road/Elk Grove City limit. Within
+the City of Elk Grove and extending southward, Bruceville Road is four lanes from Sheldon Road to
+Laguna Boulevard, six lanes to Elk Grove Boulevard, four lanes to Whitelock Parkway, and two lanes
+south of Whitelock Parkway. In the general plan, Bruceville Road is designated as a six-lane arterial.
+
+Big Horn Boulevard is a four-lane arterial traversing from Franklin Boulevard to Whitelock Parkway. Big
+Horn Boulevard is built to its general plan designation.
+
+Laguna Spring Drive is a four-lane, north-south arterial between Laguna Boulevard and Lotz Parkway.
+Laguna Spring Drive is built to its general plan designation.
+
+State Route 99 (SR 99) is a north-south freeway that connects Elk Grove to all the major cities in the
+Central Valley – Sacramento, Stockton, Modesto, Merced, Fresno, etc. In the Elk Grove city limits, SR 99
+is accessed via interchanges at Grant Line Road, Elk Grove Boulevard, Laguna Boulevard/Bond Road and
+Sheldon Road. This stretch of SR 99 has two mainline travel lanes and one high occupancy vehicle (HOV)
+lane in each direction; the posted speed limit is 65 mph.
+
+Interstate 5 (I-5) is a north-south freeway that extends through the entire state of California, and it is
+also a major national freeway that connects between Mexico and Canada. At its interchange with Elk
+Grove Boulevard, I-5 is a four-lane freeway.
+
+
+
+
+                                                      8                                Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                   February 2016
+Existing Transportation Conditions
+
+
+Pedestrian System
+The roadways that surround and lead to the proposed project site, Elk Grove Boulevard, Bruceville
+Road, Civic Center Drive, Wymark Drive and Big Horn Boulevard are all built to general plan
+specifications. Therefore these roadways all provide sidewalks with trees/vegetation buffering between
+the sidewalks and the vehicle travel lanes. Crosswalks with ADA compliant ramps are present at nearly
+all intersections along these roadways as well in the vicinity of project site. Further there is a multi-use
+pathway along the south side of Elk Grove Boulevard that serves both pedestrians and cyclists.
+
+
+Bicycle System
+Class II bike lanes are present along all the roadways surrounding and leading to the proposed project
+site: Elk Grove Boulevard, Bruceville Road, Civic Center Drive, Wymark Drive and Big Horn Boulevard.
+This is consistent with the adopted City of Elk Grove Bicycle and Pedestrian Master Plan (July 2004). The
+majority of the bike facilities within city limits are Class II bike lanes. Additionally, there is a multi-use
+pathway along the south side of Elk Grove Boulevard that serves both pedestrians and bicycles.
+
+
+Transit System
+The City of Elk Grove has its own transit system, e-Tran, satisfying the City’s transit demand. e-tran
+includes a neighborhood shuttle service (ez-tran), a limited local transit service and a commuter service
+(mostly to downtown Sacramento). The local transit service is provided on weekdays (six routes) and
+weekends (three routes). e-Tran provides nine commuter routes that operate mid-week, including two
+reverse commuter routes. Transit service is provided along the Elk Grove Boulevard site frontage with
+an existing bus pull-out just east of the Bruceville Road intersection.
+
+
+
+
+                                                        9                                 Kittelson & Associates, Inc.
+              Section 3
+Future Traffic Conditions
+The Ridge and Costco Transportation Impact Analysis                                                 February 2016
+Future Traffic Conditions
+
+
+
+
+FUTURE TRAFFIC CONDITIONS
+Future year 2035 traffic volumes were developed using the regional travel demand model (SACMET
+model from SACOG) using Cumulative land use assumptions from the Metropolitan Transportation
+Plan/Sustainable Communities Strategy (MTP/SCS). Prior population and employment assumptions for
+the subject site (including the retail and adjacent medical areas) were removed from the model to
+avoid double-counting of trips.
+
+Travel demand model link volumes were calibrated to existing turning movement counts and converted
+to turning movements using the Furness method as described in NCHRP Report 255. These traffic
+volumes were then balanced throughout the study area network. Additional details on the volume
+development are included in the appendices.
+
+
+Planned Public Projects and Improvements
+Based on discussions with staff a long-range plan to connect the Whitelock Parkway with SR 99 was
+identified. The City website provides the following description of this project:
+
+          The Whitelock Parkway/SR 99 interchange will reduce the current traffic congestion along Elk
+          Grove Boulevard and future congestion on Kammerer Road by offering additional entry and exits
+          points on SR 99 and rerouting traffic from nearby interchanges. The Whitelock Parkway/SR 99
+          Interchange will complete the eastern extension of the Toby Johnson multiuse trail across SR 99,
+          providing safe access for pedestrians and cyclists into the Elk Grove Regional Park and the many
+          popular destinations within the park including the sports fields, a fishing lake, walking trails,
+          Frisbee golf course, 2.4-acre Elk Grove bike park, 1.2-acre dog park and the Elk Grove Historical
+          Hotel.
+
+The Whitelock interchange project is in the planning phase, and complete construction funding has not
+yet been secured. While expected to be complete prior to the horizon year, this project was not directly
+incorporated into the analysis.
+
+
+Approved Area Development
+The only approved development project within the site vicinity was a Specific Plan Amendment for the
+Dignity Health Elk Grove Medical Campus that was approved on June 20, 2013 at 8220 Wymark Drive.
+The overall project will be developed in four separate phases encompassing a total of nearly 790,000
+square-feet of medical, hospital, structured parking, and utility space. The site is expected to develop
+over a twenty-year timeframe.
+
+While general population and employment estimates were used to obtain general growth estimates
+throughout the study area, due to the proximal location of the hospital relative to the retail center
+specific trip generation estimates were prepared and assigned onto the transportation system.
+                                                       11                               Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                           February 2016
+Future Traffic Conditions
+
+
+Additional documentation of the Dignity Health Elk Grove Medical Campus trips is provided within the
+project appendices.
+
+Forecast year 2035 traffic volumes without development of The Ridge and Costco are shown in Figure
+2. This includes calibration of the future travel demand models, inclusion of approved development
+trips, and balancing of traffic volumes to ensure consistent throughput on the corridors.
+
+
+
+
+                                                      12                          Kittelson & Associates, Inc.
+               Section 4
+Proposed Development Plan
+The Ridge and Costco Transportation Impact Analysis                                               February 2016
+Proposed Development Plan
+
+
+
+
+PROPOSED DEVELOPMENT PLAN
+
+PROJECT BACKGROUND
+The site is located within the Laguna Ridge Specific Plan (LRSP), and more specifically in a sub-planning
+area known as the Elk Grove Town Center, also referred to as the Laguna Ridge Town Center. The site
+was envisioned as the western mixed-use retail area with retail and residential uses.
+
+
+PROPOSED DEVELOPMENT PLAN
+With full build-out the proposed project will include nearly 400,000 square-feet of retail uses. Access
+will be provided from the surrounding roadways, including connections from Elk Grove Boulevard,
+Bruceville Road, and Civic Center Drive.
+
+The overall retail center will be constructed in phases, with the first phase consisting of the
+approximately 150,500 square-foot Costco and fuel center. This initial phase will not include a
+connection to Bruceville Road, but will provide a new signal onto Elk Grove Boulevard at the Ginther
+Drive intersection, and connections onto Civic Center Drive including at a future shared-access location
+with the planned Dignity Health campus.
+
+Subsequent project phases will occur as tenants are identified. This is expected to occur over the next
+three to five years.
+
+
+TRIP GENERATION
+Trip generation estimates are commonly prepared based on data contained within the standard
+reference Trip Generation, 9th Edition, published by the Institute of Transportation Engineers (ITE). The
+studies that comprise the ITE manual were prepared based on cordon studies at other similar
+developments within suburban settings that are expected to be applicable to conditions within the Elk
+Grove area.
+
+Note that this analysis is focused on the weekday p.m. peak hour. During the weekday a.m. peak hour
+the proposed Costco warehouse and most retail uses are not open for business or experience
+significantly reduced traffic volumes compared to the afternoon and evening hours.
+
+At this time specific building tenants have not yet been identified with exception of the Costco and fuel
+center, which will comprise the Phase 1 development. Accordingly, we have applied ITE classifications
+for all other uses, separating out only the fast-food restaurants due to the increased trip generation
+intensity of these uses. Other high-intensity classifications could also be classified to arrive at an even
+more conservative analysis estimate (such as separately classifying outlying pads as high-turnover sit-
+down restaurants), but cordon studies we have conducted in other areas generally show that these
+
+Kittelson & Associates, Inc.                          15                                  Sacramento, California
+The Ridge and Costco Transportation Impact Analysis                                                 February 2016
+Proposed Development Plan
+
+
+high-intensity uses are generally balanced by lower-intensity tenants such as home improvement
+stores, department/clothing stores, real estate offices, and others.
+
+The land use code most commonly applied to Costco warehouse sites is the Discount Club, ITE Land Use
+Code 857. This land use was first introduced within the 8th Edition of the Trip Generation manual in
+2008. The land use description states the following:
+
+          A discount club is a discount store or warehouse where shoppers pay a membership fee in
+          order to take advantage of discounted prices on a wide variety of items such as food, clothing,
+          tires and appliances; many items are sold in large quantities or in bulk.
+
+The 9th Edition Trip Generation manual notes that the peak of these uses occurs between 11:00 a.m.
+and 2:00 p.m., and trip data that comprises this classification was collected between the 1980’s and
+2000’s. This land use does not distinguish between sites with or without fuel centers, but notes the
+importance of including this information in future studies. ITE also notes that the weekday AM peak
+hour trip information is based on a small sample size (unknown whether it includes sites with fuel
+centers) and cautions the user about application of the data.
+
+Based on our knowledge of Costco sites, the primary limitation with the ITE Discount Club data is that
+no information was collected related to trip characteristics such as pass-by or diverted trips, or whether
+the fueling station is included. Application of the Discount Club data without pass-by or diverted trip
+information would inherently imply that every Costco trip represents a new home-to-Costco trip on the
+transportation system, which customer surveys shows is both unrealistic and inappropriate.
+
+We have compiled a database of Costco-specific trip generation surveys nationally that provides a more
+accurate reflection of Costco-specific store characteristics, and distinguishes between sites with fuel
+centers and other amenities (see appendices). This includes customer surveys at some of the locations
+to better reflect the internalization between the fuel center and warehouse, and whether trips are
+considered primary (home-based trips), pass-by (trips on adjacent roads turning into the site), or
+diverted (trips on nearby roads diverting their route to Costco). Anecdotally, prior studies have shown
+that the sum of pass-by and diverted trips is relatively constant across Costco sites; locations bordering
+a major roadway include a high volume of pass-by and a lower percentage of diverted trips, whereas
+sites that are not fronting a major roadway include the converse. As this analysis is focused only on the
+site-access locations, we have not separated out pass-by trips but conservatively included these.
+
+While the trip generation database for Costco includes the impact of a fuel center, the database does
+not include any locations with 30 fueling positions. Before and after data collected as part of fuel center
+expansions show that additional fueling positions generate a small increase in trips, albeit with
+reductions in queuing, vehicle idling, and wait times. Additional details on the fuel center studies are
+included in the appendices, and trips associated with the fuel center expansion to account for the
+potential to include up to 30 fueling positions are identified within the trip generation table.
+
+
+                                                      16                                Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                               February 2016
+Proposed Development Plan
+
+
+Finally, to accurately assess the site access points trips from each individual area were separated using
+the cordons shown in Figure 3. These cordon areas identify the buildings that will rely on similar access
+characteristics. Trip generation was prepared for these individual areas to ensure that trips throughout
+the development were appropriately assigned to the individual access points that serve the property.
+Table 1 summarizes the resultant trip generation estimates for each area and for the site as a whole.
+
+
+
+
+Figure 3. Building Cordon Areas
+
+
+
+
+                                                      17                              Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                              February 2016
+Proposed Development Plan
+
+
+Table 1. Estimated Trip Generation Potential By Area
+                                                             ITE                   Daily    Weekday PM Peak Hour
+                        Land Use                                          Size
+                                                            Code                   Trips    Total     In          Out
+                                                             Area 1
+ Shopping Center                                                                    687       60     29            31
+                                                             820      16,100 SF
+   Internal Trips (10%)                                                             -69       -6     -3            -3
+ Fast-Food Restaurant with Drive-through                                           1,736     114     59            55
+                                                             934      3,500 SF
+   Internal Trips (10%)                                                            -174      -11     -6            -5
+ Total                                                                                       157     79            78
+                                                             Area 2
+ Shopping Center                                                                    914       79     38            41
+                                                             820      21,400 SF
+   Internal Trips (10%)                                                             -91       -8     -4            -4
+ Fast-Food Restaurant with Drive-through                                           1,488      98     51            47
+                                                             934      3,000 SF
+   Internal Trips (10%)                                                            -149      -10     -5            -5
+ Total                                                                             2,162     159     80            79
+                                                             Area 3
+ Fast-Food Restaurant with Drive-through                                           6,350     418     217          201
+                                                             934      12,800 SF
+   Internal Trips (10%)                                                            -635      -42     -22          -20
+ Total                                                                             5,715     376     195          181
+                                                             Area 4
+ Shopping Center                                                                   2,340     203      98          105
+                                                             820      54,800 SF
+   Internal Trips (10%)                                                            -234      -20     -10          -10
+ Fast-Food Restaurant with Drive-through                                           4,564     300     156          144
+                                                             934      9,200 SF
+   Internal Trips (10%)                                                            -456      -30     -16          -14
+ Total                                                                             6,214     453     228          225
+                                                             Area 5
+ Shopping Center                                                         120,000   5,124     445     214          231
+                                                             820
+   Internal Trips (10%)                                                    SF      -512      -45     -21          -24
+ Total                                                                             4,612     400     193          207
+                                                      Costco and Fuel Center
+ Costco Warehouse with Fuel Center                           N/A      150,548      10,713   1,076    521          555
+
+ Fuel Center Expansion                                                 Future       400      35      17            18
+                                                             N/A        Fuel
+    Internal Trips                                                    Expansion     -135     -15     -7            -8
+ Total                                                                             10,978   1,096    531          565
+                                                            Site Total
+ Total Trips                                                                       34,316   2,828   1,400       1,428
+   Total Internal Trips                                                            -2,455    -187    -94         -93
+ Net New Trips                                                                     31,861   2,641   1,306       1,335
+
+
+Pass-by trips were excluded from this analysis as the purpose is to assess the effect of site development
+on the access points. It should be noted that regional impacts will be less than those shown in Table 1
+as approximately 1,042 of the weekday p.m. peak hour trips are expected to be trips from commuters
+entering and exiting the site that would otherwise already be on the transportation system. For
+purposes of assessing regional impacts the site is expected to generate 1,599 net new weekday p.m.
+peak hour trips.
+
+
+
+
+                                                                   18                                Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                February 2016
+Proposed Development Plan
+
+
+
+TRIP DISTRIBUTION
+To estimate the weekday p.m. distribution of proposed Costco trips we applied the latest SACMET
+model from SACOG using cumulative (2035) land-use assumptions for the Metropolitan Transportation
+Plan/Sustainable Communities Strategy (MTP/SCS). This version of the model is used in lieu of the
+version utilized in the Laguna Ridge Town Center study in 2008, because SACMET’s land-use and
+network assumptions have been updated based on known land-use developments and roadway
+improvements anticipated in the southwest portion of Sacramento County.
+
+To generate estimates of trip distribution patterns, KAI identified the traffic analysis zone in the model
+that contains the site for the proposed Costco in Elk Grove. In the model’s land-use files, all land-use
+categories associated with this TAZ are zeroed out except for the retail land-use category. The SACMET
+model was then rerun with this updated land-use. Then a select-zone traffic assignment was performed
+for the weekday p.m. peak hour, where vehicle trips from this selected TAZ are tracked separately.
+These distribution patterns are expected to reflect all retail uses contemplated. The trip generation
+estimates shown in Table 1 were then assigned to the transportation system in accordance with these
+model-based distribution patterns to arrive at the trip assignment shown in Figure 4. Additional details
+on the trip assignment for individual cordon areas is provided in the appendices.
+
+
+
+
+                                                      19                               Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                          February 2016
+Proposed Development Plan
+
+
+
+OPERATIONAL ANALYSIS
+Based on the summation of the cumulative no-build traffic volumes (Figure 2) and site-generated trips
+(Figure 4), future cumulative “with-site” traffic volumes were prepared for the surrounding study
+intersections. These volumes were analyzed using Synchro analysis software to identify the delay and
+capacity of the intersections to accommodate the projected traffic volumes.
+
+Findings of the analysis are summarized in Table 2 for the cumulative traffic conditions. This shows
+overall intersection delays for signalized and all-way stop-controlled intersections, and worst-approach
+delays for two-way stop-controlled intersections. The City of Elk Grove Traffic Impact Analysis
+Guidelines identifies Level of Service “D” or better as acceptable. This shows acceptable overall
+intersection operations throughout the study area with build-out of the site with the access, control
+types, and lane configurations proposed, with exception of the Elk Grove Boulevard/Bruceville Road
+intersection. Separate discussion of each of the adjacent intersections is provided below; the
+intersections are listed from the Elk Grove Boulevard/Bruceville Road intersection in a clockwise
+manner around the site perimeter.
+
+Table 2. Summary of 2035 Cumulative Analysis Intersection Operations, Weekday PM Peak Hour
+                                                                              Cumulative Build
+  Int #            Intersection Name                     Control          Delay (s)        LOS       Acceptable?
+            Bruceville Rd/
+    1                                                   Signalized          52.5            D              Yes
+            Elk Grove Blvd
+            Elk Grove Blvd/                           Two-Way Stop-
+    2                                                                       9.6              A             Yes
+            Northwest RIRO Access                       Controlled
+            Elk Grove Blvd/
+                                                        Signalized
+    3       Ginther Dr (RIRO) - Main                                        26.1             C             Yes
+                                                       (Proposed)
+            Access
+            Elk Grove Blvd/                           Two-Way Stop-
+    4                                                                       9.9              A             Yes
+            East Retail RIRO Access                     Controlled
+            Wymark Dr/
+    5                                                   Signalized          13.3             B             Yes
+            Elk Grove Blvd
+            Wymark Dr/                                 All-Way Stop-
+    6                                                                       22.0             C             Yes
+            Civic Center Dr                             Controlled
+            Civic Center Dr/                           All-Way Stop-
+    7                                                                       18.5             C             Yes
+            Babylon Dr – Shared Full Access             Controlled
+            Civic Center Dr/                          Two-Way Stop-
+    8                                                                       16.0             C             Yes
+            Costco Loading Access                       Controlled
+            Civic Center Dr/                          Two-Way Stop-
+    9                                                                       11.9             B             Yes
+            West Access                                 Controlled
+            Bruceville Rd/
+   10                                                   Signalized          39.8            D              Yes
+            Civic Center Dr
+            Bruceville Rd/                            Two-Way Stop-
+   11                                                                       13.1             B             Yes
+            Main LIRIRO Access                          Controlled
+            Bruceville Rd/                            Two-Way Stop-
+   12                                                                       11.1             B             Yes
+            North RIRO Access                           Controlled
+
+
+                                                                     21                          Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                            February 2016
+Proposed Development Plan
+
+
+
+QUEUING ANALYSIS
+95th percentile queues were reviewed at each of the access points to verify that adequate storage space
+was available to meet forecast needs. The analysis found that the existing site layout can accommodate
+95th percentile queues at the site accesses as currently shown in the plans. Intersections that exceed
+available queue storage are largely along Elk Grove Boulevard; solutions include review of the
+landscaped median area to extend storage bays as part of frontage improvements.
+
+Table 3 summarizes queue deficiencies at the study intersections under cumulative year 2035 traffic
+conditions. Additional queue analysis details are provided within the Synchro output sheets within the
+appendices.
+
+Table 3. Summary of 2035 Cumulative Analysis Intersection Queuing, Weekday PM Peak Hour
+             Intersection                  95th Percentile Queue
+Int #           Name                          Accommodation                             Potential Mitigation
+                                     NB LT: 225 feet available, 200        Extend WB LT storage bay an additional 175 feet
+                                     feet forecast
+         Bruceville Rd/
+  1                                  WB LT: 190 feet/380 feet
+         Elk Grove Blvd
+                                     available, 371 feet forecast (both
+                                     lanes)
+                                     WB LT: 350 feet required              Construct 400 feet of WB LT queue storage
+         Elk Grove Blvd/
+                                     NB LT: 200 feet required              Extend NB LT storage south to internal
+  3      Ginther Dr (RIRO)
+                                     NB RT: 75 feet required               intersection
+         - Main Access
+                                     SB RT: 25 feet required
+                                     WB LT: 320 feet available, 275        Extend SB LT queue storage to 250 feet
+                                     feet forecast                         Restripe additional median space beyond the
+         Bruceville Rd/              WB RT: 300 feet available, 75 feet    westbound left-turn bay if additional queue
+  10
+         Civic Center Dr             forecast                              storage space is needed in the future.
+                                     SB LT: 180 feet available, 250 feet
+                                     forecast
+         Bruceville Road/            SB LT: 50 feet forecast, 200 feet     None; prioritize median for northbound
+  11
+         LIRIRO Access               available                             Bruceville/Elk Grove Blvd long-term needs
+NB: Northbound, SB: Southbound, EB: Eastbound, WB: Westbound, LT: Left-turn, RT: Right-turn
+RIRO: Right-in, Right-out
+LIRIRO: Left-in, Right-in, Right-out
+
+
+
+
+                                                                22                                 Kittelson & Associates, Inc.
+Transportation Needs
+The Ridge and Costco Transportation Impact Analysis                                                             February 2016
+Transportation Needs
+
+
+
+
+TRANSPORTATION NEEDS
+This section reviews specific geometric and safety considerations at each of the access based on the
+operational analysis, area context, and the current site plan. In general, The Ridge/Costco will be served
+by Elk Grove Boulevard and Bruceville Road, with Civic Center Drive providing a secondary role in
+access. These accesses are expected to be adequate to serve site demands while reducing reliance on
+U-turn maneuvers.
+
+Key access considerations as summarized within the individual access discussions below are as follows:
+
+          Intersection capacity, safety, and queue storage needs
+          Safety and accessibility along the Elk Grove Boulevard multi-use pathway;
+          Weaving concerns due to access locations on high-volume and high-speed multi-lane arterial
+           roadways; and
+          Queuing and storage needs to prevent spillback onto the arterials.
+
+
+1. Bruceville Road/Elk Grove Boulevard Intersection
+The signalized intersection of Bruceville Road/Elk Grove Boulevard is shown to operate at an acceptable
+overall LOS “D” with left-turn/U-turn maneuvers operating with high delays during the weekday
+evening peak hour on the eastbound, northbound, and westbound approaches in 2035 with area build-
+out.
+
+Congestion relief at this intersection is expected to occur through the City’s development of alternative
+routes. Routes parallel to Elk Grove Boulevard are available for motorists through the existing grid
+network, which will likely reduce these forecast demands and motorists seek out routes with lower
+delays. This will primarily occur through future plans to construct an interchange at the Whitelock
+Parkway connection to SR 99, helping to reduce reliance on the Elk Grove Boulevard corridor.
+
+Development-associated mitigation measures for this intersection include the extension of the left-turn
+queue storage. It is recommended that the westbound left-turn storage bay be extended an additional
+175 feet to accommodate long-term demands.1
+
+
+
+
+1     th
+    95 percentile queue analysis shows a demand for 371 feet of storage in two lanes (741 total feet). The current
+configuration provides 190 feet in the outer lane and 380 feet in the inside turn lane, leaving 175 feet of storage need.
+
+                                                              24                                    Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                          February 2016
+Transportation Needs
+
+
+2. Elk Grove Boulevard/Western Right-in, Right-out Access
+The western right-in, right-out access on Elk Grove Boulevard is expected to primarily serve the retail
+uses located west of the Costco site. The access restriction will be enforced by the raised median on Elk
+Grove Boulevard. The analysis results identify low delays at this intersection.
+
+Review of site identifies a transit stop is currently provided west of the driveway, and the new access
+will require a crossing of the Elk Grove Boulevard Multi-Use pathway. The following recommendations
+are provided for this access:
+
+         The eastbound right-turn deceleration lane for the access should begin beyond the transit stop.
+         The multi-use pathway treatments should include the design elements as separately described
+          within this analysis to improve the safety at crossings of the EGB Multi-use Pathway.
+
+
+3. Elk Grove Boulevard/Ginther Drive - Main Signalized Entrance
+The main entrance to the site
+along Elk Grove Boulevard is
+proposed to align with Ginther
+Drive, which serves as an access
+to an established residential
+neighborhood. The signalized
+access will be critical to the
+Laguna Ridge retail area, as this
+provides the only access for
+westbound Elk Grove Boulevard
+motorists to access the site, and
+will also serve as a key egress
+location for westbound motorists
+onto Elk Grove Boulevard. Figure
+5     illustrates   the     current
+intersection configuration.                           Figure 5. Elk Grove Boulevard/Ginther Drive existing layout.
+                                                      Source: maps.google.com
+As part of this analysis we
+considered two potential layout
+options for the future traffic signal configuration:
+
+         Full-access movements from Ginther Drive
+         Retention of the existing right-in, right-out configuration of Ginther Drive
+
+In reviewing full-access movements we noted that there is expected to be a significant volume
+imbalance between the two accesses, with the southbound Ginther Drive approach carrying
+approximately 50 to 100 vehicles during the peak hour and the retail site projected to serve
+                                                                   25                            Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                 February 2016
+Transportation Needs
+
+
+approximately 1,200 vehicles. Further, with residential uses constructed along both sides of Ginther
+Drive the ability to widen the existing northern approach would be limited, and any widening would
+create significant impacts to the adjacent residents.
+
+With these constraints, to provide full-access to both sides of Ginther Drive the most efficient
+accommodation of the traffic volumes would be provided with split signal phasing. While this design
+was shown to meet City standards and provide direct access to the retail area for the adjacent
+residents, it would also reduce the ability to coordinate signal operations on the critical Elk Grove
+Boulevard arterial. The development team also noted that this design that would alter neighborhood
+traffic patterns and potentially add cut-through uses within the neighborhood, which would be
+considered detrimental to the existing residents. Accordingly, our team recommends retaining right-in,
+right-out maneuvers from Ginther Drive (with signalization), while providing a signalized pedestrian
+crossing of Elk Grove Boulevard on the east side of the intersection that will improve access to the retail
+area, transit system, and multi-use pathway. A conceptual drawing of this configuration is shown in
+Figure 6.
+
+
+
+
+Figure 6. Conceptual traffic signal layout.
+
+Other configuration recommendations for this signalized access are as follows:
+
+         Extend the northbound queue storage bays south into the retail center to the nearest east-west
+          intersection to maximize the available outbound queue storage. A bulb-out should be used at
+
+                                                      26                                Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                  February 2016
+Transportation Needs
+
+
+          the south end of the right-turn lane to reduce the intersection width, improve alignment with
+          the drive aisle to the south, and simplify driver decisions.
+         A raised median is recommended to separate inbound and outbound traffic within the retail
+          center.
+         As currently shown in the site plan, no access should be allowed to any parcels along the entry
+          throat.
+         The addition of dashed lane marking extensions would ensure that the dual northbound left-
+          turns exiting the retail center were directed to the inside through lanes on Elk Grove Boulevard,
+          and the neighborhood exit would be directed to the curbside westbound through lane.
+         A new eastbound right-turn deceleration lane should be constructed within the striped
+          shoulder area along Elk Grove Boulevard, and a new westbound left-turn lane (with 400 feet of
+          storage) should be constructed within the median space.
+         The multiuse pathway crossing will be accommodated within the signalized crosswalk. It is
+          recommended that this crossing include pedestrian countdown timers, and pushbuttons should
+          be positioned for cyclists as well as pedestrians. Other visibility treatments applied at the
+          unsignalized intersections, such as textured or colored pavement, full-width (10-foot wide)
+          pathway ramps, and pedestrian warning signing and striping should be provided in consultation
+          with City staff.
+         Design of the signal will need to review available sight lines toward the future signal heads,
+          particularly given the width of the tree canopy along the Elk Grove Boulevard center median.
+          Retroreflective signal backplates may help improve the visibility of the signal heads against the
+          green backdrop.
+         Owing to the heavy projected left-turn volume turning from westbound Elk Grove Boulevard
+          into the site we further recommend dual receiving lanes into the site. The curbside inbound
+          lane will be dedicated for right-turns at the first internal intersection, providing access to the
+          Costco fuel center and to the various retail pads. The internal intersection is recommended to
+          remain uncontrolled for inbound maneuvers (stop-controlled for east-west trips) to prevent
+          queue spillback.
+
+
+4. East Retail Elk Grove Boulevard Right-in, Right-out Access
+The eastern right-in, right-out access onto Elk Grove Boulevard provides approximately 75-feet of
+northbound queue storage and the multiuse pathway crossing before perpendicular parking is
+permitted along the drive aisle. While outbound queues are expected to be relatively short, the
+proximity of the parking could be in conflict during peak periods or the holiday season. To the extent
+practical, it is recommended that this parking be assigned for employee use to reduce turnover,
+thereby limiting conflicts.
+
+
+
+
+                                                        27                               Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                 February 2016
+Transportation Needs
+
+
+The following recommendations are provided for this access:
+
+         Multi-use pathway crossing treatments should be provided at this unsignalized crossing (as
+          separately addressed).
+         An eastbound right-turn deceleration lane should be striped along Elk Grove Boulevard.
+         Use of the shoulder area as an acceleration lane or the turn lane as a through movement should
+          be restricted through striping and/or frontage modifications.
+
+
+5. Elk Grove Boulevard/Wymark Drive Signal
+The signalized intersection has been constructed with accessible curb ramps and an accommodation of
+the Elk Grove Boulevard multi-use pathway. This traffic signal will serve as the primary access to the
+hospital and supporting medical office buildings. The operations analysis shows that the intersection
+operates within City operational standards, though it was noted that the EGB multi-use pathway is
+treated similar to a typical crosswalk.
+
+
+6. Civic Center Drive/Wymark Drive All-Way Stop
+The all-way stop-controlled intersection of Civic Center Drive/Wymark Drive is constructed today and
+shows acceptable long-term operations in its current configuration. We note that colored and textured
+crosswalk treatments are in place for east-west crossings, but no crosswalks are present for north-
+south connections to the surrounding neighborhoods, and the orientation of the curb ramps does not
+readily accommodate this crossing.
+
+         Consider the addition of colored and textured pedestrian crossings north-south to connect the
+          new center to the existing neighborhoods.
+         With the addition of new crossings, new accessible ramps should also be constructed. This will
+          provide an approximately 42-foot pedestrian crossing versus the 60-foot crossing from the
+          current ramp locations.
+
+
+7. Costco Civic Center Shared Access
+With the layout of the site, Civic Center Drive serves as a secondary access route to the overall center, a
+secondary connection to the signalized arterial roadway system, and helps support delivery vehicle
+needs. The layout of the site de-emphasizes this route and provides the priority for access along Elk
+Grove Boulevard and Bruceville Road consistent with their classification.
+
+East of the Costco site an access is provided onto Civic Center Drive. This access will be shared with
+Dignity Health, replacing what was previously approved as a right-in, right-out access slightly offset
+from the all-way stop-controlled intersection. The layout of the site intentionally prevents a direct
+north-south cut-through route between Elk Grove Boulevard and Civic Center to avoid high speeds
+within the parking area.
+                                                      28                                Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                               February 2016
+Transportation Needs
+
+
+Several configuration options were explored at this access that would maintain separation between the
+Costco site and the adjacent medical uses. The future medical building areas opposite the Costco are
+primarily designated as loading areas; the western side of the medical site is not designed as patient or
+primary employee accesses. Following discussion with the overall project team and City staff, the
+concept in Figure 7 was identified as a potential configuration option as it maintained the separation of
+access required from Dignity Health. Review of traffic operations at the all-way stop-controlled
+intersection on Civic Center showed acceptable queuing and operations. However, specific
+improvement needs associated with this access were identified in subsequent discussions with City
+staff:
+
+         Extend the southbound queue storage area to accommodate additional cars without blocking
+          the access
+         Avoid channelizing inbound left-turns into the drive-aisle and increase the storage bay.
+         Modifications to the access will require review by Dignity Health but can be provided by
+          relocating the inbound left-turn lane to the north.
+
+It is recommended that the design and construction of this access be finalized with Dignity Health and
+the City of Elk Grove prior to occupancy.
+
+
+
+
+  Figure 7. Conceptual shared access layout.
+
+                                                      29                              Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                 February 2016
+Transportation Needs
+
+
+8. Civic Center Drive Central Retail Access
+The primary function of the Civic Center Drive central retail access is to accommodate Costco delivery
+vehicles and provide full-access to Civic Center for retail uses west of the Costco. The access also serves
+as a secondary access from the retail center to the signalized arterial system. No operational or queuing
+issues were identified at this intersection.
+
+
+9. Civic Center Drive West Access
+The location of the proposed right-in, right-out access onto Civic Center Drive is in close proximity to
+the signalized Bruceville Road/Civic Center intersection. It is recommended that a raised median be
+installed along Civic Center Drive to restrict this access to right-in, right-out only. This access was also
+shifted slightly east within the site plan to increase the spacing from the signal while maintaining
+delivery vehicle and patron access.
+
+
+10. Bruceville Road/Civic Center Signal
+The signalized intersection has been fully constructed with crosswalks, accessible curb ramps, and turn
+lanes in anticipation of the retail center. Volumes from Civic Center Drive are expected to remain below
+planned build-out levels, providing reserve capacity at this signal to support future development east of
+the site. No mitigation measures were identified to accommodate near-term needs; long-term
+restriping of the two-way center left-turn lane may be needed if westbound left-turn queues routinely
+extend beyond the striped storage bay.
+
+
+11. Bruceville Road Left-in, Right-in, Right-out Access
+The Bruceville Road Access is currently built as a stubbed driveway connection into the site. The access
+allows left-in, right-in, right-out access as currently configured, and already includes curb returns and a
+46-foot entry width. This connection is not planned as part of the initial Costco development to avoid
+reconstructing the access to place future utilities.
+
+Operational analysis shows that despite the relatively high inbound left-turning volumes, at full site
+build-out the access is projected to operate with low delays and short queues. The existing storage bays
+can accommodate the forecast 95th percentile storage needs during the weekday p.m. peak hour
+without additional extension, though more space is available should it be needed in the future. We
+recommend that this space be prioritized toward future extension of the northbound left-turn bays at
+the Elk Grove Boulevard/Bruceville Road intersection rather than extension of the left-in turn bay.
+Pedestrian crossing treatments that include a striped crosswalk and illumination are recommended
+along the Bruceville Road site frontage owing to the relatively wide curb radii, adjacent travel speeds,
+and approximately 70-foot crossing width as measured from the ramps. This treatment should be
+completed when the Bruceville Road connection into the site is made.
+
+
+                                                       30                               Kittelson & Associates, Inc.
+       The Ridge and Costco Transportation Impact Analysis                                                   February 2016
+       Transportation Needs
+
+
+       12. Bruceville Road Northern Right-in, Right-Out Access
+       The right-in, right-out access near the northwest corner of the site is located near the signalized
+       intersection with Elk Grove Boulevard and contains a six-lane northbound section. The access was
+       located south of the development of the northbound left-turn lanes onto Elk Grove Boulevard to
+       reduce weaving maneuvers. The right-in, right-out configuration will be enforced by the raised
+       channelization along Bruceville Road.
+
+
+       ELK GROVE BOULEVARD MULTI-USE PATHWAY DESIGN
+       A multi-use trail system extends along the Elk Grove Boulevard site frontage, providing bi-directional
+       use for pedestrians and cyclists. The proposed site plan shows three accesses from Elk Grove Boulevard,
+       which will conflict with trail users. Figure 8 includes a conceptual design that is recommended at the
+       unsignalized access locations.
+
+       While a driveway treatment at the accesses would be preferred to maintain the grade for pedestrians,
+       with the medical uses planned on the eastern portion of the site having a flat grade for patients was
+       imperative. It was also noted that the treatment at unsignalized intersections should be consistent
+       throughout the corridor to provide consistent messaging and behavior for pathway users and drivers.
+
+
+
+
+Figure 8. Recommended typical unsignalized access treatment options at a multi-use pathway intersection. Note that all
+treatments shown are intended to be conceptual in nature, detailed design plans subject to City review and approval
+will be required prior to construction.
+
+       The recommended multi-use pathway crossing treatments include the following:
+
+                Designation of a right-turn deceleration lane along Elk Grove Boulevard. This will provide a
+                 waiting area for motorists outside of the through travel lanes if there are conflicting trail users.
+                The new curb radius should be fairly tight (25 to 30 foot radius) to enforce a lower turning
+                 speed. The design of these curbs should consider delivery vehicle needs.
+
+                                                                31                               Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                  February 2016
+Transportation Needs
+
+
+         The pedestrian crossing should be located adjacent to the road. This will allow drivers on Elk
+          Grove Boulevard to assess whether pedestrians or cyclists are on the trail when making a
+          decision to turn right, and will maintain a clear view in both directions for motorists.
+         The multi-use trail ramp should encompass the full width of the trail (approximately 10 feet) to
+          maintain bi-directional use for cyclists at the crossings.
+         Bollards should be located within the multi-use trail near the crossing to prevent vehicle use of
+          the pathway.
+         Stop signs and intersection ahead signs should be installed on the path to warn trail users of the
+          intersection, supplemental pavement markings could also be considered.
+         Removal of roadside vegetation that could occlude views of trail users on the deceleration lane
+          approach. Within this area, overgrown trees and shrubs will need to be relocated or limbed to
+          maintain clear sight lines toward pedestrians and cyclists. Typically, this requires a clear view
+          with vegetation removal between a height of 2 feet and 8 feet.
+         Striped crosswalks along the trail alignment and textured pavement treatments within the
+          crossing. An advance stop bar should be located behind the crosswalk to avoid vehicle
+          encroachment into the trail crossing.
+
+         Signs should be installed along the Elk Grove Boulevard approach
+          such as MUTCD R10-15 (Turning Vehicles Yield to Pedestrians) as
+          shown in Figure 9.
+         Illumination design will require a photometric analysis to provide
+          adequate lighting of the conflict area within the crosswalk as well
+          as along the multi-use path approaches. The illumination is
+          intended to alert drivers to approaching cyclists and pedestrians
+          during dark or low-light conditions.                                 Figure 9. MUTCD R10-15.
+         As a supplemental option, a stencil within the Elk Grove right-turn
+          lane could be provided that states “YIELD TO PEDS” followed by the right-turn arrow.
+
+In addition, based on input and feedback from the Trails Committee the following mitigation measures
+were also incorporated:
+
+         All pathway signage should be oriented to two-way pedestrian travel.
+         Pavement at intersections along the multi-use trail should include a transition to routes into the
+          site through radius or 45-degree pavement treatments.
+
+The combination of these measures will improve visibility of trail users and reduce the potential for
+conflicts with motorists. An example of a multi-use trail that incorporates several of these elements
+(although at a midblock crossing) is provided in Figure 10.
+
+
+
+
+                                                        32                               Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                 February 2016
+Transportation Needs
+
+
+
+
+Figure 10. Example of Multi-use Trail Crossing Treatments (a midblock trail crossing is shown).
+
+
+INTERNAL SITE CIRCULATION
+This section identifies proposed changes to the internal site circulation based on detailed review of the
+site plan, trip generation characteristics and delivery needs of individual tenant spaces, and geometric
+considerations.
+
+
+Elk Grove Boulevard Deceleration Lanes
+The Elk Grove Boulevard frontage provides striped space outside of the travel lanes approximately 12
+feet in width. With the adjacent multi-use pathway parallel to Elk Grove Boulevard use of this space for
+bicycle lanes is unnecessary. While typically right-turn lane warrants could be assessed and used as the
+applicable criteria for installation of right-turn lanes, the circumstances in Elk Grove deviate from the
+assumptions behind a typical warrant analysis. The Harmelink plots typically cited for right-turn lane
+warrants assess generalized costs and benefits of roadway and crash reduction; however, in Elk Grove
+only restriping is necessary, and if the turn lanes were not striped, most drivers would use this space for
+a deceleration lane regardless. Accordingly, within this context it is recommended that the right-turn
+lanes are striped and designated as a right-turn only lane at each of the accesses. This will also provide
+a space for motorists to wait outside of the travel lanes while yielding to trail users.
+
+
+
+                                                      33                                Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                           February 2016
+Transportation Needs
+
+
+To prevent motorists from accelerating within the shoulder space it is further recommended that the
+curb lines beyond each of the accesses be moved north, requiring motorists to turn into the outermost
+through lane before tapering back for the next deceleration lane. This is currently provided through
+striping only; extension of the curbing would better enforce this configuration (and prevent through-
+lane use of the turn lane) but either treatment (extension of the curb or striping) could be used. This
+configuration may require breaks in the curbing to accommodate drainage needs, but could also help
+support lower travel speeds along Elk Grove Boulevard as the City indicated would be desirable as this
+area develops.
+
+
+Fuel Center Layout
+Review was conducted of the
+fuel center layout to ensure
+that         queuing         and
+ingress/egress can be safely
+accommodated. The primary
+concern with the location of
+the fuel center involved its
+connection to the east-west
+drive aisle in close proximity to
+the access to the new traffic
+signal. While this northern                              Closure of
+access provides a convenient                          northern fuel exit
+exit from the retail center onto
+Elk Grove Boulevard, as other
+retail uses develop to the west
+the queues on the internal
+east-west       approach     will
+commonly extend across the
+                                                   Drive aisle alignment
+closely-spaced access. Further,
+                                                  with eastern shift, north-
+by placing a higher burden on
+                                                     south stop control
+this internal intersection it
+would become necessary to
+configure this as an all-way
+stop. This could become
+problematic during peak times
+with the heavy inbound and
+outbound traffic volumes
+arriving in platoons from the                  Figure 11. Fuel Center and Internal Intersection Modifications.
+signal.     Accordingly,     the
+following is recommended:
+                                                                   34                             Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                 February 2016
+Transportation Needs
+
+
+         The northern fuel center exit should be closed as shown in Figure 11, forcing exiting traffic
+          toward the Costco Warehouse (studies show that the majority of Costco patrons that use the
+          fuel station do so before shopping at the warehouse).
+         The internal intersection should be two-way stop-controlled with stop signs on the east-west
+          approaches and free flow north-south. This will eliminate queue back-ups onto Elk Grove
+          Boulevard and will provide an unbroken stream of exiting traffic that will provide more efficient
+          egress from the retail center.
+
+Near the fuel center the drive-aisles were better aligned with the exit lane through an eastern shift in
+alignment, as is currently shown in the site plan and within Figure 11. Stop control on the north-south
+approaches will help avoid the potential for high speeds entering the parking area.
+
+
+Northeastern Drive-Through Retail Pads
+There are three retail buildings (four tenant spaces) within the retail area north of Costco that were
+reviewed, as illustrated in Figure 12. All three buildings currently identify a drive-through lane that
+would allow tenants such as banks, coffee stores, or fast-food restaurants. These types of uses are
+generally auto-centric and have a higher driveway trip generation rate than other similar retail tenants.
+In review of the layout, it was noted that typical drive-through space is provided for each of the
+buildings, which would allow approximately five or more vehicles to queue (depending on the specific
+location of the drive-through ordering location and pick-up window).
+
+
+
+
+                                                       35                               Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                            February 2016
+Transportation Needs
+
+
+
+
+                                                                                    Difficult entrance
+                                                                                     for southbound
+                                                                                   motorists from east
+
+
+
+
+                                                                 Offset
+                                                                 access
+
+
+
+
+Figure 12. Northeast retail pad circulation.
+
+Based on the circulatory direction at each of these buildings, a potential challenge we note is the
+southbound vehicles ability to make a U-turn and enter the drive-through serving the building in the
+northeast corner. It is recommended that one of the following options be provided prior to tenant
+approval:
+
+         Demonstration of the ability for a standard passenger car to complete this maneuver without
+          encroaching on the outbound lane (using AutoTurn or similar).
+         Westerly relocation of the drive-through entrance to accommodate a wider turning radius.
+         Closure of the eastern access to route patrons in from the nearby driveways.
+
+Secondly, it was noted that the drive-aisles from Costco are not aligned with the entrances to the pad
+buildings. The slightly offset drive-aisles impact direct pedestrian connectivity, though turning
+movement conflicts are not anticipated with the two-lane section.
+
+The final comment within this area relates to the undefined pedestrian connections within these pads
+and to the surrounding pathway/sidewalk system. The need for pedestrian connectivity improvements
+throughout the site is separately addressed within this report.
+
+
+
+                                                      36                           Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                               February 2016
+Transportation Needs
+
+
+North Central Retail Area
+An illustration of the north central retail area is provided in Figure 13 for context. The primary issue
+within this portion of the site is the widening to accommodate the left-turn lane into the Costco fuel
+center and the requisite tapers back to a two-lane section. Within this area it was noted that the
+channelization does not provide a clear “edge” to motorists as identified below. Minor curbing changes
+would be adequate to address this area as noted below.
+
+
+
+
+            Match radius
+             treatment                                Review
+                                                      curbing
+
+
+
+
+Figure 13. North central retail area.
+
+
+
+General Pedestrian Connectivity
+Review of the overall site plan noted that the internal pedestrian network between buildings was not
+well connected, with sidewalks ending abruptly and lack of connections between adjacent uses. Figure
+14 illustrates the pedestrian connections throughout the site (excluding Costco, as separately
+provided). This shows a comprehensive pedestrian network within the site.
+
+The following is recommended to improve pedestrian connectivity and ensure connections between
+the public sidewalks and building entrances:
+
+         Each site plan should include a detailed pedestrian plan that shows connections between all
+          buildings within the overall center, and connections to the public sidewalk and pathway system.
+
+                                                        37                            Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                    February 2016
+Transportation Needs
+
+
+         The location of stop bars should allow pedestrians to cross from the ramps in front of waiting
+          vehicles.
+         Pedestrian crossings should occur at intersections, and not be set back. This will allow motorists
+          to assess the conflicts before initiating a turning maneuver.
+         Signs (such as ADA signs), planters, utilities, light poles, and other street furniture or vegetation
+          should be carefully placed to maintain a clear width along sidewalks for carts, strollers, and
+          wheelchairs.
+         The sidewalks along public streets surrounding the retail site should identify the shortest routes
+          to the buildings and provide pedestrian accommodations along these routes where feasible.
+         Curb stops should be considered where the parking is adjacent to a curb-tight sidewalk to
+          prevent vehicle overhang, or a minimum 6-foot walkway width should be provided.
+
+The proposed Costco layout incorporates detailed review of the pedestrian system and provides an
+integrated network of walkways throughout the site. This includes major pedestrian pathways along
+the storefront that extend throughout the parking areas and provide connections in all directions.
+Further, the orientation of parking stalls was designed to allow Costco patrons to push carts to their
+vehicles without traveling between parked cars.
+
+The pedestrian system outside of the Costco parcel should allow the direct connection of Costco to the
+Elk Grove Boulevard multi-use trail system and adjacent uses, to reduce the need for site patrons to
+drive between adjacent buildings. While connections are currently shown in the plan, additional review
+and consideration of connections could be provided as specific building tenants and plans are finalized.
+
+
+
+
+                                                         38                                Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                                                      February 2016
+Transportation Needs
+
+
+
+
+                                                      Figure 14. Pedestrian Connectivity outside of Costco site plan.
+
+
+                                                                                                                        39   Kittelson & Associates, Inc.
+Findings and Recommendations
+The Ridge and Costco Transportation Impact Analysis                                                  February 2016
+Findings and Recommendations
+
+
+
+
+FINDINGS AND RECOMMENDATIONS
+Key findings of this analysis are as follows:
+
+         The proposed development is planned to contain approximately 400,000 square-feet of total
+          building area with full buildout.
+         The site will be developed in phases as tenants are identified. Costco and the fuel center will be
+          constructed as part of the initial site development.
+         The overall site is expected to generate approximately 2,641 trips at the driveways (1,599 net
+          new regional trips) with full site build-out.
+         A new traffic signal will be installed at the intersection of Elk Grove Boulevard/Ginther Drive.
+          Additional access will be provided to the overall center from Bruceville Road, Civic Center Drive,
+          and through right-in, right-out connections to Elk Grove Boulevard.
+         All of the study intersections will operate acceptably with full build-out in the year 2035 during
+          the critical weekday p.m. peak hour.
+         95th percentile queues during the weekday p.m. peak hour will extend beyond the available
+          storage in locations along the site frontage.
+         The Elk Grove Boulevard frontage will require modifications within the striped shoulder area.
+          This space will be needed for right-turn deceleration lanes to separate through and turning
+          traffic.
+         The new site access points along Elk Grove Boulevard will create conflicts with the Elk Grove
+          Boulevard multi-use pathway that will require mitigating treatments.
+
+General recommendations of this analysis are provided below:
+
+         The new signal at the Elk Grove Boulevard/Ginther Drive intersection should be designed to
+          maintain right-in, right-out access (with signalization) from the neighborhood to the north. Full
+          access should be provided from the retail center. The configuration of this signal will best
+          accommodate signal progression, maintain the existing travel patterns through the
+          neighborhood, avoid widening adjacent to residences, and provide direct pedestrian
+          connectivity between the neighborhood, retail center, and Elk Grove Boulevard multi-use trail
+          system.
+         Frontage improvements along Elk Grove Boulevard will be required to prevent use of the
+          striped area as an acceleration lane.
+         Left-turn bay extensions will be required along Elk Grove Boulevard to support the new traffic
+          signal at Ginther Drive and to provide more storage to accommodate the development.
+         The conceptual design of the Civic Center Drive/Babylon Drive – shared access should be
+          modified to increase the available storage while maintaining the same movement restrictions.
+          Development of the design will require coordination and approval from Dignity Health and the
+          City of Elk Grove.
+         A raised median should be installed along Civic Center Drive to restrict the westernmost access
+          to right-in, right-out access only.
+                                                        41                               Kittelson & Associates, Inc.
+The Ridge and Costco Transportation Impact Analysis                                                 February 2016
+Findings and Recommendations
+
+
+         New crossings of the Elk Grove Boulevard multi-use pathway should adhere to the treatment
+          options identified within this report to provide clear sight lines and improve visibility between
+          motorists and pedestrians. The proposed crossings prioritize pedestrian/cyclist use of the
+          pathway while providing measures to increase yielding and reduce the potential for conflicts.
+
+Pedestrian connectivity should be reviewed as part of individual tenant plans for the site to ensure
+direct connections are provided between buildings and to the public sidewalks and Elk Grove Boulevard
+multiuse pathway.
+
+We trust that this transportation impact analysis provides the necessary materials for the City to review
+the proposed development application. Please let us know if you have any questions or need any
+additional information to complete your review.
+
+
+
+
+APPENDICES
+Appendix A: Manual Turning Movement Counts
+Appendix B: Travel Demand Model Outputs and Land Use Assumptions
+Appendix C: Dignity Health Elk Grove Medical Campus
+Appendix D: Trip Generation Assumptions and Methods
+Appendix E: Cordon Area Trip Assignment, Weekday PM Peak Hour
+Appendix F: Synchro Analysis Worksheets
+
+
+
+
+                                                       42                               Kittelson & Associates, Inc.
+ 
+
+
+
+
+              APPENDIX A  
+    MANUAL TURNING MOVEMENT COUNTS 
+
+
+
+
+ 
+Type of peak hour being reported: Intersection Peak                                                   Method for determining peak hour: Total Entering Volume
+ LOCATION: Bruceville Rd -- Elk Grove Blvd                                                                                       QC JOB #: 13590422
+ CITY/STATE: Elk Grove, CA                                                                                                       DATE: Thu, Sep 24 2015
+                     1236          1133                            Peak-Hour: 5:00 PM -- 6:00 PM                                  1.0        0.8
+
+                     259 690 287
+                                                                  Peak 15-Min: 5:30 PM -- 5:45 PM
+                                                                                                                                  1.2 0.3 2.4
+
+
+       1565   393                         235    1808
+                                                                                                                     1.0   0.3                      1.7      1.0
+              1137          0.96          1154
+                                                                                                                           1.1                      1.0
+       1651   121                         419    1558
+                                                                                                                     0.8   0.0                      0.5      1.6
+
+                     136 476 179
+                                                                                                                                  0.0 0.8 3.4
+
+                     1230          791
+                                                                                                                                  0.3        1.3
+
+
+
+                             8                                                                                                     0    1    0
+
+
+
+                                                                                                                           0                          0
+
+              4                             3                                                                              0                          0
+
+                                                                                                                           0                          0
+
+                             1                                                                                                     0    0    0
+
+
+
+
+                            NA                                                                                                          NA
+
+
+
+
+              NA                           NA                                                                              NA                       NA
+
+
+
+
+                            NA                                                                                                          NA
+
+
+
+ 5-Min Count                Bruceville Rd                      Bruceville Rd               Elk Grove Blvd            Elk Grove Blvd                Total      Hourly
+     Period                 (Northbound)                       (Southbound)                 (Eastbound)               (Westbound)                             Totals
+ Beginning At Left           Thru Right     U           Left    Thru Right    U       Left Thru Right       U   Left Thru Right     U
+    4:00 PM     17            18     14     0            23      37     16     2       26    85     12      0    19    83     14    0              366
+    4:05 PM     11            53     14     0             8      51     25     3       33    51      6      1    41    61     14    0              372
+    4:10 PM     11            12     19     0            13      33     14     8       19   107      9      3    27   109     18    0              402
+    4:15 PM     15            49     12     0            27      79     25     5       13    49      6      2    30    58     16    1              387
+    4:20 PM      9            19     15     0            17      25     18     5       30    86     10      2    40    89     12    1              378
+    4:25 PM     11            33     13     0            12      76     24     4       29    52     10      3    35    82      9    0              393
+    4:30 PM      8            21      9     0            20      46     13     4        9   101     18      1    19   115     12    0              396
+    4:35 PM      7            41     16     0            12      66     21     1       27    56      6      1    40    71     12    0              377
+    4:40 PM      5            28     16     0            21      33     17     6       22    97     17      1    22    97     26    0              408
+    4:45 PM      5            52     14     0             8      65     16     4       28    63     11      2    34    73     17    0              392
+    4:50 PM     14            36     15     1            19      33     23     7       27    93     13      0    48    81     19    0              429
+    4:55 PM     14            42     13     1            16      61     19     6       30    80     13      0    26    58     11    0              390            4690
+    5:00 PM     14            31     13     0            28      44     24     2       27    66     11      3    24   106     27    0              420            4744
+    5:05 PM      8            50     18     0            15      58     23     6       29    90     17      2    43    96     20    0              475            4847
+    5:10 PM     10            37      9     0            20      39     21     4       24   131      8      0    22    96     19    0              440            4885
+    5:15 PM     13            60     13     0            18      65     17     3       34    89      9      0    30    67     21    1              440            4938
+    5:20 PM      9            35      7     1            15      54     10     7       34   130     12      2    32   106     19    0              473            5033
+    5:25 PM     11            45     23     0            18      84     24     4       38    72      5      2    35    83     15    0              459            5099
+    5:30 PM     20            20     10     0            22      39     16     6       28   115      9      1    32   114     23    0              455            5158
+    5:35 PM      7            60     14     0            24      65     19     1       34    58      7      0    60    95     20    0              464            5245
+    5:40 PM     12            31     20     0            26      54     26     7       27   123     16      1    24   123     22    0              512            5349
+    5:45 PM      8            35     20     0            22      60     30     0       40    74      5      3    32    73     17    0              419            5376
+    5:50 PM     15            35     17     0            21      61     27     4       28    83      9      0    35   109     17    0              461            5408
+    5:55 PM      8            37     15     0            12      67     22     2       33   106     13      3    49    86     15    0              468            5486
+ Peak 15-Min                     Northbound                         Southbound                  Eastbound                 Westbound
+   Flowrates   Left          Thru Right     U           Left    Thru Right    U       Left Thru Right       U   Left Thru Right     U                     Total
+  All Vehicles 156          444     176     0           288     632    244   56       356 1184     128      8   464 1328     260    0                     5724
+ Heavy Trucks    0             8      8                  12       0      0              4    20      0            4     8      4                           68
+  Pedestrians                  4                                 12                           4                         4                                  24
+    Bicycles     0             0      0                   0       0      0              0     0      0            0     0      0                            0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 9/30/2015 10:57 AM                                             SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                    Method for determining peak hour: Total Entering Volume
+ LOCATION: Wymark Dr -- Elk Grove Blvd                                                                                            QC JOB #: 13590423
+ CITY/STATE: Elk Grove, CA                                                                                                        DATE: Tue, Sep 22 2015
+                         90          138                            Peak-Hour: 4:55 PM -- 5:55 PM                                  0.0        0.7
+
+                         15    10    65
+                                                                   Peak 15-Min: 4:55 PM -- 5:10 PM
+                                                                                                                                   0.0 0.0 0.0
+
+
+       1735   19                            116   1826
+                                                                                                                      0.8   0.0                      0.9      0.8
+              1320            0.96         1687
+                                                                                                                            1.4                      0.8
+       1383   44                             23   1427
+                                                                                                                      1.3   0.0                      0.0      1.3
+
+                         29    7     40
+                                                                                                                                   0.0 0.0 0.0
+
+                         75          76
+                                                                                                                                   0.0        0.0
+
+
+
+                               0                                                                                                    0    0    0
+
+
+
+                                                                                                                            0                          0
+
+              0                               3                                                                             0                          0
+
+                                                                                                                            0                          0
+
+                               1                                                                                                    1    0    0
+
+
+
+
+                              NA                                                                                                         NA
+
+
+
+
+              NA                            NA                                                                              NA                       NA
+
+
+
+
+                              NA                                                                                                         NA
+
+
+
+ 5-Min Count                   Wymark Dr                         Wymark Dr                   Elk Grove Blvd            Elk Grove Blvd               Total      Hourly
+     Period                   (Northbound)                      (Southbound)                  (Eastbound)               (Westbound)                            Totals
+ Beginning At      Left        Thru Right     U          Left    Thru Right    U        Left Thru Right       U   Left Thru Right     U
+    4:00 PM         2            0      2     0            6       3      2     0         3   115      2      1     6   115      6    0             263
+    4:05 PM         5            1      5     0            3       0      1     0         1   116      1      0     1   143      7    0             284
+    4:10 PM         1            1      3     0            2       1      1     0         0    84      4      0     8   145      6    0             256
+    4:15 PM         0            2      5     0            0       1      1     0         0   115      6      0     4   156      4    0             294
+    4:20 PM         2            0      0     0            3       1      0     0         4    89      3      0     3   102      4    0             211
+    4:25 PM         0            0      4     0            4       1      0     0         1    94      1      0     4   129      7    0             245
+    4:30 PM         1            0      7     0            8       0      2     0         0   110      4      0     2   128      7    0             269
+    4:35 PM         2            0      4     0            4       0      0     0         0   101      1      1     0   162      9    1             285
+    4:40 PM         4            0      2     0            8       1      0     0         2    94      2      0     3   109      8    1             234
+    4:45 PM         1            1      4     0            6       1      0     0         1   117      6      0     0   153      8    0             298
+    4:50 PM         1            1      9     0           10       1      1     0         3    69      4      1     4   133     10    0             247
+    4:55 PM         0            0      4     0            3       0      1     0         0   117      4      0     2   177     14    0             322            3208
+    5:00 PM         7            0      4     0            6       0      1     0         2    87      2      1     2   112      9    0             233            3178
+    5:05 PM         4            1      7     0            3       2      1     0         1   118      3      0     1   164     15    0             320            3214
+    5:10 PM         2            3      2     0            7       0      1     0         1   119      2      0     2   123      6    0             268            3226
+    5:15 PM         3            1      7     0            4       0      2     0         1    98      4      0     0   123      6    0             249            3181
+    5:20 PM         0            0      2     0           10       0      1     0         1   110      3      1     2   147     12    0             289            3259
+    5:25 PM         1            0      3     0            6       1      2     0         0   100      8      0     2   157     10    0             290            3304
+    5:30 PM         3            0      2     0            6       2      0     0         1    87      5      0     3   127     10    1             247            3282
+    5:35 PM         4            1      2     0            1       0      1     0         0   121      4      0     1   147     12    1             295            3292
+    5:40 PM         4            0      3     0            6       3      0     0         4    73      1      1     2   120      6    0             223            3281
+    5:45 PM         0            0      2     0            9       1      2     0         3   142      7      1     4   174      9    0             354            3337
+    5:50 PM         1            1      2     0            4       1      3     0         1   148      1      0     0   116      7    0             285            3375
+    5:55 PM         1            2      2     0            7       0      2     0         1   107      5      1     1   141      6    0             276            3329
+ Peak 15-Min                       Northbound                        Southbound                   Eastbound                 Westbound
+   Flowrates       Left        Thru Right     U          Left    Thru Right    U        Left Thru Right       U   Left Thru Right     U                    Total
+  All Vehicles      44           4     60     0           48       8     12     0        12 1288      36      4    20 1812     152    0                    3500
+ Heavy Trucks        0           0      0                  0       0      0               0    16      0            0    20      0                          36
+  Pedestrians                    0                                 0                            0                         4                                  4
+    Bicycles         1           0      0                 0        0      0               0     0      0            0     0      0                           1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 9/30/2015 10:57 AM                                              SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                 Method for determining peak hour: Total Entering Volume
+ LOCATION: Big Horn Blvd -- Elk Grove Blvd                                                                                     QC JOB #: 13590424
+ CITY/STATE: Elk Grove, CA                                                                                                     DATE: Tue, Sep 22 2015
+                     726          557                            Peak-Hour: 5:00 PM -- 6:00 PM                                  0.3        0.9
+
+                     242 322 162
+                                                                Peak 15-Min: 5:45 PM -- 6:00 PM
+                                                                                                                                0.0 0.6 0.0
+
+
+       1844   232                        193   1950
+                                                                                                                   0.8   0.9                      0.0      0.7
+              1107         0.96         1449
+                                                                                                                         1.7                      0.9
+       1430   91                         308   1432
+                                                                                                                   1.5   0.0                      0.0      1.4
+
+                     84 195 158
+                                                                                                                                1.2 1.5 0.6
+
+                     710          437
+                                                                                                                                0.3        1.1
+
+
+
+                            3                                                                                                    0    1    0
+
+
+
+                                                                                                                         0                          0
+
+              3                            0                                                                             0                          0
+
+                                                                                                                         0                          0
+
+                            5                                                                                                    0    2    0
+
+
+
+
+                           NA                                                                                                         NA
+
+
+
+
+              NA                         NA                                                                              NA                       NA
+
+
+
+
+                           NA                                                                                                         NA
+
+
+
+ 5-Min Count               Big Horn Blvd                     Big Horn Blvd               Elk Grove Blvd            Elk Grove Blvd                Total      Hourly
+     Period                (Northbound)                      (Southbound)                 (Eastbound)               (Westbound)                             Totals
+ Beginning At Left          Thru Right     U          Left    Thru Right    U       Left Thru Right      U    Left Thru Right      U
+    4:00 PM      4           11     16     0            8      26     22     0       23    51      9     8     19    91     25     3             316
+    4:05 PM      8           28     11     0           13      20     14     2       11   123      8     5     18   131     20     0             412
+    4:10 PM      5           10     12     0           12      20     34     0       12    69      4     4     22   116     14     0             334
+    4:15 PM      6           13     18     0           14      23     26     0        7    95      8     4      9   121     19     1             364
+    4:20 PM      6           15     11     0           13      20     12     0       15    92      4     8     22    96     13     1             328
+    4:25 PM      7           12     11     0           19      26     23     1       13    55      1     3     11   108     12     0             302
+    4:30 PM      2           18     10     0            7      19     16     0       19   107      6     5     19   113     19     3             363
+    4:35 PM     10           15     11     0           21      18     26     0        9    74     10     4     16   133     18     1             366
+    4:40 PM      7           17     12     0           13      26     11     0       22    93      2     5     27   113     18     1             367
+    4:45 PM      6           13     16     0           23      21     26     1       12   108      5     3     14   118     23     0             389
+    4:50 PM      4           10     13     0            6      14     17     0       11    73      3     4     25   138     15     0             333
+    4:55 PM      6           20     20     0           15      21     23     0       13    77      2     4     13   147     14     0             375            4249
+    5:00 PM      8            9     12     0            7      27     26     0       13    95      8     8     25   107     14     3             362            4295
+    5:05 PM      6           21     11     0           15      19     24     1       15    90      9     1     15   129     17     0             373            4256
+    5:10 PM      2           10      8     0           14      25     14     0       23   104      6     4     37   118     10     0             375            4297
+    5:15 PM     10           14     11     0           20      33     19     1       10    94      8     4      9   102     21     1             357            4290
+    5:20 PM      5           14      9     0           18      37     23     0       14    75      5     6     32   138     18     2             396            4358
+    5:25 PM      7           18     13     0           14      22     21     1       13    93      7     4     23   128     22     0             386            4442
+    5:30 PM      3            7     12     0            7      34     14     1       15    85      3    10     32   134     17     2             376            4455
+    5:35 PM      9           12     14     0           16      21     27     1       10    88     11     4     21   106     17     0             357            4446
+    5:40 PM      9           24     14     0            7      32     14     0       16    67      6     5     41   124     16     0             375            4454
+    5:45 PM      8           13     16     0           14      24     20     0       11    91      8     6     19   148     14     1             393            4458
+    5:50 PM      8           31     25     0           13      27     22     0       16   118      9    10     22    95     19     1             416            4541
+    5:55 PM      9           22     13     0           11      21     18     1        7   107     11     7     21   120      8     1             377            4543
+ Peak 15-Min                    Northbound                        Southbound                  Eastbound                 Westbound
+   Flowrates   Left         Thru Right     U          Left    Thru Right    U       Left Thru Right      U    Left Thru Right      U                    Total
+  All Vehicles 100         264     216     0          152     288    240     4      136 1264     112    92    248 1452     164    12                    4744
+ Heavy Trucks    0            0      0                  0       4      0              0    16      0            0     4      0                           24
+  Pedestrians                 4                                 4                           4                         0                                  12
+    Bicycles     0            2      0                  0       0      0              0     0      0            0     0      0                            2
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 9/30/2015 10:57 AM                                           SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Laguna Springs Dr -- Elk Grove Blvd                                                                                QC JOB #: 13590425
+ CITY/STATE: Elk Grove, CA                                                                                                    DATE: Tue, Sep 22 2015
+                     314          225                            Peak-Hour: 5:00 PM -- 6:00 PM                                 1.6        0.9
+
+                     117 73 124
+                                                                Peak 15-Min: 5:15 PM -- 5:30 PM
+                                                                                                                               0.0 0.0 4.0
+
+
+       1961   94                          87   1978
+                                                                                                                  0.6   1.1                      1.1      0.6
+              1286         0.94         1752
+                                                                                                                        1.4                      0.6
+       1421   41                         139   1558
+                                                                                                                  1.3   0.0                      0.0      1.7
+
+                      79    57 148
+                                                                                                                               2.5 0.0 2.0
+
+                     253          284
+                                                                                                                               0.0        1.8
+
+
+
+                            0                                                                                                   0    1    0
+
+
+
+                                                                                                                        0                          0
+
+              12                           0                                                                            0                          0
+
+                                                                                                                        0                          1
+
+                            2                                                                                                   0    0    0
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+
+              NA                         NA                                                                             NA                       NA
+
+
+
+
+                           NA                                                                                                        NA
+
+
+
+ 5-Min Count           Laguna Springs Dr                  Laguna Springs Dr              Elk Grove Blvd            Elk Grove Blvd               Total      Hourly
+     Period              (Northbound)                       (Southbound)                  (Eastbound)               (Westbound)                            Totals
+ Beginning At      Left Thru Right       U            Left Thru Right       U       Left Thru Right       U   Left Thru Right     U
+    4:00 PM         11     6     14      0             14      8      9     0         6    68      4      1     6   143      9    2             301
+    4:05 PM          6     9      7      0             10      5      7     0        15   106      0      0    18   113      7    1             304
+    4:10 PM          8     2     10      0             11      7     10     0         4   104      1      0     7   163      7    0             334
+    4:15 PM          4     5     16      0              6      7     11     0         8   110      5      3     8   110      6    0             299
+    4:20 PM          4     4      9      0             12      4      7     0         8    95      4      3     1   150      6    0             307
+    4:25 PM          4     3     10      0              7      7     12     0         7    84      2      1    10   133      7    0             287
+    4:30 PM          4     5     15      0              8      2      5     0         6   108      1      0     3   127      9    0             293
+    4:35 PM          5    10     13      0             15      8     12     0        10   107      2      5     8   140      7    0             342
+    4:40 PM          6     5     13      0             20      4     12     0         9    99      4      2    12   154     10    2             352
+    4:45 PM          7    10      6      0             13      6      7     0         8   126      2      5     9   131      7    0             337
+    4:50 PM          5     6     12      0              9      5      9     0         4    97      1      1     6   194      7    0             356
+    4:55 PM          5     8      9      0              9      7      9     0         8    84      3      1     9   120      5    2             279            3791
+    5:00 PM          8     5      7      0              4      0     15     0         6   108      3      0     2   141      5    0             304            3794
+    5:05 PM          8     1     10      0             16      7     10     0         5   119      2      1     8   129      6    0             322            3812
+    5:10 PM          3     6     15      0             11      1     16     0         6   114      3      1     7   132      6    0             321            3799
+    5:15 PM         12     9     13      0             19      5     11     0         8    86      2      1    15   154      9    0             344            3844
+    5:20 PM          3     3     12      0             11      7      7     0         5   117      2      0     8   186      8    0             369            3906
+    5:25 PM          2     7     11      0              9     10     14     0         7   119      4      1    10   144     11    0             349            3968
+    5:30 PM         14     4     10      0             15      6      9     0         7    76      2      0     8   139      5    0             295            3970
+    5:35 PM          7     4     12      0              7     15      7     0         5    92      3      2    24   132      9    0             319            3947
+    5:40 PM          9     5     15      0              6      4      5     0         8    98      4      1    13   165     10    0             343            3938
+    5:45 PM          2     3     15      0              9      9      8     0         8   106      4      2    17   156      4    0             343            3944
+    5:50 PM          7     4     18      0              7      3      8     0         7   130     10      1    11   142      6    0             354            3942
+    5:55 PM          4     6     10      0             10      6      7     0         9   121      2      3    16   132      8    0             334            3997
+ Peak 15-Min                 Northbound                          Southbound                   Eastbound                 Westbound
+   Flowrates       Left Thru Right       U            Left Thru Right       U       Left Thru Right       U   Left Thru Right     U                    Total
+  All Vehicles      68    76    144      0            156     88    128     0        80 1288      32      8   132 1936     112    0                    4248
+ Heavy Trucks        0     0      0                     0      0      0               0    16      0            0    12      4                          32
+  Pedestrians              4                                   0                            0                         0                                  4
+    Bicycles         0     0      0                     0      0      0               0     0      0            0     0      0                           0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 9/30/2015 10:57 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                           Method for determining peak hour: Total Entering Volume
+ LOCATION: Bruceville Rd -- Civic Center Dr/Backer Ranch Rd                                                               QC JOB #: 13590426
+ CITY/STATE: Elk Grove, CA                                                                                                DATE: Tue, Sep 22 2015
+                    1077          730                        Peak-Hour: 4:45 PM -- 5:45 PM                                 0.4        0.7
+
+                       63 971 43
+                                                            Peak 15-Min: 5:05 PM -- 5:20 PM
+                                                                                                                           0.0 0.4 0.0
+
+
+       201   42                         53   187
+                                                                                                              0.5   2.4                     0.0   1.1
+             55            0.94         61
+                                                                                                                    0.0                     0.0
+       182   85                         73   131
+                                                                                                              0.5   0.0                     2.7   0.0
+
+                       94 619 49
+                                                                                                                           1.1 0.6 0.0
+
+                    1146          762
+                                                                                                                           0.5        0.7
+
+
+
+                            2                                                                                               0    1    0
+
+
+
+                                                                                                                    0                        0
+
+             3                           1                                                                          0                        0
+
+                                                                                                                    1                        0
+
+                            0                                                                                               0    0    0
+
+
+
+
+                           NA                                                                                                    NA
+
+
+
+
+             NA                         NA                                                                          NA                      NA
+
+
+
+
+                           NA                                                                                                    NA
+
+
+
+ 5-Min Count               Bruceville Rd                Bruceville Rd     Civic Center Dr/Backer RanchCivic
+                                                                                                       Rd Center Dr/Backer Ranch RdTotal      Hourly
+     Period                (Northbound)                 (Southbound)               (Eastbound)                (Westbound)                      Totals
+ Beginning At     Left      Thru Right     U       Left Thru Right     U     Left Thru Right       U     Left Thru Right     U
+    4:00 PM         4        55      3     1         5    74      0     0      4      6      5     0       1    4      4     0     166
+    4:05 PM         8        52      6     1         3    81      4     0      4      0      4     0       2    6      0     0     171
+    4:10 PM         6        31      1     3         3    78      5     1      2      2      6     0       4   10      3     0     155
+    4:15 PM         6        52      6     2         2    81      3     3      3      4      7     0       5    5      3     0     182
+    4:20 PM         8        45      4     2         3    63      4     1      3      5      3     0       6    5      2     0     154
+    4:25 PM         1        48      5     0         2    72      3     1      4      3     10     0       1    3      2     0     155
+    4:30 PM         2        53      6     1         1    72      8     2      5      6      7     0       8    5      1     0     177
+    4:35 PM         8        61      5     0         0    83      8     6      1      5      7     0       3    1      3     0     191
+    4:40 PM         4        49      3     0         1    73      3     0      4      2      6     0       5   15      4     0     169
+    4:45 PM         5        59      4     1         6    89      4     1      2      4      7     0       3    3      3     0     191
+    4:50 PM        10        51      9     4         0    58      0     4      8      2      8     0       8    4      4     0     170
+    4:55 PM         8        62      5     1         4    80      5     0      4      5      3     0       1    7      2     0     187         2068
+    5:00 PM         3        41      4     0         1    78     11     1      3      4      6     0       6    9      5     0     172         2074
+    5:05 PM         8        63      4     2         4    75      5     0      4      9      8     0       8    0      6     0     196         2099
+    5:10 PM         7        51      2     0         2   111      3     0      2      8      9     0       3    2      3     0     203         2147
+    5:15 PM         5        48      4     1         2    85      6     2      5      6      7     0       8    5      5     0     189         2154
+    5:20 PM         8        44      1     1         0    72      3     1      3      4      7     0       6    4      5     0     159         2159
+    5:25 PM         6        47      6     2         4    82      6     3      1      5      6     0       4    6      5     0     183         2187
+    5:30 PM         2        46      3     1         0    75      6     2      3      3      9     0      11   14      5     0     180         2190
+    5:35 PM        11        65      4     3         3    57      3     1      4      4     10     0       4    4      4     0     177         2176
+    5:40 PM         4        42      3     1         1   109     11     1      3      1      5     0      11    3      6     0     201         2208
+    5:45 PM         7        50      1     2         2    90      2     2      3      3      4     0       1    7      5     0     179         2196
+    5:50 PM         7        59      3     0         4    69      5     0      5      2     10     0       5    3      4     0     176         2202
+    5:55 PM         4        41      4     1         4    74      6     1      4      4      8     0       3    8      2     0     164         2179
+ Peak 15-Min                    Northbound                   Southbound                 Eastbound                 Westbound
+   Flowrates      Left      Thru Right     U       Left Thru Right     U     Left Thru Right       U     Left Thru Right     U           Total
+  All Vehicles     80      648      40   12         32 1084      56     8     44     92     96     0      76   28     56     0          2352
+ Heavy Trucks       0         4      0               0     0      0            0      0      0             0    0      0                  4
+  Pedestrians                 0                            0                          0                         0                         0
+    Bicycles       0          0      0               0     0      0            0      0      0             0    0      0                  0
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 9/30/2015 10:57 AM                                   SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                                Method for determining peak hour: Total Entering Volume
+ LOCATION: Babylon Dr -- Civic Center Dr                                                                                       QC JOB #: 13590428
+ CITY/STATE: Elk Grove, CA                                                                                                     DATE: Tue, Sep 22 2015
+                         0          0                           Peak-Hour: 4:45 PM -- 5:45 PM                                   0.0        0.0
+
+                         0    0     0
+                                                               Peak 15-Min: 5:25 PM -- 5:40 PM
+                                                                                                                                0.0 0.0 0.0
+
+
+       188   0                             0   200
+                                                                                                                   0.5   0.0                      0.0       0.5
+             112             0.92        164
+                                                                                                                         0.0                      0.6
+       132   20                           36   130
+                                                                                                                   0.0   0.0                      0.0       0.0
+
+                       24     0     18
+                                                                                                                                0.0 0.0 0.0
+
+                       56           42
+                                                                                                                                0.0        0.0
+
+
+
+                              0                                                                                                  0    0    0
+
+
+
+                                                                                                                         0                          0
+
+             1                             0                                                                             0                          0
+
+                                                                                                                         0                          1
+
+                              1                                                                                                  0    0    0
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+
+             NA                          NA                                                                              NA                       NA
+
+
+
+
+                             NA                                                                                                       NA
+
+
+
+ 5-Min Count                  Babylon Dr                     Babylon Dr                  Civic Center Dr            Civic Center Dr              Total       Hourly
+     Period                  (Northbound)                   (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left        Thru Right     U       Left    Thru Right    U        Left Thru Right        U   Left Thru Right      U
+    4:00 PM        2            0      1     0        0        0      0     0        0     12       0      0     1     8       0    0             24
+    4:05 PM        0            0      0     0        0        0      0     0        0      9       2      0     6     8       0    0             25
+    4:10 PM        2            0      2     0        0        0      0     0        0      5       1      0     0    14       0    0             24
+    4:15 PM        1            0      1     0        0        0      0     0        0     10       1      0     3    12       0    0             28
+    4:20 PM        1            0      1     0        0        0      0     0        0      9       4      0     3    12       0    0             30
+    4:25 PM        1            0      3     0        0        0      0     0        0      8       2      0     4     5       0    0             23
+    4:30 PM        1            0      0     0        0        0      0     0        0     13       1      0     2    13       0    0             30
+    4:35 PM        1            0      1     0        0        0      0     0        0      8       2      0     1     9       0    0             22
+    4:40 PM        3            0      2     0        0        0      0     0        0      4       1      0     3    18       0    0             31
+    4:45 PM        1            0      0     0        0        0      0     0        0     12       2      0     5     9       0    0             29
+    4:50 PM        2            0      1     0        0        0      0     0        0     11       0      0     4    14       0    0             32
+    4:55 PM        0            0      2     0        0        0      0     0        0     13       2      0     2     9       0    0             28              326
+    5:00 PM        2            0      0     0        0        0      0     0        0      7       2      0     3    20       0    0             34              336
+    5:05 PM        1            0      1     0        0        0      0     0        0     15       2      0     1    11       0    0             31              342
+    5:10 PM        2            0      2     0        0        0      0     0        0      6       4      0     4    13       0    0             31              349
+    5:15 PM        3            0      3     0        0        0      0     0        0     13       1      0     2    14       0    0             36              357
+    5:20 PM        0            0      2     0        0        0      0     0        0      4       1      0     2     9       0    0             18              345
+    5:25 PM        2            0      1     0        0        0      0     0        0     11       4      0     4    21       0    0             43              365
+    5:30 PM        3            0      2     0        0        0      0     0        0      4       1      0     1    18       0    0             29              364
+    5:35 PM        2            0      0     0        0        0      0     0        0     11       0      0     4    13       0    0             30              372
+    5:40 PM        6            0      4     0        0        0      0     0        0      5       1      0     4    13       0    0             33              374
+    5:45 PM        1            0      1     0        0        0      0     0        0      4       2      0     1    17       0    0             26              371
+    5:50 PM        1            0      5     0        0        0      0     0        0      7       1      0     2     6       0    0             22              361
+    5:55 PM        1            0      0     0        0        0      0     0        0      9       0      0     2    12       0    0             24              357
+ Peak 15-Min                      Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left        Thru Right     U       Left    Thru Right    U        Left Thru Right        U   Left Thru Right      U                    Total
+  All Vehicles     28           0     12     0        0        0      0     0        0    104     20       0    36   208       0    0                    408
+ Heavy Trucks       0           0      0              0        0      0              0      0       0            0     0       0                          0
+  Pedestrians                   0                              0                            4                          0                                  4
+    Bicycles       0            0      0              0        0      0              0      0       0            1     0       0                          1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 9/30/2015 10:57 AM                                          SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                               Method for determining peak hour: Total Entering Volume
+ LOCATION: Wymark Dr -- Civic Center Dr                                                                                       QC JOB #: 13590430
+ CITY/STATE: Elk Grove, CA                                                                                                    DATE: Tue, Sep 22 2015
+                       83          31                          Peak-Hour: 4:45 PM -- 5:45 PM                                   0.0        0.0
+
+                       19    40    24
+                                                              Peak 15-Min: 5:25 PM -- 5:40 PM
+                                                                                                                               0.0 0.0 0.0
+
+
+       199   9                            3   188
+                                                                                                                  0.5   0.0                      0.0       0.5
+             104            0.88        163
+                                                                                                                        0.0                      0.6
+       130   17                          22   140
+                                                                                                                  0.0   0.0                      0.0       0.0
+
+                       17    19    12
+                                                                                                                               0.0 0.0 0.0
+
+                       79          48
+                                                                                                                               0.0        0.0
+
+
+
+                             1                                                                                                  0    0    0
+
+
+
+                                                                                                                        0                          0
+
+             1                            0                                                                             0                          1
+
+                                                                                                                        0                          0
+
+                             1                                                                                                  0    1    0
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+
+             NA                         NA                                                                              NA                       NA
+
+
+
+
+                            NA                                                                                                       NA
+
+
+
+ 5-Min Count                 Wymark Dr                      Wymark Dr                   Civic Center Dr            Civic Center Dr              Total       Hourly
+     Period                 (Northbound)                   (Southbound)                  (Eastbound)                (Westbound)                             Totals
+ Beginning At     Left       Thru Right     U       Left    Thru Right    U        Left Thru Right        U   Left Thru Right      U
+    4:00 PM        1           1      2     0        1        4      2     0        0     10       1      0     0     6       0    0             28
+    4:05 PM        1           1      0     0        1        0      2     0        1      7       3      0     3    11       1    0             31
+    4:10 PM        1           3      0     0        0        5      1     0        0      8       0      0     0    12       0    0             30
+    4:15 PM        0           1      1     0        2        5      3     0        2      5       1      0     0    12       0    0             32
+    4:20 PM        2           0      1     0        2        2      1     0        0      8       1      0     3    11       0    0             31
+    4:25 PM        1           0      2     0        0        2      3     0        1     12       1      0     2     6       1    0             31
+    4:30 PM        0           0      2     0        1        2      2     0        1      7       1      0     3    12       0    0             31
+    4:35 PM        2           2      3     0        1        2      0     0        0     11       1      0     1    10       1    0             34
+    4:40 PM        1           1      3     0        0        2      0     0        0      6       1      0     1    19       0    0             34
+    4:45 PM        0           3      0     0        2        4      5     0        0      9       1      0     2    10       0    0             36
+    4:50 PM        1           0      0     0        2        3      2     0        2     12       0      0     2    15       0    0             39
+    4:55 PM        1           0      1     0        0        3      0     0        2      9       3      0     1     9       0    0             29              386
+    5:00 PM        2           2      1     0        2        4      2     0        0      4       2      0     1    18       0    0             38              396
+    5:05 PM        3           3      1     0        4        3      3     0        0     14       2      0     0     7       1    0             41              406
+    5:10 PM        1           2      2     0        2        2      2     0        0      7       3      0     4    14       0    0             39              415
+    5:15 PM        1           2      1     0        2        2      0     0        2     11       1      0     0    15       0    0             37              420
+    5:20 PM        0           0      2     0        0        2      1     0        1      6       1      0     3    10       1    0             27              416
+    5:25 PM        3           1      0     0        4        5      1     0        0     10       0      0     2    21       0    0             47              432
+    5:30 PM        1           1      2     0        1        7      0     0        0      8       1      0     4    18       1    0             44              445
+    5:35 PM        2           5      0     0        4        1      2     0        0      8       1      0     1    13       0    0             37              448
+    5:40 PM        2           0      2     0        1        4      1     0        2      6       2      0     2    13       0    0             35              449
+    5:45 PM        1           1      0     0        1        6      1     0        0      5       0      0     5    16       0    0             36              449
+    5:50 PM        1           1      2     0        1        3      2     0        1      8       1      0     0     6       1    0             27              437
+    5:55 PM        2           1      2     0        1        2      0     0        0      8       0      0     1    12       1    0             30              438
+ Peak 15-Min                     Northbound                     Southbound                    Eastbound                  Westbound
+   Flowrates      Left       Thru Right     U       Left    Thru Right    U        Left Thru Right        U   Left Thru Right      U                    Total
+  All Vehicles     24         28      8     0        36      52     12     0        0    104       8      0    28   208       4    0                    512
+ Heavy Trucks       0          0      0               0       0      0              0      0       0            0     0       0                          0
+  Pedestrians                  0                              0                            0                          0                                  0
+    Bicycles       0           0      0              0        0      0              0      0       0            0     1       0                          1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 9/30/2015 10:57 AM                                         SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
+Type of peak hour being reported: Intersection Peak                                            Method for determining peak hour: Total Entering Volume
+ LOCATION: Big Horn Blvd -- Civic Center Dr                                                                                QC JOB #: 13590432
+ CITY/STATE: Elk Grove, CA                                                                                                 DATE: Tue, Sep 22 2015
+                    710          440                        Peak-Hour: 5:00 PM -- 6:00 PM                                   0.0        0.7
+
+                    133 563 14
+                                                           Peak 15-Min: 5:40 PM -- 5:55 PM
+                                                                                                                            0.0 0.0 0.0
+
+
+       214   59                         9   66
+                                                                                                               0.0   0.0                      0.0      0.0
+             44           0.90         53
+                                                                                                                     0.0                      0.0
+       132   29                         4   66
+                                                                                                               0.0   0.0                      0.0      0.0
+
+                       28 372     8
+                                                                                                                            0.0 0.8 0.0
+
+                    596          408
+                                                                                                                            0.0        0.7
+
+
+
+                           0                                                                                                 0    0    0
+
+
+
+                                                                                                                     0                          0
+
+             4                          6                                                                            0                          1
+
+                                                                                                                     1                          0
+
+                           1                                                                                                 0    2    0
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+
+             NA                        NA                                                                            NA                       NA
+
+
+
+
+                          NA                                                                                                      NA
+
+
+
+ 5-Min Count              Big Horn Blvd                 Big Horn Blvd                Civic Center Dr            Civic Center Dr              Total      Hourly
+     Period               (Northbound)                  (Southbound)                  (Eastbound)                (Westbound)                            Totals
+ Beginning At     Left     Thru Right     U      Left    Thru Right    U        Left Thru Right        U   Left Thru Right      U
+    4:00 PM        1        29      1     0       1       41      6     1         7     3       2      0    0      3       2    0             97
+    4:05 PM        0        41      1     0       2       41     11     0         4     3       1      0    1      3       0    0            108
+    4:10 PM        0        19      0     0       2       33      7     0         4     3       1      0    0      6       1    0             76
+    4:15 PM        0        36      0     0       4       31      4     0         4     2       0      0    0      5       1    0             87
+    4:20 PM        0        22      0     0       1       37     14     0         9     1       0      0    0      5       1    0             90
+    4:25 PM        1        23      0     0       0       27      7     0         5     4       4      0    0      2       1    0             74
+    4:30 PM        0        21      1     0       1       37     14     0         7     6       0      0    1      3       0    0             91
+    4:35 PM        1        23      1     0       1       33      7     0         9     5       2      0    1      3       1    0             87
+    4:40 PM        2        34      1     0       0       38     20     0         6     4       0      0    0      4       1    0            110
+    4:45 PM        1        26      0     0       2       26      5     0         5     2       3      0    0      1       1    0             72
+    4:50 PM        3        22      1     0       0       23     11     1         8     5       3      0    0      2       0    0             79
+    4:55 PM        2        30      0     0       1       35      5     0         9     1       1      0    0      3       0    0             87            1058
+    5:00 PM        7        28      0     0       0       56     10     0         3     3       1      0    0      2       3    0            113            1074
+    5:05 PM        0        28      0     0       3       30      5     0         7     8       3      0    0      4       0    0             88            1054
+    5:10 PM        0        22      2     0       1       53     16     0         5     3       4      0    0      3       0    0            109            1087
+    5:15 PM        1        23      0     0       2       35     12     0         6     6       2      0    0      5       0    0             92            1092
+    5:20 PM        4        25      2     0       0       60     16     0         1     3       2      0    0      4       2    0            119            1121
+    5:25 PM        3        29      1     0       1       43     10     0         5     4       6      0    0      8       1    0            111            1158
+    5:30 PM        2        26      0     0       0       49     15     0         6     3       2      0    2      4       0    0            109            1176
+    5:35 PM        1        29      0     0       1       43      9     0         3     3       3      0    0      6       1    0             99            1188
+    5:40 PM        1        45      1     0       2       54     14     0         5     1       1      0    0      6       1    0            131            1209
+    5:45 PM        3        30      1     0       2       48     12     0         5     3       1      0    1      7       1    0            114            1251
+    5:50 PM        2        50      0     0       1       46      7     0         5     5       3      0    1      1       0    0            121            1293
+    5:55 PM        4        37      1     0       1       46      7     0         8     2       1      0    0      3       0    0            110            1316
+ Peak 15-Min                   Northbound                    Southbound                    Eastbound                  Westbound
+   Flowrates      Left     Thru Right     U      Left    Thru Right    U        Left Thru Right        U   Left Thru Right      U                   Total
+  All Vehicles     24     500       8     0       20     592    132     0        60    36     20       0    8     56       8    0                   1464
+ Heavy Trucks       0        4      0              0       0      0               0     0       0           0      0       0                          4
+  Pedestrians                4                             0                            4                          8                                 16
+    Bicycles       0         1      0             0        0      0               0     0       0           0      0       0                          1
+   Railroad
+Stopped Buses
+ Comments:
+Report generated on 9/30/2015 10:58 AM                                      SOURCE: Quality Counts, LLC (http://www.qualitycounts.net) 1-877-580-2212
