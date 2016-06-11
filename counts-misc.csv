@@ -314,6 +314,23 @@ misc/19.txt,Rte 17 (Warrenton Rd) -- Lichfield Blvd/McWhirt Loop / Fredericksbur
 misc/19.txt,Rte 17 (Warrenton Rd) -- Lichfield Blvd/McWhirt Loop / Fredericksburg  VA,x,Tue  Apr 09 2013,16:30-17:30,22,1585,198,174,21,96,90,1579,52,131,59,22,0,0,0,0,1,0,0,0
 misc/19.txt,CVS Entrance -- McWhirt Loop / Fredericksburg  VA,x,Tue  Apr 09 2013,08:00-09:00,0,0,0,0,71,23,11,0,3,3,66,0,0,0,0,0,0,0,1,0
 misc/19.txt,CVS Entrance -- McWhirt Loop / Fredericksburg  VA,x,Tue  Apr 09 2013,16:00-17:00,0,0,0,0,49,68,42,0,25,11,190,0,0,0,0,0,1,0,0,2
+misc/1C-12_2.txt,SW Langer Farms Pkwy -- SW Tualatin Sherwood Rd / Sherwood  OR,x,Thu  Sep 05 2013,16:30-17:30,6,3,2,2,863,133,62,0,19,67,803,6,3,0,1,0,0,0,2,0
+misc/1C-12_2.txt,SW Gerda Ln -- SW Tualatin Sherwood Rd / Sherwood  OR,x,Thu  Sep 05 2013,16:15-17:15,161,1,64,30,829,2,7,1,9,2,790,51,2,4,0,0,0,0,1,0
+misc/1C-12_2.txt,SW Oregon St -- SW Tualatin Sherwood Rd / Sherwood  OR,x,Wed  Sep 11 2013,16:55-17:55,11,9,15,6,675,459,194,0,147,198,660,2,1,0,0,1,1,0,4,0
+misc/1C-12_2.txt,SW Langer Farms Pkwy -- SW Oregon St / Sherwood  OR,x,Thu  Sep 05 2013,17:00-18:00,67,0,200,132,199,0,0,0,0,0,100,32,1,0,0,0,1,2,0,0
+misc/1C-12_2.txt,SW 3rd St -- SW Washington St / Sherwood  OR,x,Thu  Sep 05 2013,17:00-18:00,203,75,23,16,91,1,1,26,31,30,81,135,5,0,8,7,0,1,0,0
+misc/1C-12_2.txt,SW Main St -- SW Railroad St / Sherwood  OR,x,Thu  Sep 05 2013,17:00-18:00,7,201,9,14,10,75,74,129,6,12,8,4,10,8,2,14,0,1,0,0
+misc/1C-12_2.txt,SW Timbrel Ln -- SW Sunset Blvd / Sherwood  OR,x,Thu  Sep 05 2013,17:00-18:00,0,0,0,0,269,65,60,0,87,103,281,0,5,9,0,0,0,0,1,0
+misc/1C-12_2.txt,SW Main St -- SW Sunset Blvd / Sherwood  OR,x,Thu  Sep 05 2013,17:00-18:00,133,107,27,39,285,62,28,71,26,39,191,102,2,8,4,5,0,0,0,0
+misc/1C-12_2.txt,SW Murdock Rd/SW Baker Rd -- SW Sunset Blvd/ SW McKinley Dr / Sherwood  OR,x,Thu  Sep 05 2013,16:40-17:40,233,77,13,5,8,2,6,69,190,92,9,108,0,0,0,2,0,0,0,0
+misc/1C-12_2.txt,SW Ladd Hill Rd -- SW Brookman Rd / Sherwood  OR,x,Thu  Sep 05 2013,16:40-17:40,53,73,0,0,0,0,0,61,14,6,0,33,0,0,0,0,0,0,0,0
+misc/1C-12_2.txt,99W -- SW Brookman Rd / Sherwood  OR,x,Thu  Sep 05 2013,16:20-17:20,21,1972,23,24,2,39,40,1348,10,5,5,15,0,0,0,0,0,0,0,0
+misc/1C-12_2.txt,SW Copper Terr -- SW Edy Rd / Sherwood  OR,x,Wed  Dec 19 2012,16:35-17:35,0,0,0,0,157,24,26,0,3,3,131,0,0,1,0,0,0,0,0,0
+misc/1C-12_2.txt,SW Copper Terr -- SW Handley St / Sherwood  OR,x,Wed  Dec 19 2012,17:00-18:00,10,0,15,16,16,0,0,0,0,1,33,14,2,0,0,0,0,0,0,0
+misc/1C-12_2.txt,Elwert Rd -- Edy Rd / Sherwood  OR,x,Tue  Jun 26 2012,17:00-18:00,5,404,64,44,66,15,29,154,12,14,33,8,1,0,0,0,1,0,0,0
+misc/1C-12_2.txt,Hwy 99W -- Sunset Blvd / Sherwood  OR,x,Tue  Jun 26 2012,16:55-17:55,24,1557,216,156,86,112,111,1076,115,272,140,16,0,0,0,0,0,1,0,1
+misc/1C-12_2.txt,SW Baler Way -- SW Century Dr / Sherwood  OR,x,Tue  Jan 24 2012,16:35-17:35,43,26,42,29,43,7,3,10,7,9,22,43,0,2,4,0,0,0,0,0
+misc/1C-12_2.txt,SW Oregon St -- SW Tonquin Rd / Sherwood  OR,x,Tue  Dec 07 2010,16:40-17:40,0,475,187,159,0,246,87,158,0,0,0,0,0,0,0,0,0,0,0,0
 misc/2012 (Trosper-Tyee).txt,Tyee Dr SW -- Trosper Rd SW/I-5 SB Ramps / Tumwater  WA,x,Tue  May 08 2012,16:45-17:45,417,354,426,167,306,253,413,115,12,15,653,141,7,0,4,6,0,0,0,1
 misc/2012 (Trosper-Tyee).txt,I-5 NB Ramps -- Trosper Rd SW / Tumwater  WA,x,Tue  May 08 2012,16:45-17:45,0,0,0,628,573,0,62,0,149,589,913,0,0,8,6,0,1,0,0,0
 misc/2012E PR Incr XX CPA application.txt,Honore Ave -- Palmer Ranch Pkwy / Sarasota  FL,x,Thu  Mar 15 2012,08:00-09:00,112,210,73,111,16,6,9,271,11,13,19,149,1,2,0,6,1,5,2,16
@@ -712,6 +729,24 @@ misc/2015-0514_pc_agenda_and_packet_-_part_2._fred_meyer_traffic_study.txt,West 
 misc/2015-0514_pc_agenda_and_packet_-_part_2._fred_meyer_traffic_study.txt,East RIRO Acc -- Main Drive Aisle / Newberg  OR,x,Sat  Oct 18 2014,13:00-14:00,98,0,58,5,109,0,0,0,0,0,119,17,0,1,0,5,0,0,0,0
 misc/2015-0514_pc_agenda_and_packet_-_part_2._fred_meyer_traffic_study.txt,Brutscher St -- Fred Meyer North Acc/Main Drive Aisle / Newberg  OR,x,Sat  Oct 18 2014,13:00-14:00,132,72,5,6,1,4,2,106,13,48,2,225,0,6,5,0,0,0,0,0
 misc/2015-0514_pc_agenda_and_packet_-_part_2._fred_meyer_traffic_study.txt,N Springbrook Rd -- Hayes St / Newberg  OR,x,Sat  Oct 18 2014,13:00-14:00,0,242,53,69,0,54,23,224,0,0,0,0,0,0,1,3,0,1,0,0
+misc/2015-07-08-HA-5B-FEA-Hawaii-County-Mass-Transit-Agency-Base-Yard-and-Maintenance-Facility.txt,Mamalahoa Hwy (Hwy 11) -- Leilani St / Hilo  HI,x,Tue  Apr 21 2015,07:25-08:25,4,675,197,231,37,49,48,1214,51,23,123,14,6,1,2,2,0,1,0,0
+misc/2015-07-08-HA-5B-FEA-Hawaii-County-Mass-Transit-Agency-Base-Yard-and-Maintenance-Facility.txt,Mamalahoa Hwy (Hwy 11) -- Leilani St / Hilo  HI,x,Tue  Apr 21 2015,15:40-16:40,4,1347,237,193,69,50,54,1142,102,33,130,27,1,2,2,2,0,0,0,0
+misc/2015-07-08-HA-5B-FEA-Hawaii-County-Mass-Transit-Agency-Base-Yard-and-Maintenance-Facility.txt,Mamalahoa Hwy (Hwy 11) -- E Lanikaula St / Hilo  HI,x,Tue  Apr 21 2015,07:25-08:25,73,703,0,135,0,0,56,1201,0,128,0,0,0,1,0,6,0,1,0,0
+misc/2015-07-08-HA-5B-FEA-Hawaii-County-Mass-Transit-Agency-Base-Yard-and-Maintenance-Facility.txt,Mamalahoa Hwy (Hwy 11) -- E Lanikaula St / Hilo  HI,x,Tue  Apr 21 2015,16:00-17:00,80,1470,0,78,0,0,92,1157,0,251,0,0,0,2,0,0,0,0,0,0
+misc/2015-07-08-HA-5B-FEA-Hawaii-County-Mass-Transit-Agency-Base-Yard-and-Maintenance-Facility.txt,Railroad Ave -- Leilani St / Hilo  HI,x,Tue  Apr 21 2015,07:20-08:20,10,2,0,0,122,78,63,4,184,207,140,5,3,0,6,0,0,0,0,0
+misc/2015-07-08-HA-5B-FEA-Hawaii-County-Mass-Transit-Agency-Base-Yard-and-Maintenance-Facility.txt,Railroad Ave -- Leilani St / Hilo  HI,x,Tue  Apr 21 2015,15:30-16:30,19,23,0,2,105,84,51,1,167,293,102,5,0,2,0,0,0,1,0,0
+misc/2015-07-08-HA-5B-FEA-Hawaii-County-Mass-Transit-Agency-Base-Yard-and-Maintenance-Facility.txt,Base Yard Dwy -- E Lanikaula St / Hilo  HI,x,Tue  Apr 21 2015,06:10-07:10,0,0,0,0,0,44,14,0,17,38,0,0,0,0,0,0,1,0,0,0
+misc/2015-07-08-HA-5B-FEA-Hawaii-County-Mass-Transit-Agency-Base-Yard-and-Maintenance-Facility.txt,Base Yard Dwy -- E Lanikaula St / Hilo  HI,x,Tue  Apr 21 2015,15:00-16:00,0,0,0,0,0,8,43,0,46,6,0,0,0,0,0,0,0,0,0,0
+misc/2015-08-10 Revised TIA.txt,Pleasant Valley Rd -- SR 20 / Penn Valley  CA,x,Tue  May 19 2015,07:25-08:25,98,111,394,192,213,13,22,62,20,29,308,57,0,0,0,0,0,1,0,1
+misc/2015-08-10 Revised TIA.txt,Pleasant Valley Rd -- SR 20 / Penn Valley  CA,x,Tue  May 19 2015,16:35-17:35,78,133,238,393,297,32,24,136,30,49,292,104,0,0,0,0,1,1,0,2
+misc/2015-08-10 Revised TIA.txt,Pleasant Valley Rd -- Penn Valley Dr / Penn Valley  CA,x,Tue  May 19 2015,07:55-08:55,22,0,151,76,12,0,0,0,0,0,20,43,0,0,0,0,0,0,0,0
+misc/2015-08-10 Revised TIA.txt,Pleasant Valley Rd -- Penn Valley Dr / Penn Valley  CA,x,Tue  May 19 2015,16:40-17:40,49,0,182,146,20,0,0,0,0,0,13,30,0,0,0,0,0,1,2,0
+misc/2015-08-10 Revised TIA.txt,US Post Office Dwy -- Penn Valley Dr / Penn Valley  CA,x,Tue  May 19 2015,08:00-09:00,11,0,12,12,109,0,0,0,0,0,179,5,0,5,0,0,0,0,0,0
+misc/2015-08-10 Revised TIA.txt,US Post Office Dwy -- Penn Valley Dr / Penn Valley  CA,x,Tue  May 19 2015,16:15-17:15,16,0,18,13,275,0,0,0,0,0,156,11,3,1,0,0,0,0,0,0
+misc/2015-08-10 Revised TIA.txt,Spenceville Rd -- Penn Valley Dr / Penn Valley  CA,x,Tue  May 19 2015,07:50-08:50,77,83,0,0,0,0,0,138,64,62,0,146,1,0,0,1,0,1,0,0
+misc/2015-08-10 Revised TIA.txt,Spenceville Rd -- Penn Valley Dr / Penn Valley  CA,x,Tue  May 19 2015,16:35-17:35,171,151,0,0,0,0,0,72,44,56,0,100,0,0,0,0,0,2,0,0
+misc/2015-08-10 Revised TIA.txt,Penn Valley Dr/Rough and Ready Hwy -- SR 20 / Rough and Ready  CA,x,Tue  May 19 2015,07:35-08:35,38,49,43,20,332,97,203,63,40,51,618,44,0,0,0,0,2,0,1,0
+misc/2015-08-10 Revised TIA.txt,Penn Valley Dr/Rough and Ready Hwy -- SR 20 / Rough and Ready  CA,x,Tue  May 19 2015,16:35-17:35,68,63,21,56,585,305,142,60,54,36,449,65,0,0,0,0,1,3,0,0
 misc/2015-11-02_Packet_Webs.txt,S 20th Ave -- OR 8 / Cornelius  OR,x,Wed  Feb 18 2015,16:30-17:30,110,61,52,85,1524,91,51,36,39,75,1135,109,5,14,0,0,0,0,2,0
 misc/2015-11-02_Packet_Webs.txt,Fred Meyer Dwy -- OR 8 / Cornelius  OR,x,Wed  Feb 18 2015,16:30-17:30,71,2,129,184,1495,15,6,6,8,8,1113,141,1,0,1,4,1,0,3,0
 misc/2015-11-02_Packet_Webs.txt,S 26th Ave -- OR 8 / Cornelius  OR,x,Wed  Feb 18 2015,16:30-17:30,63,14,66,62,1599,85,54,9,23,41,1172,30,3,1,0,4,1,1,3,0
@@ -825,6 +860,28 @@ misc/39. Appendix J. Traffic Data.txt,Pleasant Hill Rd -- SR 24 EB Loop Ramps / 
 misc/39. Appendix J. Traffic Data.txt,Pleasant Hill Rd -- Acalanes High School Dwy / Lafayette  CA,x,Thu  Dec 01 2011,07:15-08:15,0,2078,0,24,0,0,192,634,0,0,0,0,0,6,0,1,0,0,0,0
 misc/39. Appendix J. Traffic Data.txt,Pleasant Hill Rd -- Acalanes High School Dwy / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,0,1076,0,73,0,0,43,1541,0,0,0,0,0,13,0,0,0,2,0,2
 misc/39. Appendix J. Traffic Data.txt,Pleasant Hill Rd -- Acalanes High School Dwy / Lafayette  CA,x,Thu  Dec 01 2011,17:00-18:00,0,941,0,37,0,0,10,2220,0,0,0,0,0,0,0,0,0,0,0,1
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Rancho View Dr / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,12,742,0,1,0,0,0,1292,27,16,0,19,0,1,0,0,0,0,0,0
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Greenvalley Dr / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,0,726,35,17,0,40,52,1315,10,4,0,2,0,0,0,0,0,0,0,2
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Releiz Valley Rd / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,20,758,1,1,0,0,1,1347,127,110,0,18,0,6,4,0,1,0,1,3
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Springhill Rd / Lafayette  CA,x,Tue  Jan 10 2012,08:00-09:00,71,1864,39,10,24,66,46,498,101,119,5,58,0,2,34,6,0,0,0,0
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Springhill Rd / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,29,849,8,7,6,28,49,1428,114,102,7,46,0,0,12,1,0,0,0,4
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Deer Hill Rd/Stanley Blvd / Lafayette  CA,x,Thu  Dec 01 2011,07:15-08:15,550,1417,123,42,100,235,181,569,141,55,48,157,0,2,74,0,0,1,0,3
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Deer Hill Rd/Stanley Blvd / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,220,763,95,69,83,218,177,1125,86,45,74,353,0,23,35,0,1,2,2,2
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Deer Hill Rd/Stanley Blvd / Lafayette  CA,x,Thu  Dec 01 2011,16:45-17:45,181,640,106,150,67,184,183,1408,40,51,89,646,0,0,2,0,1,2,0,1
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Mt Diablo Blvd/SR 24 EB On Ramp / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,469,496,0,0,0,0,369,498,215,242,397,199,0,0,9,3,0,3,0,0
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- SR 24 EB Off Ramp/Old Tunnel Rd / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,0,629,107,129,0,14,13,902,0,183,36,46,0,10,1,4,0,1,0,1
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Acalanes Ave / Lafayette  CA,x,Thu  Dec 01 2011,07:30-08:30,0,1680,0,49,0,0,75,948,0,0,0,0,0,10,0,0,0,0,0,2
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Acalanes Ave / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,0,1066,0,29,0,0,41,1412,0,0,0,0,0,20,0,0,0,1,0,1
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Acalanes Ave / Lafayette  CA,x,Thu  Dec 01 2011,16:30-17:30,0,893,0,12,0,0,43,1727,0,0,0,0,0,22,0,0,0,0,0,2
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- SR 24 WB Off (to NB)/WB On (from SB) / Lafayette  CA,x,Thu  Dec 01 2011,07:15-08:15,940,811,0,239,0,0,0,726,0,0,0,0,0,0,0,0,0,0,0,7
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- SR 24 WB Off (to NB)/WB On (from SB) / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,387,688,0,455,0,0,0,999,0,0,0,0,0,0,0,0,0,5,0,5
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- SR 24 WB Off (to NB)/WB On (from SB) / Lafayette  CA,x,Thu  Dec 01 2011,16:30-17:30,353,538,0,577,0,0,0,1193,0,0,0,0,0,0,0,0,0,0,0,2
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- SR 24 EB Loop Ramps / Lafayette  CA,x,Thu  Dec 01 2011,07:30-08:30,331,1103,0,327,0,0,0,856,0,0,0,0,0,1,4,0,0,0,0,3
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- SR 24 EB Loop Ramps / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,264,958,0,575,0,0,0,700,0,0,0,0,0,19,0,0,0,3,0,4
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- SR 24 EB Loop Ramps / Lafayette  CA,x,Thu  Dec 01 2011,16:30-17:30,262,829,0,765,0,0,0,726,0,0,0,0,0,17,0,0,0,0,0,2
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Acalanes High School Dwy / Lafayette  CA,x,Thu  Dec 01 2011,07:15-08:15,0,2078,0,24,0,0,192,634,0,0,0,0,0,6,0,1,0,0,0,0
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Acalanes High School Dwy / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,0,1076,0,73,0,0,43,1541,0,0,0,0,0,13,0,0,0,2,0,2
+misc/39AppendixJTrafficData.txt,Pleasant Hill Rd -- Acalanes High School Dwy / Lafayette  CA,x,Thu  Dec 01 2011,17:00-18:00,0,941,0,37,0,0,10,2220,0,0,0,0,0,0,0,0,0,0,0,1
 misc/39AppendixJTrafficDatapdf.txt,Pleasant Hill Rd -- Rancho View Dr / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,12,742,0,1,0,0,0,1292,27,16,0,19,0,1,0,0,0,0,0,0
 misc/39AppendixJTrafficDatapdf.txt,Pleasant Hill Rd -- Greenvalley Dr / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,0,726,35,17,0,40,52,1315,10,4,0,2,0,0,0,0,0,0,0,2
 misc/39AppendixJTrafficDatapdf.txt,Pleasant Hill Rd -- Releiz Valley Rd / Lafayette  CA,x,Thu  Dec 01 2011,15:00-16:00,20,758,1,1,0,0,1,1347,127,110,0,18,0,6,4,0,1,0,1,3
@@ -859,6 +916,12 @@ misc/4 02-19-14 PZ Agenda Packet- Final.txt,Providence Blvd -- Tivoli Dr / Delto
 misc/4 02-19-14 PZ Agenda Packet- Final.txt,Providence Blvd -- Tivoli Dr / Deltona  FL,x,Wed  Sep 11 2013,17:00-18:00,257,356,7,18,10,9,8,343,34,29,17,454,0,2,0,0,0,0,0,0
 misc/4 02-19-14 PZ Agenda Packet- Final.txt,Sterling Silver Blvd -- Alabaster Way / Deltona  FL,x,Wed  Sep 11 2013,07:00-08:00,0,34,0,1,0,2,7,12,0,0,0,0,0,0,0,7,0,0,0,0
 misc/4 02-19-14 PZ Agenda Packet- Final.txt,Sterling Silver Blvd -- Alabaster Way / Deltona  FL,x,Wed  Sep 11 2013,17:00-18:00,0,21,0,0,0,7,6,33,0,0,0,0,0,0,0,2,0,0,0,0
+misc/431807-1_Prelim_Transp_Screening_pdf.txt,Persimmon Ave -- SR 46 / Sanford  FL,x,Wed  Oct 10 2012,07:30-08:30,0,0,0,0,463,40,11,0,32,81,531,2,0,6,16,0,1,0,1,0
+misc/431807-1_Prelim_Transp_Screening_pdf.txt,Persimmon Ave -- SR 46 / Sanford  FL,x,Thu  Oct 11 2012,16:45-17:45,0,0,0,0,708,29,21,0,52,38,958,1,0,0,3,0,3,0,0,0
+misc/431807-1_Prelim_Transp_Screening_pdf.txt,Pomegranite Ave -- SR 46 / Sanford  FL,x,Wed  Oct 10 2012,07:45-08:45,59,0,0,19,455,5,4,0,6,3,576,4,1,0,2,0,0,0,0,0
+misc/431807-1_Prelim_Transp_Screening_pdf.txt,Pomegranite Ave -- SR 46 / Sanford  FL,x,Wed  Oct 10 2012,16:45-17:45,31,0,0,47,720,2,4,0,5,8,676,13,4,1,2,0,3,0,1,0
+misc/431807-1_Prelim_Transp_Screening_pdf.txt,Persimmon Ave -- W 8th St / Sanford  FL,x,Wed  Oct 10 2012,07:00-08:00,8,102,47,19,2,5,17,43,5,5,1,12,0,0,1,1,0,0,2,1
+misc/431807-1_Prelim_Transp_Screening_pdf.txt,Persimmon Ave -- W 8th St / Sanford  FL,x,Wed  Oct 10 2012,16:15-17:15,1,47,18,38,0,36,26,35,2,5,3,4,1,0,1,1,1,2,2,1
 misc/4BD8FBA5-A007-45C5-AFB5-EFC81893870E.txt,US 41 -- Pearl Ave / Bradenton  FL,x,Tue  Oct 01 2013,07:15-08:15,52,1830,88,108,10,8,5,1040,1,7,11,31,0,1,3,6,0,0,0,0
 misc/4BD8FBA5-A007-45C5-AFB5-EFC81893870E.txt,US 41 -- Pearl Ave / Bradenton  FL,x,Tue  Oct 01 2013,16:45-17:45,29,1282,81,189,6,19,9,1915,9,4,10,23,0,5,5,2,0,0,0,1
 misc/4_30to5_30pm- Quince St -- OR 8.txt,Quince St -- OR 8 / Forest Grove  OR,x,Wed  Apr 30 2014,16:30-17:30,129,291,198,260,1008,342,269,181,59,115,818,87,0,4,2,2,2,0,5,2
@@ -930,6 +993,24 @@ misc/Alexandria Waterfront Final Traffic Impact Study 5.5.5 2010.txt,Washington 
 misc/Alexandria Waterfront Final Traffic Impact Study 5.5.5 2010.txt,Washington St -- Prince St / Alexandria  VA,x,11/21/2009,12:15-13:15,0,879,2,0,0,0,37,759,0,89,212,95,69,92,45,86,0,0,0,0,38.8039013,-77.0472609
 misc/Alexandria Waterfront Final Traffic Impact Study 5.5.5 2010.txt,Washington St -- Duke St / Alexandria  VA,x,11/21/2009,12:30-13:30,150,754,42,32,256,39,34,664,35,68,195,104,23,45,23,45,0,0,0,0,38.8027808,-77.047481
 misc/Alexandria Waterfront Final Traffic Impact Study 5.5.5 2010.txt,Washington St -- Franklin St / Alexandria  VA,x,11/21/2009,13:00-14:00,0,726,25,36,0,42,55,689,0,86,175,144,20,48,16,40,0,0,0,0,38.7981629,-77.0484517
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- 1st St / Alexancdria  VA,x,11/19/2009,07:15-08:15,0,570,246,178,0,0,18,2208,0,0,0,0,0,4,5,0,0,0,0,0
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Cameron St / Alexandria  VA,x,11/19/2009,07:00-08:00,37,434,9,20,131,7,20,2232,4,0,0,0,13,9,21,5,0,0,0,0,38.8062672,-77.046783
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- King St / Alexandria  VA,x,11/19/2009,07:00-08:00,33,411,0,8,92,0,29,2257,0,24,135,1,63,29,85,28,0,0,0,0,38.8050581,-77.0470269
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Prince St / Alexandria  VA,x,11/19/2009,07:00-08:00,0,435,0,0,0,0,24,2186,0,28,249,101,17,9,10,6,0,0,0,0,38.8039013,-77.0472609
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Duke St / Alexandria  VA,x,11/19/2009,07:00-08:00,91,353,4,12,177,7,30,2078,0,32,196,132,8,8,11,6,0,0,0,0,38.8027808,-77.047481
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Franklin St / Alexandria  VA,x,11/19/2009,07:15-08:15,0,331,5,19,0,10,115,2113,0,10,341,519,1,14,15,12,0,0,0,0,38.7981629,-77.0484517
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- 1st St / Alexancdria  VA,x,11/19/2009,17:00-18:00,0,1703,306,146,0,0,28,1113,0,0,0,0,0,8,33,0,0,0,0,0
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Cameron St / Alexandria  VA,x,11/19/2009,16:45-17:45,82,1744,1,40,328,25,38,788,23,0,0,0,18,27,35,23,0,0,0,0,38.8062672,-77.046783
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- King St / Alexandria  VA,x,11/19/2009,16:30-17:30,80,1734,1,36,205,0,34,777,0,45,158,1,231,102,194,76,0,0,0,0,38.8050581,-77.0470269
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Prince St / Alexandria  VA,x,11/19/2009,16:45-17:45,0,1746,2,0,0,0,19,691,0,106,181,148,24,30,20,22,0,0,0,0,38.8039013,-77.0472609
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Duke St / Alexandria  VA,x,11/19/2009,16:15-17:15,144,1747,4,22,261,28,28,522,15,55,108,113,12,28,7,13,0,0,0,0,38.8027808,-77.047481
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Franklin St / Alexandria  VA,x,11/19/2009,17:00-18:00,0,1360,3,23,0,92,42,533,0,94,169,132,11,23,9,22,0,0,0,0,38.7981629,-77.0484517
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- 1st St / Alexancdria  VA,x,11/21/2009,12:15-13:15,0,920,126,61,0,0,33,853,0,0,0,0,0,10,18,0,0,0,0,0
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Cameron St / Alexandria  VA,x,11/21/2009,12:15-13:15,55,884,24,59,143,44,64,749,45,0,0,0,26,54,83,0,0,0,0,0,38.8062672,-77.046783
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- King St / Alexandria  VA,x,12/21/2009,12:30-13:30,100,796,0,46,253,0,60,793,0,62,266,2,612,233,506,218,0,0,0,0,38.8050581,-77.0470269
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Prince St / Alexandria  VA,x,11/21/2009,12:15-13:15,0,879,2,0,0,0,37,759,0,89,212,95,69,92,45,86,0,0,0,0,38.8039013,-77.0472609
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Duke St / Alexandria  VA,x,11/21/2009,12:30-13:30,150,754,42,32,256,39,34,664,35,68,195,104,23,45,23,45,0,0,0,0,38.8027808,-77.047481
+misc/AlexandriaWaterfrontFinalTrafficImpactStudy5552010.txt,Washington St -- Franklin St / Alexandria  VA,x,11/21/2009,13:00-14:00,0,726,25,36,0,42,55,689,0,86,175,144,20,48,16,40,0,0,0,0,38.7981629,-77.0484517
 misc/All-Appendicies_small.txt,Norfolk St -- East Third Ave / Foster City  CA,x,Tue  Sep 16 2014,07:35-08:35,100,157,116,100,1307,70,73,161,686,402,993,245,13,16,11,42,4,2,0,2
 misc/All-Appendicies_small.txt,Norfolk St -- East Third Ave / Foster City  CA,x,Thu  Oct 02 2014,17:00-18:00,85,156,175,67,827,65,62,94,358,706,1213,245,14,8,3,26,2,0,5,7
 misc/All-Appendicies_small.txt,Mariners Island Blvd -- East Third Ave / Foster City  CA,x,Tue  Sep 30 2014,07:45-08:45,3,1,1,5,937,15,48,4,305,382,749,8,6,1,2,0,31,0,1,1
@@ -1076,6 +1157,22 @@ misc/Appendix M  Traffic Impact Analysis Report.txt,SR-41 -- SR-46 / Shandon  CA
 misc/Appendix M  Traffic Impact Analysis Report.txt,SR-41 -- SR-46 / Shandon  CA,x,Wed  Mar 07 2012,16:35-17:35,152,0,1,1,121,0,0,0,0,0,127,201,0,0,0,0,0,0,0,0
 misc/Appendix M  Traffic Impact Analysis Report.txt,Cholame Valley Rd -- SR-46/SR-41 / Shandon  CA,x,Wed  Mar 07 2012,08:00-09:00,3,0,0,2,161,0,0,0,0,0,217,6,0,0,0,0,0,0,0,0
 misc/Appendix M  Traffic Impact Analysis Report.txt,Cholame Valley Rd -- SR-46/SR-41 / Shandon  CA,x,Wed  Mar 07 2012,16:35-17:35,4,0,2,0,278,0,0,0,0,0,328,4,0,0,0,0,0,0,0,0
+misc/Appendix-I.txt,Honoapiilani Hwy (Hwy-30) -- Kuikahi Dr / Wailuku  HI,x,Wed  Sep 11 2013,06:50-07:50,13,403,206,157,48,271,345,381,20,58,137,34,0,1,1,0,0,0,0,8
+misc/Appendix-I.txt,Honoapiilani Hwy (Hwy 30) -- Kuikahi Dr / Wailuku  HI,x,Wed  Sep 11 2013,16:25-17:25,35,377,143,165,124,271,259,394,41,24,76,19,6,0,0,0,0,1,1,1
+misc/Appendix-I.txt,Waiale Rd -- Kuikahi Dr/Mauilani Pkwy / Wailuku  HI,x,Wed  Sep 11 2013,06:50-07:50,232,95,159,261,159,26,76,170,76,39,215,427,3,4,1,0,1,0,0,0
+misc/Appendix-I.txt,Waiale Rd -- Kuikahi Dr/Mauilani Pkwy / Wailuku  HI,x,Wed  Sep 11 2013,16:15-17:15,254,161,252,273,239,55,45,109,25,36,169,231,0,1,3,3,1,1,1,0
+misc/Appendix-I.txt,S Kamehameha Ave -- Mauilani Pkwy / Kahului  HI,x,Wed  Sep 11 2013,06:55-07:55,179,175,191,108,160,67,80,211,139,90,130,170,2,0,3,12,0,0,0,0
+misc/Appendix-I.txt,S Kamehameha Ave -- Mauilani Pkwy / Kahului  HI,x,Wed  Sep 11 2013,15:30-16:30,273,76,122,211,240,29,40,78,43,52,195,234,0,0,1,2,0,1,0,0
+misc/Appendix-I.txt,Kuihelani Hwy (Hwy 380) -- Mauilani Pkwy / Kahului  HI,x,Wed  Sep 11 2013,06:55-07:55,250,561,0,0,0,0,0,483,81,159,0,322,0,0,0,0,0,0,0,0
+misc/Appendix-I.txt,Kuihelani Hwy (Hwy 380) -- Mauilani Pkwy / Kahului  HI,x,Wed  Sep 11 2013,16:25-17:25,395,546,1,0,0,0,0,550,180,72,0,267,0,0,0,1,1,2,0,0
+misc/Appendix-I.txt,Honoapiilani Hwy (Hwy-30) -- Waiko Rd / Wailuku  HI,x,Wed  Sep 11 2013,06:55-07:55,7,651,98,26,7,68,41,586,6,4,19,32,1,0,1,1,0,0,1,8
+misc/Appendix-I.txt,Honoapiilani Hwy (Hwy 30) -- Waiko Rd / Wailuku  HI,x,Wed  Sep 11 2013,16:30-17:30,27,547,23,44,15,49,69,608,9,8,6,13,1,5,0,2,1,0,0,0
+misc/Appendix-I.txt,Waiale Rd -- Waiko Rd / Wailuku  HI,x,Wed  Sep 11 2013,07:00-08:00,56,0,135,53,50,2,3,0,0,0,138,29,0,0,0,0,0,0,0,0
+misc/Appendix-I.txt,Waiale Rd -- Waiko Rd / Wailuku  HI,x,Wed  Sep 11 2013,16:15-17:15,43,0,72,103,69,0,0,0,0,0,45,43,1,0,0,0,0,0,0,0
+misc/Appendix-I.txt,Kuihelani Hwy (Hwy-380) -- Waiko Rd / Wailuku  HI,x,Wed  Sep 11 2013,06:55-07:55,152,565,0,0,0,0,0,301,18,39,0,261,0,0,0,0,0,0,0,0
+misc/Appendix-I.txt,Kuihelani Hwy (Hwy-380) -- Waiko Rd / Wailuku  HI,x,Wed  Sep 11 2013,16:15-17:15,137,492,0,0,0,0,0,601,16,22,0,139,0,0,0,0,0,0,0,0
+misc/Appendix-I.txt,Honoapiilani Hwy (Hwy 30) -- Kuihelani Hwy (Hwy 380) / Wailuku  HI,x,Wed  Sep 11 2013,07:00-08:00,1,668,7,2,1,602,356,602,6,2,4,2,0,0,0,0,0,1,0,7
+misc/Appendix-I.txt,Honoapiilani Hwy (Hwy 30) -- Kuihelani Hwy (Hwy 380) / Wailuku  HI,x,Wed  Sep 11 2013,16:30-17:30,3,578,4,4,3,502,610,644,3,6,3,2,0,0,0,0,0,0,0,4
 misc/Appendix.txt,N Main St -- Central St / Ashland  OR,x,4/13/2011,16:15-17:15,0,572,27,25,0,1,1,723,0,0,0,0,0,8,0,0,0,3,0,1
 misc/Appendix.txt,N Main St -- Manzanita St / Ashland  OR,x,4/13/2011,16:15-17:15,9,587,16,22,1,5,28,701,20,10,6,8,1,9,0,8,1,2,0,1
 misc/Appendix.txt,N Main St -- Van Ness Ave / Ashland  OR,x,4/13/2011,16:15-17:15,0,624,70,109,0,0,0,721,0,0,0,0,1,10,1,8,0,2,2,1
@@ -2675,6 +2772,10 @@ misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St
 misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,51st St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,0,0,0,0,40,14,42,0,5,7,91,0,10,3,2,0,6,0,7,1,38.5706945,-121.4402101
 misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,16:40-17:40,2,37,19,17,39,14,5,42,1,0,26,0,3,5,3,2,6,2,6,0,38.5708408,-121.4411823
 misc/Item_10_-_Att_11_-_Sutter_Park_DRAFT_EIR_Appendices_PDF-5534_KB.txt,50th St -- F St / Sacramento  CA,x,Tue  Nov 06 2012,07:25-08:25,2,28,26,16,21,8,21,28,0,4,48,3,4,6,0,1,5,1,5,1,38.5708408,-121.4411823
+misc/JSR-traffic-analysis_final_19Dec14.txt,NE Jackson School Rd -- NE Estate Dr / Hillsboro  OR,x,Tue  Sep 09 2014,07:30-08:30,64,271,0,1,1,0,0,261,73,72,0,83,66,0,0,7,7,5,0,2
+misc/JSR-traffic-analysis_final_19Dec14.txt,NE Jackson School Rd -- NE Estate Dr / Hillsboro  OR,x,Tue  Sep 09 2014,16:50-17:50,76,336,0,0,0,0,1,339,68,35,0,33,11,0,0,2,1,3,0,4
+misc/JSR-traffic-analysis_final_19Dec14.txt,NE Jackson School Rd -- NE Harewood St / Hillsboro  OR,x,Tue  Sep 09 2014,07:30-08:30,32,323,2,3,0,3,3,238,94,177,0,89,3,2,0,5,0,2,0,4
+misc/JSR-traffic-analysis_final_19Dec14.txt,NE Jackson School Rd -- NE Harewood St / Hillsboro  OR,x,Tue  Sep 09 2014,16:50-17:50,85,256,1,1,0,2,6,419,200,132,0,52,3,1,0,7,1,2,0,4
 misc/January_20_2015_AGENDA.txt,Collinsworth Dr -- Athletic Club Blvd / Clayton  NC,x,Wed  Dec 03 2014,07:45-08:45,8,13,8,9,156,30,221,30,115,295,214,9,2,0,9,21,0,0,0,0
 misc/January_20_2015_AGENDA.txt,Collinsworth Dr -- Athletic Club Blvd / Clayton  NC,x,Wed  Dec 03 2014,15:15-16:15,12,2,31,31,269,14,145,15,45,97,150,11,0,0,302,73,0,1,0,0
 misc/January_20_2015_AGENDA.txt,Manning Dr/Payton Dr -- Athletic Club Blvd / Clayton  NC,x,Wed  Dec 03 2014,07:45-08:45,16,1,30,14,221,41,73,3,3,4,394,17,1,0,43,37,0,0,0,0
@@ -4203,6 +4304,20 @@ misc/UHG EP TIS 2011-07-19 with appendices.txt,City West Pkwy (S Junction) -- Sh
 misc/UHG EP TIS 2011-07-19 with appendices.txt,TH 212 SB Ramps -- Shady Oak Rd / Eden Prairie  MN,x,11/9/2010,16:30-17:30,95,0,96,0,792,552,0,0,0,551,319,0,0,0,1,0,0,0,2,0
 misc/UHG EP TIS 2011-07-19 with appendices.txt,TH 212 NB Ramps -- Shady Oak Rd / Eden Prairie  MN,x,11/9/2010,16:30-17:30,0,0,0,454,1076,0,117,0,260,0,247,154,0,0,1,0,1,0,1,0
 misc/UHG EP TIS 2011-07-19 with appendices.txt,Flying Cloud Dr -- Shady Oak Rd / Eden Prairie  MN,x,11/9/2010,16:30-17:30,644,46,16,4,599,3,6,6,288,66,208,97,0,0,0,0,0,1,1,1
+misc/UHGAUARTrafficImpactStudy.txt,Shady Oak Rd -- WB Ramps at TH 62 / Eden Prairie  MN,x,11/9/2010,07:15-08:15,110,608,0,441,0,89,0,1073,108,0,0,0,0,1,0,0,0,1,0,0
+misc/UHGAUARTrafficImpactStudy.txt,Shady Oak Rd -- EB Ramps at TH 62 / Eden Prairie  MN,x,11/9/2010,07:15-08:15,269,405,13,24,0,4,7,713,0,410,13,547,0,0,0,0,0,1,0,0
+misc/UHGAUARTrafficImpactStudy.txt,Shady Oak Rd -- City West Pkwy (N Junction) / Eden Prairie  MN,x,11/9/2010,07:15-08:15,160,549,112,66,10,13,4,508,76,71,11,145,4,0,0,0,0,1,0,0
+misc/UHGAUARTrafficImpactStudy.txt,City West Pkwy (S Junction) -- Shady Oak Rd / Eden Prairie  MN,x,11/9/2010,07:15-08:15,7,9,84,212,590,35,47,13,68,43,657,9,0,2,1,1,1,0,0,0
+misc/UHGAUARTrafficImpactStudy.txt,TH 212 SB Ramps -- Shady Oak Rd / Eden Prairie  MN,x,11/9/2010,07:15-08:15,172,0,576,0,659,63,0,0,0,174,607,0,0,0,2,0,2,0,1,0
+misc/UHGAUARTrafficImpactStudy.txt,TH 212 NB Ramps -- Shady Oak Rd / Eden Prairie  MN,x,11/9/2010,07:15-08:15,0,0,0,77,170,0,599,4,549,0,1060,114,0,0,2,0,2,0,0,0
+misc/UHGAUARTrafficImpactStudy.txt,Flying Cloud Dr -- Shady Oak Rd / Eden Prairie  MN,x,11/9/2010,07:15-08:15,63,2,8,16,101,4,7,17,95,422,553,688,0,0,0,0,2,0,2,0
+misc/UHGAUARTrafficImpactStudy.txt,Shady Oaks Rd -- WB Ramps at TH 62 / Eden Prairie  MN,x,11/16/2010,16:30-17:30,367,725,0,281,1,71,0,709,338,0,0,0,0,0,0,0,0,0,0,0
+misc/UHGAUARTrafficImpactStudy.txt,Shady Oak Rd -- EB Ramps at TH 62 / Eden Prairie  MN,x,11/9/2010,16:30-17:30,231,575,28,45,0,5,11,943,0,126,13,117,0,1,0,0,0,1,0,0
+misc/UHGAUARTrafficImpactStudy.txt,Shady Oak Rd -- City West Pkwy (N Junction) / Eden Prairie  MN,x,11/9/2010,16:30-17:30,106,501,98,165,15,24,15,670,54,68,11,118,0,1,0,0,0,1,0,0
+misc/UHGAUARTrafficImpactStudy.txt,City West Pkwy (S Junction) -- Shady Oak Rd / Eden Prairie  MN,x,11/9/2010,16:30-17:30,14,24,227,87,775,35,38,9,45,71,599,4,1,1,0,0,0,0,4,0
+misc/UHGAUARTrafficImpactStudy.txt,TH 212 SB Ramps -- Shady Oak Rd / Eden Prairie  MN,x,11/9/2010,16:30-17:30,95,0,96,0,792,552,0,0,0,551,319,0,0,0,1,0,0,0,2,0
+misc/UHGAUARTrafficImpactStudy.txt,TH 212 NB Ramps -- Shady Oak Rd / Eden Prairie  MN,x,11/9/2010,16:30-17:30,0,0,0,454,1076,0,117,0,260,0,247,154,0,0,1,0,1,0,1,0
+misc/UHGAUARTrafficImpactStudy.txt,Flying Cloud Dr -- Shady Oak Rd / Eden Prairie  MN,x,11/9/2010,16:30-17:30,644,46,16,4,599,3,6,6,288,66,208,97,0,0,0,0,0,1,1,1
 misc/Updated2040TrafficReport-Final.txt,6th Ave -- 6th St / Tucson  AZ,x,Wed  Apr 18 2012,07:30-08:30,0,0,0,43,835,18,56,143,24,11,978,31,0,5,1,5,3,1,0,5
 misc/Updated2040TrafficReport-Final.txt,Barazza Aviation Pkwy -- Broadway Blvd / Tucson  AZ,x,Tue  Apr 17 2012,16:50-17:50,0,0,0,0,680,238,192,0,456,755,854,0,0,0,6,0,7,0,12,0
 misc/Updated2040TrafficReport-Final.txt,Barazza Aviation Pkwy -- Broadway Blvd / Tucson  AZ,x,Wed  Apr 18 2012,07:25-08:25,0,0,0,0,609,132,300,0,721,587,857,0,0,0,8,0,2,0,6,0
@@ -4732,6 +4847,16 @@ misc/commerical-vista-ops-safety-analysis-appendix.txt,Commercial St SE -- Vista
 misc/commerical-vista-ops-safety-analysis-appendix.txt,Commercial St SE -- Alice Ave S/Fairview Ave SE / Salem  OR,x,Tue  Jun 10 2014,16:40-17:40,23,2085,0,47,0,410,2,1315,25,38,0,38,9,12,0,9,0,5,2,7
 misc/commerical-vista-ops-safety-analysis-appendix.txt,Liberty Rd S -- Vista Ave / Salem  OR,x,Wed  Jun 11 2014,16:40-17:40,1,984,17,11,4,21,538,60,4,13,4,0,1,0,9,10,0,3,1,3
 misc/commerical-vista-ops-safety-analysis-appendix.txt,Liberty Rd S -- Salem Heights Ave SE / Salem  OR,x,Wed  Jun 11 2014,16:40-17:40,55,943,11,7,44,48,18,535,4,17,20,20,2,0,0,2,0,4,0,3
+misc/comprehensive_plan_map._zone_change_application_-_martell_commons.txt,Aldersgate Ln -- E Crestview Dr / Newberg  OR,x,Thu  Sep 11 2014,07:05-08:05,0,0,0,0,81,2,4,0,3,2,147,0,1,0,3,4,1,0,0,0
+misc/comprehensive_plan_map._zone_change_application_-_martell_commons.txt,Aldersgate Ln -- Park Ln / Newberg  OR,x,Thu  Sep 11 2014,07:05-08:05,0,2,4,0,0,8,31,4,0,0,0,0,0,1,0,6,0,0,1,0
+misc/comprehensive_plan_map._zone_change_application_-_martell_commons.txt,Villa Rd -- Park Ln / Newberg  OR,x,Thu  Sep 11 2014,07:05-08:05,0,253,0,0,0,0,0,138,9,38,0,1,2,9,1,0,0,3,0,0
+misc/comprehensive_plan_map._zone_change_application_-_martell_commons.txt,Villa Rd -- Fulton St / Newberg  OR,x,Thu  Sep 11 2014,07:05-08:05,70,169,4,1,1,2,4,90,66,57,1,121,3,3,2,15,3,3,1,0
+misc/comprehensive_plan_map._zone_change_application_-_martell_commons.txt,Villa Rd -- Hwy 99W / Newberg  OR,x,Thu  Sep 11 2014,07:05-08:05,48,59,116,93,844,7,9,62,345,2,1219,88,1,2,2,0,0,0,1,1
+misc/comprehensive_plan_map._zone_change_application_-_martell_commons.txt,Aldersgate Ln -- E Crestview Dr / Newberg  OR,x,Wed  Sep 10 2014,17:00-18:00,0,0,0,0,112,3,2,0,2,4,56,0,2,1,4,4,2,0,1,1
+misc/comprehensive_plan_map._zone_change_application_-_martell_commons.txt,Aldersgate Ln -- Park Ln / Newberg  OR,x,Wed  Sep 10 2014,17:00-18:00,0,1,7,7,0,50,18,2,0,0,0,0,0,1,1,1,0,0,0,0
+misc/comprehensive_plan_map._zone_change_application_-_martell_commons.txt,Villa Rd -- Park Ln / Newberg  OR,x,Wed  Sep 10 2014,17:00-18:00,5,153,0,0,0,0,0,216,52,26,0,1,1,8,0,0,0,2,0,2
+misc/comprehensive_plan_map._zone_change_application_-_martell_commons.txt,Villa Rd -- Fulton St / Newberg  OR,x,Wed  Sep 10 2014,17:00-18:00,151,139,0,1,0,3,6,172,82,72,0,115,8,1,1,13,4,1,3,6
+misc/comprehensive_plan_map._zone_change_application_-_martell_commons.txt,Villa Rd -- Hwy 99W / Newberg  OR,x,Wed  Sep 10 2014,17:00-18:00,98,60,137,82,1446,18,16,102,630,5,1210,63,1,6,15,25,0,2,3,3
 misc/cup-13-05_app_materials_web_with_notice_of_app_form.txt,I-5 SB Ramps -- Lower Boones Ferry Rd / Tualatin  OR,x,Tue  Sep 17 2013,16:30-17:30,593,17,507,0,1160,708,0,0,0,620,1227,0,7,0,2,0,4,0,6,0
 misc/cup-13-05_app_materials_web_with_notice_of_app_form.txt,I-5 NB Ramps -- Lower Boones Ferry Rd / Tualatin  OR,x,Tue  Sep 17 2013,16:30-17:30,0,0,0,588,1307,0,572,4,586,0,1184,557,5,1,3,0,4,0,7,0
 misc/cup-13-05_app_materials_web_with_notice_of_app_form.txt,SW 65th Ave -- Lower Boones Ferry Rd / Tualatin  OR,x,Tue  Sep 17 2013,16:30-17:30,327,43,129,41,1178,137,30,43,422,517,1000,262,0,0,0,1,4,1,5,0
@@ -4872,6 +4997,21 @@ misc/draft Obey Creek Task 1 Tech Memo _ web.txt,S Columbia St -- Mason Farm Rd/
 misc/draft Obey Creek Task 1 Tech Memo _ web.txt,NC 86/S Columbia St -- NC 54/Forham Blvd WB Ramps / Chapel Hill  NC,x,Tue  Apr 23 2013,11:45-12:45,157,320,0,63,9,583,0,391,171,0,0,0,0,2,0,1,0,0,0,0
 misc/draft Obey Creek Task 1 Tech Memo _ web.txt,NC 86/S Columbia St -- NC 54/Forham Blvd WB Ramps / Chapel Hill  NC,x,Tue  Apr 23 2013,16:45-17:45,329,786,0,42,1,927,0,422,312,0,0,0,0,3,1,4,0,11,0,1
 misc/draft Obey Creek Task 1 Tech Memo _ web.txt,NC 86/S Columbia St -- NC 54/Forham Blvd WB Ramps / Chapel Hill  NC,x,Tue  Apr 23 2013,07:30-08:30,137,243,0,55,0,457,0,1119,290,0,0,0,1,2,0,1,0,0,1,5
+misc/draftCCofCHTIS.txt,Martin Luther King Jr Blvd -- Weaver Dairy Rd Exn / Chapel Hill  NC,x,Tue  Mar 26 2013,07:45-08:45,95,1049,415,161,49,155,238,683,11,15,109,271,0,0,1,1,1,0,0,0
+misc/draftCCofCHTIS.txt,Martin Luther King Jr Blvd -- Weaver Dairy Rd Exn / Chapel Hill  NC,x,Tue  Mar 26 2013,12:15-13:15,75,498,213,174,72,159,139,539,4,7,43,54,0,4,1,0,1,0,0,0
+misc/draftCCofCHTIS.txt,Martin Luther King Jr Blvd -- Weaver Dairy Rd Exn / Chapel Hill  NC,x,Tue  Mar 26 2013,17:00-18:00,224,738,274,341,135,261,168,1092,22,16,82,118,1,3,2,2,0,0,0,2
+misc/draftCCofCHTIS.txt,Weaver Dairy Rd -- Banks Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,08:00-09:00,0,0,0,0,443,2,46,0,0,58,681,0,0,1,1,0,0,0,0,0
+misc/draftCCofCHTIS.txt,Weaver Dairy Rd -- Banks Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,12:30-13:30,0,0,0,0,442,0,54,0,0,75,358,0,7,1,0,0,2,0,0,0
+misc/draftCCofCHTIS.txt,Weaver Dairy Rd -- Banks Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,17:00-18:00,0,0,0,0,735,0,48,0,0,93,473,0,0,0,2,0,0,0,0,0
+misc/draftCCofCHTIS.txt,Martin Luther King Jr Dr -- Westminster Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,07:45-08:45,0,1132,65,48,0,86,92,891,0,0,0,0,3,1,5,2,0,1,1,0
+misc/draftCCofCHTIS.txt,Martin Luther King Jr Dr -- Westminster Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,12:15-13:15,0,614,28,45,0,97,115,646,0,0,0,0,0,1,1,0,0,0,1,0
+misc/draftCCofCHTIS.txt,Martin Luther King Jr Dr -- Westminster Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,17:00-18:00,0,949,39,51,0,127,133,1234,0,0,0,0,0,1,1,3,0,0,0,0
+misc/draftCCofCHTIS.txt,Banks Dr -- Westminster Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,08:00-09:00,72,8,5,22,56,0,0,11,14,5,19,117,4,5,0,4,0,0,0,1
+misc/draftCCofCHTIS.txt,Banks Dr -- Westminster Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,12:15-13:15,101,6,9,13,23,1,0,4,13,6,17,115,2,9,1,3,0,2,1,0
+misc/draftCCofCHTIS.txt,Banks Dr -- Westminster Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,16:00-17:00,136,15,17,13,31,1,1,9,15,10,37,123,1,26,4,5,0,0,0,0
+misc/draftCCofCHTIS.txt,Martin Luther King Jr Blvd -- Stateside Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,07:45-08:45,5,1235,32,20,0,5,3,917,30,23,0,5,0,0,1,3,0,1,0,0
+misc/draftCCofCHTIS.txt,Martin Luther King Jr Blvd -- Stateside Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,12:15-13:15,10,685,22,17,0,5,5,721,31,5,0,10,0,1,1,2,0,1,1,0
+misc/draftCCofCHTIS.txt,Martin Luther King Jr Blvd -- Stateside Dr / Chapel Hill  NC,x,Tue  Mar 26 2013,17:00-18:00,6,1015,58,18,1,2,9,1320,53,25,0,10,2,2,1,1,0,0,0,2
 misc/exhibit_f-1-1_part_2_-_tsp_appendices_05-2014_reduced.txt,Kruse Oak Blvd -- Kruse Way / Lake Oswego  OR,x,Tue  Nov 15 2011,16:50-17:50,350,82,140,60,931,77,93,45,129,152,1212,138,3,1,0,0,0,0,0,0
 misc/exhibit_f-1-1_part_2_-_tsp_appendices_05-2014_reduced.txt,Westlake Drive -- Kruse Way / Lake Oswego  OR,x,Tue  Nov 15 2011,16:50-17:50,141,73,49,55,809,11,43,124,83,28,1169,234,0,2,0,0,0,0,0,0
 misc/exhibit_f-1-1_part_2_-_tsp_appendices_05-2014_reduced.txt,Carman Drive -- Kruse Way / Lake Oswego  OR,x,Tue  Nov 15 2011,17:00-18:00,70,133,92,127,724,112,261,229,71,69,1103,97,0,1,1,1,0,0,0,0
@@ -4988,6 +5128,18 @@ misc/f-7_thru_f-16.txt,Boones Ferry Rd -- Les Schwab Dwy / Lake Oswego  OR,x,Tue
 misc/f-7_thru_f-16.txt,Boones Ferry Rd -- South Boat Dwy / Lake Oswego  OR,x,Tue  Jul 09 2013,17:00-18:00,1,0,1,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0
 misc/f-7_thru_f-16.txt,Pilkington Rd -- N Dwy (Anna's Bridal Boutique) / Lake Oswego  OR,x,Tue  Jul 09 2013,17:00-18:00,0,421,5,12,0,2,3,245,0,0,0,0,0,0,0,0,0,1,0,4
 misc/f-7_thru_f-16.txt,Pilkington Rd -- S Dwy (Taylor Made Labels) / Lake Oswego  OR,x,Tue  Jul 09 2013,17:00-18:00,0,438,3,14,0,8,1,234,0,1,0,0,0,0,0,2,0,2,1,5
+misc/finalWeaverCrossingTIS.txt,Martin Luther King Jr Blvd -- Weaver Dairy Rd / Chapel Hill  NC,x,Thu  Oct 02 2014,07:45-08:45,120,1001,340,175,70,158,247,675,12,15,145,271,0,1,0,0,0,1,0,0
+misc/finalWeaverCrossingTIS.txt,Martin Luther King Jr Blvd -- Weaver Dairy Rd / Chapel Hill  NC,x,Thu  Oct 02 2014,12:15-13:15,72,475,239,168,66,168,145,571,9,11,47,74,0,0,0,0,0,0,1,1
+misc/finalWeaverCrossingTIS.txt,Martin Luther King Jr Blvd -- Weaver Dairy Rd / Chapel Hill  NC,x,Thu  Oct 02 2014,17:00-18:00,226,757,246,367,180,295,181,1093,17,12,84,124,3,1,2,2,0,0,3,0
+misc/finalWeaverCrossingTIS.txt,Martin Luther King Jr Blvd -- Sparrow St / Chapel Hill  NC,x,Thu  Oct 02 2014,07:45-08:45,0,1171,0,3,0,0,2,945,0,0,0,0,0,2,0,4,0,1,0,1
+misc/finalWeaverCrossingTIS.txt,Martin Luther King Jr Blvd -- Sparrow St / Chapel Hill  NC,x,Thu  Oct 02 2014,11:45-12:45,0,673,0,2,0,0,1,706,0,0,0,0,0,3,0,2,0,0,0,0
+misc/finalWeaverCrossingTIS.txt,Martin Luther King Jr Blvd -- Sparrow St / Chapel Hill  NC,x,Thu  Oct 02 2014,17:00-18:00,0,1042,0,4,0,0,1,1299,0,0,0,0,0,1,0,2,0,0,0,0
+misc/finalWeaverCrossingTIS.txt,Martin Luther King Jr Blvd -- Westminster Dr / Chapel Hill  NC,x,Thu  Oct 02 2014,07:45-08:45,0,1131,53,38,0,64,84,896,0,0,0,0,1,0,0,8,0,0,0,0
+misc/finalWeaverCrossingTIS.txt,Martin Luther King Jr Blvd -- Westminster Dr / Chapel Hill  NC,x,Thu  Oct 02 2014,11:45-12:45,0,655,22,31,0,80,89,676,0,0,0,0,1,2,0,2,0,1,0,1
+misc/finalWeaverCrossingTIS.txt,Martin Luther King Jr Blvd -- Westminster Dr / Chapel Hill  NC,x,Thu  Oct 02 2014,17:00-18:00,0,1013,42,56,0,114,116,1244,0,0,0,0,0,1,1,1,0,1,0,1
+misc/finalWeaverCrossingTIS.txt,Banks Dr -- Weaver Dairy Rd / Chapel Hill  NC,x,Thu  Oct 02 2014,07:45-08:45,0,0,0,0,456,0,39,0,0,25,716,0,0,0,3,0,1,0,0,0
+misc/finalWeaverCrossingTIS.txt,Banks Dr -- Weaver Dairy Rd / Chapel Hill  NC,x,Thu  Oct 02 2014,12:30-13:30,0,0,0,0,473,0,45,0,0,58,413,0,4,0,0,3,1,0,0,0
+misc/finalWeaverCrossingTIS.txt,Banks Dr -- Weaver Dairy Rd / Chapel Hill  NC,x,Thu  Oct 02 2014,16:45-17:45,0,0,0,0,922,0,50,0,0,85,457,0,6,0,0,2,1,0,1,0
 misc/finaltrafficstudy.txt,Keizer Station Blvd -- Chemawa Rd/Lockhaven / Keizer  OR,x,7/20/2010,16:35-17:35,54,35,107,15,1168,383,269,50,5,10,654,111,6,0,2,0,0,0,0,0
 misc/finaltrafficstudy.txt,Stadium Dr/Ulali Dr -- Chemawa Rd / Keizer  OR,x,7/20/2010,16:35-17:35,188,0,0,448,1377,0,303,0,0,23,948,75,0,0,0,0,0,0,0,0
 misc/finaltrafficstudy.txt,I-5 NB Ramps -- Chemawa Rd / Keizer  OR,x,7/20/2010,16:35-17:35,0,0,0,88,690,0,222,0,1075,0,519,145,4,0,0,0,0,0,0,0
@@ -5407,6 +5559,38 @@ misc/technical_appendix_final_adams.txt,Oregon St -- Tualatin Sherwood Rd / Sher
 misc/technical_appendix_final_adams.txt,Cipole Rd -- Tualatin Sherwood Rd / Sherwood  OR,x,11/5/2008,16:45-17:45,192,0,99,102,961,0,0,0,0,0,688,82,0,0,0,0,0,0,0,0
 misc/technical_appendix_final_adams.txt,Cipole Rd -- Galbreath Dr / Sherwood  OR,x,11/5/2008,16:45-17:45,274,15,0,0,0,0,0,42,14,7,0,91,0,0,0,0,0,0,0,0
 misc/technical_appendix_final_adams.txt,Hwy 99W -- Edy Rd / Sherwood  OR,x,11/20/2008,16:50-17:50,103,125,88,154,1645,198,124,199,288,107,1034,167,0,2,1,0,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Dallas St -- 3rd Ave / Camas   OR,x,5/26/2011,16:50-17:50,31,83,62,78,176,29,36,131,67,83,362,19,1,10,13,14,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Union -- SR-14 / Camas   OR,x,5/26/2011,16:50-17:50,87,8,85,73,752,6,4,4,5,18,1034,82,0,0,0,0,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Lake Rd -- Payne St/218th Ave / Camas   OR,x,5/26/2011,16:50-17:50,8,0,61,32,355,1,0,0,0,0,528,6,0,0,0,0,1,0,1,0
+misc/tifdraft_appendices05-21-12.txt,Garfield St -- NE 6th Ave / Camas   OR,x,5/26/2011,16:50-17:50,46,299,5,3,11,3,2,248,20,17,17,58,0,3,0,0,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Everett (SR 500) -- 14th Ave / Camas   OR,x,5/26/2011,16:50-17:50,43,0,275,231,16,0,0,0,0,0,21,101,0,2,2,1,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,2nd Ave/4th St -- Evergreen Hwy/3rd Ave/E St / Camas  WA,x,6/1/2011,16:50-17:50,15,7,12,13,363,44,66,7,59,61,546,22,7,1,3,1,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,192nd Ave -- Brady Rd / Camas   OR,x,5/26/2011,16:50-17:50,0,764,49,35,1,281,419,862,6,11,2,8,0,0,0,0,0,0,1,0
+misc/tifdraft_appendices05-21-12.txt,Lechner -- 3rd Ave / Camas  WA,x,5/26/2011,16:50-17:50,39,29,21,20,239,59,78,47,71,72,322,53,5,4,0,6,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Whitney St/3rd St -- C St / Camas  WA,x,6/1/2011,16:50-17:50,93,0,22,11,82,0,0,0,0,0,144,125,4,0,0,0,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,192nd Ave -- 13th St / Camas  WA,x,6/1/2011,16:50-17:50,0,314,130,123,0,151,233,509,0,0,0,0,0,1,0,0,0,1,0,0
+misc/tifdraft_appendices05-21-12.txt,6th St/Lechner -- C St / Washougal  WA,x,6/1/2011,16:50-17:50,36,72,106,68,40,6,15,129,18,9,102,55,6,0,0,1,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Garfield St -- 3rd Ave / Camas   OR,x,5/26/2011,16:50-17:50,97,0,225,166,240,0,0,0,0,0,377,68,1,6,0,3,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Shepherd Rd -- 3rd Ave / Camas   OR,x,5/26/2011,16:50-17:50,2,3,1,3,449,114,69,1,62,92,342,2,1,0,1,0,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Sierra St -- 43rd Ave / Camas   OR,x,6/2/2011,16:50-17:50,79,0,71,55,26,0,0,0,0,0,48,90,0,0,0,0,0,0,1,0
+misc/tifdraft_appendices05-21-12.txt,2nd St -- SR 14 / Washougal  WA,x,6/4/2010,16:20-17:20,66,11,49,70,828,16,17,18,20,18,1086,129,0,0,0,1,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,N Shepherd Rd -- NE 3rd Ave / Washougal  WA,x,6/4/2010,16:25-17:25,75,0,49,89,435,3,2,1,3,4,533,126,4,0,6,0,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Adams St -- 6th Ave / Camas  OR,x,5/19/2011,16:50-17:50,4,2,0,4,156,4,4,2,377,588,143,6,13,9,0,0,0,0,1,1
+misc/tifdraft_appendices05-21-12.txt,Division St -- 6th Ave / Camas  OR,x,5/19/2011,16:50-17:50,66,0,25,33,504,0,0,0,0,0,712,121,0,0,0,0,0,2,2,0
+misc/tifdraft_appendices05-21-12.txt,Norwood St -- 6th Ave / Camas  OR,x,5/19/2011,16:50-17:50,19,7,6,10,489,57,84,2,42,88,822,47,2,0,0,2,0,0,1,0
+misc/tifdraft_appendices05-21-12.txt,Ivy St -- 6th Ave / Camas  OR,x,5/19/2011,16:50-17:50,27,3,8,15,507,0,1,0,6,11,807,45,6,0,2,7,1,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Division St -- 18th Ave / Camas  OR,x,5/19/2011,16:50-17:50,34,42,0,1,0,1,4,103,105,110,2,24,0,2,0,0,0,1,0,0
+misc/tifdraft_appendices05-21-12.txt,Sierra St -- 28th Ave / Camas  OR,x,5/19/2011,16:50-17:50,31,24,31,28,76,25,41,17,2,15,104,49,8,3,9,8,2,1,1,1
+misc/tifdraft_appendices05-21-12.txt,Cascade St -- 18th Ave / Camas  OR,x,5/19/2011,16:50-17:50,107,0,2,1,44,0,0,0,0,0,85,144,1,0,1,0,0,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Brady Rd -- 16th Ave / Camas  OR,x,5/19/2011,16:50-17:50,18,108,108,80,75,91,157,154,21,16,102,18,0,3,14,0,1,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Parker St -- Pacific Rim Blvd / Camas  OR,x,5/19/2011,16:50-17:50,122,171,14,7,29,19,26,194,27,55,62,191,3,0,0,0,4,0,0,0
+misc/tifdraft_appendices05-21-12.txt,Parker St -- 38th Ave / Camas  OR,x,5/19/2011,16:50-17:50,23,177,43,35,82,104,212,146,53,60,170,21,3,7,0,1,0,1,0,1
+misc/tifdraft_appendices05-21-12.txt,Payne Rd -- Pacific Rim Blvd / Camas  OR,x,5/19/2011,16:50-17:50,6,2,0,0,320,15,15,0,133,211,288,10,5,0,4,0,6,0,5,0
+misc/tifdraft_appendices05-21-12.txt,Sierra St -- Lake Rd / Camas  OR,x,5/19/2011,16:50-17:50,0,0,0,0,223,74,98,0,70,105,346,0,0,0,1,0,11,0,4,2
+misc/tifdraft_appendices05-21-12.txt,Friberg St -- Goodwin Rd / Camas  OR,x,5/19/2011,16:50-17:50,4,8,1,6,256,39,67,8,62,40,296,0,0,0,0,0,2,1,6,2
+misc/tifdraft_appendices05-21-12.txt,Parker St -- Lake Rd / Camas  OR,x,5/19/2011,16:50-17:50,30,14,5,6,283,38,56,14,157,197,415,28,1,0,0,0,13,0,5,5
+misc/tifdraft_appendices05-21-12.txt,Camas Meadows Dr -- Goodwin Rd / Camas  OR,x,5/19/2011,16:50-17:50,0,0,0,0,231,30,64,0,74,32,336,0,0,0,2,0,1,0,6,3
+misc/tifdraft_appendices05-21-12.txt,Brady Rd -- McIntosh Rd / Camas  OR,x,5/19/2011,16:50-17:50,0,212,4,7,0,76,117,333,0,0,0,0,0,0,0,0,0,0,0,0
 misc/tm2_existingconditions_appendix.txt,OR 126 -- S Rimrock Rd / Prineville  OR,x,10/20/2010,15:30-16:30,0,406,50,33,0,2,10,569,0,0,0,0,0,0,0,0,0,0,0,0
 misc/tm2_existingconditions_appendix.txt,SW Bozarth Rd -- Ochoco Hwy / Prineville  OR,x,10/19/2010,15:25-16:25,0,0,0,1,268,127,151,1,36,46,352,5,0,0,0,0,0,0,0,0
 misc/tm2_existingconditions_appendix.txt,SW Williams Rd -- Ochoco Hwy / Prineville  OR,x,10/19/2010,15:35-16:35,25,0,13,9,353,0,0,1,2,1,449,23,1,0,0,0,0,0,0,0
