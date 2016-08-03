@@ -15,6 +15,60 @@ dc/7TH%20ST%20AND%20ALABAMA%20AVE %20SE.txt,7th St -- Alabama Ave SE / Washingto
 dc/7TH%20ST%20AND%20ALABAMA%20AVE %20SE.txt,7th St -- Alabama Ave SE / Washington  DC,x,Thu  Nov 17 2011,07:45-08:45,6,0,234,427,406,0,0,0,0,0,276,11,62,17,93,9,1,1,0,0,38.843408,-76.995913
 dc/7TH%20ST%20AND%20ALABAMA%20AVE %20SE.txt,7th St -- Alabama Ave SE / Washington  DC,x,Thu  Nov 17 2011,12:00-13:00,8,0,169,191,234,0,0,0,0,2,248,9,23,7,31,7,0,0,0,0,38.843408,-76.995913
 dc/7TH%20ST%20AND%20ALABAMA%20AVE %20SE.txt,7th St -- Alabama Ave SE / Washington  DC,x,Thu  Nov 17 2011,17:00-18:00,12,1,335,166,325,2,0,0,0,0,375,5,28,12,38,9,0,0,1,0,38.843408,-76.995913
+dc/9.0-Traffic-Counts.txt,12th St NE -- H St / Washington  DC,x,Wed  Jul 18 2012,07:30-08:30,24,45,9,6,1157,10,7,20,32,9,325,6,39,27,54,17,9,5,13,3,38.900201,-76.990240
+dc/9.0-Traffic-Counts.txt,12th St NE -- H St / Washington  DC,x,Wed  Jul 18 2012,16:00-17:00,7,6,8,5,453,24,16,1,10,26,1037,7,79,32,67,30,11,7,3,3,38.900201,-76.990240
+dc/9.0-Traffic-Counts.txt,12th St NE -- K St NE / Washington  DC,x,Tue  Apr 23 2013,07:45-08:45,317,74,4,0,0,0,0,56,0,9,75,4,2,11,9,30,0,9,1,1,38.902481,-76.990242
+dc/9.0-Traffic-Counts.txt,12th St NE -- K St NE / Washington  DC,x,Tue  Apr 23 2013,16:30-17:30,99,73,0,0,0,0,9,25,4,48,251,2,7,25,14,58,5,12,2,3,38.902481,-76.990242
+dc/9.0-Traffic-Counts.txt,12th St NE/Montello Ave NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,07:45-08:45,35,135,17,0,818,224,0,0,47,28,351,0,49,22,10,45,2,6,4,0,,
+dc/9.0-Traffic-Counts.txt,12th St NE/Montello Ave NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,16:30-17:30,19,81,28,0,380,54,0,0,26,37,779,0,43,34,13,77,10,10,9,7,,
+dc/9.0-Traffic-Counts.txt,13th St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,07:45-08:45,0,0,0,0,870,10,15,0,142,39,394,0,31,3,8,4,5,0,6,2,38.901941,-76.988290
+dc/9.0-Traffic-Counts.txt,13th St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,16:30-17:30,0,0,0,0,345,15,32,0,77,98,944,0,29,8,19,3,10,0,12,5,38.901941,-76.988290
+dc/9.0-Traffic-Counts.txt,13th St NE -- H St / Washington  DC,x,Wed  Jul 18 2012,07:30-08:30,17,23,15,9,1075,17,20,106,64,9,322,10,22,15,28,6,10,8,12,1,38.900201,-76.988308
+dc/9.0-Traffic-Counts.txt,13th St NE -- H St / Washington  DC,x,Wed  Jul 18 2012,16:00-17:00,54,77,81,14,361,7,30,88,47,28,1032,29,35,20,74,16,10,1,7,8,38.900201,-76.988308
+dc/9.0-Traffic-Counts.txt,2nd St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,07:45-08:45,0,0,0,0,697,11,53,0,3,13,547,0,1,0,249,0,12,0,2,2,38.908387,-77.003409
+dc/9.0-Traffic-Counts.txt,2nd St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,16:30-17:30,0,0,0,0,689,5,195,0,8,23,670,0,14,15,185,1,16,0,26,1,38.908387,-77.003409
+dc/9.0-Traffic-Counts.txt,3rd St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,07:45-08:45,9,3,7,0,670,58,18,0,37,68,542,3,26,30,144,20,15,0,6,0,38.907796,-77.002017
+dc/9.0-Traffic-Counts.txt,3rd St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,16:30-17:30,5,1,10,0,579,18,22,2,101,39,804,0,70,30,117,20,16,1,24,2,38.907796,-77.002017
+dc/9.0-Traffic-Counts.txt,4th St -- M St NE / Washington  DC,x,Thu  Sep 11 2014,08:00-09:00,278,256,81,0,0,0,0,0,0,17,89,0,201,110,61,54,12,10,6,1,38.905643,-77.000573
+dc/9.0-Traffic-Counts.txt,4th St -- M St NE / Washington  DC,x,Thu  Sep 11 2014,17:00-18:00,107,232,41,0,3,1,0,1,0,35,259,3,83,46,95,37,18,3,2,2,38.905643,-77.000573
+dc/9.0-Traffic-Counts.txt,4th St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,07:45-08:45,50,159,15,17,723,390,0,0,0,77,437,81,34,38,182,44,8,1,11,0,38.907149,-77.000484
+dc/9.0-Traffic-Counts.txt,4th St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,16:30-17:30,62,78,28,2,535,113,0,0,0,52,815,44,25,22,107,24,14,9,14,2,38.907149,-77.000484
+dc/9.0-Traffic-Counts.txt,5th St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,07:45-08:45,22,14,4,46,1041,44,15,32,65,12,436,10,23,4,35,23,4,1,12,0,38.906706,-76.999431
+dc/9.0-Traffic-Counts.txt,5th St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,16:30-17:30,5,2,6,11,609,6,25,59,37,7,816,15,28,7,51,15,14,2,17,1,38.906706,-76.999431
+dc/9.0-Traffic-Counts.txt,6th St -- K St NE / Washington  DC,x,Thu  Sep 11 2014,08:00-09:00,211,0,3,57,534,0,45,201,86,0,130,36,71,38,30,22,8,2,24,3,38.902512,-76.998444
+dc/9.0-Traffic-Counts.txt,6th St -- K St NE / Washington  DC,x,Thu  Sep 11 2014,17:00-18:00,126,1,1,22,162,1,50,288,43,0,610,127,47,21,27,13,37,7,10,7,38.902512,-76.998444
+dc/9.0-Traffic-Counts.txt,6th St -- M St NE / Washington  DC,x,Thu  Sep 11 2014,07:45-08:45,0,411,5,0,0,0,10,271,0,18,82,27,58,33,47,37,2,1,3,2,38.905643,-76.998443
+dc/9.0-Traffic-Counts.txt,6th St -- M St NE / Washington  DC,x,Thu  Sep 11 2014,16:45-17:45,0,198,7,0,0,0,8,474,0,11,161,92,22,9,37,9,12,1,1,3,38.905643,-76.998443
+dc/9.0-Traffic-Counts.txt,6th St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,07:45-08:45,175,366,182,128,910,11,3,213,60,16,399,36,21,7,19,19,6,2,8,2,38.906230,-76.998336
+dc/9.0-Traffic-Counts.txt,6th St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,16:30-17:30,86,157,208,133,468,6,16,392,59,15,777,59,22,5,26,14,11,1,15,0,38.906230,-76.998336
+dc/9.0-Traffic-Counts.txt,6th St NE -- H St / Washington  DC,x,Wed  Jul 18 2012,07:30-08:30,0,0,0,47,1124,0,48,198,62,0,323,41,34,46,44,20,3,1,5,11,38.900204,-76.998442
+dc/9.0-Traffic-Counts.txt,6th St NE -- H St / Washington  DC,x,Wed  Jul 18 2012,16:00-17:00,0,0,0,41,404,0,42,214,42,0,1037,85,41,47,44,21,7,1,2,12,38.900204,-76.998442
+dc/9.0-Traffic-Counts.txt,6th St/Brentwood Pkwy -- Penn St NE / Washington  DC,x,Thu  Sep 11 2014,08:00-09:00,122,733,0,0,0,0,0,388,32,42,0,85,0,13,9,2,1,0,0,0,,
+dc/9.0-Traffic-Counts.txt,6th St/Brentwood Pkwy -- Penn St NE / Washington  DC,x,Thu  Sep 11 2014,17:00-18:00,70,376,0,0,0,0,0,842,29,41,0,172,0,9,12,3,0,3,0,2,,
+dc/9.0-Traffic-Counts.txt,7th St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,07:45-08:45,0,0,0,0,1034,20,4,0,15,56,639,0,31,7,43,9,5,0,11,0,38.905299,-76.996163
+dc/9.0-Traffic-Counts.txt,7th St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,16:30-17:30,0,0,0,0,596,10,13,0,25,44,1135,0,44,3,33,9,18,0,16,1,38.905299,-76.996163
+dc/9.0-Traffic-Counts.txt,8th St NE -- Florida Ave NE / Washington  DC,x,Thu  May 23 2013,16:30-17:30,43,31,54,9,445,6,21,13,124,107,1038,29,42,25,29,3,17,11,10,4,38.904758,-76.994898
+dc/9.0-Traffic-Counts.txt,8th St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,07:45-08:45,14,16,6,27,947,5,9,16,83,96,489,41,32,14,25,2,8,2,14,3,38.904758,-76.994898
+dc/9.0-Traffic-Counts.txt,8th St NE -- H St / Washington  DC,x,Wed  Jul 18 2012,07:30-08:30,26,134,15,21,1177,6,22,151,25,10,315,8,85,92,147,123,3,10,11,5,38.900203,-76.994961
+dc/9.0-Traffic-Counts.txt,8th St NE -- H St / Washington  DC,x,Wed  Jul 18 2012,16:00-17:00,33,144,40,34,404,9,58,186,14,34,961,43,131,121,220,123,8,6,5,6,38.900203,-76.994961
+dc/9.0-Traffic-Counts.txt,Bladensburg Rd -- Mt Olivet Rd NE / Washington  DC,x,Thu  Sep 11 2014,07:30-08:30,129,1087,5,2,1,0,0,716,2,0,0,119,5,4,3,9,0,2,0,2,,
+dc/9.0-Traffic-Counts.txt,Bladensburg Rd -- Mt Olivet Rd NE / Washington  DC,x,Thu  Sep 11 2014,16:30-17:30,95,802,3,2,1,4,2,1022,3,1,7,234,2,4,2,8,0,2,0,3,,
+dc/9.0-Traffic-Counts.txt,Bladensburg Rd -- Neal St NE / Washington  DC,x,Thu  Sep 11 2014,07:45-08:45,32,802,25,27,37,3,7,490,65,11,58,15,75,70,32,78,2,8,2,6,38.901766,-76.982370
+dc/9.0-Traffic-Counts.txt,Bladensburg Rd -- Neal St NE / Washington  DC,x,Thu  Sep 11 2014,16:30-17:30,16,465,50,46,30,17,19,788,46,15,59,50,37,47,59,139,6,10,7,15,38.901766,-76.982370
+dc/9.0-Traffic-Counts.txt,Bladensburg Rd -- Oates St/K St NE / Washington  DC,x,Tue  Sep 16 2014,08:00-09:00,24,839,14,13,18,20,4,540,16,13,23,19,3,41,15,40,1,8,4,4,,
+dc/9.0-Traffic-Counts.txt,Bladensburg Rd -- Oates St/K St NE / Washington  DC,x,Tue  Sep 16 2014,16:30-17:30,29,468,19,8,12,9,10,898,37,14,49,43,16,79,0,77,3,11,2,20,,
+dc/9.0-Traffic-Counts.txt,Bladensburg Rd NE -- Mt Olivet Rd/17th St NE / Washington  DC,x,Thu  Sep 11 2014,07:15-08:15,0,719,352,328,694,3,2,362,156,69,466,0,1,10,42,4,1,0,2,3,,
+dc/9.0-Traffic-Counts.txt,Bladensburg Rd NE -- Mt Olivet Rd/17th St NE / Washington  DC,x,Thu  Sep 11 2014,16:45-17:45,3,406,415,386,374,1,1,645,82,79,665,1,2,27,0,4,0,1,2,3,,
+dc/9.0-Traffic-Counts.txt,Orren St NE/I St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 30 2013,07:45-08:45,45,0,12,6,835,0,26,8,0,0,351,4,20,10,16,2,9,2,4,0,,
+dc/9.0-Traffic-Counts.txt,Orren St NE/I St NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 30 2013,16:30-17:30,31,0,5,9,368,0,52,31,3,0,803,31,35,12,10,6,4,0,2,0,,
+dc/9.0-Traffic-Counts.txt,Trinidad Ave -- Mt Olivet Rd NE / Washington  DC,x,Tue  Sep 16 2014,07:30-08:30,0,0,0,0,790,0,60,0,131,0,514,0,0,1,91,0,5,0,2,0,,
+dc/9.0-Traffic-Counts.txt,Trinidad Ave -- Mt Olivet Rd NE / Washington  DC,x,Tue  Sep 16 2014,16:45-17:45,0,0,0,0,468,0,85,0,72,0,870,0,2,0,46,0,0,0,2,0,,
+dc/9.0-Traffic-Counts.txt,Trinidad Ave NE -- Queen St NE / Washington  DC,x,Thu  Sep 11 2014,07:30-08:30,0,0,0,3,11,0,4,66,18,0,9,6,16,12,21,0,0,1,0,0,38.905880,-76.984393
+dc/9.0-Traffic-Counts.txt,Trinidad Ave NE -- Queen St NE / Washington  DC,x,Thu  Sep 11 2014,16:30-17:30,0,0,0,4,9,0,4,126,32,0,24,27,25,10,10,6,0,1,0,0,38.905880,-76.984393
+dc/9.0-Traffic-Counts.txt,West Virginia Ave NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,07:45-08:45,156,325,28,70,846,0,1,117,2,0,410,96,54,46,19,9,7,11,9,3,38.904000,-76.993135
+dc/9.0-Traffic-Counts.txt,West Virginia Ave NE -- Florida Ave NE / Washington  DC,x,Tue  Apr 23 2013,16:30-17:30,69,106,22,56,381,0,0,418,0,0,828,304,48,40,29,16,14,7,8,9,38.904000,-76.993135
+dc/9.0-Traffic-Counts.txt,West Virginia Ave NE -- Queen St NE / Washington  DC,x,Thu  Sep 11 2014,07:45-08:45,0,571,3,14,0,15,7,259,0,0,0,0,0,32,5,0,0,20,0,5,38.907777,-76.988831
+dc/9.0-Traffic-Counts.txt,West Virginia Ave NE -- Queen St NE / Washington  DC,x,Thu  Sep 11 2014,17:15-18:15,0,220,7,13,0,15,26,614,0,0,0,0,1,26,1,0,0,11,0,13,38.907777,-76.988831
 dc/ALABAMA%20AVE%20AND%2022%2623%20%26%20SUITLAND%20PK.txt,Suitland Pkwy Ramp -- Alabama Ave / Washington  DC,x,Sat  Oct 22 2011,15:00-16:00,0,0,0,0,573,66,46,1,28,121,503,0,21,10,81,0,0,0,3,0,
 dc/ALABAMA%20AVE%20AND%2022%2623%20%26%20SUITLAND%20PK.txt,Suitland Pkwy Ramp -- Alabama Ave / Washington  DC,x,Wed  Oct 26 2011,07:30-08:30,0,0,0,1,620,34,46,0,34,116,771,0,18,1,84,0,0,0,0,0,
 dc/ALABAMA%20AVE%20AND%2022%2623%20%26%20SUITLAND%20PK.txt,Suitland Pkwy Ramp -- Alabama Ave / Washington  DC,x,Wed  Oct 26 2011,12:00-13:00,0,0,0,0,457,26,50,0,16,76,443,0,0,7,27,3,3,0,1,0,
