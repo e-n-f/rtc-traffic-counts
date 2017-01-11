@@ -1699,7 +1699,7 @@ misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S 7th St
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S Darien St/I-76 Ramps -- Packer Ave / Philadelphia  PA,x,Fri  Jun 14 2013,16:00-17:00,33,23,230,112,235,41,77,142,76,28,199,128,0,0,3,0,1,0,0,0
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S 10th St -- Packer Ave / Philadelphia  PA,x,Fri  Jun 14 2013,16:30-17:30,76,9,100,62,250,9,16,13,18,10,307,48,0,8,1,4,0,2,1,5
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S 7th St -- Pattison Ave / Philadelphia  PA,x,Fri  Jun 14 2013,16:00-17:00,24,0,6,16,151,0,1,2,0,1,406,69,4,0,0,0,0,0,2,0
-misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S Darien St -- Pattison Ave / Philadelphia  PA,x,Fri  Jun 14 2013,16:00-17:00,47,5,15,8,163,4,19,48,24,8,439,142,15,1,0,0,0,0,0,0
+misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S Darien St -- Pattison Ave / Philadelphia  PA,x,Fri  Jun 14 2013,16:00-17:00,47,5,15,8,163,4,19,48,24,8,439,142,15,1,0,0,0,0,0,0,39.9042164,-75.1645992
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S Broad St SB -- I-95 SB Off-Ramp / Philadelphia  PA,x,Fri  May 31 2013,17:45-18:45,0,43,170,1,0,161,0,0,0,0,0,0,1,0,0,5,0,2,0,0
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S Broad St SB -- Pattison Ave / Philadelphia  PA,x,Fri  May 31 2013,17:30-18:30,147,373,287,0,304,44,0,0,0,97,491,0,133,0,76,47,3,7,0,0
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S Broad St (All) -- Pollock St / Philadelphia  PA,x,Fri  May 31 2013,17:15-18:15,0,893,0,335,0,256,252,690,5,211,0,85,13,9,0,26,0,8,0,5
@@ -1713,8 +1713,8 @@ misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S 7th St
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S Darien St/I-76 Ramps -- Packer Ave / Philadelphia  PA,x,Fri  May 31 2013,18:00-19:00,143,157,298,63,628,456,34,34,59,95,107,65,2,0,4,2,1,0,0,1
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S 10th St -- Packer Ave / Philadelphia  PA,x,Fri  May 31 2013,18:00-19:00,99,128,110,101,264,457,21,14,16,107,137,35,14,132,7,65,1,20,0,5
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S 7th St -- Pattison Ave / Philadelphia  PA,x,Fri  May 31 2013,18:00-19:00,265,121,33,63,491,163,1,2,3,63,134,29,365,47,362,135,1,0,0,0
-misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S Darien St -- Pattison Ave / Philadelphia  PA,x,Fri  May 31 2013,18:00-19:00,132,68,39,184,398,190,22,22,42,73,161,112,720,186,752,959,4,1,1,0
-misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S 11th St -- Pattison Ave / Philadelphia  PA,x,Fri  May 31 2013,17:45-18:45,0,0,0,0,362,34,74,0,23,98,516,5,1922,506,373,1061,4,0,1,7
+misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S Darien St -- Pattison Ave / Philadelphia  PA,x,Fri  May 31 2013,18:00-19:00,132,68,39,184,398,190,22,22,42,73,161,112,720,186,752,959,4,1,1,0,39.9042164,-75.1645992
+misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S 11th St -- Pattison Ave / Philadelphia  PA,x,Fri  May 31 2013,17:45-18:45,0,0,0,0,362,34,74,0,23,98,516,5,1922,506,373,1061,4,0,1,7,39.90476,-75.1685594
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,Penrose Ave -- Pattison Ave / Philadelphia  PA,x,Fri  May 31 2013,17:45-18:45,0,319,40,40,0,120,605,434,5,0,0,0,4,3,0,0,0,0,0,0
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S Broad St NB -- I-95 SB Off-Ramp / Philadelphia  PA,x,Fri  May 31 2013,17:00-18:00,0,0,0,387,88,0,0,402,1,0,0,0,2,11,0,0,0,0,0,5
 misc/Appendix_C_(Traffic_Data)_to_Stantecs_Traffic_Study_re_Stadium.txt,S Front St -- Packer Ave / Philadelphia  PA,x,Fri  Jun 14 2013,19:00-20:00,164,46,2,0,0,3,1,106,7,19,1,342,0,1,0,2,0,0,0,0
@@ -4378,12 +4378,12 @@ misc/Toole Appendices for Traffic Study 11.28.12.txt,37th St N -- N Harrison St 
 misc/Toole Appendices for Traffic Study 11.28.12.txt,37th St N -- N Harrison St / Arlington  VA,x,Wed  Sep 26 2012,14:15-15:15,1,0,24,22,5,8,0,0,0,0,12,1,1,4,1,1,0,0,0,0
 misc/Toole Appendices for Traffic Study 11.28.12.txt,N Edison St -- Old Dominion Dr / Arlington  VA,x,Wed  Sep 26 2012,07:30-08:30,8,858,0,0,0,0,0,737,48,38,0,12,0,0,0,1,0,0,0,1
 misc/Toole Appendices for Traffic Study 11.28.12.txt,N Edison St -- Old Dominion Dr / Arlington  VA,x,Wed  Sep 26 2012,17:00-18:00,12,863,0,0,0,0,0,870,10,7,0,2,0,0,0,0,0,1,0,2
-misc/Traffic StudyV2.txt,Montlake Blvd NE -- NE 45th St / Seattle  WA,x,Wed  Oct 14 2015,17:00-18:00,0,0,0,0,707,554,1406,0,121,5,507,0,4,0,36,0,1,0,2,0
-misc/Traffic StudyV2.txt,Montlake Blvd NE -- NE Pacific Pl / Seattle  WA,x,Thu  Oct 15 2015,17:00-18:00,71,823,0,43,0,126,7,1554,0,66,16,337,0,139,60,29,6,1,1,0
-misc/Traffic StudyV2.txt,Montlake Blvd NE -- NE Pacific St / Seattle  WA,x,Wed  Oct 14 2015,17:00-18:00,23,973,7,18,57,0,14,1653,456,1074,0,0,150,237,0,181,8,3,3,0
-misc/Traffic StudyV2.txt,15th Ave NE -- NE 45th St / Seattle  WA,x,Thu  Oct 15 2015,16:50-17:50,42,373,73,55,608,166,195,467,41,141,603,70,304,160,270,201,3,4,9,13
-misc/Traffic StudyV2.txt,Brooklyn Ave NE -- NE 45th St / Seattle  WA,x,Thu  Oct 15 2015,16:50-17:50,113,0,52,32,727,2,1,1,1,2,850,71,266,153,548,120,7,3,9,7
-misc/Traffic StudyV2.txt,Roosevelt Wy NE -- NE 45th St / Seattle  WA,x,Wed  Oct 14 2015,16:50-17:50,139,689,43,0,832,223,0,0,0,197,827,0,213,71,184,235,2,27,14,0
+misc/Traffic StudyV2.txt,Montlake Blvd NE -- NE 45th St / Seattle  WA,x,Wed  Oct 14 2015,17:00-18:00,0,0,0,0,707,554,1406,0,121,5,507,0,4,0,36,0,1,0,2,0,47.6610121,-122.2983695
+misc/Traffic StudyV2.txt,Montlake Blvd NE -- NE Pacific Pl / Seattle  WA,x,Thu  Oct 15 2015,17:00-18:00,71,823,0,43,0,126,7,1554,0,66,16,337,0,139,60,29,6,1,1,0,47.64898,-122.304619
+misc/Traffic StudyV2.txt,Montlake Blvd NE -- NE Pacific St / Seattle  WA,x,Wed  Oct 14 2015,17:00-18:00,23,973,7,18,57,0,14,1653,456,1074,0,0,150,237,0,181,8,3,3,0,47.64898,-122.304619
+misc/Traffic StudyV2.txt,15th Ave NE -- NE 45th St / Seattle  WA,x,Thu  Oct 15 2015,16:50-17:50,42,373,73,55,608,166,195,467,41,141,603,70,304,160,270,201,3,4,9,13,47.6612403,-122.3119148
+misc/Traffic StudyV2.txt,Brooklyn Ave NE -- NE 45th St / Seattle  WA,x,Thu  Oct 15 2015,16:50-17:50,113,0,52,32,727,2,1,1,1,2,850,71,266,153,548,120,7,3,9,7,47.6612856,-122.314262
+misc/Traffic StudyV2.txt,Roosevelt Wy NE -- NE 45th St / Seattle  WA,x,Wed  Oct 14 2015,16:50-17:50,139,689,43,0,832,223,0,0,0,197,827,0,213,71,184,235,2,27,14,0,47.6612747,-122.3175828
 misc/Traffic_Study_Appendices[1].txt,NB Memorial Dr -- Walnut St / St Louis  MO,x,8/20/2009,07:30-08:30,0,0,0,7,0,0,3,1827,0,0,2,91,2,5,4,0,0,0,0,0
 misc/Traffic_Study_Appendices[1].txt,SB Memorial Dr -- Walnut St / St Louis  MO,x,8/20/2009,07:30-08:30,1,524,1,0,0,0,0,0,0,116,90,0,2,0,6,2,0,0,0,0
 misc/Traffic_Study_Appendices[1].txt,NB Memorial Dr -- Market St / St Louis  MO,x,8/20/2009,07:30-08:30,0,0,0,0,0,0,0,1471,456,0,0,0,2,0,10,0,0,0,0,0
@@ -5025,28 +5025,28 @@ misc/documents_only.txt,10th St & Willamette Falls Dr,partial,Wednesday  October
 misc/documents_only.txt,10th St & Willamette Falls Dr,partial,Wednesday  October 25  2006,17:45-18:00,63,,23,33,44,,,,,,94,119,1,2,0,0,0,0,0,0
 misc/documents_only.txt,10th St & Willamette Falls Dr,partial,Wednesday  October 25  2006,18:00-18:15,53,,27,56,76,,,,,,55,88,1,0,0,0,0,0,0,0
 misc/documents_only.txt,10th St & Willamette Falls Dr,partial,Wednesday  October 25  2006,18:15-18:30,63,,14,59,79,,,,,,42,87,0,0,0,0,0,0,0,0
-misc/dpds021387.txt,15th Ave S -- Beacon Ave S / Seattle  WA,x,11/16/2010,16:45-17:45,2,435,255,231,198,1,4,196,114,180,318,1,27,47,52,7,0,7,4,1
-misc/dpds021387.txt,Beacon Ave S -- S Lander St / Seattle  WA,x,11/16/2010,17:00-18:00,63,509,17,36,34,22,11,357,16,35,13,19,0,47,160,12,0,2,1,2
-misc/dpds021387.txt,Beacon Ave S -- S McClellan St / Seattle  WA,x,11/16/2010,16:50-17:50,23,409,130,74,115,22,3,295,27,49,48,11,17,65,11,33,0,6,1,2
-misc/dpds021387.txt,Beacon Ave S -- Forest St / Seattle  WA,x,11/16/2010,16:15-17:15,17,447,2,2,1,0,3,325,22,13,0,3,31,45,0,47,0,4,0,3
-misc/dpds021387.txt,Beacon Ave S -- Hanford St / Seattle  WA,x,11/16/2010,16:55-17:55,22,477,17,12,10,4,8,404,10,12,1,7,29,16,3,14,1,7,1,5
-misc/dpds021387.txt,Beacon Ave S -- Hinds St / Seattle  WA,x,11/16/2010,16:10-17:10,7,465,11,3,1,5,4,428,13,17,1,2,6,6,0,0,0,4,0,7
-misc/dpds021387.txt,Beacon Ave S -- S Spokane St / Seattle  WA,x,11/16/2010,16:55-17:55,54,402,19,12,385,131,116,330,36,22,424,77,9,8,5,11,1,8,0,7
-misc/dpds021387.txt,Rainier Ave S -- S Bayview St / Seattle  WA,x,11/16/2010,16:55-17:55,3,1359,112,44,11,36,52,1018,16,35,23,13,27,20,4,32,0,0,0,0
-misc/dpds021387.txt,Martin Luther King Jr Way S -- S Bayview St / Seattle  WA,x,11/16/2010,16:40-17:40,57,705,0,0,0,0,0,548,61,169,0,35,2,0,0,2,0,1,0,2
-misc/dpds021387.txt,Rainier Ave S -- S McClellan St / Seattle  WA,x,11/16/2010,16:55-17:55,54,1183,110,110,192,26,27,870,92,134,305,106,16,12,0,31,1,1,0,0
-misc/dpds021387.txt,Martin Luther King Jr Way S -- S McClellan St / Seattle  WA,x,11/16/2010,16:40-17:40,92,558,223,86,223,65,55,421,9,38,306,89,16,9,16,3,0,1,0,0
-misc/dpds021387.txt,Martin Luther King Jr Way S -- Rainier Ave S / Seattle  WA,x,11/16/2010,16:20-17:20,3,329,309,276,660,0,0,204,354,474,835,0,52,0,0,0,0,0,0,1
-misc/dpds021387.txt,Martin Luther King Jr Way S -- S Hanford St / Seattle  WA,x,11/16/2010,16:15-17:15,0,836,1,6,0,21,20,614,0,0,0,0,25,14,2,0,0,1,0,1
-misc/dpds021387.txt,Rainier Ave S -- S Hanford St / Seattle  WA,x,11/16/2010,16:35-17:35,10,1148,0,0,0,0,0,949,16,12,0,7,3,9,0,6,0,0,0,0
-misc/dpds021387.txt,Martin Luther King Jr Way S -- S Walden St / Seattle  WA,x,11/16/2010,16:15-17:15,9,802,37,8,22,67,64,551,56,16,43,24,4,9,7,29,0,1,0,1
-misc/dpds021387.txt,Rainier Ave S -- S Walden St / Seattle  WA,x,11/16/2010,16:35-17:35,31,1092,41,31,51,57,22,912,30,66,44,16,2,19,40,1,0,1,1,0
-misc/dpds021387.txt,Martin Luther King Jr Way S -- S Myrtle St / Seattle  WA,x,11/17/2010,16:55-17:55,83,907,43,54,16,40,6,617,54,69,3,75,0,12,71,0,0,0,0,1
-misc/dpds021387.txt,Martin Luther King Jr Way S -- S Othello St / Seattle  WA,x,11/17/2010,16:50-17:50,55,847,72,54,175,52,57,589,167,254,248,80,60,0,0,50,1,0,0,2
-misc/dpds021387.txt,39th Ave S -- S Othello St / Seattle  WA,x,11/17/2010,16:45-17:45,46,9,32,18,333,25,23,8,16,27,464,34,18,31,10,15,1,0,1,0
-misc/dpds021387.txt,Martin Luther King Jr Way S -- S Webster St / Seattle  WA,x,11/17/2010,17:00-18:00,2,842,304,252,16,8,5,595,0,0,15,4,1,6,18,3,0,0,0,1
-misc/dpds021387.txt,15th Ave S -- Beacon Ave S / Seattle  WA,x,11/17/2010,16:20-17:20,2,438,252,208,206,2,1,148,106,164,283,2,16,15,15,20,3,3,1,2
-misc/dpds021387.txt,Martin Luther King Jr Way S -- Rainier Ave S / Seattle  WA,x,11/17/2010,16:55-17:55,2,316,332,244,616,0,2,205,336,492,816,0,28,0,0,6,1,0,0,1
+misc/dpds021387.txt,15th Ave S -- Beacon Ave S / Seattle  WA,x,11/16/2010,16:45-17:45,2,435,255,231,198,1,4,196,114,180,318,1,27,47,52,7,0,7,4,1,47.5805774,-122.3134282
+misc/dpds021387.txt,Beacon Ave S -- S Lander St / Seattle  WA,x,11/16/2010,17:00-18:00,63,509,17,36,34,22,11,357,16,35,13,19,0,47,160,12,0,2,1,2,47.5794476,-122.3123875
+misc/dpds021387.txt,Beacon Ave S -- S McClellan St / Seattle  WA,x,11/16/2010,16:50-17:50,23,409,130,74,115,22,3,295,27,49,48,11,17,65,11,33,0,6,1,2,47.5785946,-122.3115539
+misc/dpds021387.txt,Beacon Ave S -- Forest St / Seattle  WA,x,11/16/2010,16:15-17:15,17,447,2,2,1,0,3,325,22,13,0,3,31,45,0,47,0,4,0,3,47.5777839,-122.3108267
+misc/dpds021387.txt,Beacon Ave S -- Hanford St / Seattle  WA,x,11/16/2010,16:55-17:55,22,477,17,12,10,4,8,404,10,12,1,7,29,16,3,14,1,7,1,5,47.5750503,-122.3092283
+misc/dpds021387.txt,Beacon Ave S -- Hinds St / Seattle  WA,x,11/16/2010,16:10-17:10,7,465,11,3,1,5,4,428,13,17,1,2,6,6,0,0,0,4,0,7,47.5730598,-122.3086306
+misc/dpds021387.txt,Beacon Ave S -- S Spokane St / Seattle  WA,x,11/16/2010,16:55-17:55,54,402,19,12,385,131,116,330,36,22,424,77,9,8,5,11,1,8,0,7,47.5719008,-122.3082214
+misc/dpds021387.txt,Rainier Ave S -- S Bayview St / Seattle  WA,x,11/16/2010,16:55-17:55,3,1359,112,44,11,36,52,1018,16,35,23,13,27,20,4,32,0,0,0,0,47.5809999,-122.3002138
+misc/dpds021387.txt,Martin Luther King Jr Way S -- S Bayview St / Seattle  WA,x,11/16/2010,16:40-17:40,57,705,0,0,0,0,0,548,61,169,0,35,2,0,0,2,0,1,0,2,47.5812314,-122.2970372
+misc/dpds021387.txt,Rainier Ave S -- S McClellan St / Seattle  WA,x,11/16/2010,16:55-17:55,54,1183,110,110,192,26,27,870,92,134,305,106,16,12,0,31,1,1,0,0,47.578348,-122.2981091
+misc/dpds021387.txt,Martin Luther King Jr Way S -- S McClellan St / Seattle  WA,x,11/16/2010,16:40-17:40,92,558,223,86,223,65,55,421,9,38,306,89,16,9,16,3,0,1,0,0,47.5783565,-122.2961499
+misc/dpds021387.txt,Martin Luther King Jr Way S -- Rainier Ave S / Seattle  WA,x,11/16/2010,16:20-17:20,3,329,309,276,660,0,0,204,354,474,835,0,52,0,0,0,0,0,0,1,47.5763615,-122.2965949
+misc/dpds021387.txt,Martin Luther King Jr Way S -- S Hanford St / Seattle  WA,x,11/16/2010,16:15-17:15,0,836,1,6,0,21,20,614,0,0,0,0,25,14,2,0,0,1,0,1,47.5749772,-122.2967856
+misc/dpds021387.txt,Rainier Ave S -- S Hanford St / Seattle  WA,x,11/16/2010,16:35-17:35,10,1148,0,0,0,0,0,949,16,12,0,7,3,9,0,6,0,0,0,0,47.5749302,-122.2955928
+misc/dpds021387.txt,Martin Luther King Jr Way S -- S Walden St / Seattle  WA,x,11/16/2010,16:15-17:15,9,802,37,8,22,67,64,551,56,16,43,24,4,9,7,29,0,1,0,1,47.5719645,-122.2968583
+misc/dpds021387.txt,Rainier Ave S -- S Walden St / Seattle  WA,x,11/16/2010,16:35-17:35,31,1092,41,31,51,57,22,912,30,66,44,16,2,19,40,1,0,1,1,0,47.5729187,-122.294017
+misc/dpds021387.txt,Martin Luther King Jr Way S -- S Myrtle St / Seattle  WA,x,11/17/2010,16:55-17:55,83,907,43,54,16,40,6,617,54,69,3,75,0,12,71,0,0,0,0,1,47.5388719,-122.2820203
+misc/dpds021387.txt,Martin Luther King Jr Way S -- S Othello St / Seattle  WA,x,11/17/2010,16:50-17:50,55,847,72,54,175,52,57,589,167,254,248,80,60,0,0,50,1,0,0,2,47.5370527,-122.2811308
+misc/dpds021387.txt,39th Ave S -- S Othello St / Seattle  WA,x,11/17/2010,16:45-17:45,46,9,32,18,333,25,23,8,16,27,464,34,18,31,10,15,1,0,1,0,47.5370122,-122.2833658
+misc/dpds021387.txt,Martin Luther King Jr Way S -- S Webster St / Seattle  WA,x,11/17/2010,17:00-18:00,2,842,304,252,16,8,5,595,0,0,15,4,1,6,18,3,0,0,0,1,47.5353705,-122.2807515
+misc/dpds021387.txt,15th Ave S -- Beacon Ave S / Seattle  WA,x,11/17/2010,16:20-17:20,2,438,252,208,206,2,1,148,106,164,283,2,16,15,15,20,3,3,1,2,47.5805774,-122.3134282
+misc/dpds021387.txt,Martin Luther King Jr Way S -- Rainier Ave S / Seattle  WA,x,11/17/2010,16:55-17:55,2,316,332,244,616,0,2,205,336,492,816,0,28,0,0,6,1,0,0,1,47.5763615,-122.2965949
 misc/draft Obey Creek Task 1 Tech Memo _ web.txt,US Hwy 15-501 S -- Market St / Chapel Hill  NC,x,Thu  Nov 29 2012,16:45-17:45,220,919,7,0,2,0,0,509,88,88,0,353,0,0,0,1,0,0,0,0
 misc/draft Obey Creek Task 1 Tech Memo _ web.txt,US Hwy 15-501 S -- Market St / Chapel Hill  NC,x,Thu  Nov 29 2012,12:30-13:30,165,517,5,0,0,1,0,531,59,39,0,181,4,0,0,0,0,0,0,0
 misc/draft Obey Creek Task 1 Tech Memo _ web.txt,US Hwy 15-501 S -- Arlen Park Dr/Bennett Rd / Chapel Hill  NC,x,Thu  Nov 29 2012,07:30-08:30,88,646,9,8,16,86,61,1230,6,9,21,131,3,0,1,0,0,0,0,1
@@ -5543,28 +5543,28 @@ misc/rca_order_2015-0037_martell_commons_cpma.zma_with_exhibits_a-e_and_attachme
 misc/rca_order_2015-0037_martell_commons_cpma.zma_with_exhibits_a-e_and_attachments_1-6.txt,Villa Rd -- Park Ln / Newberg  OR,x,Wed  Sep 10 2014,17:00-18:00,5,153,0,0,0,0,0,216,52,26,0,1,1,8,0,0,0,2,0,2
 misc/rca_order_2015-0037_martell_commons_cpma.zma_with_exhibits_a-e_and_attachments_1-6.txt,Villa Rd -- Fulton St / Newberg  OR,x,Wed  Sep 10 2014,17:00-18:00,151,139,0,1,0,3,6,172,82,72,0,115,8,1,1,13,4,1,3,6
 misc/rca_order_2015-0037_martell_commons_cpma.zma_with_exhibits_a-e_and_attachments_1-6.txt,Villa Rd -- Hwy 99W / Newberg  OR,x,Wed  Sep 10 2014,17:00-18:00,98,60,137,82,1446,18,16,102,630,5,1210,63,1,6,15,25,0,2,3,3
-misc/s048264.txt,15th Ave S -- Beacon Ave S / Seattle  WA,x,11/16/2010,16:45-17:45,2,435,255,231,198,1,4,196,114,180,318,1,27,47,52,7,0,7,4,1
-misc/s048264.txt,Beacon Ave S -- S Lander St / Seattle  WA,x,11/16/2010,17:00-18:00,63,509,17,36,34,22,11,357,16,35,13,19,0,47,160,12,0,2,1,2
-misc/s048264.txt,Beacon Ave S -- S McClellan St / Seattle  WA,x,11/16/2010,16:50-17:50,23,409,130,74,115,22,3,295,27,49,48,11,17,65,11,33,0,6,1,2
-misc/s048264.txt,Beacon Ave S -- Forest St / Seattle  WA,x,11/16/2010,16:15-17:15,17,447,2,2,1,0,3,325,22,13,0,3,31,45,0,47,0,4,0,3
-misc/s048264.txt,Beacon Ave S -- Hanford St / Seattle  WA,x,11/16/2010,16:55-17:55,22,477,17,12,10,4,8,404,10,12,1,7,29,16,3,14,1,7,1,5
-misc/s048264.txt,Beacon Ave S -- Hinds St / Seattle  WA,x,11/16/2010,16:10-17:10,7,465,11,3,1,5,4,428,13,17,1,2,6,6,0,0,0,4,0,7
-misc/s048264.txt,Beacon Ave S -- S Spokane St / Seattle  WA,x,11/16/2010,16:55-17:55,54,402,19,12,385,131,116,330,36,22,424,77,9,8,5,11,1,8,0,7
-misc/s048264.txt,Rainier Ave S -- S Bayview St / Seattle  WA,x,11/16/2010,16:55-17:55,3,1359,112,44,11,36,52,1018,16,35,23,13,27,20,4,32,0,0,0,0
-misc/s048264.txt,Martin Luther King Jr Way S -- S Bayview St / Seattle  WA,x,11/16/2010,16:40-17:40,57,705,0,0,0,0,0,548,61,169,0,35,2,0,0,2,0,1,0,2
-misc/s048264.txt,Rainier Ave S -- S McClellan St / Seattle  WA,x,11/16/2010,16:55-17:55,54,1183,110,110,192,26,27,870,92,134,305,106,16,12,0,31,1,1,0,0
-misc/s048264.txt,Martin Luther King Jr Way S -- S McClellan St / Seattle  WA,x,11/16/2010,16:40-17:40,92,558,223,86,223,65,55,421,9,38,306,89,16,9,16,3,0,1,0,0
-misc/s048264.txt,Martin Luther King Jr Way S -- Rainier Ave S / Seattle  WA,x,11/16/2010,16:20-17:20,3,329,309,276,660,0,0,204,354,474,835,0,52,0,0,0,0,0,0,1
-misc/s048264.txt,Martin Luther King Jr Way S -- S Hanford St / Seattle  WA,x,11/16/2010,16:15-17:15,0,836,1,6,0,21,20,614,0,0,0,0,25,14,2,0,0,1,0,1
-misc/s048264.txt,Rainier Ave S -- S Hanford St / Seattle  WA,x,11/16/2010,16:35-17:35,10,1148,0,0,0,0,0,949,16,12,0,7,3,9,0,6,0,0,0,0
-misc/s048264.txt,Martin Luther King Jr Way S -- S Walden St / Seattle  WA,x,11/16/2010,16:15-17:15,9,802,37,8,22,67,64,551,56,16,43,24,4,9,7,29,0,1,0,1
-misc/s048264.txt,Rainier Ave S -- S Walden St / Seattle  WA,x,11/16/2010,16:35-17:35,31,1092,41,31,51,57,22,912,30,66,44,16,2,19,40,1,0,1,1,0
-misc/s048264.txt,Martin Luther King Jr Way S -- S Myrtle St / Seattle  WA,x,11/17/2010,16:55-17:55,83,907,43,54,16,40,6,617,54,69,3,75,0,12,71,0,0,0,0,1
-misc/s048264.txt,Martin Luther King Jr Way S -- S Othello St / Seattle  WA,x,11/17/2010,16:50-17:50,55,847,72,54,175,52,57,589,167,254,248,80,60,0,0,50,1,0,0,2
-misc/s048264.txt,39th Ave S -- S Othello St / Seattle  WA,x,11/17/2010,16:45-17:45,46,9,32,18,333,25,23,8,16,27,464,34,18,31,10,15,1,0,1,0
-misc/s048264.txt,Martin Luther King Jr Way S -- S Webster St / Seattle  WA,x,11/17/2010,17:00-18:00,2,842,304,252,16,8,5,595,0,0,15,4,1,6,18,3,0,0,0,1
-misc/s048264.txt,15th Ave S -- Beacon Ave S / Seattle  WA,x,11/17/2010,16:20-17:20,2,438,252,208,206,2,1,148,106,164,283,2,16,15,15,20,3,3,1,2
-misc/s048264.txt,Martin Luther King Jr Way S -- Rainier Ave S / Seattle  WA,x,11/17/2010,16:55-17:55,2,316,332,244,616,0,2,205,336,492,816,0,28,0,0,6,1,0,0,1
+misc/s048264.txt,15th Ave S -- Beacon Ave S / Seattle  WA,x,11/16/2010,16:45-17:45,2,435,255,231,198,1,4,196,114,180,318,1,27,47,52,7,0,7,4,1,47.5805774,-122.3134282
+misc/s048264.txt,Beacon Ave S -- S Lander St / Seattle  WA,x,11/16/2010,17:00-18:00,63,509,17,36,34,22,11,357,16,35,13,19,0,47,160,12,0,2,1,2,47.5794476,-122.3123875
+misc/s048264.txt,Beacon Ave S -- S McClellan St / Seattle  WA,x,11/16/2010,16:50-17:50,23,409,130,74,115,22,3,295,27,49,48,11,17,65,11,33,0,6,1,2,47.5785946,-122.3115539
+misc/s048264.txt,Beacon Ave S -- Forest St / Seattle  WA,x,11/16/2010,16:15-17:15,17,447,2,2,1,0,3,325,22,13,0,3,31,45,0,47,0,4,0,3,47.5777839,-122.3108267
+misc/s048264.txt,Beacon Ave S -- Hanford St / Seattle  WA,x,11/16/2010,16:55-17:55,22,477,17,12,10,4,8,404,10,12,1,7,29,16,3,14,1,7,1,5,47.5750503,-122.3092283
+misc/s048264.txt,Beacon Ave S -- Hinds St / Seattle  WA,x,11/16/2010,16:10-17:10,7,465,11,3,1,5,4,428,13,17,1,2,6,6,0,0,0,4,0,7,47.5730598,-122.3086306
+misc/s048264.txt,Beacon Ave S -- S Spokane St / Seattle  WA,x,11/16/2010,16:55-17:55,54,402,19,12,385,131,116,330,36,22,424,77,9,8,5,11,1,8,0,7,47.5719008,-122.3082214
+misc/s048264.txt,Rainier Ave S -- S Bayview St / Seattle  WA,x,11/16/2010,16:55-17:55,3,1359,112,44,11,36,52,1018,16,35,23,13,27,20,4,32,0,0,0,0,47.5809999,-122.3002138
+misc/s048264.txt,Martin Luther King Jr Way S -- S Bayview St / Seattle  WA,x,11/16/2010,16:40-17:40,57,705,0,0,0,0,0,548,61,169,0,35,2,0,0,2,0,1,0,2,47.5812314,-122.2970372
+misc/s048264.txt,Rainier Ave S -- S McClellan St / Seattle  WA,x,11/16/2010,16:55-17:55,54,1183,110,110,192,26,27,870,92,134,305,106,16,12,0,31,1,1,0,0,47.578348,-122.2981091
+misc/s048264.txt,Martin Luther King Jr Way S -- S McClellan St / Seattle  WA,x,11/16/2010,16:40-17:40,92,558,223,86,223,65,55,421,9,38,306,89,16,9,16,3,0,1,0,0,47.5783565,-122.2961499
+misc/s048264.txt,Martin Luther King Jr Way S -- Rainier Ave S / Seattle  WA,x,11/16/2010,16:20-17:20,3,329,309,276,660,0,0,204,354,474,835,0,52,0,0,0,0,0,0,1,47.5763615,-122.2965949
+misc/s048264.txt,Martin Luther King Jr Way S -- S Hanford St / Seattle  WA,x,11/16/2010,16:15-17:15,0,836,1,6,0,21,20,614,0,0,0,0,25,14,2,0,0,1,0,1,47.5749772,-122.2967856
+misc/s048264.txt,Rainier Ave S -- S Hanford St / Seattle  WA,x,11/16/2010,16:35-17:35,10,1148,0,0,0,0,0,949,16,12,0,7,3,9,0,6,0,0,0,0,47.5749302,-122.2955928
+misc/s048264.txt,Martin Luther King Jr Way S -- S Walden St / Seattle  WA,x,11/16/2010,16:15-17:15,9,802,37,8,22,67,64,551,56,16,43,24,4,9,7,29,0,1,0,1,47.5719645,-122.2968583
+misc/s048264.txt,Rainier Ave S -- S Walden St / Seattle  WA,x,11/16/2010,16:35-17:35,31,1092,41,31,51,57,22,912,30,66,44,16,2,19,40,1,0,1,1,0,47.5729187,-122.294017
+misc/s048264.txt,Martin Luther King Jr Way S -- S Myrtle St / Seattle  WA,x,11/17/2010,16:55-17:55,83,907,43,54,16,40,6,617,54,69,3,75,0,12,71,0,0,0,0,1,47.5388719,-122.2820203
+misc/s048264.txt,Martin Luther King Jr Way S -- S Othello St / Seattle  WA,x,11/17/2010,16:50-17:50,55,847,72,54,175,52,57,589,167,254,248,80,60,0,0,50,1,0,0,2,47.5370527,-122.2811308
+misc/s048264.txt,39th Ave S -- S Othello St / Seattle  WA,x,11/17/2010,16:45-17:45,46,9,32,18,333,25,23,8,16,27,464,34,18,31,10,15,1,0,1,0,47.5370122,-122.2833658
+misc/s048264.txt,Martin Luther King Jr Way S -- S Webster St / Seattle  WA,x,11/17/2010,17:00-18:00,2,842,304,252,16,8,5,595,0,0,15,4,1,6,18,3,0,0,0,1,47.5353705,-122.2807515
+misc/s048264.txt,15th Ave S -- Beacon Ave S / Seattle  WA,x,11/17/2010,16:20-17:20,2,438,252,208,206,2,1,148,106,164,283,2,16,15,15,20,3,3,1,2,47.5805774,-122.3134282
+misc/s048264.txt,Martin Luther King Jr Way S -- Rainier Ave S / Seattle  WA,x,11/17/2010,16:55-17:55,2,316,332,244,616,0,2,205,336,492,816,0,28,0,0,6,1,0,0,1,47.5763615,-122.2965949
 misc/sherwood_cannery_pud_traffic_study_3-2-09_v1_0.txt,SW Meinecke Rd -- Hwy 99W / Sherwood  OR,x,1/15/2009,07:05-08:05,7,61,109,45,820,177,351,35,31,56,1806,19,0,0,2,1,0,0,0,0
 misc/sherwood_cannery_pud_traffic_study_3-2-09_v1_0.txt,Edy Rd -- Hwy 99W / Sherwood  OR,x,11/18/2008,07:10-08:10,81,163,141,50,765,138,188,192,276,98,1814,170,1,2,0,0,0,0,0,0
 misc/sherwood_cannery_pud_traffic_study_3-2-09_v1_0.txt,Hwy 99W -- Tualatin Sherwood Rd / Sherwood  OR,x,11/5/2008,07:10-08:10,79,522,70,79,176,276,479,1538,159,133,429,285,2,0,0,0,0,0,0,0

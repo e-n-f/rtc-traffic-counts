@@ -1,8 +1,6 @@
 60th St -- Stanford Ave / Oakland  CA,37.84459, -122.27533
 Adeline St -- 40th St / Emeryville  CA,37.83134, -122.27825
 Adeline St -- Lowell St / Oakland  CA,37.83771, -122.27582
-Airport Dr -- 98th Ave / Oakland  CA,
-Airport Dr -- Doolittle Dr / Oakland  CA,
 Broadway -- 16th St / Oakland  CA,37.80600, -122.27016
 Broadway -- 17th St / Oakland  CA,37.80666, -122.26977
 Broadway -- 19th St / Oakland  CA,37.80776, -122.26911
@@ -12,7 +10,6 @@ Broadway -- Telegraph Ave/15th St / Oakland  CA,37.80531, -122.27065
 Christie Ave -- Powell St / Emeryville  CA,37.838466, -122.294674
 Derby St -- 12th St / Oakland  CA,37.77717, -122.22828
 Harrison St -- 7th St / Oakland  CA,37.79814, -122.27066
-Hegenberger Rd -- Airport Dr / Oakland  CA,
 Hegenberger Rd -- Edgewater Dr / Oakland  CA,37.73697, -122.19685
 Hegenberger Rd -- I-880 SB Off Ramp / Oakland  CA,37.73938, -122.19663
 Hegenberger Rd -- South Coliseum Way / Oakland  CA,37.74474, -122.19608
@@ -67,9 +64,6 @@ Grand Ave -- Mandana Blvd / Oakland  CA,37.81426, -122.24625
 Grand Ave -- Mandana Blvd / Oakland  CA,37.81426, -122.24625
 Grand Ave -- Elwood Ave / Oakland  CA,37.81371, -122.24662
 Grand Ave -- Elwood Ave / Oakland  CA,37.81371, -122.24662
-Beltline Rd (NB Ramps) -- Barger Dr / Eugene  OR,
-Beltline Rd (SB Ramps) -- Barger Dr / Eugene  OR,
-Beltline Rd -- Roosevelt Rd / Eugene  OR,
 Chambers St -- W 18th Ave / Eugene  OR,44.0403773,-123.1177847
 Chambers St -- W 6th Ave / Eugene  OR,44.0532438,-123.1184883
 Coburg Rd -- Cal Young Rd / Eugene  OR,44.0773675,-123.0694202
@@ -79,16 +73,12 @@ Coburg Rd -- E 8th Ave / Eugene  OR,44.0509694,-123.0867475
 Coburg Rd -- E Broadway / Eugene  OR,44.0499154,-123.0866497
 Coburg Rd -- Harlow Rd / Eugene  OR,44.0698521,-123.0697052
 Coburg St -- 4th Ave / Eugene  OR,44.0553786,-123.0858781
-Delta Hwy SB Ramps -- Valley River Rd / Eugene  OR,
-EWEB North & South Overflow Park -- 4th Ave / Eugene  OR,
-EWEB Parking Lot -- 4th Ave / Eugene  OR,
 Franklin Blvd -- E 11th Ave / Eugene  OR,44.0477555,-123.075936
 Franklin Blvd -- E 30th Ave / Eugene  OR,44.0139168,-123.0224604
 High St -- 4th Ave / Eugene  OR,44.0553536,-123.088118
 High St -- 5th Ave / Eugene  OR,44.0542676,-123.088122
 High St -- 6th Ave / Eugene  OR,44.0532194,-123.088157
 High St -- 7th Ave / Eugene  OR,44.0521129,-123.0881483
-High St -- West Dwy / Eugene  OR,
 Hilyard Rd -- Amazon Pkwy / Eugene  OR,44.0241743,-123.0815536
 Hilyard St -- 8th Ave / Eugene  OR,44.0514033,-123.0833753
 Hilyard St -- Broadway / Eugene  OR,44.049903,-123.082159
@@ -96,11 +86,9 @@ Hilyard St -- E 18th Ave / Eugene  OR,44.0399998,-123.0821276
 Madison St -- W 6th Ave / Eugene  OR,44.0532822,-123.1033954
 McVay Hwy -- E 30th Ave / Eugene  OR,44.0134995,-123.0246056
 Mill St -- 4th Ave / Eugene  OR,44.055378,-123.0866039
-Mill St -- EWEB Parking Lots / Eugene  OR,
 Norkenzie Rd -- Crescent Ave / Eugene  OR,44.0928351,-123.0875321
 Oak St -- W 18th Ave / Eugene  OR,44.040016,-123.0912138
 Oakway Rd -- Coburg Rd / Eugene  OR,44.0635338,-123.0782803
-Pacific Hwy W -- Beltline Rd (EB Ramps) / Eugene  OR,
 Pacific Hwy W -- Prairie Rd / Eugene  OR,44.0886253,-123.1584401
 Pacific Hwy W -- Roosevelt Blvd / Eugene  OR,44.0636799,-123.1369259
 Patterson St -- E 18th Ave / Eugene  OR,44.0400184,-123.0836545
@@ -210,18 +198,12 @@ Washington St -- Prince St / Alexandria  VA,38.8039013,-77.0472609
 8th St -- O St / Sacramento  CA,38.5754354,-121.4985677
 Coloma Way -- D St / Sacramento  CA,38.5737722,-121.4420571
 Coloma Way/50th St -- E St / Sacramento  CA,38.5713229,-121.4411244
-E Hospital Dwy -- F St / Sacramento  CA,
 Elvas Ave -- C St / Sacramento  CA,38.5736739,-121.4339923
 Elvas Ave -- F St / Sacramento  CA,38.5706716,-121.433229
-Middle Hospital Dwy -- F St / Sacramento  CA,
-W Hospital Dwy -- F St / Sacramento  CA,
 Abel St -- Great Mall Pkwy / Milpitas  CA,37.4155887,-121.9049134
 Alder Dr -- Tasman Dr / Milpitas  CA,37.4138896,-121.9167637
 California Cir -- I-880 NB Ramps / Milpitas  CA,37.4544194,-121.9211974
 Hillview Dr -- E Calaveras Blvd / Milpitas  CA,37.4335712,-121.8933559
-I-880 NB Ramps -- SR 237 / Milpitas  CA,
-I-880 SB Ramps -- SR 237 / Milpitas  CA,
-I-880 SB Ramps -- Tasman Dr / Milpitas  CA,
 Mall Access Dwy -- Ranch Dr / Milpitas  CA,37.4266298,-121.9219647
 McCarthy Blvd -- Alder Dr / Milpitas  CA,37.4157084,-121.9210269
 McCarthy Blvd -- Barber Ln / Milpitas  CA,37.4010287,-121.9144303
@@ -239,3 +221,45 @@ S Main St -- Great Mall Pkwy / Milpitas  CA,37.414197,-121.9018364
 S Milpitas Blvd -- E Calaveras Blvd / Milpitas  CA,37.4322761,-121.8995564
 Thompson St/I-880 NB Ramps -- Great Mall Pkwy / Milpitas  CA,37.4158219,-121.9108986
 Zanker Rd -- Holger Way / Milpitas  CA,37.4181969,-121.9390781
+S 11th St -- Pattison Ave / Philadelphia  PA,39.90476,-75.1685594
+S Darien St -- Pattison Ave / Philadelphia  PA,39.9042164,-75.1645992
+Brooklyn Ave NE -- NE 45th St / Seattle  WA,47.6612856,-122.314262
+15th Ave NE -- NE 45th St / Seattle  WA,47.6612403,-122.3119148
+Kings Blvd -- Monroe Ave / Corvallis  OR,44.5679126,-123.2750906
+14th St -- Jefferson Way / Corvallis  OR,44.5645875,-123.2731264
+Kings Blvd -- Monroe Ave / Corvallis  OR,44.5679283,-123.2750805
+14th St -- Jefferson Way / Corvallis  OR,44.5645875,-123.2731264
+Roosevelt Wy NE -- NE 45th St / Seattle  WA,47.6612747,-122.3175828
+26th St -- Washington Way / Corvallis  OR,44.5619394,-123.2795979
+Montlake Blvd NE -- NE Pacific St / Seattle  WA,47.64898,-122.304619
+25th St/Park Terrace Pl -- Monroe Ave / Corvallis  OR,44.5687524,-123.2789371
+26th St -- Monroe Ave / Corvallis  OR,44.5690158,-123.2799989
+26th St -- Washington Way / Corvallis  OR,44.5619435,-123.2795809
+17th St -- Washington Way / Corvallis  OR,44.5619081,-123.27637
+25th St/Park Terrace Pl -- Monroe Ave / Corvallis  OR,44.5687524,-123.2789371
+15th St -- Washington Ave / Corvallis  OR,44.5625765,-123.2741073
+26th St -- Monroe Ave / Corvallis  OR,44.5690267,-123.2800102
+Montlake Blvd NE -- NE Pacific Pl / Seattle  WA,47.64898,-122.304619
+Beacon Ave S -- S Lander St / Seattle  WA,47.5794476,-122.3123875
+15th Ave S -- Beacon Ave S / Seattle  WA,47.5794591,-122.313371
+Beacon Ave S -- S McClellan St / Seattle  WA,47.5785946,-122.3115539
+Beacon Ave S -- Forest St / Seattle  WA,47.5777839,-122.3108267
+Martin Luther King Jr Way S -- S Othello St / Seattle  WA,47.5370527,-122.2811308
+Rainier Ave S -- S Bayview St / Seattle  WA,47.5809999,-122.3002138
+Martin Luther King Jr Way S -- S Myrtle St / Seattle  WA,47.5388719,-122.2820203
+39th Ave S -- S Othello St / Seattle  WA,47.5370122,-122.2833658
+15th Ave S -- Beacon Ave S / Seattle  WA,47.5805774,-122.3134282
+Beacon Ave S -- Hanford St / Seattle  WA,47.5750503,-122.3092283
+Rainier Ave S -- S Walden St / Seattle  WA,47.5729187,-122.294017
+Rainier Ave S -- S McClellan St / Seattle  WA,47.578348,-122.2981091
+Martin Luther King Jr Way S -- Rainier Ave S / Seattle  WA,47.5763733,-122.2966058
+Martin Luther King Jr Way S -- S Walden St / Seattle  WA,47.5719645,-122.2968583
+Martin Luther King Jr Way S -- S McClellan St / Seattle  WA,47.5783565,-122.2961499
+Montlake Blvd NE -- NE 45th St / Seattle  WA,47.6610121,-122.2983695
+Martin Luther King Jr Way S -- S Hanford St / Seattle  WA,47.5749772,-122.2967856
+Martin Luther King Jr Way S -- Rainier Ave S / Seattle  WA,47.5763615,-122.2965949
+Beacon Ave S -- S Spokane St / Seattle  WA,47.5719008,-122.3082214
+Martin Luther King Jr Way S -- S Webster St / Seattle  WA,47.5353705,-122.2807515
+Rainier Ave S -- S Hanford St / Seattle  WA,47.5749302,-122.2955928
+Beacon Ave S -- Hinds St / Seattle  WA,47.5730598,-122.3086306
+Martin Luther King Jr Way S -- S Bayview St / Seattle  WA,47.5812314,-122.2970372
