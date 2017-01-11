@@ -1,5 +1,7 @@
 #!/bin/sh
 
+./split-multicol > misc/multicol.txt
+
 ./extract corvallis/*.txt | ./geocode > counts-corvallis.csv
 ./extract oakland/*.txt oakland/*/*.txt | ./geocode > counts-oakland.csv
 ./extract misc/*.txt | ./geocode > counts-misc.csv

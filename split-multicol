@@ -1,0 +1,38 @@
+#!/usr/bin/perl
+
+for $file (<*/*.txt>) {
+	next if ($file =~ /multicol/);
+
+	open(IN, "$file");
+	while (<IN>) {
+		chomp;
+		if (/\014/) {
+			if ($within) {
+				$within = 0;
+				print "\014$left\014$right";
+				$left = "";
+				$right = "";
+			}
+		}
+
+		if (/\014(Type of peak hour.*)(Type of peak hour)/) {
+			$left = "$1\n";
+			$right = "$2\n";
+			$width = length($1);
+			$within = 1;
+		} elsif ($within) {
+			$s = substr($_, 0, $width);
+			$s =~ s/ *$//;
+			$left .= $s . "\n";
+			$right .= substr($_, $width) . "\n";
+		}
+	}
+	close(IN);
+}
+
+if ($within) {
+	$within = 0;
+	print "\014$left\014$right";
+	$left = "";
+	$right = "";
+}

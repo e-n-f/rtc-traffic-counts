@@ -1206,6 +1206,7 @@ misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Brighton Park
 misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / Frankfort  KY,x,Wed  Nov 06 2013,07:15-08:15,18,1091,55,69,7,75,113,1132,25,79,7,23,0,1,0,0,0,0,0,0
 misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / Frankfort  KY,x,Wed  Nov 06 2013,12:00-13:00,20,1029,107,76,6,101,121,1014,47,69,5,23,0,0,1,2,0,0,0,1
 misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / Frankfort  KY,x,Wed  Nov 06 2013,16:30-17:30,25,1428,63,41,8,50,73,1241,69,71,6,13,0,2,3,1,0,0,0,0
+misc/Appendix D-Transportation Impact Analysis.txt,San Pablo Ave -- University Ave / Berkeley  CA,x,Sat  Feb 06 2016,13:45-14:45,133,629,162,143,847,120,110,530,132,110,809,136,164,97,116,128,2,8,8,7
 misc/Appendix F_201504131640025691.txt,H St -- 4th St / Eureka   CA,x,Tue  Jul 15 2014,08:00-09:00,8,71,0,0,976,290,0,0,0,0,0,0,18,8,12,6,0,0,0,0
 misc/Appendix F_201504131640025691.txt,H St -- 4th St / Eureka   CA,x,Tue  Jul 15 2014,16:25-17:25,48,277,0,0,1291,449,0,0,0,0,0,0,25,11,5,10,0,1,1,0
 misc/Appendix F_201504131640025691.txt,I St -- 4th St / Eureka   CA,x,Tue  Jul 15 2014,07:50-08:50,0,0,0,34,1189,0,0,150,74,0,0,0,12,29,14,7,0,0,1,1
@@ -2525,6 +2526,21 @@ misc/Final-Design-Traffic-Report.txt,Church Ave -- 6th St / Tucson  AZ,x,Wed  Ap
 misc/Final-Design-Traffic-Report.txt,Stone Ave -- 6th St / Tucson  AZ,x,Tue  Apr 17 2012,16:40-17:40,135,648,102,98,842,128,115,610,0,29,722,110,3,2,1,28,3,9,1,2
 misc/Final-Design-Traffic-Report.txt,Stone Ave -- 6th St / Tucson  AZ,x,Wed  Apr 18 2012,07:30-08:30,45,852,175,83,506,187,51,317,0,12,759,85,0,6,1,33,0,0,0,0
 misc/Final-Design-Traffic-Report.txt,6th Ave -- 6th St / Tucson  AZ,x,Tue  Apr 17 2012,16:35-17:35,0,0,0,103,929,6,86,265,51,5,936,35,0,10,4,10,4,0,2,28
+misc/FinalSOCGovtServicesCampus.txt,MLK Jr Blvd -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,07:45-08:45,146,1109,15,0,1,0,2,758,117,253,7,200,1,4,6,1,2,0,0,1
+misc/FinalSOCGovtServicesCampus.txt,MLK Jr Blvd -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,16:45-17:45,241,800,6,2,2,4,2,1207,256,186,1,201,2,37,36,1,0,3,0,6
+misc/FinalSOCGovtServicesCampus.txt,MLK Jr Blvd -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,12:00-13:00,121,539,23,14,15,11,0,594,144,162,8,137,1,14,12,3,0,0,0,0
+misc/FinalSOCGovtServicesCampus.txt,Northern Park Dr -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,07:30-08:30,8,0,13,23,257,0,7,0,2,0,428,4,1,2,6,1,3,0,1,0
+misc/FinalSOCGovtServicesCampus.txt,Northern Park Dr -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,17:00-18:00,31,1,55,78,383,12,19,0,2,2,285,41,2,9,5,2,2,0,2,0
+misc/FinalSOCGovtServicesCampus.txt,Northern Park Dr -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,12:00-13:00,15,0,31,20,240,8,4,0,1,1,252,7,0,4,12,0,0,0,1,0
+misc/FinalSOCGovtServicesCampus.txt,OC Health Services Center Ent -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,07:30-08:30,0,0,0,0,224,41,4,0,1,24,434,0,1,0,9,0,2,0,1,0
+misc/FinalSOCGovtServicesCampus.txt,OC Health Services Center Ent -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,16:30-17:30,0,0,0,0,375,20,41,0,18,4,312,0,0,0,0,0,1,0,1,2
+misc/FinalSOCGovtServicesCampus.txt,OC Health Services Center Ent -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,12:00-13:00,0,0,0,0,210,46,67,0,16,14,194,0,0,0,2,0,0,0,1,0
+misc/FinalSOCGovtServicesCampus.txt,Weaver Dairy Rd -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,07:30-08:30,259,0,47,19,200,1,0,0,0,1,400,320,0,0,0,0,2,1,1,0
+misc/FinalSOCGovtServicesCampus.txt,Weaver Dairy Rd -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,17:00-18:00,280,0,27,55,358,1,0,0,0,1,269,178,0,1,1,0,4,0,2,0
+misc/FinalSOCGovtServicesCampus.txt,Weaver Dairy Rd -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,12:00-13:00,87,0,18,29,193,1,1,0,0,0,185,92,0,0,1,1,0,0,1,0
+misc/FinalSOCGovtServicesCampus.txt,Seawell School Rd -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,07:30-08:30,0,0,0,0,145,308,264,0,37,66,415,0,1,0,0,0,2,0,1,0
+misc/FinalSOCGovtServicesCampus.txt,Seawell School Rd -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,17:00-18:00,0,0,0,0,437,159,166,0,45,38,271,0,0,0,0,1,1,0,1,0
+misc/FinalSOCGovtServicesCampus.txt,Seawell School Rd -- Homestead Rd / Chapel Hill  NC,x,Tue  Oct 08 2013,12:00-13:00,0,0,0,0,208,62,62,0,12,11,205,0,0,0,1,0,0,0,1,1
 misc/FinalTechMemo3_3-9-2011_Appendices.txt,Washburn Way -- S 6th St / Klamath Falls  OR,x,9/30/2010,16:20-17:20,24,475,101,95,373,255,268,407,273,374,594,85,4,4,1,5,0,2,0,0
 misc/FinalTechMemo3_3-9-2011_Appendices.txt,Altamont Dr -- S 6th St / Klamath Falls  OR,x,9/30/2010,16:30-17:30,4,15,11,2,667,157,192,10,141,215,873,12,18,0,0,0,0,0,0,0
 misc/FinalTechMemo3_3-9-2011_Appendices.txt,S 6th St -- OR 39 / Klamath Falls  OR,x,9/30/2010,16:35-17:35,234,0,472,247,773,0,0,0,0,0,1079,166,5,0,0,0,0,0,0,0
@@ -3779,6 +3795,64 @@ misc/SR-TER_Draft.txt,N Silverbell Rd -- W Goret Rd / Tucson  AZ,x,5/19/2009,07:
 misc/SR-TER_Draft.txt,N Silverbell Rd -- W Goret Rd / Tucson  AZ,x,5/19/2009,16:50-17:50,26,444,0,0,0,5,7,773,134,71,0,18,0,0,0,0,0,0,0,0
 misc/SR-TER_Draft.txt,N Silverbell Rd -- W Grant/Ironwood Hill Rd / Tucson  AZ,x,5/19/2009,07:15-08:15,104,760,321,126,239,177,208,327,98,262,601,172,5,0,1,0,0,0,0,0
 misc/SR-TER_Draft.txt,N Silverbell Rd -- W Grant/Ironwood Hill Rd / Tucson  AZ,x,5/19/2009,16:50-17:50,168,380,183,301,621,270,184,677,276,132,352,199,3,2,1,6,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 128 -- Dodd Dr / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,0,97,15,15,0,0,10,255,0,0,0,0,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 128 -- Dodd Dr / Savannah  TN,x,Tue  Feb 16 2016,16:15-17:15,0,158,8,2,0,0,6,144,0,0,0,0,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Elementary School Drive-Parris Dr / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,0,139,2,2,0,0,0,436,0,79,2,275,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Elementary School Drive-Parris Dr / Savannah  TN,x,Tue  Feb 16 2016,15:00-16:00,0,255,6,4,0,1,1,293,0,61,0,176,0,1,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Penwick St S -- Eureka St / Savannah  TN,x,Tue  Feb 16 2016,07:15-08:15,11,444,35,36,0,59,70,535,1,0,0,0,0,2,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Penwick St S -- Eureka St / Savannah  TN,x,Tue  Feb 16 2016,16:15-17:15,3,278,28,30,0,33,25,266,0,0,0,8,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Hardin Co High School Dr #1 / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,68,487,0,0,0,0,0,477,70,10,0,6,0,0,0,0,0,1,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Hardin Co High School Dr #1 / Savannah  TN,x,Tue  Feb 16 2016,15:00-16:00,13,353,0,0,0,0,0,580,13,39,0,29,0,0,0,11,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Hardin Co High School Dr #2 / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,0,410,0,0,0,0,0,520,0,74,0,47,0,0,3,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Hardin Co High School Dr #2 / Savannah  TN,x,Tue  Feb 16 2016,15:00-16:00,0,328,0,0,0,0,0,567,0,26,0,30,0,0,68,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Hardin Co High School Dr #3 / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,28,464,0,0,0,0,0,510,16,0,0,0,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Hardin Co High School Dr #3 / Savannah  TN,x,Tue  Feb 16 2016,15:00-16:00,10,341,0,0,0,0,0,548,2,0,0,1,0,0,0,2,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Hardin Co High School Dr #4 / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,2,458,0,0,0,0,0,523,1,5,0,5,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Hardin Co High School Dr #4 / Savannah  TN,x,Tue  Feb 16 2016,15:00-16:00,4,337,0,0,0,0,0,526,2,24,0,24,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 128 -- Higgins Dr / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,0,156,45,70,0,12,41,353,0,0,0,0,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 128 -- Higgins Dr / Savannah  TN,x,Tue  Feb 16 2016,16:15-17:15,0,197,12,10,0,8,15,191,0,0,0,0,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Lacefield Dr / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,358,142,0,0,0,0,0,586,129,3,0,30,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Lacefield Dr / Savannah  TN,x,Tue  Feb 16 2016,14:30-15:30,187,244,0,0,0,0,0,505,43,14,0,56,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Lewis St / Savannah  TN,x,Tue  Feb 16 2016,07:15-08:15,8,631,14,6,4,15,16,463,3,0,0,0,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Lewis St / Savannah  TN,x,Tue  Feb 16 2016,16:15-17:15,3,361,13,34,0,18,31,407,0,1,0,5,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Main St / Savannah  TN,x,Tue  Feb 16 2016,07:15-08:15,5,138,18,5,316,223,231,37,30,17,327,12,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Main St / Savannah  TN,x,Tue  Feb 16 2016,16:15-17:15,9,26,14,6,444,172,224,56,26,32,353,12,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Malcomb St / Savannah  TN,x,Tue  Feb 16 2016,07:15-08:15,2,698,6,12,2,6,16,453,2,5,1,2,6,0,0,1,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Malcomb St / Savannah  TN,x,Tue  Feb 16 2016,16:15-17:15,3,405,10,39,3,7,14,505,5,3,2,1,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 128 -- One Stop Dr / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,0,100,17,33,0,15,19,259,0,0,0,0,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 128 -- One Stop Dr / Savannah  TN,x,Tue  Feb 16 2016,16:15-17:15,0,155,13,16,0,15,15,137,0,0,0,0,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Ranch St / Savannah  TN,x,Tue  Feb 16 2016,07:15-08:15,80,418,29,73,7,13,24,505,47,0,0,0,0,0,2,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Ranch St / Savannah  TN,x,Tue  Feb 16 2016,14:30-15:30,26,394,64,53,0,17,34,535,9,0,0,0,1,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Sevier St / Savannah  TN,x,Tue  Feb 16 2016,07:15-08:15,68,549,0,0,0,0,0,469,35,32,0,40,0,0,0,1,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Sevier St / Savannah  TN,x,Tue  Feb 16 2016,14:30-15:30,31,417,0,0,0,0,0,573,14,46,0,37,0,0,0,1,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 128 -- SR-226/Airport Rd / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,0,103,5,5,0,85,80,261,0,0,0,0,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 128 -- SR-226/Airport Rd / Savannah  TN,x,Tue  Feb 16 2016,16:00-17:00,0,133,5,9,0,105,87,132,0,0,0,0,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Stadium Dr / Savannah  TN,x,Tue  Feb 16 2016,07:15-08:15,15,464,0,0,0,0,0,520,60,16,0,10,1,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Stadium Dr / Savannah  TN,x,Tue  Feb 16 2016,14:30-15:30,33,384,0,0,0,0,0,522,14,39,0,16,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Water St / Hardin  TN,x,Tue  Feb 16 2016,07:15-08:15,22,348,3,4,111,151,54,285,87,159,133,29,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Water St / Hardin  TN,x,Tue  Feb 16 2016,16:15-17:15,15,216,5,1,132,66,64,287,173,131,140,31,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Wayne Rd -- SR-15/SR-69/SR-208/Main St / Savannah  TN,x,Tue  Feb 16 2016,07:15-08:15,367,119,169,11,228,25,2,90,3,16,176,397,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Wayne Rd -- SR-15/SR-69/SR-208/Main St / Savannah  TN,x,Tue  Feb 16 2016,16:30-17:30,442,117,195,12,204,9,10,130,2,4,178,396,0,0,1,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Wayne Rd -- Water St / Savannah  TN,x,Tue  Feb 16 2016,07:15-08:15,118,36,9,3,136,4,4,36,0,5,119,66,1,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Wayne Rd -- Water St / Savannah  TN,x,Tue  Feb 16 2016,16:30-17:30,44,46,31,13,145,9,17,56,8,15,132,71,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69 S -- Airport Rd / Hardin  TN,x,Wed  Feb 17 2016,07:00-08:00,7,31,14,20,69,7,35,132,12,8,54,3,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69 S -- Airport Rd / Hardin  TN,x,Wed  Feb 17 2016,16:00-17:00,8,100,25,40,100,43,25,60,5,11,77,8,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 69 -- Discount Dr / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,20,70,1,0,0,0,0,174,6,0,0,29,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 69 -- Discount Dr / Savannah  TN,x,Tue  Feb 16 2016,16:30-17:30,36,146,0,0,0,0,0,119,3,14,0,35,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69/Florence Rd -- Eureka St / Hardin  TN,x,Tue  Feb 16 2016,07:15-08:15,89,291,2,3,1,0,1,340,26,18,2,79,0,3,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69/Florence Rd -- Eureka St / Hardin  TN,x,Tue  Feb 16 2016,16:15-17:15,41,351,2,5,0,0,0,450,14,25,0,33,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69 -- Higgins Dr/Freewill Ln / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,19,126,78,90,45,17,68,203,17,9,47,30,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69 -- Higgins Dr/Freewill Ln / Savannah  TN,x,Tue  Feb 16 2016,16:30-17:30,13,210,38,39,3,23,14,259,5,3,8,17,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 69 -- Main St / Hardin  TN,x,Tue  Feb 16 2016,07:30-08:30,0,0,0,0,81,33,29,0,345,288,45,2,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 69 -- Main St / Hardin  TN,x,Tue  Feb 16 2016,16:45-17:45,0,0,0,0,66,32,48,0,450,331,48,0,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69 -- One Stop Dr / Hardin  TN,x,Tue  Feb 16 2016,07:00-08:00,17,122,0,0,0,0,0,208,19,13,0,26,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69 -- One Stop Dr / Hardin  TN,x,Tue  Feb 16 2016,16:15-17:15,16,174,0,0,0,0,0,226,18,13,0,16,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69/Florence Rd -- Ranch St / Hardin  TN,x,Tue  Feb 16 2016,07:15-08:15,19,320,0,0,0,0,0,406,27,20,0,39,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69/Florence Rd -- Ranch St / Hardin  TN,x,Tue  Feb 16 2016,16:15-17:15,14,406,0,0,0,0,0,468,19,25,0,37,1,0,0,0,0,0,0,1
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69/Florence Rd -- SR-203/Pinhook Dr / Hardin  TN,x,Tue  Feb 16 2016,07:30-08:30,0,269,48,122,0,53,12,258,0,0,0,0,0,0,1,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69/Florence Rd -- SR-203/Pinhook Dr / Hardin  TN,x,Tue  Feb 16 2016,16:45-17:45,0,268,101,95,0,28,30,400,0,0,0,0,0,0,1,0,0,0,1,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69/Florence Rd -- Water St / Savannah  TN,x,Wed  Feb 17 2016,07:15-08:15,63,254,0,0,0,0,0,259,72,115,0,18,0,0,0,0,0,0,0,0
+misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-69/Florence Rd -- Water St / Savannah  TN,x,Wed  Feb 17 2016,16:00-17:00,32,231,0,0,0,0,0,370,98,140,0,57,3,0,0,0,0,0,0,0
 misc/Sequoia Village TIA.txt,SW 197th Ave & W Baseline Rd,x,Wednesday  March 20  2013,12:00-12:15,0,0,1,0,118,22,22,0,14,13,120,0,1,0,2,0
 misc/Sequoia Village TIA.txt,SW 197th Ave & W Baseline Rd,x,Wednesday  March 20  2013,12:15-12:30,0,0,0,0,117,25,23,0,23,15,125,0,0,0,1,0
 misc/Sequoia Village TIA.txt,SW 197th Ave & W Baseline Rd,x,Wednesday  March 20  2013,12:30-12:45,0,0,0,0,116,15,26,0,13,11,101,0,0,0,0,0
@@ -5382,6 +5456,28 @@ misc/monroe_street_greenway_traffic_impact_analysis_memo_final_withappendices.tx
 misc/monroe_street_greenway_traffic_impact_analysis_memo_final_withappendices.txt,SE 32nd Ave -- SE Harrison St / Milwaukie  OR,x,Tue  Feb 03 2015,17:00-18:00,146,132,24,14,199,25,22,129,27,6,459,161,8,15,4,0,0,1,1,1
 misc/monroe_street_greenway_traffic_impact_analysis_memo_final_withappendices.txt,Linwood Ave -- King Rd / Milwaukie  OR,x,Tue  Jun 12 2012,17:00-18:00,87,234,39,44,365,90,71,203,96,87,514,106,17,5,7,5,1,0,0,2
 misc/monroe_street_greenway_traffic_impact_analysis_memo_final_withappendices.txt,Linwood Ave -- Monroe St / Milwaukie  OR,x,Tue  Jun 12 2012,17:00-18:00,54,303,36,49,42,13,17,287,31,35,58,34,2,1,0,5,0,1,0,2
+misc/multicol.txt,Kalanianaole Hwy -- Moole St / Waimanalo  HI,x,Tue  May 14 2013,07:00-08:00,32,587,8,39,3,36,17,652,15,22,2,49,12,9,3,3,0,2,0,1
+misc/multicol.txt,Kalanianaole Hwy -- Elementary School / Waimanalo  HI,x,Tue  May 14 2013,07:00-08:00,80,555,0,8,0,5,1,683,56,0,0,0,10,6,2,8,0,2,0,0
+misc/multicol.txt,Kalanianaole Hwy -- Poalima St / Waimanalo  HI,x,Thu  May 23 2013,15:30-16:30,72,679,21,31,15,25,6,728,42,48,23,146,14,2,2,10,0,0,0,1
+misc/multicol.txt,Kalanianaole Hwy -- Waimanalo Health Center (parcel 279) / Waimanalo  HI,x,Tue  May 14 2013,16:15-17:15,0,680,3,8,0,7,5,739,0,0,0,0,0,0,0,0,0,1,0,1
+misc/multicol.txt,Kalanianaole Hwy -- Moole St / Waimanalo  HI,x,Tue  May 14 2013,07:00-08:00,32,587,8,39,3,36,17,652,15,22,2,49,12,9,3,3,0,2,0,1
+misc/multicol.txt,Kalanianaole Hwy -- Elementary School / Waimanalo  HI,x,Tue  May 14 2013,07:00-08:00,80,555,0,8,0,5,1,683,56,0,0,0,10,6,2,8,0,2,0,0
+misc/multicol.txt,Kalanianaole Hwy -- Poalima St / Waimanalo  HI,x,Thu  May 23 2013,15:30-16:30,72,679,21,31,15,25,6,728,42,48,23,146,14,2,2,10,0,0,0,1
+misc/multicol.txt,Kalanianaole Hwy -- Waimanalo Health Center (parcel 279) / Waimanalo  HI,x,Tue  May 14 2013,16:15-17:15,0,680,3,8,0,7,5,739,0,0,0,0,0,0,0,0,0,1,0,1
+misc/multicol.txt,2nd St -- Hearst Ave / Berkeley  CA,x,Tue  Feb 02 2016,08:00-09:00,1,5,17,19,22,8,31,12,12,112,303,28,0,6,2,0,0,0,0,1
+misc/multicol.txt,2nd St -- Hearst Ave / Berkeley  CA,x,Sat  Feb 06 2016,13:50-14:50,9,9,17,35,55,18,45,7,18,46,249,14,19,9,8,2,4,4,3,12
+misc/multicol.txt,Fourth St -- Hearst Ave / Berkeley  CA,x,Tue  Feb 02 2016,16:25-17:25,6,41,64,60,56,46,147,110,41,28,176,20,66,88,17,63,1,15,13,14
+misc/multicol.txt,6th St -- Hearst Ave / Berkeley  CA,x,Tue  Feb 02 2016,08:00-09:00,36,586,14,18,55,45,24,174,63,245,70,30,16,27,21,8,3,4,5,2
+misc/multicol.txt,6th St -- Hearst Ave / Berkeley  CA,x,Sat  Feb 06 2016,13:00-14:00,38,384,10,29,93,46,19,238,130,320,54,67,46,28,27,14,2,3,7,4
+misc/multicol.txt,Fourth St -- University Ave North Frontage Rd / Berkeley  CA,x,Tue  Feb 02 2016,16:15-17:15,11,99,0,36,9,34,0,271,7,0,0,0,19,44,0,39,0,14,4,11
+misc/multicol.txt,Fourth St -- University Ave South Frontage Rd / Berkeley  CA,x,Tue  Feb 02 2016,07:45-08:45,0,151,23,0,0,0,15,67,0,6,6,3,0,15,22,17,3,6,1,8
+misc/multicol.txt,Fourth St -- University Ave South Frontage Rd / Berkeley  CA,x,Sat  Feb 06 2016,13:05-14:05,0,148,40,0,0,0,26,131,0,12,14,9,1,105,22,68,0,25,1,22
+misc/multicol.txt,6th St -- University Ave / Berkeley  CA,x,Tue  Feb 02 2016,17:00-18:00,448,192,83,47,1004,34,43,475,383,184,797,108,27,15,39,12,1,4,3,1
+misc/multicol.txt,San Pablo Ave -- University Ave / Berkeley  CA,x,Tue  Feb 02 2016,08:00-09:00,58,769,144,71,738,112,79,365,94,67,776,77,29,13,14,52,1,0,1,0
+misc/multicol.txt,Lake St S -- 10th Ave / Kirkland  WA,x,12/7/2010,17:00-18:00,1,379,18,9,1,7,19,608,1,2,0,0,0,3,0,25,0,3,0,3
+misc/multicol.txt,State St S -- NE 68th St / Kirkland  WA,x,12/7/2010,17:00-18:00,84,7,96,253,274,13,15,5,0,1,417,298,2,0,0,0,1,0,1,0
+misc/multicol.txt,Lake Washington Blvd NE -- Lakeview Dr / Kirkland  WA,x,12/7/2010,17:00-18:00,22,342,5,9,43,262,614,588,52,138,120,55,6,2,0,6,0,3,0,4
+misc/multicol.txt,NE 72nd -- I-405 SB Ramp / Kirkland  WA,x,12/7/2010,17:00-18:00,0,563,164,247,0,241,108,688,0,0,0,0,0,1,0,1,0,2,0,1
 misc/nyberg_rivers_master_plan_combined_pdf.txt,SW Martinazzi Ave -- SW Boones Ferry Rd / Tualatin  OR,x,Tue  Jun 05 2012,16:35-17:35,0,1,0,1,903,404,366,0,314,159,645,1,15,8,7,7,4,0,12,1
 misc/nyberg_rivers_master_plan_combined_pdf.txt,SW Martinazzi Ave -- Existing Site Dwy near City Hall / Tualatin  OR,x,Tue  Jun 05 2012,16:35-17:35,0,433,142,104,0,28,65,588,0,0,0,0,3,15,0,7,0,4,0,1
 misc/nyberg_rivers_master_plan_combined_pdf.txt,SW Martinazzi Ave -- SW Seneca St / Tualatin  OR,x,Tue  Jun 05 2012,16:35-17:35,50,413,0,0,0,0,0,608,94,78,0,42,26,25,16,1,0,3,0,2
