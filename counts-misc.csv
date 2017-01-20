@@ -1206,7 +1206,7 @@ misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Brighton Park
 misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / Frankfort  KY,x,Wed  Nov 06 2013,07:15-08:15,18,1091,55,69,7,75,113,1132,25,79,7,23,0,1,0,0,0,0,0,0
 misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / Frankfort  KY,x,Wed  Nov 06 2013,12:00-13:00,20,1029,107,76,6,101,121,1014,47,69,5,23,0,0,1,2,0,0,0,1
 misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / Frankfort  KY,x,Wed  Nov 06 2013,16:30-17:30,25,1428,63,41,8,50,73,1241,69,71,6,13,0,2,3,1,0,0,0,0
-misc/Appendix D-Transportation Impact Analysis.txt,San Pablo Ave -- University Ave / Berkeley  CA,x,Sat  Feb 06 2016,13:45-14:45,133,629,162,143,847,120,110,530,132,110,809,136,164,97,116,128,2,8,8,7
+misc/Appendix D-Transportation Impact Analysis.txt,San Pablo Ave -- University Ave / Berkeley  CA,x,Sat  Feb 06 2016,13:45-14:45,133,629,162,143,847,120,110,530,132,110,809,136,164,97,116,128,2,8,8,7,37.8690917,-122.2921067
 misc/Appendix F_201504131640025691.txt,H St -- 4th St / Eureka   CA,x,Tue  Jul 15 2014,08:00-09:00,8,71,0,0,976,290,0,0,0,0,0,0,18,8,12,6,0,0,0,0
 misc/Appendix F_201504131640025691.txt,H St -- 4th St / Eureka   CA,x,Tue  Jul 15 2014,16:25-17:25,48,277,0,0,1291,449,0,0,0,0,0,0,25,11,5,10,0,1,1,0
 misc/Appendix F_201504131640025691.txt,I St -- 4th St / Eureka   CA,x,Tue  Jul 15 2014,07:50-08:50,0,0,0,34,1189,0,0,150,74,0,0,0,12,29,14,7,0,0,1,1
@@ -5464,16 +5464,16 @@ misc/multicol.txt,Kalanianaole Hwy -- Moole St / Waimanalo  HI,x,Tue  May 14 201
 misc/multicol.txt,Kalanianaole Hwy -- Elementary School / Waimanalo  HI,x,Tue  May 14 2013,07:00-08:00,80,555,0,8,0,5,1,683,56,0,0,0,10,6,2,8,0,2,0,0
 misc/multicol.txt,Kalanianaole Hwy -- Poalima St / Waimanalo  HI,x,Thu  May 23 2013,15:30-16:30,72,679,21,31,15,25,6,728,42,48,23,146,14,2,2,10,0,0,0,1
 misc/multicol.txt,Kalanianaole Hwy -- Waimanalo Health Center (parcel 279) / Waimanalo  HI,x,Tue  May 14 2013,16:15-17:15,0,680,3,8,0,7,5,739,0,0,0,0,0,0,0,0,0,1,0,1
-misc/multicol.txt,2nd St -- Hearst Ave / Berkeley  CA,x,Tue  Feb 02 2016,08:00-09:00,1,5,17,19,22,8,31,12,12,112,303,28,0,6,2,0,0,0,0,1
-misc/multicol.txt,2nd St -- Hearst Ave / Berkeley  CA,x,Sat  Feb 06 2016,13:50-14:50,9,9,17,35,55,18,45,7,18,46,249,14,19,9,8,2,4,4,3,12
-misc/multicol.txt,Fourth St -- Hearst Ave / Berkeley  CA,x,Tue  Feb 02 2016,16:25-17:25,6,41,64,60,56,46,147,110,41,28,176,20,66,88,17,63,1,15,13,14
-misc/multicol.txt,6th St -- Hearst Ave / Berkeley  CA,x,Tue  Feb 02 2016,08:00-09:00,36,586,14,18,55,45,24,174,63,245,70,30,16,27,21,8,3,4,5,2
-misc/multicol.txt,6th St -- Hearst Ave / Berkeley  CA,x,Sat  Feb 06 2016,13:00-14:00,38,384,10,29,93,46,19,238,130,320,54,67,46,28,27,14,2,3,7,4
-misc/multicol.txt,Fourth St -- University Ave North Frontage Rd / Berkeley  CA,x,Tue  Feb 02 2016,16:15-17:15,11,99,0,36,9,34,0,271,7,0,0,0,19,44,0,39,0,14,4,11
-misc/multicol.txt,Fourth St -- University Ave South Frontage Rd / Berkeley  CA,x,Tue  Feb 02 2016,07:45-08:45,0,151,23,0,0,0,15,67,0,6,6,3,0,15,22,17,3,6,1,8
-misc/multicol.txt,Fourth St -- University Ave South Frontage Rd / Berkeley  CA,x,Sat  Feb 06 2016,13:05-14:05,0,148,40,0,0,0,26,131,0,12,14,9,1,105,22,68,0,25,1,22
-misc/multicol.txt,6th St -- University Ave / Berkeley  CA,x,Tue  Feb 02 2016,17:00-18:00,448,192,83,47,1004,34,43,475,383,184,797,108,27,15,39,12,1,4,3,1
-misc/multicol.txt,San Pablo Ave -- University Ave / Berkeley  CA,x,Tue  Feb 02 2016,08:00-09:00,58,769,144,71,738,112,79,365,94,67,776,77,29,13,14,52,1,0,1,0
+misc/multicol.txt,2nd St -- Hearst Ave / Berkeley  CA,x,Tue  Feb 02 2016,08:00-09:00,1,5,17,19,22,8,31,12,12,112,303,28,0,6,2,0,0,0,0,1,37.8683632,-122.3024979
+misc/multicol.txt,2nd St -- Hearst Ave / Berkeley  CA,x,Sat  Feb 06 2016,13:50-14:50,9,9,17,35,55,18,45,7,18,46,249,14,19,9,8,2,4,4,3,12,37.8683632,-122.3024979
+misc/multicol.txt,Fourth St -- Hearst Ave / Berkeley  CA,x,Tue  Feb 02 2016,16:25-17:25,6,41,64,60,56,46,147,110,41,28,176,20,66,88,17,63,1,15,13,14,37.8688643,-122.3002616
+misc/multicol.txt,6th St -- Hearst Ave / Berkeley  CA,x,Tue  Feb 02 2016,08:00-09:00,36,586,14,18,55,45,24,174,63,245,70,30,16,27,21,8,3,4,5,2,37.8693277,-122.2980781
+misc/multicol.txt,6th St -- Hearst Ave / Berkeley  CA,x,Sat  Feb 06 2016,13:00-14:00,38,384,10,29,93,46,19,238,130,320,54,67,46,28,27,14,2,3,7,4,37.8693277,-122.2980781
+misc/multicol.txt,Fourth St -- University Ave North Frontage Rd / Berkeley  CA,x,Tue  Feb 02 2016,16:15-17:15,11,99,0,36,9,34,0,271,7,0,0,0,19,44,0,39,0,14,4,11,37.8676507,-122.2998824
+misc/multicol.txt,Fourth St -- University Ave South Frontage Rd / Berkeley  CA,x,Tue  Feb 02 2016,07:45-08:45,0,151,23,0,0,0,15,67,0,6,6,3,0,15,22,17,3,6,1,8,37.8673918,-122.2998033
+misc/multicol.txt,Fourth St -- University Ave South Frontage Rd / Berkeley  CA,x,Sat  Feb 06 2016,13:05-14:05,0,148,40,0,0,0,26,131,0,12,14,9,1,105,22,68,0,25,1,22,37.8673918,-122.2998033
+misc/multicol.txt,6th St -- University Ave / Berkeley  CA,x,Tue  Feb 02 2016,17:00-18:00,448,192,83,47,1004,34,43,475,383,184,797,108,27,15,39,12,1,4,3,1,37.8679624,-122.2976928
+misc/multicol.txt,San Pablo Ave -- University Ave / Berkeley  CA,x,Tue  Feb 02 2016,08:00-09:00,58,769,144,71,738,112,79,365,94,67,776,77,29,13,14,52,1,0,1,0,37.8690917,-122.2921067
 misc/multicol.txt,Lake St S -- 10th Ave / Kirkland  WA,x,12/7/2010,17:00-18:00,1,379,18,9,1,7,19,608,1,2,0,0,0,3,0,25,0,3,0,3
 misc/multicol.txt,State St S -- NE 68th St / Kirkland  WA,x,12/7/2010,17:00-18:00,84,7,96,253,274,13,15,5,0,1,417,298,2,0,0,0,1,0,1,0
 misc/multicol.txt,Lake Washington Blvd NE -- Lakeview Dr / Kirkland  WA,x,12/7/2010,17:00-18:00,22,342,5,9,43,262,614,588,52,138,120,55,6,2,0,6,0,3,0,4
