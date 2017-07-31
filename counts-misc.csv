@@ -909,6 +909,29 @@ misc/2017-04-05_RESUB_TIAdraft_Addison600.txt,6th St -- Hearst Ave / Berkeley  C
 misc/2017-04-05_RESUB_TIAdraft_Addison600.txt,6th St -- University Ave / Berkeley  CA,x,Tue  Feb 02 2016,17:00-18:00,448,192,83,47,1004,34,43,475,383,184,797,108,27,15,39,12,1,4,3,1,37.8679624,-122.2976928
 misc/2017-04-05_RESUB_TIAdraft_Addison600.txt,6th St -- Bancroft Way / Berkeley  CA,x,Wed  Sep 14 2016,16:55-17:55,18,418,10,15,1,2,6,723,61,75,2,11,12,12,9,11,10,1,0,3,37.8635065,-122.2962172
 misc/2017-04-05_RESUB_TIAdraft_Addison600.txt,San Pablo Ave -- University Ave / Berkeley  CA,x,Tue  Feb 02 2016,16:55-17:55,76,561,154,135,781,105,95,798,115,105,714,107,141,105,106,133,1,1,6,4,37.8690917,-122.2921067
+misc/2017-06-19-albion-planned-development-application-final.txt,Harlem Ave -- Lake St / Oak Park  IL,x,Thu  Sep 22 2016,07:30-08:30,180,1023,47,43,237,74,53,975,204,147,238,127,67,37,50,74,5,0,1,0
+misc/2017-06-19-albion-planned-development-application-final.txt,Harlem Ave -- Lake St / Oak Park  IL,x,Thu  Sep 22 2016,17:00-18:00,193,1118,76,57,208,97,81,958,198,213,275,194,98,70,99,99,3,1,5,0
+misc/2017-06-19-albion-planned-development-application-final.txt,Harlem Ave -- Lake St / Oak Park  IL,x,Sat  Sep 24 2016,12:00-13:00,222,1028,68,74,206,155,96,940,254,172,238,229,73,52,163,73,1,1,5,1
+misc/2017-06-19-albion-planned-development-application-final.txt,Harlem Ave -- Ontario St / Oak Park  IL,x,Thu  Sep 22 2016,16:45-17:45,0,1137,160,189,0,162,90,1097,0,0,0,0,15,23,12,23,0,5,2,0
+misc/2017-06-19-albion-planned-development-application-final.txt,Harlem Ave -- Ontario St / Oak Park  IL,x,Sat  Sep 24 2016,12:00-13:00,0,1179,143,131,0,157,82,1104,0,0,0,0,19,33,9,28,0,3,0,0
+misc/2017-06-19-albion-planned-development-application-final.txt,Marion St -- Ontario St / Oak Park  IL,x,Thu  Sep 22 2016,07:45-08:45,45,147,40,34,129,54,14,76,35,41,74,33,10,42,21,46,6,13,2,4
+misc/2017-06-19-albion-planned-development-application-final.txt,Marion St -- Ontario St / Oak Park  IL,x,Thu  Sep 22 2016,17:00-18:00,43,116,23,63,147,60,46,157,84,60,115,62,16,32,28,63,5,9,7,14
+misc/2017-06-19-albion-planned-development-application-final.txt,Marion St -- Ontario St / Oak Park  IL,x,Sat  Sep 24 2016,12:30-13:30,26,87,20,38,108,36,32,110,72,52,89,42,8,28,43,48,11,7,6,7
+misc/2017-06-19-albion-planned-development-application-final.txt,Forest Ave -- Ontario St / Oak Park  IL,x,Thu  Sep 22 2016,07:30-08:30,0,72,70,120,0,38,30,52,0,0,0,0,20,11,19,34,0,37,2,4
+misc/2017-06-19-albion-planned-development-application-final.txt,Forest Ave -- Ontario St / Oak Park  IL,x,Thu  Sep 22 2016,17:00-18:00,0,91,103,113,0,29,38,131,0,0,0,0,13,9,4,18,1,8,7,12
+misc/2017-06-19-albion-planned-development-application-final.txt,Forest Ave -- Ontario St / Oak Park  IL,x,Sat  Sep 24 2016,12:30-13:30,0,89,62,98,0,22,31,82,0,0,0,0,25,28,23,28,0,12,5,5
+misc/2017-06-19-albion-planned-development-application-final.txt,Marion St -- Lake St / Oak Park  IL,x,Wed  Sep 28 2016,08:00-09:00,54,91,34,73,241,22,26,99,2,23,263,35,90,93,26,88,3,17,6,5
+misc/2017-06-19-albion-planned-development-application-final.txt,Marion St -- Lake St / Oak Park  IL,x,Wed  Sep 28 2016,16:30-17:30,111,124,62,55,311,32,37,98,10,51,328,57,113,108,77,137,4,2,4,6
+misc/2017-06-19-albion-planned-development-application-final.txt,Marion St -- Lake St / Oak Park  IL,x,Sat  Sep 24 2016,12:00-13:00,104,88,59,66,330,45,38,77,13,59,271,73,303,268,173,176,5,7,7,7
+misc/2017-06-19-albion-planned-development-application-final.txt,Forest Ave (West) -- Lake St / Oak Park  IL,x,Thu  Sep 22 2016,07:30-08:30,0,0,0,0,319,64,98,0,52,24,309,0,75,16,27,41,7,0,12,4
+misc/2017-06-19-albion-planned-development-application-final.txt,Forest Ave (West) -- Lake St / Oak Park  IL,x,Thu  Sep 22 2016,17:00-18:00,0,0,0,0,317,88,130,0,68,40,344,0,114,29,116,41,7,0,5,9
+misc/2017-06-19-albion-planned-development-application-final.txt,Forest Ave (West) -- Lake St / Oak Park  IL,x,Sat  Sep 24 2016,12:00-13:00,0,0,0,0,373,55,79,0,73,54,311,0,194,32,115,57,3,0,10,9
+misc/2017-06-19-albion-planned-development-application-final.txt,Forest Ave (East) -- Lake St / Oak Park  IL,x,Thu  Sep 22 2016,07:30-08:30,59,0,50,43,322,0,0,0,0,0,362,48,36,9,46,6,7,9,6,0
+misc/2017-06-19-albion-planned-development-application-final.txt,Forest Ave (East) -- Lake St / Oak Park  IL,x,Thu  Sep 22 2016,17:00-18:00,77,0,74,69,324,0,0,0,0,0,368,109,86,13,140,4,17,4,5,0
+misc/2017-06-19-albion-planned-development-application-final.txt,Forest Ave (East) -- Lake St / Oak Park  IL,x,Sat  Sep 24 2016,12:00-13:00,44,0,69,52,371,0,0,0,0,0,338,53,118,18,107,7,5,8,9,0
+misc/2017-06-19-albion-planned-development-application-final.txt,Kenilworth Ave -- Lake St / Oak Park  IL,x,Thu  Sep 22 2016,07:30-08:30,29,70,36,24,335,36,51,72,17,25,325,30,58,36,26,50,6,13,5,2
+misc/2017-06-19-albion-planned-development-application-final.txt,Kenilworth Ave -- Lake St / Oak Park  IL,x,Thu  Sep 22 2016,17:00-18:00,23,66,56,43,339,61,57,49,28,32,368,19,91,48,99,34,10,2,8,10
+misc/2017-06-19-albion-planned-development-application-final.txt,Kenilworth Ave -- Lake St / Oak Park  IL,x,Sat  Sep 24 2016,12:00-13:00,26,45,46,29,368,62,64,43,32,36,356,22,144,47,96,38,1,15,9,9
 misc/2035 Appendix C.txt,SW Murray Blvd -- SW Scholls Ferry Rd / Beaverton   OR,x,9/17/2008,17:00-18:00,491,356,392,459,816,57,19,219,87,56,518,352,15,7,10,19,0,0,0,0
 misc/2035 Appendix C.txt,Hwy 217 NB Ramps -- SW Beaverton Hillsdale Hwy / Beaverton  OR,x,9/17/2008,16:25-17:25,0,0,0,357,1090,0,229,497,468,0,1074,203,4,6,8,0,0,0,0,0
 misc/2035 Appendix C.txt,Hwy 217 SB Ramps -- SW Beaverton Hillsdale Hwy / Beaverton  OR,x,9/17/2008,16:50-17:50,343,386,349,0,1354,179,0,0,0,360,955,0,19,0,9,5,0,0,0,0
@@ -1251,6 +1274,12 @@ misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / F
 misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / Frankfort  KY,x,Wed  Nov 06 2013,12:00-13:00,20,1029,107,76,6,101,121,1014,47,69,5,23,0,0,1,2,0,0,0,1
 misc/Appendix A - Initial Traffic Study.txt,US 60 Versailles Rd -- Sunset Dr / Frankfort  KY,x,Wed  Nov 06 2013,16:30-17:30,25,1428,63,41,8,50,73,1241,69,71,6,13,0,2,3,1,0,0,0,0
 misc/Appendix D-Transportation Impact Analysis.txt,San Pablo Ave -- University Ave / Berkeley  CA,x,Sat  Feb 06 2016,13:45-14:45,133,629,162,143,847,120,110,530,132,110,809,136,164,97,116,128,2,8,8,7,37.8690917,-122.2921067
+misc/Appendix E - Traffic Studies.txt,NE 82nd Ave -- E Burnside St / Portland  OR,x,Tue  Jul 29 2014,07:40-08:40,57,435,27,32,373,35,30,769,67,27,110,15,23,17,28,17,14,0,13,0
+misc/Appendix E - Traffic Studies.txt,NE 82nd Ave -- E Burnside St / Portland  OR,x,Tue  Jul 29 2014,16:30-17:30,42,1027,129,47,220,42,71,1012,54,30,356,59,16,17,23,21,18,0,27,0
+misc/Appendix E - Traffic Studies.txt,SE 82nd Ave -- SE Yamhill St / Portland  OR,x,Tue  Jul 29 2014,07:40-08:40,6,484,5,26,39,8,8,947,5,14,3,7,2,6,8,1,4,1,5,0
+misc/Appendix E - Traffic Studies.txt,SE 82nd Ave -- SE Yamhill St / Portland  OR,x,Tue  Jul 29 2014,16:35-17:35,10,1192,17,15,22,9,11,1030,7,20,58,9,5,7,8,9,4,0,3,0
+misc/Appendix E - Traffic Studies.txt,SE 82nd Ave -- SE Mill St / Portland  OR,x,Tue  Jul 29 2014,07:35-08:35,9,465,5,18,5,8,7,929,4,8,5,8,2,6,5,6,9,1,5,0
+misc/Appendix E - Traffic Studies.txt,SE 82nd Ave -- SE Mill St / Portland  OR,x,Tue  Jul 29 2014,16:35-17:35,16,1145,19,22,9,13,26,1017,4,8,11,9,1,9,26,5,6,0,5,0
 misc/Appendix F_201504131640025691.txt,H St -- 4th St / Eureka   CA,x,Tue  Jul 15 2014,08:00-09:00,8,71,0,0,976,290,0,0,0,0,0,0,18,8,12,6,0,0,0,0,40.8030453,-124.1640152
 misc/Appendix F_201504131640025691.txt,H St -- 4th St / Eureka   CA,x,Tue  Jul 15 2014,16:25-17:25,48,277,0,0,1291,449,0,0,0,0,0,0,25,11,5,10,0,1,1,0,40.8030453,-124.1640152
 misc/Appendix F_201504131640025691.txt,I St -- 4th St / Eureka   CA,x,Tue  Jul 15 2014,07:50-08:50,0,0,0,34,1189,0,0,150,74,0,0,0,12,29,14,7,0,0,1,1,40.8031962,-124.1628885
@@ -3661,6 +3690,54 @@ misc/Perennial ASC_Exhibit U Public Services.txt,Westland Rd -- Lamb Rd / Hermis
 misc/Perennial ASC_Exhibit U Public Services.txt,NB I-82 Ramps -- Lamb Rd / Hermiston  OR,x,Wed  Oct 16 2013,16:30-17:30,0,0,0,22,84,0,182,0,0,0,49,37,0,0,0,0,0,0,0,0
 misc/Perennial ASC_Exhibit U Public Services.txt,SB I-82 Ramps -- Lamb Rd / Hermiston  OR,x,Wed  Oct 16 2013,16:30-17:30,1,1,9,0,1,75,0,0,0,11,76,0,0,0,0,0,0,0,0,0
 misc/PotalaTranspoTIA052011.txt,NE 70th Pl -- 116th Ave / Kirkland  WA,x,12/7/2010,17:00-18:00,173,60,14,24,307,230,249,495,246,309,401,218,0,1,2,1,1,0,2,1
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Randall Rd -- IL 38 / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,240,953,290,147,235,35,33,935,92,35,531,219,0,1,1,1,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Randall Rd -- IL 38 / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,273,1158,240,344,522,125,51,1152,104,79,326,270,1,0,0,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Randall Rd -- IL 38 / Saint Charles  IL,x,Sat  May 07 2016,11:15-12:15,283,1417,298,291,310,176,84,1154,109,107,417,357,0,0,1,1,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Jewel Dwy -- IL 38 / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,12,0,0,19,411,0,5,0,0,21,847,0,0,0,1,1,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Jewel Dwy -- IL 38 / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,58,0,0,72,914,0,19,0,0,31,597,0,0,0,0,3,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Jewel Dwy -- IL 38 / Saint Charles  IL,x,Sat  May 07 2016,11:15-12:15,82,0,0,63,703,0,27,0,0,46,779,0,0,0,0,4,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,West Mall Ent -- IL 38 / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,1,1,5,1,402,29,48,2,33,67,783,8,0,0,0,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,West Mall Ent -- IL 38 / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,7,4,20,8,936,57,60,2,48,46,552,19,1,0,0,1,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,West Mall Ent -- IL 38 / Saint Charles  IL,x,Sat  Apr 16 2016,11:15-12:15,2,7,18,6,671,35,63,1,48,59,634,18,0,0,0,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,East Mall Ent/Vanderbilt Dr -- IL 38 / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,4,1,3,3,412,25,41,3,10,8,826,4,1,0,0,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,East Mall Ent/Vanderbilt Dr -- IL 38 / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,34,7,11,14,944,23,32,3,18,25,570,29,2,1,0,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,East Mall Entrance/Vanderbilt -- IL 38 / Saint Charles  IL,x,Sat  May 07 2016,11:15-12:15,44,5,12,21,700,18,20,8,18,17,751,45,0,0,0,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Bircher Rd/14th St -- IL 38 / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,30,88,69,43,389,86,198,76,12,7,809,66,1,0,0,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Bircher Rd/14th St -- IL 38 / Saint Charles  IL,x,Tue  May 10 2016,16:30-17:30,50,186,116,73,859,218,185,153,40,14,560,93,1,0,0,1,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Bircher Rd/14th St -- IL 38 / Saint Charles  IL,x,Sat  Jul 16 2016,11:15-12:15,29,149,97,54,626,243,227,116,36,25,625,68,2,0,1,1,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Randall Rd -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,11,1347,123,120,9,115,120,1186,15,15,5,3,8,2,1,28,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Randall Rd -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,33,1404,155,198,30,192,185,1493,64,89,27,56,0,0,2,0,0,0,1,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Randall Rd -- Prairie / Saint Charles  IL,x,Sat  May 07 2016,11:15-12:15,26,1713,180,236,33,180,244,1529,56,93,30,49,1,1,1,1,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Jewel Ent -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,23,2,8,13,215,11,11,5,16,35,194,19,1,0,1,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Jewel Ent -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,38,7,17,20,307,35,50,12,76,129,216,21,0,0,2,0,0,0,1,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Jewel Ent -- Prairie St / Saint Charles  IL,x,Sat  Apr 16 2016,11:15-12:15,54,10,17,25,241,30,34,7,84,126,202,38,2,2,1,0,1,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,West Mall Ent -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,0,0,0,0,243,16,12,0,5,3,217,0,0,0,1,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,West Mall Ent -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,0,0,0,0,329,33,43,0,11,2,301,0,0,0,1,1,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,West Mall Ent -- Prairie St / Saint Charles  IL,x,Sat  Apr 16 2016,11:15-12:15,0,0,0,0,293,26,42,0,4,10,245,0,0,2,2,3,0,0,1,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,East Mall Ent -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,0,0,0,0,248,16,15,0,9,10,247,0,0,0,4,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,East Mall Ent -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,0,0,0,0,365,9,12,0,7,11,335,0,0,2,8,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,East Mall Ent -- Prairie St / Saint Charles  IL,x,Sat  Apr 16 2016,11:15-12:15,0,0,0,0,322,1,3,0,0,1,278,0,0,0,2,1,0,0,1,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Covington Ct -- Prairie St / Saint Charles  IL,x,Tue  May 10 2016,07:15-08:15,5,0,14,8,221,10,23,0,13,5,234,3,1,1,1,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Covington Ct -- Prairie St / Saint Charles  IL,x,Tue  May 10 2016,16:30-17:30,2,0,6,11,361,15,12,1,12,22,364,8,2,1,4,2,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,Covington Ct -- Prairie St / Saint Charles  IL,x,Sat  May 07 2016,11:15-12:15,10,0,7,5,308,6,8,0,21,6,321,8,1,0,3,0,0,0,0,1
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,16th St -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,29,0,35,8,223,0,0,0,0,0,275,8,3,0,0,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,16th St -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,37,0,38,26,345,0,0,0,0,0,311,29,6,1,0,1,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,16th St -- Prairie St / Saint Charles  IL,x,Sat  May 07 2016,11:15-12:15,29,0,38,23,294,0,0,0,0,0,318,19,6,1,0,2,1,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,14th St -- Prairie St / Saint Charles  IL,x,Thu  May 12 2016,07:15-08:15,0,0,0,0,194,92,148,0,29,74,239,0,0,0,3,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,14th St -- Prairie St / Saint Charles  IL,x,Thu  May 12 2016,16:30-17:30,0,0,0,0,311,190,188,0,58,93,251,0,0,0,5,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,14th St -- Prairie St / Saint Charles  IL,x,Mon  May 16 2016,11:15-12:15,0,0,0,0,254,137,146,0,55,79,221,0,0,0,3,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,7th St -- Prairie St / Saint Charles  IL,x,Sat  Apr 16 2016,07:15-08:15,72,60,45,54,190,10,13,75,21,6,336,94,1,6,1,12,0,0,0,1
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,7th St -- Prairie St / Saint Charles  IL,x,Sat  Apr 16 2016,16:30-17:30,135,97,42,48,391,12,10,36,16,14,320,59,2,0,1,8,0,2,1,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,7th St -- Prairie St / Saint Charles  IL,x,Sat  Apr 16 2016,11:15-12:15,81,38,29,22,269,12,10,34,11,17,256,59,4,4,7,1,0,11,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,3rd St -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,33,87,30,21,175,35,41,179,31,36,333,39,0,0,2,0,0,1,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,3rd St -- Prairie St / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,61,198,39,28,352,57,43,124,45,46,280,33,0,0,2,3,0,0,1,2
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,3rd St -- Prairie St / Saint Charles  IL,x,Sat  Apr 16 2016,11:15-12:15,41,126,29,14,220,46,53,119,42,44,214,22,5,0,13,2,11,5,0,1
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,14th St -- Vanderbilt Dr / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,15,183,2,0,0,0,5,177,4,2,0,7,0,0,0,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,14th St -- Vanderbilt Dr / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,34,299,1,0,0,0,0,287,13,38,0,23,0,0,0,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,14th St -- Vanderbilt / Saint Charles  IL,x,Sat  May 07 2016,11:15-12:15,15,277,3,0,0,0,6,264,15,32,0,24,0,0,0,2,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,14th St -- Covington Ct/St / Saint Charles  IL,x,Tue  Apr 12 2016,07:15-08:15,0,151,7,4,0,24,13,167,7,20,1,5,4,4,4,4,0,0,1,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,14th St -- Covington Ct/St / Saint Charles  IL,x,Tue  Apr 12 2016,16:30-17:30,3,282,5,5,2,36,36,245,31,14,2,3,5,0,5,0,0,0,0,0
+misc/PrairieCentre TIS 2017 0103 Rev 1-reduced.txt,14th St -- Covington Ct/St / Saint Charles  IL,x,Sat  Apr 16 2016,11:15-12:15,6,205,5,13,1,32,38,192,11,17,1,4,2,2,1,0,0,0,0,0
 misc/PrinevilleTSP Volume2_WebVersion.pdf0.txt,Lamonta Rd -- Harwood St / Prineville  OR,x,Tue  Apr 10 2012,16:00-17:00,0,0,0,0,150,13,13,0,26,34,209,0,0,0,0,0,0,0,1,0
 misc/PrinevilleTSP Volume2_WebVersion.pdf0.txt,Main St -- 7th St / Prineville  OR,x,Tue  Apr 10 2012,16:20-17:20,0,322,179,178,1,21,46,387,12,12,4,4,1,9,1,4,0,1,0,1
 misc/PrinevilleTSP Volume2_WebVersion.pdf0.txt,Deer St -- US 26 / Prineville  OR,x,Tue  Apr 10 2012,16:15-17:15,37,30,20,33,398,14,41,42,65,29,551,23,7,7,14,4,0,0,0,0
@@ -3867,6 +3944,32 @@ misc/SR-TER_Draft.txt,N Silverbell Rd -- W Goret Rd / Tucson  AZ,x,5/19/2009,07:
 misc/SR-TER_Draft.txt,N Silverbell Rd -- W Goret Rd / Tucson  AZ,x,5/19/2009,16:50-17:50,26,444,0,0,0,5,7,773,134,71,0,18,0,0,0,0,0,0,0,0
 misc/SR-TER_Draft.txt,N Silverbell Rd -- W Grant/Ironwood Hill Rd / Tucson  AZ,x,5/19/2009,07:15-08:15,104,760,321,126,239,177,208,327,98,262,601,172,5,0,1,0,0,0,0,0
 misc/SR-TER_Draft.txt,N Silverbell Rd -- W Grant/Ironwood Hill Rd / Tucson  AZ,x,5/19/2009,16:50-17:50,168,380,183,301,621,270,184,677,276,132,352,199,3,2,1,6,0,0,0,0
+misc/SU-UniversityPlace-TIS-03-27-16.txt,Crouse Dr -- University Pl / Syracuse  NY,x,Tue  Mar 01 2016,07:45-08:45,3,43,37,28,4,45,10,22,0,0,1,0,18,24,29,32,0,0,2,0
+misc/SU-UniversityPlace-TIS-03-27-16.txt,Crouse Dr -- University Pl / Syracuse  NY,x,Tue  Mar 01 2016,16:15-17:15,1,31,35,31,1,18,14,24,0,0,3,2,73,136,98,93,0,0,0,0
+misc/SU-UniversityPlace-TIS-03-27-16.txt,Smith Dr -- University Pl / Syracuse  NY,x,Tue  Mar 01 2016,07:45-08:45,0,0,0,0,66,21,9,0,8,9,42,0,132,24,39,70,0,0,4,0
+misc/SU-UniversityPlace-TIS-03-27-16.txt,Smith Dr -- University Pl / Syracuse  NY,x,Tue  Mar 01 2016,16:45-17:45,0,0,0,0,60,16,26,0,6,5,43,0,541,107,286,433,1,0,0,0
+misc/SU-UniversityPlace-TIS-03-27-16.txt,College Pl -- University Pl / Syracuse  NY,x,Tue  Mar 01 2016,07:30-08:30,0,3,2,6,50,53,20,4,39,23,16,4,344,28,16,152,1,0,2,3
+misc/SU-UniversityPlace-TIS-03-27-16.txt,College Pl -- University Pl / Syracuse  NY,x,Tue  Mar 01 2016,16:45-17:45,3,1,3,2,39,42,20,1,29,20,41,0,495,48,47,208,3,1,0,4
+misc/SU-UniversityPlace-TIS-03-27-16.txt,Comstock Ave -- University Pl / Syracuse  NY,x,Tue  Mar 01 2016,07:45-08:45,17,85,4,20,29,10,8,208,66,12,10,12,136,34,80,67,0,0,4,0
+misc/SU-UniversityPlace-TIS-03-27-16.txt,Comstock Ave -- University Pl / Syracuse  NY,x,Tue  Mar 01 2016,16:45-17:45,10,190,3,28,17,14,15,244,62,23,14,34,405,147,234,149,1,1,2,0
+misc/SU-UniversityPlace-TIS-03-27-16.txt,Comstock Ave -- Waverly Ave / Syracuse  NY,x,Tue  Mar 01 2016,07:45-08:45,0,0,0,32,118,2,0,97,138,99,21,32,19,42,34,63,0,0,0,1
+misc/SU-UniversityPlace-TIS-03-27-16.txt,Comstock Ave -- Waverly Ave / Syracuse  NY,x,Tue  Mar 01 2016,16:45-17:45,0,0,0,11,66,6,6,118,182,195,72,23,84,110,97,174,2,0,0,0
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,N Rodeo Gulch Rd -- Soquel Dr / Soquel  CA,x,Tue  Oct 18 2016,07:35-08:35,73,1,63,47,872,18,24,2,49,32,619,18,4,3,7,2,8,1,21,1
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,N Rodeo Gulch Rd -- Soquel Dr / Soquel  CA,x,Tue  Oct 18 2016,16:55-17:55,47,3,56,75,520,10,15,1,83,41,1143,51,6,1,9,5,26,2,7,4
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,41st Ave -- Soquel Dr / Soquel  CA,x,Tue  Oct 18 2016,07:35-08:35,3,9,0,5,543,135,86,5,608,372,339,1,3,10,10,0,2,0,18,3
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,41st Ave -- Soquel Dr / Soquel  CA,x,Tue  Oct 18 2016,16:55-17:55,5,17,3,5,234,81,153,18,366,504,740,4,0,19,8,0,23,0,11,2
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,Robertson St -- Soquel Dr / Soquel  CA,x,Tue  Oct 18 2016,07:50-08:50,0,0,0,0,641,167,180,0,116,67,390,1,15,13,7,0,5,0,11,1
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,Robertson St -- Soquel Dr / Soquel  CA,x,Tue  Oct 18 2016,16:00-17:00,3,0,0,0,385,209,304,0,72,118,786,1,12,7,0,0,13,0,6,0
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,Daubenbiss Ave -- Soquel Dr / Soquel  CA,x,Tue  Oct 18 2016,07:45-08:45,31,2,6,9,728,12,30,11,35,56,491,28,9,62,3,39,9,0,14,7
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,Daubenbiss Ave -- Soquel Dr / Soquel  CA,x,Tue  Oct 18 2016,16:35-17:35,3,2,8,1,562,15,14,0,4,42,1107,7,13,10,5,2,19,1,8,0
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,Porter St -- Soquel Dr / Soquel  CA,x,Tue  Oct 18 2016,07:45-08:45,317,286,147,261,378,121,29,272,36,53,255,210,3,5,6,2,7,0,11,5
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,Porter St -- Soquel Dr / Soquel  CA,x,Tue  Oct 18 2016,16:40-17:40,247,436,302,124,272,69,141,170,34,95,802,204,1,4,13,6,22,7,15,1
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,41st Ave -- Redwood Shopping Center / Soquel  CA,x,Tue  Oct 18 2016,07:45-08:45,1,490,18,15,3,192,81,670,5,4,1,1,9,2,0,10,0,2,0,5
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,41st Ave -- Redwood Shopping Center / Soquel  CA,x,Tue  Oct 18 2016,16:55-17:55,11,577,21,14,2,279,146,503,14,17,2,9,13,10,0,8,0,2,2,3
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,41st Ave -- Hwy 1 NB Ramps / Soquel  CA,x,Tue  Oct 18 2016,07:45-08:45,166,576,0,428,5,617,374,542,0,0,0,0,0,4,0,4,0,0,0,7
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,41st Ave -- Hwy 1 NB Ramps / Soquel  CA,x,Tue  Oct 18 2016,16:40-17:40,143,750,0,253,0,806,488,522,0,0,0,0,0,9,0,11,0,1,0,5
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,41st Ave -- Hwy 1 SB Ramps / Capitola  CA,x,Tue  Oct 18 2016,07:55-08:55,240,934,0,0,0,0,562,691,0,516,0,218,5,0,0,6,0,1,0,7
+misc/Santa Cruz Nissan Initial Study 161443 Complete.txt,41st Ave -- Hwy 1 SB Ramps / Capitola  CA,x,Tue  Oct 18 2016,16:45-17:45,370,1194,0,0,0,0,935,965,0,60,46,35,13,1,0,11,1,9,0,0
 misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 128 -- Dodd Dr / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,0,97,15,15,0,0,10,255,0,0,0,0,0,0,0,0,0,0,0,0
 misc/Savannah_(Jonathan_downsized_for_website_upload).txt,State Hwy 128 -- Dodd Dr / Savannah  TN,x,Tue  Feb 16 2016,16:15-17:15,0,158,8,2,0,0,6,144,0,0,0,0,0,0,0,0,0,0,0,0
 misc/Savannah_(Jonathan_downsized_for_website_upload).txt,SR-128/Pickwick St S -- Elementary School Drive-Parris Dr / Savannah  TN,x,Tue  Feb 16 2016,07:00-08:00,0,139,2,2,0,0,0,436,0,79,2,275,0,0,0,0,0,0,0,0
